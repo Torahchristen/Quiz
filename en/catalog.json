@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-11-04T18:01:09Z",
+  "lastUpdated": "2026-11-04T18:12:28Z",
   "language": "en",
   "categories": [
     {
@@ -139,6 +139,25 @@
       ],
       "sizeBytes": 219930,
       "downloadUrl": "./en/05_5_mose.json"
+    },
+    {
+      "quizId": "bibel_06_josua_en",
+      "category": "geschichte",
+      "title": "Joshua",
+      "subtitle": "Joshua 1:1 – 24:33 (146 Questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 146,
+      "difficulty": "medium",
+      "tags": [
+        "Joshua",
+        "OT",
+        "history",
+        "KJV"
+      ],
+      "sizeBytes": 129348,
+      "downloadUrl": "./en/06_josua.json"
     }
   ]
 }
