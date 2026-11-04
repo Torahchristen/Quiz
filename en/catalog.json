@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-11-04T21:26:48Z",
+  "lastUpdated": "2026-11-04T21:30:04Z",
   "language": "en",
   "categories": [
     {
@@ -329,6 +329,25 @@
       ],
       "sizeBytes": 27578,
       "downloadUrl": "./en/15_esra.json"
+    },
+    {
+      "quizId": "bibel_16_nehemia_en",
+      "category": "geschichte",
+      "title": "Nehemiah",
+      "subtitle": "Nehemiah 1:1 – 13:31 (39 Questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 39,
+      "difficulty": "medium",
+      "tags": [
+        "Nehemiah",
+        "OT",
+        "history",
+        "KJV"
+      ],
+      "sizeBytes": 35692,
+      "downloadUrl": "./en/16_nehemia.json"
     }
   ]
 }

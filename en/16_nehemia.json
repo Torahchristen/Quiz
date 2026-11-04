@@ -1,0 +1,1193 @@
+{
+  "metadata": {
+    "quizId": "bibel_16_nehemia_en",
+    "title": "Nehemiah",
+    "subtitle": "Nehemiah 1:1 – 13:31 (39 Questions)",
+    "author": "King James Version (1769)",
+    "language": "en",
+    "tags": [
+      "Nehemiah",
+      "OT",
+      "history",
+      "KJV"
+    ],
+    "questionCount": 39,
+    "canonicalBookNumber": 16,
+    "testament": "AT",
+    "category": "geschichte",
+    "version": "2.3.0",
+    "difficulty": "medium"
+  },
+  "questions": [
+    {
+      "questionId": "neh_001",
+      "type": "single_choice",
+      "text": "What report concerning Jerusalem did Hanani bring unto Nehemiah in Shushan the palace?",
+      "options": [
+        {
+          "text": "The wall of Jerusalem is broken down, and the gates are burned with fire",
+          "explanation": ""
+        },
+        {
+          "text": "The king of Persia purposed to destroy the altar of burnt offerings",
+          "explanation": ""
+        },
+        {
+          "text": "The priests in Jerusalem have turned away to worship strange gods",
+          "explanation": ""
+        },
+        {
+          "text": "The armies of the Arabians have laid siege unto the cities of Judah",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Nehemiah 1:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "neh_002",
+      "type": "single_choice",
+      "text": "Unto what word commanded to Moses did Nehemiah appeal in his prayer?",
+      "options": [
+        {
+          "text": "That God would take away all the horses and chariots from the enemies",
+          "explanation": ""
+        },
+        {
+          "text": "If ye turn unto me, and keep my commandments, yet will I gather you",
+          "explanation": ""
+        },
+        {
+          "text": "That no stranger shall ever enter into the gates of the sanctuary",
+          "explanation": ""
+        },
+        {
+          "text": "That the children of Israel should never be brought under tribute",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Nehemiah 1:8-9",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "neh_003",
+      "type": "single_choice",
+      "text": "What office of trust did Nehemiah hold in Shushan the palace?",
+      "options": [
+        {
+          "text": "He was chief captain over the royal garrison in the palace",
+          "explanation": ""
+        },
+        {
+          "text": "He was treasurer over the royal storehouses of the kingdom",
+          "explanation": ""
+        },
+        {
+          "text": "He was the king's cupbearer unto king Artaxerxes in Shushan",
+          "explanation": ""
+        },
+        {
+          "text": "He was chief ambassador unto the governors of the provinces",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Nehemiah 1:11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "neh_004",
+      "type": "single_choice",
+      "text": "What did Nehemiah do when the king said unto him: For what dost thou make request?",
+      "options": [
+        {
+          "text": "He called for his brethren that were come out of the captivity",
+          "explanation": ""
+        },
+        {
+          "text": "He demanded instant letters from the king unto all the governors",
+          "explanation": ""
+        },
+        {
+          "text": "He bowed himself before the throne desiring counsel for one day",
+          "explanation": ""
+        },
+        {
+          "text": "He prayed to the God of heaven before he made answer to the king",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Nehemiah 2:4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "neh_005",
+      "type": "single_choice",
+      "text": "How did Nehemiah view the broken walls of Jerusalem after he arrived?",
+      "options": [
+        {
+          "text": "Secretly by night upon a beast with a few men, telling no man of it",
+          "explanation": ""
+        },
+        {
+          "text": "With a company of armed horsemen by day in presence of the rulers",
+          "explanation": ""
+        },
+        {
+          "text": "He went up to the tower of Hananeel looking down upon the ruins",
+          "explanation": ""
+        },
+        {
+          "text": "He sent out strange spies from Samaria to bring him word thereof",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Nehemiah 2:12-16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "neh_006",
+      "type": "single_choice",
+      "text": "How did Nehemiah answer the scorn of Sanballat, Tobiah, and Geshem?",
+      "options": [
+        {
+          "text": "We have royal soldiers from the king who shall smite you with sword",
+          "explanation": ""
+        },
+        {
+          "text": "The God of heaven, he will prosper us; therefore we his servants will arise",
+          "explanation": ""
+        },
+        {
+          "text": "We will give you tribute of silver if ye suffer us to build in peace",
+          "explanation": ""
+        },
+        {
+          "text": "King Artaxerxes will send his mighty captains to carry you captive",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Nehemiah 2:20",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "neh_007",
+      "type": "single_choice",
+      "text": "Who rose up and builded the sheep gate of the city of Jerusalem?",
+      "options": [
+        {
+          "text": "The goldsmiths and apothecaries of the city of Jerusalem",
+          "explanation": ""
+        },
+        {
+          "text": "The rulers of the half part of the province with servants",
+          "explanation": ""
+        },
+        {
+          "text": "Eliashib the high priest with his brethren the priests",
+          "explanation": ""
+        },
+        {
+          "text": "The men of Jericho together with the rulers of Mizpah",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Nehemiah 3:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "neh_008",
+      "type": "single_choice",
+      "text": "Which company refused haughtily to put their necks to the work of the LORD?",
+      "options": [
+        {
+          "text": "The merchants who would not leave their wares in the streets",
+          "explanation": ""
+        },
+        {
+          "text": "The men of war who refused to lay down their spears and shields",
+          "explanation": ""
+        },
+        {
+          "text": "The priests of the sons of Harim who remained within the court",
+          "explanation": ""
+        },
+        {
+          "text": "The nobles of the Tekoites who put not their necks to the work",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Nehemiah 3:5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "neh_009",
+      "type": "single_choice",
+      "text": "What notable order was observed in repairing the wall over against dwellings?",
+      "options": [
+        {
+          "text": "Many repaired the wall every one over against his own house",
+          "explanation": ""
+        },
+        {
+          "text": "The portions of the wall were parted daily by casting of lots",
+          "explanation": ""
+        },
+        {
+          "text": "Only strange hired masons were suffered to set up the stones",
+          "explanation": ""
+        },
+        {
+          "text": "The Levites erected all the gates while people carried away rubbish",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Nehemiah 3:10, 23, 28",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "neh_010",
+      "type": "single_choice",
+      "text": "With what mocking words did Tobiah the Ammonite despise the wall of Jerusalem?",
+      "options": [
+        {
+          "text": "These feeble stones will moulder away at the first winter rain!",
+          "explanation": ""
+        },
+        {
+          "text": "If a fox go up, he shall even break down their stone wall!",
+          "explanation": ""
+        },
+        {
+          "text": "The builders will faint with hunger before they set up the doors!",
+          "explanation": ""
+        },
+        {
+          "text": "A single horse of battle will cast down their weak foundations!",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Nehemiah 4:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "neh_011",
+      "type": "single_choice",
+      "text": "What defence did the builders make when the adversaries conspired to fight against them?",
+      "options": [
+        {
+          "text": "They sent a great sum of silver from the temple to satisfy Sanballat",
+          "explanation": ""
+        },
+        {
+          "text": "They sent swift messengers unto Artaxerxes requiring a band of horsemen",
+          "explanation": ""
+        },
+        {
+          "text": "They made prayer unto their God, and set a watch against them day and night",
+          "explanation": ""
+        },
+        {
+          "text": "They commanded all the people to leave the building and hide themselves",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Nehemiah 4:9",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "neh_012",
+      "type": "single_choice",
+      "text": "How did they which laded and they that bare burdens labour under the threat of war?",
+      "options": [
+        {
+          "text": "They laboured only by night under the thick shadow of darkness",
+          "explanation": ""
+        },
+        {
+          "text": "They made great palisades of timber behind which they wrought",
+          "explanation": ""
+        },
+        {
+          "text": "They suffered only the mighty men to build, while women watched",
+          "explanation": ""
+        },
+        {
+          "text": "With one of his hands he wrought, and with the other held a weapon",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Nehemiah 4:17",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "neh_013",
+      "type": "single_choice",
+      "text": "What great cry of the poor people and their wives came before Nehemiah?",
+      "options": [
+        {
+          "text": "They mortgaged lands and brought children into bondage for corn",
+          "explanation": ""
+        },
+        {
+          "text": "The priests refused to offer sacrifice for them without money",
+          "explanation": ""
+        },
+        {
+          "text": "Men of Tyre took away their cattle out of the pastures by force",
+          "explanation": ""
+        },
+        {
+          "text": "The governor of the province had seized their vineyards for king",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Nehemiah 5:1-5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "neh_014",
+      "type": "single_choice",
+      "text": "With what symbolic act did Nehemiah confirm the oath against the usurers?",
+      "options": [
+        {
+          "text": "He brake an earthen pot in pieces before all the congregation",
+          "explanation": ""
+        },
+        {
+          "text": "He shook his lap: So God shake out every man from his house",
+          "explanation": ""
+        },
+        {
+          "text": "He cast their bills of debt into the burning fire of the altar",
+          "explanation": ""
+        },
+        {
+          "text": "He caused the extortioners to be bound thirty days at the gate",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Nehemiah 5:13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "neh_015",
+      "type": "single_choice",
+      "text": "What self-denial did Nehemiah show during his twelve years of government?",
+      "options": [
+        {
+          "text": "He did eat only coarse barley bread and drank water of the brook",
+          "explanation": ""
+        },
+        {
+          "text": "He sold all his garments and lay upon the dust in the court",
+          "explanation": ""
+        },
+        {
+          "text": "He required not the bread of the governor, nor bought any land",
+          "explanation": ""
+        },
+        {
+          "text": "He walked without armed guards among the people day and night",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Nehemiah 5:14-18",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "neh_016",
+      "type": "single_choice",
+      "text": "What answer sent Nehemiah when Sanballat sent to meet him in the plain of Ono?",
+      "options": [
+        {
+          "text": "I will come with an hundred soldiers to treat with thee of peace",
+          "explanation": ""
+        },
+        {
+          "text": "Send thy terms in writing unto the sheep gate of the holy city",
+          "explanation": ""
+        },
+        {
+          "text": "The king of Persia hath forbidden me all converse with strangers",
+          "explanation": ""
+        },
+        {
+          "text": "I am doing a great work, so that I cannot come down: why cease?",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Nehemiah 6:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "neh_017",
+      "type": "single_choice",
+      "text": "What answered Nehemiah when Shemaiah counselled him to shut himself in the temple?",
+      "options": [
+        {
+          "text": "Should such a man as I flee? I will not go into the temple!",
+          "explanation": ""
+        },
+        {
+          "text": "I have not the garments of the priests to stand in the house",
+          "explanation": ""
+        },
+        {
+          "text": "The doors of the sanctuary are too weak against the enemies",
+          "explanation": ""
+        },
+        {
+          "text": "The high priest hath forbidden me to enter into the holy place",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Nehemiah 6:11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "neh_018",
+      "type": "single_choice",
+      "text": "In how many days was the wall of Jerusalem finished by the builders?",
+      "options": [
+        {
+          "text": "In forty days upon the first day of the seventh month of the year",
+          "explanation": ""
+        },
+        {
+          "text": "In fifty and two days, in the twenty and fifth day of the month Elul",
+          "explanation": ""
+        },
+        {
+          "text": "In seven weeks until the coming of the royal letters from Shushan",
+          "explanation": ""
+        },
+        {
+          "text": "In an hundred and twenty days before the feast of the passover",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Nehemiah 6:15",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "neh_019",
+      "type": "single_choice",
+      "text": "Whom did Nehemiah put in charge over Jerusalem, and for what reason?",
+      "options": [
+        {
+          "text": "His nephew Bilshan because he had great riches and many friends",
+          "explanation": ""
+        },
+        {
+          "text": "The rulers of Samaria to maintain peace with neighbouring lands",
+          "explanation": ""
+        },
+        {
+          "text": "Hananiah the ruler of the palace: for he was a faithful man, fearing God",
+          "explanation": ""
+        },
+        {
+          "text": "Eliashib the priest, that the law might govern all the affairs",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Nehemiah 7:2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "neh_020",
+      "type": "single_choice",
+      "text": "What condition was in the city of Jerusalem when the wall was builded?",
+      "options": [
+        {
+          "text": "There was no fountain of water, for all wells were stopped up",
+          "explanation": ""
+        },
+        {
+          "text": "The walls were too low to defend the people against ladders of war",
+          "explanation": ""
+        },
+        {
+          "text": "There was great lack of bread and cattle, so that people fainted",
+          "explanation": ""
+        },
+        {
+          "text": "The city was large and great: but the people were few, houses not builded",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Nehemiah 7:4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "neh_021",
+      "type": "single_choice",
+      "text": "What did Nehemiah when God put into his heart to number the congregation?",
+      "options": [
+        {
+          "text": "He gathered nobles, rulers, and people, that they might be reckoned",
+          "explanation": ""
+        },
+        {
+          "text": "He commanded all the people to depart from the city unto fields",
+          "explanation": ""
+        },
+        {
+          "text": "He gathered a heavy tribute upon every household to pay debt",
+          "explanation": ""
+        },
+        {
+          "text": "He numbered the men of war to go forth to battle with Sanballat",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Nehemiah 7:5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "neh_022",
+      "type": "single_choice",
+      "text": "How did all the people answer when Ezra opened the book of the law in their sight?",
+      "options": [
+        {
+          "text": "They cried aloud for a sign from heaven to confirm the words",
+          "explanation": ""
+        },
+        {
+          "text": "All the people stood up, answered 'Amen, Amen', and bowed heads",
+          "explanation": ""
+        },
+        {
+          "text": "They held their peace in great fear and departed out of the place",
+          "explanation": ""
+        },
+        {
+          "text": "The rulers murmured aloud against the strict statutes of the law",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Nehemiah 8:5-6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "neh_023",
+      "type": "single_choice",
+      "text": "What did the Levites do as Ezra read out of the book in the law of God?",
+      "options": [
+        {
+          "text": "They collected the tithes and gifts of silver from the people",
+          "explanation": ""
+        },
+        {
+          "text": "They wrote the names of all the families upon rolls of skin",
+          "explanation": ""
+        },
+        {
+          "text": "They read distinctly, and gave the sense, and caused to understand",
+          "explanation": ""
+        },
+        {
+          "text": "They sang the songs of David with psalteries between chapters",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Nehemiah 8:8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "neh_024",
+      "type": "single_choice",
+      "text": "With what comfortable words were the weeping people comforted at the law?",
+      "options": [
+        {
+          "text": "Weep not, for all your adversaries are fled into the desert!",
+          "explanation": ""
+        },
+        {
+          "text": "The LORD will make you rich and honourable above all heathen!",
+          "explanation": ""
+        },
+        {
+          "text": "The fenced walls stand sure and no enemy shall prevail today!",
+          "explanation": ""
+        },
+        {
+          "text": "Mourn not, nor weep; for the joy of the LORD is your strength!",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Nehemiah 8:10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "neh_025",
+      "type": "single_choice",
+      "text": "In what manner were the children of Israel assembled in the twenty and fourth day?",
+      "options": [
+        {
+          "text": "With fasting, and with sackclothes, and earth upon them in prayer",
+          "explanation": ""
+        },
+        {
+          "text": "In beautiful garments of linen with harps and joyous dancing",
+          "explanation": ""
+        },
+        {
+          "text": "In harness of war with drawn swords before the holy sanctuary",
+          "explanation": ""
+        },
+        {
+          "text": "In solemn silence standing round about the ark upon mount Zion",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Nehemiah 9:1-2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "neh_026",
+      "type": "single_choice",
+      "text": "What gracious nature of God is praised in the solemn prayer of the Levites?",
+      "options": [
+        {
+          "text": "That He consumeth the ungodly nations immediately in His wrath",
+          "explanation": ""
+        },
+        {
+          "text": "Thou art a God ready to pardon, gracious and merciful, of great kindness",
+          "explanation": ""
+        },
+        {
+          "text": "That He regardeth only the burnt offerings of oxen and lambs",
+          "explanation": ""
+        },
+        {
+          "text": "That He taketh away the golden crowns from the princes of earth",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Nehemiah 9:17, 31",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "neh_027",
+      "type": "single_choice",
+      "text": "How did the Levites describe the present condition of the people under Persia?",
+      "options": [
+        {
+          "text": "Behold, we are increased in riches and dominion above our fathers",
+          "explanation": ""
+        },
+        {
+          "text": "The LORD hath utterly forsaken His heritage unto the heathen",
+          "explanation": ""
+        },
+        {
+          "text": "Behold, we are servants this day in the land that thou gavest us",
+          "explanation": ""
+        },
+        {
+          "text": "We dwell in glorious liberty owing no tribute unto any monarch",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Nehemiah 9:36-37",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "neh_028",
+      "type": "single_choice",
+      "text": "What solemn covenant did the people make concerning the holy sabbath day?",
+      "options": [
+        {
+          "text": "Never to drink wine nor eat flesh within the gates of the city",
+          "explanation": ""
+        },
+        {
+          "text": "To break all trade with strange merchants upon the great sea",
+          "explanation": ""
+        },
+        {
+          "text": "To withhold all royal tribute from the king of Persia in Shushan",
+          "explanation": ""
+        },
+        {
+          "text": "If the people of the land bring ware on sabbath, not to buy it",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Nehemiah 10:31",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "neh_029",
+      "type": "single_choice",
+      "text": "With what solemn vow did the people conclude their covenant for the sanctuary?",
+      "options": [
+        {
+          "text": "And we will not forsake the house of our God!",
+          "explanation": ""
+        },
+        {
+          "text": "We will overlay the chambers of the temple with gold of Ophir!",
+          "explanation": ""
+        },
+        {
+          "text": "No uncircumcised stranger shall ever pass the threshold of house!",
+          "explanation": ""
+        },
+        {
+          "text": "We vow to offer a thousand sheep for a daily burnt offering!",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Nehemiah 10:39",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "neh_030",
+      "type": "single_choice",
+      "text": "What ordinance did the people make to charge themselves yearly for the temple?",
+      "options": [
+        {
+          "text": "A whole shekel of gold from every man of war in the province",
+          "explanation": ""
+        },
+        {
+          "text": "The third part of a shekel for the service of the house of God",
+          "explanation": ""
+        },
+        {
+          "text": "A tenth of all the corn for the table of the Persian governor",
+          "explanation": ""
+        },
+        {
+          "text": "Two fat rams out of every household for the solemn passover",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Nehemiah 10:32",
+      "explanation": "The congregation charged themselves yearly with the third part of a shekel (approx. 3.8 g of silver) for the temple service [ref:Nehemiah 10:32].",
+      "explanationReviewed": true,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "neh_031",
+      "type": "single_choice",
+      "text": "How was it determined who should dwell in Jerusalem, the holy city?",
+      "options": [
+        {
+          "text": "They chose only the wealthiest households with their servants",
+          "explanation": ""
+        },
+        {
+          "text": "Volunteers out of the tribe of Levi were alone compelled",
+          "explanation": ""
+        },
+        {
+          "text": "They cast lots, to bring one of ten to dwell in Jerusalem",
+          "explanation": ""
+        },
+        {
+          "text": "King Artaxerxes appointed the dwellers by an imperial decree",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Nehemiah 11:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "neh_032",
+      "type": "single_choice",
+      "text": "What honour was given unto those that offered themselves to dwell at Jerusalem?",
+      "options": [
+        {
+          "text": "They received a double portion of land throughout all Judah",
+          "explanation": ""
+        },
+        {
+          "text": "The people blessed all the men, that willingly offered themselves",
+          "explanation": ""
+        },
+        {
+          "text": "They were released for ever from all tribute and royal service",
+          "explanation": ""
+        },
+        {
+          "text": "They received crowns of gold from the governor of the palace",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Nehemiah 11:2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "neh_033",
+      "type": "single_choice",
+      "text": "What sacred title is given unto the city of Jerusalem in the eleventh chapter?",
+      "options": [
+        {
+          "text": "The strong fortress of the south against all enemies",
+          "explanation": ""
+        },
+        {
+          "text": "The glorious crown of kingdoms bordering wilderness",
+          "explanation": ""
+        },
+        {
+          "text": "The refuge of all princes of the realms of Persia",
+          "explanation": ""
+        },
+        {
+          "text": "The holy city unto the LORD God of the covenant",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Nehemiah 11:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "neh_034",
+      "type": "single_choice",
+      "text": "How was the dedication of the wall of Jerusalem celebrated with gladness?",
+      "options": [
+        {
+          "text": "Two great companies of them that gave thanks went upon the wall",
+          "explanation": ""
+        },
+        {
+          "text": "They burned ten thousand censers of incense upon the corner towers",
+          "explanation": ""
+        },
+        {
+          "text": "All the gates remained shut seven days for a solemn fast of soul",
+          "explanation": ""
+        },
+        {
+          "text": "The men of war made a tournament of battle upon the battlements",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Nehemiah 12:31-40",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "neh_035",
+      "type": "single_choice",
+      "text": "How great was the joy of the dedication of the wall of Jerusalem?",
+      "options": [
+        {
+          "text": "It was heard only within the narrow courts of the sanctuary",
+          "explanation": ""
+        },
+        {
+          "text": "The joy of Jerusalem was heard even afar off round about",
+          "explanation": ""
+        },
+        {
+          "text": "Unto the palace of Shushan in the far country of Persia",
+          "explanation": ""
+        },
+        {
+          "text": "Unto the river Euphrates and the ancient gates of Babylon",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Nehemiah 12:43",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "neh_036",
+      "type": "single_choice",
+      "text": "Who went before the first company of them that gave thanks upon the wall?",
+      "options": [
+        {
+          "text": "Royal heralds with silver trumpets from the palace",
+          "explanation": ""
+        },
+        {
+          "text": "The valiant men of war bearing the shields of gold",
+          "explanation": ""
+        },
+        {
+          "text": "Ezra the scribe went before them with the singers",
+          "explanation": ""
+        },
+        {
+          "text": "Eliashib the high priest with the golden vessels",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Nehemiah 12:36",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "neh_037",
+      "type": "single_choice",
+      "text": "What evil did Nehemiah discover in the house of God when he came to Jerusalem?",
+      "options": [
+        {
+          "text": "They had used the brazen altar for strange drink offerings",
+          "explanation": ""
+        },
+        {
+          "text": "The Levites had sold the timber of the sanctuary to merchants",
+          "explanation": ""
+        },
+        {
+          "text": "Goldsmiths were melting down the sacred bowls for trade",
+          "explanation": ""
+        },
+        {
+          "text": "Eliashib had prepared for Tobiah a great chamber in court",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Nehemiah 13:4-7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "neh_038",
+      "type": "single_choice",
+      "text": "How did Nehemiah cleanse the chamber that had been prepared for Tobiah?",
+      "options": [
+        {
+          "text": "He cast forth all the household stuff of Tobiah out of chamber",
+          "explanation": ""
+        },
+        {
+          "text": "He treated with Tobiah for an annual rent of the chamber",
+          "explanation": ""
+        },
+        {
+          "text": "He caused Eliashib the priest to be put to death at the gate",
+          "explanation": ""
+        },
+        {
+          "text": "He builded up the door thereof with stones that none enter",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Nehemiah 13:8-9",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "neh_039",
+      "type": "single_choice",
+      "text": "With what prayer does Nehemiah conclude the record of his book?",
+      "options": [
+        {
+          "text": "O LORD, consume all the heathen nations in thy wrath!",
+          "explanation": ""
+        },
+        {
+          "text": "Remember me, O my God, for good according to mercy!",
+          "explanation": ""
+        },
+        {
+          "text": "May the walls of Jerusalem stand strong for evermore!",
+          "explanation": ""
+        },
+        {
+          "text": "Behold, all my work is finished before thine eyes!",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Nehemiah 13:31",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    }
+  ]
+}
