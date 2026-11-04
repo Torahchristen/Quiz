@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-11-04T20:56:07Z",
+  "lastUpdated": "2026-11-04T21:09:38Z",
   "language": "en",
   "categories": [
     {
@@ -272,6 +272,25 @@
       ],
       "sizeBytes": 69074,
       "downloadUrl": "./en/12_2_koenige.json"
+    },
+    {
+      "quizId": "bibel_13_1_chronik_en",
+      "category": "geschichte",
+      "title": "1 Chronicles",
+      "subtitle": "1 Chronicles 1:1 – 29:30 (85 Questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 85,
+      "difficulty": "medium",
+      "tags": [
+        "1 Chronicles",
+        "OT",
+        "history",
+        "KJV"
+      ],
+      "sizeBytes": 72411,
+      "downloadUrl": "./en/13_1_chronik.json"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "branch": "review-and-english",
   "totalFiles": 66,
-  "completedCount": 12,
+  "completedCount": 13,
   "completedFiles": [
     "01_1_mose.json",
     "02_2_mose.json",
@@ -14,10 +14,10 @@
     "09_1_samuel.json",
     "10_2_samuel.json",
     "11_1_koenige.json",
-    "12_2_koenige.json"
+    "12_2_koenige.json",
+    "13_1_chronik.json"
   ],
   "pendingFiles": [
-    "13_1_chronik.json",
     "14_2_chronik.json",
     "15_esra.json",
     "16_nehemia.json",
@@ -156,6 +156,13 @@
       "explanationsReviewedEn": 2,
       "reportPath": "reports/12_2_koenige.md",
       "enPath": "en/12_2_koenige.json"
+    },
+    "13_1_chronik.json": {
+      "questionsCount": 85,
+      "explanationsReviewedDe": 3,
+      "explanationsReviewedEn": 3,
+      "reportPath": "reports/13_1_chronik.md",
+      "enPath": "en/13_1_chronik.json"
     }
   }
 }

@@ -21,150 +21,150 @@
     {
       "questionId": "1chr_001",
       "type": "single_choice",
-      "text": "Mit welchem Urvater der Menschheit beginnt das erste Geschlechtsregister in der Chronik?",
+      "text": "Mit welchem Namen beginnt das erste Geschlechtsregister in der Chronik?",
       "options": [
         {
           "text": "Mit Noah, dem Retter während der Sintflut",
-          "explanation": "Adam wird als allererstes Name im Stammbaum genannt [ref:1. Chronik 1:1]."
+          "explanation": ""
         },
         {
-          "text": "Mit Adam am Anfang der Schöpfung Gottes",
-          "explanation": "Die Geschlechtslinie beginnt mit dem ersten Menschen [ref:1. Chronik 1:1]."
+          "text": "Mit Adam am Anfang der Schöpfung",
+          "explanation": ""
         },
         {
-          "text": "Mit Abraham, dem Stammvater des Volkes Israel",
-          "explanation": "Der Stammbaum reicht bis zu Adam zurück [ref:1. Chronik 1:1]."
+          "text": "Mit Abraham, dem Vater des Volkes",
+          "explanation": ""
         },
         {
           "text": "Mit Sem, dem erstgeborenen Sohn Noahs",
-          "explanation": "Die Chronik eröffnet das Register mit Adam [ref:1. Chronik 1:1]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "1. Chronik 1:1",
-      "explanation": "Das erste Buch der Chronik beginnt seine umfassende Geschlechtstafel der Menschheit direkt mit Adam [ref:1. Chronik 1:1].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "1chr_002",
       "type": "single_choice",
-      "text": "Wie viele Söhne Isais zählt das Geschlechtsregister in 1. Chronik 2 auf?",
+      "text": "Wie viele Söhne Isais zählt das Geschlechtsregister in 1. Chronik 2:13-15 auf?",
       "options": [
         {
-          "text": "Genau fünf Söhne",
-          "explanation": "Das Register nennt sieben Söhne Isais [ref:1. Chronik 2:13-15]."
+          "text": "Genau fünf Söhne Isais",
+          "explanation": ""
         },
         {
-          "text": "Genau acht Söhne, wie im ersten Samuelbuch",
-          "explanation": "Das Register der Chronik führt nur sieben Söhne namentlich auf [ref:1. Chronik 2:13-15]."
+          "text": "Genau acht Söhne Isais",
+          "explanation": ""
         },
         {
-          "text": "Genau sieben Söhne",
-          "explanation": "David war der siebente Sohn Isais [ref:1. Chronik 2:13-15]."
+          "text": "Genau sieben Söhne Isais",
+          "explanation": ""
         },
         {
-          "text": "Genau zwölf Söhne, entsprechend den Stämmen",
-          "explanation": "Isai zeugte nach diesem Register sieben Söhne [ref:1. Chronik 2:13-15]."
+          "text": "Genau zwölf Söhne Isais",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "1. Chronik 2:13-15",
-      "explanation": "Im Geschlechtsregister der Chronik werden die Söhne Isais von Eliab bis zu David als dem siebenten aufgezählt [ref:1. Chronik 2:13-15].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "1chr_003",
       "type": "single_choice",
-      "text": "Wo wurden König David seine ersten sechs Söhne vor der Eroberung Jerusalems geboren?",
+      "text": "Wo wurden David seine ersten sechs Söhne vor der Herrschaft in Jerusalem geboren?",
       "options": [
         {
-          "text": "In der Priesterstadt Nob nahe den Hügeln",
-          "explanation": "Seine ersten sechs Söhne wurden in Hebron geboren [ref:1. Chronik 3:1-4]."
+          "text": "In der Priesterstadt Nob nahe den Bergen",
+          "explanation": ""
         },
         {
           "text": "In der Stadt Bethlehem im Lande Juda",
-          "explanation": "Hebron war der Geburtsort der ersten sechs Söhne [ref:1. Chronik 3:1-4]."
+          "explanation": ""
         },
         {
           "text": "In der Festung Ziklag im Land der Philister",
-          "explanation": "Die Söhne wurden während der Hebron-Zeit geboren [ref:1. Chronik 3:1-4]."
+          "explanation": ""
         },
         {
           "text": "In der judäischen Stadt Hebron auf den Bergen",
-          "explanation": "Wo er siebeneinhalb Jahre regierte [ref:1. Chronik 3:1-4]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "1. Chronik 3:1-4",
-      "explanation": "David wurden in Hebron sechs Söhne geboren, darunter Amnon, Daniel, Absalom und Adonija [ref:1. Chronik 3:1-4].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "1chr_004",
       "type": "single_choice",
-      "text": "Welches besondere Gebet sprach Jabez im Geschlechtsregister des Stammes Juda aus?",
+      "text": "Welches besondere Gebet sprach Jaebez in 1. Chronik 4:10 zum Gott Israels?",
       "options": [
         {
-          "text": "Gott möge seinen Bereich segnen und erweitern",
-          "explanation": "Und Seine Hand möge ihn vor Übel bewahren [ref:1. Chronik 4:9-10]."
+          "text": "Dass Gott ihn segne und seine Grenze mehre",
+          "explanation": ""
         },
         {
-          "text": "Er bat um den Sieg über die Philister",
-          "explanation": "Er bat um Gottes Segen und Erweiterung seines Gebietes [ref:1. Chronik 4:9-10]."
+          "text": "Dass Gott ihm Sieg über alle Feinde gebe",
+          "explanation": ""
         },
         {
-          "text": "Er erbat Weisheit zum Richten des Volkes",
-          "explanation": "Gott erhörte sein Gebet um Schutz und Bereich [ref:1. Chronik 4:10]."
+          "text": "Dass Gott ihm Weisheit zum Richten schenke",
+          "explanation": ""
         },
         {
-          "text": "Er bat um ein langes Leben auf der Erde",
-          "explanation": "Jabez bat um Bewahrung vor Schmerz und Not [ref:1. Chronik 4:9-10]."
+          "text": "Dass Gott ihm ein langes Leben gewähre",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "1. Chronik 4:9-10",
-      "explanation": "Jabez war geehrter als seine Brüder und betete zu Gott um Segen, Gebietserweiterung und Bewahrung vor Übel, was Gott ihm gewährte [ref:1. Chronik 4:9-10].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "1chr_005",
       "type": "single_choice",
-      "text": "Warum ging das Erstgeburtsrecht des erstgeborenen Sohnes Rubens an die Söhne Josephs über?",
+      "text": "Warum ging das Erstgeburtsrecht des ersten Sohnes Rubens an die Kinder Josephs über?",
       "options": [
         {
           "text": "Weil Ruben das Gold der Beute verheimlichte",
-          "explanation": "Weil er das Lager seines Vaters entweihte [ref:1. Chronik 5:1-2]."
+          "explanation": ""
         },
         {
-          "text": "Weil er das Lager seines Vaters entweiht hatte",
-          "explanation": "Daher wurde sein Erstgeburtsrecht Joseph verliehen [ref:1. Chronik 5:1-2]."
+          "text": "Weil er das Bett seines Vaters entweiht hatte",
+          "explanation": ""
         },
         {
-          "text": "Weil er im Kampfe gegen die Feinde floh",
-          "explanation": "Die Entweihung des Lagers entzog ihm das Recht [ref:1. Chronik 5:1]."
+          "text": "Weil er im Kampfe vor den Feinden floh",
+          "explanation": ""
         },
         {
-          "text": "Weil die Ältesten des Stammes es so beschlossen",
-          "explanation": "Josephs Söhne erhielten den doppelten Erbteil [ref:1. Chronik 5:1-2]."
+          "text": "Weil die Ältesten der Stämme es so beschlossen",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "1. Chronik 5:1-2",
-      "explanation": "Ruben war zwar der Erstgeborene, doch weil er das Lager seines Vaters entweihte, wurde sein Erstgeburtsrecht den Söhnen Josephs gegeben [ref:1. Chronik 5:1-2].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -175,86 +175,86 @@
       "options": [
         {
           "text": "Zadok der Priester aus dem Geschlecht Eleasars",
-          "explanation": "Heman der Sänger stand mit den Brüdern im Dienst [ref:1. Chronik 6:31-33]."
+          "explanation": ""
         },
         {
           "text": "Abjathar der Priestersohn aus der Stadt Nob",
-          "explanation": "Heman leitete den levitischen Gesangsdienst [ref:1. Chronik 6:33-48]."
+          "explanation": ""
         },
         {
           "text": "Heman der Sänger, der Sohn Joels, des Kehatiters",
-          "explanation": "Zusammen mit Asaph zur Rechten und Ethan zur Linken [ref:1. Chronik 6:31-47]."
+          "explanation": ""
         },
         {
           "text": "Phineas der Enkel Aarons aus dem Heiligtum",
-          "explanation": "Die Leitung des Gesangs oblag Heman [ref:1. Chronik 6:33-48]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "1. Chronik 6:31-47",
-      "explanation": "David bestellte Leviten für den Gesangsdienst am Haus des HERRN; Heman der Kehatiter stand in der Mitte der Sänger [ref:1. Chronik 6:31-47].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "1chr_007",
       "type": "single_choice",
-      "text": "Wer wohnte als Erstes wieder in seinen Besitzungen nach der Rückkehr aus dem babylonischen Exil?",
+      "text": "Wer wohnte zuerst wieder auf seinen Gütern, nachdem Juda gen Babel weggeführt war?",
       "options": [
         {
           "text": "Die königlichen Krieger aus dem Hause Davids",
-          "explanation": "Israeliten, Priester, Leviten und Tempeldiener [ref:1. Chronik 9:1-3]."
+          "explanation": ""
         },
         {
           "text": "Die Ältesten des kleinen Stammes Benjamin",
-          "explanation": "Priester, Leviten und Nethinim kehrten heim [ref:1. Chronik 9:2]."
+          "explanation": ""
         },
         {
-          "text": "Die Händler aus den Tälern der Festung Samaria",
-          "explanation": "Das heiligende Priestertum siedelte zuerst [ref:1. Chronik 9:2-3]."
+          "text": "Die Händler aus den Tälern der Stadt Samaria",
+          "explanation": ""
         },
         {
-          "text": "Israeliten, Priester, Leviten und Nethinim",
-          "explanation": "Sie besetzten als Erste wieder ihre Städte [ref:1. Chronik 9:1-3]."
+          "text": "Israeliten, Priester, Leviten und Tempelknechte",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "1. Chronik 9:1-3",
-      "explanation": "Die ersten Bewohner, die nach dem Exil wieder in ihren Städten wohnten, waren Israeliten, die Priester, die Leviten und die Tempeldiener (Nethinim) [ref:1. Chronik 9:1-3].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "1chr_008",
       "type": "single_choice",
-      "text": "Welcher geistliche Grund wird am Ende von Kapitel 10 für den plötzlichen Tod König Sauls genannt?",
+      "text": "Welcher geistliche Grund wird am Ende von Kapitel 10 für den Tod König Sauls genannt?",
       "options": [
         {
-          "text": "Weil er treulos handelte und die Wahrsagerin befragte",
-          "explanation": "Anstatt den HERRN um Auskunft zu suchen [ref:1. Chronik 10:13-14]."
+          "text": "Weil er treulos war und die Wahrsagerin fragte",
+          "explanation": ""
         },
         {
-          "text": "Weil er den Tempelbau in Jerusalem verhinderte",
-          "explanation": "Wegen seines Treubruchs und des Befragens der Totenbeschwörerin [ref:1. Chronik 10:13-14]."
+          "text": "Weil er den Bau des Tempels zu Zion verhinderte",
+          "explanation": ""
         },
         {
-          "text": "Weil er das Volk im Kriege gegen Philister verließ",
-          "explanation": "Sein Abfall und Totenkult brachten den Tod [ref:1. Chronik 10:13-14]."
+          "text": "Weil er das Volk vor den Philistern verließ",
+          "explanation": ""
         },
         {
-          "text": "Weil er den Priestern die Opfergaben raubte",
-          "explanation": "Gott tötete ihn wegen seines Ungehorsams [ref:1. Chronik 10:13-14]."
+          "text": "Weil er den Priestern die heiligen Brote raubte",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "1. Chronik 10:13-14",
-      "explanation": "Saul starb wegen seines Treubruchs gegen den HERRN, weil er Gottes Wort nicht hielt und eine Totenbeschwörerin um Rat fragte [ref:1. Chronik 10:13-14].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -264,27 +264,27 @@
       "text": "Welches Versprechen gaben die Ältesten Israels David bei seiner Salbung zum König in Hebron?",
       "options": [
         {
-          "text": "Sie versprachen ihm zehntausend Silberlinge",
-          "explanation": "Du wirst mein Volk weiden und Fürst über Israel sein [ref:1. Chronik 11:1-3]."
+          "text": "Sie versprachen zehntausend Silberlinge",
+          "explanation": ""
         },
         {
-          "text": "Wir sind dein Gebein und dein Fleisch",
-          "explanation": "Du wirst das Volk führen nach dem Wort Gottes [ref:1. Chronik 11:1-3]."
+          "text": "Siehe, wir sind dein Bein und dein Fleisch",
+          "explanation": ""
         },
         {
-          "text": "Sie versprachen den Bau eines mächtigen Palastes",
-          "explanation": "Sie bekannten die Blutverwandtschaft mit David [ref:1. Chronik 11:1-3]."
+          "text": "Sie verhießen den Bau eines Zedernpalasts",
+          "explanation": ""
         },
         {
-          "text": "Sie forderten die Beseitigung aller Abgaben",
-          "explanation": "Die Ältesten erkannten Gottes Erwählung an [ref:1. Chronik 11:2-3]."
+          "text": "Sie forderten den Erlass aller Abgaben",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "1. Chronik 11:1-3",
-      "explanation": "Ganz Israel versammelte sich zu David nach Hebron und salbte ihn zum König nach dem Wort des HERRN durch Samuel [ref:1. Chronik 11:1-3].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -294,27 +294,27 @@
       "text": "Welches Wagnis vollbrachte Joab, um das Amt des obersten Feldhauptmanns Jerusalems zu erlangen?",
       "options": [
         {
-          "text": "Er tötete den Riesen Goliath im Eichengrund",
-          "explanation": "Er erstieg als Erster die Burg Zion bei Jebus [ref:1. Chronik 11:4-6]."
+          "text": "Er erschlug den gewaltigen Riesen von Gath",
+          "explanation": ""
         },
         {
           "text": "Er schlug die Heere der Philister zu Gibeon",
-          "explanation": "Das Erstiegen der Festung brachte den Rang [ref:1. Chronik 11:6]."
+          "explanation": ""
         },
         {
-          "text": "Er stieg als Erster hinauf zur Jebusiterfestung",
-          "explanation": "Woraufhin er das Hauptmannsamt erhielt [ref:1. Chronik 11:4-6]."
+          "text": "Er erstieg als erster die Veste der Jebusiter",
+          "explanation": ""
         },
         {
-          "text": "Er fällte die Stadtmauer mit eisernen Rammen",
-          "explanation": "Joab sicherte sich die Führung durch Mut [ref:1. Chronik 11:6]."
+          "text": "Er durchbrach die Mauern der Stadt mit Rammen",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "1. Chronik 11:4-6",
-      "explanation": "David sprach: Wer die Jebusiter zuerst schlägt, soll Hauptmann sein! Joab stieg zuerst hinauf und wurde Feldhauptmann [ref:1. Chronik 11:4-6].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -324,117 +324,117 @@
       "text": "Was tat David mit dem Wasser aus dem Brunnen zu Bethlehem, das seine drei Helden holten?",
       "options": [
         {
-          "text": "Er trank es gierig vor seinen Kriegern aus einem Becher",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er wollte es nicht trinken, sondern goss es dem HERRN aus [ref:1. Chronik 11:17-19]."
+          "text": "Er trank es mit Freuden vor seinen Kriegern im Feldlager",
+          "explanation": ""
         },
         {
-          "text": "Er wusch sich damit das Angesicht im Zelt der Helden",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er wollte es nicht trinken, sondern goss es dem HERRN aus [ref:1. Chronik 11:17-19]."
+          "text": "Er wusch sich damit das Angesicht im Zelte der Helden",
+          "explanation": ""
         },
         {
-          "text": "Er reichte es den Priestern für den Dienst im Heiligtum",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er wollte es nicht trinken, sondern goss es dem HERRN aus [ref:1. Chronik 11:17-19]."
+          "text": "Er gab es den Priestern für das Brandopfer am Heiligtum",
+          "explanation": ""
         },
         {
           "text": "Er wollte es nicht trinken, sondern goss es dem HERRN aus",
-          "explanation": "Weil es das Blut der Männer war, die ihr Leben wagten [ref:1. Chronik 11:17-19]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "1. Chronik 11:17-19",
-      "explanation": "Drei Helden brachen durch das Lager der Philister und holten Wasser aus dem Brunnen von Bethlehem; David aber goss es als Trankopfer aus [ref:1. Chronik 11:17-19].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "1chr_012",
       "type": "single_choice",
-      "text": "Welche besondere Fähigkeit zeichnete die Krieger aus dem Stamme Benjamin aus, die zu David stießen?",
+      "text": "Welche besondere Fähigkeit zeichnete die Krieger aus Benjamin aus, die zu David stießen?",
       "options": [
         {
-          "text": "Sie konnten mit der Rechten und Linken Steine und Pfeile schnellen",
-          "explanation": "Bogenschützen mit beidhändiger Gewandtheit [ref:1. Chronik 12:1-2]."
+          "text": "Geschickt mit beiden Händen, auf Steine und Pfeile mit dem Bogen",
+          "explanation": ""
         },
         {
           "text": "Sie führten schwere eiserne Kriegsflegel mit beiden Armen im Kampf",
-          "explanation": "Sie schossen Steine und Pfeile mit links und rechts [ref:1. Chronik 12:1-2]."
+          "explanation": ""
         },
         {
-          "text": "Sie kannten alle verborgenen Höhlenwege und Schluchten im Bergland",
-          "explanation": "Die Beidhändigkeit machte sie zu Helden [ref:1. Chronik 12:2]."
+          "text": "Sie kannten alle verborgenen Schluchten und Höhlen im Gebirge",
+          "explanation": ""
         },
         {
-          "text": "Sie trugen undurchdringliche Schilde aus phönizischem Erzmetall",
-          "explanation": "Sie nutzten Bogen und Schleuder beidhändig [ref:1. Chronik 12:2]."
+          "text": "Sie trugen eherne Schilde und unzerbrechliche Lanzen zum Streit",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "1. Chronik 12:1-2",
-      "explanation": "Die Benjaminiten, die zu David nach Ziklag kamen, waren mit dem Bogen gerüstet und konnten mit der Rechten wie mit der Linken Steine schleudern und Pfeile schießen [ref:1. Chronik 12:1-2].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "1chr_013",
       "type": "single_choice",
-      "text": "Welcher Vorfall ereignete sich bei der Dreschtenne Chidons, als die Bundeslade transportiert wurde?",
+      "text": "Welcher Vorfall ereignete sich bei der Dreschtenne Chidons, als die Lade transportiert wurde?",
       "options": [
         {
-          "text": "Die Rinder zerbrachen den hölzernen Wagen",
-          "explanation": "Ussa streckte die Hand aus und starb vor Gott [ref:1. Chronik 13:9-10]."
+          "text": "Die Rinder stürzten und zerbrachen den neuen Wagen",
+          "explanation": ""
         },
         {
-          "text": "Ussa griff nach der Lade, da die Rinder ausglitten",
-          "explanation": "Und der Zorn Gottes schlug ihn vor Ort [ref:1. Chronik 13:9-10]."
+          "text": "Usa reckte die Hand aus, die Lade Gottes zu halten",
+          "explanation": ""
         },
         {
-          "text": "Ein starker Sturm warf die Lade zu Boden",
-          "explanation": "Gottes Heiligkeit entbrannte gegen Ussa [ref:1. Chronik 13:9-10]."
+          "text": "Ein gewaltiger Sturm warf die Lade jäh zu Boden",
+          "explanation": ""
         },
         {
-          "text": "Die Philister überfielen den Festzug der Lade",
-          "explanation": "Das Berühren der Lade forderte das Leben [ref:1. Chronik 13:10]."
+          "text": "Die Feinde überfielen den Festzug auf freiem Felde",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "1. Chronik 13:9-10",
-      "explanation": "Bei der Dreschtenne Chidon griff Ussa nach der Lade, um sie zu halten; da entbrannte der Zorn des HERRN gegen ihn, und Er schlug ihn [ref:1. Chronik 13:9-10].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "1chr_014",
       "type": "single_choice",
-      "text": "Welches göttliche Wunder half David beim Sieg über die Philister bei Gibeon im Bachtal?",
+      "text": "Welches göttliche Zeichen half David beim Sieg über die Philister von Gibeon bis Geser?",
       "options": [
         {
-          "text": "Ein feuriger Regen schlug das feindliche Lager",
-          "explanation": "Gott schritt vor ihm her im Wipfelgeräusch der Bäume [ref:1. Chronik 14:14-16]."
+          "text": "Ein feuriger Regen vom Himmel schlug das feindliche Heer",
+          "explanation": ""
         },
         {
-          "text": "Ein gewaltiges Erdbeben spaltete das Bachtal",
-          "explanation": "Das Geräusch in den Bäumen brachte den Sieg [ref:1. Chronik 14:15]."
+          "text": "Ein gewaltiges Erdbeben spaltete die Erde vor den Zelten",
+          "explanation": ""
         },
         {
-          "text": "Ein Schrittgeräusch in den Wipfeln der Maulbeerbäume",
-          "explanation": "Das anzeigte, dass Gott vor ihnen auszieht [ref:1. Chronik 14:14-16]."
+          "text": "Das Rauschen oben auf den Wipfeln der Maulbeerbäume",
+          "explanation": ""
         },
         {
-          "text": "Eine plötzliche Finsternis ergriff die Philister",
-          "explanation": "Gott ging vor ihnen her in den Wipfeln [ref:1. Chronik 14:14-15]."
+          "text": "Eine dichte Finsternis ergriff die Feinde auf dem Felde",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "1. Chronik 14:14-16",
-      "explanation": "Gott gebot David zu warten, bis er das Geräusch von Schritttritten in den Wipfeln der Maulbeerbäume hörte, worauf David angriff und siegte [ref:1. Chronik 14:14-16].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -444,27 +444,27 @@
       "text": "Wer durfte nach der Anordnung Davids die Bundeslade Gottes tragen?",
       "options": [
         {
-          "text": "Alle kräftigen Krieger aus den Heldenstämmen",
-          "explanation": "Allein die Leviten, denn sie hatte Gott erwählt [ref:1. Chronik 15:2-15]."
+          "text": "Alle streitbaren Helden aus den Kriegsscharen",
+          "explanation": ""
         },
         {
-          "text": "Die Söhne des Königs aus dem Hause Hebron",
-          "explanation": "Die Leviten trugen die Lade vorschriftsmäßig [ref:1. Chronik 15:2]."
+          "text": "Die Söhne des Königs aus dem Palaste zu Hebron",
+          "explanation": ""
         },
         {
-          "text": "Die Ältesten der Stämme mit goldenen Stangen",
-          "explanation": "Gott hatte nur die Leviten dazu erwählt [ref:1. Chronik 15:2-15]."
+          "text": "Die Ältesten der Stämme mit vergoldeten Stangen",
+          "explanation": ""
         },
         {
           "text": "Niemand außer den Leviten auf ihren Schultern",
-          "explanation": "Mit den Tragstangen nach der Vorschrift Moses [ref:1. Chronik 15:2-15]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "1. Chronik 15:2-15",
-      "explanation": "David verordnete, dass niemand die Lade Gottes tragen solle als nur die Leviten, denn sie hatte der HERR erwählt, die Lade zu tragen [ref:1. Chronik 15:2-15].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -474,1317 +474,1317 @@
       "text": "Womit beschenkte David das ganze Volk Israel nach dem Aufstellen der Lade im Zelt?",
       "options": [
         {
-          "text": "Jedem Mann und jeder Frau gab er Brot, Fleisch und Rosinenkuchen aus",
-          "explanation": "Als Zeichen der königlichen Festfreude [ref:1. Chronik 16:1-3]."
+          "text": "Jedermann, Mann und Weib, einen Laib Brot, Fleisch und ein Maß Wein",
+          "explanation": ""
         },
         {
-          "text": "Er schenkte jeder Familie fünf Silberlinge und ein neues Kleid aus dem Heiligtum",
-          "explanation": "Das trifft nicht zu. Richtig ist: Jedem Mann und jeder Frau gab er Brot, Fleisch und Rosinenkuchen aus [ref:1. Chronik 16:1-3]."
+          "text": "Jedem Hause gab er fünf Silberlinge und ein neues gewebtes Kleid",
+          "explanation": ""
         },
         {
-          "text": "Er verteilte unter dem Volk ein Maß feinsten Olivenöls aus den Speichern",
-          "explanation": "Das trifft nicht zu. Richtig ist: Jedem Mann und jeder Frau gab er Brot, Fleisch und Rosinenkuchen aus [ref:1. Chronik 16:1-3]."
+          "text": "Er verteilte unter dem Volk ein Maß feinsten Öls aus den Speichern",
+          "explanation": ""
         },
         {
-          "text": "Er ließ jedem Mann einen Beutel Weizen und ein junges Schaf zukommen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Jedem Mann und jeder Frau gab er Brot, Fleisch und Rosinenkuchen aus [ref:1. Chronik 16:1-3]."
+          "text": "Er ließ jedem Manne einen Scheffel Weizen und ein junges Lamm geben",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "1. Chronik 16:1-3",
-      "explanation": "Nachdem man die Lade im Zelt aufgestellt hatte, teilte David an ganz Israel, Mann wie Frau, je einen Brotkuchen, ein Stück Fleisch und einen Rosinenkuchen aus [ref:1. Chronik 16:1-3].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "1chr_017",
       "type": "single_choice",
-      "text": "Was sagte Gott David durch den Propheten Natan über den Bau des Tempels?",
+      "text": "Was sagte Gott David durch den Propheten Nathan über den Bau des Tempels?",
       "options": [
         {
-          "text": "David solle erst genügend Gold und Zedernholz sammeln",
-          "explanation": "Gott wies David ab; sein Nachkomme sollte bauen [ref:1. Chronik 17:4-12]."
+          "text": "David solle erst genügend Gold und Holz sammeln",
+          "explanation": ""
         },
         {
-          "text": "Nicht David, sondern sein Nachkomme werde das Haus bauen",
-          "explanation": "Gott verhieß David einen Sohn, der den Tempel bauen würde [ref:1. Chronik 17:11-12]."
+          "text": "Nicht David, sondern sein Sohn werde das Haus bauen",
+          "explanation": ""
         },
         {
-          "text": "Der Bau müsse warten, bis der Berg Morija geweiht sei",
-          "explanation": "Von einer Weihe des Berges ist keine Rede; Gott verhieß den Tempelbau dem Sohn [ref:1. Chronik 17:11-12]."
+          "text": "Der Bau müsse warten, bis der Berg geweiht sei",
+          "explanation": ""
         },
         {
-          "text": "Die Priester in Silo hätten den Bau verboten",
-          "explanation": "Gottes Absage kam durch Natan, nicht durch Priester [ref:1. Chronik 17:4-11]."
+          "text": "Die Priester am Heiligtum hätten den Bau verboten",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "1. Chronik 17:1-12",
-      "explanation": "Gott ließ David durch Natan sagen, dass nicht er, sondern sein Sohn, der nach ihm kommen werde, dem HERRN ein Haus bauen sollte [ref:1. Chronik 17:1-12].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "1chr_018",
       "type": "single_choice",
-      "text": "Was tat David mit den edlen Metallen und Geschenken, die er von den besiegten Heiden erbeutete?",
+      "text": "Was tat David mit dem Silber und Gold, das er von den Heidenvölkern erbeutete?",
       "options": [
         {
-          "text": "Er kaufte davon Ländereien für sein Haus",
-          "explanation": "Er heiligte alles Silber und Gold dem HERRN [ref:1. Chronik 18:9-11]."
+          "text": "Er kaufte damit Ländereien für sein Haus",
+          "explanation": ""
         },
         {
-          "text": "Er beschenkte die Krieger seines Heeres",
-          "explanation": "David weihte alle Beute für das Gotteshaus [ref:1. Chronik 18:11]."
+          "text": "Er beschenkte alle Feldhauptleute im Heere",
+          "explanation": ""
         },
         {
-          "text": "Er weihte das ganze Gold und Silber dem HERRN",
-          "explanation": "Für den künftigen Dienst des Heiligtums [ref:1. Chronik 18:9-11]."
+          "text": "Er heiligte das Silber und Gold dem HERRN",
+          "explanation": ""
         },
         {
-          "text": "Er baute daraus die Stadtmauer Jerusalems",
-          "explanation": "Die Geschenke dienten dem Heiligtum [ref:1. Chronik 18:11]."
+          "text": "Er baute daraus hohe Mauern zu Jerusalem",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "1. Chronik 18:9-11",
-      "explanation": "König David weihte das Silber und Gold aus allen heidnischen Völkern – Edom, Moab, Ammon, den Philistern und Amalek – dem HERRN [ref:1. Chronik 18:9-11].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "1chr_019",
       "type": "single_choice",
-      "text": "Welcher Schandtat machten sich die Ammoniter unter Hanun an Davids Tröstungsboten schuldig?",
+      "text": "Welcher Schandtat machten sich die Ammoniter unter Hanon an Davids Knechten schuldig?",
       "options": [
         {
-          "text": "Sie warfen sie in die feuchten Wüstenschächte",
-          "explanation": "Sie schnitten Bärte und Kleider halb ab [ref:1. Chronik 19:1-4]."
+          "text": "Sie warfen sie gebunden in finstere Wüstengruben",
+          "explanation": ""
         },
         {
-          "text": "Sie raubten ihr Silber und machten sie zu Sklaven",
-          "explanation": "Die Entehrung betraf Bart und Gewänder [ref:1. Chronik 19:4]."
+          "text": "Sie raubten ihr Silber und machten sie zu Knechten",
+          "explanation": ""
         },
         {
-          "text": "Sie verweigerten das Gespräch mit den Gesandten",
-          "explanation": "Hanun beschämte die Boten aufs Schwerste [ref:1. Chronik 19:3-4]."
+          "text": "Sie vertrieben sie mit Spott über die Landesgrenzen",
+          "explanation": ""
         },
         {
-          "text": "Sie schoren ihre Bärte und schnitten ihre Kleider ab",
-          "explanation": "Und schickten sie zutiefst entblößt fort [ref:1. Chronik 19:1-4]."
+          "text": "Sie schoren sie und schnitten ihre Kleider halb ab",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "1. Chronik 19:1-4",
-      "explanation": "Hanun ergriff die Knechte Davids, schor sie, schnitt ihre Kleider auf bis an das Gesäß und ließ sie so gedemütigt ziehen [ref:1. Chronik 19:1-4].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "1chr_020",
       "type": "single_choice",
-      "text": "Wie viel wog die goldene Krone des ammonitischen Königs, die David in Rabba erbeutete?",
+      "text": "Wie viel wog die goldene Krone des Königs von Rabba, die David fand?",
       "options": [
         {
-          "text": "Genau ein Talent Gold",
-          "explanation": "Sie wurde auf Davids Haupt gesetzt [ref:1. Chronik 20:1-2]."
+          "text": "Einen Zentner Goldes samt Edelsteinen",
+          "explanation": ""
         },
         {
-          "text": "Genau zehn Schekel reinsten Goldes",
-          "explanation": "Ein Talent Gold wog die Krone [ref:1. Chronik 20:1-2]."
+          "text": "Zehn Schekel reinsten Goldes im Ganzen",
+          "explanation": ""
         },
         {
-          "text": "Genau fünfzig Schekel edlen Metalls",
-          "explanation": "Das Gewicht betrug ein Talent Gold [ref:1. Chronik 20:2]."
+          "text": "Fünfzig Schekel edles Silber aus Rabba",
+          "explanation": ""
         },
         {
-          "text": "Genau zwei Talente schweren Silbers",
-          "explanation": "Das trifft nicht zu. Richtig ist: Genau ein Talent Gold [ref:1. Chronik 20:1-2]."
+          "text": "Zwei Zentner Erz aus den Schatzkammern",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "1. Chronik 20:1-2",
-      "explanation": "David nahm die Krone ihres Königs vom Haupt; sie wog ein Talent Gold und besaß edle Steine, und sie kam auf Davids Haupt [ref:1. Chronik 20:1-2]. (Hinweis: Luther 1912 übersetzt hier „Zentner“ (statt Talent), „Zentner“ (statt Talente).)",
-      "explanationReviewed": false,
+      "explanation": "Ein Zentner Gold (im Hebräischen 1 Talent) entsprach einem Gewicht von rund 30 bis 34 Kilogramm Feingold [ref:1. Chronik 20:2].",
+      "explanationReviewed": true,
       "difficulty": "hard"
     },
     {
       "questionId": "1chr_021",
       "type": "single_choice",
-      "text": "Wer trat in Israel auf und reizte David dazu auf, die verhängnisvolle Volkszählung durchzuführen?",
+      "text": "Wer stand nach 1. Chronik 21:1 wider Israel auf und reizte David zur Zählung?",
       "options": [
         {
-          "text": "Der Prophet Gad durch eine Vision",
-          "explanation": "Der Satan trat auf gegen Israel [ref:1. Chronik 21:1]."
+          "text": "Ein heidnischer Fürst der Nachbarvölker",
+          "explanation": ""
         },
         {
-          "text": "Der Satan stellte sich auf gegen Israel",
-          "explanation": "Und reizte David, das Volk zu zählen [ref:1. Chronik 21:1]."
+          "text": "Satan stand wider Israel und reizte David",
+          "explanation": ""
         },
         {
-          "text": "Der Hauptmann Joab aus eigenem Entschluss",
-          "explanation": "Der Versucher verleitete David zur Zählung [ref:1. Chronik 21:1]."
+          "text": "Die Fürsten des Volkes im königlichen Rat",
+          "explanation": ""
         },
         {
-          "text": "Die Ältesten der Stämme aus Furcht vor Kriege",
-          "explanation": "Der Satan stiftete die Zählung an [ref:1. Chronik 21:1]."
+          "text": "Joab, der oberste Feldhauptmann des Heeres",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "1. Chronik 21:1",
-      "explanation": "Der Satan stellte sich gegen Israel und reizte David an, Israel zählen zu lassen, was Gottes Zorn erweckte [ref:1. Chronik 21:1].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "1chr_022",
       "type": "single_choice",
-      "text": "Welcher Ort wurde vom Engel des HERRN verschont, als Er das Schwert der Pest über Jerusalem streckte?",
+      "text": "An welchem Ort stand der Engel des HERRN mit dem Schwert über Jerusalem?",
       "options": [
         {
-          "text": "Das Zelt der Stiftshütte in Silo",
-          "explanation": "Die Dreschtenne Ornans des Jebusiters [ref:1. Chronik 21:15-18]."
+          "text": "Die alte Stiftshütte zu Silo im Lande",
+          "explanation": ""
         },
         {
           "text": "Der königliche Palast aus Zedernholz",
-          "explanation": "Die Dreschtenne war der Haltepunkt des Engels [ref:1. Chronik 21:15]."
+          "explanation": ""
         },
         {
-          "text": "Die Dreschtenne Ornans, des Jebusiters",
-          "explanation": "Wo der Engel sein Schwert innehalten ließ [ref:1. Chronik 21:15-18]."
+          "text": "Die Tenne Ornans, des Jebusiters dort",
+          "explanation": ""
         },
         {
-          "text": "Die Priesterwohnung des Zadok",
-          "explanation": "Der Engel stand bei der Dreschtenne [ref:1. Chronik 21:15-18]."
+          "text": "Die geweihte Priesterwohnung zu Nob",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "1. Chronik 21:15-18",
-      "explanation": "Als der Engel des HERRN Verderben über Jerusalem bringen wollte, reute es Gott, und Er sprach zum Engel: Halt ein! Der Engel stand bei der Dreschtenne Ornans [ref:1. Chronik 21:15-18].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "1chr_023",
       "type": "single_choice",
-      "text": "Wie viel Gold wog David dem Jebusiter Ornan für das Grundstück der Dreschtenne ab?",
+      "text": "Wie viel Gold gab David dem Jebusiter Ornan um den Platz der Tenne?",
       "options": [
         {
-          "text": "Genau fünfzig Schekel Silber nach dem Gewicht",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sechshundert Schekel Gold nach dem Gewicht [ref:1. Chronik 21:22-25]."
+          "text": "Genau fünfzig Lot Silber nach dem Gewicht",
+          "explanation": ""
         },
         {
-          "text": "Genau dreihundert Schekel Gold nach dem Gewicht",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sechshundert Schekel Gold nach dem Gewicht [ref:1. Chronik 21:22-25]."
+          "text": "Dreihundert Lot Silber nach dem Gewicht",
+          "explanation": ""
         },
         {
-          "text": "Genau tausend Schekel Gold nach dem Gewicht",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sechshundert Schekel Gold nach dem Gewicht [ref:1. Chronik 21:22-25]."
+          "text": "Tausend Lot feines Gold nach dem Gewicht",
+          "explanation": ""
         },
         {
-          "text": "Sechshundert Schekel Gold nach dem Gewicht",
-          "explanation": "David wollte den vollen Preis bezahlen [ref:1. Chronik 21:22-25]."
+          "text": "Sechshundert Lot Gold nach dem Gewicht",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "1. Chronik 21:22-25",
-      "explanation": "David wollte Gott kein unentgeltliches Opfer darbringen und gab Ornan für den Platz sechshundert Schekel Gold am Gewicht [ref:1. Chronik 21:22-25]. (Hinweis: Luther 1912 übersetzt hier „Lot“ (statt Schekel), „Zentner“ (statt Talente).)",
-      "explanationReviewed": false,
+      "explanation": "Sechshundert Lot Gold entsprachen etwa 6,8 bis 7 Kilogramm Gold [ref:1. Chronik 21:25].",
+      "explanationReviewed": true,
       "difficulty": "hard"
     },
     {
       "questionId": "1chr_024",
       "type": "single_choice",
-      "text": "Aus welchem Lande beschaffte David unzähliges Zedernholz für den künftigen Tempelbau Salomos?",
+      "text": "Wer brachte laut 1. Chronik 22:4 viel Zedernholz ohne Zahl zu David für den Tempelbau?",
       "options": [
         {
-          "text": "Von den Tyriern und Sidoniern im Nordland",
-          "explanation": "Die ihm unzählbar viele Zedern stämme brachten [ref:1. Chronik 22:2-4]."
+          "text": "Die Leute von Sidon und Tyrus im Norden",
+          "explanation": ""
         },
         {
-          "text": "Aus den Bergen des Gebirges Ephraim",
-          "explanation": "Das Zedernholz stammte von den Sidoniern und Tyrern [ref:1. Chronik 22:2-4]."
+          "text": "Die Zimmerleute aus dem Gebirge Ephraim",
+          "explanation": ""
         },
         {
-          "text": "Aus den Tälern der Festung Gilead",
-          "explanation": "Die Phönizier brachten Unmengen Holz [ref:1. Chronik 22:4]."
+          "text": "Die Fürsten und Edlen aus ganz Gilead",
+          "explanation": ""
         },
         {
-          "text": "Aus den Wäldern des Stammes Juda",
-          "explanation": "Zedernholz stammte von Tyrus und Sidon [ref:1. Chronik 22:4]."
+          "text": "Die Waldarbeiter aus den Bergen Judas",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "1. Chronik 22:2-4",
-      "explanation": "David veranlasste große Vorbereitungen für den Tempel; die Tyrier und Sidonier brachten Zedernholz in Menge zu David [ref:1. Chronik 22:2-4].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "1chr_025",
       "type": "single_choice",
-      "text": "Warum durfte David laut seinen eigenen Worten an Salomo das Haus Gottes nicht selbst bauen?",
+      "text": "Warum durfte David laut seinen eigenen Worten an Salomo das Haus Gottes NICHT selbst bauen?",
       "options": [
         {
           "text": "Weil er nicht genug Silber und Gold gesammelt hatte",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil er viel Blut vergossen und große Kriege geführt hatte [ref:1. Chronik 22:7-8]."
+          "explanation": ""
         },
         {
           "text": "Weil er viel Blut vergossen und große Kriege geführt hatte",
-          "explanation": "Gott verlangte einen Mann der Ruhe als Bauer [ref:1. Chronik 22:7-8]."
+          "explanation": ""
         },
         {
           "text": "Weil er nicht aus dem Stamme Levi war und kein Priester",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil er viel Blut vergossen und große Kriege geführt hatte [ref:1. Chronik 22:7-8]."
+          "explanation": ""
         },
         {
-          "text": "Weil er durch seine Sünde mit Batseba unwürdig geworden war",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil er viel Blut vergossen und große Kriege geführt hatte [ref:1. Chronik 22:7-8]."
+          "text": "Weil der HERR ihm noch keinen festen Frieden gewährt hatte",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "1. Chronik 22:7-8",
-      "explanation": "David sprach zu Salomo: Das Wort des HERRN erging an mich: Du hast viel Blut vergossen; du sollst Meinem Namen kein Haus bauen [ref:1. Chronik 22:7-8].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "1chr_026",
       "type": "single_choice",
-      "text": "Ab welchem Lebensjahr wurden die Leviten unter König David für den Dienst am Tempel gezählt?",
+      "text": "Ab welchem Alter wurden die Leviten nach den letzten Worten Davids für den Dienst am Hause des HERRN gezählt?",
       "options": [
         {
-          "text": "Ab dem dreißigsten Lebensjahr nach der Regel",
-          "explanation": "Ab dem zwanzigsten Lebensjahr [ref:1. Chronik 23:24-27]."
+          "text": "Von dreißig Jahren und darüber zum Dienste",
+          "explanation": ""
         },
         {
-          "text": "Ab dem fünfzigsten Lebensjahr zum Ehrendienst",
-          "explanation": "David verordnete das Mindestalter auf 20 Jahre [ref:1. Chronik 23:27]."
+          "text": "Von fünfzig Jahren und darüber zum Amte",
+          "explanation": ""
         },
         {
-          "text": "Ab dem zwanzigsten Lebensjahr und darüber",
-          "explanation": "Nach den letzten Worten König Davids [ref:1. Chronik 23:24-27]."
+          "text": "Von zwanzig Jahren und darüber für das Werk",
+          "explanation": ""
         },
         {
-          "text": "Ab dem fünfundzwanzigsten Lebensjahr im Heiligtum",
-          "explanation": "Die Zählung hob mit zwanzig Jahren an [ref:1. Chronik 23:24-27]."
+          "text": "Von fünfundzwanzig Jahren und darüber am Zelt",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "1. Chronik 23:24-27",
-      "explanation": "Nach den letzten Worten Davids wurden die Leviten gezählt von zwanzig Jahren an und darüber für den Dienst am Hause Gottes [ref:1. Chronik 23:24-27].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "1chr_027",
       "type": "single_choice",
-      "text": "In wie viele Dienstordnungen (Klassen) teilte David die Söhne Aarons für den Priesterdienst ein?",
+      "text": "In wie viele Ordnungen nach ihrem Amt teilte David die Priester aus den Kindern Aarons ein?",
       "options": [
         {
-          "text": "In genau zwölf Klassen nach den Monaten",
-          "explanation": "In genau vierundzwanzig Dienstklassen [ref:1. Chronik 24:1-19]."
+          "text": "In genau zwölf Ordnungen für die Monate",
+          "explanation": ""
         },
         {
-          "text": "In genau siebzig Klassen nach den Ältesten",
-          "explanation": "Vierundzwanzig Abteilungen wurden gelost [ref:1. Chronik 24:4-19]."
+          "text": "In genau siebzig Ordnungen für die Ältesten",
+          "explanation": ""
         },
         {
-          "text": "In genau sieben Klassen für die Heiligtümer",
-          "explanation": "Die Zahl der Priesterklassen betrug 24 [ref:1. Chronik 24:1-19]."
+          "text": "In genau sieben Ordnungen für das Heiligtum",
+          "explanation": ""
         },
         {
-          "text": "In genau vierundzwanzig Ordnungsklassen",
-          "explanation": "Das Los entschied ihre wöchentliche Reihenfolge [ref:1. Chronik 24:1-19]."
+          "text": "In genau vierundzwanzig Ordnungen des Dienstes",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "1. Chronik 24:1-19",
-      "explanation": "David teilte die Nachkommen Aarons durchs Los in vierundzwanzig Ordnungsklassen für den Dienst im Haus des HERRN ein [ref:1. Chronik 24:1-19].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "1chr_028",
       "type": "single_choice",
-      "text": "Auf welche Weise wurden die Aufgaben der Sänger, Torhüter und Priester geregelt?",
+      "text": "Wie wurden nach 1. Chronik 25:8 die Ämter unter den Sängern am Hause Gottes verteilt?",
       "options": [
         {
-          "text": "Durch das Los, für Kleine wie Große",
-          "explanation": "Ohne Unterschied zwischen Meister und Schüler [ref:1. Chronik 25:8]."
+          "text": "Durch das Los, dem Jüngeren wie dem Älteren",
+          "explanation": ""
         },
         {
-          "text": "Der Hohepriester erwählte sie wöchentlich",
-          "explanation": "Sie warfen das Los für groß und klein gleichermaßen [ref:1. Chronik 25:8]."
+          "text": "Durch die Wahl der Fürsten und der Ältesten",
+          "explanation": ""
         },
         {
-          "text": "Der König bestimmte ihre Führung persönlich",
-          "explanation": "Das Los entschied unparteiisch über den Dienst [ref:1. Chronik 25:8]."
+          "text": "Nach dem königlichen Befehl des Königs David",
+          "explanation": ""
         },
         {
-          "text": "Nach dem Alter der Diensthabenden geordnet",
-          "explanation": "Das Los galt für Meister und Schüler [ref:1. Chronik 25:8]."
+          "text": "Nach dem Alter der Geschlechter unter Levi",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "1. Chronik 25:8",
-      "explanation": "Auch die Sänger warfen das Los über ihren Dienst, der Kleine wie der Große, der Meister wie der Schüler, in gleicher Weise [ref:1. Chronik 25:8].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "1chr_029",
       "type": "single_choice",
-      "text": "Wer war als Nachkomme Moses Fürst über die Schätze des Hauses Gottes?",
+      "text": "Wer war nach 1. Chronik 26:24 Fürst über die Schätze des Hauses Gottes?",
       "options": [
         {
-          "text": "Asaph der Sänger aus dem Heiligtum",
-          "explanation": "Schebuel der Sohn Gersoms, des Sohnes Moses [ref:1. Chronik 26:24]."
+          "text": "Asaph, der Sohn Berachjas aus Kehat",
+          "explanation": ""
         },
         {
-          "text": "Schebuel, ein Nachkomme Moses",
-          "explanation": "Er war der oberste Aufseher über die Schätze [ref:1. Chronik 26:24]."
+          "text": "Sebuel, Sohn Gersoms, des Sohns Moses",
+          "explanation": ""
         },
         {
-          "text": "Benaia der Hauptmann über die Helden",
-          "explanation": "Schebuel verwaltete die Tempelschätze [ref:1. Chronik 26:24]."
+          "text": "Benaja, der Sohn Jojadas, der Priester",
+          "explanation": ""
         },
         {
-          "text": "Obed-Edom der Hüter der Bundeslade",
-          "explanation": "Der Enkel Moses verwaltete die Gaben [ref:1. Chronik 26:24]."
+          "text": "Obed-Edom, der Torhüter am Heiligtum",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "1. Chronik 26:24",
-      "explanation": "Schebuel, der Sohn Gersoms, des Sohnes Moses, war Oberaufseher über die Schätze des Hauses Gottes [ref:1. Chronik 26:24].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "1chr_030",
       "type": "single_choice",
-      "text": "Wie stark war jede der zwölf monatlichen Heeresabteilungen König Davids im Lande Israel?",
+      "text": "Wie viele Männer dienten in einer jeden der zwölf monatlichen Heeresordnungen Davids?",
       "options": [
         {
-          "text": "Genau zehntausend Mann je Abteilung",
-          "explanation": "Genau vierundzwanzigtausend Mann je Abteilung [ref:1. Chronik 27:1-15]."
+          "text": "Genau zehntausend Mann je Ordnung",
+          "explanation": ""
         },
         {
-          "text": "Genau fünfzigtausend Mann kriegsbereit",
-          "explanation": "Jede Monatsabteilung zählte 24.000 Mann [ref:1. Chronik 27:1]."
+          "text": "Genau fünfzigtausend Mann je Monat",
+          "explanation": ""
         },
         {
-          "text": "Genau vierundzwanzigtausend Mann pro Monat",
-          "explanation": "Die abwechselnd den Dienst des Königs verrichteten [ref:1. Chronik 27:1-15]."
+          "text": "Genau vierundzwanzigtausend Krieger",
+          "explanation": ""
         },
         {
-          "text": "Genau zwölftausend Mann aus jedem Stamm",
-          "explanation": "Die Abteilungsstärke betrug 24.000 Mann [ref:1. Chronik 27:1-15]."
+          "text": "Genau zwölftausend Mann je Abteilung",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "1. Chronik 27:1-15",
-      "explanation": "Das Heer Davids war in zwölf Monatsabteilungen gegliedert; jede Abteilung umfasste vierundzwanzigtausend Mann [ref:1. Chronik 27:1-15].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "1chr_031",
       "type": "single_choice",
-      "text": "Von wem empfing David das genaue Vorbild (den Bauplan) für den Tempel und seine Geräte?",
+      "text": "Wodurch empfing David nach 1. Chronik 28:19 das Vorbild des Tempels und seiner Geräte?",
       "options": [
         {
-          "text": "Er entwarf das Vorbild nach dem Tempel Ägyptens",
-          "explanation": "Der HERR gab es ihm schriftlich durch Seine Hand [ref:1. Chronik 28:11-19]."
+          "text": "Durch die Pläne der Bauleute aus Ägypten",
+          "explanation": ""
         },
         {
-          "text": "Der Prophet Natan zeichnete ihm den Plan",
-          "explanation": "Die Inspiration des Baus stammte von Gott [ref:1. Chronik 28:19]."
+          "text": "Durch eine Schrift des Propheten Nathan",
+          "explanation": ""
         },
         {
-          "text": "Die Phönizischen Meister erstellten den Riss",
-          "explanation": "Gott unterwies ihn schriftlich in allen Werken [ref:1. Chronik 28:19]."
+          "text": "Durch die Werkmeister des Königs Hiram",
+          "explanation": ""
         },
         {
           "text": "Durch die Hand des HERRN, die ihn unterwies",
-          "explanation": "Gott gab ihm den Bauplan schriftlich ein [ref:1. Chronik 28:11-19]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "1. Chronik 28:11-19",
-      "explanation": "David gab Salomo das Vorbild der Vorhalle, des Hauses und der Geräte und bezeugte: Das alles hat Er mir schriftlich gegeben von der Hand des HERRN [ref:1. Chronik 28:11-19].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "1chr_032",
       "type": "single_choice",
-      "text": "Welches Edelmetall spendete David aus seinem persönlichen Privatbesitz zusätzlich für das Heiligtum?",
+      "text": "Was gab David aus eigenem Gut zusätzlich zum Bau des Hauses seines Gottes?",
       "options": [
         {
-          "text": "Dreitausend Talente Gold von Ophir und 7000 Talente Silber",
-          "explanation": "Aus Liebe zum Hause seines Gottes [ref:1. Chronik 29:3-5]."
+          "text": "3.000 Zentner Gold von Ophir und 7.000 Zentner Silber",
+          "explanation": ""
         },
         {
-          "text": "Tausend Talente edles Silber aus Tyrus",
-          "explanation": "Dreitausend Talente Gold aus Ophir und 7000 Talente Silber [ref:1. Chronik 29:3-5]."
+          "text": "1.000 Zentner Gold aus Parwaim und 5.000 Zentner Erz",
+          "explanation": ""
         },
         {
-          "text": "Fünftausend Talente feinsten Bronzegusses",
-          "explanation": "Das trifft nicht zu. Richtig ist: Dreitausend Talente Gold von Ophir und 7000 Talente Silber [ref:1. Chronik 29:3-5]."
+          "text": "5.000 Zentner edles Gold und 10.000 Zentner Eisenwerk",
+          "explanation": ""
         },
         {
-          "text": "Zehntausend Talente reinsten Goldes aus Sabas Schätzen",
-          "explanation": "David spendete 3000 Talente Gold [ref:1. Chronik 29:4]."
+          "text": "10.000 Zentner reinstes Gold aus den Schätzen Arabiens",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "1. Chronik 29:3-5",
-      "explanation": "Über alles Vorbereitete hinaus gab David aus eigenem Schatze dreitausend Talente Gold von Ophir und siebentausend Talente geläutertes Silber [ref:1. Chronik 29:3-5]. (Hinweis: Luther 1912 übersetzt hier „Zentner“ (statt Talente).)",
-      "explanationReviewed": false,
+      "explanation": "3.000 Zentner (Talente) Gold entsprachen etwa 100 Tonnen Feingold [ref:1. Chronik 29:4].",
+      "explanationReviewed": true,
       "difficulty": "hard"
     },
     {
       "questionId": "1chr_033",
       "type": "single_choice",
-      "text": "Welche Wahrheit bekannte David in seinem großen Dankgebet bezüglich aller menschlichen Gaben?",
+      "text": "Was bekannte David vor der ganzen Gemeinde im Blick auf alle gegebenen Gaben?",
       "options": [
         {
-          "text": "Dass das Gold und alle Beute rechtmäßig den Kriegern zustehe",
-          "explanation": "Das trifft nicht zu. Richtig ist: Von dir kommt alles, und aus deiner Hand haben wir dir gegeben [ref:1. Chronik 29:10-14]."
+          "text": "Das Gold und Silber steht den Kriegern für ihren Dienst zu",
+          "explanation": ""
         },
         {
-          "text": "Von dir kommt alles, und aus deiner Hand haben wir dir gegeben",
-          "explanation": "Der Mensch ist nur Gast und Fremdling auf Erden [ref:1. Chronik 29:10-14]."
+          "text": "Von dir ist alles gekommen, und aus deiner Hand gaben wir dir",
+          "explanation": ""
         },
         {
-          "text": "Dass der Tempel allein durch menschliche Kraft errichtet werde",
-          "explanation": "Das trifft nicht zu. Richtig ist: Von dir kommt alles, und aus deiner Hand haben wir dir gegeben [ref:1. Chronik 29:10-14]."
+          "text": "Der Tempel wird allein durch die Weisheit der Könige gebaut",
+          "explanation": ""
         },
         {
-          "text": "Dass die Opfer allein alle Sünden des Volkes tilgen können",
-          "explanation": "Das trifft nicht zu. Richtig ist: Von dir kommt alles, und aus deiner Hand haben wir dir gegeben [ref:1. Chronik 29:10-14]."
+          "text": "Das Volk Israel hat durch eigene Kraft diesen Reichtum erworben",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "1. Chronik 29:10-14",
-      "explanation": "David pries Gott vor der Gemeinde: Denn was bin ich, und was ist mein Volk, dass wir Vermögen besitzen sollten, freiwillig zu geben? Von Dir kommt alles! [ref:1. Chronik 29:10-14].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "1chr_034",
       "type": "single_choice",
-      "text": "Welcher Priester wurde zusammen mit Salomo bei der großen Festversammlung feierlich gesalbt?",
+      "text": "Wer wurde zusammen mit König Salomo vor dem HERRN zum Priester gesalbt?",
       "options": [
         {
-          "text": "Abjathar der Priester aus den Städten",
-          "explanation": "Zadok wurde zum Priester gesalbt [ref:1. Chronik 29:22]."
+          "text": "Abjathar, der Priester des HERRN",
+          "explanation": ""
         },
         {
-          "text": "Heman der Sänger aus dem Hause Kehat",
-          "explanation": "Zadok empfing die Salbung zum Priester [ref:1. Chronik 29:22]."
+          "text": "Heman, der Vorsteher der Sänger",
+          "explanation": ""
         },
         {
-          "text": "Zadok",
-          "explanation": "Als Salomo zum zweiten Mal König wurde [ref:1. Chronik 29:22]."
+          "text": "Zadok, der gottesfürchtige Priester",
+          "explanation": ""
         },
         {
-          "text": "Hilkia der Hohepriester des Tempels",
-          "explanation": "Zadok diente fortan als gesalbter Priester [ref:1. Chronik 29:22]."
+          "text": "Hilkia, der Verwalter am Altar",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "1. Chronik 29:22",
-      "explanation": "Die Gemeinde machte Salomo zum zweiten Mal zum König und salbte ihn dem HERRN zum Fürsten und Zadok zum Priester [ref:1. Chronik 29:22].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "1chr_035",
       "type": "single_choice",
-      "text": "Wo werden die Geschichten des Königs David laut dem Schlussvers des ersten Buches der Chronik berichtet?",
+      "text": "In welchen Büchern sind die ersten und letzten Geschichten des Königs David geschrieben?",
       "options": [
         {
-          "text": "In den Büchern der Könige Judas und Israels",
-          "explanation": "In den Geschichten Samuels, Natans und Gads [ref:1. Chronik 29:29-30]."
+          "text": "In den Büchern der Könige von Juda und Israel",
+          "explanation": ""
         },
         {
-          "text": "Auf den goldenen Tafeln im Tempelschatz",
-          "explanation": "Die Schriften der drei Propheten dokumentieren es [ref:1. Chronik 29:29]."
+          "text": "Auf den goldenen Tafeln im Tempelschatz Salomons",
+          "explanation": ""
         },
         {
-          "text": "In den Annalen des Priesters Zadok",
-          "explanation": "Samuel, Natan und Gad verfassten seine Taten [ref:1. Chronik 29:29-30]."
+          "text": "In den Annalen und Jahrbüchern des Priesters Zadok",
+          "explanation": ""
         },
         {
-          "text": "In den Geschichten Samuels, Natans und Gads",
-          "explanation": "Samt seiner ganzen Herrschaft und Macht [ref:1. Chronik 29:29-30]."
+          "text": "In den Geschichten Samuels, Nathans und Gads",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "1. Chronik 29:29-30",
-      "explanation": "Das erste Buch der Chronik schließt mit dem Hinweis, dass die Taten Davids geschrieben stehen in der Geschichte Samuels des Sehers, Natans des Propheten und Gads des Sehers [ref:1. Chronik 29:29-30].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "1chr_036",
       "type": "single_choice",
-      "text": "Welche drei Söhne Noahs werden in der Völkertafel von 1. Chronik 1 genannt?",
+      "text": "Welche drei Söhne Noahs werden in 1. Chronik 1:4 genannt?",
       "options": [
         {
-          "text": "Sem, Ham und Japhet",
-          "explanation": "Sie sind die Stammväter der Völker nach der Sintflut [ref:1. Chronik 1:4]."
+          "text": "Sem, Ham und Japheth",
+          "explanation": ""
         },
         {
           "text": "Kain, Abel und Seth",
-          "explanation": "Kain, Abel und Seth waren Söhne Adams, nicht Noahs [ref:1. Chronik 1:1]."
+          "explanation": ""
         },
         {
-          "text": "Abraham, Nahor und Haran",
-          "explanation": "Abraham, Nahor und Haran waren Söhne Terachs [ref:1. Chronik 1:26]."
+          "text": "Nahor, Haran und Abram",
+          "explanation": ""
         },
         {
-          "text": "Ismael, Isaak und Simran",
-          "explanation": "Isaak und Ismael waren Söhne Abrahams; die Söhne Noahs waren Sem, Ham und Japhet [ref:1. Chronik 1:4]."
+          "text": "Ismael, Isaak und Midian",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "1. Chronik 1:4",
-      "explanation": "Die Völkertafel führt die Reihe von Adam über Noah fort: Noah, Sem, Ham und Japhet [ref:1. Chronik 1:4].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "1chr_037",
       "type": "single_choice",
-      "text": "Wer war der erstgeborene Sohn Ismaels?",
+      "text": "Wer war der erste Sohn Ismaels nach 1. Chronik 1:29?",
       "options": [
         {
-          "text": "Kedar",
-          "explanation": "Kedar wird nach Nebajot genannt, nicht als Erstgeborener [ref:1. Chronik 1:29]."
+          "text": "Sein Sohn Kedar",
+          "explanation": ""
         },
         {
-          "text": "Nebajot",
-          "explanation": "Nebajot war der erste Sohn Ismaels [ref:1. Chronik 1:29]."
+          "text": "Sein Sohn Nebajoth",
+          "explanation": ""
         },
         {
-          "text": "Thema",
-          "explanation": "Thema war ein jüngerer Sohn Ismaels [ref:1. Chronik 1:30]."
+          "text": "Sein Sohn Adbeel",
+          "explanation": ""
         },
         {
-          "text": "Midian",
-          "explanation": "Midian war ein Sohn Abrahams von Ketura [ref:1. Chronik 1:32]."
+          "text": "Sein Sohn Mibsam",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "1. Chronik 1:29",
-      "explanation": "Das Geschlechtsregister nennt als ersten Sohn Ismaels Nebajot, danach Kedar, Adbeel und Mibsam [ref:1. Chronik 1:29].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "1chr_038",
       "type": "single_choice",
-      "text": "Wie viele Söhne hatte Israel (Jakob) laut der Liste?",
+      "text": "Wie viele Kinder (Söhne) Israels werden in 1. Chronik 2:1-2 aufgezählt?",
       "options": [
         {
-          "text": "Zehn Söhne",
-          "explanation": "Israel hatte zwölf Söhne, die Stammväter der zwölf Stämme [ref:1. Chronik 2:1-2]."
+          "text": "Zehn Söhne der Mütter Lea und Rahel",
+          "explanation": ""
         },
         {
-          "text": "Sieben Söhne von Lea und fünf von Rahel",
-          "explanation": "Die zwölf Söhne stammten von Lea, Rahel, Bilha und Silpa [ref:1. Chronik 2:1-2]."
+          "text": "Sieben Söhne aus dem Hause Jakob",
+          "explanation": ""
         },
         {
-          "text": "Zwölf Söhne, von Ruben bis Asser",
-          "explanation": "Das Register zählt alle zwölf Söhne Israels auf [ref:1. Chronik 2:1-2]."
+          "text": "Zwölf Söhne von Ruben bis Asser",
+          "explanation": ""
         },
         {
-          "text": "Vierzehn Söhne, einschließlich der Enkel Manasse und Ephraim",
-          "explanation": "Es werden die zwölf leiblichen Söhne aufgezählt [ref:1. Chronik 2:1-2]."
+          "text": "Vierzehn Söhne samt den Enkeln",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "1. Chronik 2:1-2",
-      "explanation": "Das Register nennt die zwölf Söhne Israels: Ruben, Simeon, Levi, Juda, Issaschar, Sebulon, Dan, Joseph, Benjamin, Naphtali, Gad und Asser [ref:1. Chronik 2:1-2].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "1chr_039",
       "type": "single_choice",
-      "text": "Wer war der Vater Boas' in der Geschlechtslinie Judas?",
+      "text": "Wer zeugte Boas nach dem Geschlechtsregister in 1. Chronik 2:11-12?",
       "options": [
         {
-          "text": "Nahasson, der Fürst der Kinder Juda",
-          "explanation": "Nahasson war der Vater Salmas, also der Großvater des Boas [ref:1. Chronik 2:11-12]."
+          "text": "Nahasson, der Fürst Judas",
+          "explanation": ""
         },
         {
           "text": "Hezron, der Sohn des Perez",
-          "explanation": "Hezron war ein früherer Vorfahre in der Linie Davids [ref:1. Chronik 2:5-9]."
+          "explanation": ""
         },
         {
           "text": "Amminadab, der Vater Nahassons",
-          "explanation": "Amminadab war ein noch früherer Vorfahre [ref:1. Chronik 2:10-12]."
+          "explanation": ""
         },
         {
-          "text": "Salma",
-          "explanation": "Nahasson zeugte Salma, und Salma zeugte Boas [ref:1. Chronik 2:11-12]."
+          "text": "Salma, der Sohn Nahassons",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "1. Chronik 2:11-12",
-      "explanation": "Das Geschlechtsregister führt die Linie so fort: Nahasson zeugte Salma, Salma zeugte Boas, Boas zeugte Obed, Obed zeugte Isai [ref:1. Chronik 2:11-12].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "1chr_040",
       "type": "single_choice",
-      "text": "Welche vier Söhne wurden David in Jerusalem von Bathseba (Bathschua) geboren?",
+      "text": "Welche vier Söhne wurden David zu Jerusalem von Bath-Sua geboren?",
       "options": [
         {
-          "text": "Schimea, Schobab, Nathan und Salomo",
-          "explanation": "Diese vier wurden David von Bathschua in Jerusalem geboren [ref:1. Chronik 3:5]."
+          "text": "Simea, Sobab, Nathan und Salomo",
+          "explanation": ""
         },
         {
-          "text": "Amnon, Daniel, Absalom und Adonija",
-          "explanation": "Diese wurden David in Hebron von anderen Frauen geboren [ref:1. Chronik 3:1-4]."
+          "text": "Amnon, Daniel, Absalom, Adonia",
+          "explanation": ""
         },
         {
-          "text": "Ibchar, Elischama, Eliphelet und Nogah",
-          "explanation": "Diese gehörten zu den weiteren in Jerusalem geborenen Söhnen, nicht zu Bathschua [ref:1. Chronik 3:6-8]."
+          "text": "Ibchar, Elisama, Eliphelet, Nogah",
+          "explanation": ""
         },
         {
-          "text": "Rehabeam, Abija, Asa und Josaphat",
-          "explanation": "Dies waren spätere Könige von Juda [ref:1. Chronik 3:10]."
+          "text": "Rehabeam, Abia, Asa und Josaphat",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "1. Chronik 3:5",
-      "explanation": "In Jerusalem wurden David geboren: Simea, Sobab, Nathan und Salomo, die vier von Bathschua, der Tochter Ammiels [ref:1. Chronik 3:5].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "1chr_041",
       "type": "single_choice",
-      "text": "Welcher nachexilische Statthalter Judas erscheint in der Königsliste von 1. Chronik 3?",
+      "text": "Welcher Fürst Judas erscheint als Sohn Pedajas in der Geschlechtslinie von 1. Chronik 3:19?",
       "options": [
         {
-          "text": "Nehemia, der Mundschenk des Königs Artasasta",
-          "explanation": "Nehemia gehörte nicht zur königlichen Linie Davids [ref:1. Chronik 3:19]."
+          "text": "Nehemia, der Mundschenk des Königs",
+          "explanation": ""
         },
         {
-          "text": "Serubbabel, der den Tempel wieder aufbaute",
-          "explanation": "Die Linie Davids wird über Serubbabel weitergeführt [ref:1. Chronik 3:19]."
+          "text": "Serubabel, der Sohn des Pedaja",
+          "explanation": ""
         },
         {
-          "text": "Esra, der Schriftgelehrte",
-          "explanation": "Esra war Priester aus dem Haus Aarons [ref:1. Chronik 3:19]."
+          "text": "Esra, der gelehrte Schriftgelehrte",
+          "explanation": ""
         },
         {
-          "text": "Mordechai, der Vormund der Königin Esther",
-          "explanation": "Mordechai stammte aus dem Stamm Benjamin [ref:1. Chronik 3:19]."
+          "text": "Mordechai aus dem Stamme Benjamin",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "1. Chronik 3:19",
-      "explanation": "Das Register der Nachkommen Jojachins nennt nach der Gefangenschaft unter anderem Serubbabel, den Sohn Pedajas [ref:1. Chronik 3:17-19].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "1chr_042",
       "type": "single_choice",
-      "text": "Warum gab die Mutter des Jabez ihrem Sohn diesen besonderen Namen?",
+      "text": "Warum hieß die Mutter ihren Sohn Jaebez nach 1. Chronik 4:9?",
       "options": [
         {
-          "text": "Weil Gott ihr im Traum einen siegreichen Helden verheißen hatte",
-          "explanation": "Der Name erinnerte an ihren Kummer bei der Geburt [ref:1. Chronik 4:9]."
+          "text": "Weil Gott ihr im Gebet einen Helden verheißen hatte",
+          "explanation": ""
         },
         {
-          "text": "Weil sein Vater vor seiner Geburt gefallen war",
-          "explanation": "Der Name leitete sich vom Kummer der Mutter ab [ref:1. Chronik 4:9]."
+          "text": "Weil sein Vater vor seiner Geburt gestorben war",
+          "explanation": ""
         },
         {
-          "text": "Weil sie ihn mit Kummer geboren hatte",
-          "explanation": "Die Mutter sprach: Ich habe ihn mit Kummer geboren [ref:1. Chronik 4:9]."
+          "text": "Weil sie sprach: Ich habe ihn mit Kummer geboren",
+          "explanation": ""
         },
         {
-          "text": "Weil er am Versöhnungstag geboren worden war",
-          "explanation": "Der Name bezog sich auf die Geburtsschmerzen [ref:1. Chronik 4:9]."
+          "text": "Weil er am großen Festtage des HERRN geboren ward",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "1. Chronik 4:9",
-      "explanation": "Jaebez war angesehener als seine Brüder; seine Mutter nannte ihn Jaebez, denn sie sprach: Ich habe ihn mit Kummer geboren [ref:1. Chronik 4:9].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "1chr_043",
       "type": "single_choice",
-      "text": "In welcher Stadt wohnten die Simeoniter nach dem Geschlechtsregister?",
+      "text": "In welcher Stadt wohnten die Kinder Simeons nach 1. Chronik 4:28?",
       "options": [
         {
-          "text": "Samaria",
-          "explanation": "Samaria lag im Gebiet des Nordreichs, nicht bei Simeon [ref:1. Chronik 4:28]."
+          "text": "In der Stadt Samaria",
+          "explanation": ""
         },
         {
-          "text": "Jerusalem",
-          "explanation": "Jerusalem lag an der Grenze von Juda und Benjamin [ref:1. Chronik 4:28]."
+          "text": "In der Stadt Jerusalem",
+          "explanation": ""
         },
         {
-          "text": "Hebron",
-          "explanation": "Hebron lag im Bergland Judas [ref:1. Chronik 4:28]."
+          "text": "In der Stadt Hebron",
+          "explanation": ""
         },
         {
-          "text": "Beerscheba",
-          "explanation": "Die Simeoniter wohnten zu Beerscheba, Molada und Hazar-Sual [ref:1. Chronik 4:28]."
+          "text": "In der Stadt Beer-Seba",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "1. Chronik 4:28",
-      "explanation": "Die Simeoniter wohnten zu Beerscheba, Molada, Hazar-Sual und weiteren Städten [ref:1. Chronik 4:28-31].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "1chr_044",
       "type": "single_choice",
-      "text": "Warum verlieh Gott den ostjordanischen Stämmen den Sieg über die Hagriter?",
+      "text": "Warum half Gott den ostjordanischen Stämmen wider die Hagariter?",
       "options": [
         {
-          "text": "Weil sie im Kampf zu Gott schrien und ihm vertrauten",
-          "explanation": "Gott ließ sich erbitten, weil sie ihm vertrauten [ref:1. Chronik 5:20]."
+          "text": "Weil sie im Streit zu Gott schrieen und ihm vertrauten",
+          "explanation": ""
         },
         {
-          "text": "Weil ihre Krieger eiserne Streitwagen besaßen",
-          "explanation": "Der Sieg gründete auf Gottes Beistand und ihrem Gebet [ref:1. Chronik 5:20]."
+          "text": "Weil ihre Kriegsleute eiserne Wagen zum Kampfe hatten",
+          "explanation": ""
         },
         {
-          "text": "Weil sie ein Bündnis mit dem Pharao schlossen",
-          "explanation": "Sie schrien zu Gott, nicht zu Ägypten [ref:1. Chronik 5:20]."
+          "text": "Weil sie ein festes Bündnis mit fremden Königen hatten",
+          "explanation": ""
         },
         {
-          "text": "Weil der Prophet Samuel sie heiligte",
-          "explanation": "Samuel lebte zu einer anderen Zeit; ihr Gebet brachte die Rettung [ref:1. Chronik 5:20]."
+          "text": "Weil ihre Heere den Feinden an Zahl weit überlegen waren",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "1. Chronik 5:20",
-      "explanation": "Es wurde ihnen geholfen; denn sie schrien zu Gott im Streit, und er ließ sich erbitten, weil sie ihm vertrauten [ref:1. Chronik 5:20].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "1chr_045",
       "type": "single_choice",
-      "text": "Welcher assyrische Herrscher führte die ostjordanischen Stämme in die Gefangenschaft?",
+      "text": "Welchen König von Assyrien erweckte Gott, der die Rubeniter, Gaditer und Manasse wegführte?",
       "options": [
         {
-          "text": "Nebukadnezar von Babylon",
-          "explanation": "Nebukadnezar führte später Juda und Jerusalem weg [ref:1. Chronik 5:25-26]."
+          "text": "Nebukadnezar, den König von Babel",
+          "explanation": ""
         },
         {
-          "text": "Pul, der König von Assyrien",
-          "explanation": "Der Gott Israels erweckte den Geist Puls und Tiglat-Pilesers von Assyrien [ref:1. Chronik 5:26]."
+          "text": "Phul, den König von Assyrien",
+          "explanation": ""
         },
         {
-          "text": "Sanherib von Ninive",
-          "explanation": "Pul und Tiglat-Pileser führten die Oststämme nach Halach, Habor und Hara [ref:1. Chronik 5:26]."
+          "text": "Sanherib, den König von Ninive",
+          "explanation": ""
         },
         {
-          "text": "Kyrus der Perser",
-          "explanation": "Kyrus erlaubte später die Rückkehr der Verbannten [ref:1. Chronik 5:26]."
+          "text": "Kores, den König von Persien",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "1. Chronik 5:25-26",
-      "explanation": "Weil sie den Göttern der Völker nachliefen, erweckte der Gott Israels den Geist Puls und Tiglat-Pilesers, der Könige von Assyrien; sie führten die Rubeniter, Gaditer und den halben Stamm Manasse weg [ref:1. Chronik 5:25-26].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "1chr_046",
       "type": "single_choice",
-      "text": "Welche drei Söhne Levis bildeten die Hauptzweige des priesterlichen Stammes?",
+      "text": "Welche drei Kinder Levis bildeten die Hauptgeschlechter des priesterlichen Stammes?",
       "options": [
         {
           "text": "Aaron, Mose und Mirjam",
-          "explanation": "Das waren die Kinder Amrams, Enkel Levis [ref:1. Chronik 6:1]."
+          "explanation": ""
         },
         {
           "text": "Hophni, Pinehas und Eli",
-          "explanation": "Dies waren Nachkommen aus späterer Zeit [ref:1. Chronik 6:1]."
+          "explanation": ""
         },
         {
           "text": "Gerson, Kahath und Merari",
-          "explanation": "Das sind die drei Söhne Levis [ref:1. Chronik 6:1]."
+          "explanation": ""
         },
         {
           "text": "Nadab, Abihu und Eleasar",
-          "explanation": "Nadab und Abihu waren Söhne Aarons, nicht Levis [ref:1. Chronik 6:1]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "1. Chronik 6:1",
-      "explanation": "Die Kinder Levis waren Gerson, Kahath und Merari [ref:1. Chronik 6:1].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "1chr_047",
       "type": "single_choice",
-      "text": "Welche Stadt in Juda wurde den Söhnen Aarons als Freistadt gegeben?",
+      "text": "Welche Stadt in Juda gaben die Kinder Israel den Kindern Aaron als Freistadt?",
       "options": [
         {
-          "text": "Bethlehem",
-          "explanation": "Bethlehem war keine Freistadt der Aaroniden [ref:1. Chronik 6:57]."
+          "text": "Die Königsstadt Bethlehem",
+          "explanation": ""
         },
         {
-          "text": "Jericho",
-          "explanation": "Jericho gehörte nicht zu den Freistädten [ref:1. Chronik 6:57]."
+          "text": "Die Palmenstadt Jericho",
+          "explanation": ""
         },
         {
-          "text": "Gibeon",
-          "explanation": "Gibeon war eine Priesterstadt in Benjamin, nicht in Juda [ref:1. Chronik 6:60]."
+          "text": "Die alte Priesterstadt Gibeon",
+          "explanation": ""
         },
         {
-          "text": "Hebron",
-          "explanation": "Den Söhnen Aarons gab man die Freistadt Hebron samt ihren Vorstädten [ref:1. Chronik 6:57]."
+          "text": "Die Freistadt Hebron in Juda",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "1. Chronik 6:57",
-      "explanation": "Den Kindern Aarons gaben sie die Freistädte Hebron und Libna samt ihren Vorstädten [ref:1. Chronik 6:57].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "1chr_048",
       "type": "single_choice",
-      "text": "Was zeichnete die Geschlechter des Stammes Issaschar besonders aus?",
+      "text": "Was zeichnete die Häupter und Geschlechter des Stammes Isaschar aus?",
       "options": [
         {
-          "text": "Sie waren tapfere Kriegsleute",
-          "explanation": "Das Register hebt ihre Wehrkraft hervor [ref:1. Chronik 7:1-5]."
+          "text": "Sie waren gewaltige Männer, gerüstet zum Streit",
+          "explanation": ""
         },
         {
-          "text": "Sie waren Goldschmiede im Dienst der Könige",
-          "explanation": "Das Kapitel betont ihre Stärke im Heer [ref:1. Chronik 7:1-5]."
+          "text": "Sie dienten den Königen als geschickte Goldschmiede",
+          "explanation": ""
         },
         {
-          "text": "Sie dienten allein als Musiker an der Lade",
-          "explanation": "Der Gesangsdienst oblag den Leviten [ref:1. Chronik 7:1-5]."
+          "text": "Sie waren bestellt als Sänger vor der Bundeslade",
+          "explanation": ""
         },
         {
-          "text": "Sie waren Hirten, die das Vieh des Königs hüteten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie waren tapfere Kriegsleute [ref:1. Chronik 7:1-5]."
+          "text": "Sie hüteten das königliche Vieh auf den Weiden",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "1. Chronik 7:1-5",
-      "explanation": "Die Häupter der Geschlechter Issaschars waren gewaltige Männer, die zu Davids Zeiten nach Tausenden gemustert wurden [ref:1. Chronik 7:1-5].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "1chr_049",
       "type": "single_choice",
-      "text": "Was widerfuhr den Söhnen Ephraims, als sie das Vieh der Einheimischen von Gath nehmen wollten?",
+      "text": "Was taten die Männer zu Gath den Söhnen Ephraims, als sie hinabgezogen waren, um Vieh zu nehmen?",
       "options": [
         {
-          "text": "Sie ertranken bei einer Überfahrt über den See",
-          "explanation": "Die Einheimischen von Gath erschlugen sie [ref:1. Chronik 7:21-22]."
+          "text": "Sie fingen sie und verkauften sie als Sklaven",
+          "explanation": ""
         },
         {
-          "text": "Die Männer von Gath erschlugen sie",
-          "explanation": "Ephraim trug lange Zeit Leid um sie [ref:1. Chronik 7:21-22]."
+          "text": "Die Männer zu Gath erwürgten sie im Lande",
+          "explanation": ""
         },
         {
-          "text": "Eine Seuche raffte die Erstgeborenen hinweg",
-          "explanation": "Der Text berichtet von einem Überfall der Männer von Gath [ref:1. Chronik 7:21]."
+          "text": "Sie nahmen ihre Waffen und jagten sie hinweg",
+          "explanation": ""
         },
         {
-          "text": "Räuber verkauften sie als Sklaven nach Tyrus",
-          "explanation": "Sie wurden erschlagen; ihr Vater Ephraim trauerte [ref:1. Chronik 7:21-22]."
+          "text": "Sie warfen sie ins Gefängnis der Philister",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "1. Chronik 7:21-22",
-      "explanation": "Die Männer von Gath erschlugen sie, weil sie hinabgezogen waren, um ihr Vieh zu nehmen; ihr Vater Ephraim trug lange Zeit Leid [ref:1. Chronik 7:21-22].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "1chr_050",
       "type": "single_choice",
-      "text": "Welcher spätere Heerführer Israels stammte aus dem Stamm Ephraim?",
+      "text": "Welcher spätere Fürst Israels stammte nach 1. Chronik 7:27 von Ephraim ab?",
       "options": [
         {
-          "text": "Gideon, der Richter aus dem Hause Abieser",
-          "explanation": "Gideon stammte aus dem Stamm Manasse [ref:1. Chronik 7:27]."
+          "text": "Gideon, der Richter aus Manasse",
+          "explanation": ""
         },
         {
-          "text": "Simson, der Richter im Land der Philister",
-          "explanation": "Simson stammte aus dem Stamm Dan [ref:1. Chronik 7:27]."
+          "text": "Simson, der Held aus dem Stamm Dan",
+          "explanation": ""
         },
         {
-          "text": "Josua, der Sohn Nuns",
-          "explanation": "Das Register Ephraims führt bis zu Nun und dessen Sohn Josua [ref:1. Chronik 7:27]."
+          "text": "Josua, der Sohn des Vaters Nun",
+          "explanation": ""
         },
         {
-          "text": "Barak, der Feldherr Deboras",
-          "explanation": "Barak stammte aus dem Stamm Naphtali [ref:1. Chronik 7:27]."
+          "text": "Barak, der Sohn Abinoams im Streit",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "1. Chronik 7:27",
-      "explanation": "Das Geschlechtsregister Ephraims endet mit den Worten: Nun, sein Sohn Josua [ref:1. Chronik 7:27].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "1chr_051",
       "type": "single_choice",
-      "text": "Welchem Stamm ist das achte Kapitel der Chronik gewidmet?",
+      "text": "Welchem Stamm Israels ist das achte Kapitel des ersten Buches der Chronik gewidmet?",
       "options": [
         {
-          "text": "Dem Stamm Juda",
-          "explanation": "Juda wurde bereits in Kapitel 2 bis 4 behandelt [ref:1. Chronik 8:1]."
+          "text": "Dem königlichen Stamme Juda",
+          "explanation": ""
         },
         {
-          "text": "Dem Stamm Levi",
-          "explanation": "Levi wird in Kapitel 6 aufgeführt [ref:1. Chronik 8:1]."
+          "text": "Dem auserwählten Stamme Levi",
+          "explanation": ""
         },
         {
-          "text": "Dem Stamm Dan",
-          "explanation": "Kapitel 8 handelt von Benjamin [ref:1. Chronik 8:1]."
+          "text": "Dem streitbaren Stamme Gad",
+          "explanation": ""
         },
         {
-          "text": "Dem Stamm Benjamin",
-          "explanation": "Das Kapitel führt Benjamin und die Linie Sauls auf [ref:1. Chronik 8:1-40]."
+          "text": "Dem Stamme Benjamin zu Zion",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "1. Chronik 8:1",
-      "explanation": "1. Chronik 8 beginnt mit den Worten: Benjamin zeugte Bela, seinen ersten Sohn, und führt das Geschlechtsregister Benjamins weiter [ref:1. Chronik 8:1].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "1chr_052",
       "type": "single_choice",
-      "text": "Wer war der Vater König Sauls?",
+      "text": "Wer war der Vater König Sauls nach dem Geschlechtsregister in 1. Chronik 8:33?",
       "options": [
         {
-          "text": "Kis, der Sohn Ners",
-          "explanation": "Ner zeugte Kis, und Kis zeugte Saul [ref:1. Chronik 8:33]."
+          "text": "Kis, der Sohn Ners aus Benjamin",
+          "explanation": ""
         },
         {
-          "text": "Abner, der Feldhauptmann",
-          "explanation": "Abner war ein Verwandter Sauls, nicht sein Vater [ref:1. Chronik 8:33]."
+          "text": "Abner, der Feldhauptmann Sauls",
+          "explanation": ""
         },
         {
-          "text": "Isai, der Bethlehemiter",
-          "explanation": "Isai war der Vater Davids [ref:1. Chronik 8:33]."
+          "text": "Isai, der Bethlehemiter aus Juda",
+          "explanation": ""
         },
         {
-          "text": "Eliab, der Erstgeborene Isais",
-          "explanation": "Eliab war Davids ältester Bruder [ref:1. Chronik 8:33]."
+          "text": "Eliab, der erstgeborene Sohn Isais",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "1. Chronik 8:33",
-      "explanation": "Ner zeugte Kis, Kis zeugte Saul, und Saul zeugte Jonathan, Malchisua, Abinadab und Esbaal [ref:1. Chronik 8:33].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "1chr_053",
       "type": "single_choice",
-      "text": "Wie hieß der Sohn Jonathans nach dem Geschlechtsregister?",
+      "text": "Wie hieß der Sohn Jonathans nach 1. Chronik 8:34?",
       "options": [
         {
-          "text": "Rehabeam",
-          "explanation": "Rehabeam war der Sohn Salomos [ref:1. Chronik 8:34]."
+          "text": "Sein Sohn Rehabeam",
+          "explanation": ""
         },
         {
-          "text": "Merib-Baal",
-          "explanation": "Der Sohn Jonathans war Merib-Baal [ref:1. Chronik 8:34]."
+          "text": "Sein Sohn Merib-Baal",
+          "explanation": ""
         },
         {
-          "text": "Amazja",
-          "explanation": "Amazja war ein Sohn des Joas, nicht Jonathans [ref:1. Chronik 8:34]."
+          "text": "Sein Sohn Amazja",
+          "explanation": ""
         },
         {
-          "text": "Joas",
-          "explanation": "Joas war ein Nachkomme Davids [ref:1. Chronik 8:34]."
+          "text": "Sein Sohn Joas",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "1. Chronik 8:34",
-      "explanation": "Der Sohn Jonathans war Merib-Baal, und Merib-Baal zeugte Micha [ref:1. Chronik 8:34].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "1chr_054",
       "type": "single_choice",
-      "text": "Welche Aufgabe hatten die levitischen Torhüter?",
+      "text": "Welches Amt hatten die levitischen Torhüter nach 1. Chronik 9:19-27?",
       "options": [
         {
-          "text": "Sie stellten Waffen für die königliche Leibwache her",
-          "explanation": "Sie bewachten die Schwellen der Hütte [ref:1. Chronik 9:19-27]."
+          "text": "Sie schmiedeten neue Schwerter und Schilde für das Heer des Königs",
+          "explanation": ""
         },
         {
-          "text": "Sie verwalteten die Kasse des Königs und führten die Heeresliste",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie hüteten die Schwellen der Hütte und hielten Wache am Haus Gottes [ref:1. Chronik 9:19-27]."
+          "text": "Sie verwalteten die Schatzkammern des Königs und musterten Krieger",
+          "explanation": ""
         },
         {
-          "text": "Sie hüteten die Schwellen der Hütte und hielten Wache am Haus Gottes",
-          "explanation": "Ihnen oblag die Wache rings um das Haus Gottes [ref:1. Chronik 9:19-27]."
+          "text": "Sie warteten an den Schwellen und hüteten die Tore am Hause Gottes",
+          "explanation": ""
         },
         {
-          "text": "Sie schrieben die Urteile der Richter auf Bronzetafeln",
-          "explanation": "Sie dienten als Wächter der Tore des Heiligtums [ref:1. Chronik 9:19-27]."
+          "text": "Sie schrieben die Rechte und Urteile der Richter auf eherne Tafeln",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "1. Chronik 9:19-27",
-      "explanation": "Die Torhüter waren Hüter der Schwellen der Hütte; sie lagerten rings um das Haus Gottes, denn ihnen oblag die Wache [ref:1. Chronik 9:19-27].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "1chr_055",
       "type": "single_choice",
-      "text": "Was galt für die levitischen Sänger, die in den Kammern des Heiligtums wohnten?",
+      "text": "Was galt für die Sänger, die Häupter der Vaterhäuser der Leviten in den Kammern?",
       "options": [
         {
-          "text": "Sie trugen bei Festen die Krone des Königs und führten den Festzug durch die Straßen an",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie waren von anderem Dienst frei, weil sie Tag und Nacht mit ihrem Amt beschäftigt waren [ref:1. Chronik 9:33]."
+          "text": "Sie führten bei Festen den Festzug mit goldenen Kronen durch Jerusalem an",
+          "explanation": ""
         },
         {
-          "text": "Sie sammelten auf den Plätzen Geld für ihre Lieder und lebten allein von den Gaben des Volkes",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie waren von anderem Dienst frei, weil sie Tag und Nacht mit ihrem Amt beschäftigt waren [ref:1. Chronik 9:33]."
+          "text": "Sie sammelten Gaben von den Pilgern und lebten allein von deren Almosen",
+          "explanation": ""
         },
         {
-          "text": "Sie führten im Kriegsfall die Truppen an und wohnten in den Festungen an den Grenzen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie waren von anderem Dienst frei, weil sie Tag und Nacht mit ihrem Amt beschäftigt waren [ref:1. Chronik 9:33]."
+          "text": "Sie zogen als Boten des Königs umher und verkündeten seine königlichen Gebote",
+          "explanation": ""
         },
         {
-          "text": "Sie waren von anderem Dienst frei, weil sie Tag und Nacht mit ihrem Amt beschäftigt waren",
-          "explanation": "Sie blieben in den Kammern, denn Tag und Nacht waren sie im Dienst [ref:1. Chronik 9:33]."
+          "text": "Sie hatten keinen andern Dienst, denn Tag und Nacht waren sie im Geschäft",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "1. Chronik 9:33",
-      "explanation": "Die Sänger, die Häupter der levitischen Vaterhäuser, hatten in den Kammern keinen anderen Dienst; denn Tag und Nacht waren sie in ihrem Geschäft [ref:1. Chronik 9:33].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "1chr_056",
       "type": "single_choice",
-      "text": "Auf welchem Gebirge fielen Saul und seine Söhne im Kampf gegen die Philister?",
+      "text": "Auf welchem Gebirge fielen die Männer Israels und Saul vor den Philistern?",
       "options": [
         {
           "text": "Auf dem Gebirge Gilboa",
-          "explanation": "Die Israeliten flohen vor den Philistern und fielen auf dem Gilboa [ref:1. Chronik 10:1]."
+          "explanation": ""
         },
         {
-          "text": "Auf dem Berg Karmel",
-          "explanation": "Auf dem Karmel forderte später Elia die Baalspropheten heraus [ref:1. Chronik 10:1]."
+          "text": "Auf dem Gebirge Karmel",
+          "explanation": ""
         },
         {
-          "text": "Auf dem Berg Sinai",
-          "explanation": "Die Schlacht gegen die Philister fand auf dem Gilboa statt [ref:1. Chronik 10:1]."
+          "text": "Auf dem Gebirge Sinai",
+          "explanation": ""
         },
         {
-          "text": "Auf dem Ölberg",
-          "explanation": "Der Gilboa liegt im Norden Israels, nicht bei Jerusalem [ref:1. Chronik 10:1]."
+          "text": "Auf dem Berge der Oliven",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "1. Chronik 10:1",
-      "explanation": "Die Philister stritten wider Israel; die Israeliten flohen und fielen erschlagen auf dem Gebirge Gilboa [ref:1. Chronik 10:1].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "1chr_057",
       "type": "single_choice",
-      "text": "Was taten die streitbaren Männer von Jabes in Gilead mit den Leichnamen Sauls und seiner Söhne?",
+      "text": "Was taten alle streitbaren Männer zu Jabes in Gilead mit den Leichnamen Sauls und seiner Söhne?",
       "options": [
         {
-          "text": "Sie ließen sie als Mahnmal an der Mauer hängen, damit die Philister sie sähen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie holten sie nachts ab, begruben die Gebeine unter der Eiche und fasteten sieben Tage [ref:1. Chronik 10:11-12]."
+          "text": "Sie ließen die Leichname an der Mauer hängen, damit jedermann sie dort sähe",
+          "explanation": ""
         },
         {
-          "text": "Sie holten sie nachts ab, begruben die Gebeine unter der Eiche und fasteten sieben Tage",
-          "explanation": "Sie erwiesen Saul die letzte Ehre [ref:1. Chronik 10:11-12]."
+          "text": "Sie begruben ihre Gebeine unter der Eiche zu Jabes und fasteten sieben Tage",
+          "explanation": ""
         },
         {
-          "text": "Sie verkauften Sauls Rüstung nach Damaskus und gaben den Erlös den Armen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie holten sie nachts ab, begruben die Gebeine unter der Eiche und fasteten sieben Tage [ref:1. Chronik 10:11-12]."
+          "text": "Sie brachten die Rüstungen gen Damaskus und teilten die Beute unter die Armen",
+          "explanation": ""
         },
         {
-          "text": "Sie übergaben die Leichen David zur Beisetzung im Tempel und trauerten dort",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie holten sie nachts ab, begruben die Gebeine unter der Eiche und fasteten sieben Tage [ref:1. Chronik 10:11-12]."
+          "text": "Sie übergaben die Leiber dem Könige David, damit er sie zu Hebron begrabe",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "1. Chronik 10:11-12",
-      "explanation": "Alle streitbaren Männer von Jabes nahmen die Leichname Sauls und seiner Söhne, brachten sie nach Jabes, begruben ihre Gebeine unter der Eiche und fasteten sieben Tage [ref:1. Chronik 10:11-12].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "1chr_058",
       "type": "single_choice",
-      "text": "Wie werden die Gaditer beschrieben, die sich David in der Wüste anschlossen?",
+      "text": "Wie werden die Helden aus den Gaditern beschrieben, die sich zu David sonderten?",
       "options": [
         {
-          "text": "Sie trugen goldene Schilde und flohen vor jedem Heer",
-          "explanation": "Sie waren Helden und Kriegsleute [ref:1. Chronik 12:8]."
+          "text": "Sie führten goldene Schilde und wichen vor keinem Heere",
+          "explanation": ""
         },
         {
-          "text": "Sie krochen lautlos wie Schlangen durch das Schilf",
-          "explanation": "Der Text vergleicht sie mit Löwen und Rehen [ref:1. Chronik 12:8]."
+          "text": "Sie schlichen lautlos wie Schlangen durch das Dickicht",
+          "explanation": ""
         },
         {
-          "text": "Helden mit Löwengesichtern, schnell wie Rehe auf den Bergen",
-          "explanation": "Sie führten Schild und Spieß [ref:1. Chronik 12:8]."
+          "text": "Ihr Angesicht wie der Löwen, schnell wie Rehe auf Bergen",
+          "explanation": ""
         },
         {
-          "text": "Greise Priester, die nur Weihrauchgefäße trugen",
-          "explanation": "Sie führten Schild und Spieß im Kampf [ref:1. Chronik 12:8]."
+          "text": "Sie trugen feine Priesterkleider und sandten Weihrauch dar",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "1. Chronik 12:8",
-      "explanation": "Von den Gaditern kamen zu David starke Helden und Kriegsleute, die Schild und Spieß führten; ihr Angesicht war wie das von Löwen, und sie waren schnell wie die Rehe auf den Bergen [ref:1. Chronik 12:8].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "1chr_059",
       "type": "single_choice",
-      "text": "Was taten die Männer Israels drei Tage lang bei David in Hebron, als er zum König gemacht wurde?",
+      "text": "Was taten die Kriegsleute drei Tage lang bei David zu Hebron, als sie ihn zum König machten?",
       "options": [
         {
-          "text": "Sie bauten Mauern rings um Hebron",
-          "explanation": "Sie feierten ein Freudenfest mit Essen und Trinken [ref:1. Chronik 12:38-40]."
+          "text": "Sie bauten hohe Mauern rings um Hebron",
+          "explanation": ""
         },
         {
-          "text": "Sie zogen mit gezückten Schwertern gegen Ägypten",
-          "explanation": "Es herrschte Eintracht und Freude in Israel [ref:1. Chronik 12:38-40]."
+          "text": "Sie zogen sofort gegen die Philisterheere",
+          "explanation": ""
         },
         {
-          "text": "Sie fasteten und bereuten die Sünden Sauls",
-          "explanation": "Es war Freude in Israel [ref:1. Chronik 12:40]."
+          "text": "Sie fasteten im Staub und bereuten Sünden",
+          "explanation": ""
         },
         {
-          "text": "Sie aßen und tranken voller Freude",
-          "explanation": "Ihre Brüder hatten für sie zubereitet; es war Freude in Israel [ref:1. Chronik 12:38-40]."
+          "text": "Sie aßen und tranken mit Freude vor ihm",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "1. Chronik 12:38-40",
-      "explanation": "Sie waren drei Tage bei David, aßen und tranken, denn ihre Brüder hatten für sie zubereitet; es war Freude in Israel [ref:1. Chronik 12:39-40].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -1794,177 +1794,177 @@
       "text": "Von wo holte David mit ganz Israel die Lade Gottes herauf?",
       "options": [
         {
-          "text": "Aus Kirjat-Jearim (Baala) in Juda",
-          "explanation": "Dort stand die Lade im Haus Abinadabs [ref:1. Chronik 13:5-6]."
+          "text": "Von Kirjath-Jearim (Baala) in Juda",
+          "explanation": ""
         },
         {
-          "text": "Aus Silo, wo sie lange gestanden hatte",
-          "explanation": "Das trifft nicht zu. Richtig ist: Aus Kirjat-Jearim (Baala) in Juda [ref:1. Chronik 13:5-6]."
+          "text": "Von Silo, wo die Stiftshütte stand",
+          "explanation": ""
         },
         {
-          "text": "Aus Gilgal am Jordan, dem alten Lager",
-          "explanation": "Das trifft nicht zu. Richtig ist: Aus Kirjat-Jearim (Baala) in Juda [ref:1. Chronik 13:5-6]."
+          "text": "Von Gilgal am Ufer des Jordanstroms",
+          "explanation": ""
         },
         {
-          "text": "Aus Sichem, der Stadt im Gebirge Ephraim",
-          "explanation": "Das trifft nicht zu. Richtig ist: Aus Kirjat-Jearim (Baala) in Juda [ref:1. Chronik 13:5-6]."
+          "text": "Von Sichem aus dem Gebirge Ephraim",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "1. Chronik 13:5-6",
-      "explanation": "David versammelte ganz Israel, um die Lade Gottes von Kirjat-Jearim zu holen, und zog mit ganz Israel nach Baala in Juda [ref:1. Chronik 13:5-6].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "1chr_061",
       "type": "single_choice",
-      "text": "Was geschah mit dem Hause Obed-Edoms, als die Bundeslade drei Monate bei ihm blieb?",
+      "text": "Was geschah, als die Lade Gottes drei Monate im Hause Obed-Edoms blieb?",
       "options": [
         {
-          "text": "Eine Seuche raffte seine Herden dahin",
-          "explanation": "Im Gegenteil: Gott segnete sein Haus [ref:1. Chronik 13:14]."
+          "text": "Eine schwere Seuche raffte sein Gesinde hinweg",
+          "explanation": ""
         },
         {
           "text": "Der HERR segnete sein Haus und alles, was er hatte",
-          "explanation": "Die Lade blieb drei Monate bei ihm [ref:1. Chronik 13:14]."
+          "explanation": ""
         },
         {
-          "text": "Er übergab die Lade aus Furcht den Philistern",
-          "explanation": "Obed-Edom hütete die Lade und wurde gesegnet [ref:1. Chronik 13:14]."
+          "text": "Er sandte die Bundeslade heimlich zu den Philistern",
+          "explanation": ""
         },
         {
-          "text": "Die Mauern seines Gehöfts stürzten ein",
-          "explanation": "Gottes Gegenwart brachte Segen, kein Unheil [ref:1. Chronik 13:14]."
+          "text": "Feuer vom Himmel verbrannte seine Scheunen und Vieh",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "1. Chronik 13:14",
-      "explanation": "Die Lade Gottes blieb drei Monate im Haus Obed-Edoms, und der HERR segnete sein Haus und alles, was er hatte [ref:1. Chronik 13:14].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "1chr_062",
       "type": "single_choice",
-      "text": "Welcher König sandte David Boten, Zedernholz, Maurer und Zimmerleute für sein Haus?",
+      "text": "Welcher König sandte Boten, Zedernholz, Maurer und Zimmerleute zu David?",
       "options": [
         {
           "text": "Pharao Schischak von Ägypten",
-          "explanation": "Es war Hiram, der König von Tyrus [ref:1. Chronik 14:1]."
+          "explanation": ""
         },
         {
-          "text": "Hadad-Eser, der König von Zoba",
-          "explanation": "Hadad-Eser war ein Gegner Davids [ref:1. Chronik 14:1]."
+          "text": "Hadadeser, der König zu Zoba",
+          "explanation": ""
         },
         {
-          "text": "Hiram, der König von Tyrus",
-          "explanation": "Er half David mit Holz und Handwerkern [ref:1. Chronik 14:1]."
+          "text": "Hiram, der treue König zu Tyrus",
+          "explanation": ""
         },
         {
-          "text": "Sanherib von Assyrien",
-          "explanation": "Hiram von Tyrus unterstützte David [ref:1. Chronik 14:1]."
+          "text": "Sanherib, der König von Assyrien",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "1. Chronik 14:1",
-      "explanation": "Hiram, der König von Tyrus, sandte Boten zu David und Zedernholz, Maurer und Zimmerleute, damit sie ihm ein Haus bauten [ref:1. Chronik 14:1].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "1chr_063",
       "type": "single_choice",
-      "text": "Warum heißt der Ort des Sieges über die Philister Baal-Perazim?",
+      "text": "Warum hießen sie die Stätte des Sieges über die Philister Baal-Perazim?",
       "options": [
         {
-          "text": "Weil David dort einen Altar für Baal baute und ihm ein Brandopfer darbrachte",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil David sprach: Gott hat meine Feinde zertrennt, wie sich das Wasser trennt [ref:1. Chronik 14:11]."
+          "text": "Weil David daselbst einen Altar baute und reiche Brandopfer brachte",
+          "explanation": ""
         },
         {
-          "text": "Weil die Philister dort ihre Rüstungen im Schlamm verloren, als sie flohen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil David sprach: Gott hat meine Feinde zertrennt, wie sich das Wasser trennt [ref:1. Chronik 14:11]."
+          "text": "Weil die Philister dort ihre ehernen Wagen im Schlamm verloren hatten",
+          "explanation": ""
         },
         {
-          "text": "Weil Israel dort sieben Tage lang das Passah feierte und dem HERRN dankte",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil David sprach: Gott hat meine Feinde zertrennt, wie sich das Wasser trennt [ref:1. Chronik 14:11]."
+          "text": "Weil ganz Israel dort sieben Tage lang das Fest des HERRN feierte",
+          "explanation": ""
         },
         {
-          "text": "Weil David sprach: Gott hat meine Feinde zertrennt, wie sich das Wasser trennt",
-          "explanation": "Daher hieß man den Ort Baal-Perazim [ref:1. Chronik 14:11]."
+          "text": "Weil Gott seine Feinde zertrennt hatte, wie sich das Wasser trennt",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "1. Chronik 14:11",
-      "explanation": "David schlug die Philister und sprach: Gott hat meine Feinde durch meine Hand zertrennt, wie sich das Wasser trennt; daher hieß man die Stätte Baal-Perazim [ref:1. Chronik 14:11].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "1chr_065",
       "type": "single_choice",
-      "text": "Wie reagierte Michal, als sie David vor der Lade hüpfen sah?",
+      "text": "Wie reagierte Michal, als sie König David vor der Bundeslade hüpfen und spielen sah?",
       "options": [
         {
-          "text": "Sie stimmte in den Jubel ein",
-          "explanation": "Michal verachtete ihn in ihrem Herzen [ref:1. Chronik 15:29]."
+          "text": "Sie stimmte laut in den Jubel ein",
+          "explanation": ""
         },
         {
           "text": "Sie verachtete ihn in ihrem Herzen",
-          "explanation": "Sie sah ihn durchs Fenster hüpfen und spielen [ref:1. Chronik 15:29]."
+          "explanation": ""
         },
         {
-          "text": "Sie schenkte ihm ein Festgewand aus Purpur",
-          "explanation": "Sie hielt sein Verhalten für unwürdig [ref:1. Chronik 15:29]."
+          "text": "Sie schenkte ihm ein neues Festkleid",
+          "explanation": ""
         },
         {
-          "text": "Sie floh in ihr Schlafgemach",
-          "explanation": "Sie blickte durchs Fenster und verachtete ihn [ref:1. Chronik 15:29]."
+          "text": "Sie floh weinend in ihr Gemach hinein",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "1. Chronik 15:29",
-      "explanation": "Als die Lade in die Stadt Davids kam, sah Michal, die Tochter Sauls, zum Fenster heraus, und als sie David hüpfen und spielen sah, verachtete sie ihn in ihrem Herzen [ref:1. Chronik 15:29].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "1chr_066",
       "type": "single_choice",
-      "text": "Wem übertrug David zuerst den Dienst des Dankens und Lobens vor der Lade?",
+      "text": "Durch wen bestellte David zum ersten Mal, dem HERRN zu danken, vor der Lade?",
       "options": [
         {
-          "text": "Heman, dem Kehatiter",
-          "explanation": "David übergab den Dank Asaph und seinen Brüdern [ref:1. Chronik 16:7]."
+          "text": "Durch Heman, den Kehatiter",
+          "explanation": ""
         },
         {
-          "text": "Jedutun, dem Merariter",
-          "explanation": "Asaph und seine Brüder wurden dazu bestellt [ref:1. Chronik 16:7]."
+          "text": "Durch Jedithun, den Merariter",
+          "explanation": ""
         },
         {
-          "text": "Asaph und seinen Brüdern",
-          "explanation": "David bestellte sie zum ersten Mal, dem HERRN zu danken [ref:1. Chronik 16:7]."
+          "text": "Durch Asaph und seine Brüder",
+          "explanation": ""
         },
         {
-          "text": "Korah und seinen Söhnen",
-          "explanation": "Die Korahiter waren Torhüter [ref:1. Chronik 16:7]."
+          "text": "Durch Korah und seine Söhne",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "1. Chronik 16:7",
-      "explanation": "Zu der Zeit bestellte David zum ersten Mal Asaph und seine Brüder, dem HERRN zu danken [ref:1. Chronik 16:7].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -1975,56 +1975,56 @@
       "options": [
         {
           "text": "Auf dem Berg Zion neben der Lade",
-          "explanation": "Auf Zion stand das Zelt für die Lade, die Wohnung mit dem Altar aber in Gibeon [ref:1. Chronik 16:39-40]."
+          "explanation": ""
         },
         {
-          "text": "In Hebron",
-          "explanation": "Die Wohnung des HERRN stand auf der Höhe zu Gibeon [ref:1. Chronik 16:39-40]."
+          "text": "In der alten Stadt Hebron im Süden",
+          "explanation": ""
         },
         {
-          "text": "Auf dem Berg Ebal bei Sichem",
-          "explanation": "Gibeon war die Opferstätte jener Zeit [ref:1. Chronik 16:39-40]."
+          "text": "Auf dem Berge Ebal bei Sichem",
+          "explanation": ""
         },
         {
-          "text": "Auf der Höhe zu Gibeon",
-          "explanation": "Dort brachten Zadok und die Priester täglich Brandopfer dar [ref:1. Chronik 16:39-40]."
+          "text": "Auf der Höhe zu Gibeon im Lande",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "1. Chronik 16:39-40",
-      "explanation": "David ließ den Priester Zadok und seine Brüder vor der Wohnung des HERRN auf der Höhe zu Gibeon, damit sie täglich Brandopfer darbrachten [ref:1. Chronik 16:39-40].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "1chr_068",
       "type": "single_choice",
-      "text": "Welche ewige Verheißung gab Gott David durch den Propheten Nathan?",
+      "text": "Welche Verheißung gab der HERR dem König David durch den Propheten Nathan?",
       "options": [
         {
-          "text": "Er werde David ein Haus bauen und dessen Thron ewig befestigen",
-          "explanation": "Gott verhieß David ein unvergängliches Königtum [ref:1. Chronik 17:10-14]."
+          "text": "Der HERR will David ein Haus bauen und seinen Thron ewig bestätigen",
+          "explanation": ""
         },
         {
-          "text": "Er werde alle Völker mit eisernem Zepter unterwerfen und beherrschen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er werde David ein Haus bauen und dessen Thron ewig befestigen [ref:1. Chronik 17:10-14]."
+          "text": "Er werde alle Feinde mit eisernem Stabe schlagen und unterwerfen",
+          "explanation": ""
         },
         {
-          "text": "Seine Söhne würden nie Krieg erleiden müssen, solange er lebe",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er werde David ein Haus bauen und dessen Thron ewig befestigen [ref:1. Chronik 17:10-14]."
+          "text": "Seine Söhne würden nimmermehr Streit noch Plage im Lande schauen",
+          "explanation": ""
         },
         {
-          "text": "Er dürfe das Haus für den HERRN noch selbst vollenden",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er werde David ein Haus bauen und dessen Thron ewig befestigen [ref:1. Chronik 17:10-14]."
+          "text": "Er dürfe das Haus für den Namen des HERRN noch selber vollenden",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "1. Chronik 17:10-14",
-      "explanation": "Der HERR verkündigte David, dass er ihm ein Haus bauen wolle; sein Same werde das Haus bauen, und Gott werde seinen Thron ewig befestigen [ref:1. Chronik 17:10-14].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -2034,537 +2034,537 @@
       "text": "Mit welchen Worten betete David vor dem HERRN nach der Verheißung Nathans?",
       "options": [
         {
-          "text": "Meine eigene Gerechtigkeit hat mir die Krone verschafft, und der HERR sah darauf",
-          "explanation": "Das trifft nicht zu. Richtig ist: Wer bin ich, HERR, Gott, und was ist mein Haus, dass du mich bis hierher gebracht hast? [ref:1. Chronik 17:16]."
+          "text": "Meine eigene Gerechtigkeit hat mir den Sieg gegeben, und du hast dareingesehen",
+          "explanation": ""
         },
         {
-          "text": "Wer bin ich, HERR, Gott, und was ist mein Haus, dass du mich bis hierher gebracht hast?",
-          "explanation": "David staunte über Gottes Güte [ref:1. Chronik 17:16]."
+          "text": "Wer bin ich, HERR, Gott, und was ist mein Haus, dass du mich hierher brachtest?",
+          "explanation": ""
         },
         {
-          "text": "Gib mir die Schätze der Völker, damit ich dein Haus mit Gold vollenden kann",
-          "explanation": "Das trifft nicht zu. Richtig ist: Wer bin ich, HERR, Gott, und was ist mein Haus, dass du mich bis hierher gebracht hast? [ref:1. Chronik 17:16]."
+          "text": "Gib mir die Schätze aller Heiden, damit ich dein Haus mit feinstem Golde ziere",
+          "explanation": ""
         },
         {
-          "text": "Gib mir ewiges Leben, damit kein Fremder jemals meinen Thron besteigt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Wer bin ich, HERR, Gott, und was ist mein Haus, dass du mich bis hierher gebracht hast? [ref:1. Chronik 17:16]."
+          "text": "Lass mich ewiglich auf Erden regieren, damit kein Fremder meinen Thron besteigt",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "1. Chronik 17:16",
-      "explanation": "David blieb vor dem HERRN und sprach: Wer bin ich, HERR, Gott, und was ist mein Haus, dass du mich bis hierher gebracht hast? [ref:1. Chronik 17:16].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "1chr_070",
       "type": "single_choice",
-      "text": "Welche Völker unterwarf David nach den Siegesberichten in 1. Chronik 18?",
+      "text": "Welche Völker schlug und unterwarf David nach den Berichten in 1. Chronik 18?",
       "options": [
         {
-          "text": "Die Hethiter am Orontes und die Seefahrer von Tyrus und Sidon",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Philister, Moabiter, Syrer von Zoba und Damaskus und die Edomiter [ref:1. Chronik 18:1-13]."
+          "text": "Die Hethiter am Orontes und die Bewohner von Tyrus und Sidon",
+          "explanation": ""
         },
         {
-          "text": "Die Ägypter, Nubier und Libyer samt ihren Streitwagen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Philister, Moabiter, Syrer von Zoba und Damaskus und die Edomiter [ref:1. Chronik 18:1-13]."
+          "text": "Die Ägypter und Libyer samt all ihren Kriegern und Wagen",
+          "explanation": ""
         },
         {
-          "text": "Die Philister, Moabiter, Syrer von Zoba und Damaskus und die Edomiter",
-          "explanation": "Das Kapitel fasst Davids Siege rings um Israel zusammen [ref:1. Chronik 18:1-13]."
+          "text": "Die Philister, Moabiter, Syrer von Zoba und die Edomiter",
+          "explanation": ""
         },
         {
-          "text": "Die Assyrer, Babylonier und die Stämme Mesopotamiens am Euphrat",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Philister, Moabiter, Syrer von Zoba und Damaskus und die Edomiter [ref:1. Chronik 18:1-13]."
+          "text": "Die Assyrer, Chaldäer und die Stämme Mesopotamiens am Fluss",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "1. Chronik 18:1-13",
-      "explanation": "David schlug die Philister, die Moabiter und Hadad-Eser, den König von Zoba; er unterwarf auch die Syrer von Damaskus und die Edomiter [ref:1. Chronik 18:1-13].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "1chr_071",
       "type": "single_choice",
-      "text": "Welche beiden Männer waren zur Zeit Davids Priester?",
+      "text": "Wer diente zur Zeit Davids als Priester nach 1. Chronik 18:16?",
       "options": [
         {
-          "text": "Hophni und Pinehas, die Söhne des Priesters Eli in Silo",
-          "explanation": "Das trifft nicht zu. Richtig ist: Zadok, der Sohn Ahitobs, und Abimelech, der Sohn Abjathars [ref:1. Chronik 18:16]."
+          "text": "Hophni und Pinehas, die Söhne des Priesters Eli",
+          "explanation": ""
         },
         {
-          "text": "Ahimelech und Ebjatar, die Söhne des Priesters Pinehas",
-          "explanation": "Das trifft nicht zu. Richtig ist: Zadok, der Sohn Ahitobs, und Abimelech, der Sohn Abjathars [ref:1. Chronik 18:16]."
+          "text": "Aaron und seine Söhne beim Altar des Heiligtums",
+          "explanation": ""
         },
         {
-          "text": "Eleasar und Ithamar, die Söhne Aarons aus dem Stamm Levi",
-          "explanation": "Das trifft nicht zu. Richtig ist: Zadok, der Sohn Ahitobs, und Abimelech, der Sohn Abjathars [ref:1. Chronik 18:16]."
+          "text": "Eleasar und Ithamar, die Priester aus dem Zelte",
+          "explanation": ""
         },
         {
-          "text": "Zadok, der Sohn Ahitobs, und Abimelech, der Sohn Abjathars",
-          "explanation": "Sie werden in der Liste der Amtsträger Davids als Priester genannt [ref:1. Chronik 18:16]."
+          "text": "Zadok, Sohn Ahitobs, und Abimelech, Sohn Abjathars",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "1. Chronik 18:16",
-      "explanation": "In der Liste der Amtsträger Davids heißt es: Zadok, der Sohn Ahitobs, und Abimelech, der Sohn Abjathars, waren Priester [ref:1. Chronik 18:16].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "1chr_072",
       "type": "single_choice",
-      "text": "Mit welchen Worten ermutigte Joab seinen Bruder Abisai vor der Schlacht gegen die Syrer und Ammoniter?",
+      "text": "Mit welchen Worten ermutigte Joab seinen Bruder Abisai vor der Schlacht wider die Syrer?",
       "options": [
         {
           "text": "Sei getrost; lass uns handeln für unser Volk; der HERR tue, was ihm gefällt",
-          "explanation": "Joab vertraute den Ausgang der Schlacht Gott an [ref:1. Chronik 19:13]."
+          "explanation": ""
         },
         {
-          "text": "Flieht in die Berge, sobald die syrischen Wagen den Jordan überschreiten",
-          "explanation": "Joab rief zu Mut und Gottvertrauen auf [ref:1. Chronik 19:13]."
+          "text": "Fliehet in das Gebirge, sobald die syrischen Kriegswagen den Jordan überqueren",
+          "explanation": ""
         },
         {
-          "text": "Vertraut auf unsere Rüstungen und fürchtet die Götter der Feinde nicht",
-          "explanation": "Joab stellte den Ausgang in Gottes Hand [ref:1. Chronik 19:13]."
+          "text": "Vertraut auf unsere ehernen Schwerter und fürchtet die Götzen der Heiden nicht",
+          "explanation": ""
         },
         {
-          "text": "Wir wollen mit den Ammonitern Frieden schließen und ihnen Silber zahlen",
-          "explanation": "Joab kämpfte an zwei Fronten gegen Syrer und Ammoniter [ref:1. Chronik 19:13]."
+          "text": "Lasst uns mit den Fürsten Frieden machen und ihnen Tribute an Silber zahlen",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "1. Chronik 19:13",
-      "explanation": "Joab sprach: Sei getrost und lass uns getrost handeln für unser Volk und für die Städte unseres Gottes; der HERR tue, was ihm gefällt [ref:1. Chronik 19:13].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "1chr_073",
       "type": "single_choice",
-      "text": "Was taten die syrischen Könige nach ihrer vernichtenden Niederlage gegen David?",
+      "text": "Was taten die Knechte Hadadesers, als sie sahen, dass sie vor Israel geschlagen waren?",
       "options": [
         {
-          "text": "Sie bauten neue Burgen am Euphrat und rüsteten sofort neue Heere gegen David",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie machten Frieden mit David, wurden seine Knechte und halfen den Ammonitern nicht mehr [ref:1. Chronik 19:19]."
+          "text": "Sie bauten neue Burgen am Euphrat und rüsteten neue Heere wider David zu",
+          "explanation": ""
         },
         {
-          "text": "Sie machten Frieden mit David, wurden seine Knechte und halfen den Ammonitern nicht mehr",
-          "explanation": "Die syrischen Vasallen unterwarfen sich [ref:1. Chronik 19:19]."
+          "text": "Sie machten Frieden mit David und wollten den Kindern Ammon nicht mehr helfen",
+          "explanation": ""
         },
         {
-          "text": "Sie flohen an den Nil und baten den Pharao um Reiter und Wagen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie machten Frieden mit David, wurden seine Knechte und halfen den Ammonitern nicht mehr [ref:1. Chronik 19:19]."
+          "text": "Sie flohen nach Ägypten und baten den Pharao um Rosse und Wagen zum Kampfe",
+          "explanation": ""
         },
         {
-          "text": "Sie verbrannten ihre Städte und flohen in die Wüste von Arabien",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie machten Frieden mit David, wurden seine Knechte und halfen den Ammonitern nicht mehr [ref:1. Chronik 19:19]."
+          "text": "Sie verbrannten ihre Städte und flohen in die einsame Wüste von Arabien",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "1. Chronik 19:19",
-      "explanation": "Als die Knechte Hadad-Esers sahen, dass sie von Israel geschlagen waren, machten sie Frieden mit David und wurden seine Knechte; die Syrer wollten den Ammonitern nicht mehr helfen [ref:1. Chronik 19:19].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "1chr_074",
       "type": "single_choice",
-      "text": "Welche Hauptstadt der Ammoniter belagerte und zerstörte Joab?",
+      "text": "Welche Stadt der Kinder Ammon belagerte und schlug Joab?",
       "options": [
         {
-          "text": "Damaskus",
-          "explanation": "Damaskus war eine aramäische Stadt [ref:1. Chronik 20:1]."
+          "text": "Die Syrerstadt Damaskus",
+          "explanation": ""
         },
         {
-          "text": "Gath",
-          "explanation": "Gath gehörte zu den Philisterstädten [ref:1. Chronik 20:1]."
+          "text": "Die Philisterstadt Gath",
+          "explanation": ""
         },
         {
-          "text": "Rabba",
-          "explanation": "Joab schlug Rabba und zerbrach es [ref:1. Chronik 20:1]."
+          "text": "Die Ammoniterstadt Rabba",
+          "explanation": ""
         },
         {
-          "text": "Susa",
-          "explanation": "Susa lag in Persien, nicht im Land der Ammoniter [ref:1. Chronik 20:1]."
+          "text": "Die Perserstadt Susa",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "1. Chronik 20:1",
-      "explanation": "Joab führte die Heeresmacht, verderbte das Land der Kinder Ammon, belagerte Rabba, schlug es und zerbrach es [ref:1. Chronik 20:1].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "1chr_075",
       "type": "single_choice",
-      "text": "Welcher Riese mit je sechs Fingern und sechs Zehen wurde bei Gath erschlagen, und von wem?",
+      "text": "Wer schlug den großen Riesen zu Gath, der an Händen und Füßen je sechs Finger und Zehen hatte?",
       "options": [
         {
-          "text": "Der König von Moab, den Joab mit dem Schwert erschlug, als er die Stadt einnahm",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ein Riese mit vierundzwanzig Fingern und Zehen, erschlagen von Jonathan, Davids Neffen [ref:1. Chronik 20:6-7]."
+          "text": "Joab, der Feldhauptmann, als er das Tor stürmte",
+          "explanation": ""
         },
         {
-          "text": "Ein Ägypter, den Benaja mit dem Speer erschlug, den er ihm entriss",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ein Riese mit vierundzwanzig Fingern und Zehen, erschlagen von Jonathan, Davids Neffen [ref:1. Chronik 20:6-7]."
+          "text": "Benaja, der Sohn Jojadas, mit seinem Spieße",
+          "explanation": ""
         },
         {
-          "text": "Og von Basan, den Mose besiegte, als Israel durch das Ostjordanland zog",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ein Riese mit vierundzwanzig Fingern und Zehen, erschlagen von Jonathan, Davids Neffen [ref:1. Chronik 20:6-7]."
+          "text": "Abisai, der Sohn der Zeruja, im harten Kampfe",
+          "explanation": ""
         },
         {
-          "text": "Ein Riese mit vierundzwanzig Fingern und Zehen, erschlagen von Jonathan, Davids Neffen",
-          "explanation": "Jonathan, der Sohn Simeas, des Bruders Davids, schlug ihn [ref:1. Chronik 20:6-7]."
+          "text": "Jonathan, der Sohn Simeas, des Bruders Davids",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "1. Chronik 20:6-7",
-      "explanation": "Bei Gath war ein großer Mann mit je sechs Fingern und sechs Zehen, zusammen vierundzwanzig; er höhnte Israel, aber Jonathan, der Sohn Simeas, des Bruders Davids, schlug ihn [ref:1. Chronik 20:6-7].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "1chr_076",
       "type": "single_choice",
-      "text": "Welchen Zuspruch gab David seinem Sohn Salomo für den Tempelbau?",
+      "text": "Welchen Zuspruch gab David seinem Sohn Salomo für das Werk am Hause des HERRN?",
       "options": [
         {
           "text": "So mache dich auf und richte es aus; der HERR wird mit dir sein!",
-          "explanation": "David hatte alles Material bereitet und rief Salomo zur Tat auf [ref:1. Chronik 22:14-16]."
+          "explanation": ""
         },
         {
-          "text": "Warte mit dem Bau, bis alle Nachbarvölker Tribut zahlen",
-          "explanation": "David forderte zur Tat auf, nicht zum Warten [ref:1. Chronik 22:14-16]."
+          "text": "Warte mit dem Bau, bis alle Völker dir Geschenke und Zins bringen",
+          "explanation": ""
         },
         {
-          "text": "Baue den Tempel nach den Plänen babylonischer Baumeister",
-          "explanation": "Der Bau sollte nach Gottes Willen geschehen [ref:1. Chronik 22:11-16]."
+          "text": "Baue das Haus nach dem Rat der weisen Baumeister aus Babylonien",
+          "explanation": ""
         },
         {
-          "text": "Erlaube den Philistern, Altäre neben dem Haus des HERRN zu weihen",
-          "explanation": "Salomo sollte das Gesetz des HERRN treu bewahren [ref:1. Chronik 22:12-13]."
+          "text": "Lass die heidnischen Völker Altäre auf den Bergen Judas errichten",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "1. Chronik 22:16",
-      "explanation": "David sprach zu Salomo: An Gold, Silber, Erz und Eisen ist keine Zahl. So mache dich auf und richte es aus; der HERR wird mit dir sein! [ref:1. Chronik 22:16].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "1chr_077",
       "type": "single_choice",
-      "text": "Wie viele Leviten ab dreißig Jahren wurden unter David gezählt?",
+      "text": "Wie viele Leviten von dreißig Jahren und darüber wurden unter David gezählt?",
       "options": [
         {
-          "text": "Zwölftausend",
-          "explanation": "Es waren achtunddreißigtausend Männer [ref:1. Chronik 23:3]."
+          "text": "Genau zwölftausend Leviten",
+          "explanation": ""
         },
         {
-          "text": "Achtunddreißigtausend",
-          "explanation": "Die Zählung ergab achtunddreißigtausend Männer [ref:1. Chronik 23:3]."
+          "text": "Achtunddreißigtausend Leviten",
+          "explanation": ""
         },
         {
-          "text": "Fünfzigtausend",
-          "explanation": "Die Gesamtzahl betrug achtunddreißigtausend [ref:1. Chronik 23:3-5]."
+          "text": "Genau fünfzigtausend Leviten",
+          "explanation": ""
         },
         {
-          "text": "Siebentausend",
-          "explanation": "Die Gesamtzahl aller gezählten Leviten war achtunddreißigtausend [ref:1. Chronik 23:3]."
+          "text": "Genau siebentausend Leviten",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "1. Chronik 23:3",
-      "explanation": "Man zählte die Leviten von dreißig Jahren und darüber, und ihre Zahl war von Haupt zu Haupt achtunddreißigtausend [ref:1. Chronik 23:3].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "1chr_078",
       "type": "single_choice",
-      "text": "Welche tägliche Pflicht hatten die Leviten am Morgen und am Abend?",
+      "text": "Was war nach 1. Chronik 23:30 der tägliche Dienst der Leviten am Morgen und am Abend?",
       "options": [
         {
-          "text": "Auf den Stadtmauern Jerusalems Wache zu halten und zu rufen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Zu stehen und dem HERRN zu danken und ihn zu loben [ref:1. Chronik 23:30]."
+          "text": "Auf den Mauern Jerusalems Wache zu halten und zu rufen",
+          "explanation": ""
         },
         {
-          "text": "Den Zehnten von den Herden und Feldern einzusammeln",
-          "explanation": "Das trifft nicht zu. Richtig ist: Zu stehen und dem HERRN zu danken und ihn zu loben [ref:1. Chronik 23:30]."
+          "text": "Den Zehnten von allem Getreide und Vieh einzusammeln",
+          "explanation": ""
         },
         {
-          "text": "Zu stehen und dem HERRN zu danken und ihn zu loben",
-          "explanation": "So stand der Lobpreis im Mittelpunkt ihres Dienstes [ref:1. Chronik 23:30]."
+          "text": "Zu stehen des Morgens und Abends, zu danken und loben",
+          "explanation": ""
         },
         {
-          "text": "Den Palast des Königs mit Quellwasser zu versorgen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Zu stehen und dem HERRN zu danken und ihn zu loben [ref:1. Chronik 23:30]."
+          "text": "Den Palast des Königs mit frischem Wasser zu versorgen",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "1. Chronik 23:30",
-      "explanation": "Die Leviten sollten jeden Morgen dastehen, um dem HERRN zu danken und ihn zu loben, und ebenso am Abend [ref:1. Chronik 23:30].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "1chr_079",
       "type": "single_choice",
-      "text": "Von welchen beiden Söhnen Aarons stammten die Priesterordnungen ab?",
+      "text": "Von welchen zwei Söhnen Aarons stammten die Priesterordnungen ab?",
       "options": [
         {
-          "text": "Von Hophni und Pinehas",
-          "explanation": "Diese lebten viel später [ref:1. Chronik 24:1-2]."
+          "text": "Von Hophni und Pinehas am Zelt",
+          "explanation": ""
         },
         {
-          "text": "Von Nadab und Abihu",
-          "explanation": "Nadab und Abihu starben vor ihrem Vater kinderlos [ref:1. Chronik 24:1-2]."
+          "text": "Von Nadab und Abihu im Heiligtum",
+          "explanation": ""
         },
         {
-          "text": "Von Mose und Josua",
-          "explanation": "Mose und Josua waren keine Söhne Aarons [ref:1. Chronik 24:1-2]."
+          "text": "Von Mose und Josua in der Wüste",
+          "explanation": ""
         },
         {
-          "text": "Von Eleasar und Ithamar",
-          "explanation": "Sie wurden Priester, weil Nadab und Abihu kinderlos starben [ref:1. Chronik 24:1-2]."
+          "text": "Von Eleasar und Ithamar, Priestern",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "1. Chronik 24:1-2",
-      "explanation": "Nadab und Abihu starben vor ihrem Vater und hatten keine Kinder; Eleasar und Ithamar wurden Priester [ref:1. Chronik 24:1-2].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "1chr_081",
       "type": "single_choice",
-      "text": "Welche drei Männer sonderte David für den Gesang mit Harfen, Psaltern und Zimbeln aus?",
+      "text": "Welcher Männer Kinder sonderte David samt den Hauptleuten ab, die weissagen sollten mit Harfen, Psaltern und Zimbeln?",
       "options": [
         {
-          "text": "Korah, Datan und Abiram",
-          "explanation": "Diese rebellierten in der Wüste gegen Mose [ref:1. Chronik 25:1]."
+          "text": "Die Kinder Korahs und Datans",
+          "explanation": ""
         },
         {
-          "text": "Asaph, Heman und Jedithun",
-          "explanation": "Ihre Söhne wurden für den Dienst der Propheten mit Saitenspiel abgesondert [ref:1. Chronik 25:1]."
+          "text": "Kinder Asaphs, Hemans, Jedithuns",
+          "explanation": ""
         },
         {
-          "text": "Zadok, Abjathar und Ahimelech",
-          "explanation": "Das waren die Priester, nicht die Sängerführer [ref:1. Chronik 25:1]."
+          "text": "Kinder Zadoks und Abjathars",
+          "explanation": ""
         },
         {
-          "text": "Nathan, Gad und Ahia",
-          "explanation": "Nathan und Gad waren Propheten, aber nicht die Leiter der Sängerabteilungen [ref:1. Chronik 25:1]."
+          "text": "Kinder Nathans und des Sehers Gad",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "1. Chronik 25:1",
-      "explanation": "David und die Feldhauptleute sonderten die Kinder Asaphs, Hemans und Jedithuns ab, die mit Harfen, Psaltern und Zimbeln weissagten [ref:1. Chronik 25:1].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "1chr_082",
       "type": "single_choice",
-      "text": "Wie viele im Gesang des HERRN geübte Meister zählte man samt ihren Brüdern?",
+      "text": "Wie viele Meister zählte man samt ihren Brüdern, die im Gesang des HERRN gelehrt waren?",
       "options": [
         {
-          "text": "Hundertzwanzig",
-          "explanation": "Die Zahl betrug zweihundertachtundachtzig [ref:1. Chronik 25:7]."
+          "text": "Genau hundertzwanzig Meister",
+          "explanation": ""
         },
         {
-          "text": "Dreihundertsechzig",
-          "explanation": "Die Zahl betrug zweihundertachtundachtzig [ref:1. Chronik 25:7-31]."
+          "text": "Dreihundertsechzig Meister",
+          "explanation": ""
         },
         {
           "text": "Zweihundertachtundachtzig",
-          "explanation": "So viele waren im Gesang des HERRN gelehrt [ref:1. Chronik 25:7]."
+          "explanation": ""
         },
         {
-          "text": "Fünfhundert",
-          "explanation": "Genau zweihundertachtundachtzig Meister werden genannt [ref:1. Chronik 25:7]."
+          "text": "Genau fünfhundert Meister",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "1. Chronik 25:7",
-      "explanation": "Ihre Zahl samt ihren Brüdern, die im Gesang des HERRN gelehrt waren, allesamt Meister, betrug zweihundertachtundachtzig [ref:1. Chronik 25:7].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "1chr_083",
       "type": "single_choice",
-      "text": "Warum werden Obed-Edoms Söhne im Torhüterdienst so hervorgehoben?",
+      "text": "Warum werden die Kinder Obed-Edoms im Amt der Torhüter so hervorgehoben?",
       "options": [
         {
-          "text": "Weil sie die besten Schwerter und Speere schmiedeten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil Gott ihn gesegnet hatte und seine Söhne tüchtige Männer waren [ref:1. Chronik 26:4-8]."
+          "text": "Weil sie die besten Schwerter und Spieße für den König schmiedeten",
+          "explanation": ""
         },
         {
-          "text": "Weil sie als Erste mit der Lade nach Jerusalem zogen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil Gott ihn gesegnet hatte und seine Söhne tüchtige Männer waren [ref:1. Chronik 26:4-8]."
+          "text": "Weil sie als Erste mit der heiligen Lade gen Jerusalem gezogen waren",
+          "explanation": ""
         },
         {
-          "text": "Weil sie als Händler großen Reichtum nach Zion brachten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil Gott ihn gesegnet hatte und seine Söhne tüchtige Männer waren [ref:1. Chronik 26:4-8]."
+          "text": "Weil sie als reiche Händler viele Schätze zum Hause Gottes brachten",
+          "explanation": ""
         },
         {
-          "text": "Weil Gott ihn gesegnet hatte und seine Söhne tüchtige Männer waren",
-          "explanation": "Sie waren starke Männer, tüchtig zum Dienst [ref:1. Chronik 26:5-8]."
+          "text": "Weil Gott ihn gesegnet hatte und sie tüchtige Leute zum Amte waren",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "1. Chronik 26:4-8",
-      "explanation": "Gott hatte Obed-Edom gesegnet; seine Söhne und Brüder waren tüchtige Männer, stark zum Dienst [ref:1. Chronik 26:4-8].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "1chr_084",
       "type": "single_choice",
-      "text": "Wer hatte unter den Leviten die Aufsicht über die Schätze des Hauses Gottes und die geheiligten Dinge?",
+      "text": "Wer war unter den Leviten über die Schätze des Hauses Gottes und des Geheiligten gesetzt?",
       "options": [
         {
-          "text": "Ahia",
-          "explanation": "Er war über die Schätze des Hauses Gottes und die geheiligten Schätze gesetzt [ref:1. Chronik 26:20]."
+          "text": "Ahia, der Mann unter den Leviten",
+          "explanation": ""
         },
         {
-          "text": "Der Hohepriester Zadok allein",
-          "explanation": "Die Aufsicht lag bei Ahia und weiteren Leviten [ref:1. Chronik 26:20-28]."
+          "text": "Zadok, der Priester des HERRN",
+          "explanation": ""
         },
         {
-          "text": "Obed-Edom, der Torhüter",
-          "explanation": "Obed-Edom war Torhüter, nicht Schatzmeister [ref:1. Chronik 26:20-28]."
+          "text": "Obed-Edom, Hüter an den Toren",
+          "explanation": ""
         },
         {
-          "text": "Joab, der Feldhauptmann",
-          "explanation": "Die Beute der Kriege wurde von Leviten verwahrt, nicht von Joab [ref:1. Chronik 26:26-28]."
+          "text": "Joab, Feldhauptmann des Heeres",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "1. Chronik 26:20-28",
-      "explanation": "Von den Leviten war Ahia über die Schätze des Hauses Gottes und über die geheiligten Schätze gesetzt [ref:1. Chronik 26:20].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "1chr_085",
       "type": "single_choice",
-      "text": "Wer war nach 1. Chronik 27:33 der Rat des Königs David und wer sein Freund?",
+      "text": "Wer war nach 1. Chronik 27:33 des Königs Rat und wer des Königs Freund?",
       "options": [
         {
-          "text": "Joab war sein Rat und Abner sein Freund und Berater",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ahithophel war sein Rat und Husai der Arachiter sein Freund [ref:1. Chronik 27:33]."
+          "text": "Joab war sein Rat und Abner war des Königs treuer Freund",
+          "explanation": ""
         },
         {
           "text": "Ahithophel war sein Rat und Husai der Arachiter sein Freund",
-          "explanation": "So unterscheidet das Register Rat und Freund des Königs [ref:1. Chronik 27:33]."
+          "explanation": ""
         },
         {
-          "text": "Nathan war sein Rat und Zadok der Priester sein Freund",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ahithophel war sein Rat und Husai der Arachiter sein Freund [ref:1. Chronik 27:33]."
+          "text": "Nathan war sein Rat und Zadok der Priester war sein Freund",
+          "explanation": ""
         },
         {
           "text": "Gad war sein Rat und Barsillai der Gileaditer sein Freund",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ahithophel war sein Rat und Husai der Arachiter sein Freund [ref:1. Chronik 27:33]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "1. Chronik 27:33",
-      "explanation": "Ahithophel war der Rat des Königs, und Husai, der Arachiter, war des Königs Freund [ref:1. Chronik 27:33].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "1chr_086",
       "type": "single_choice",
-      "text": "Warum zählte David die Männer unter zwanzig Jahren nicht mit?",
+      "text": "Warum nahm David die Zahl derer, die von zwanzig Jahren und darunter waren, NICHT auf?",
       "options": [
         {
-          "text": "Weil junge Männer erst nach der Heirat zu den Kriegern zählten",
-          "explanation": "David berief sich auf Gottes Verheißung [ref:1. Chronik 27:23]."
+          "text": "Weil junge Männer erst nach ihrer Heirat zu den Kriegern gezählt wurden",
+          "explanation": ""
         },
         {
-          "text": "Weil die Leviten ihm eine solche Zählung untersagt hatten",
-          "explanation": "Der Grund war die Verheißung der Mehrung Israels [ref:1. Chronik 27:23]."
+          "text": "Weil die Leviten dem König eine Zählung der Jüngeren untersagt hatten",
+          "explanation": ""
         },
         {
-          "text": "Weil der HERR verheißen hatte, Israel wie die Sterne am Himmel zu mehren",
-          "explanation": "David wollte Gottes Verheißung nicht in Zahlen fassen [ref:1. Chronik 27:23]."
+          "text": "Weil der HERR verheißen hatte, Israel wie Sterne am Himmel zu mehren",
+          "explanation": ""
         },
         {
-          "text": "Weil das Gesetz nur Männer mit festem Erbbesitz zum Heerdienst musterte",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil der HERR verheißen hatte, Israel wie die Sterne am Himmel zu mehren [ref:1. Chronik 27:23]."
+          "text": "Weil das Gesetz nur Männer mit eigenem Erbbesitz zum Streit musterte",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "1. Chronik 27:23",
-      "explanation": "David nahm nicht die Zahl derer, die zwanzig Jahre und darunter waren; denn der HERR hatte verheißen, Israel zu mehren wie die Sterne am Himmel [ref:1. Chronik 27:23].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "1chr_087",
       "type": "single_choice",
-      "text": "Welche Ermahnung gab David seinem Sohn Salomo vor der ganzen Gemeinde?",
+      "text": "Welche Ermahnung gab David seinem Sohn Salomo vor der ganzen Gemeinde Israels?",
       "options": [
         {
-          "text": "Sammle möglichst viele Rosse und Wagen aus Ägypten, damit dein Reich stark wird",
-          "explanation": "Das trifft nicht zu. Richtig ist: Erkenne den Gott deines Vaters und diene ihm mit ganzem Herzen und williger Seele [ref:1. Chronik 28:9]."
+          "text": "Sammle dir Rosse und Wagen aus Ägypten, damit dein Königreich mächtig werde",
+          "explanation": ""
         },
         {
-          "text": "Baue Paläste für die Fürsten der Nachbarvölker, damit sie dir Frieden halten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Erkenne den Gott deines Vaters und diene ihm mit ganzem Herzen und williger Seele [ref:1. Chronik 28:9]."
+          "text": "Baue feste Burgen an allen Grenzen, damit fremde Könige dir Frieden halten",
+          "explanation": ""
         },
         {
-          "text": "Halte deine Schätze vor dem Volk geheim, damit niemand sie dir nimmt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Erkenne den Gott deines Vaters und diene ihm mit ganzem Herzen und williger Seele [ref:1. Chronik 28:9]."
+          "text": "Verbirg deine Schätze vor dem Volk, damit niemand sie dir im Aufruhr nehme",
+          "explanation": ""
         },
         {
-          "text": "Erkenne den Gott deines Vaters und diene ihm mit ganzem Herzen und williger Seele",
-          "explanation": "Wirst du ihn suchen, so wirst du ihn finden [ref:1. Chronik 28:9]."
+          "text": "Erkenne den Gott deines Vaters und diene ihm mit ganzem Herzen und Seele",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "1. Chronik 28:9",
-      "explanation": "David sprach: Du, mein Sohn Salomo, erkenne den Gott deines Vaters und diene ihm mit ganzem Herzen und mit williger Seele; denn der HERR sucht alle Herzen [ref:1. Chronik 28:9].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     }
