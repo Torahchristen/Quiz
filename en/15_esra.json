@@ -1,0 +1,923 @@
+{
+  "metadata": {
+    "quizId": "bibel_15_esra_en",
+    "title": "Ezra",
+    "subtitle": "Ezra 1:1 – 10:44 (30 Questions)",
+    "author": "King James Version (1769)",
+    "language": "en",
+    "tags": [
+      "Ezra",
+      "OT",
+      "history",
+      "KJV"
+    ],
+    "questionCount": 30,
+    "canonicalBookNumber": 15,
+    "testament": "AT",
+    "category": "geschichte",
+    "version": "2.3.0",
+    "difficulty": "medium"
+  },
+  "questions": [
+    {
+      "questionId": "esr_001",
+      "type": "single_choice",
+      "text": "Which king of Persia made a proclamation throughout his realm to build the house of God?",
+      "options": [
+        {
+          "text": "King Darius, who ordered the administration of Babylon",
+          "explanation": ""
+        },
+        {
+          "text": "King Artaxerxes, who reigned in royal palace of Shushan",
+          "explanation": ""
+        },
+        {
+          "text": "King Ahasuerus, who ruled over an hundred provinces",
+          "explanation": ""
+        },
+        {
+          "text": "King Cyrus of Persia, whom the LORD stirred up in spirit",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Ezra 1:1-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "esr_002",
+      "type": "single_choice",
+      "text": "What did king Cyrus bring forth out of Babylon unto the returning captivity?",
+      "options": [
+        {
+          "text": "The vessels of the house of the LORD, which Nebuchadnezzar took",
+          "explanation": ""
+        },
+        {
+          "text": "The original tables of the covenant brought from mount Sinai",
+          "explanation": ""
+        },
+        {
+          "text": "The ivory thrones of the ancient kings that ruled in Jerusalem",
+          "explanation": ""
+        },
+        {
+          "text": "The golden armours of war out of the royal armory of David",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Ezra 1:7-11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "esr_003",
+      "type": "single_choice",
+      "text": "Who rose up to go up to build the house of the LORD which is in Jerusalem?",
+      "options": [
+        {
+          "text": "Only the wealthy possessors of lands out of the tribe of Judah",
+          "explanation": ""
+        },
+        {
+          "text": "All them whose spirit God had raised, to go up and build the house",
+          "explanation": ""
+        },
+        {
+          "text": "Only those men of valour that were numbered unto the war",
+          "explanation": ""
+        },
+        {
+          "text": "The Babylonian craftsmen whom Cyrus sent as captive workmen",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Ezra 1:5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "esr_004",
+      "type": "single_choice",
+      "text": "Who were the chief leaders of the children of the province that went up out of captivity?",
+      "options": [
+        {
+          "text": "Ezra the priest and scribe with Nehemiah the royal cupbearer",
+          "explanation": ""
+        },
+        {
+          "text": "The prophet Daniel in his old age with the companions of court",
+          "explanation": ""
+        },
+        {
+          "text": "Zerubbabel the son of Shealtiel, and Jeshua the priest",
+          "explanation": ""
+        },
+        {
+          "text": "Mordecai with the royal messengers of the palace of Shushan",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Ezra 2:1-2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "esr_005",
+      "type": "single_choice",
+      "text": "How many was the whole congregation together of them that returned out of captivity?",
+      "options": [
+        {
+          "text": "Twelve thousand chosen warriors, beside women and little ones",
+          "explanation": ""
+        },
+        {
+          "text": "Two hundred and fifty thousand souls out of the twelve tribes",
+          "explanation": ""
+        },
+        {
+          "text": "Seven thousand men that were all of the holy tribe of Levi",
+          "explanation": ""
+        },
+        {
+          "text": "Forty and two thousand three hundred and threescore persons",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Ezra 2:64-65",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "esr_006",
+      "type": "single_choice",
+      "text": "Why were certain sons of the priests put from the priesthood as polluted?",
+      "options": [
+        {
+          "text": "Because their genealogy was not found, therefore were they put out",
+          "explanation": ""
+        },
+        {
+          "text": "Because they had taken strange wives during captivity in Babylon",
+          "explanation": ""
+        },
+        {
+          "text": "Because they refused to offer burnt offerings according to the law",
+          "explanation": ""
+        },
+        {
+          "text": "Because they brought no silver unto the treasury of the house",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Ezra 2:61-63",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "esr_007",
+      "type": "single_choice",
+      "text": "What did Jeshua and Zerubbabel build first of all in the seventh month?",
+      "options": [
+        {
+          "text": "The broad walls and gates of Jerusalem to defend from enemies",
+          "explanation": ""
+        },
+        {
+          "text": "The altar of the God of Israel, to offer burnt offerings thereon",
+          "explanation": ""
+        },
+        {
+          "text": "The royal palace buildings for the ruler of the province",
+          "explanation": ""
+        },
+        {
+          "text": "A great storehouse for the tithes of the corn and new wine",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Ezra 3:2-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "esr_008",
+      "type": "single_choice",
+      "text": "What song of praise was sung when the builders laid the foundation of the temple?",
+      "options": [
+        {
+          "text": "The LORD is King of kings and will break the horns of the heathen",
+          "explanation": ""
+        },
+        {
+          "text": "Great is king Cyrus of Persia who hath delivered us out of bonds",
+          "explanation": ""
+        },
+        {
+          "text": "Because he is good, for his mercy endureth for ever toward Israel",
+          "explanation": ""
+        },
+        {
+          "text": "Awake, awake, put on thy beautiful garments, O holy Jerusalem",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Ezra 3:11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "esr_009",
+      "type": "single_choice",
+      "text": "Why was the noise of the shout of joy mingled with the noise of the weeping?",
+      "options": [
+        {
+          "text": "Because the adversaries out of Samaria assaulted them with arms",
+          "explanation": ""
+        },
+        {
+          "text": "Because the cedar trees from Lebanon were sunken in the great sea",
+          "explanation": ""
+        },
+        {
+          "text": "Because the people lacked silver to pay the masons and carpenters",
+          "explanation": ""
+        },
+        {
+          "text": "Because many of ancient men, that had seen the first house, wept aloud",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Ezra 3:12-13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "esr_010",
+      "type": "single_choice",
+      "text": "How answered Zerubbabel and Jeshua when the adversaries offered to build with them?",
+      "options": [
+        {
+          "text": "Ye have nothing to do with us to build; but we ourselves will build",
+          "explanation": ""
+        },
+        {
+          "text": "They accepted their help and divided the labor of the sanctuary",
+          "explanation": ""
+        },
+        {
+          "text": "They demanded a great tribute of silver before they should build",
+          "explanation": ""
+        },
+        {
+          "text": "They appealed unto the governor of the province beyond the river",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Ezra 4:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "esr_011",
+      "type": "single_choice",
+      "text": "What accusation did the adversaries write unto Artaxerxes against Jerusalem?",
+      "options": [
+        {
+          "text": "The Jews were preparing weapons of war to invade all provinces",
+          "explanation": ""
+        },
+        {
+          "text": "If this city be builded, then will they not pay toll, tribute, and custom",
+          "explanation": ""
+        },
+        {
+          "text": "The Jewish builders had profaned the ancient sepulchres of kings",
+          "explanation": ""
+        },
+        {
+          "text": "They intended to dedicate the holy temple unto the gods of Canaan",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Ezra 4:12-13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "esr_012",
+      "type": "single_choice",
+      "text": "Until what time ceased the work of the house of God at Jerusalem?",
+      "options": [
+        {
+          "text": "Until the expedition of king Cyrus against the realm of Grecia",
+          "explanation": ""
+        },
+        {
+          "text": "Until the walls of the city of Samaria were overthrown by quake",
+          "explanation": ""
+        },
+        {
+          "text": "Unto the second year of the reign of Darius king of Persia",
+          "explanation": ""
+        },
+        {
+          "text": "Until Ezra the scribe arrived at Zion with a company of soldiers",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Ezra 4:24",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "esr_013",
+      "type": "single_choice",
+      "text": "Which two prophets prophesied unto the Jews to restart the building of the house?",
+      "options": [
+        {
+          "text": "Haggai the prophet, and Zechariah the son of Iddo",
+          "explanation": ""
+        },
+        {
+          "text": "Elijah and Elisha prophesying along river Jordan",
+          "explanation": ""
+        },
+        {
+          "text": "Jeremiah the prophet and his faithful scribe Baruch",
+          "explanation": ""
+        },
+        {
+          "text": "Micah the Morasthite and the prophet Habakkuk",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Ezra 5:1-2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "esr_014",
+      "type": "single_choice",
+      "text": "Which governor on this side the river came and questioned the Jews concerning the building?",
+      "options": [
+        {
+          "text": "Sanballat the governor of the neighbouring province of Samaria",
+          "explanation": ""
+        },
+        {
+          "text": "Tatnai, governor on this side the river, and Shethar-boznai",
+          "explanation": ""
+        },
+        {
+          "text": "Haman the Agagite, the chief prince of the palace of the king",
+          "explanation": ""
+        },
+        {
+          "text": "Potiphar the captain of the royal guard stationed at the border",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Ezra 5:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "esr_015",
+      "type": "single_choice",
+      "text": "Why could the adversaries NOT cause the elders of the Jews to cease from building?",
+      "options": [
+        {
+          "text": "Because Zerubbabel commanded a mighty garrison of horsemen",
+          "explanation": ""
+        },
+        {
+          "text": "Because the walls of the city were already strongly fortified",
+          "explanation": ""
+        },
+        {
+          "text": "Because the eye of their God was upon the elders of the Jews",
+          "explanation": ""
+        },
+        {
+          "text": "Because Tatnai secretly believed in the God of heaven and earth",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Ezra 5:5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "esr_016",
+      "type": "single_choice",
+      "text": "Where was found the roll containing the original decree of Cyrus concerning the house?",
+      "options": [
+        {
+          "text": "In the palace gardens of the royal city of Shushan by river",
+          "explanation": ""
+        },
+        {
+          "text": "Within the ark of covenant hidden in the sanctuary of Zion",
+          "explanation": ""
+        },
+        {
+          "text": "In the treasure house of the ancient city of Babylon of old",
+          "explanation": ""
+        },
+        {
+          "text": "At Achmetha, in the palace that is in the province of Medes",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Ezra 6:2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "esr_017",
+      "type": "single_choice",
+      "text": "What did king Darius command Tatnai and his companions concerning the house of God?",
+      "options": [
+        {
+          "text": "Let the work alone; and of the king's goods let expenses be given",
+          "explanation": ""
+        },
+        {
+          "text": "Carry away all the builders of the temple as servants to Persia",
+          "explanation": ""
+        },
+        {
+          "text": "Break down the altar and erect a palace for the Persian governor",
+          "explanation": ""
+        },
+        {
+          "text": "Shut the gates of Jerusalem and suffer no timber to be brought in",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Ezra 6:6-10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "esr_018",
+      "type": "single_choice",
+      "text": "When was the house finished, and how did the children of Israel keep the dedication?",
+      "options": [
+        {
+          "text": "On the tenth day of the seventh month with a solemn fast of soul",
+          "explanation": ""
+        },
+        {
+          "text": "On the third day of the month Adar in sixth year of Darius with joy",
+          "explanation": ""
+        },
+        {
+          "text": "On the first day of the month Nisan at coronation of Zerubbabel",
+          "explanation": ""
+        },
+        {
+          "text": "At the feast of weeks with bitter lamentation for its smallness",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Ezra 6:15-16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "esr_019",
+      "type": "single_choice",
+      "text": "Under which king of Persia did Ezra go up from Babylon unto Jerusalem?",
+      "options": [
+        {
+          "text": "Under Cyrus the king immediately following the first proclamation",
+          "explanation": ""
+        },
+        {
+          "text": "Under Darius the Mede in the first year of his realm in Chaldea",
+          "explanation": ""
+        },
+        {
+          "text": "Under king Artaxerxes in the seventh year of his royal reign",
+          "explanation": ""
+        },
+        {
+          "text": "Under Ahasuerus following the great war against the Greeks",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Ezra 7:1-7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "esr_020",
+      "type": "single_choice",
+      "text": "What holy purpose prepared the heart of Ezra the priest and scribe?",
+      "options": [
+        {
+          "text": "To gather weapons of war for the defence of the mountains of Judah",
+          "explanation": ""
+        },
+        {
+          "text": "To demand solemn oaths of personal allegiance from all the people",
+          "explanation": ""
+        },
+        {
+          "text": "To obtain high offices of honour in the royal court of the palace",
+          "explanation": ""
+        },
+        {
+          "text": "To seek the law of the LORD, and to do it, and to teach statutes",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Ezra 7:10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "esr_021",
+      "type": "single_choice",
+      "text": "What authority did king Artaxerxes confer upon Ezra the scribe in his decree?",
+      "options": [
+        {
+          "text": "To set magistrates and judges, to teach the law, and execute judgment",
+          "explanation": ""
+        },
+        {
+          "text": "To build a navy of ships upon the great sea against all adversaries",
+          "explanation": ""
+        },
+        {
+          "text": "To pull down every heathen altar and take their treasures for himself",
+          "explanation": ""
+        },
+        {
+          "text": "To crown himself king over all the province beyond the river",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Ezra 7:25-26",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "esr_022",
+      "type": "single_choice",
+      "text": "What did Ezra view when he viewed the people and the priests by river of Ahava?",
+      "options": [
+        {
+          "text": "That no man among them had brought sword or shield for the way",
+          "explanation": ""
+        },
+        {
+          "text": "That he found there none of the sons of Levi among the people",
+          "explanation": ""
+        },
+        {
+          "text": "That a multitude of the men were stricken with sore sickness",
+          "explanation": ""
+        },
+        {
+          "text": "That the ambassadors had lost the royal letters of the Persian king",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Ezra 8:15",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "esr_023",
+      "type": "single_choice",
+      "text": "Why proclaimed Ezra a fast at the river of Ahava, instead of requiring soldiers?",
+      "options": [
+        {
+          "text": "Because king Artaxerxes had strictly forbidden him horsemen",
+          "explanation": ""
+        },
+        {
+          "text": "Because the journey lay through waterless deserts without bread",
+          "explanation": ""
+        },
+        {
+          "text": "Because he was ashamed to require a band of soldiers, trusting in God",
+          "explanation": ""
+        },
+        {
+          "text": "Because strange soldiers would have polluted the holy temple court",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Ezra 8:21-22",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "esr_024",
+      "type": "single_choice",
+      "text": "How was the great weight of silver, gold, and holy vessels kept during the way?",
+      "options": [
+        {
+          "text": "In heavy iron chests guarded by hired horsemen of the wilderness",
+          "explanation": ""
+        },
+        {
+          "text": "In secret barrels marked as flour for the daily meat offerings",
+          "explanation": ""
+        },
+        {
+          "text": "Upon river boats steered silently by night along the channels",
+          "explanation": ""
+        },
+        {
+          "text": "It was weighed into the hands of twelve chief of the priests",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Ezra 8:24-34",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "esr_025",
+      "type": "single_choice",
+      "text": "What great trespass did the princes declare unto Ezra when he was come to Jerusalem?",
+      "options": [
+        {
+          "text": "The people and priests had not separated themselves from the lands",
+          "explanation": ""
+        },
+        {
+          "text": "The merchants refused to deliver the tithes of the wine and corn",
+          "explanation": ""
+        },
+        {
+          "text": "The Levites offered sacrifices in secret upon the ancient hills",
+          "explanation": ""
+        },
+        {
+          "text": "Certain princes purposed to return into the cities of Babylon",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Ezra 9:1-2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "esr_026",
+      "type": "single_choice",
+      "text": "What did Ezra when he heard this thing concerning the holy seed?",
+      "options": [
+        {
+          "text": "He called for the Persian garrison to lay hands upon the transgressors",
+          "explanation": ""
+        },
+        {
+          "text": "He rent his garment and mantle, plucked off his hair, and sat astonied",
+          "explanation": ""
+        },
+        {
+          "text": "He departed immediately from Jerusalem and returned unto Shushan",
+          "explanation": ""
+        },
+        {
+          "text": "He wrote a letter unto the king desiring that all priests be removed",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Ezra 9:3-5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "esr_027",
+      "type": "single_choice",
+      "text": "What did Ezra confess in his prayer at the evening sacrifice with spread hands?",
+      "options": [
+        {
+          "text": "That the people were without fault and led astray by strange nations",
+          "explanation": ""
+        },
+        {
+          "text": "That the destruction of the first temple had been too severe a plague",
+          "explanation": ""
+        },
+        {
+          "text": "That our iniquities are increased over our head unto the heavens",
+          "explanation": ""
+        },
+        {
+          "text": "That new burnt sacrifices would make an instant atonement for all",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Ezra 9:6-13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "esr_028",
+      "type": "single_choice",
+      "text": "What counsel did Shechaniah give unto Ezra concerning the strange wives?",
+      "options": [
+        {
+          "text": "That all the guilty men should be banished ten years unto Egypt",
+          "explanation": ""
+        },
+        {
+          "text": "That the foreign wives should be consecrated for service in temple",
+          "explanation": ""
+        },
+        {
+          "text": "That the matter should be referred unto the decree of the king",
+          "explanation": ""
+        },
+        {
+          "text": "To make a covenant with our God to put away all the strange wives",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Ezra 10:2-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "esr_029",
+      "type": "single_choice",
+      "text": "In what manner were all the men of Judah and Benjamin assembled at Jerusalem?",
+      "options": [
+        {
+          "text": "They sat in the street of the house of God, trembling for great rain",
+          "explanation": ""
+        },
+        {
+          "text": "They stood beneath the covered porches of the court in the summer",
+          "explanation": ""
+        },
+        {
+          "text": "They encamped in the plains of Jericho to escape the cold mountains",
+          "explanation": ""
+        },
+        {
+          "text": "They shut themselves within the strong towers for fear of robbers",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Ezra 10:9",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "esr_030",
+      "type": "single_choice",
+      "text": "How was the matter of the strange wives examined and ended by the rulers?",
+      "options": [
+        {
+          "text": "Every man determined the matter secretly in his own dwellingplace",
+          "explanation": ""
+        },
+        {
+          "text": "The chief of the fathers sat down to examine, and made an end by first month",
+          "explanation": ""
+        },
+        {
+          "text": "Persian governors were appointed to try every case in the judgment",
+          "explanation": ""
+        },
+        {
+          "text": "The holy lot was cast at the altar upon each separate household",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Ezra 10:14-17",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    }
+  ]
+}
