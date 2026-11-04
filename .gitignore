@@ -1,0 +1,6 @@
+sources/
+scripts/kjv_lookup.py
+scripts/review_helper.py
+__pycache__/
+*.pyc
+.DS_Store
