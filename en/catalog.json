@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-11-04T20:31:54Z",
+  "lastUpdated": "2026-11-04T20:44:09Z",
   "language": "en",
   "categories": [
     {
@@ -215,6 +215,25 @@
       ],
       "sizeBytes": 121545,
       "downloadUrl": "./en/09_1_samuel.json"
+    },
+    {
+      "quizId": "bibel_10_2_samuel_en",
+      "category": "geschichte",
+      "title": "2 Samuel",
+      "subtitle": "2 Samuel 1:1 – 24:25 (80 Questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 80,
+      "difficulty": "medium",
+      "tags": [
+        "2 Samuel",
+        "OT",
+        "history",
+        "KJV"
+      ],
+      "sizeBytes": 68479,
+      "downloadUrl": "./en/10_2_samuel.json"
     }
   ]
 }
