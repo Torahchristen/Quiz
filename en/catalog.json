@@ -1,54 +1,46 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-11-04T15:07:32Z",
+  "lastUpdated": "2026-11-04T17:18:56Z",
   "language": "en",
   "categories": [
     {
       "id": "torah",
       "name": "Torah Weekly Portions",
-      "icon": "📜",
       "description": "54 Parashot of the Torah"
     },
     {
       "id": "gesetz",
       "name": "Law & Torah",
-      "icon": "⚖️",
       "description": "The Books of the Law (Exodus to Deuteronomy)"
     },
     {
       "id": "geschichte",
       "name": "Historical Books",
-      "icon": "🏛️",
       "description": "Joshua to Esther"
     },
     {
       "id": "weisheit",
       "name": "Wisdom & Poetry",
-      "icon": "💡",
       "description": "Job, Psalms, Proverbs, Ecclesiastes, Song of Solomon"
     },
     {
       "id": "propheten",
       "name": "Prophets (Major & Minor)",
-      "icon": "🔥",
       "description": "Isaiah to Malachi"
     },
     {
       "id": "at",
       "name": "Old Testament",
-      "icon": "📜",
       "description": "The Old Testament: Law, History, Wisdom, and Prophets"
     },
     {
       "id": "nt",
       "name": "New Testament",
-      "icon": "✝️",
       "description": "Gospels, Acts, Epistles, and Revelation"
     },
     {
       "id": "themen",
       "name": "Topics & Feasts",
-      "icon": "🕯️",
       "description": "Bible Topics, Feasts, and Doctrine"
     }
   ],
@@ -71,6 +63,25 @@
       ],
       "sizeBytes": 263300,
       "downloadUrl": "./en/01_1_mose.json"
+    },
+    {
+      "quizId": "bibel_02_2_mose_en",
+      "category": "gesetz",
+      "title": "Exodus",
+      "subtitle": "Exodus 1:1 – 40:38 (293 Questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 293,
+      "difficulty": "medium",
+      "tags": [
+        "Exodus",
+        "OT",
+        "law",
+        "KJV"
+      ],
+      "sizeBytes": 252756,
+      "downloadUrl": "./en/02_2_mose.json"
     }
   ]
 }
