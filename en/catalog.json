@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-11-04T17:18:56Z",
+  "lastUpdated": "2026-11-04T17:34:42Z",
   "language": "en",
   "categories": [
     {
@@ -82,6 +82,25 @@
       ],
       "sizeBytes": 252756,
       "downloadUrl": "./en/02_2_mose.json"
+    },
+    {
+      "quizId": "bibel_03_3_mose_en",
+      "category": "gesetz",
+      "title": "Leviticus",
+      "subtitle": "Leviticus 1:1 – 27:34 (173 Questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 173,
+      "difficulty": "medium",
+      "tags": [
+        "Leviticus",
+        "OT",
+        "law",
+        "KJV"
+      ],
+      "sizeBytes": 152123,
+      "downloadUrl": "./en/03_3_mose.json"
     }
   ]
 }

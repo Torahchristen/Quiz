@@ -1,0 +1,5213 @@
+{
+  "metadata": {
+    "quizId": "bibel_03_3_mose_en",
+    "title": "Leviticus",
+    "subtitle": "Leviticus 1:1 – 27:34 (173 Questions)",
+    "author": "King James Version (1769)",
+    "language": "en",
+    "tags": [
+      "Leviticus",
+      "OT",
+      "law",
+      "KJV"
+    ],
+    "questionCount": 173,
+    "canonicalBookNumber": 3,
+    "testament": "AT",
+    "category": "gesetz",
+    "version": "2.3.0",
+    "difficulty": "medium"
+  },
+  "questions": [
+    {
+      "questionId": "lev_001",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "From what holy place did the LORD call unto Moses to give him the laws of the offerings?",
+      "options": [
+        {
+          "text": "From the burning summit of Mount Sinai",
+          "explanation": ""
+        },
+        {
+          "text": "Out of the midst of the flaming bush",
+          "explanation": ""
+        },
+        {
+          "text": "Out of the tabernacle of the congregation",
+          "explanation": ""
+        },
+        {
+          "text": "Before the gates of the camp by the altar",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Leviticus 1:1",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_002",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What requirement did the law specify for cattle brought as a burnt sacrifice unto the LORD?",
+      "options": [
+        {
+          "text": "It had to be a male without any blemish",
+          "explanation": ""
+        },
+        {
+          "text": "It had to be a young female heifer of the herd",
+          "explanation": ""
+        },
+        {
+          "text": "It had to be at least three full years of age",
+          "explanation": ""
+        },
+        {
+          "text": "It had to be born within the court of the tabernacle",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Leviticus 1:3",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_003",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What was the offerer required to do with his hand before the burnt sacrifice was killed?",
+      "options": [
+        {
+          "text": "Wash the animal three times with pure water",
+          "explanation": ""
+        },
+        {
+          "text": "Put his hand upon the head of the burnt offering",
+          "explanation": ""
+        },
+        {
+          "text": "Anoint the horns of the beast with holy oil",
+          "explanation": ""
+        },
+        {
+          "text": "Bind the mouth of the animal with clean linen",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Leviticus 1:4",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_004",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Where were Aaron's sons, the priests, commanded to sprinkle the blood of the burnt offering?",
+      "options": [
+        {
+          "text": "Upon the golden altar of incense in the tent",
+          "explanation": ""
+        },
+        {
+          "text": "Upon the open ground outside the holy camp",
+          "explanation": ""
+        },
+        {
+          "text": "Round about upon the altar by the door of the tent",
+          "explanation": ""
+        },
+        {
+          "text": "Upon the white garments worn by the high priest",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Leviticus 1:5",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_005",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Which parts of the burnt sacrifice had to be washed in water before being burnt on the altar?",
+      "options": [
+        {
+          "text": "The head and the thick fat of the breast",
+          "explanation": ""
+        },
+        {
+          "text": "The hide and the four hooves of the animal",
+          "explanation": ""
+        },
+        {
+          "text": "The liver and the two kidneys with the caul",
+          "explanation": ""
+        },
+        {
+          "text": "His inwards and his legs of the sacrificial beast",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Leviticus 1:9",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_006",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Which fowls was a poor man permitted to bring as an acceptable burnt offering unto the LORD?",
+      "options": [
+        {
+          "text": "Turtledoves, or young pigeons of the field",
+          "explanation": ""
+        },
+        {
+          "text": "Young eagles, or wild ravens of the valley",
+          "explanation": ""
+        },
+        {
+          "text": "Clean quails, or young sparrows from the hedge",
+          "explanation": ""
+        },
+        {
+          "text": "White doves, or clean partridges of the hill",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Leviticus 1:14",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_007",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What became of the skin of any man's burnt offering after the animal was slain?",
+      "options": [
+        {
+          "text": "It had to be burnt completely outside the camp",
+          "explanation": ""
+        },
+        {
+          "text": "The priest that offereth it shall have the skin",
+          "explanation": ""
+        },
+        {
+          "text": "It was given back to the offerer for his tent",
+          "explanation": ""
+        },
+        {
+          "text": "It was laid before the ark in the most holy place",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Leviticus 7:8",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_008",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What were the three essential ingredients of an uncooked meat offering brought unto the LORD?",
+      "options": [
+        {
+          "text": "Barley flour, pure water, and sweet honey",
+          "explanation": ""
+        },
+        {
+          "text": "Crushed wheat, sweet wine, and bitter herbs",
+          "explanation": ""
+        },
+        {
+          "text": "Fine flour, oil poured thereon, and frankincense",
+          "explanation": ""
+        },
+        {
+          "text": "Coarse meal, sheep fat, and fragrant myrrh",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Leviticus 2:1",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_009",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What portion of the meat offering did the priest take to burn as a memorial upon the altar?",
+      "options": [
+        {
+          "text": "The entire offering mixed with all the oil",
+          "explanation": ""
+        },
+        {
+          "text": "Exactly half of the flour and all of the salt",
+          "explanation": ""
+        },
+        {
+          "text": "A third part of the fine meal and the herbs",
+          "explanation": ""
+        },
+        {
+          "text": "A handful of the flour, of the oil, and all the incense",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Leviticus 2:2",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_010",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "To whom did the remnant of the meat offering belong after the memorial was burnt?",
+      "options": [
+        {
+          "text": "Unto Aaron and his sons, as a thing most holy",
+          "explanation": ""
+        },
+        {
+          "text": "Unto the offerer and his family for a sacred feast",
+          "explanation": ""
+        },
+        {
+          "text": "Unto the poor strangers and widows in the gate",
+          "explanation": ""
+        },
+        {
+          "text": "Unto the Levites who carried the sacred vessels",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Leviticus 2:3",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_011",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Which two substances were strictly forbidden to be burnt in ANY meat offering unto the LORD?",
+      "options": [
+        {
+          "text": "Pure olive oil and white salt of the sea",
+          "explanation": ""
+        },
+        {
+          "text": "Any leaven, and any honey in the sacrifice",
+          "explanation": ""
+        },
+        {
+          "text": "Sweet wine and bitter mountain herbs",
+          "explanation": ""
+        },
+        {
+          "text": "Fine frankincense and dried myrrh",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Leviticus 2:11",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_012",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What seasoning was commanded to accompany every meat offering as an enduring sign of the covenant?",
+      "options": [
+        {
+          "text": "Pure frankincense from the merchants",
+          "explanation": ""
+        },
+        {
+          "text": "Sweet olive oil from the sacred presses",
+          "explanation": ""
+        },
+        {
+          "text": "The salt of the covenant of thy God",
+          "explanation": ""
+        },
+        {
+          "text": "Fragrant cinnamon from the southern land",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Leviticus 2:13",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_013",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "In what manner were the firstfruits of the harvest to be offered as a meat offering unto the LORD?",
+      "options": [
+        {
+          "text": "As heavy sheaves of wheat freshly cut down",
+          "explanation": ""
+        },
+        {
+          "text": "As baked loaves of bread mixed with leaven",
+          "explanation": ""
+        },
+        {
+          "text": "As unground barley seeds steeped in wine",
+          "explanation": ""
+        },
+        {
+          "text": "As green ears of corn dried by fire and beaten out",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Leviticus 2:14",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_014",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What form of preparation was prescribed for a meat offering baken in the oven?",
+      "options": [
+        {
+          "text": "Unleavened cakes of fine flour mingled with oil",
+          "explanation": ""
+        },
+        {
+          "text": "Leavened loaves baked with dried sweet raisins",
+          "explanation": ""
+        },
+        {
+          "text": "Boiled flour dumplings seasoned with fresh salt",
+          "explanation": ""
+        },
+        {
+          "text": "Thin wafers rubbed with the sweet fat of sheep",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Leviticus 2:4",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_015",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What gender was permitted for an animal offered as a sacrifice of peace offering of the herd?",
+      "options": [
+        {
+          "text": "Only a male without blemish was accepted",
+          "explanation": ""
+        },
+        {
+          "text": "Whether it be a male or female without blemish",
+          "explanation": ""
+        },
+        {
+          "text": "Only a young female heifer born in that year",
+          "explanation": ""
+        },
+        {
+          "text": "Only twin bullocks brought from the home fold",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Leviticus 3:1",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_016",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Which inward portions of the peace offering were to be offered as an offering made by fire unto the LORD?",
+      "options": [
+        {
+          "text": "The heart, the lungs, and the flesh of the ribs",
+          "explanation": ""
+        },
+        {
+          "text": "The entire shoulder, the tongue, and the throat",
+          "explanation": ""
+        },
+        {
+          "text": "The fat that covereth the inwards and the two kidneys",
+          "explanation": ""
+        },
+        {
+          "text": "The hide of the breast, the marrow, and the spleen",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Leviticus 3:3-4",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_017",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What special fat portion of a sacrificial lamb was taken off hard by the backbone for the altar?",
+      "options": [
+        {
+          "text": "The fatty skin covering the neck of the beast",
+          "explanation": ""
+        },
+        {
+          "text": "The rich fat layer clinging unto the brisket",
+          "explanation": ""
+        },
+        {
+          "text": "The entire suet encasing the lower ribs",
+          "explanation": ""
+        },
+        {
+          "text": "The whole rump taken off hard by the backbone",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Leviticus 3:9",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_018",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "How does the law describe the fat of the peace offering burnt by the priest upon the altar?",
+      "options": [
+        {
+          "text": "It is the food of the offering made by fire unto the LORD",
+          "explanation": ""
+        },
+        {
+          "text": "It is a sacred gift belonging entirely to the common poor",
+          "explanation": ""
+        },
+        {
+          "text": "It is an earthly token reserved for the judges of the tribes",
+          "explanation": ""
+        },
+        {
+          "text": "It is a memorial share given unto the keeper of the court",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Leviticus 3:11",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_019",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Where was the offerer commanded to kill his peace offering before the LORD?",
+      "options": [
+        {
+          "text": "Outside the gates of the camp by the river",
+          "explanation": ""
+        },
+        {
+          "text": "At the door of the tabernacle of the congregation",
+          "explanation": ""
+        },
+        {
+          "text": "On the north side of the sacred wooden altar",
+          "explanation": ""
+        },
+        {
+          "text": "Within the holy place before the inner veil",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Leviticus 3:2",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_020",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What perpetual statute for their generations was established concerning their eating in all dwellings?",
+      "options": [
+        {
+          "text": "That they should eat no meat during the holy feasts",
+          "explanation": ""
+        },
+        {
+          "text": "That they should eat neither leavened bread nor olives",
+          "explanation": ""
+        },
+        {
+          "text": "That ye eat neither fat nor blood in all your dwellings",
+          "explanation": ""
+        },
+        {
+          "text": "That they should eat no bitter herbs after nightfall",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Leviticus 3:17",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_021",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "For what kind of transgressions against the commandments of the LORD was the sin offering prescribed?",
+      "options": [
+        {
+          "text": "For deliberate rebellion against the civil rulers",
+          "explanation": ""
+        },
+        {
+          "text": "For willful blasphemy committed in open public",
+          "explanation": ""
+        },
+        {
+          "text": "For violent robbery committed against a neighbor",
+          "explanation": ""
+        },
+        {
+          "text": "If a soul shall sin through ignorance against any command",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Leviticus 4:2",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_022",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What offering did the law require if the anointed priest sinned according to the sin of the people?",
+      "options": [
+        {
+          "text": "A young bullock without blemish for a sin offering",
+          "explanation": ""
+        },
+        {
+          "text": "A male goat without blemish from the desert flocks",
+          "explanation": ""
+        },
+        {
+          "text": "A ram of the first year taken from the fold",
+          "explanation": ""
+        },
+        {
+          "text": "Two young turtledoves offered before the door",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Leviticus 4:3",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_023",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "How many times did the anointed priest sprinkle the blood of the bullock before the veil of the sanctuary?",
+      "options": [
+        {
+          "text": "Three times upon the threshold of the tent",
+          "explanation": ""
+        },
+        {
+          "text": "Seven times before the veil of the sanctuary",
+          "explanation": ""
+        },
+        {
+          "text": "Twelve times facing toward the four quarters",
+          "explanation": ""
+        },
+        {
+          "text": "Once only upon the golden base of the veil",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Leviticus 4:6",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_024",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Where were the skin, flesh, head, and dung of the priest's sin offering to be carried and burnt?",
+      "options": [
+        {
+          "text": "Upon the brazen altar in the courtyard of the tent",
+          "explanation": ""
+        },
+        {
+          "text": "Within the holy place on the golden hearth of incense",
+          "explanation": ""
+        },
+        {
+          "text": "Without the camp, unto a clean place where ashes are poured",
+          "explanation": ""
+        },
+        {
+          "text": "Into a deep pit dug near the boundary of the camp",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Leviticus 4:11-12",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_025",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What animal was a ruler commanded to bring for his sin offering when his sin came to his knowledge?",
+      "options": [
+        {
+          "text": "A young heifer that had never borne any yoke",
+          "explanation": ""
+        },
+        {
+          "text": "A pure white ram taken from the chief flocks",
+          "explanation": ""
+        },
+        {
+          "text": "A young bullock without spot from his stable",
+          "explanation": ""
+        },
+        {
+          "text": "A kid of the goats, a male without blemish",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Leviticus 4:22-23",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_026",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What animal did one of the common people bring for a sin offering when he sinned through ignorance?",
+      "options": [
+        {
+          "text": "A kid of the goats, a female without blemish",
+          "explanation": ""
+        },
+        {
+          "text": "A young bullock from the common herd of cattle",
+          "explanation": ""
+        },
+        {
+          "text": "A strong ram taken from the chief pastures",
+          "explanation": ""
+        },
+        {
+          "text": "A male goat without blemish from the fold",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Leviticus 4:28",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_027",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What was done with the blood of the sin offering brought by one of the common people?",
+      "options": [
+        {
+          "text": "Sprinkled seven times before the inner veil of the tent",
+          "explanation": ""
+        },
+        {
+          "text": "Put upon the horns of the altar of burnt offering",
+          "explanation": ""
+        },
+        {
+          "text": "Poured out upon the threshold of the high priest's court",
+          "explanation": ""
+        },
+        {
+          "text": "Carried into the holy place and sprinkled on the lamp",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Leviticus 4:30",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_028",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What consequence befell a person who heard the voice of swearing and did not utter what he had seen?",
+      "options": [
+        {
+          "text": "He was banished from the camp for forty days",
+          "explanation": ""
+        },
+        {
+          "text": "He had to restore fourfold the hidden goods",
+          "explanation": ""
+        },
+        {
+          "text": "If he did not utter it, he shall bear his iniquity",
+          "explanation": ""
+        },
+        {
+          "text": "He was disqualified from offering gifts at the altar",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Leviticus 5:1",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_029",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What could a poor Israelite bring if he were not able to bring a lamb for his trespass offering?",
+      "options": [
+        {
+          "text": "A small piece of silver measured by the elders",
+          "explanation": ""
+        },
+        {
+          "text": "A handful of dried barley flour without olive oil",
+          "explanation": ""
+        },
+        {
+          "text": "A basket of summer figs gathered from the trees",
+          "explanation": ""
+        },
+        {
+          "text": "Two turtledoves, or two young pigeons unto the LORD",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Leviticus 5:7",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_030",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What offering could an extremely poor man bring who was not able to bring two turtledoves?",
+      "options": [
+        {
+          "text": "The tenth part of an ephah of fine flour for a sin offering",
+          "explanation": ""
+        },
+        {
+          "text": "A cup of cold water drawn from the sanctuary fountain",
+          "explanation": ""
+        },
+        {
+          "text": "A handful of roasted grain gathered from the harvest field",
+          "explanation": ""
+        },
+        {
+          "text": "A small bundle of clean hyssop from the garden wall",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Leviticus 5:11",
+      "explanation": "An ephah is approximately 22 liters; the tenth part of an ephah was about 2.2 liters of fine flour (the daily ration of a poor man).",
+      "explanationReviewed": true
+    },
+    {
+      "questionId": "lev_031",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Why was the poor man commanded to put NO oil and NO frankincense upon his flour offering?",
+      "options": [
+        {
+          "text": "Because fine olive oil was too costly for his family",
+          "explanation": ""
+        },
+        {
+          "text": "For it is a sin offering, and not a sweet savour",
+          "explanation": ""
+        },
+        {
+          "text": "Because frankincense was reserved solely for the princes",
+          "explanation": ""
+        },
+        {
+          "text": "Because mourning rites forbade the use of sweet spices",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Leviticus 5:11",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_032",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What offering was required for a trespass committed in ignorance concerning the holy things of the LORD?",
+      "options": [
+        {
+          "text": "A young bullock without blemish from the herd",
+          "explanation": ""
+        },
+        {
+          "text": "A male kid of the goats taken from the flock",
+          "explanation": ""
+        },
+        {
+          "text": "A ram without blemish out of the flocks with estimation",
+          "explanation": ""
+        },
+        {
+          "text": "A female lamb of the first year from the fold",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Leviticus 5:15",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_033",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What restitution was the trespasser required to add to the valuation of the holy thing he had harmed?",
+      "options": [
+        {
+          "text": "A tenth part added unto the principal value",
+          "explanation": ""
+        },
+        {
+          "text": "A third part added unto the estimated price",
+          "explanation": ""
+        },
+        {
+          "text": "Double the amount of the damage that was done",
+          "explanation": ""
+        },
+        {
+          "text": "He shall add the fifth part thereto unto the priest",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Leviticus 5:16",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_034",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What spiritual requirement was necessary before a guilty man brought his trespass offering?",
+      "options": [
+        {
+          "text": "He shall confess that he hath sinned in that thing",
+          "explanation": ""
+        },
+        {
+          "text": "He had to fast in sackcloth and ashes for three days",
+          "explanation": ""
+        },
+        {
+          "text": "He was required to wash his garments before the elders",
+          "explanation": ""
+        },
+        {
+          "text": "He had to bow seven times towards the holy sanctuary",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Leviticus 5:5",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_035",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What legal restitution was required of a man who defrauded his neighbor of that which was delivered him?",
+      "options": [
+        {
+          "text": "He had only to bring the sacrificial ram to the altar",
+          "explanation": ""
+        },
+        {
+          "text": "He shall restore it in the principal, and add the fifth part",
+          "explanation": ""
+        },
+        {
+          "text": "He had to pay threefold damages unto the treasury",
+          "explanation": ""
+        },
+        {
+          "text": "He was sentenced to four years of bondage to his neighbor",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Leviticus 6:4-5",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_037",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What perpetual rule did God ordain concerning the fire upon the altar of burnt offering?",
+      "options": [
+        {
+          "text": "It was permitted to burn only on the solemn Sabbath day",
+          "explanation": ""
+        },
+        {
+          "text": "It had to be rekindled anew each evening with pine wood",
+          "explanation": ""
+        },
+        {
+          "text": "It blazed only during the three solemn feasts of Israel",
+          "explanation": ""
+        },
+        {
+          "text": "It shall ever be burning upon the altar, and never go out",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Leviticus 6:13",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_038",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What apparel was the priest commanded to put on when taking up the ashes of the burnt offering?",
+      "options": [
+        {
+          "text": "His linen garment, and his linen breeches upon his flesh",
+          "explanation": ""
+        },
+        {
+          "text": "His common woolen robe worn during travel through the camp",
+          "explanation": ""
+        },
+        {
+          "text": "The glorious golden ephod adorned with the breastplate",
+          "explanation": ""
+        },
+        {
+          "text": "A mourning garment of coarse black goat hair",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Leviticus 6:10",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_039",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What became of every meat offering offered for the anointed priest himself?",
+      "options": [
+        {
+          "text": "It was eaten by all the priests within the sacred court",
+          "explanation": ""
+        },
+        {
+          "text": "It shall be wholly burnt; it shall not be eaten",
+          "explanation": ""
+        },
+        {
+          "text": "It was distributed among the poor families of the people",
+          "explanation": ""
+        },
+        {
+          "text": "It was mingled with the sacrificial blood of the bullock",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Leviticus 6:23",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_040",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What was to be done with an earthen vessel wherein the flesh of the sin offering had been sodden?",
+      "options": [
+        {
+          "text": "It was washed with salt water and rinsed seven times",
+          "explanation": ""
+        },
+        {
+          "text": "It was purified by being held in the flames of the altar",
+          "explanation": ""
+        },
+        {
+          "text": "The earthen vessel wherein it is sodden shall be broken",
+          "explanation": ""
+        },
+        {
+          "text": "It was set apart for ordinary household use in the camp",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Leviticus 6:28",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_041",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Under what condition was the flesh of a sin offering STRICTLY forbidden to be eaten?",
+      "options": [
+        {
+          "text": "If the sacrificial beast was a female sheep of the fold",
+          "explanation": ""
+        },
+        {
+          "text": "If the offering was brought upon a common working day",
+          "explanation": ""
+        },
+        {
+          "text": "If the offerer was not a native-born son of the tribe of Levi",
+          "explanation": ""
+        },
+        {
+          "text": "Whereof any of the blood is brought into the tabernacle to reconcile",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Leviticus 6:30",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_042",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "In what place was the animal for the trespass offering commanded to be killed?",
+      "options": [
+        {
+          "text": "In the place where they kill the burnt offering",
+          "explanation": ""
+        },
+        {
+          "text": "On the south side before the golden candlestick",
+          "explanation": ""
+        },
+        {
+          "text": "Without the camp in a clean place where ashes lie",
+          "explanation": ""
+        },
+        {
+          "text": "Directly before the eastern gate of the outer court",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Leviticus 7:2",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_044",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "By what time had the flesh of the sacrifice of peace offerings for thanksgiving to be eaten?",
+      "options": [
+        {
+          "text": "Within the space of three full days following the sacred feast",
+          "explanation": ""
+        },
+        {
+          "text": "Before the next solemn Sabbath day of the gathered congregation",
+          "explanation": ""
+        },
+        {
+          "text": "The same day that it is offered; none shall be left until the morning",
+          "explanation": ""
+        },
+        {
+          "text": "Within seven full days following the presentation of the gifts",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Leviticus 7:15",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_045",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What was to be done with any remainder of the flesh of a vow offering on the third day?",
+      "options": [
+        {
+          "text": "It was reserved as holy food for all the anointed priests",
+          "explanation": ""
+        },
+        {
+          "text": "It was preserved with salt for future annual sacred feasts",
+          "explanation": ""
+        },
+        {
+          "text": "It was given to the poor strangers dwelling outside the camp",
+          "explanation": ""
+        },
+        {
+          "text": "The remainder on the third day shall be burnt with fire",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Leviticus 7:17-18",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_046",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What severe judgment befell any person who ate the flesh of the peace offerings having uncleanness upon him?",
+      "options": [
+        {
+          "text": "Even that soul shall be cut off from his people",
+          "explanation": ""
+        },
+        {
+          "text": "He had to pay a double fine unto the sanctuary treasury",
+          "explanation": ""
+        },
+        {
+          "text": "He was banished from the camp of Israel for forty days",
+          "explanation": ""
+        },
+        {
+          "text": "He was required to bring an additional trespass ram",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Leviticus 7:20",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_047",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Concerning which three kinds of beasts did the LORD forbid Israel to eat any manner of fat?",
+      "options": [
+        {
+          "text": "Of camel, of wild horse, or of any desert mountain ass",
+          "explanation": ""
+        },
+        {
+          "text": "Ye shall eat no manner of fat, of ox, of sheep, or of goat",
+          "explanation": ""
+        },
+        {
+          "text": "Of hart, of wild roebuck, or of any swift desert gazelle",
+          "explanation": ""
+        },
+        {
+          "text": "Of fowl, of fish, or of any wild beast taken in hunting",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Leviticus 7:23",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_048",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What judgment was pronounced upon any soul that ate any manner of blood in their dwellings?",
+      "options": [
+        {
+          "text": "He had to pay thirty shekels of silver to the priests",
+          "explanation": ""
+        },
+        {
+          "text": "He was shut out from the camp for seven full days",
+          "explanation": ""
+        },
+        {
+          "text": "Even that soul shall be cut off from his people",
+          "explanation": ""
+        },
+        {
+          "text": "He had to offer three rams at the door of the tent",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Leviticus 7:26-27",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_049",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "Which portions of the peace offerings did the LORD assign to Aaron and his sons by a perpetual statute?",
+      "options": [
+        {
+          "text": "The head and the thick fat covering the inward sacrificial parts",
+          "explanation": ""
+        },
+        {
+          "text": "The two kidneys and the caul above the sacred consecrated liver",
+          "explanation": ""
+        },
+        {
+          "text": "The right shank and the choice skin of the breast of the animal",
+          "explanation": ""
+        },
+        {
+          "text": "The wave breast and the heave shoulder from off the sacrifices",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Leviticus 7:34",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_050",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "Where was all the congregation of Israel commanded to gather for the consecration of the priests?",
+      "options": [
+        {
+          "text": "Unto the door of the tabernacle of the congregation",
+          "explanation": ""
+        },
+        {
+          "text": "At the foot of Mount Sinai where the law was given",
+          "explanation": ""
+        },
+        {
+          "text": "Before the royal tent of Moses in the midst of the camp",
+          "explanation": ""
+        },
+        {
+          "text": "On the hill overlooking the holy desert plains",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Leviticus 8:3",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_051",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What act did Moses perform upon Aaron and his sons before putting on their priestly garments?",
+      "options": [
+        {
+          "text": "He anointed their heads with precious sweet myrrh",
+          "explanation": ""
+        },
+        {
+          "text": "Moses brought Aaron and his sons, and washed them with water",
+          "explanation": ""
+        },
+        {
+          "text": "He cut their hair and trimmed their beards with shears",
+          "explanation": ""
+        },
+        {
+          "text": "He commanded them to confess all their past trespasses",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Leviticus 8:6",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_052",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What did Moses place upon Aaron's mitre as the holy crown of his sacred office?",
+      "options": [
+        {
+          "text": "A band of pure scarlet silk woven with blue thread",
+          "explanation": ""
+        },
+        {
+          "text": "A wreath of silver bells and fragrant almond blossoms",
+          "explanation": ""
+        },
+        {
+          "text": "The golden plate, the holy crown, upon his forefront",
+          "explanation": ""
+        },
+        {
+          "text": "Two engraved onyx stones bearing the names of Israel",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Leviticus 8:9",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_053",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What did Moses use to sanctify the tabernacle, the altar, and Aaron the high priest?",
+      "options": [
+        {
+          "text": "The sprinkled water of purification from the brazen laver",
+          "explanation": ""
+        },
+        {
+          "text": "The sweet burning incense taken from the golden altar",
+          "explanation": ""
+        },
+        {
+          "text": "The fresh morning dew collected from Mount Hermon",
+          "explanation": ""
+        },
+        {
+          "text": "The anointing oil poured upon them to sanctify them",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Leviticus 8:10-12",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_054",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Where did Moses put the blood of the bullock for the sin offering at the dedication of the altar?",
+      "options": [
+        {
+          "text": "Upon the horns of the altar round about with his finger",
+          "explanation": ""
+        },
+        {
+          "text": "Upon the four corner sockets beneath the brazen grating",
+          "explanation": ""
+        },
+        {
+          "text": "Upon the inner veil before the holy mercy seat",
+          "explanation": ""
+        },
+        {
+          "text": "Upon the steps leading up to the holy sanctuary",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Leviticus 8:15",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_055",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Upon which three parts of Aaron's body did Moses put the blood of the ram of consecration?",
+      "options": [
+        {
+          "text": "Upon his forehead, his right shoulder, and the kneecap of his right leg",
+          "explanation": ""
+        },
+        {
+          "text": "Upon the tip of his right ear, his right thumb, and his right great toe",
+          "explanation": ""
+        },
+        {
+          "text": "Upon his right eye, the palm of his left hand, and his right heel-bone",
+          "explanation": ""
+        },
+        {
+          "text": "Upon his tongue, the center of his right breast, and his right ankle",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Leviticus 8:23",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_056",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Into whose hands did Moses put the fat portions and unleavened bread to wave them before the LORD?",
+      "options": [
+        {
+          "text": "Into the hands of the twelve princes of the tribes",
+          "explanation": ""
+        },
+        {
+          "text": "Into the hands of the seventy appointed elders",
+          "explanation": ""
+        },
+        {
+          "text": "Upon Aaron's hands, and upon his sons' hands",
+          "explanation": ""
+        },
+        {
+          "text": "Into the hands of the young Levites of the court",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Leviticus 8:27",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_057",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "How many days were Aaron and his sons commanded to abide at the door of the tabernacle day and night?",
+      "options": [
+        {
+          "text": "Three days and three nights until the holy Sabbath appeared",
+          "explanation": ""
+        },
+        {
+          "text": "Forty days in solemn prayer and fasting before the door of the tent",
+          "explanation": ""
+        },
+        {
+          "text": "Twelve days according to the number of the twelve tribes of Israel",
+          "explanation": ""
+        },
+        {
+          "text": "Seven days and nights until the days of consecration were fulfilled",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Leviticus 8:33-35",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_058",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "On which day did Moses call Aaron, his sons, and the elders of Israel to begin their priestly ministry?",
+      "options": [
+        {
+          "text": "On the eighth day after the days of consecration",
+          "explanation": ""
+        },
+        {
+          "text": "On the tenth day of the first sacred month",
+          "explanation": ""
+        },
+        {
+          "text": "On the fourteenth day at the feast of passover",
+          "explanation": ""
+        },
+        {
+          "text": "On the first day of the following new moon",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Leviticus 9:1",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_059",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What animal was Aaron commanded to take for his own personal sin offering on that day?",
+      "options": [
+        {
+          "text": "An old male goat without blemish from the desert fold",
+          "explanation": ""
+        },
+        {
+          "text": "A young calf for a sin offering, and a ram for a burnt offering",
+          "explanation": ""
+        },
+        {
+          "text": "A pair of young turtledoves brought from the holy mountain",
+          "explanation": ""
+        },
+        {
+          "text": "A strong bullock of three years chosen from the home herd",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Leviticus 9:2",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_060",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What did Aaron do with the blood of his calf of the sin offering at the altar?",
+      "options": [
+        {
+          "text": "He sprinkled it seven times before the inner veil of the sanctuary",
+          "explanation": ""
+        },
+        {
+          "text": "He poured it all out into the sand outside the gates of the camp",
+          "explanation": ""
+        },
+        {
+          "text": "He dipped his finger in the blood, and put it upon the altar horns",
+          "explanation": ""
+        },
+        {
+          "text": "He sprinkled it over the garments of all the seventy chief elders",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Leviticus 9:9",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_061",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What animal did Aaron take to offer as the sin offering for the people of Israel?",
+      "options": [
+        {
+          "text": "A young bullock without blemish from the herd",
+          "explanation": ""
+        },
+        {
+          "text": "A ram of the first year taken from the pastures",
+          "explanation": ""
+        },
+        {
+          "text": "Two female lambs without blemish from the fold",
+          "explanation": ""
+        },
+        {
+          "text": "The goat, which was the sin offering for the people",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Leviticus 9:15",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_062",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What did Aaron do toward the people after he had finished offering the sin, burnt, and peace offerings?",
+      "options": [
+        {
+          "text": "He lifted up his hand toward the people, and blessed them",
+          "explanation": ""
+        },
+        {
+          "text": "He bowed himself seven times before the sacred ark",
+          "explanation": ""
+        },
+        {
+          "text": "He commanded the elders to divide the remaining meat",
+          "explanation": ""
+        },
+        {
+          "text": "He changed his garments and put on common apparel",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Leviticus 9:22",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_063",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What visible wonder appeared before all the people when Moses and Aaron came out of the tabernacle?",
+      "options": [
+        {
+          "text": "The ark of the covenant shone with light and a dove ascended",
+          "explanation": ""
+        },
+        {
+          "text": "The glory of the LORD appeared, and fire consumed the offering",
+          "explanation": ""
+        },
+        {
+          "text": "A sudden tempest of heavy rain quenched the altar coals",
+          "explanation": ""
+        },
+        {
+          "text": "The cloudy pillar was divided asunder by a mighty thunder",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Leviticus 9:23-24",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_064",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What grievous transgression did Nadab and Abihu, the sons of Aaron, commit before the LORD?",
+      "options": [
+        {
+          "text": "They refused to slay the ram of consecration",
+          "explanation": ""
+        },
+        {
+          "text": "They stole the consecrated gold from the tent",
+          "explanation": ""
+        },
+        {
+          "text": "They offered strange fire before the LORD",
+          "explanation": ""
+        },
+        {
+          "text": "They entered into the holy place in unwashed linen",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Leviticus 10:1",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_065",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "In what manner did the judgment of God fall upon Nadab and Abihu?",
+      "options": [
+        {
+          "text": "They were smitten with sudden white leprosy on their brow",
+          "explanation": ""
+        },
+        {
+          "text": "The earth opened her mouth and swallowed them in the court",
+          "explanation": ""
+        },
+        {
+          "text": "They were cast out from the holy priesthood forevermore",
+          "explanation": ""
+        },
+        {
+          "text": "There went out fire from the LORD, and devoured them",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Leviticus 10:2",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_066",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Who carried the dead bodies of Nadab and Abihu in their coats out of the camp?",
+      "options": [
+        {
+          "text": "Mishael and Elzaphan, the cousins of Aaron",
+          "explanation": ""
+        },
+        {
+          "text": "Eleazar and Ithamar, their surviving brethren",
+          "explanation": ""
+        },
+        {
+          "text": "The seventy appointed elders of the tribes of Israel",
+          "explanation": ""
+        },
+        {
+          "text": "The Levites of the family of Kohath from the camp",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Leviticus 10:4-5",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_067",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What mourning customs were Aaron and his remaining sons strictly forbidden to observe?",
+      "options": [
+        {
+          "text": "Eating bitter herbs and fasting for seven full days",
+          "explanation": ""
+        },
+        {
+          "text": "Uncovering their heads and rending their clothes",
+          "explanation": ""
+        },
+        {
+          "text": "Sitting upon the ground in sackcloth and grey ashes",
+          "explanation": ""
+        },
+        {
+          "text": "Weeping aloud before the gates of the holy sanctuary",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Leviticus 10:6",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_068",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What perpetual statute was given to Aaron and his sons when entering the tabernacle of the congregation?",
+      "options": [
+        {
+          "text": "They were to fast from sunset until the midday sacrifice",
+          "explanation": ""
+        },
+        {
+          "text": "They had to wear purple girdles tied around their waists",
+          "explanation": ""
+        },
+        {
+          "text": "Do not drink wine nor strong drink, lest ye die",
+          "explanation": ""
+        },
+        {
+          "text": "They were never to speak aloud within the sacred courts",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Leviticus 10:9",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_069",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Why was Moses angry with Eleazar and Ithamar concerning the goat of the sin offering?",
+      "options": [
+        {
+          "text": "Because they had neglected to sprinkle its blood outside",
+          "explanation": ""
+        },
+        {
+          "text": "Because they had given the choice portions to their kin",
+          "explanation": ""
+        },
+        {
+          "text": "Because they offered it on a common stone upon the sand",
+          "explanation": ""
+        },
+        {
+          "text": "Because it was burnt, and they had not eaten it in the holy place",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Leviticus 10:16-18",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_070",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "How did Aaron answer Moses when questioned why they had not eaten the sin offering on that tragic day?",
+      "options": [
+        {
+          "text": "Such things have befallen me; should it have been accepted?",
+          "explanation": ""
+        },
+        {
+          "text": "Because the sacred fire of the altar had consumed all the meat",
+          "explanation": ""
+        },
+        {
+          "text": "Because the elders of the congregation commanded them to fast",
+          "explanation": ""
+        },
+        {
+          "text": "Because they were unclean according to the laws of leprosy",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Leviticus 10:19",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_071",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Which two physical characteristics had to be present for a beast of the earth to be clean for food?",
+      "options": [
+        {
+          "text": "Long curving horns and sharp cloven hooves",
+          "explanation": ""
+        },
+        {
+          "text": "Parteth the hoof and is clovenfooted, and cheweth the cud",
+          "explanation": ""
+        },
+        {
+          "text": "Four walking legs and short white fleece",
+          "explanation": ""
+        },
+        {
+          "text": "Eating green grass and drinking running river water",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Leviticus 11:3",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_072",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Why was the swine declared unclean unto the children of Israel, though he divide the hoof?",
+      "options": [
+        {
+          "text": "Because he feedeth upon unclean carrion in the mire",
+          "explanation": ""
+        },
+        {
+          "text": "Because he hath no horns upon his head to defend him",
+          "explanation": ""
+        },
+        {
+          "text": "Though he divide the hoof, yet he cheweth not the cud",
+          "explanation": ""
+        },
+        {
+          "text": "Because he walloweth continually in damp marshland",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Leviticus 11:7",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_073",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What physical feature did the law require of all living creatures in the waters to be clean?",
+      "options": [
+        {
+          "text": "A smooth silver skin without any hard scales",
+          "explanation": ""
+        },
+        {
+          "text": "The ability to swim against the swift mountain currents",
+          "explanation": ""
+        },
+        {
+          "text": "Breathing both the fresh air and living water",
+          "explanation": ""
+        },
+        {
+          "text": "Whatsoever hath fins and scales in the waters",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Leviticus 11:9",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_074",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Which flying creeping things that go upon all four were permitted unto Israel to eat?",
+      "options": [
+        {
+          "text": "Those which have legs above their feet, to leap withal, as the locust",
+          "explanation": ""
+        },
+        {
+          "text": "Those winged creatures that feed solely upon fresh wild flowers",
+          "explanation": ""
+        },
+        {
+          "text": "Those small gnats and beetles that live in high mountain crags",
+          "explanation": ""
+        },
+        {
+          "text": "Those desert flies that gather honey from the sweet date trees",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Leviticus 11:21-22",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_075",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "How long did the uncleanness of a person last who touched the carcase of any unclean beast?",
+      "options": [
+        {
+          "text": "For three full days after washing in water",
+          "explanation": ""
+        },
+        {
+          "text": "He shall be unclean until the even",
+          "explanation": ""
+        },
+        {
+          "text": "Seven days until the following Sabbath morning",
+          "explanation": ""
+        },
+        {
+          "text": "Until he brought a young ram to the door of the tent",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Leviticus 11:24",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_076",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What was to be done with an earthen vessel whereinto the carcase of an unclean creeping thing fell?",
+      "options": [
+        {
+          "text": "It was to be washed seven times in living brook water",
+          "explanation": ""
+        },
+        {
+          "text": "It was scoured with hot ashes and placed in the sun",
+          "explanation": ""
+        },
+        {
+          "text": "Whatsoever is in it shall be unclean; and ye shall break it",
+          "explanation": ""
+        },
+        {
+          "text": "It was buried secretly in the ground outside the camp",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Leviticus 11:33",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_077",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What exception to uncleanness was made when a dead carcase fell into a fountain or pit of water?",
+      "options": [
+        {
+          "text": "The water had to be boiled before anyone could drink it",
+          "explanation": ""
+        },
+        {
+          "text": "The entire fountain remained unclean for forty full days",
+          "explanation": ""
+        },
+        {
+          "text": "The priest had to sprinkle ashes over the spring",
+          "explanation": ""
+        },
+        {
+          "text": "A fountain or pit, wherein there is plenty of water, shall be clean",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Leviticus 11:36",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_078",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "On which day was a newborn man child commanded to be circumcised in the flesh of his foreskin?",
+      "options": [
+        {
+          "text": "In the eighth day the flesh of his foreskin shall be circumcised",
+          "explanation": ""
+        },
+        {
+          "text": "On the seventh day when the holy Sabbath was observed",
+          "explanation": ""
+        },
+        {
+          "text": "On the fourteenth day after his mother was purified",
+          "explanation": ""
+        },
+        {
+          "text": "On the thirtieth day at the presentation in the sanctuary",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Leviticus 12:3",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_079",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "How many days did the days of purifying for a mother last who had borne a man child?",
+      "options": [
+        {
+          "text": "Fourteen days in all until her purification",
+          "explanation": ""
+        },
+        {
+          "text": "Three and thirty days, being forty in all",
+          "explanation": ""
+        },
+        {
+          "text": "Fifty full days according to the jubilee",
+          "explanation": ""
+        },
+        {
+          "text": "Seven days of separation within her tent",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Leviticus 12:2-4",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_080",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "How many total days did the purification of a mother last if she bare a maid child?",
+      "options": [
+        {
+          "text": "Forty days in all, even as for a young son",
+          "explanation": ""
+        },
+        {
+          "text": "Fifty days according to the counting of weeks",
+          "explanation": ""
+        },
+        {
+          "text": "Eighty days in all (two weeks and threescore and six days)",
+          "explanation": ""
+        },
+        {
+          "text": "A hundred and twenty days of separation in her tent",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Leviticus 12:5",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_081",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What regular offerings was a woman commanded to bring when the days of her purifying were fulfilled?",
+      "options": [
+        {
+          "text": "Two young bullocks and a measure of flour",
+          "explanation": ""
+        },
+        {
+          "text": "A she-goat for sin offering and two rams",
+          "explanation": ""
+        },
+        {
+          "text": "Three turtledoves and a flask of fine oil",
+          "explanation": ""
+        },
+        {
+          "text": "A lamb of the first year, and a young pigeon",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Leviticus 12:6",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_082",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What alternate offering was allowed for a mother who was not able to bring a lamb?",
+      "options": [
+        {
+          "text": "She shall bring two turtles, or two young pigeons",
+          "explanation": ""
+        },
+        {
+          "text": "A tenth deal of fine flour mingled with pure salt",
+          "explanation": ""
+        },
+        {
+          "text": "A small piece of silver given unto the chief priest",
+          "explanation": ""
+        },
+        {
+          "text": "A sheaf of barley gathered from the common harvest field",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Leviticus 12:8",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_083",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Who held the sole authority to examine a plague in the skin and pronounce a person unclean?",
+      "options": [
+        {
+          "text": "The civil magistrate and the elders of the city gate",
+          "explanation": ""
+        },
+        {
+          "text": "He shall be brought unto Aaron the priest, or one of his sons",
+          "explanation": ""
+        },
+        {
+          "text": "The oldest physician residing within the camp of Israel",
+          "explanation": ""
+        },
+        {
+          "text": "The father or head of the household in his own tent",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Leviticus 13:2-3",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_084",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "How long did the priest shut up him that had the doubtful plague of leprosy for observation?",
+      "options": [
+        {
+          "text": "Three days and nights in a private tent",
+          "explanation": ""
+        },
+        {
+          "text": "For forty full days outside the camp gate",
+          "explanation": ""
+        },
+        {
+          "text": "The priest shall shut him up seven days",
+          "explanation": ""
+        },
+        {
+          "text": "Twelve days until the new moon appeareth",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Leviticus 13:4-5",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_085",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What surprising judgment did the priest pronounce if the leprosy covered all the skin from head to foot?",
+      "options": [
+        {
+          "text": "He was banished forever beyond the camp",
+          "explanation": ""
+        },
+        {
+          "text": "He was shut up in solitary confinement",
+          "explanation": ""
+        },
+        {
+          "text": "He had to offer ten rams at the altar",
+          "explanation": ""
+        },
+        {
+          "text": "Pronounce him clean: it is all turned white",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Leviticus 13:12-13",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_086",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What signs was the leper in whom the plague is commanded to display before all men?",
+      "options": [
+        {
+          "text": "His clothes shall be rent, his head bare, and he shall cry, Unclean, unclean",
+          "explanation": ""
+        },
+        {
+          "text": "He had to wear black sackcloth, cast dust on his head, and carry a bell",
+          "explanation": ""
+        },
+        {
+          "text": "He had to shave his eyebrows, wear wooden shoes, and walk backward",
+          "explanation": ""
+        },
+        {
+          "text": "He was required to cover his entire body with a heavy purple veil",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Leviticus 13:45",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_087",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "Upon what materials or articles could a fretting plague of leprosy also break forth?",
+      "options": [
+        {
+          "text": "In bronze vessels, iron plowshares, and gold ornaments",
+          "explanation": ""
+        },
+        {
+          "text": "Whether it be in the warp, or woof; of linen, or of woollen; or of skin",
+          "explanation": ""
+        },
+        {
+          "text": "In cedar wood beams, stone thresholds, and roof tiles",
+          "explanation": ""
+        },
+        {
+          "text": "In earthen jars, woven straw baskets, and olive presses",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Leviticus 13:47-48",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_088",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What was to be done with a garment if the plague of leprosy was a fretting leprosy in it?",
+      "options": [
+        {
+          "text": "It was washed in the river and stored in darkness for a year",
+          "explanation": ""
+        },
+        {
+          "text": "It was buried deep under the sand outside the camp of Israel",
+          "explanation": ""
+        },
+        {
+          "text": "He shall therefore burn that garment, whether warp or woof, in the fire",
+          "explanation": ""
+        },
+        {
+          "text": "It was given to the poor strangers who dwelt without the gate",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Leviticus 13:52",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_089",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What articles did the priest command to take for him that was to be cleansed from leprosy?",
+      "options": [
+        {
+          "text": "Two young calves, a horn of oil, and sweet incense",
+          "explanation": ""
+        },
+        {
+          "text": "Two silver coins, a branch of myrtle, and spring water",
+          "explanation": ""
+        },
+        {
+          "text": "A white lamb, three measures of flour, and bitter herbs",
+          "explanation": ""
+        },
+        {
+          "text": "Two birds alive and clean, and cedar wood, and scarlet, and hyssop",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Leviticus 14:4",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_090",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Over what was one of the clean birds commanded to be killed for the cleansing of the leper?",
+      "options": [
+        {
+          "text": "In an earthen vessel over running water",
+          "explanation": ""
+        },
+        {
+          "text": "Over the blazing coals upon the brazen altar",
+          "explanation": ""
+        },
+        {
+          "text": "Over a smooth stone placed at the door of the tent",
+          "explanation": ""
+        },
+        {
+          "text": "Over a golden cup filled with the oil of anointing",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Leviticus 14:5",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_091",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What was done with the living bird after the leper had been sprinkled seven times?",
+      "options": [
+        {
+          "text": "It was burnt upon the altar as a sweet-smelling savour",
+          "explanation": ""
+        },
+        {
+          "text": "He shall let the living bird loose into the open field",
+          "explanation": ""
+        },
+        {
+          "text": "It was kept in a wicker cage within the sacred court",
+          "explanation": ""
+        },
+        {
+          "text": "It was given unto the high priest as a perpetual possession",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Leviticus 14:7",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_092",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What thorough bodily cleansing was required of the leper on the seventh day?",
+      "options": [
+        {
+          "text": "He had to fast from food and wash his clothes in salt water",
+          "explanation": ""
+        },
+        {
+          "text": "He had to anoint his whole body with thirty drops of myrrh",
+          "explanation": ""
+        },
+        {
+          "text": "He shall shave all his hair, his head and beard, and wash in water",
+          "explanation": ""
+        },
+        {
+          "text": "He had to stand barefoot in the sun from dawn until twilight",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Leviticus 14:9",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_093",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What three animals did a man of substance bring on the eighth day for his final cleansing?",
+      "options": [
+        {
+          "text": "Three young bullocks without blemish from his herd",
+          "explanation": ""
+        },
+        {
+          "text": "Three female goats of the first year from his pastures",
+          "explanation": ""
+        },
+        {
+          "text": "Three pure white rams taken from the desert flocks",
+          "explanation": ""
+        },
+        {
+          "text": "Two he lambs without blemish, and one ewe lamb of the first year",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Leviticus 14:10",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_094",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "With what did the priest touch the right ear, thumb, and great toe of him that was to be cleansed?",
+      "options": [
+        {
+          "text": "With the blood of the trespass offering",
+          "explanation": ""
+        },
+        {
+          "text": "With the pure oil taken from the golden candlestick",
+          "explanation": ""
+        },
+        {
+          "text": "With the water of separation mingled with ashes",
+          "explanation": ""
+        },
+        {
+          "text": "With the fine flour taken from the meat offering",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Leviticus 14:14",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_095",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What did the priest do with the remnant of the oil that was in his hand?",
+      "options": [
+        {
+          "text": "He poured it all upon the blazing coals of the altar",
+          "explanation": ""
+        },
+        {
+          "text": "He shall pour it upon the head of him that is to be cleansed",
+          "explanation": ""
+        },
+        {
+          "text": "He gave it unto his fellow priests to keep in the sanctuary",
+          "explanation": ""
+        },
+        {
+          "text": "He sprinkled it seven times over the doors of the tent",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Leviticus 14:18",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_096",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What reduced offering was permitted if the cleansed leper was poor and could not get so much?",
+      "options": [
+        {
+          "text": "A handful of parched grain and two small cups of wine",
+          "explanation": ""
+        },
+        {
+          "text": "A single turtle dove and a small piece of holy silver",
+          "explanation": ""
+        },
+        {
+          "text": "One he lamb for a trespass offering, and two turtledoves",
+          "explanation": ""
+        },
+        {
+          "text": "A female kid of the goats and a fifth part of an ephah",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Leviticus 14:21-22",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_097",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "By what appearance was a suspected plague of leprosy recognized in the walls of a house?",
+      "options": [
+        {
+          "text": "By black mold smelling of decay and damp marsh water",
+          "explanation": ""
+        },
+        {
+          "text": "By white powdery dust falling continuously from the ceiling",
+          "explanation": ""
+        },
+        {
+          "text": "By wide cracks running down the stone cornerstones",
+          "explanation": ""
+        },
+        {
+          "text": "By hollow strakes, greenish or reddish, in sight lower than the wall",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Leviticus 14:37",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_098",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "How many days did the priest shut up the house that had the plague before inspecting it again?",
+      "options": [
+        {
+          "text": "He shall shut up the house seven days",
+          "explanation": ""
+        },
+        {
+          "text": "Three full days from the evening of his visit",
+          "explanation": ""
+        },
+        {
+          "text": "Fourteen days until the phase of the moon changed",
+          "explanation": ""
+        },
+        {
+          "text": "Forty days in total while the owners lodged without",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Leviticus 14:38-39",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_099",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What measure did the priest command if the plague had spread in the walls of the house?",
+      "options": [
+        {
+          "text": "Wash the outer walls with vinegar and boil the mortar",
+          "explanation": ""
+        },
+        {
+          "text": "Take away the stones in which the plague is, and scrape the house",
+          "explanation": ""
+        },
+        {
+          "text": "Set fire to the wooden roof beams from the inside",
+          "explanation": ""
+        },
+        {
+          "text": "Anoint the stone doorposts with sweet oil and myrrh",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Leviticus 14:40-41",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_100",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What was done with a house if the plague returned and broke out again after the stones were taken out?",
+      "options": [
+        {
+          "text": "It was sealed up forever and shunned by the congregation",
+          "explanation": ""
+        },
+        {
+          "text": "It was cleansed again with twice the amount of cedar wood",
+          "explanation": ""
+        },
+        {
+          "text": "He shall break down the house, the stones, timber, and all the morter",
+          "explanation": ""
+        },
+        {
+          "text": "It was given to foreign merchants as a storage warehouse",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Leviticus 14:44-45",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_101",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What materials did the priest take to cleanse a house when the plague was healed?",
+      "options": [
+        {
+          "text": "Seven white lambs, sweet wine, and fine mountain herbs",
+          "explanation": ""
+        },
+        {
+          "text": "A vessel of pure water, thirty silver coins, and barley",
+          "explanation": ""
+        },
+        {
+          "text": "Two young bullocks, cedar logs, and four horns of oil",
+          "explanation": ""
+        },
+        {
+          "text": "Two birds, and cedar wood, and scarlet, and hyssop",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Leviticus 14:49",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_102",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What condition resulted when a man had a running issue out of his flesh?",
+      "options": [
+        {
+          "text": "He is unclean, with every bed and seat",
+          "explanation": ""
+        },
+        {
+          "text": "He was fined five shekels of silver",
+          "explanation": ""
+        },
+        {
+          "text": "He was banished from the camp in exile",
+          "explanation": ""
+        },
+        {
+          "text": "He had to bring a bullock on the morrow",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Leviticus 15:2-4",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_103",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What was required of anyone who touched the bed of a man that had the issue?",
+      "options": [
+        {
+          "text": "Remain outside the camp of Israel for seven full days",
+          "explanation": ""
+        },
+        {
+          "text": "Wash his clothes, bathe in water, and be unclean until even",
+          "explanation": ""
+        },
+        {
+          "text": "Offer two young pigeons before the tabernacle altar",
+          "explanation": ""
+        },
+        {
+          "text": "Sprinkle the bed with holy oil and fresh spring water",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Leviticus 15:5",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_104",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "How long did the regular period of separation last for a woman having her issue of blood?",
+      "options": [
+        {
+          "text": "Three days after the flow had ceased",
+          "explanation": ""
+        },
+        {
+          "text": "Twelve days by the tribal reckoning",
+          "explanation": ""
+        },
+        {
+          "text": "She shall be put apart for seven days",
+          "explanation": ""
+        },
+        {
+          "text": "Fourteen days of separation in tent",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Leviticus 15:19",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_105",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What two birds was a person healed of an issue commanded to bring on the eighth day?",
+      "options": [
+        {
+          "text": "Two young eagles captured from mountain nests",
+          "explanation": ""
+        },
+        {
+          "text": "Two white quails gathered from the wilderness",
+          "explanation": ""
+        },
+        {
+          "text": "Two clean partridges caught in fowler snares",
+          "explanation": ""
+        },
+        {
+          "text": "Two turtles, or two young pigeons unto the priest",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Leviticus 15:29-30",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_106",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "Under what condition alone was Aaron permitted to enter within the veil before the mercy seat?",
+      "options": [
+        {
+          "text": "Not at all times, but with a cloud of incense covering the mercy seat, lest he die",
+          "explanation": ""
+        },
+        {
+          "text": "At any time during the holy feasts when clothed in his glorious ephod",
+          "explanation": ""
+        },
+        {
+          "text": "Whenever the seventy elders requested a solemn judgment from God",
+          "explanation": ""
+        },
+        {
+          "text": "On every new moon festival accompanied by the sound of silver trumpets",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Leviticus 16:2",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_107",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What garments did the high priest wear when ministering on the day of atonement within the veil?",
+      "options": [
+        {
+          "text": "The golden ephod adorned with the twelve tribal stones",
+          "explanation": ""
+        },
+        {
+          "text": "The holy linen coat, breeches, girdle, and linen mitre",
+          "explanation": ""
+        },
+        {
+          "text": "A purple robe trimmed with golden bells and pomegranates",
+          "explanation": ""
+        },
+        {
+          "text": "A royal mantle woven of blue, scarlet, and fine gold thread",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Leviticus 16:4",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_108",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What did Aaron cast upon the two goats presented before the door of the tabernacle?",
+      "options": [
+        {
+          "text": "He sprinkled them with oil and marked their left horns",
+          "explanation": ""
+        },
+        {
+          "text": "He divided them according to their age and bodily size",
+          "explanation": ""
+        },
+        {
+          "text": "Aaron shall cast lots: one for the LORD, and the other for the scapegoat",
+          "explanation": ""
+        },
+        {
+          "text": "He appointed the older for sacrifice and the younger for food",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Leviticus 16:8",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_109",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What did the high priest do with the live goat upon whose head the lot fell for the scapegoat?",
+      "options": [
+        {
+          "text": "He slew it at the door and burnt its inward fat on the altar",
+          "explanation": ""
+        },
+        {
+          "text": "He gave it unto the princes of the tribes for a memorial gift",
+          "explanation": ""
+        },
+        {
+          "text": "He marked it with red thread and placed it within the tent court",
+          "explanation": ""
+        },
+        {
+          "text": "Lay both his hands upon its head, confess all iniquities, and send him away",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Leviticus 16:21",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_110",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "With what did Aaron cover the mercy seat in the most holy place, that he die not?",
+      "options": [
+        {
+          "text": "The cloud of the incense may cover the mercy seat",
+          "explanation": ""
+        },
+        {
+          "text": "A heavy veil of blue and purple linen woven by craftsmen",
+          "explanation": ""
+        },
+        {
+          "text": "A golden shield held before his eyes with his left hand",
+          "explanation": ""
+        },
+        {
+          "text": "The fresh blood of the bullock poured over the golden cherubim",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Leviticus 16:13",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_111",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "How many times did Aaron sprinkle the blood of the bullock with his finger before the mercy seat?",
+      "options": [
+        {
+          "text": "Three times upon the golden horns of the chest",
+          "explanation": ""
+        },
+        {
+          "text": "Seven times with his finger before the mercy seat",
+          "explanation": ""
+        },
+        {
+          "text": "Twelve times facing toward the four quarters of heaven",
+          "explanation": ""
+        },
+        {
+          "text": "Once only upon the center between the two cherubim",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Leviticus 16:14",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_112",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What commandment was given unto Israel for the tenth day of the seventh month forever?",
+      "options": [
+        {
+          "text": "To feast with joy and drink sweet wine before the sanctuary",
+          "explanation": ""
+        },
+        {
+          "text": "To gather all their herds and count their cattle for tribute",
+          "explanation": ""
+        },
+        {
+          "text": "Ye shall afflict your souls, and do no work at all",
+          "explanation": ""
+        },
+        {
+          "text": "To sound the jubilee trumpets throughout all their cities",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Leviticus 16:29",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_113",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Where was every sacrificial animal commanded to be brought within the camp of Israel?",
+      "options": [
+        {
+          "text": "Unto the highest hill overlooking the tents of the people",
+          "explanation": ""
+        },
+        {
+          "text": "Before the door of the chief prince of the offerer's tribe",
+          "explanation": ""
+        },
+        {
+          "text": "Unto any clean open field where green trees grew in peace",
+          "explanation": ""
+        },
+        {
+          "text": "Unto the door of the tabernacle, unto the priest, for peace offerings",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Leviticus 17:4-5",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_114",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What severe judgment befell any man who killed an ox or sheep and did NOT bring it unto the tabernacle?",
+      "options": [
+        {
+          "text": "Blood shall be imputed unto that man; he shall be cut off from among his people",
+          "explanation": ""
+        },
+        {
+          "text": "He was fined fifty shekels of silver by the court of the elders",
+          "explanation": ""
+        },
+        {
+          "text": "He was sentenced to seven years of hard labor in the wilderness",
+          "explanation": ""
+        },
+        {
+          "text": "His cattle were taken away and distributed among the poor widows",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Leviticus 17:4",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_115",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "Why did God strictly forbid Israel from eating any manner of blood?",
+      "options": [
+        {
+          "text": "Because blood causeth sickness and corruption of the flesh",
+          "explanation": ""
+        },
+        {
+          "text": "For the life of the flesh is in the blood: it maketh an atonement for the soul",
+          "explanation": ""
+        },
+        {
+          "text": "Because blood belonged solely unto the king and the priests",
+          "explanation": ""
+        },
+        {
+          "text": "Because it was the ancient token of foreign desert idolaters",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Leviticus 17:11",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_116",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What was a hunter required to do when he caught any beast or fowl that may be eaten?",
+      "options": [
+        {
+          "text": "He had to bring the blood to the priest in a silver cup",
+          "explanation": ""
+        },
+        {
+          "text": "He had to dry the blood in the sun and sprinkle it on wood",
+          "explanation": ""
+        },
+        {
+          "text": "He shall even pour out the blood thereof, and cover it with dust",
+          "explanation": ""
+        },
+        {
+          "text": "He was required to wash the animal in running river water",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Leviticus 17:13",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_117",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What was required of anyone who ate that which died of itself, or that which was torn with beasts?",
+      "options": [
+        {
+          "text": "Be banished from the camp until the next new moon appeared",
+          "explanation": ""
+        },
+        {
+          "text": "Pay thirty silver shekels unto the sanctuary treasury",
+          "explanation": ""
+        },
+        {
+          "text": "Bring a young bullock for a sin offering at the door",
+          "explanation": ""
+        },
+        {
+          "text": "Wash his clothes, bathe in water, and be unclean until even",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Leviticus 17:15-16",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_118",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What idolatry was the law of bringing all sacrifices to the tabernacle intended to prevent?",
+      "options": [
+        {
+          "text": "And they shall no more offer their sacrifices unto devils",
+          "explanation": ""
+        },
+        {
+          "text": "The worship of the golden calf made during the wanderings",
+          "explanation": ""
+        },
+        {
+          "text": "The burning of incense unto the queen of heaven on the hills",
+          "explanation": ""
+        },
+        {
+          "text": "The bowing down before stone pillars and carved sun images",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Leviticus 17:7",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_119",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Unto whom did the perpetual prohibition against eating blood apply in the land of Israel?",
+      "options": [
+        {
+          "text": "Only unto the ordained priests and Levites of the sanctuary",
+          "explanation": ""
+        },
+        {
+          "text": "No soul of you shall eat blood, neither shall any stranger that sojourneth",
+          "explanation": ""
+        },
+        {
+          "text": "Exclusively unto native-born men of the twelve tribes of Israel",
+          "explanation": ""
+        },
+        {
+          "text": "Only unto the princes, rulers, and judges of the congregation",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Leviticus 17:12",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_120",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Which heathen customs was Israel explicitly commanded NOT to walk in or imitate?",
+      "options": [
+        {
+          "text": "The agricultural methods and canal systems of the valleys",
+          "explanation": ""
+        },
+        {
+          "text": "The dialects and desert languages spoken by wandering tribes",
+          "explanation": ""
+        },
+        {
+          "text": "After the doings of Egypt, and after the doings of the land of Canaan",
+          "explanation": ""
+        },
+        {
+          "text": "The architecture and stone masonry of foreign palaces",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Leviticus 18:3",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_121",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What fundamental moral prohibition begins the statutes concerning near kindred?",
+      "options": [
+        {
+          "text": "Trading with heathen strangers upon the holy Sabbath day",
+          "explanation": ""
+        },
+        {
+          "text": "Eating the fat of any beast offered upon private altars",
+          "explanation": ""
+        },
+        {
+          "text": "Building houses within forty cubits of a brother's tent",
+          "explanation": ""
+        },
+        {
+          "text": "None shall approach to near of kin, to uncover their nakedness",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Leviticus 18:6",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_122",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What abominable heathen sacrifice did God strictly forbid lest His holy name be profaned?",
+      "options": [
+        {
+          "text": "Thou shalt not let any of thy seed pass through the fire to Molech",
+          "explanation": ""
+        },
+        {
+          "text": "Burning the first sheaves of wheat upon the high hilltops",
+          "explanation": ""
+        },
+        {
+          "text": "Slaughtering young doves upon the rock altars of Baal",
+          "explanation": ""
+        },
+        {
+          "text": "Pouring out libations of milk before carved stone idols",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Leviticus 18:21",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_123",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "How does the law of God judge carnally lying with a neighbour's wife?",
+      "options": [
+        {
+          "text": "As a slight trespass satisfied with a fine",
+          "explanation": ""
+        },
+        {
+          "text": "As a defiling sin before the holy LORD",
+          "explanation": ""
+        },
+        {
+          "text": "As an offense concerning only the man",
+          "explanation": ""
+        },
+        {
+          "text": "As a matter for the elders to settle",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Leviticus 18:20",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_124",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What happened unto the land of Canaan because of the abominations of its inhabitants?",
+      "options": [
+        {
+          "text": "It was smitten with perpetual severe drought",
+          "explanation": ""
+        },
+        {
+          "text": "It fell under the dominion of the Egyptians",
+          "explanation": ""
+        },
+        {
+          "text": "The land became defiled and vomited them out",
+          "explanation": ""
+        },
+        {
+          "text": "It was turned into a barren desert of stone",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Leviticus 18:25",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_125",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "How does the Word of God designate lying with mankind as with womankind?",
+      "options": [
+        {
+          "text": "As an excusable lack of divine understanding",
+          "explanation": ""
+        },
+        {
+          "text": "As a heathen custom incurring no punishment",
+          "explanation": ""
+        },
+        {
+          "text": "As a natural infirmity that needed healing",
+          "explanation": ""
+        },
+        {
+          "text": "As a grievous abomination before the LORD",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Leviticus 18:22",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_126",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What judgment was pronounced upon whosoever committed any of these abominations?",
+      "options": [
+        {
+          "text": "Cut off from among the midst of his people",
+          "explanation": ""
+        },
+        {
+          "text": "Banished from the sacred camp for one year",
+          "explanation": ""
+        },
+        {
+          "text": "Forfeiting his entire inheritance of goods",
+          "explanation": ""
+        },
+        {
+          "text": "Forbidden forever to see the holy sanctuary",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Leviticus 18:29",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_127",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What fundamental declaration stands as the reason for holiness in the congregation?",
+      "options": [
+        {
+          "text": "Serve the LORD your God with fear and trembling",
+          "explanation": ""
+        },
+        {
+          "text": "Ye shall be holy: for I the LORD your God am holy",
+          "explanation": ""
+        },
+        {
+          "text": "Keep my statutes and reverence all the priests",
+          "explanation": ""
+        },
+        {
+          "text": "I am the LORD your God which brought you forth",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Leviticus 19:2",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_128",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What was an Israelite husbandman commanded to do for the poor and stranger at harvest?",
+      "options": [
+        {
+          "text": "Bring a tenth part of the field to the priest",
+          "explanation": ""
+        },
+        {
+          "text": "Distribute half of the sheaves among the poor",
+          "explanation": ""
+        },
+        {
+          "text": "Not wholly reap the corners of the corn field",
+          "explanation": ""
+        },
+        {
+          "text": "Lock the entire harvest within the storehouse",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Leviticus 19:9-10",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_129",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What social ordinance protected the hired laborer from oppression concerning his wages?",
+      "options": [
+        {
+          "text": "His daily wages had to be paid in pure silver",
+          "explanation": ""
+        },
+        {
+          "text": "He was permitted to work only five hours a day",
+          "explanation": ""
+        },
+        {
+          "text": "He was entitled to receive double food to eat",
+          "explanation": ""
+        },
+        {
+          "text": "His wages should not abide with thee all night",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Leviticus 19:13",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_130",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "How did the law command Israel to treat the physically afflicted, such as deaf and blind?",
+      "options": [
+        {
+          "text": "Not curse the deaf, nor put stumbling before blind",
+          "explanation": ""
+        },
+        {
+          "text": "Give them free alms before the gates of the city",
+          "explanation": ""
+        },
+        {
+          "text": "Provide them with shelter within the holy courts",
+          "explanation": ""
+        },
+        {
+          "text": "Keep them far removed from all public judgments",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Leviticus 19:14",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_131",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "How is the great commandment concerning love of one's neighbour stated in Leviticus?",
+      "options": [
+        {
+          "text": "Thou shalt forgive thy brother all his past faults",
+          "explanation": ""
+        },
+        {
+          "text": "Thou shalt love thy neighbour as thine own self",
+          "explanation": ""
+        },
+        {
+          "text": "Thou shalt do good unto thy brethren day by day",
+          "explanation": ""
+        },
+        {
+          "text": "Thou shalt do no manner of harm unto any stranger",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Leviticus 19:18",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_132",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What law governed the fruit of newly planted fruit trees in Canaan during the first three years?",
+      "options": [
+        {
+          "text": "They fell entirely unto the officiating high priest",
+          "explanation": ""
+        },
+        {
+          "text": "They were given exclusively unto wandering strangers",
+          "explanation": ""
+        },
+        {
+          "text": "They were as uncircumcised and should not be eaten",
+          "explanation": ""
+        },
+        {
+          "text": "They had to be burnt upon the holy altar of God",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Leviticus 19:23-24",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_133",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What attitude of respect did God command toward the aged and elderly among the people?",
+      "options": [
+        {
+          "text": "Grant them a double inheritance of land and cattle",
+          "explanation": ""
+        },
+        {
+          "text": "Exempt them from all tax burdens and altar offerings",
+          "explanation": ""
+        },
+        {
+          "text": "Appoint them as lifelong judges in every city gate",
+          "explanation": ""
+        },
+        {
+          "text": "Rise up before hoary head, and honour the old man",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Leviticus 19:32",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_134",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What judgment was pronounced upon anyone in Israel who gave any of his seed unto Molech?",
+      "options": [
+        {
+          "text": "The people of the land shall stone him with stones",
+          "explanation": ""
+        },
+        {
+          "text": "He was banished from the camp of Israel for life",
+          "explanation": ""
+        },
+        {
+          "text": "He had to pay fivefold the price of restitution",
+          "explanation": ""
+        },
+        {
+          "text": "He forfeited his inheritance in the land of Canaan",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Leviticus 20:2",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_135",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "How did God answer against persons who turned after such as have familiar spirits and wizards?",
+      "options": [
+        {
+          "text": "He demanded a threefold trespass ram at the door",
+          "explanation": ""
+        },
+        {
+          "text": "He set His face against that soul, and cut him off",
+          "explanation": ""
+        },
+        {
+          "text": "He barred that soul from the holy court for a year",
+          "explanation": ""
+        },
+        {
+          "text": "He delivered that soul unto the seventy chief elders",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Leviticus 20:6",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_136",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What sentence was pronounced upon the man that committed adultery with another man's wife?",
+      "options": [
+        {
+          "text": "They had to pay a heavy fine of fifty silver pieces",
+          "explanation": ""
+        },
+        {
+          "text": "They were banished beyond the wilderness of the land",
+          "explanation": ""
+        },
+        {
+          "text": "Both the adulterer and the adulteress shall be slain",
+          "explanation": ""
+        },
+        {
+          "text": "They received forty stripes before the congregation",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Leviticus 20:10",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_137",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What punishment was ordained for every one that curseth his father or his mother?",
+      "options": [
+        {
+          "text": "He was disinherited from all his father's house",
+          "explanation": ""
+        },
+        {
+          "text": "He was sentenced to seven years of hard bondage",
+          "explanation": ""
+        },
+        {
+          "text": "He was beaten with rods before the city elders",
+          "explanation": ""
+        },
+        {
+          "text": "He shall be put to death: his blood is upon him",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Leviticus 20:9",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_138",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What judgment did the law pronounce if a man or woman lay with a beast?",
+      "options": [
+        {
+          "text": "Both the person and the beast shall surely be slain",
+          "explanation": ""
+        },
+        {
+          "text": "The person was banished and the beast sold to Syria",
+          "explanation": ""
+        },
+        {
+          "text": "A fine was paid and the beast offered on the altar",
+          "explanation": ""
+        },
+        {
+          "text": "Both were shut out from the camp for seven months",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Leviticus 20:15-16",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_139",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Why did God sever the people of Israel from other nations, that they should be His?",
+      "options": [
+        {
+          "text": "Because they were more numerous than all peoples",
+          "explanation": ""
+        },
+        {
+          "text": "That they should be holy unto God, who severed them",
+          "explanation": ""
+        },
+        {
+          "text": "Because they possessed great skills in battlefields",
+          "explanation": ""
+        },
+        {
+          "text": "Because they had never murmured in the wilderness",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Leviticus 20:26",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_140",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What judgment was pronounced upon a man or woman that was a wizard or had a familiar spirit?",
+      "options": [
+        {
+          "text": "They were banished into foreign lands beyond Jordan",
+          "explanation": ""
+        },
+        {
+          "text": "They had to shave their heads and wear sackcloth",
+          "explanation": ""
+        },
+        {
+          "text": "They shall surely be put to death: stone them with stones",
+          "explanation": ""
+        },
+        {
+          "text": "They were deprived of their civil rights within gate",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Leviticus 20:27",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_141",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "For which dead kin alone was a common priest permitted to defile himself?",
+      "options": [
+        {
+          "text": "For any ruler or elder of his tribe who died in war",
+          "explanation": ""
+        },
+        {
+          "text": "For his distant cousins and tribal brethren in camp",
+          "explanation": ""
+        },
+        {
+          "text": "For any stranger who died without kin to bury him",
+          "explanation": ""
+        },
+        {
+          "text": "For his mother, father, son, daughter, and sister",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Leviticus 21:1-3",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_142",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Which woman was a common priest strictly forbidden NOT to marry according to the law?",
+      "options": [
+        {
+          "text": "A whore, or profane, or a woman put away by husband",
+          "explanation": ""
+        },
+        {
+          "text": "A maiden born of the daughters of the house of Levi",
+          "explanation": ""
+        },
+        {
+          "text": "A widow whose deceased husband was an anointed priest",
+          "explanation": ""
+        },
+        {
+          "text": "A young virgin chosen from the twelve tribes of Israel",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Leviticus 21:7",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_143",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What strict rule governed the high priest upon whose head the anointing oil was poured?",
+      "options": [
+        {
+          "text": "He could mourn within his private chamber three days",
+          "explanation": ""
+        },
+        {
+          "text": "He shall not go in to any dead, nor for his father",
+          "explanation": ""
+        },
+        {
+          "text": "He had to attend the burial of every tribal prince",
+          "explanation": ""
+        },
+        {
+          "text": "He could defile his holy office only for his mother",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Leviticus 21:11",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_144",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What restriction applied unto a son of Aaron who had a physical blemish or deformity?",
+      "options": [
+        {
+          "text": "He was expelled from the sacred camp for all time",
+          "explanation": ""
+        },
+        {
+          "text": "He could not marry any daughter of the tribes",
+          "explanation": ""
+        },
+        {
+          "text": "He shall not offer the bread, yet he may eat of it",
+          "explanation": ""
+        },
+        {
+          "text": "He was required to fast on every new moon feast",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Leviticus 21:21-22",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_145",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What severe punishment befell the daughter of any priest if she profaned herself by playing the whore?",
+      "options": [
+        {
+          "text": "She was banished into the desert without any food",
+          "explanation": ""
+        },
+        {
+          "text": "She was sentenced to lifelong labor in grinding corn",
+          "explanation": ""
+        },
+        {
+          "text": "She was stoned before the door of her father's tent",
+          "explanation": ""
+        },
+        {
+          "text": "She profaneth her father: she shall be burnt with fire",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Leviticus 21:9",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_146",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Who belonging to the priest's household was permitted to eat of the holy things?",
+      "options": [
+        {
+          "text": "He that is bought with money, and born in his house",
+          "explanation": ""
+        },
+        {
+          "text": "Any foreign merchant lodging as a guest in his tent",
+          "explanation": ""
+        },
+        {
+          "text": "A hired day labourer working in the priest's vineyard",
+          "explanation": ""
+        },
+        {
+          "text": "Only the elder sons who ministered before the altar",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Leviticus 22:11",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_147",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What was required of a man who unwittingly ate of the holy thing through ignorance?",
+      "options": [
+        {
+          "text": "He was banished from the camp of Israel thirty days",
+          "explanation": ""
+        },
+        {
+          "text": "He shall put the fifth part unto it, and give to priest",
+          "explanation": ""
+        },
+        {
+          "text": "He had to bring three young bullocks for burnt gifts",
+          "explanation": ""
+        },
+        {
+          "text": "He had to restore fourfold the value of holy things",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Leviticus 22:14",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_148",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "How old had a young bullock, sheep, or goat to be before being accepted for an offering made by fire?",
+      "options": [
+        {
+          "text": "At least thirty days old and weaned from its mother",
+          "explanation": ""
+        },
+        {
+          "text": "Three full months after its birth in the home fold",
+          "explanation": ""
+        },
+        {
+          "text": "Seven days under the dam, and from eighth day accepted",
+          "explanation": ""
+        },
+        {
+          "text": "One full year of age according to the sacred count",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Leviticus 22:27",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_149",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What humane commandment concerning cattle did the law establish regarding slaughtering?",
+      "options": [
+        {
+          "text": "No beast could be slain during the dry season of year",
+          "explanation": ""
+        },
+        {
+          "text": "Beasts had to be fed with grain before being killed",
+          "explanation": ""
+        },
+        {
+          "text": "Wild animals could not be hunted within the holy camp",
+          "explanation": ""
+        },
+        {
+          "text": "Ye shall not kill it and her young both in one day",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Leviticus 22:28",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_150",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "By what time had a sacrifice of thanksgiving to be eaten when offered unto the LORD?",
+      "options": [
+        {
+          "text": "Eaten on the same day; leave none of it until morrow",
+          "explanation": ""
+        },
+        {
+          "text": "Within three days after the offering at the altar",
+          "explanation": ""
+        },
+        {
+          "text": "Before the following Sabbath day of the congregation",
+          "explanation": ""
+        },
+        {
+          "text": "At any time before the new moon festival appeared",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Leviticus 22:29-30",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_151",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "How many days and weeks were to be numbered from the wave sheaf unto the new meat offering?",
+      "options": [
+        {
+          "text": "Forty days in all from the wave sheaf presentation",
+          "explanation": ""
+        },
+        {
+          "text": "Seven sabbaths complete, even fifty days numbered",
+          "explanation": ""
+        },
+        {
+          "text": "Twelve weeks according to the twelve tribes of Israel",
+          "explanation": ""
+        },
+        {
+          "text": "Thirty days culminating on the day of the new moon",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Leviticus 23:15-16",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_152",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What solemn observance took place on the first day of the seventh month?",
+      "options": [
+        {
+          "text": "The feast of unleavened bread kept for seven days",
+          "explanation": ""
+        },
+        {
+          "text": "The feast of tabernacles with palm tree branches",
+          "explanation": ""
+        },
+        {
+          "text": "A sabbath memorial of blowing of holy trumpets",
+          "explanation": ""
+        },
+        {
+          "text": "The annual shearing of all sheep in the pastures",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Leviticus 23:24",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_153",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "How many days were all that are Israelites born commanded to dwell in booths?",
+      "options": [
+        {
+          "text": "Three days during the early spring barley harvest",
+          "explanation": ""
+        },
+        {
+          "text": "Fourteen days in memory of the journey from Egypt",
+          "explanation": ""
+        },
+        {
+          "text": "Forty days according to the wanderings in desert",
+          "explanation": ""
+        },
+        {
+          "text": "Seven days: all that are Israelites shall dwell",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Leviticus 23:42",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_154",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What boughs and branches were Israel commanded to take on the first day to rejoice before the LORD?",
+      "options": [
+        {
+          "text": "Boughs of goodly trees, palm branches, and willows",
+          "explanation": ""
+        },
+        {
+          "text": "Branches of cedar wood, olive boughs, and hyssop",
+          "explanation": ""
+        },
+        {
+          "text": "Oak leaves, cypress twigs, and fragrant myrtle",
+          "explanation": ""
+        },
+        {
+          "text": "Pomegranate boughs, fig tree leaves, and vines",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Leviticus 23:40",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_155",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "On which day of the seventh month was the solemn day of atonement observed?",
+      "options": [
+        {
+          "text": "On the first day of the month at trumpet sound",
+          "explanation": ""
+        },
+        {
+          "text": "On the tenth day of the seventh month for atonement",
+          "explanation": ""
+        },
+        {
+          "text": "On the fourteenth day at twilight even as passover",
+          "explanation": ""
+        },
+        {
+          "text": "On the fifteenth day when feast of booths began",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Leviticus 23:27",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_156",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What kind of oil was commanded to be brought for the golden candlestick to cause lamps to burn continually?",
+      "options": [
+        {
+          "text": "Fine sesame oil scented with sweet mountain myrrh",
+          "explanation": ""
+        },
+        {
+          "text": "Sweet almond oil pressed from blossoms of Hermon",
+          "explanation": ""
+        },
+        {
+          "text": "Pure oil olive beaten for the light, to burn always",
+          "explanation": ""
+        },
+        {
+          "text": "Clarified animal fat seasoned with fine white salt",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Leviticus 24:2",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_157",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "How many cakes of shewbread were set in order upon the pure table every Sabbath day?",
+      "options": [
+        {
+          "text": "Seven loaves set in a circle around the golden cup",
+          "explanation": ""
+        },
+        {
+          "text": "Twenty-four small cakes divided into four equal rows",
+          "explanation": ""
+        },
+        {
+          "text": "Ten loaves according to the commandments of the law",
+          "explanation": ""
+        },
+        {
+          "text": "Twelve cakes set in two rows, six upon a row, table",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Leviticus 24:5-6",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_158",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What crime did the son of an Israelitish woman whose father was an Egyptian commit in the camp?",
+      "options": [
+        {
+          "text": "He blasphemed the name of the LORD, and cursed",
+          "explanation": ""
+        },
+        {
+          "text": "He stole the consecrated shewbread from the table",
+          "explanation": ""
+        },
+        {
+          "text": "He refused to be circumcised before the elders",
+          "explanation": ""
+        },
+        {
+          "text": "He entered into the most holy place in bad linen",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Leviticus 24:11",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_159",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What judgment did the congregation execute upon the blasphemer outside the camp?",
+      "options": [
+        {
+          "text": "He was banished into the desert for forty full days",
+          "explanation": ""
+        },
+        {
+          "text": "All hearers laid hands on his head, and all stoned him",
+          "explanation": ""
+        },
+        {
+          "text": "He was beaten with forty stripes save one in the gate",
+          "explanation": ""
+        },
+        {
+          "text": "He had to bring seven rams for a trespass offering",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Leviticus 24:14",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_160",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "How is the principle of retributive justice for bodily injury expressed in the law?",
+      "options": [
+        {
+          "text": "A monetary compensation set by the judges in gate",
+          "explanation": ""
+        },
+        {
+          "text": "Double restitution paid unto the injured household",
+          "explanation": ""
+        },
+        {
+          "text": "Breach for breach, eye for eye, and tooth for tooth",
+          "explanation": ""
+        },
+        {
+          "text": "Seven years of bondage in the house of the injured",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Leviticus 24:20",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_161",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What was commanded concerning the land in the seventh year (sabbatical year)?",
+      "options": [
+        {
+          "text": "It was given over to foreign strangers to cultivate",
+          "explanation": ""
+        },
+        {
+          "text": "It was planted solely with barley and bitter herbs",
+          "explanation": ""
+        },
+        {
+          "text": "It was fertilized with ashes from the sacred altar",
+          "explanation": ""
+        },
+        {
+          "text": "A sabbath of rest: thou shalt neither sow nor prune",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Leviticus 25:4",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_162",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What special year followed after the numbering of seven sabbaths of years, even forty and nine years?",
+      "options": [
+        {
+          "text": "The fiftieth year as a jubile: proclaim liberty",
+          "explanation": ""
+        },
+        {
+          "text": "The year of double tribute paid unto the sanctuary",
+          "explanation": ""
+        },
+        {
+          "text": "The year of solemn repentance throughout all tribes",
+          "explanation": ""
+        },
+        {
+          "text": "The year of building new fortified desert cities",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Leviticus 25:8-10",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_163",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What took place in the year of jubile concerning sold possessions and heritages?",
+      "options": [
+        {
+          "text": "They remained forever with the recent purchaser",
+          "explanation": ""
+        },
+        {
+          "text": "Ye shall return every man unto his own possession",
+          "explanation": ""
+        },
+        {
+          "text": "They were given unto the sanctuary at Shiloh as gift",
+          "explanation": ""
+        },
+        {
+          "text": "The purchaser received double the original payment",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Leviticus 25:13",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_164",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What period of redemption was granted for a dwelling house sold in a walled city?",
+      "options": [
+        {
+          "text": "It could be redeemed at any time until the jubile",
+          "explanation": ""
+        },
+        {
+          "text": "There was no right of redemption granted at all",
+          "explanation": ""
+        },
+        {
+          "text": "Within a whole year after it is sold he may redeem",
+          "explanation": ""
+        },
+        {
+          "text": "Three full years were allowed to reclaim the house",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Leviticus 25:29-30",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_165",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What law of lending applied when a brother was waxen poor and fallen in decay?",
+      "options": [
+        {
+          "text": "Interest was allowed, but only in harvested wheat",
+          "explanation": ""
+        },
+        {
+          "text": "A small fee was permitted after a sabbatical year",
+          "explanation": ""
+        },
+        {
+          "text": "Interest was strictly forbidden only from foreigners",
+          "explanation": ""
+        },
+        {
+          "text": "Thou shalt not give him thy money upon any usury",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Leviticus 25:36-37",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_166",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What blessings did God promise if Israel walked in His statutes and kept His commandments?",
+      "options": [
+        {
+          "text": "Rain in due season, peace in land, and abundance",
+          "explanation": ""
+        },
+        {
+          "text": "Abundant gold and silver in every family dwelling",
+          "explanation": ""
+        },
+        {
+          "text": "Freedom from all sickness and bodily death on earth",
+          "explanation": ""
+        },
+        {
+          "text": "Exemption from every form of agricultural labor",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Leviticus 26:3-12",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_167",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "According to the divine promise, how many enemies should five of them chase?",
+      "options": [
+        {
+          "text": "Five of them should chase fifty opposing warriors",
+          "explanation": ""
+        },
+        {
+          "text": "Five of you shall chase an hundred of the enemies",
+          "explanation": ""
+        },
+        {
+          "text": "Five of them should chase a thousand desert horsemen",
+          "explanation": ""
+        },
+        {
+          "text": "Five of them should put ten thousand men to flight",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Leviticus 26:8",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_168",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What judgment did God threaten first if Israel would not hearken unto Him and broke His covenant?",
+      "options": [
+        {
+          "text": "The immediate collapse of all city walls in land",
+          "explanation": ""
+        },
+        {
+          "text": "The turning of all fresh fountains into hot blood",
+          "explanation": ""
+        },
+        {
+          "text": "Terror, consumption, burning ague, and wasted seed",
+          "explanation": ""
+        },
+        {
+          "text": "The sudden death of all the firstborn of the people",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Leviticus 26:16",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_169",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Why should the land of Israel enjoy her sabbaths while the people were scattered in enemies' lands?",
+      "options": [
+        {
+          "text": "Lest the enemies build strong fortified dwellings",
+          "explanation": ""
+        },
+        {
+          "text": "Because the soil became barren and hard as bronze",
+          "explanation": ""
+        },
+        {
+          "text": "That wild desert beasts might multiply unhindered",
+          "explanation": ""
+        },
+        {
+          "text": "That the land might enjoy and rest in her sabbaths",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Leviticus 26:34-35",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_170",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What covenant does God remember when His people confess their iniquity in the land of their enemies?",
+      "options": [
+        {
+          "text": "His holy covenant with Jacob, Isaac, and Abraham",
+          "explanation": ""
+        },
+        {
+          "text": "The royal covenant made with the kings of Judah",
+          "explanation": ""
+        },
+        {
+          "text": "The righteous merits of Moses and Aaron on Sinai",
+          "explanation": ""
+        },
+        {
+          "text": "The ancient offerings presented in the sanctuary",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Leviticus 26:42",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_171",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What was the estimation for a man from twenty years old even unto sixty years old who made a singular vow?",
+      "options": [
+        {
+          "text": "Twenty shekels of silver after the common weight",
+          "explanation": ""
+        },
+        {
+          "text": "Fifty shekels of silver, after sanctuary shekel",
+          "explanation": ""
+        },
+        {
+          "text": "A hundred shekels of silver weighed by the priest",
+          "explanation": ""
+        },
+        {
+          "text": "Thirty shekels of silver measured by the elders",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Leviticus 27:3",
+      "explanation": "A shekel of the sanctuary was approximately 11.4 grams of silver; twenty gerahs made a shekel (Leviticus 27:25).",
+      "explanationReviewed": true
+    },
+    {
+      "questionId": "lev_172",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What was the rule if a man attempted to exchange or substitute a beast vowed as an offering unto the LORD?",
+      "options": [
+        {
+          "text": "The exchange was valid without any penalty to owner",
+          "explanation": ""
+        },
+        {
+          "text": "The second beast became unclean and had to be slain",
+          "explanation": ""
+        },
+        {
+          "text": "Both it and the exchange thereof shall be holy",
+          "explanation": ""
+        },
+        {
+          "text": "The man had to pay three times the estimated price",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Leviticus 27:10",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_173",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "How could a man redeem his sanctified house or field if he desired to have it back?",
+      "options": [
+        {
+          "text": "By paying the simple estimated value unto priest",
+          "explanation": ""
+        },
+        {
+          "text": "The field was lost forever without any redemption",
+          "explanation": ""
+        },
+        {
+          "text": "By offering an additional young bullock for burnt",
+          "explanation": ""
+        },
+        {
+          "text": "Add the fifth part of the estimation unto it",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Leviticus 27:15-19",
+      "explanation": "An homer held approximately 220 liters of barley seed; fifty shekels of silver corresponded to about 570 grams of silver.",
+      "explanationReviewed": true
+    },
+    {
+      "questionId": "lev_174",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What law governed a devoted thing (cherem) which a man devoted unto the LORD?",
+      "options": [
+        {
+          "text": "No devoted thing shall be sold or redeemed at all",
+          "explanation": ""
+        },
+        {
+          "text": "It could be redeemed after three years for double",
+          "explanation": ""
+        },
+        {
+          "text": "A third part of its value was returned to the man",
+          "explanation": ""
+        },
+        {
+          "text": "It was given unto poor strangers lodging outside",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Leviticus 27:28",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "lev_175",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What portion of the seed of the land, the fruit of the tree, and the herd was holy unto the LORD?",
+      "options": [
+        {
+          "text": "Every fifth part of the total annual harvest yield",
+          "explanation": ""
+        },
+        {
+          "text": "The tenth part of the land and of the herd is holy",
+          "explanation": ""
+        },
+        {
+          "text": "The twentieth part of the harvested barley grain",
+          "explanation": ""
+        },
+        {
+          "text": "Only the firstborn of the bullocks and the sheep",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Leviticus 27:30-32",
+      "explanation": "",
+      "explanationReviewed": false
+    }
+  ]
+}

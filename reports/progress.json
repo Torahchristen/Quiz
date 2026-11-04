@@ -1,13 +1,13 @@
 {
   "branch": "review-and-english",
   "totalFiles": 66,
-  "completedCount": 2,
+  "completedCount": 3,
   "completedFiles": [
     "01_1_mose.json",
-    "02_2_mose.json"
+    "02_2_mose.json",
+    "03_3_mose.json"
   ],
   "pendingFiles": [
-    "03_3_mose.json",
     "04_4_mose.json",
     "05_5_mose.json",
     "06_josua.json",
@@ -86,6 +86,13 @@
       "explanationsReviewedEn": 3,
       "reportPath": "reports/02_2_mose.md",
       "enPath": "en/02_2_mose.json"
+    },
+    "03_3_mose.json": {
+      "questionsCount": 173,
+      "explanationsReviewedDe": 3,
+      "explanationsReviewedEn": 3,
+      "reportPath": "reports/03_3_mose.md",
+      "enPath": "en/03_3_mose.json"
     }
   }
 }
