@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-11-04T21:30:04Z",
+  "lastUpdated": "2026-11-04T21:33:27Z",
   "language": "en",
   "categories": [
     {
@@ -348,6 +348,25 @@
       ],
       "sizeBytes": 35692,
       "downloadUrl": "./en/16_nehemia.json"
+    },
+    {
+      "quizId": "bibel_17_esther_en",
+      "category": "geschichte",
+      "title": "Esther",
+      "subtitle": "Esther 1:1 – 10:3 (30 Questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 30,
+      "difficulty": "medium",
+      "tags": [
+        "Esther",
+        "OT",
+        "history",
+        "KJV"
+      ],
+      "sizeBytes": 28295,
+      "downloadUrl": "./en/17_esther.json"
     }
   ]
 }

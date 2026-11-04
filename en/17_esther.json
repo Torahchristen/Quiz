@@ -1,0 +1,923 @@
+{
+  "metadata": {
+    "quizId": "bibel_17_esther_en",
+    "title": "Esther",
+    "subtitle": "Esther 1:1 – 10:3 (30 Questions)",
+    "author": "King James Version (1769)",
+    "language": "en",
+    "tags": [
+      "Esther",
+      "OT",
+      "history",
+      "KJV"
+    ],
+    "questionCount": 30,
+    "canonicalBookNumber": 17,
+    "testament": "AT",
+    "category": "geschichte",
+    "version": "2.3.0",
+    "difficulty": "medium"
+  },
+  "questions": [
+    {
+      "questionId": "est_001",
+      "type": "single_choice",
+      "text": "How long did king Ahasuerus shew the riches of his glorious kingdom unto his princes?",
+      "options": [
+        {
+          "text": "An hundred and fourscore days, and after seven days of feast in court of garden",
+          "explanation": ""
+        },
+        {
+          "text": "Forty days in remembrance of the great victory of the Medes against Babylon",
+          "explanation": ""
+        },
+        {
+          "text": "Seven full months exclusively for the priests of all the provinces of Persia",
+          "explanation": ""
+        },
+        {
+          "text": "Thirty days before the host of the Persians went forth to battle with Greece",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Esther 1:4-5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "est_002",
+      "type": "single_choice",
+      "text": "Why was the king very wroth, and his anger burned in him, concerning queen Vashti?",
+      "options": [
+        {
+          "text": "Because she conspired secretly with rebels against the peace of the realm",
+          "explanation": ""
+        },
+        {
+          "text": "Because the queen Vashti refused to come to shew the people and princes her beauty",
+          "explanation": ""
+        },
+        {
+          "text": "Because she was sick of body and kept her chamber with the young maidens",
+          "explanation": ""
+        },
+        {
+          "text": "Because she wore garments of mourning for the demise of her kindred in Media",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Esther 1:11-12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "est_003",
+      "type": "single_choice",
+      "text": "What counsel gave Memucan before the king and princes concerning the refusal of Vashti?",
+      "options": [
+        {
+          "text": "That Vashti should be banished one year into the far mountains of Media",
+          "explanation": ""
+        },
+        {
+          "text": "That the king should pardon her and make a royal banquet for the women",
+          "explanation": ""
+        },
+        {
+          "text": "That Vashti come no more before the king, that wives despise not husbands",
+          "explanation": ""
+        },
+        {
+          "text": "That the chamberlains be put to death who brought her answer to the king",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Esther 1:19-22",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "est_004",
+      "type": "single_choice",
+      "text": "Out of which tribe of Israel was Mordecai descended in Shushan the palace?",
+      "options": [
+        {
+          "text": "Out of the tribe of Judah, of the royal seed of king David",
+          "explanation": ""
+        },
+        {
+          "text": "Out of the tribe of Levi, of the lineage of Aaron the priest",
+          "explanation": ""
+        },
+        {
+          "text": "Out of the tribe of Ephraim, of the household of Joshua",
+          "explanation": ""
+        },
+        {
+          "text": "Out of the tribe of Benjamin, a son of Jair, son of Shimei",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Esther 2:5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "est_005",
+      "type": "single_choice",
+      "text": "What charge had Mordecai given unto Esther when she was brought into the king's house?",
+      "options": [
+        {
+          "text": "Esther had not shewed her people nor her kindred: for he had charged her",
+          "explanation": ""
+        },
+        {
+          "text": "She should eat freely of the king's meat to appear as one of the heathen",
+          "explanation": ""
+        },
+        {
+          "text": "She should demand instant royal homage from all the maidens of the palace",
+          "explanation": ""
+        },
+        {
+          "text": "She should send daily letters unto the elders of the captivity at Jerusalem",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Esther 2:10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "est_006",
+      "type": "single_choice",
+      "text": "What conspiracy did Mordecai discover while he sat in the king's gate?",
+      "options": [
+        {
+          "text": "A treacherous rebellion of the governors of Egypt against the crown",
+          "explanation": ""
+        },
+        {
+          "text": "Bigthan and Teresh, two chamberlains, sought to lay hand on Ahasuerus",
+          "explanation": ""
+        },
+        {
+          "text": "A secret theft of golden treasures from the inner royal treasury",
+          "explanation": ""
+        },
+        {
+          "text": "A league of the princes to poison the captains of the guard at night",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Esther 2:21-23",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "est_007",
+      "type": "single_choice",
+      "text": "Why did Mordecai bow not, nor did him reverence, when Haman passed by?",
+      "options": [
+        {
+          "text": "Because Haman had laid a heavy double tribute upon all the Jewish people",
+          "explanation": ""
+        },
+        {
+          "text": "Because the king had granted him an imperial letter of royal privilege",
+          "explanation": ""
+        },
+        {
+          "text": "Because he had told them that he was a Jew, and bowed not to the Agagite",
+          "explanation": ""
+        },
+        {
+          "text": "Because he feared the reproach of the servants that were in king's gate",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Esther 3:2-5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "est_008",
+      "type": "single_choice",
+      "text": "What sum did Haman offer to pay into the king's treasuries to destroy all the Jews?",
+      "options": [
+        {
+          "text": "Fifty thousand shekels of gold out of the treasuries of provinces",
+          "explanation": ""
+        },
+        {
+          "text": "An hundred chosen horses of war with ten brazen chariots of fight",
+          "explanation": ""
+        },
+        {
+          "text": "Five thousand oxen and ten thousand sheep for daily royal banquets",
+          "explanation": ""
+        },
+        {
+          "text": "Ten thousand talents of silver to bring it into the king's treasuries",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Esther 3:9",
+      "explanation": "Haman offered to pay ten thousand talents of silver (approx. 340 metric tons) into the king's treasuries [ref:Esther 3:9].",
+      "explanationReviewed": true,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "est_009",
+      "type": "single_choice",
+      "text": "Upon what day fell the lot Pur to destroy, to kill, and to cause to perish all Jews?",
+      "options": [
+        {
+          "text": "Upon the thirteenth day of the twelfth month, which is the month Adar",
+          "explanation": ""
+        },
+        {
+          "text": "Upon the tenth day of the seventh month at the solemn day of atonement",
+          "explanation": ""
+        },
+        {
+          "text": "Upon the first day of the first month Nisan in the beginning of year",
+          "explanation": ""
+        },
+        {
+          "text": "Upon the fourteenth day of the month Sivan in the time of the harvest",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Esther 3:7, 13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "est_010",
+      "type": "single_choice",
+      "text": "What law was appointed for whosoever came unto the king into the inner court uncalled?",
+      "options": [
+        {
+          "text": "He was banished for ever into the desolate mountains of Media",
+          "explanation": ""
+        },
+        {
+          "text": "There is one law of his to put him to death, except the golden sceptre",
+          "explanation": ""
+        },
+        {
+          "text": "He was compelled to pay ten thousand shekels of silver into court",
+          "explanation": ""
+        },
+        {
+          "text": "He forfeited all his lands and possessions unto the princes of Persia",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Esther 4:11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "est_011",
+      "type": "single_choice",
+      "text": "What faith did Mordecai declare unto Esther if she held her peace at this time?",
+      "options": [
+        {
+          "text": "If thou holdest thy peace, king Ahasuerus will cast thee out of house",
+          "explanation": ""
+        },
+        {
+          "text": "God hath chosen thee because thou art fairer than all maidens of east",
+          "explanation": ""
+        },
+        {
+          "text": "Who knoweth whether thou art come to the kingdom for such a time as this?",
+          "explanation": ""
+        },
+        {
+          "text": "The rulers of the captivity have sent letters requiring thy royal help",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Esther 4:14",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "est_012",
+      "type": "single_choice",
+      "text": "With what resolve did Esther consent to go in unto the king contrary to the law?",
+      "options": [
+        {
+          "text": "Gather a thousand men of war with spears to attend my steps to court!",
+          "explanation": ""
+        },
+        {
+          "text": "I will go in boldly, for my royal crown shall preserve me from death!",
+          "explanation": ""
+        },
+        {
+          "text": "If the LORD shew me a token of victory, then will I enter unto him!",
+          "explanation": ""
+        },
+        {
+          "text": "Fast ye for me three days; so will I go in: and if I perish, I perish!",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Esther 4:16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "est_013",
+      "type": "single_choice",
+      "text": "How did king Ahasuerus receive Esther when she stood in the inner court of the palace?",
+      "options": [
+        {
+          "text": "The king held out to Esther the golden sceptre, and Esther touched the top",
+          "explanation": ""
+        },
+        {
+          "text": "He commanded the guard to lay hands upon her and cast her into ward",
+          "explanation": ""
+        },
+        {
+          "text": "He rose up from his throne and set the royal crown upon her forehead",
+          "explanation": ""
+        },
+        {
+          "text": "He turned his face away in great wrath refusing to hear any petition",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Esther 5:2-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "est_014",
+      "type": "single_choice",
+      "text": "What petition did Esther answer when the king asked: What is thy petition?",
+      "options": [
+        {
+          "text": "That the king would immediately reverse the cruel decree of Haman",
+          "explanation": ""
+        },
+        {
+          "text": "Let the king and Haman come unto the banquet that I have prepared",
+          "explanation": ""
+        },
+        {
+          "text": "That Haman be bound in chains before the rulers of all the provinces",
+          "explanation": ""
+        },
+        {
+          "text": "That Mordecai be clothed in royal apparel and brought into the palace",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Esther 5:4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "est_015",
+      "type": "single_choice",
+      "text": "What counsel did Zeresh his wife and all his friends give unto Haman?",
+      "options": [
+        {
+          "text": "Let him buy out Mordecai with ten thousand pieces of silver from gate",
+          "explanation": ""
+        },
+        {
+          "text": "Let him poison Mordecai at the royal breakfast in the king's palace",
+          "explanation": ""
+        },
+        {
+          "text": "Let a gallows be made of fifty cubits high, and hang Mordecai thereon",
+          "explanation": ""
+        },
+        {
+          "text": "Let him accuse Mordecai before the princes as a spy of the Greeks",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Esther 5:14",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "est_016",
+      "type": "single_choice",
+      "text": "What came to pass on that night before the second banquet of queen Esther?",
+      "options": [
+        {
+          "text": "Haman crept secretly into the bedchamber of the king of Persia",
+          "explanation": ""
+        },
+        {
+          "text": "A mighty earthquake shook the palace and the gates of Shushan",
+          "explanation": ""
+        },
+        {
+          "text": "An angel appeared unto Esther in a dream revealing her deliverance",
+          "explanation": ""
+        },
+        {
+          "text": "On that night could not the king sleep, and commanded to bring chronicles",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Esther 6:1-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "est_017",
+      "type": "single_choice",
+      "text": "What thought Haman in his heart when the king asked: What shall be done unto the man?",
+      "options": [
+        {
+          "text": "To whom would the king delight to do honour more than to myself?",
+          "explanation": ""
+        },
+        {
+          "text": "The king will advance me to be absolute ruler over all Egypt",
+          "explanation": ""
+        },
+        {
+          "text": "The king intendeth to bestow upon me the royal crown of Media",
+          "explanation": ""
+        },
+        {
+          "text": "Surely this honour is prepared for the high priest of the court",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Esther 6:6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "est_018",
+      "type": "single_choice",
+      "text": "What humiliation did king Ahasuerus command Haman to perform without delay?",
+      "options": [
+        {
+          "text": "He was compelled to pay ten thousand talents of silver to Mordecai",
+          "explanation": ""
+        },
+        {
+          "text": "He took the apparel and horse, and brought Mordecai through the street",
+          "explanation": ""
+        },
+        {
+          "text": "He was commanded to bow himself down and open the gates of the palace",
+          "explanation": ""
+        },
+        {
+          "text": "He was forced to deliver up his private palace unto the seed of Jacob",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Esther 6:10-11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "est_019",
+      "type": "single_choice",
+      "text": "What did queen Esther reveal unto the king at the banquet of wine?",
+      "options": [
+        {
+          "text": "That Haman was treating secretly with the enemies of Greece",
+          "explanation": ""
+        },
+        {
+          "text": "That she had summoned a band of soldiers out of the mountains of Judah",
+          "explanation": ""
+        },
+        {
+          "text": "For we are sold, I and my people, to be destroyed, to be slain, and to perish",
+          "explanation": ""
+        },
+        {
+          "text": "That the royal treasurer had stolen much silver out of the provinces",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Esther 7:3-4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "est_020",
+      "type": "single_choice",
+      "text": "How answered Esther when king Ahasuerus said: Who is he, that durst presume in heart?",
+      "options": [
+        {
+          "text": "It is the governors of the provinces beyond the great river!",
+          "explanation": ""
+        },
+        {
+          "text": "A cruel captain out of the desolate deserts of Arabia hath done it!",
+          "explanation": ""
+        },
+        {
+          "text": "The astrologers of Chaldea have cast the lot upon our households!",
+          "explanation": ""
+        },
+        {
+          "text": "The adversary and enemy is this wicked Haman!",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Esther 7:6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "est_021",
+      "type": "single_choice",
+      "text": "What judgment commanded the king when Harbonah mentioned the gallows of Haman?",
+      "options": [
+        {
+          "text": "Hang him thereon! So they hanged Haman on the gallows that he had prepared",
+          "explanation": ""
+        },
+        {
+          "text": "Cast him into the deep pit until he restore ten thousand talents of silver",
+          "explanation": ""
+        },
+        {
+          "text": "Banish him for ever into the desolate wilderness of the mountains",
+          "explanation": ""
+        },
+        {
+          "text": "Command him to fall down before Mordecai to plead for his guilty life",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Esther 7:9-10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "est_022",
+      "type": "single_choice",
+      "text": "What did king Ahasuerus bestow upon Mordecai following the execution of Haman?",
+      "options": [
+        {
+          "text": "The crown royal which had aforetime been worn by queen Vashti",
+          "explanation": ""
+        },
+        {
+          "text": "The king took off his ring, which he had taken from Haman, and gave it",
+          "explanation": ""
+        },
+        {
+          "text": "An imperial garrison of ten thousand horsemen out of the provinces",
+          "explanation": ""
+        },
+        {
+          "text": "Absolute rule over the dominions of Babylon, Media, and Syria",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Esther 8:2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "est_023",
+      "type": "single_choice",
+      "text": "What power did the king's letters grant unto the Jews in every city?",
+      "options": [
+        {
+          "text": "To withhold all imperial tribute and stamp their own silver coins",
+          "explanation": ""
+        },
+        {
+          "text": "To close the gates of all fenced cities against the governors by night",
+          "explanation": ""
+        },
+        {
+          "text": "To gather themselves together, to stand for life, to destroy their enemies",
+          "explanation": ""
+        },
+        {
+          "text": "To break down every strange temple throughout all the provinces",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Esther 8:11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "est_024",
+      "type": "single_choice",
+      "text": "How did many of the people of the land behave themselves after the letters?",
+      "options": [
+        {
+          "text": "They fled unto the borders of the sea fearing the vengeance of Judah",
+          "explanation": ""
+        },
+        {
+          "text": "They confederated secretly with the ten sons of Haman against the city",
+          "explanation": ""
+        },
+        {
+          "text": "They petitioned the king to revoke the royal letters of deliverance",
+          "explanation": ""
+        },
+        {
+          "text": "Many of the people of the land became Jews; for the fear of the Jews fell",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Esther 8:17",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "est_025",
+      "type": "single_choice",
+      "text": "What did the Jews remarkably NOT do when they smote their enemies?",
+      "options": [
+        {
+          "text": "On the spoil laid they not their hand in any of the provinces",
+          "explanation": ""
+        },
+        {
+          "text": "They took no little ones captive to be bondmen in their dwellings",
+          "explanation": ""
+        },
+        {
+          "text": "They burned not the dwellings nor castles of their adversaries",
+          "explanation": ""
+        },
+        {
+          "text": "They refused to keep the solemn feast of victory in the palace",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Esther 9:10, 15-16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "est_026",
+      "type": "single_choice",
+      "text": "What days did Mordecai establish that they should keep yearly for ever?",
+      "options": [
+        {
+          "text": "The first and second day of the first month Nisan in the spring",
+          "explanation": ""
+        },
+        {
+          "text": "The fourteenth day of the month Adar, and the fifteenth day of same",
+          "explanation": ""
+        },
+        {
+          "text": "The tenth day of the seventh month at the gathering of the vintage",
+          "explanation": ""
+        },
+        {
+          "text": "The whole week following the passover feast until the new moon",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Esther 9:21-22",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "est_027",
+      "type": "single_choice",
+      "text": "Wherefore called they these days Purim throughout their generations?",
+      "options": [
+        {
+          "text": "After the Hebrew word signifying deliverance from the captivity",
+          "explanation": ""
+        },
+        {
+          "text": "After the Persian name of the royal post that rode upon camels",
+          "explanation": ""
+        },
+        {
+          "text": "After the name of Pur, because Haman had cast the lot to consume them",
+          "explanation": ""
+        },
+        {
+          "text": "After the royal apparel which queen Esther wore before the king",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Esther 9:26",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "est_028",
+      "type": "single_choice",
+      "text": "Upon what did king Ahasuerus lay a tribute in the tenth chapter?",
+      "options": [
+        {
+          "text": "Only upon the cities of the adversaries which were overthrown",
+          "explanation": ""
+        },
+        {
+          "text": "Only upon the synagogues of the Jews in the lands of the heathen",
+          "explanation": ""
+        },
+        {
+          "text": "Only upon the merchant vessels carrying timber from Tyre and Sidon",
+          "explanation": ""
+        },
+        {
+          "text": "The king Ahasuerus laid a tribute upon the land, and upon the isles",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Esther 10:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "est_029",
+      "type": "single_choice",
+      "text": "What great advancement had Mordecai the Jew in the Persian empire?",
+      "options": [
+        {
+          "text": "Mordecai the Jew was next unto king Ahasuerus, and great among Jews",
+          "explanation": ""
+        },
+        {
+          "text": "He was consecrated high priest over the rebuilt temple in Jerusalem",
+          "explanation": ""
+        },
+        {
+          "text": "He reigned as an independent prince over the lands beyond Euphrates",
+          "explanation": ""
+        },
+        {
+          "text": "He was appointed chief captain over all the armies in the west",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Esther 10:2-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "est_030",
+      "type": "single_choice",
+      "text": "What final testimony is recorded concerning Mordecai the Jew at the end of the book?",
+      "options": [
+        {
+          "text": "He builded high fenced towers round about the cities of the Medes",
+          "explanation": ""
+        },
+        {
+          "text": "Seeking the wealth of his people, and speaking peace to all his seed",
+          "explanation": ""
+        },
+        {
+          "text": "He commanded that the Jews trade no more with the nations round",
+          "explanation": ""
+        },
+        {
+          "text": "He gathered all the chronicles of Persia and committed them to fire",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Esther 10:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    }
+  ]
+}
