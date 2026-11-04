@@ -2,36 +2,52 @@
 
 ## Übersicht & Metriken
 - **Geprüfte Fragen:** 140
-- **Geänderte Fragen (DE Text, Referenz oder Optionen):** 12 (zuzüglich Vereinheitlichung der Schreibweise von „Simson“ in den Fragen 80–105)
+- **Geänderte Fragen (DE Text, Referenz oder Optionen):** 45 (Vokabular- und Rechtschreibangleichung an Luther 1912, Großschreibung von NICHT/KEIN, Option-Balancierung)
+- **Geänderte Fragen (EN):** 82 (Neuausrichtung und KJV-1769-Neuübersetzung verschobener Frageblöcke 18–50, 59–79, 109–132 sowie Angleichung an DE 1:1)
 - **Beibehaltene / neue historische Erklärungen (DE & EN):** 1 (Kultische Sach- und Begriffsklärung in `ri_055`: Priesterliches Ephod zur Gottesbefragung vs. Gideons Abgötterei)
 - **Entfernte / bereinigte Erklärungen:** 139 Fragen-Erklärungen auf `""` gesetzt (`explanationReviewed: false`), alle 560 Options-Erklärungen auf `""` geleert
 - **KJV-Übersetzung:** 140 Fragen vollständig in `en/07_richter.json` übertragen, inkl. authentischer KJV-Begrifflichkeiten, KJV-Verszählung und balancierter Optionen
 
-## Bemerkenswerte Änderungen (DE)
+## Bemerkenswerte Vokabel- und Inhaltsänderungen (DE & EN)
 
 | questionId | Was | Warum |
 |---|---|---|
-| `ri_005` | Negation hervorgehoben: `NICHT aus ihren Städten vertreiben konnte` | Richtlinienkonforme Großschreibung verneinter Fragestellungen. |
-| `ri_006` | Optionen harmonisiert und balanciert auf einheitlich 42 Zeichen | Beseitigung der auffälligen Längenabweichung (`max_dev > 30%`). |
-| `ri_009` | Optionen präzisiert und auf 42–45 Zeichen balanciert | Beseitigung der Längenabweichung (`max_dev > 30%`). |
-| `ri_016` | Optionen präzisiert und auf 26–29 Zeichen balanciert | Beseitigung der Längenabweichung (`max_dev > 30%`). |
-| `ri_032` | Optionen präzisiert und auf 38–39 Zeichen balanciert | Beseitigung der Längenabweichung (`max_dev > 30%`). |
-| `ri_035` | Optionen auf einheitlich 23–24 Zeichen gestrafft | Beseitigung der Längenabweichung (`max_dev > 30%`). |
-| `ri_050` | Negation hervorgehoben: `NICHT sogleich zum Kampf gerufen` | Richtlinienkonforme Großschreibung verneinter Fragestellungen. |
-| `ri_055` | Historische Begriffserklärung zum Ephod beibehalten | Antiker priesterlicher Gegenstand, dessen kultische Fehlverwendung der Verskontext allein nicht vollumfänglich erklärt. |
-| `ri_128` | Optionen balanciert auf einheitlich 25–28 Zeichen | Beseitigung der extremen Längenabweichung (`max_dev = 56%`). |
-| `ri_134` | Negation hervorgehoben: `KEINEN einzigen Mann` | Richtlinienkonforme Großschreibung verneinter Fragestellungen. |
-| `ri_139` | Referenz von Multi-Ref auf `Richter 4:4-22` zusammengefasst | Validierungskonforme Einzelreferenz, die beide relevanten Verse umfasst. |
-| `ri_140` | Referenz auf den ersten Richter `Richter 3:9` verengt | Validierungskonforme Zuweisung für Reihenfolgefragen. |
-| `ri_080`–`ri_105` | Namensform von `Samson` zu `Simson` harmonisiert | Entspricht der authentischen Schreibweise der Luther 1912; in der englischen KJV-Fassung verbleibt es bei `Samson`. |
+| `ri_001` | DE: `hinaufziehen` statt `in den Kampf ziehen` | Luther 1912 Richter 1:1 (`wer soll unter uns zuerst hinaufziehen?`). |
+| `ri_002` | DE: `Daumenscheiben` / `Daumen an Händen und Füßen` statt moderner Umschreibungen | Luther 1912 Richter 1:6 (`Daumen an seinen Händen und Füßen abgehauen`). |
+| `ri_004` | DE: `Wollte Gott, dass du mir einen Segen gäbest` statt `Gib mir doch eine Segensgabe!` | Luther 1912 Richter 1:15 Wortlaut. |
+| `ri_005` | DE: `eiserne Wagen` statt `Sichelwagen`; Negation `NICHT` | Luther 1912 Richter 1:19 (`denn sie hatten eiserne Wagen`). |
+| `ri_006` | DE: `zinsbar` statt `frondienstpflichtig` | Luther 1912 Richter 1:28 (`dass sie zinsbar wurden`). |
+| `ri_017` | DE: `Ochsenstecken` statt `Ochsentreiberstab`; KJV: `ox goad` | Luther 1912 Richter 3:31 (`mit einem Ochsenstecken`); KJV (`with an ox goad`). |
+| `ri_018`–`ri_050` | EN: Vollständig neu übersetzt und an DE ausgerichtet | Die englischen Fragen 18–50 waren inhaltlich gegen andere Verse formuliert und stimmten nicht mit den deutschen Fragen überein. |
+| `ri_051` | DE: `Sebah und Zalmuna` statt `Sebach und Salmunna`; `Pnuel` statt `Penuel` | Luther 1912 Schreibweise (Richter 8:5-8). |
+| `ri_055` | DE & EN: Historische Begriffserklärung zum Ephod beibehalten | Priesterlicher Gegenstand zur Befragung des HERRN; Gideons Fallstrick. |
+| `ri_058` | DE: `Jotham, der jüngste Sohn Jerubbaals`; Optionen balanciert | Luther 1912 Richter 9:5; Balance der Distraktoren. |
+| `ri_059`–`ri_079` | EN: Vollständig neu übersetzt und an DE ausgerichtet | Verschiebung behoben; 1:1-Übereinstimmung mit DE hergestellt. |
+| `ri_068` | DE: `Jephta` statt `Jephtha`; `Tob` | Luther 1912 Richter 11:1-3. |
+| `ri_080`–`ri_105` | DE: `Simson` statt `Samson` | Durchgehende Harmonisierung auf die authentische Luther-1912-Namensform. |
+| `ri_082` | DE: `ein Geweihter Gottes` statt `ein Nasiräer` | Luther 1912 Richter 13:5 (`ein Geweihter Gottes wird der Knabe sein`). |
+| `ri_093` | DE: `dreihundert Füchse` | Luther 1912 Richter 15:4 (`fing dreihundert Füchse`, KJV: `three hundred foxes`). |
+| `ri_097` | DE: `Eselkinnbacken` | Luther 1912 Richter 15:15-16 (`frischen Eselkinnbacken`, KJV: `jawbone of an ass`). |
+| `ri_099`, `ri_100` | EN: Optionen-Reihenfolge korrigiert | In EN waren die Distraktoren vertauscht, sodass der Lösungsindex auf die falsche Option zeigte. |
+| `ri_106` | DE: `tausendundhundert Silberlinge` statt modern `1100 Silberstücke` | Luther 1912 Richter 17:2. |
+| `ri_109`–`ri_132` | EN: Vollständig neu übersetzt und an DE ausgerichtet | Behebung der inhaltlichen Verschiebung in den Erzählungen um Micha und Gibea. |
+| `ri_113` | DE: `Kebsweib` statt `Nebenfrau`; KJV: `concubine` | Luther 1912 Richter 19:1; KJV (`concubine`). |
+| `ri_116` | DE: `böse Buben` statt `Söhne Belials`; KJV: `sons of Belial` | Luther 1912 Richter 19:22 (`Männer der Stadt, böse Buben`); KJV (`sons of Belial`). |
+| `ri_138` | DE & EN: Distraktor balanciert | Überlanger Distraktor auf einheitliche Länge verkürzt. |
+| `ri_139` | DE: Multi-Ref auf `Richter 4:4-22` zusammengefasst; Distraktoren balanciert | Validierungskonforme Referenz und balancierte Optionen. |
+| `ri_140` | DE & EN: Referenz auf `Richter 3:9` verengt | Startvers für Reihenfolgefrage. |
 
 ## Zur menschlichen Entscheidung
 
-1. **Namensharmonisierung Simson vs. Samson:**
-   In der Luther-1912-Übersetzung wird der hebräische Name Shimshon ausnahmslos als „Simson“ wiedergegeben. In den bestehenden Fragen 80 bis 105 wurde jedoch die moderne Form „Samson“ verwendet, während Fragen `ri_138` und `ri_140` bereits „Simson“ enthielten. Gemäß Regel 2b wurde die Schreibweise in der deutschen Datei einheitlich auf „Simson“ harmonisiert. In der englischen Datei `en/07_richter.json` wurde durchgehend die standardmäßige KJV-Namensform „Samson“ gewählt.
+1. **Neuausrichtung der englischen Frageblöcke (18–50, 59–79, 109–132):**
+   In der englischen Ursprungsfassung waren mehrere größere Abschnitte gegenüber der deutschen Datei versetzt (andere Fragestellungen zu anderen Versen innerhalb desselben Buchs). Sämtliche 140 englischen Fragen stimmen nun semantisch, thematisch und in den Lösungsindizes exakt 1:1 mit der deutschen Vorlage überein und nutzen die KJV 1769.
 
-2. **Kultische Begriffsklärung in `ri_055` (Ephod):**
-   In Übereinstimmung mit Regel 3 wurde eine kurze, sachliche historische Erklärung beibehalten: Das Ephod war nach dem mosaischen Gesetz das priesterliche Schulterkleid zur Befragung des HERRN (mit Urim und Tummim). Gideons eigenmächtiges goldenes Kultobjekt in Ophra pervertierte diese Funktion und wurde dem Volk zum geistlichen Fallstrick.
+2. **Korrektur vertauschter Optionen in `ri_099` und `ri_100`:**
+   In der englischen Version waren bei `ri_099` und `ri_100` die Distraktoren in abweichender Reihenfolge eingetragen, wodurch `correctAnswers: [0]` auf eine falsche Antwort zeigte. Die englischen Optionen wurden an die Reihenfolge der deutschen Vorlage angepasst.
 
-3. **Referenzbereinigung in `ri_139` und `ri_140`:**
-   Frage `ri_139` enthielt zwei durch Semikolon getrennte Referenzen (`Richter 4:4; Richter 4:21`). Diese wurden in die zusammenhängende Spanne `Richter 4:4-22` überführt, wodurch sowohl Deboras Richteramt als auch Jaels Tötung Siseras abgedeckt sind. Die chronologische Anordnungsfrage `ri_140` wurde wie in den vorangegangenen Büchern auf das einleitende Ereignis (`Richter 3:9`) verengt.
+3. **Namens- und Begriffsharmonisierung auf Luther 1912:**
+   - „Simson“ statt „Samson“ (Fragen 80–105).
+   - „Jephta“ statt „Jephtha“.
+   - „Sebah und Zalmuna“ / „Pnuel“ statt „Sebach und Salmunna“ / „Penuel“.
+   - „Kebsweib“ statt „Nebenfrau“.
+   - „ein Geweihter Gottes“ statt „ein Nasiräer“ (Richter 13:5).
