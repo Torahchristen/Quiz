@@ -1,7 +1,7 @@
 {
   "branch": "review-and-english",
   "totalFiles": 66,
-  "completedCount": 10,
+  "completedCount": 11,
   "completedFiles": [
     "01_1_mose.json",
     "02_2_mose.json",
@@ -12,10 +12,10 @@
     "07_richter.json",
     "08_rut.json",
     "09_1_samuel.json",
-    "10_2_samuel.json"
+    "10_2_samuel.json",
+    "11_1_koenige.json"
   ],
   "pendingFiles": [
-    "11_1_koenige.json",
     "12_2_koenige.json",
     "13_1_chronik.json",
     "14_2_chronik.json",
@@ -142,6 +142,13 @@
       "explanationsReviewedEn": 1,
       "reportPath": "reports/10_2_samuel.md",
       "enPath": "en/10_2_samuel.json"
+    },
+    "11_1_koenige.json": {
+      "questionsCount": 70,
+      "explanationsReviewedDe": 1,
+      "explanationsReviewedEn": 1,
+      "reportPath": "reports/11_1_koenige.md",
+      "enPath": "en/11_1_koenige.json"
     }
   }
 }

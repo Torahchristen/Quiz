@@ -1,0 +1,2131 @@
+{
+  "metadata": {
+    "quizId": "bibel_11_1_koenige_en",
+    "title": "1 Kings",
+    "subtitle": "1 Kings 1:1 – 22:53 (70 Questions)",
+    "author": "King James Version (1769)",
+    "language": "en",
+    "tags": [
+      "1 Kings",
+      "OT",
+      "history",
+      "KJV"
+    ],
+    "questionCount": 70,
+    "canonicalBookNumber": 11,
+    "testament": "AT",
+    "category": "geschichte",
+    "version": "2.3.0",
+    "difficulty": "medium"
+  },
+  "questions": [
+    {
+      "questionId": "1kön_001",
+      "type": "single_choice",
+      "text": "Which son of David exalted himself in the king's old age, saying, I will be king?",
+      "options": [
+        {
+          "text": "Absalom of the royal house of Geshur",
+          "explanation": ""
+        },
+        {
+          "text": "Amnon, the firstborn son of David",
+          "explanation": ""
+        },
+        {
+          "text": "Sheba, the son of Bichri of Benjamin",
+          "explanation": ""
+        },
+        {
+          "text": "Adonijah, the son of Haggith",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "1 Kings 1:5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "1kön_002",
+      "type": "single_choice",
+      "text": "Which prophet intervened to secure the throne of king David for Solomon?",
+      "options": [
+        {
+          "text": "Nathan the prophet counseled Bath-sheba",
+          "explanation": ""
+        },
+        {
+          "text": "Ahijah the Shilonite from the house of God",
+          "explanation": ""
+        },
+        {
+          "text": "Gad the seer from the wilderness of Judah",
+          "explanation": ""
+        },
+        {
+          "text": "Elijah the Tishbite from the land of Gilead",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1 Kings 1:11-14",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "1kön_003",
+      "type": "single_choice",
+      "text": "At which water source outside Jerusalem was Solomon anointed king upon David's mule?",
+      "options": [
+        {
+          "text": "By the stone of Zoheleth at En-rogel",
+          "explanation": ""
+        },
+        {
+          "text": "At the water fountain of Gihon",
+          "explanation": ""
+        },
+        {
+          "text": "At the wilderness spring of En-gedi",
+          "explanation": ""
+        },
+        {
+          "text": "At the deep well of Bethlehem",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1 Kings 1:33-38",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kön_004",
+      "type": "single_choice",
+      "text": "Whither did Adonijah flee for fear of king Solomon after he was anointed?",
+      "options": [
+        {
+          "text": "Unto the city of priests at Nob on the hill",
+          "explanation": ""
+        },
+        {
+          "text": "Unto the stronghold of Mahanaim by Jordan",
+          "explanation": ""
+        },
+        {
+          "text": "He caught hold on the horns of the altar",
+          "explanation": ""
+        },
+        {
+          "text": "Into the private house of his captain Joab",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "1 Kings 1:50-51",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kön_005",
+      "type": "single_choice",
+      "text": "What chief charge did David give to his son Solomon before he died?",
+      "options": [
+        {
+          "text": "To begin the building of the temple straightway with bondmen",
+          "explanation": ""
+        },
+        {
+          "text": "To slay all the remaining captains of Saul without delay",
+          "explanation": ""
+        },
+        {
+          "text": "To gather boundless treasures of gold from foreign kingdoms",
+          "explanation": ""
+        },
+        {
+          "text": "To keep the charge of the LORD thy God, to walk in his ways",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "1 Kings 2:2-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kön_006",
+      "type": "single_choice",
+      "text": "By which request did Adonijah forfeit his life before king Solomon?",
+      "options": [
+        {
+          "text": "He asked Abishag the Shunammite to wife",
+          "explanation": ""
+        },
+        {
+          "text": "He demanded half of the gold of the temple",
+          "explanation": ""
+        },
+        {
+          "text": "He required the government over Hebron",
+          "explanation": ""
+        },
+        {
+          "text": "He demanded the chief horses of the king",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1 Kings 2:17-22",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "1kön_007",
+      "type": "single_choice",
+      "text": "Who executed judgment upon Joab at the horns of the altar in the tabernacle?",
+      "options": [
+        {
+          "text": "Zadok the priest before the vail",
+          "explanation": ""
+        },
+        {
+          "text": "Benaiah the son of Jehoiada fell upon him",
+          "explanation": ""
+        },
+        {
+          "text": "Nathan the prophet in the holy place",
+          "explanation": ""
+        },
+        {
+          "text": "Abiathar the priest from Anathoth",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1 Kings 2:31-34",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "1kön_008",
+      "type": "single_choice",
+      "text": "What did Solomon ask of God in Gibeon in a dream by night?",
+      "options": [
+        {
+          "text": "Long life upon the earth and abundant wealth",
+          "explanation": ""
+        },
+        {
+          "text": "Speedy victory over all the heathen nations",
+          "explanation": ""
+        },
+        {
+          "text": "An understanding heart to judge thy people",
+          "explanation": ""
+        },
+        {
+          "text": "Heavenly visions concerning the end of the world",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "1 Kings 3:9-12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "1kön_009",
+      "type": "single_choice",
+      "text": "How did Solomon discover the true mother in the controversy of the two harlots?",
+      "options": [
+        {
+          "text": "He examined the witnesses of the city before the royal gate",
+          "explanation": ""
+        },
+        {
+          "text": "He caused the holy lot to be cast by Zadok the high priest",
+          "explanation": ""
+        },
+        {
+          "text": "He delayed judgment until the child was able to speak",
+          "explanation": ""
+        },
+        {
+          "text": "He commanded to divide the living child in two with a sword",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "1 Kings 3:24-27",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "1kön_010",
+      "type": "single_choice",
+      "text": "Unto which great river did the dominion of king Solomon reach?",
+      "options": [
+        {
+          "text": "Unto the great river Euphrates in the east",
+          "explanation": ""
+        },
+        {
+          "text": "Unto the border of Egypt in the distant south",
+          "explanation": ""
+        },
+        {
+          "text": "Unto the river Jordan in the pleasant valleys",
+          "explanation": ""
+        },
+        {
+          "text": "Unto the brook Kishon beside the mount Carmel",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1 Kings 4:21",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "1kön_011",
+      "type": "single_choice",
+      "text": "How many proverbs did king Solomon speak according to 1 Kings 4:32?",
+      "options": [
+        {
+          "text": "He spake an hundred wise proverbs",
+          "explanation": ""
+        },
+        {
+          "text": "He spake three thousand proverbs",
+          "explanation": ""
+        },
+        {
+          "text": "He wrote five thousand wise proverbs",
+          "explanation": ""
+        },
+        {
+          "text": "He taught seven hundred proverbs",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1 Kings 4:32",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "1kön_012",
+      "type": "single_choice",
+      "text": "What timber did Hiram king of Tyre furnish unto Solomon for the house of the LORD?",
+      "options": [
+        {
+          "text": "Oak trees and shittim wood from Bashan",
+          "explanation": ""
+        },
+        {
+          "text": "Olive trees and fig timber from the hills",
+          "explanation": ""
+        },
+        {
+          "text": "Cedar trees and fir trees out of Lebanon",
+          "explanation": ""
+        },
+        {
+          "text": "Almug trees and cypress timber from Ophir",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "1 Kings 5:6-9",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "1kön_013",
+      "type": "single_choice",
+      "text": "In what year after the children of Israel were come out of Egypt began the building of the temple?",
+      "options": [
+        {
+          "text": "In the three hundredth year after the exodus",
+          "explanation": ""
+        },
+        {
+          "text": "In the four hundredth year after the exodus",
+          "explanation": ""
+        },
+        {
+          "text": "In the five hundredth year after the exodus",
+          "explanation": ""
+        },
+        {
+          "text": "In the four hundred and eightieth year after the exodus",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "1 Kings 6:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "1kön_014",
+      "type": "single_choice",
+      "text": "Wherewith did Solomon overlay the inside of the house and the altar in the oracle?",
+      "options": [
+        {
+          "text": "He overlaid it all with pure gold",
+          "explanation": ""
+        },
+        {
+          "text": "He covered it with plates of fine silver",
+          "explanation": ""
+        },
+        {
+          "text": "He adorned it with burnished brass throughout",
+          "explanation": ""
+        },
+        {
+          "text": "He lined it with carved ivory from Ophir",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1 Kings 6:20-22",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kön_015",
+      "type": "single_choice",
+      "text": "Of what wood did Solomon make the two cherubims within the oracle?",
+      "options": [
+        {
+          "text": "Of cedar trees out of mount Lebanon",
+          "explanation": ""
+        },
+        {
+          "text": "Of olive tree wood he carved them",
+          "explanation": ""
+        },
+        {
+          "text": "Of shittim wood out of the wilderness",
+          "explanation": ""
+        },
+        {
+          "text": "Of fir tree timber from the forests of Gilead",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1 Kings 6:23-28",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "1kön_016",
+      "type": "single_choice",
+      "text": "What names did Solomon call the two great brazen pillars in the porch of the temple?",
+      "options": [
+        {
+          "text": "Urim on the right hand and Thummim on the left",
+          "explanation": ""
+        },
+        {
+          "text": "Zion on the right hand and Moriah on the left",
+          "explanation": ""
+        },
+        {
+          "text": "Jachin on the right hand and Boaz on the left",
+          "explanation": ""
+        },
+        {
+          "text": "Gershom on the right hand and Eliezer on the left",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "1 Kings 7:15-21",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "1kön_017",
+      "type": "single_choice",
+      "text": "Upon how many oxen of brass did the molten sea stand in the court of the temple?",
+      "options": [
+        {
+          "text": "It stood upon seven oxen toward the borders",
+          "explanation": ""
+        },
+        {
+          "text": "It stood upon four oxen toward the winds",
+          "explanation": ""
+        },
+        {
+          "text": "It stood upon four and twenty oxen round about",
+          "explanation": ""
+        },
+        {
+          "text": "It stood upon twelve brazen oxen",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "1 Kings 7:25",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "1kön_018",
+      "type": "single_choice",
+      "text": "What was in the ark of the covenant when the priests brought it into the most holy place?",
+      "options": [
+        {
+          "text": "Save the two tables of stone which Moses put there",
+          "explanation": ""
+        },
+        {
+          "text": "The rod of Aaron and the golden pot of holy manna",
+          "explanation": ""
+        },
+        {
+          "text": "The golden vessels taken from the ancient tabernacle",
+          "explanation": ""
+        },
+        {
+          "text": "The book of the law and the sacred anointing oil",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1 Kings 8:9",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "1kön_019",
+      "type": "single_choice",
+      "text": "What happened when the priests were come out of the holy place of the temple?",
+      "options": [
+        {
+          "text": "A consuming fire fell from heaven upon the altar",
+          "explanation": ""
+        },
+        {
+          "text": "The cloud filled the house of the LORD",
+          "explanation": ""
+        },
+        {
+          "text": "A great earthquake shook the foundations of Zion",
+          "explanation": ""
+        },
+        {
+          "text": "A bright light shined like the sun at noonday",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1 Kings 8:10-11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kön_020",
+      "type": "single_choice",
+      "text": "What did Solomon ask of God concerning a stranger coming from a far country to pray?",
+      "options": [
+        {
+          "text": "That the stranger should not enter the court of the temple",
+          "explanation": ""
+        },
+        {
+          "text": "That the stranger must first offer sacrifices on the altar",
+          "explanation": ""
+        },
+        {
+          "text": "Hear thou in heaven and do according to all he calleth for",
+          "explanation": ""
+        },
+        {
+          "text": "That the stranger should pay tribute unto the priests",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "1 Kings 8:41-43",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kön_021",
+      "type": "single_choice",
+      "text": "What warning did God give unto Solomon after the temple was finished?",
+      "options": [
+        {
+          "text": "That the gates of the temple were builded too narrow for the people",
+          "explanation": ""
+        },
+        {
+          "text": "That he should bring no more gold of Ophir by the ships of the sea",
+          "explanation": ""
+        },
+        {
+          "text": "That his son should have no heir upon the throne of David in Jerusalem",
+          "explanation": ""
+        },
+        {
+          "text": "That if they served other gods, He would cut off Israel out of the land",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "1 Kings 9:6-9",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "1kön_022",
+      "type": "single_choice",
+      "text": "What name did Hiram king of Tyre call the twenty cities in Galilee which Solomon gave him?",
+      "options": [
+        {
+          "text": "He called them the land of Cabul",
+          "explanation": ""
+        },
+        {
+          "text": "He called them the land of Ophir",
+          "explanation": ""
+        },
+        {
+          "text": "He called them the gates of the sea",
+          "explanation": ""
+        },
+        {
+          "text": "He called them the towns of sorrow",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1 Kings 9:12-13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "1kön_023",
+      "type": "single_choice",
+      "text": "At what place on the Red sea did Solomon build a navy of ships to go to Ophir?",
+      "options": [
+        {
+          "text": "In the Philistine city of Ashdod on the coast",
+          "explanation": ""
+        },
+        {
+          "text": "In Ezion-geber, which is beside Eloth",
+          "explanation": ""
+        },
+        {
+          "text": "In the haven of the ancient city of Tyre on the sea",
+          "explanation": ""
+        },
+        {
+          "text": "At the mouth of the brook Kishon in the north",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1 Kings 9:26",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "1kön_024",
+      "type": "single_choice",
+      "text": "Wherewith did the queen of Sheba come to prove the wisdom of king Solomon?",
+      "options": [
+        {
+          "text": "With deep reckonings concerning the stars of heaven",
+          "explanation": ""
+        },
+        {
+          "text": "With a contest of singing among the wise men of Egypt",
+          "explanation": ""
+        },
+        {
+          "text": "She came to prove him with hard questions",
+          "explanation": ""
+        },
+        {
+          "text": "With the interpretation of secret heathen dreams",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "1 Kings 10:1-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "1kön_025",
+      "type": "single_choice",
+      "text": "What did the queen of Sheba confess after seeing all Solomon's wisdom and house?",
+      "options": [
+        {
+          "text": "That the gods of Egypt were mightier than the God of Israel",
+          "explanation": ""
+        },
+        {
+          "text": "That her own counselors were far wiser than the king of Judah",
+          "explanation": ""
+        },
+        {
+          "text": "That the city of Jerusalem should soon fall into hands of strangers",
+          "explanation": ""
+        },
+        {
+          "text": "The half was not told me: thy wisdom exceedeth the fame",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "1 Kings 10:6-7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kön_026",
+      "type": "single_choice",
+      "text": "How many carved lions stood upon the steps of Solomon's ivory throne?",
+      "options": [
+        {
+          "text": "Twelve lions stood there upon the six steps",
+          "explanation": ""
+        },
+        {
+          "text": "Four and twenty lions on the one side and other",
+          "explanation": ""
+        },
+        {
+          "text": "Seven golden lions before the royal footstool",
+          "explanation": ""
+        },
+        {
+          "text": "Two lions alone beside the stays of the seat",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1 Kings 10:19-20",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "1kön_027",
+      "type": "single_choice",
+      "text": "Whereby was Solomon's heart turned away from following the LORD in his old age?",
+      "options": [
+        {
+          "text": "Through the deceitful counsel of the royal scribes",
+          "explanation": ""
+        },
+        {
+          "text": "His strange wives turned away his heart after other gods",
+          "explanation": ""
+        },
+        {
+          "text": "Through the abundance of gold and silver from Ophir",
+          "explanation": ""
+        },
+        {
+          "text": "Through sore wars and uprisings among heathen nations",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1 Kings 11:1-5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kön_028",
+      "type": "single_choice",
+      "text": "Why would God NOT rend the kingdom away in the days of Solomon himself?",
+      "options": [
+        {
+          "text": "Because of the covenant made with Hiram of Tyre",
+          "explanation": ""
+        },
+        {
+          "text": "Because of the temple which he builded in Jerusalem",
+          "explanation": ""
+        },
+        {
+          "text": "For David his father and faithful servant's sake",
+          "explanation": ""
+        },
+        {
+          "text": "Because the people offered daily sacrifices unto God",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "1 Kings 11:12-13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "1kön_029",
+      "type": "single_choice",
+      "text": "What sign did Ahijah the Shilonite give to Jeroboam concerning the ten tribes?",
+      "options": [
+        {
+          "text": "He anointed him with holy oil out of the horn",
+          "explanation": ""
+        },
+        {
+          "text": "He gave him ten golden rings from the sanctuary",
+          "explanation": ""
+        },
+        {
+          "text": "He brake a brazen staff in pieces before his eyes",
+          "explanation": ""
+        },
+        {
+          "text": "He rent his new garment in twelve pieces and gave him ten",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "1 Kings 11:30-31",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "1kön_030",
+      "type": "single_choice",
+      "text": "How many years did king Solomon reign in Jerusalem over all Israel?",
+      "options": [
+        {
+          "text": "Solomon reigned in Jerusalem forty years",
+          "explanation": ""
+        },
+        {
+          "text": "He reigned thirty years over the house of Israel",
+          "explanation": ""
+        },
+        {
+          "text": "He sat fifty full years upon the royal throne",
+          "explanation": ""
+        },
+        {
+          "text": "His peaceful reign endured five and twenty years",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1 Kings 11:42",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "1kön_031",
+      "type": "single_choice",
+      "text": "Whose counsel did Rehoboam follow when the people sought to lighten their heavy yoke?",
+      "options": [
+        {
+          "text": "The wise counsel of the old men that stood before David",
+          "explanation": ""
+        },
+        {
+          "text": "The counsel of the young men that were grown up with him",
+          "explanation": ""
+        },
+        {
+          "text": "The word of the holy priests from the house of the LORD",
+          "explanation": ""
+        },
+        {
+          "text": "The direction of the foreign governors from the borders",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1 Kings 12:13-14",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "1kön_032",
+      "type": "single_choice",
+      "text": "In which two places did Jeroboam set up golden calves to turn Israel from the temple?",
+      "options": [
+        {
+          "text": "At Hebron in the south and at Shechem in the mount",
+          "explanation": ""
+        },
+        {
+          "text": "At Shiloh in the north and at Jericho near Jordan",
+          "explanation": ""
+        },
+        {
+          "text": "The one in Bethel, and the other put he in Dan",
+          "explanation": ""
+        },
+        {
+          "text": "At Samaria on the hill and at Gibeah of Saul",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "1 Kings 12:28-29",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kön_033",
+      "type": "single_choice",
+      "text": "What sign came to pass at the altar in Bethel at the word of the man of God out of Judah?",
+      "options": [
+        {
+          "text": "The altar sank down into a deep opening of the earth",
+          "explanation": ""
+        },
+        {
+          "text": "Fire came down from heaven and consumed king Jeroboam",
+          "explanation": ""
+        },
+        {
+          "text": "A cloud of locusts covered the sanctuary and the city",
+          "explanation": ""
+        },
+        {
+          "text": "The altar was rent, and the ashes poured out from the altar",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "1 Kings 13:3-5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "1kön_034",
+      "type": "single_choice",
+      "text": "What befell the disobedient prophet from Judah who turned back contrary to God's word?",
+      "options": [
+        {
+          "text": "A lion slew him, yet ate not the carcase nor tore the ass",
+          "explanation": ""
+        },
+        {
+          "text": "He was drowned in the swelling waters of the river Jordan",
+          "explanation": ""
+        },
+        {
+          "text": "He was taken captive by the servants of king Jeroboam",
+          "explanation": ""
+        },
+        {
+          "text": "A bolt of lightning smote him in the way before Bethel",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1 Kings 13:23-28",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kön_035",
+      "type": "single_choice",
+      "text": "Who revealed the disguise of Jeroboam's wife when she came unto Shiloh?",
+      "options": [
+        {
+          "text": "A young Levite youth ministering at the threshold",
+          "explanation": ""
+        },
+        {
+          "text": "The prophet Ahijah, unto whom the LORD told of her coming",
+          "explanation": ""
+        },
+        {
+          "text": "Zadok the priest with the holy judgment of Urim",
+          "explanation": ""
+        },
+        {
+          "text": "An angel of the LORD standing before the holy house",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1 Kings 14:1-6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kön_036",
+      "type": "single_choice",
+      "text": "Which king of Egypt took away the golden shields of Solomon in the days of Rehoboam?",
+      "options": [
+        {
+          "text": "Pharaoh-nechoh from the borders of the Nile",
+          "explanation": ""
+        },
+        {
+          "text": "So king of Egypt from the southern realm of Cush",
+          "explanation": ""
+        },
+        {
+          "text": "Shishak king of Egypt in Rehoboam's fifth year",
+          "explanation": ""
+        },
+        {
+          "text": "Pharaoh-hophra from the ancient capital of Egypt",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "1 Kings 14:25-26",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kön_037",
+      "type": "single_choice",
+      "text": "Which king of Judah put away the idols and removed Maachah from being queen for her idol?",
+      "options": [
+        {
+          "text": "King Abijam, who walked in all the sins of his father",
+          "explanation": ""
+        },
+        {
+          "text": "King Jehoshaphat, who set judges in the cities of Judah",
+          "explanation": ""
+        },
+        {
+          "text": "King Jehoram, who strengthened the strongholds of the land",
+          "explanation": ""
+        },
+        {
+          "text": "King Asa, who burnt her idol beside the brook Kidron",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "1 Kings 15:11-13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kön_038",
+      "type": "single_choice",
+      "text": "Of whom did king Omri buy the hill upon which he built Samaria?",
+      "options": [
+        {
+          "text": "Of Shemer for two talents of silver",
+          "explanation": ""
+        },
+        {
+          "text": "Of the elders of the tribe of Manasseh",
+          "explanation": ""
+        },
+        {
+          "text": "Of the merchants out of the city of Tyre",
+          "explanation": ""
+        },
+        {
+          "text": "Of the sons of the ancient priest Eli",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1 Kings 16:23-24",
+      "explanation": "Two talents of silver corresponded to about 60 to 68 kilograms (roughly 130 to 150 pounds) of silver [ref:1 Kings 16:24].",
+      "explanationReviewed": true,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kön_039",
+      "type": "single_choice",
+      "text": "Which heathen king's daughter did king Ahab take to wife?",
+      "options": [
+        {
+          "text": "The daughter of the king of Damascus in Syria",
+          "explanation": ""
+        },
+        {
+          "text": "Jezebel the daughter of Ethbaal king of the Zidonians",
+          "explanation": ""
+        },
+        {
+          "text": "The royal daughter of Pharaoh king of Egypt",
+          "explanation": ""
+        },
+        {
+          "text": "The daughter of the king of the Philistines of Gath",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1 Kings 16:31",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kön_040",
+      "type": "single_choice",
+      "text": "In what manner did God sustain the prophet Elijah by the brook Cherith?",
+      "options": [
+        {
+          "text": "The widow of Zarephath brought him meat every day",
+          "explanation": ""
+        },
+        {
+          "text": "Angels rained down manna upon the bank each morning",
+          "explanation": ""
+        },
+        {
+          "text": "The ravens brought him bread and flesh morning and evening",
+          "explanation": ""
+        },
+        {
+          "text": "Shepherds of Gilead secretly brought him milk and cheese",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "1 Kings 17:2-6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "1kön_041",
+      "type": "single_choice",
+      "text": "What continual miracle came to pass in the house of the widow of Zarephath by Elijah's word?",
+      "options": [
+        {
+          "text": "The silver in her purse multiplied secretly day by day",
+          "explanation": ""
+        },
+        {
+          "text": "The water in the well tasted continually like sweet wine",
+          "explanation": ""
+        },
+        {
+          "text": "The oven burned without dry wood through all the months",
+          "explanation": ""
+        },
+        {
+          "text": "The barrel of meal wasted not, neither did the cruse of oil fail",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "1 Kings 17:14-16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kön_042",
+      "type": "single_choice",
+      "text": "What did Elijah do when the son of the widow of Zarephath fell sick and died?",
+      "options": [
+        {
+          "text": "He stretched himself upon the child three times, and cried to God",
+          "explanation": ""
+        },
+        {
+          "text": "He carried the child in haste unto the brook Cherith by Jordan",
+          "explanation": ""
+        },
+        {
+          "text": "He anointed the child with the olive oil out of the cruse",
+          "explanation": ""
+        },
+        {
+          "text": "He summoned the elders of the city for a seven days' mourning",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1 Kings 17:19-22",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "1kön_043",
+      "type": "single_choice",
+      "text": "How many prophets of the LORD did Obadiah hide from Jezebel in caves?",
+      "options": [
+        {
+          "text": "Fifty prophets concealed in a single deep cave",
+          "explanation": ""
+        },
+        {
+          "text": "An hundred prophets, and hid them by fifty in a cave",
+          "explanation": ""
+        },
+        {
+          "text": "Two hundred prophets among the mountains of Gilead",
+          "explanation": ""
+        },
+        {
+          "text": "Seventy holy prophets within the chambers of the court",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1 Kings 18:3-4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "1kön_044",
+      "type": "single_choice",
+      "text": "What did the fire of the LORD consume on mount Carmel at Elijah's prayer?",
+      "options": [
+        {
+          "text": "Only the flesh of the bullock upon the wood of the altar",
+          "explanation": ""
+        },
+        {
+          "text": "The altars of the four hundred and fifty prophets of Baal",
+          "explanation": ""
+        },
+        {
+          "text": "The burnt sacrifice, wood, stones, dust, and licked up the water",
+          "explanation": ""
+        },
+        {
+          "text": "The garments and vessels of the priests of the groves",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "1 Kings 18:38",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kön_045",
+      "type": "single_choice",
+      "text": "What did Elijah's servant see rising out of the sea the seventh time from Carmel?",
+      "options": [
+        {
+          "text": "A dark tempest of rain accompanied by a great wind",
+          "explanation": ""
+        },
+        {
+          "text": "A strange light shining upon the face of the waters",
+          "explanation": ""
+        },
+        {
+          "text": "Three white birds proclaiming the coming of the shower",
+          "explanation": ""
+        },
+        {
+          "text": "A little cloud out of the sea, like a man's hand",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "1 Kings 18:44",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kön_046",
+      "type": "single_choice",
+      "text": "Wherewith did the angel strengthen the weary Elijah under the juniper tree?",
+      "options": [
+        {
+          "text": "A cake baken on the coals, and a cruse of water",
+          "explanation": ""
+        },
+        {
+          "text": "Manna and fresh honey found within the cleft of the rocks",
+          "explanation": ""
+        },
+        {
+          "text": "Wine and roasted flesh taken from the sacrifice of the altar",
+          "explanation": ""
+        },
+        {
+          "text": "Dried figs and sweet goat's milk brought by travelers",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1 Kings 19:5-8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kön_047",
+      "type": "single_choice",
+      "text": "Wherein did the LORD reveal Himself unto Elijah at mount Horeb?",
+      "options": [
+        {
+          "text": "In a great and strong wind that brake the rocks in pieces",
+          "explanation": ""
+        },
+        {
+          "text": "In a still small voice after the tempest and the fire",
+          "explanation": ""
+        },
+        {
+          "text": "In a mighty earthquake that shook the foundations of the hill",
+          "explanation": ""
+        },
+        {
+          "text": "In a consuming fire that fell from the midst of heaven",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1 Kings 19:11-12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "1kön_048",
+      "type": "single_choice",
+      "text": "What was Elisha doing when Elijah passed by him and cast his mantle upon him?",
+      "options": [
+        {
+          "text": "He was feeding his father's sheep beside the brook Jabbok",
+          "explanation": ""
+        },
+        {
+          "text": "He was offering burnt offerings at the altar in Bethel",
+          "explanation": ""
+        },
+        {
+          "text": "He was plowing with twelve yoke of oxen before him",
+          "explanation": ""
+        },
+        {
+          "text": "He was sitting in the gate of the city judging controversies",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "1 Kings 19:19",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "1kön_049",
+      "type": "single_choice",
+      "text": "What error did the Syrians hold concerning the God of Israel before the second battle?",
+      "options": [
+        {
+          "text": "That He could help only by night and slept by day",
+          "explanation": ""
+        },
+        {
+          "text": "That He had no dominion over chariots of iron",
+          "explanation": ""
+        },
+        {
+          "text": "That He accepted offerings only from consecrated priests",
+          "explanation": ""
+        },
+        {
+          "text": "Their gods are gods of the hills, but not of the valleys",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "1 Kings 20:23-28",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kön_050",
+      "type": "single_choice",
+      "text": "In what manner did Jezebel obtain the vineyard of Naboth for king Ahab?",
+      "options": [
+        {
+          "text": "She set two men, sons of Belial, to bear false witness and stone him",
+          "explanation": ""
+        },
+        {
+          "text": "She bought the inheritance with a thousand shekels of silver from the court",
+          "explanation": ""
+        },
+        {
+          "text": "She drove Naboth's family violently beyond the border into the land of Moab",
+          "explanation": ""
+        },
+        {
+          "text": "She caused Naboth to be put to death with secret poison at the banquet",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1 Kings 21:8-14",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kön_051",
+      "type": "single_choice",
+      "text": "What terrible judgment did Elijah pronounce against Jezebel?",
+      "options": [
+        {
+          "text": "She should die as a bondwoman in captivity in Egypt",
+          "explanation": ""
+        },
+        {
+          "text": "The dogs shall eat Jezebel by the wall of Jezreel",
+          "explanation": ""
+        },
+        {
+          "text": "She should be trodden down by a chariot of iron in battle",
+          "explanation": ""
+        },
+        {
+          "text": "A sore leprosy should smite her body unto her death",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1 Kings 21:23",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kön_052",
+      "type": "single_choice",
+      "text": "What did the prophet Micaiah the son of Imlah reveal to the kings before battle?",
+      "options": [
+        {
+          "text": "That the city of Ramoth should open her gates willingly",
+          "explanation": ""
+        },
+        {
+          "text": "That the host of Syria should flee before the chariots of Israel",
+          "explanation": ""
+        },
+        {
+          "text": "That the LORD hath put a lying spirit in the mouth of all his prophets",
+          "explanation": ""
+        },
+        {
+          "text": "That the armies of Israel should return in peace without any loss",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "1 Kings 22:19-23",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "1kön_054",
+      "type": "single_choice",
+      "text": "How was the provision of food for king Solomon's household ordered?",
+      "options": [
+        {
+          "text": "Each tribe delivered the whole harvest every seven years",
+          "explanation": ""
+        },
+        {
+          "text": "By twelve officers, each man providing victuals for a month",
+          "explanation": ""
+        },
+        {
+          "text": "Solely by the tribute and presents of foreign monarchs",
+          "explanation": ""
+        },
+        {
+          "text": "Through free-will offerings of the priests and Levites",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1 Kings 4:7, 27",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kön_055",
+      "type": "single_choice",
+      "text": "With what image does scripture describe the life in Judah and Israel under Solomon?",
+      "options": [
+        {
+          "text": "As warriors abiding in perpetual warfare upon the plains",
+          "explanation": ""
+        },
+        {
+          "text": "As sojourners dwelling in tents seeking a promised rest",
+          "explanation": ""
+        },
+        {
+          "text": "Every man dwelt safely under his vine and under his fig tree",
+          "explanation": ""
+        },
+        {
+          "text": "As merchants navigating upon great ships of the ocean",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "1 Kings 4:25",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kön_057",
+      "type": "single_choice",
+      "text": "Who made the cunning works of brass for the temple of king Solomon?",
+      "options": [
+        {
+          "text": "Hiram of Tyre, a widow's son of the tribe of Naphtali",
+          "explanation": ""
+        },
+        {
+          "text": "Bezaleel, the chief master craftsman of the tribe of Judah",
+          "explanation": ""
+        },
+        {
+          "text": "A Phoenician worker in gold from the workshops of Zidon",
+          "explanation": ""
+        },
+        {
+          "text": "Zadok the priest together with the Levites from Shiloh",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1 Kings 7:13-14",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "1kön_058",
+      "type": "single_choice",
+      "text": "With what cry did the ten tribes revolt from Rehoboam and the house of David?",
+      "options": [
+        {
+          "text": "We will have no king over us who exacteth tribute for the house of God!",
+          "explanation": ""
+        },
+        {
+          "text": "What portion have we in David? to your tents, O Israel!",
+          "explanation": ""
+        },
+        {
+          "text": "Let us return unto Egypt and build new altars to our fathers!",
+          "explanation": ""
+        },
+        {
+          "text": "The prince of Judah shall no longer appoint statutes unto our tribes!",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1 Kings 12:16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "1kön_059",
+      "type": "single_choice",
+      "text": "What happened to Jeroboam's hand when he put it forth against the man of God?",
+      "options": [
+        {
+          "text": "It was bitten of fiery serpents and swelled grievously",
+          "explanation": ""
+        },
+        {
+          "text": "It was turned white with the plague of leprosy instantly",
+          "explanation": ""
+        },
+        {
+          "text": "His hand dried up, so that he could not pull it in again",
+          "explanation": ""
+        },
+        {
+          "text": "It fell down helpless and was bound with heavy chains",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "1 Kings 13:4-6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kön_060",
+      "type": "single_choice",
+      "text": "What prophecy did Ahijah speak concerning Jeroboam's sick child Abijah?",
+      "options": [
+        {
+          "text": "He should reign after many years as a great king in Samaria",
+          "explanation": ""
+        },
+        {
+          "text": "He should be restored of his sickness by a wondrous miracle",
+          "explanation": ""
+        },
+        {
+          "text": "He should execute the office of priest at the sanctuary of Shiloh",
+          "explanation": ""
+        },
+        {
+          "text": "He only shall come to the grave, because in him is found some good thing",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "1 Kings 14:13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "1kön_061",
+      "type": "single_choice",
+      "text": "Why did the LORD give sinful king Abijam a lamp in Jerusalem?",
+      "options": [
+        {
+          "text": "For David's sake, to set up his son after him in Zion",
+          "explanation": ""
+        },
+        {
+          "text": "Because Abijam offered rich sacrifices upon the altars",
+          "explanation": ""
+        },
+        {
+          "text": "For the many prayers of the righteous priests of God",
+          "explanation": ""
+        },
+        {
+          "text": "Because Judah valiantly defended the borders of the land",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1 Kings 15:4-5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "1kön_062",
+      "type": "single_choice",
+      "text": "Which king did king Asa hire with the temple treasures against Baasha?",
+      "options": [
+        {
+          "text": "Pharaoh the king of Egypt with his mighty chariots",
+          "explanation": ""
+        },
+        {
+          "text": "Ben-hadad, the king of Syria, that dwelt at Damascus",
+          "explanation": ""
+        },
+        {
+          "text": "The king of the Philistines in the strong city of Gath",
+          "explanation": ""
+        },
+        {
+          "text": "The king of the Edomites from the rocks of Mount Seir",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1 Kings 15:18-20",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kön_063",
+      "type": "single_choice",
+      "text": "What curse of Joshua was fulfilled in Hiel the Bethelite when he builded Jericho?",
+      "options": [
+        {
+          "text": "He was smitten with blindness at the finishing of the high walls",
+          "explanation": ""
+        },
+        {
+          "text": "He was stoned in the gate by the wild inhabitants of the plain",
+          "explanation": ""
+        },
+        {
+          "text": "He laid the foundation in his firstborn and set up the gates in his youngest",
+          "explanation": ""
+        },
+        {
+          "text": "His vineyards in all the valleys were consumed by great caterpillars",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "1 Kings 16:34",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "1kön_064",
+      "type": "single_choice",
+      "text": "What wise answer did king Ahab return to boastful Ben-hadad of Syria?",
+      "options": [
+        {
+          "text": "He that goeth forth without a sword shall surely fall in the battle!",
+          "explanation": ""
+        },
+        {
+          "text": "God defendeth the small and casteth down the mighty princes!",
+          "explanation": ""
+        },
+        {
+          "text": "The gold of Samaria belongeth solely unto the priests of the land!",
+          "explanation": ""
+        },
+        {
+          "text": "Let not him that girdeth on his harness boast as he that putteth it off!",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "1 Kings 20:11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kön_065",
+      "type": "single_choice",
+      "text": "What sentence did a prophet announce unto Ahab because he let Ben-hadad go?",
+      "options": [
+        {
+          "text": "Because thou hast let go a man appointed to utter destruction, thy life shall go for his life",
+          "explanation": ""
+        },
+        {
+          "text": "Thy capital city of Samaria shall be consumed with burning fire within seven days",
+          "explanation": ""
+        },
+        {
+          "text": "Thy son shall never wear the crown of Israel but die an exile in a foreign land",
+          "explanation": ""
+        },
+        {
+          "text": "All the shields of gold in thy royal house shall be given unto the army of Syria",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1 Kings 20:42",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kön_066",
+      "type": "single_choice",
+      "text": "How did king Ahab react when Elijah declared God's judgment for Naboth's death?",
+      "options": [
+        {
+          "text": "He commanded his guards to cast Elijah into a dark dungeon straightway",
+          "explanation": ""
+        },
+        {
+          "text": "He rent his clothes, put sackcloth upon his flesh, fasted, and went softly",
+          "explanation": ""
+        },
+        {
+          "text": "He builded a great golden altar unto Baal upon the high places of Jezreel",
+          "explanation": ""
+        },
+        {
+          "text": "He mocked the words of the prophet and made a banquet with queen Jezebel",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1 Kings 21:27-29",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "1kön_067",
+      "type": "single_choice",
+      "text": "What vision did Micaiah the son of Imlah declare concerning the battle at Ramoth?",
+      "options": [
+        {
+          "text": "The armies of Syria fleeing in terror before the chariots of Israel",
+          "explanation": ""
+        },
+        {
+          "text": "King Ahab entering into Samaria in great triumph with a royal crown",
+          "explanation": ""
+        },
+        {
+          "text": "I saw all Israel scattered upon the hills, as sheep that have not a shepherd",
+          "explanation": ""
+        },
+        {
+          "text": "Holy angels with flaming swords compassing the royal bodyguards",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "1 Kings 22:17",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kön_068",
+      "type": "single_choice",
+      "text": "How was God's judgment fulfilled upon king Ahab in the battle at Ramoth-gilead?",
+      "options": [
+        {
+          "text": "Jehoshaphat discovered Ahab's disguise unto the Syrian horsemen",
+          "explanation": ""
+        },
+        {
+          "text": "Ahab's driver overturned his chariot into a rocky pit in the valley",
+          "explanation": ""
+        },
+        {
+          "text": "A stroke of lightning pierced Ahab's breastplate in the midst of battle",
+          "explanation": ""
+        },
+        {
+          "text": "A certain man drew a bow at a venture, and smote him between the joints of the harness",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "1 Kings 22:34-38",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kön_069",
+      "type": "single_choice",
+      "text": "Who asked God for an understanding heart to judge His people (1 Kings 3:9)?",
+      "options": [
+        {
+          "text": "Solomon",
+          "explanation": ""
+        },
+        {
+          "text": "Rehoboam",
+          "explanation": ""
+        },
+        {
+          "text": "Hezekiah",
+          "explanation": ""
+        },
+        {
+          "text": "David",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1 Kings 3:9",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "1kön_070",
+      "type": "single_choice",
+      "text": "Who asked the people on Carmel: \"How long halt ye between two opinions?\" (1 Kings 18:21)?",
+      "options": [
+        {
+          "text": "Micaiah",
+          "explanation": ""
+        },
+        {
+          "text": "Obadiah",
+          "explanation": ""
+        },
+        {
+          "text": "Elisha",
+          "explanation": ""
+        },
+        {
+          "text": "Elijah",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "1 Kings 18:21",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "1kön_071",
+      "type": "ordering",
+      "text": "Arrange these events from the life of Elijah in the correct chronological order.",
+      "options": [
+        {
+          "text": "God speaketh to Elijah in a still small voice",
+          "explanation": ""
+        },
+        {
+          "text": "Ravens bring Elijah bread by brook Cherith",
+          "explanation": ""
+        },
+        {
+          "text": "Fire of the LORD consumeth the burnt sacrifice",
+          "explanation": ""
+        },
+        {
+          "text": "Elijah goeth up by a whirlwind into heaven",
+          "explanation": ""
+        },
+        {
+          "text": "Elijah dwelleth with the widow at Zarephath",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1,
+        4,
+        2,
+        0,
+        3
+      ],
+      "bibleReference": "1 Kings 17:6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kön_072",
+      "type": "single_choice",
+      "text": "What did God give Solomon according to 1 Kings 3:13, which he had NOT asked?",
+      "options": [
+        {
+          "text": "Both riches, and honour: so that none among kings shall be like him",
+          "explanation": ""
+        },
+        {
+          "text": "Long life upon the earth and victory over all his enemies",
+          "explanation": ""
+        },
+        {
+          "text": "Perpetual peace along all his borders and many valiant sons",
+          "explanation": ""
+        },
+        {
+          "text": "Dominion over the land of Egypt and all heathen kingdoms",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1 Kings 3:13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    }
+  ]
+}

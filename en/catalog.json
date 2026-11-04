@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-11-04T20:44:09Z",
+  "lastUpdated": "2026-11-04T20:50:21Z",
   "language": "en",
   "categories": [
     {
@@ -234,6 +234,25 @@
       ],
       "sizeBytes": 68479,
       "downloadUrl": "./en/10_2_samuel.json"
+    },
+    {
+      "quizId": "bibel_11_1_koenige_en",
+      "category": "geschichte",
+      "title": "1 Kings",
+      "subtitle": "1 Kings 1:1 – 22:53 (70 Questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 70,
+      "difficulty": "medium",
+      "tags": [
+        "1 Kings",
+        "OT",
+        "history",
+        "KJV"
+      ],
+      "sizeBytes": 60989,
+      "downloadUrl": "./en/11_1_koenige.json"
     }
   ]
 }
