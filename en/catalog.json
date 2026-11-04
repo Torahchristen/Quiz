@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-11-04T21:50:24Z",
+  "lastUpdated": "2026-11-04T22:03:33Z",
   "language": "en",
   "categories": [
     {
@@ -386,6 +386,26 @@
       ],
       "sizeBytes": 143036,
       "downloadUrl": "./en/18_hiob.json"
+    },
+    {
+      "quizId": "bibel_19_psalmen_en",
+      "category": "weisheit",
+      "title": "Psalms",
+      "subtitle": "Psalms 1:1 – 150:6 (126 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "1.0.0",
+      "questionCount": 126,
+      "difficulty": "medium",
+      "tags": [
+        "Psalms",
+        "OT",
+        "wisdom",
+        "poetry",
+        "KJV"
+      ],
+      "sizeBytes": 120104,
+      "downloadUrl": "./en/19_psalmen.json"
     }
   ]
 }

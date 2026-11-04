@@ -1,0 +1,4306 @@
+{
+  "metadata": {
+    "quizId": "bibel_19_psalmen_en",
+    "title": "Psalms",
+    "subtitle": "Psalms 1:1 – 150:6 (126 questions)",
+    "author": "King James Version (1769)",
+    "version": "1.0.0",
+    "language": "en",
+    "category": "weisheit",
+    "difficulty": "medium",
+    "tags": [
+      "Psalms",
+      "OT",
+      "wisdom",
+      "poetry",
+      "KJV"
+    ],
+    "questionCount": 126,
+    "canonicalBookNumber": 19,
+    "testament": "OT"
+  },
+  "questions": [
+    {
+      "questionId": "ps_001",
+      "type": "single_choice",
+      "text": "According to Psalm 1:3, what is the man like whose delight is in the law of the LORD?",
+      "options": [
+        {
+          "text": "Like a tree planted by the rivers of water, that bringeth forth his fruit in his season",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Like a green palm tree flourishing in the wilderness that feareth not the summer drought",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Like a cedar of Lebanon which abideth through every storm and never casteth its foliage",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Like a fruitful vine planted by the garden wall whose clusters ripen in the harvest day",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalm 1:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "ps_002",
+      "type": "single_choice",
+      "text": "According to Psalm 1:4, what are the ungodly like?",
+      "options": [
+        {
+          "text": "Like the heavy dust which the river flood washeth away",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Like the light chaff which the blowing wind driveth away",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Like the green grass that fadeth away under the hot sun",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Like the dry thorns that the burning fire consumeth away",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalm 1:4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_003",
+      "type": "single_choice",
+      "text": "What hath the LORD said unto his Son according to Psalm 2:7?",
+      "options": [
+        {
+          "text": "Thou art my mighty king whom I have established over all kings of the earth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Thou art my holy priest for ever after the ancient order of Melchizedek",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Thou art my Son; this day have I begotten thee",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Thou art my righteous servant in whom my soul hath taken continual delight",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalm 2:7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_004",
+      "type": "single_choice",
+      "text": "In what circumstance did David compose Psalm 3 according to its title?",
+      "options": [
+        {
+          "text": "When he feigned himself mad before the king Abimelech",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "When he fled into the dark cave of Adullam from Saul",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "When the holy prophet Nathan came to reprove his sin",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "When he fled from Absalom his son",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalm 3:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_005",
+      "type": "single_choice",
+      "text": "How will the psalmist lay him down according to Psalm 4:8?",
+      "options": [
+        {
+          "text": "In peace, and sleep: for the LORD only maketh him dwell in safety",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "In prayer, for the angels of the LORD preserve his nightly rest",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In fasting, for the holy sacrifice unto God bringeth quietness",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In fear, for many cruel enemies lie in wait through the dark night",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalm 4:8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_006",
+      "type": "single_choice",
+      "text": "When shall the LORD hear the voice of the psalmist according to Psalm 5:3?",
+      "options": [
+        {
+          "text": "In the evening, when he lifteth up holy hands in prayer",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In the morning, when he directeth his prayer and looketh up",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "In the night, when all the earth keepeth silence before God",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "At noonday, when the bright sun shineth in his full strength",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalm 5:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_007",
+      "type": "single_choice",
+      "text": "What doth the psalmist do all the night according to Psalm 6:6 because of his groaning?",
+      "options": [
+        {
+          "text": "He watcheth and is as a sparrow alone upon the housetop",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He crieth aloud unto God and his soul refuseth to be comforted",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He maketh his bed to swim and watereth his couch with his tears",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He spreadeth his hands and falleth down prostrate upon the earth",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalm 6:6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_008",
+      "type": "single_choice",
+      "text": "Out of whose mouth hath God ordained strength according to Psalm 8:2?",
+      "options": [
+        {
+          "text": "Out of the mouth of wise counsellors and aged fathers",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Out of the mouth of valiant men and princes of the earth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Out of the mouth of holy priests and prophets of the temple",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Out of the mouth of babes and sucklings",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalm 8:2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "ps_009",
+      "type": "single_choice",
+      "text": "What question doth the psalmist ask in Psalm 8:4 when considering the heavens?",
+      "options": [
+        {
+          "text": "What is man, that thou art mindful of him?",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Who can number the hosts of the stars of heaven?",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Where is the place of understanding and wisdom?",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "How long shall the wicked triumph in the earth?",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalm 8:4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "ps_010",
+      "type": "single_choice",
+      "text": "How are the words of the LORD described in Psalm 12:6?",
+      "options": [
+        {
+          "text": "As refined gold from the secret treasures of the temple sanctuary",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As pure words: as silver tried in a furnace of earth, purified seven times",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "As sharp twoedged swords that divide between the soul and the spirit",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As mighty thunders that break the tallest cedar trees of the mountains",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalm 12:6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "ps_011",
+      "type": "single_choice",
+      "text": "What hath the fool said in his heart according to Psalm 14:1?",
+      "options": [
+        {
+          "text": "The LORD will never require it at our hands",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The eyes of the Almighty shall never behold our secret deeds",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "There is no God",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "God hath forgotten us and hid his face from our earthly ways",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalm 14:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "ps_012",
+      "type": "single_choice",
+      "text": "What is found at God's right hand according to Psalm 16:11?",
+      "options": [
+        {
+          "text": "Unending glory and honour among the company of the angels",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Power and dominion over all the kingdoms of the world",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The judgment of the wicked and the redemption of the meek",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Pleasures for evermore and fulness of joy in his presence",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalm 16:11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_013",
+      "type": "single_choice",
+      "text": "How doth David pray for preservation according to Psalm 17:8?",
+      "options": [
+        {
+          "text": "Keep me as the apple of the eye, hide me under the shadow of thy wings",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Hold me as a firm stone in the wall, establish me upon the rock of salvation",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Preserve me as a precious treasure in a coffer, cover me in thy secret place",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Lead me as a gentle lamb unto green pastures, bring me unto the still waters",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalm 17:8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "ps_014",
+      "type": "single_choice",
+      "text": "With what titles doth David call upon the LORD in Psalm 18:2?",
+      "options": [
+        {
+          "text": "My Creator, my wise Teacher, and my everlasting Light",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The LORD is my rock, and my fortress, and my deliverer",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "My holy King, my great Lawgiver, and my merciful Judge",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "My heavenly Father, my righteous Leader, and my Helper",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalm 18:2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_015",
+      "type": "single_choice",
+      "text": "What do the heavens declare according to Psalm 19:1?",
+      "options": [
+        {
+          "text": "The eternal wisdom of the Almighty",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The boundless judgment of the Creator",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The glory of God",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The perfect holiness of the Holy One",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalm 19:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "ps_016",
+      "type": "single_choice",
+      "text": "How are the judgments of the LORD described in Psalm 19:10?",
+      "options": [
+        {
+          "text": "Stronger than brass and more durable than mountain stones",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Brighter than the sun and clearer than the waters of Eden",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Deeper than the sea and higher than the highest heavens",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "More to be desired than gold, yea, than fine gold; sweeter than honey",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalm 19:10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_017",
+      "type": "single_choice",
+      "text": "In what do some trust and in what do the godly trust according to Psalm 20:7?",
+      "options": [
+        {
+          "text": "Some trust in chariots, and some in horses: but we will remember the name of the LORD our God",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Some trust in mighty walls, and some in strong towers: but we will trust in our valiant soldiers",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Some trust in silver, and some in fine gold: but we will put confidence in the kings of the earth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Some trust in wisdom, and some in counsellors: but we will rely upon the power of our alliances",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalm 20:7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_018",
+      "type": "single_choice",
+      "text": "What have the assembly of the wicked pierced according to Psalm 22:16?",
+      "options": [
+        {
+          "text": "My heart and my side",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "My hands and my feet",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "My neck and my shoulder",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "My head and my brow",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalm 22:16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_019",
+      "type": "single_choice",
+      "text": "What do the enemies do with the garments of the psalmist according to Psalm 22:18?",
+      "options": [
+        {
+          "text": "They burn them with fire in the open valley",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They rend them in pieces and tread them in the mire",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They part my garments among them, and cast lots upon my vesture",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "They carry them into the temple of their false idols",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalm 22:18",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_020",
+      "type": "single_choice",
+      "text": "How doth Psalm 23 begin?",
+      "options": [
+        {
+          "text": "God is our refuge and strength, a very present help in trouble",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The heavens declare the glory of God; and the firmament sheweth it",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I will bless the LORD at all times: his praise shall be in my mouth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The LORD is my shepherd; I shall not want",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalm 23:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "ps_021",
+      "type": "single_choice",
+      "text": "What comforteth the psalmist in the valley of the shadow of death according to Psalm 23:4?",
+      "options": [
+        {
+          "text": "Thy rod and thy staff they comfort me",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Thy shining light and thy holy angels",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Thy sweet promise and thy loving voice",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Thy mighty shield and thy sharp sword",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalm 23:4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "ps_022",
+      "type": "single_choice",
+      "text": "What doth the LORD prepare for the psalmist in the presence of his enemies according to Psalm 23:5?",
+      "options": [
+        {
+          "text": "A high tower of safety",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A table before him",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A quiet sanctuary of rest",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A crown of pure gold",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalm 23:5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "ps_023",
+      "type": "single_choice",
+      "text": "What shall follow the psalmist all the days of his life according to Psalm 23:6?",
+      "options": [
+        {
+          "text": "Health and riches",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Peace and long life",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Goodness and mercy",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Honour and victory",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalm 23:6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_024",
+      "type": "single_choice",
+      "text": "Whose is the earth according to Psalm 24:1?",
+      "options": [
+        {
+          "text": "Unto the nations that dwell therein",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto the kings that rule over it",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto the righteous that walk in it",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The earth is the LORD’s, and the fulness thereof",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalm 24:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "ps_025",
+      "type": "single_choice",
+      "text": "Who shall come in when the everlasting doors are lifted up according to Psalm 24:7?",
+      "options": [
+        {
+          "text": "The King of glory",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The High Priest of God",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The holy seed of Jacob",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The prince of Israel",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalm 24:7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_026",
+      "type": "single_choice",
+      "text": "What is the LORD unto the psalmist according to Psalm 27:1?",
+      "options": [
+        {
+          "text": "His holy counsellor, his faithful rock, and the guide of his youth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The LORD is my light and my salvation; and the strength of my life",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "His mighty defender, his merciful shield, and righteous avenger",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "His glorious sovereign, his heavenly judge, and ever present king",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalm 27:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_027",
+      "type": "single_choice",
+      "text": "What one thing hath David desired of the LORD according to Psalm 27:4?",
+      "options": [
+        {
+          "text": "To dwell upon the holy mountain and offer daily sacrifices on the altar",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To be delivered from every enemy and dwell safely in the land of Israel",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That I may dwell in the house of the LORD all the days of my life, to behold the beauty of the LORD",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "To serve as a faithful priest in the temple and stand before the ark of God",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalm 27:4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "ps_028",
+      "type": "single_choice",
+      "text": "What may endure for a night and what cometh in the morning according to Psalm 30:5?",
+      "options": [
+        {
+          "text": "Sorrow for a night, but peace cometh in the morning",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Darkness for a night, but light cometh in the morning",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Anguish for a night, but praise cometh in the morning",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Weeping may endure for a night, but joy cometh in the morning",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalm 30:5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_029",
+      "type": "single_choice",
+      "text": "What doth the psalmist commit into the hand of the LORD according to Psalm 31:5?",
+      "options": [
+        {
+          "text": "His spirit",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "His prayer",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "His wealth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "His praise",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalm 31:5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_030",
+      "type": "single_choice",
+      "text": "Who is blessed according to Psalm 32:1?",
+      "options": [
+        {
+          "text": "He that offereth daily sacrifices in the house of God",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Blessed is he whose transgression is forgiven, whose sin is covered",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He that hath never walked in any way of error from youth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He that bestoweth his worldly goods to feed the destitute",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalm 32:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_031",
+      "type": "single_choice",
+      "text": "Unto what doth Psalm 34:8 call the hearers?",
+      "options": [
+        {
+          "text": "To offer gifts and sing praises unto the Holy One of Israel",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To listen unto the commandments and keep every sacred law",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "O taste and see that the LORD is good",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "To bow down upon the earth and weep in the sacred assembly",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalm 34:8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_032",
+      "type": "single_choice",
+      "text": "Unto whom is the LORD nigh according to Psalm 34:18?",
+      "options": [
+        {
+          "text": "Unto them that are rich in wisdom and understanding",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto them that dwell quietly in the holy mountain",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto them that keep all vows and offer sacrifices",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto them that are of a broken heart",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalm 34:18",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_033",
+      "type": "single_choice",
+      "text": "What is promised in Psalm 37:4 to him that delighteth in the LORD?",
+      "options": [
+        {
+          "text": "He shall give thee the desires of thine heart",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He shall answer each of thy requests at once",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He shall grant unto thee long life upon earth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He shall give thee earthly riches and honour",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalm 37:4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_034",
+      "type": "single_choice",
+      "text": "Out of what did the LORD bring the psalmist according to Psalm 40:2?",
+      "options": [
+        {
+          "text": "Out of the burning fiery furnace and from the lions' den",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Out of an horrible pit, out of the miry clay",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Out of the dark prison house and from heavy chains of iron",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Out of the barren desert land and from parched dryness",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalm 40:2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_035",
+      "type": "single_choice",
+      "text": "With what doth Psalm 42:1 compare the longing of the soul after God?",
+      "options": [
+        {
+          "text": "As a dove that seeketh a secure cleft in the rock",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As a young lamb that calleth after the mother flock",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As the hart panteth after the water brooks",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "As a strong eagle that mounteth unto the high crags",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalm 42:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "ps_036",
+      "type": "single_choice",
+      "text": "What question doth the psalmist ask his soul in Psalm 42:5?",
+      "options": [
+        {
+          "text": "Why dost thou faint, O my spirit, and why art thou fearful within?",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Wherefore dost thou mourn, O my soul, and wander in sorrow?",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "How long wilt thou weep, O my soul, and seek after earthly rest?",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Why art thou cast down, O my soul? and why art thou disquieted in me?",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalm 42:5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "ps_037",
+      "type": "single_choice",
+      "text": "What is God unto us according to Psalm 46:1?",
+      "options": [
+        {
+          "text": "God is our refuge and strength, a very present help in trouble",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Our glorious sovereign and king, an ever present guide in joy",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Our righteous lawgiver and judge, a stern ruler in darkness",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Our eternal shepherd and keeper, a constant guard in path",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalm 46:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_038",
+      "type": "single_choice",
+      "text": "What command doth the LORD give in Psalm 46:10?",
+      "options": [
+        {
+          "text": "Arise, and build ye a sanctuary for my holy name",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Be still, and know that I am God",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Blow the trumpet and summon the nations to battle",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Sing praises and offer burnt offerings upon my altar",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalm 46:10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_039",
+      "type": "single_choice",
+      "text": "What should man do in the day of trouble according to Psalm 50:15?",
+      "options": [
+        {
+          "text": "Flee to the high mountains and hide in the caves of the rocks",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Bring countless sacrifices and pour out drink offerings of wine",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Call upon me in the day of trouble: I will deliver thee, and thou shalt glorify me",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Keep silence in the temple and wait until the indignation be overpast",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalm 50:15",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_040",
+      "type": "single_choice",
+      "text": "When did David compose Psalm 51 according to its title?",
+      "options": [
+        {
+          "text": "When he escaped from king Saul in the wilderness of Ziph",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "When he brought the ark of God up with joy into Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "When he feigned madness before the king of the Philistines",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "When Nathan the prophet came unto him, after he had gone in to Bath-sheba",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalm 51:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_041",
+      "type": "single_choice",
+      "text": "What doth David pray God to do for his heart in Psalm 51:10?",
+      "options": [
+        {
+          "text": "Create in me a clean heart, O God; and renew a right spirit within me",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Preserve in me an undivided heart, and keep a faithful spirit alive",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Give unto me a wise understanding heart, and send a righteous spirit",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Grant unto me a willing upright heart, and awaken a meek holy spirit",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalm 51:10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_042",
+      "type": "single_choice",
+      "text": "What did the psalmist desire according to Psalm 55:6?",
+      "options": [
+        {
+          "text": "For wings like an eagle, that he might fly to the high mountains",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Oh that I had wings like a dove! for then would I fly away, and be at rest",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "For feet like the swift roe, that he might flee into the deep forest",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For sails like the merchants' ships, that he might go far over the sea",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalm 55:6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_043",
+      "type": "single_choice",
+      "text": "With what doth God crown the year according to Psalm 65:11?",
+      "options": [
+        {
+          "text": "With early rain and summer sunshine that make the hills to rejoice",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With rich harvests of corn and fine wine that gladden the heart",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Thou crownest the year with thy goodness; and thy paths drop fatness",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "With peaceful seasons and great abundance throughout the pastures",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalm 65:11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "ps_044",
+      "type": "single_choice",
+      "text": "What is God unto the fatherless and the widows according to Psalm 68:5?",
+      "options": [
+        {
+          "text": "A strong tower and a sure defence in all their afflictions",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A provider of daily bread and a preserver of their lives",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A comforter in sorrow and an avenger against all oppressors",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A father of the fatherless, and a judge of the widows",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalm 68:5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_045",
+      "type": "single_choice",
+      "text": "How far reacheth the desire of the psalmist in Psalm 73:25 if he hath God?",
+      "options": [
+        {
+          "text": "Whom have I in heaven but thee? and there is none upon earth that I desire beside thee",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He desireth neither silver nor fine gold nor any inheritance among the kings of earth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He seeketh neither long life nor great honour nor victory over all his enemies",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He desireth only to see the destruction of the ungodly and the peace of Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalm 73:25",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_046",
+      "type": "single_choice",
+      "text": "What is the LORD God called in Psalm 84:11?",
+      "options": [
+        {
+          "text": "A rock and high tower",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A sun and shield",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A king and lawgiver",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A fountain and light",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalm 84:11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_047",
+      "type": "single_choice",
+      "text": "What are met together and what have kissed each other in Psalm 85:10?",
+      "options": [
+        {
+          "text": "Grace and judgment are met; truth and salvation have kissed",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Wisdom and understanding are met; glory and power have kissed",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Mercy and truth are met together; righteousness and peace have kissed each other",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Lovingkindness and strength are met; faith and hope have kissed",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalm 85:10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "ps_048",
+      "type": "single_choice",
+      "text": "What are we taught to number according to Psalm 90:12, that we may apply our hearts unto wisdom?",
+      "options": [
+        {
+          "text": "To number our transgressions",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To number our earthly riches",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To number our daily blessings",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "So teach us to number our days",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalm 90:12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_049",
+      "type": "single_choice",
+      "text": "With what doth Psalm 90:4 compare a thousand years in God's sight?",
+      "options": [
+        {
+          "text": "As yesterday when it is past, and as a watch in the night",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "As the grass that withereth, and as a passing vapour",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As a fleeting shadow that declineth, and as a quiet breath",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As a dream when one awaketh, and as a handful of dry dust",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalm 90:4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "ps_050",
+      "type": "single_choice",
+      "text": "What hath the LORD given his angels charge over thee according to Psalm 91:11?",
+      "options": [
+        {
+          "text": "To comfort thee in all thy deep afflictions",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To keep thee in all thy ways",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "To deliver thee from all thy mortal foes",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To guide thy steps through every darkness",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalm 91:11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_051",
+      "type": "single_choice",
+      "text": "Unto what doth Psalm 96:1 call all the earth?",
+      "options": [
+        {
+          "text": "To bring a pure offering unto the altar",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To proclaim a solemn feast unto the king",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "O sing unto the LORD a new song",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "To build an holy temple unto his honour",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalm 96:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "ps_052",
+      "type": "single_choice",
+      "text": "How should we enter into his gates and courts according to Psalm 100:4?",
+      "options": [
+        {
+          "text": "With singing into his gates, and with fasting into his courts",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With sacrifice into his gates, and with prayer into his courts",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With offerings into his gates, and with bowing into his courts",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Enter into his gates with thanksgiving, and into his courts with praise",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalm 100:4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_053",
+      "type": "ordering",
+      "text": "Put the three steps of the path in the correct order, against which Psalm 1:1 warneth man.",
+      "options": [
+        {
+          "text": "Standeth in the way of sinners",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Sitteth in the seat of the scornful",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Walketh in the counsel of the ungodly",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2,
+        0,
+        1
+      ],
+      "bibleReference": "Psalm 1:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_054",
+      "type": "single_choice",
+      "text": "What doth the psalmist say unto God concerning his tears in Psalm 56:8?",
+      "options": [
+        {
+          "text": "Put thou my tears into thy bottle",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Pour out my tears upon thine altar",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Wipe away my tears with thine hand",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Wash away my tears in thy fountain",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalm 56:8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "ps_055",
+      "type": "single_choice",
+      "text": "What did the enemies give the psalmist for meat and drink according to Psalm 69:21?",
+      "options": [
+        {
+          "text": "Bread of sorrow to eat, and bitter water of affliction to drink",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They gave me also gall for my meat; and in my thirst they gave me vinegar to drink",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Ashes to eat like bread, and mingled his drink with loud weeping",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Poison of asps to taste, and wormwood to drink in his affliction",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalm 69:21",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_056",
+      "type": "single_choice",
+      "text": "How far shall the king have dominion according to Psalm 72:8?",
+      "options": [
+        {
+          "text": "From the borders of Dan even unto Beersheba and from Gilead to the sea",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "From the river of Egypt unto the great river Euphrates in the north",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "From sea to sea, and from the river unto the ends of the earth",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Over all the kingdoms of Judah and through all territories of Canaan",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalm 72:8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "ps_057",
+      "type": "single_choice",
+      "text": "What hath the LORD brought out of Egypt according to Psalm 80:8?",
+      "options": [
+        {
+          "text": "A flock of sheep",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A chosen cedar",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "An olive branch",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A vine",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalm 80:8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_058",
+      "type": "single_choice",
+      "text": "How is the LORD described in Psalm 103:8?",
+      "options": [
+        {
+          "text": "The LORD is merciful and gracious, slow to anger, and plenteous in mercy",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The LORD is righteous and holy, swift to execute vengeance upon the wicked",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The LORD is glorious and mighty, high above all the gods of the heathen",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The LORD is our judge and king, faithful in covenant and terrible in power",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalm 103:8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_059",
+      "type": "single_choice",
+      "text": "How far hath the LORD removed our transgressions from us according to Psalm 103:12?",
+      "options": [
+        {
+          "text": "As high as heaven is above the earth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As far as the east is from the west",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "As deep as the sea is below the sky",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As distant as the morning from night",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalm 103:12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_060",
+      "type": "single_choice",
+      "text": "With what doth Psalm 103:13 compare the pity of the LORD?",
+      "options": [
+        {
+          "text": "Like as a shepherd seeketh out his wandering sheep",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Like as an eagle beareth her young upon her wings",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Like as a father pitieth his children",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Like as a king showeth mercy unto his servants",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalm 103:13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_061",
+      "type": "single_choice",
+      "text": "What did the LORD do to the storm according to Psalm 107:29?",
+      "options": [
+        {
+          "text": "He turned the dark storm that the clouds were scattered away",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He maketh the storm a calm, so that the waves thereof are still",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He commanded the storm that the heavy rain ceased at once",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He changed the storm that a gentle wind blew upon the waters",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalm 107:29",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_062",
+      "type": "single_choice",
+      "text": "What said the LORD unto my Lord according to Psalm 110:1?",
+      "options": [
+        {
+          "text": "Sit thou at my right hand, until I make thine enemies thy footstool",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Ask of me, and I shall give thee the heathen for thine inheritance",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Thou art my righteous servant whom I have upheld before all nations",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Rule thou in the midst of thine enemies and establish peace for ever",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalm 110:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_063",
+      "type": "single_choice",
+      "text": "What hath the LORD sworn concerning his priest in Psalm 110:4?",
+      "options": [
+        {
+          "text": "Thou art an everlasting king over all kingdoms of the wide world",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Thou art a righteous judge in the royal house and lineage of David",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Thou art an holy prophet according to the pattern of faithful Moses",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Thou art a priest for ever after the order of Melchizedek",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalm 110:4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "ps_064",
+      "type": "single_choice",
+      "text": "What is the beginning of wisdom according to Psalm 111:10?",
+      "options": [
+        {
+          "text": "The knowledge of the holy laws",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The keeping of the statutes",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The fear of the LORD",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The pursuit of understanding",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalm 111:10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "ps_065",
+      "type": "single_choice",
+      "text": "What can idols NOT do according to Psalm 115:5, though they have mouths and eyes?",
+      "options": [
+        {
+          "text": "They understand not and perceive not",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They walk not and perform no wonders",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They hear not and answer no prayers",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They speak not and see not",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalm 115:5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_066",
+      "type": "single_choice",
+      "text": "How is the death of his saints regarded in Psalm 116:15?",
+      "options": [
+        {
+          "text": "Precious in the sight of the LORD is the death of his saints",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Lamented before the holy angels of God throughout all heaven",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Remembered for ever in the eternal record of the righteous",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Preserved from destruction and kept safe within his presence",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalm 116:15",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "ps_067",
+      "type": "single_choice",
+      "text": "Which psalm is the shortest chapter in the Bible, having only two verses?",
+      "options": [
+        {
+          "text": "Psalm 115",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Psalm 117",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Psalm 120",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Psalm 134",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalm 117:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "ps_068",
+      "type": "single_choice",
+      "text": "What is the stone become which the builders refused according to Psalm 118:22?",
+      "options": [
+        {
+          "text": "A rock of stumbling",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A sanctuary foundation",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The head stone of the corner",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A monument of praise",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalm 118:22",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_069",
+      "type": "single_choice",
+      "text": "What is the word of the LORD according to Psalm 119:105?",
+      "options": [
+        {
+          "text": "A shield of faith and a strong defence",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A fountain of life and a stream of joy",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A twoedged sword and a fire of truth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A lamp unto my feet, and a light unto my path",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalm 119:105",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "ps_070",
+      "type": "single_choice",
+      "text": "Wherewithal shall a young man cleanse his way according to Psalm 119:9?",
+      "options": [
+        {
+          "text": "By taking heed thereto according to thy word",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "By offering daily sacrifices in the temple",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By seeking the counsel of wise elders in gate",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By keeping far from all the paths of the wicked",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalm 119:9",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_071",
+      "type": "single_choice",
+      "text": "How many verses are contained in Psalm 119, the longest chapter in the Bible?",
+      "options": [
+        {
+          "text": "150 verses",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "176 verses",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "182 verses",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "168 verses",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalm 119:176",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "ps_072",
+      "type": "single_choice",
+      "text": "From whence cometh the psalmist's help according to Psalm 121:2?",
+      "options": [
+        {
+          "text": "From the holy temple on Mount Zion",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "From the angelic hosts of heaven",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "From the LORD, which made heaven and earth",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "From the princes and judges of Israel",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalm 121:2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "ps_073",
+      "type": "single_choice",
+      "text": "What is said in Psalm 121:4 concerning him that keepeth Israel?",
+      "options": [
+        {
+          "text": "He forgetteth not the needy nor casteth away",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He is slow to anger and plenteous in mercy",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He delivereth his people from every snare",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He that keepeth Israel shall neither slumber nor sleep",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalm 121:4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_074",
+      "type": "single_choice",
+      "text": "At what was the psalmist glad according to Psalm 122:1?",
+      "options": [
+        {
+          "text": "When they said: Let us go up unto the holy mountain of Zion",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "When they said unto me: Let us go into the house of the LORD",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "When they said: Let us swear allegiance unto the chosen king",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "When they said: Let us offer solemn sacrifices upon the altar",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalm 122:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_075",
+      "type": "single_choice",
+      "text": "What shall they do that sow in tears according to Psalm 126:5?",
+      "options": [
+        {
+          "text": "They shall inherit the blessings of the land",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They that sow in tears shall reap in joy",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "They shall return with thanksgiving and praise",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They shall be comforted by the mercy of God",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalm 126:5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_076",
+      "type": "single_choice",
+      "text": "Who laboureth in vain according to Psalm 127:1 if the LORD build NOT the house?",
+      "options": [
+        {
+          "text": "The wise rulers that govern the inhabitants",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The faithful watchmen that guard the towers",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They labour in vain that build it",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The merchants that trade across the nations",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalm 127:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_077",
+      "type": "single_choice",
+      "text": "What are children according to Psalm 127:3?",
+      "options": [
+        {
+          "text": "A crown of old age",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A joy unto their mother",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A defense in the gates",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "An heritage of the LORD",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalm 127:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "ps_078",
+      "type": "single_choice",
+      "text": "From whence hath the psalmist cried unto the LORD in Psalm 130:1?",
+      "options": [
+        {
+          "text": "Out of the depths",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "From the distant land",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "From the mountaintop",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "From the dark prison",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalm 130:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_079",
+      "type": "single_choice",
+      "text": "What is called good and pleasant in Psalm 133:1?",
+      "options": [
+        {
+          "text": "When the righteous bring gifts unto the sanctuary",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For brethren to dwell together in unity",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "When princes judge the people in righteousness",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "When the tribes go up to praise the holy name",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalm 133:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "ps_080",
+      "type": "single_choice",
+      "text": "What did the captives do by the rivers of Babylon according to Psalm 137:1?",
+      "options": [
+        {
+          "text": "They hung up their harps and kept silent in sorrow",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They prayed toward the ruins of the holy temple",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "There we sat down, yea, we wept, when we remembered Zion",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "They cried aloud unto God against their oppressors",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalm 137:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_081",
+      "type": "single_choice",
+      "text": "Whither can man flee from God's presence according to Psalm 139:7?",
+      "options": [
+        {
+          "text": "Unto the highest mountains, where no traveller knoweth the way",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Into the desolate wilderness, where no man can find his traces",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Into the thickest darkness, where no ray of light can ever shine",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Nowhere, for God is in heaven, in hell, and in the uttermost sea",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalm 139:7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_082",
+      "type": "single_choice",
+      "text": "For what doth the psalmist praise the LORD in Psalm 139:14?",
+      "options": [
+        {
+          "text": "For I am fearfully and wonderfully made",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "For thou hast crowned my life with lovingkindness",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For thou hast delivered my soul from the lowest pit",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For thou hast chosen my seed for thine inheritance",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalm 139:14",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_083",
+      "type": "single_choice",
+      "text": "With what are prayer and the lifting up of hands compared in Psalm 141:2?",
+      "options": [
+        {
+          "text": "Prayer with a burnt offering and bowing with a morning sacrifice",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Prayer set forth as incense; and the lifting up of hands as the evening sacrifice",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Prayer with a meat offering and folding hands with a thank offering",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Prayer with a drink offering and raising voice with a peace offering",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalm 141:2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "ps_084",
+      "type": "single_choice",
+      "text": "How is the LORD toward all according to Psalm 145:9?",
+      "options": [
+        {
+          "text": "Glorious, and his power ruleth over all the universe",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Holy, and his righteousness endureth for evermore",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The LORD is good to all: and his tender mercies are over all his works",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Just, and he rewardeth every man according to works",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalm 145:9",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_085",
+      "type": "single_choice",
+      "text": "In whom should one put NOT his trust according to Psalm 146:3?",
+      "options": [
+        {
+          "text": "In worldly weapons, which cannot save in day of battle",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In silver and gold, which cannot satisfy in day of famine",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In strong allies, which fail and cannot stand in the storm",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Put not your trust in princes, nor in the son of man, in whom is no help",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalm 146:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_086",
+      "type": "single_choice",
+      "text": "What doth the LORD do for the broken in heart according to Psalm 147:3?",
+      "options": [
+        {
+          "text": "He healeth the broken in heart, and bindeth up their wounds",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He comforteth them and restoreth their strength with songs",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He heareth their cry and delivereth them from every trial",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He blesseth their dwelling and granteth them quiet peace",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalm 147:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_087",
+      "type": "single_choice",
+      "text": "What doth the LORD do with the stars according to Psalm 147:4?",
+      "options": [
+        {
+          "text": "He established them in the heavens by his powerful word",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He telleth the number of the stars; he calleth them all by their names",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He appointed them for signs, for seasons, and for years",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He maketh them to shine through all the darkness of night",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalm 147:4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_088",
+      "type": "multiple_choice",
+      "text": "Which instruments are named in Psalm 150:4-5 to praise God?",
+      "options": [
+        {
+          "text": "Cymbals",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Bells",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Timbrel",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Harps",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0,
+        2
+      ],
+      "bibleReference": "Psalm 150:4-5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_089",
+      "type": "single_choice",
+      "text": "Who should praise the LORD according to Psalm 150:6?",
+      "options": [
+        {
+          "text": "The company of all the holy angels in heaven",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The priests and Levites ministering at the altar",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Let every thing that hath breath praise the LORD",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The congregation of the righteous in the sanctuary",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalm 150:6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "ps_090",
+      "type": "single_choice",
+      "text": "Who shall abide in the tabernacle of the LORD according to Psalm 15:1-2?",
+      "options": [
+        {
+          "text": "He that offereth pure bullocks and lambs daily upon the altar of burnt offering",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He that keepeth all the solemn appointed feasts and payeth his sacred holy vows",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He that hath diligently studied the law and knoweth all deep divine mysteries",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He that walketh uprightly, and worketh righteousness, and speaketh the truth in heart",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalm 15:1-2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_091",
+      "type": "single_choice",
+      "text": "How doth Psalm 18:30 describe the way of God?",
+      "options": [
+        {
+          "text": "As for God, his way is perfect",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "As for God, his way is unsearchable",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As for God, his way is wonderful",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As for God, his way is mysterious",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalm 18:30",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_092",
+      "type": "single_choice",
+      "text": "What doth the psalmist pray in Psalm 25:4?",
+      "options": [
+        {
+          "text": "Deliver me from the hands of all my violent oppressors",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Shew me thy ways, O LORD; teach me thy paths",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Pardon all mine iniquities and cleanse my secret thoughts",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Grant me a long peaceful life within the holy sanctuary",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalm 25:4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_093",
+      "type": "single_choice",
+      "text": "What is the LORD unto the psalmist according to Psalm 28:7?",
+      "options": [
+        {
+          "text": "His holy refuge and eternal king",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "His guide and light in all darkness",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The LORD is my strength and my shield",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "His counsellor and judge of all path",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalm 28:7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_094",
+      "type": "single_choice",
+      "text": "What is said in Psalm 29:3 concerning the waters?",
+      "options": [
+        {
+          "text": "The river of God is full of water and maketh glad the city",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The waters saw thee, O God, and the deep depths trembled",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The floods have lifted up their voice and their loud waves",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The voice of the LORD is upon the waters: the God of glory thundereth",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalm 29:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "ps_095",
+      "type": "single_choice",
+      "text": "What do the voices of the LORD break according to Psalm 29:5?",
+      "options": [
+        {
+          "text": "The cedars of Lebanon",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The walls of Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The rocky mountains",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The ships of Tarshish",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalm 29:5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_096",
+      "type": "single_choice",
+      "text": "Who is blessed according to Psalm 33:12?",
+      "options": [
+        {
+          "text": "The king that ruleth his subjects with righteousness",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Blessed is the nation whose God is the LORD",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The man that offereth thanksgiving in the temple",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The assembly that walketh in peace and brotherly love",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalm 33:12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_097",
+      "type": "single_choice",
+      "text": "How high reacheth the mercy of the LORD according to Psalm 36:5?",
+      "options": [
+        {
+          "text": "Above all the holy angels",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto the ends of the earth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Thy mercy, O LORD, is in the heavens",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Higher than all mountains",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalm 36:5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_098",
+      "type": "single_choice",
+      "text": "What is with the LORD according to Psalm 36:9?",
+      "options": [
+        {
+          "text": "The source of salvation, and in his grace we find eternal rest",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The spring of divine wisdom, and in his holy word we find truth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The river of mercy, and in his presence we find heavenly peace",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For with thee is the fountain of life: in thy light shall we see light",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalm 36:9",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "ps_099",
+      "type": "single_choice",
+      "text": "Unto what doth Psalm 37:5 exhort us?",
+      "options": [
+        {
+          "text": "Commit thy way unto the LORD; trust also in him",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Keep thy covenant with God and build upon him",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Tell thy sorrows unto God and look unto him",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Offer thy gifts to the LORD and wait for him",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalm 37:5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_100",
+      "type": "single_choice",
+      "text": "What hath the psalmist never seen according to Psalm 37:25?",
+      "options": [
+        {
+          "text": "The ungodly man punished and his dwelling place utterly ruined",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Yet have I not seen the righteous forsaken, nor his seed begging bread",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The prince forsaking his people and losing his royal inheritance",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The poor man made rich and prevailing against all his enemies",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalm 37:25",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "ps_101",
+      "type": "single_choice",
+      "text": "What should God send to lead the psalmist according to Psalm 43:3?",
+      "options": [
+        {
+          "text": "His holy angel and divine spirit",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "His tender mercy and faithfulness",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "O send out thy light and thy truth",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "His sacred word and heavenly wisdom",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalm 43:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_102",
+      "type": "single_choice",
+      "text": "With what should God purge the psalmist that he may be clean according to Psalm 51:7?",
+      "options": [
+        {
+          "text": "With blood of sacrificial beasts upon the altar",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With the pure water of the river Jordan",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With sacred holy anointing oil of the tabernacle",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Purge me with hyssop, and I shall be clean",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalm 51:7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_103",
+      "type": "single_choice",
+      "text": "What sacrifices please God according to Psalm 51:17?",
+      "options": [
+        {
+          "text": "The sacrifices of God are a broken spirit: a broken and a contrite heart",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A joyful spirit and a sanctuary filled with abundant thank offerings",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A willing obedient heart and a mind devoted to keeping all statutes",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A costly whole burnt offering and a sweet incense of morning sacrifice",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalm 51:17",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "ps_104",
+      "type": "single_choice",
+      "text": "What doth the psalmist do when he is afraid according to Psalm 56:3?",
+      "options": [
+        {
+          "text": "He fleeth at once unto the holy sanctuary",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "What time I am afraid, I will trust in thee",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He summoneth all his mighty valiant men",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He hideth secretly in the caves of rocks",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalm 56:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_105",
+      "type": "single_choice",
+      "text": "What hath God been for the psalmist from the enemy according to Psalm 61:3?",
+      "options": [
+        {
+          "text": "A sword and a buckler",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A helper and a guide",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A shelter and a strong tower",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A crown and a deliverer",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalm 61:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "ps_106",
+      "type": "single_choice",
+      "text": "What is better than life according to Psalm 63:3?",
+      "options": [
+        {
+          "text": "The riches and treasures of all kingdoms",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The high honour and the praise of princes",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The diligent pursuit of earthly wisdom",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because thy lovingkindness is better than life",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalm 63:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_107",
+      "type": "single_choice",
+      "text": "What is God unto the psalmist when flesh and heart faileth in Psalm 73:26?",
+      "options": [
+        {
+          "text": "God is the strength of my heart, and my portion for ever",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "His shield and defender in every hour of heavy affliction",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "His guide and shepherd throughout all the days of sorrow",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "His eternal rock and high refuge above all deadly perils",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalm 73:26",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "ps_108",
+      "type": "single_choice",
+      "text": "Which bird hath found a nest for herself according to Psalm 84:3?",
+      "options": [
+        {
+          "text": "The turtledove",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The swallow",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The desert owl",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The pelican",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalm 84:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "ps_109",
+      "type": "single_choice",
+      "text": "How is the Lord toward all them that call upon him according to Psalm 86:5?",
+      "options": [
+        {
+          "text": "Righteous and upright, demanding perfect obedience of heart",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Terrible and awesome, dwelling in the thick dark clouds",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For thou, Lord, art good, and ready to forgive; and plenteous in mercy",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Slow to deliver, but executing vengeance upon the wicked",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalm 86:5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_110",
+      "type": "single_choice",
+      "text": "Unto what is the righteous compared in Psalm 92:12?",
+      "options": [
+        {
+          "text": "Unto an oak by the river and an olive tree in the fertile valley",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto a green vine in the garden and a wheat sheaf in the field",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto a fir tree on the hills and a willow tree by the waters",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The righteous shall flourish like the palm tree: he shall grow like a cedar",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalm 92:12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_111",
+      "type": "single_choice",
+      "text": "What question is asked in Psalm 94:9 concerning him that planted the ear?",
+      "options": [
+        {
+          "text": "He that planted the ear, shall he not hear?",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He that created all nations, shall he not rule?",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He that founded the earth, shall he not judge?",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He that made the tongue, shall he not speak?",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalm 94:9",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_112",
+      "type": "single_choice",
+      "text": "Unto what doth Psalm 95:6 call us?",
+      "options": [
+        {
+          "text": "To sing, to shout aloud, and to dance before the LORD",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "O come, let us worship and bow down: let us kneel before the LORD",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "To give thanks, to bless his name, and to praise him aloud",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To offer gifts, to fast with weeping, and to make our vows",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalm 95:6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_113",
+      "type": "single_choice",
+      "text": "What are we unto the LORD according to Psalm 100:3?",
+      "options": [
+        {
+          "text": "His faithful servants and builders of his house",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "His chosen children and heirs of his promise",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "We are his people, and the sheep of his pasture",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "His royal priesthood and holy congregation",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalm 100:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "ps_114",
+      "type": "single_choice",
+      "text": "Unto what is the psalmist's youth renewed according to Psalm 103:5?",
+      "options": [
+        {
+          "text": "Like a lion",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Like a palm",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Like a calf",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Like the eagle’s",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalm 103:5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_115",
+      "type": "single_choice",
+      "text": "Why should we give thanks unto the LORD according to Psalm 107:1?",
+      "options": [
+        {
+          "text": "For he is good: for his mercy endureth for ever",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "For he is righteous: and his power is over all",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For he is holy: and his truth abideth always",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For he is mighty: and his kingdom never endeth",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalm 107:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "ps_116",
+      "type": "single_choice",
+      "text": "How far is the LORD's name to be praised according to Psalm 113:3?",
+      "options": [
+        {
+          "text": "From the one end of the earth unto the other end",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "From the rising of the sun unto the going down of the same",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "From the mountains of the north to the southern sea",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "From the heights of the heaven to the deep valleys",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalm 113:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_117",
+      "type": "single_choice",
+      "text": "Unto whom should glory be given according to Psalm 115:1?",
+      "options": [
+        {
+          "text": "Unto the mighty kings and righteous governors of the land of Israel",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto the holy priests and the Levites that minister at the altar",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Not unto us, O LORD, not unto us, but unto thy name give glory",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Unto the great congregation of the faithful gathered in assembly",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalm 115:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_118",
+      "type": "single_choice",
+      "text": "What is better according to Psalm 118:8?",
+      "options": [
+        {
+          "text": "To seek riches than to put confidence in kings",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To offer sacrifices than to keep all the vows",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To conquer cities than to live quietly in peace",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It is better to trust in the LORD than to put confidence in man",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalm 118:8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_119",
+      "type": "single_choice",
+      "text": "What doth Psalm 118:24 say concerning this day?",
+      "options": [
+        {
+          "text": "This is the day which the LORD hath made; we will rejoice and be glad in it",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "This is the day of judgment; let all the ungodly tremble and fear before him",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "This is the day of our solemn assembly; let all the people bring gifts",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "This is the day of battle; the LORD hath given the victory into our hands",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalm 118:24",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "ps_120",
+      "type": "single_choice",
+      "text": "Why hath the psalmist hid God's word in his heart according to Psalm 119:11?",
+      "options": [
+        {
+          "text": "That he might always be wise and prudent in path",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That I might not sin against thee, my holy God",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "That he might be kept safe from all his adversaries",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That he might never go astray from truth of life",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalm 119:11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_121",
+      "type": "single_choice",
+      "text": "With what are a man's wife and children compared in Psalm 128:3?",
+      "options": [
+        {
+          "text": "Wife as a blooming fig tree by the way, children as fruit branches on the wall",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Wife as a cedar in the garden, children as strong young branches by the fence",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Thy wife shall be as a fruitful vine by thine house: thy children like olive plants",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Wife as a noble vine on the hill, children as young palm trees by the waters",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalm 128:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "ps_122",
+      "type": "single_choice",
+      "text": "Unto what is the psalmist's soul like according to Psalm 131:2?",
+      "options": [
+        {
+          "text": "As a gentle dove resting safely in the clefts",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As a lamb quieted in the arms of the shepherd",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As a captive bird delivered from the deadly snare",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As a child that is weaned of his mother",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalm 131:2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_123",
+      "type": "single_choice",
+      "text": "What doth the psalmist pray God in Psalm 139:23?",
+      "options": [
+        {
+          "text": "Search me, O God, and know my heart: try me, and know my thoughts",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Deliver me, O LORD, from the evil man: preserve me from violent hands",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Create in me a clean heart, O God; and renew a right spirit within me",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Hear my prayer, O LORD, give ear to my supplications in faithfulness",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalm 139:23",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_124",
+      "type": "single_choice",
+      "text": "Who is named as the author in the title of Psalm 90?",
+      "options": [
+        {
+          "text": "David, the king of Israel",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Moses the man of God",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Asaph, the chief musician",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Solomon, king of Israel",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalm 90:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_125",
+      "type": "single_choice",
+      "text": "Who is named in the title of Psalm 72?",
+      "options": [
+        {
+          "text": "Moses",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "David",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Solomon",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Asaph",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalm 72:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_126",
+      "type": "single_choice",
+      "text": "Who is named in the title of Psalm 50?",
+      "options": [
+        {
+          "text": "Ethan",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Heman",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Korah",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Asaph",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalm 50:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    }
+  ]
+}
