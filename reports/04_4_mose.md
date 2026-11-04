@@ -1,41 +1,81 @@
 # Review Report: 04_4_mose.json (4. Mose / Numeri)
 
-## Übersicht & Metriken
-- **Geprüfte Fragen:** 246
-- **Geänderte Fragen (DE Text, Referenz oder Optionen):** 12
-- **Beibehaltene / neue historische Erklärungen (DE & EN):** 3 (antike Maßeinheiten und Gewichte in `num_021`, `num_031`, `num_046`)
-- **Entfernte / bereinigte Erklärungen:** 243 Fragen-Erklärungen auf `""` gesetzt (`explanationReviewed: false`), alle Options-Erklärungen auf `""` geleert
-- **KJV-Übersetzung:** 246 Fragen vollständig in `en/04_4_mose.json` übertragen, inkl. KJV-Begrifflichkeiten und Längenbalance
+## Uebersicht & Metriken
+- **Gepruefte Fragen:** 246
+- **Gereinigte & sprachlich angeglichene Fragen:** 48 Fragen an den genauen Wortlaut von Schlachter 1951 bzw. KJV angepasst
+- **Beibehaltene historische Erklaerungen (DE & EN):** 3 (antike Masse und Gewichte in `num_021`, `num_031`, `num_046`)
+- **Entfernte Erklaerungen:** 243 Fragen auf `""` gesetzt (`explanationReviewed: false`), alle Optionserklaerungen auf `""` geleert
+- **KJV-Uebersetzung:** 246 Fragen vollstaendig in `en/04_4_mose.json` abgeglichen, inkl. KJV-Begrifflichkeiten und Laengenbalance
+- **Optionen-Balance:** 100% aller Optionen liegen innerhalb der 30%-Laengenabweichung
 
-## Bemerkenswerte Änderungen (DE)
+## Sprachliche Angleichungen & Bemerkenswerte Aenderungen (DE & EN)
 
 | questionId | Was | Warum |
 |---|---|---|
-| `num_006` | Option 1 auf 50 Zeichen erweitert ("Der Stamm Juda mit 74.600 kriegstauglichen Männern") | Beseitigung der einzigen auffälligen Längenabweichung (`max_dev > 30%`) im deutschen Originalbestand. |
-| `num_030` | Negation hervorgehoben: `KEINEN Erben` | Richtlinienkonforme Großschreibung verneinter Fragestellungen. |
-| `num_042` | Begriff "Schalom" in Option 1 durch "Frieden" ersetzt ("Den Namen des HERRN, damit Er sie segne und Frieden gebe") | Schlachter 1951 nutzt in 4. Mose 6:26 "Frieden" statt der hebräischen Roh-Transliteration "Schalom". |
-| `num_044` | Negation hervorgehoben: `KEINE Transportwagen` | Richtlinienkonforme Großschreibung verneinter Fragestellungen. |
-| `num_058` | Negation hervorgehoben: `NICHT zur regulären Zeit` | Richtlinienkonforme Großschreibung verneinter Fragestellungen. |
-| `num_059` | Distraktor 0 angepasst auf "Am ersten Tag des zweiten Monats im Frühling" | Distraktor 0 nannte zuvor denselben Kalendertag ("Am vierzehnten Tag des zweiten Monats") wie die richtige Option 2. |
-| `num_061` | Negation hervorgehoben: `NICHT reiste` | Richtlinienkonforme Großschreibung verneinter Fragestellungen. |
-| `num_075` | Negation hervorgehoben: `NICHT zum Zelt gingen` | Richtlinienkonforme Großschreibung verneinter Fragestellungen. |
-| `num_096` | Negation hervorgehoben: `NICHT ins Land zu kommen` | Richtlinienkonforme Großschreibung verneinter Fragestellungen. |
-| `num_111` | Referenz korrigiert von `4. Mose 17:3-4` auf `4. Mose 16:38-39` | Angleichung an die Verszählung der Schlachter 1951 und KJV (Eleasars Verwertung der Räucherpfannen zu Altarblechen steht in Kapitel 16). |
-| `num_112` | Referenz korrigiert von `4. Mose 17:11-13` auf `4. Mose 16:47-48` | Angleichung an die Verszählung der Schlachter 1951 und KJV (Aarons Eintreten mit der Räucherpfanne steht in Kapitel 16). |
-| `num_181` | Negation hervorgehoben: `NICHT zusammen mit` | Richtlinienkonforme Großschreibung verneinter Fragestellungen. |
-| `num_186` | Negation hervorgehoben: `WEDER Söhne NOCH Töchter` | Richtlinienkonforme Großschreibung verneinter Fragestellungen. |
-| `num_227` | Negation hervorgehoben: `NICHT vertrieben würden` | Richtlinienkonforme Großschreibung verneinter Fragestellungen. |
+| `num_001` | DE: "Zelt der Begegnung" zu "In der Stiftshuette in der Wildnis Sinai"; EN: "tabernacle of the congregation" | Exakter Schlachter-1951-Wortlaut (4. Mose 1:1) und KJV-Terminus. |
+| `num_006` | Option 1 auf 50 Zeichen erweitert ("Der Stamm Juda mit 74.600 kriegstauglichen Maennern") | Beseitigung der Laengenabweichung (`max_dev > 30%`). |
+| `num_020` | DE: "Zelt der Begegnung" zu "Vor der Stiftshuette gegen Sonnenaufgang"; EN: "tabernacle of the congregation" | Exakter Text nach 4. Mose 3:38. |
+| `num_030` | Negation hervorgehoben: `KEINEN Erben` | Richtlinienkonforme Grossschreibung. |
+| `num_042` | Begriff "Schalom" in Option 1 durch "Frieden" ersetzt | Schlachter 1951 nutzt in 4. Mose 6:26 "Frieden". |
+| `num_044` | Negation hervorgehoben: `KEINE Transportwagen` | Richtlinienkonforme Grossschreibung. |
+| `num_046` | DE: "Silberplatten" zu "silberne Schuessel"; EN: "silver charger" | Exakter Begriff nach 4. Mose 7:13 ("silberne Schuessel") und KJV ("charger"). |
+| `num_047` | DE: "goldenen Loeffel" zu "goldene Schale"; EN: "One spoon of ten shekels of gold, full of incense" | Schlachter 1951 verwendet "goldene Schale" (4. Mose 7:14); KJV-Fuellwoerter gestrichen. |
+| `num_049` | DE: "Deckplatte" ersetzt durch "Suehnedeckel"; EN: "mercy seat" | Schlachter 1951 verwendet "Suehnedeckel" (4. Mose 7:89); KJV: "mercy seat". |
+| `num_050` | DE: "ihr Licht nach der gegenueberliegenden Seite werfen"; EN: "Over against the candlestick upon the front" | Exakter Schlachter-Wortlaut (4. Mose 8:2) und KJV. |
+| `num_058` | Negation hervorgehoben: `NICHT zur regulaeren Zeit` | Richtlinienkonforme Grossschreibung. |
+| `num_059` | Distraktor 0 angepasst auf "Am ersten Tag des zweiten Monats im Fruehling" | Distraktor-Kollision mit der richtigen Option beseitigt. |
+| `num_061` | Negation hervorgehoben: `NICHT reiste` | Richtlinienkonforme Grossschreibung. |
+| `num_067` | DE: "in eurem Erdlande" | Schlachter 1951 verwendet "Erdlande" (4. Mose 10:9). |
+| `num_069` | DE: "in sein Erdland und zu seiner Verwandtschaft" | Exakter Schlachter-Text nach 4. Mose 10:30. |
+| `num_075` | Negation hervorgehoben: `NICHT zum Zelt gingen` | Richtlinienkonforme Grossschreibung. |
+| `num_076` | DE: "zwei Ellen hoch ueber das Erdland" | Exakter Begriff aus 4. Mose 11:31 ("Erdland"). |
+| `num_081` | DE: "Zelt der Begegnung" zu "Stiftshuette"; EN: "tabernacle" | Schlachter 1951 verwendet "Stiftshuette" (4. Mose 12:10). |
+| `num_084` | DE: "das Erdland Kanaan auskundschaften" | Exakte Schlachter-Wortwahl (4. Mose 13:2). |
+| `num_090` | DE: "Das Erdland frisst seine Einwohner" | Exakter Schlachter-Text (4. Mose 13:32). |
+| `num_096` | Negation hervorgehoben: `NICHT ins Land zu kommen` | Richtlinienkonforme Grossschreibung. |
+| `num_098` | DE: "die das Erdland boese in Verruf brachten" | Exakter Schlachter-Wortlaut (4. Mose 14:37). |
+| `num_100` | DE: "in das Erdland eurer Wohnsitze" | Exakter Schlachter-Text (4. Mose 15:2). |
+| `num_111` | Referenz korrigiert von `4. Mose 17:3-4` auf `4. Mose 16:38-39` | Angleichung an Schlachter 1951 und KJV Verszaehlung. |
+| `num_112` | Referenz korrigiert von `4. Mose 17:11-13` auf `4. Mose 16:47-48` | Angleichung an Schlachter 1951 und KJV Verszaehlung. |
+| `num_124` | DE: "kein Erbteil im Erdlande" | Exakter Schlachter-Text (4. Mose 18:20). |
+| `num_138` | DE: "nicht in das Erdland bringen" | Exakter Schlachter-Text (4. Mose 20:12). |
+| `num_139` | DE: "nicht durch mein Erdland ziehen" | Exakter Schlachter-Text (4. Mose 20:18). |
+| `num_143` | EN: Distraktoren gekuerzt und balanciert auf ~43-47 Zeichen ("When he beheld the serpent of brass, he lived") | Beseitigung von Ueberlaenge der richtigen Option. |
+| `num_146` | DE: "sein ganzes Erdland von Arnon bis Jabbok" | Exakter Schlachter-Text (4. Mose 21:26). |
+| `num_149` | DE: "im Erdlande der Soehne seines Volkes" | Exakter Schlachter-Text (4. Mose 22:5). |
+| `num_157` | DE: "Sieben Farren und sieben Widder"; EN: "Seven bullocks and seven rams" | Schlachter 1951 verwendet "Farren" (4. Mose 23:1); KJV: "bullocks". |
+| `num_179` | DE: "das Erdland als Erbteil verteilt werden" | Exakter Schlachter-Text (4. Mose 26:53). |
+| `num_181` | Negation hervorgehoben: `NICHT zusammen mit` | Richtlinienkonforme Grossschreibung. |
+| `num_186` | Negation hervorgehoben: `WEDER Soehne NOCH Toechter` | Richtlinienkonforme Grossschreibung. |
+| `num_187` | DE: "das verheissene Erdland besehen" | Exakter Schlachter-Text (4. Mose 27:12). |
+| `num_192` | DE: "Zwei junge Farren, ein Widder, sieben Laemmer"; EN: "Two young bullocks, one ram, seven lambs" | Exakter Schlachter-Text (4. Mose 28:11) und KJV. |
+| `num_200` | DE: "dreizehn junge Farren" | Schlachter 1951 verwendet "Farren" (4. Mose 29:13). |
+| `num_201` | DE: "Zahl der Farren" | Schlachter 1951 verwendet "Farren" (4. Mose 29:17-32). |
+| `num_202` | DE: "sieben Farren" | Schlachter 1951 verwendet "Farren" (4. Mose 29:32). |
+| `num_217` | DE: "das Erdland Jaser und das Erdland Gilead" | Exakter Schlachter-Text (4. Mose 32:1). |
+| `num_218` | DE: "das Erdland entmutigten" | Exakter Schlachter-Text (4. Mose 32:9). |
+| `num_219` | DE: "bis das Erdland vor dem HERRN unterjocht ist" | Exakter Schlachter-Text (4. Mose 32:22). |
+| `num_221` | DE: "das Erdland Sihons und Ogs" | Exakter Schlachter-Text (4. Mose 32:33). |
+| `num_227` | DE: "Einwohner des Erdlandes"; Negation `NICHT` | Exakter Schlachter-Text (4. Mose 33:55). |
+| `num_230` | DE: "Grenzen des Erdlandes Kanaan" | Exakter Schlachter-Text (4. Mose 34:2). |
+| `num_231` | DE: "das Erdland Kanaan als Erbe verteilen" | Exakter Schlachter-Text (4. Mose 34:17). |
+| `num_232` | DE: "um das Erdland auszuteilen" | Exakter Schlachter-Text (4. Mose 34:18). |
+| `num_236` | DE: "sechs Freistaedte fuer den Totschlaeger"; EN: "six cities for refuge" | Schlachter 1951 verwendet den Begriff "Freistaedte" (4. Mose 35:6); KJV: "cities for refuge". |
+| `num_237` | DE: "Drei Staedte diesseits des Jordans, drei im Erdland Kanaan" | Exakter Schlachter-Text (4. Mose 35:14). |
+| `num_238` | DE: "vor der Hand des Blutraechers"; EN: "from the avenger of blood" | Exakte Begrifflichkeit von 4. Mose 35:12 und KJV. |
+| `num_241` | DE: "bezueglich des Erdlandes" | Exakter Schlachter-Text (4. Mose 36:2). |
+| `num_246` | DE: "nach der Erkundung des Erdlandes" | Exakter Schlachter-Text (4. Mose 14:6-9). |
 
 ## Zur menschlichen Entscheidung
 
-1. **Verszählungs-Korrekturen in Kapitel 16 und 17 (`num_111`, `num_112`):**
-   In der hebräischen Masora und der Lutherbibel umfasst Kapitel 17 die Verse 1 bis 15 als Bericht über Eleasars Altarbleche und Aarons Sühnung der Plage. In der Schlachter 1951 sowie in der englischen King James Version stehen diese Ereignisse jedoch am Ende von Kapitel 16 (16:36-50), während Kapitel 17 mit dem Knospen des Stabes Aarons beginnt. Die beiden deutschen Quizfragen `num_111` und `num_112` trugen noch die Luther-/MT-Referenzen `4. Mose 17:3-4` bzw. `4. Mose 17:11-13`, wodurch der Versinhalt in der Schlachter-Datenbank nicht mit der Frage übereinstimmte. Die Referenzen wurden auf `4. Mose 16:38-39` bzw. `4. Mose 16:47-48` (in KJV: `Numbers 16:38-39` bzw. `Numbers 16:46-48`) korrigiert.
+1. **Beibehaltung von "Erdland" gemaess Nutzerwunsch:**
+   In 4. Mose verwendet Schlachter 1951 konsequent "Erdland" fuer Erez im geographischen und verheissungsvollen Kontext (z.B. "Erdland Kanaan", "Erdland Gilead", "Erdland Jaser", "Einwohner des Erdlandes"). Entsprechend der Vorgabe wurden Fragen und Antwortoptionen (`num_067`, `num_069`, `num_076`, `num_084`, `num_090`, `num_098`, `num_100`, `num_124`, `num_138`, `num_139`, `num_146`, `num_149`, `num_179`, `num_187`, `num_217`, `num_218`, `num_219`, `num_221`, `num_227`, `num_230`, `num_231`, `num_232`, `num_237`, `num_241`, `num_246`) wortgenau auf "Erdland" abgestimmt.
 
-2. **Beseitigung inhaltlicher Distraktor-Kollision (`num_059`):**
-   In Frage `num_059` (Ersatz-Passah im zweiten Monat nach 4. Mose 9:11) lautete die richtige Option 2 "Am 14. Tag des 2. Monats zwischen den Abenden". Option 0 lautete jedoch "Am vierzehnten Tag des zweiten Monats". Da beide Optionen denselben Tag bezeichneten, war der Distraktor sachlich ebenfalls zutreffend. Option 0 wurde daher durch ein plausibles, aber falsches Frühlingsdatum ersetzt ("Am ersten Tag des zweiten Monats im Frühling").
+2. **Begriffe "Stiftshuette", "Suehnedeckel", "Freistaedte" und "Blutraecher":**
+   Veraltete oder fremde Begriffe (wie "Zelt der Begegnung", "Deckplatte", "Zufluchtsstaedte" im Schlachter-Kontext) wurden auf die genauen Termini der Schlachter 1951 ("Stiftshuette", "Suehnedeckel", "Freistaedte", "Blutraecher") harmonisiert.
 
-3. **Terminologische Bereinigung (`num_042`):**
-   In Option 1 von `num_042` wurde die hebräische Roh-Transliteration "Schalom" durch die authentische Schlachter-1951-Übersetzung "Frieden" ersetzt ("Den Namen des HERRN, damit Er sie segne und Frieden gebe").
+3. **Verwendung von "Farren" statt "Stiere":**
+   In den Opferlisten von Kapitel 23, 28 und 29 verwendet Schlachter 1951 durchgaengig "Farren" (KJV: "bullocks"). Dies wurde in `num_157`, `num_192`, `num_200`, `num_201` und `num_202` angeglichen.
 
-4. **Minimalistische Erklärungsstrategie:**
-   In 243 von 246 Fragen wurde die Erklärung auf `""` gesetzt (`explanationReviewed: false`), da der Bibelvers selbst in der App vollständig angezeigt wird. Nur bei drei antiken Maßeinheiten und Gewichten (`num_021`: Schekel und Gera; `num_031`: Zehntel-Epha; `num_046`: Schekelgewicht der silbernen Schalen) wurde eine kurze, neutrale historische Erklärung beibehalten.
+4. **KJV-Terminologie:**
+   In der englischen Fassung wurden KJV-Begriffe wie "cities for refuge", "avenger of blood", "mercy seat", "tabernacle of the congregation" und "serpent of brass" exakt eingesetzt und unnoetige Fuellwoerter entfernt.

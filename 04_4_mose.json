@@ -21,23 +21,19 @@
     {
       "questionId": "num_001",
       "type": "single_choice",
-      "text": "Wo befand sich das Volk Israel, als Gott Mose die Auszählung aller wehrfähigen Männer befahl?",
+      "text": "Wo befand sich Mose, als der HERR in der Wildnis Sinai zu ihm redete?",
       "options": [
         {
-          "text": "In der Wüste Sinai im Zelt der Begegnung",
-          "explanation": ""
+          "text": "In der Stiftshütte in der Wildnis Sinai"
         },
         {
-          "text": "In den Ebenen Moabs direkt gegenüber von Jericho",
-          "explanation": ""
+          "text": "Auf der rauchenden Spitze des Berges Sinai"
         },
         {
-          "text": "Am Fuße des Berges Horeb vor dem Aufbruch",
-          "explanation": ""
+          "text": "Am Fuße des Berges Horeb vor dem Aufbruch"
         },
         {
-          "text": "In der Oase Kadesch-Barnea im Lande Paran",
-          "explanation": ""
+          "text": "In der Oase Kadesch-Barnea in der Wüste"
         }
       ],
       "correctAnswers": [
@@ -591,23 +587,19 @@
     {
       "questionId": "num_020",
       "type": "single_choice",
-      "text": "Wo schlug der Hohepriester Aaron mit Mose und seinen Söhnen sein persönliches Lager auf?",
+      "text": "Wo sollten Mose, Aaron und seine Söhne vor der Stiftshütte lagern?",
       "options": [
         {
-          "text": "An der Westseite hinter dem Heiligtum",
-          "explanation": ""
+          "text": "Vor der Stiftshütte gegen Sonnenaufgang"
         },
         {
-          "text": "An der Südseite neben den Kehatitern",
-          "explanation": ""
+          "text": "An der Westseite hinter den Zeltteppichen"
         },
         {
-          "text": "An der Nordseite bei den Meraritern",
-          "explanation": ""
+          "text": "An der Südseite nahe den Zeugenleuchtern"
         },
         {
-          "text": "An der Ostseite vor dem Zelt der Begegnung",
-          "explanation": ""
+          "text": "An der Nordseite gegenüber dem Brandaltar"
         }
       ],
       "correctAnswers": [
@@ -1371,23 +1363,19 @@
     {
       "questionId": "num_046",
       "type": "single_choice",
-      "text": "Welches Gewicht wies die silberne Schüssel auf, die von jedem Fürsten geopfert wurde?",
+      "text": "Wie schwer war die silberne Schüssel, die jeder Stammesfürst darbrachte?",
       "options": [
         {
-          "text": "Hundert Schekel nach dem heiligen Maße des Altars",
-          "explanation": ""
+          "text": "Genau fünfzig Schekel nach dem heiligen Gewicht"
         },
         {
-          "text": "Hundertdreißig Schekel nach dem heiligen Gewicht",
-          "explanation": ""
+          "text": "Genau siebzig Schekel nach dem Schekel des Hofs"
         },
         {
-          "text": "Fünfzig Schekel nach dem Maß des Marktes im Volk",
-          "explanation": ""
+          "text": "Einhundertdreißig Schekel nach dem Heiligtum"
         },
         {
-          "text": "Zweihundert Schekel in feinstem Silber gewogen",
-          "explanation": ""
+          "text": "Zweihundert Schekel nach königlichem Gewicht"
         }
       ],
       "correctAnswers": [
@@ -1401,23 +1389,19 @@
     {
       "questionId": "num_047",
       "type": "single_choice",
-      "text": "Was befand sich im goldenen Löffel von zehn Schekeln, den die Fürsten opferten?",
+      "text": "Was befand sich in der goldenen Schale von zehn Schekeln, die die Fürsten darbrachten?",
       "options": [
         {
-          "text": "Reines Salböl der Heiligung für den Brandopferaltar",
-          "explanation": ""
+          "text": "Reines Salböl der Weihe für das Zelt"
         },
         {
-          "text": "Feines Mehl mit kostbarem Olivenöl vermischt",
-          "explanation": ""
+          "text": "Feines Mehl gemengt mit reinem Öl"
         },
         {
-          "text": "Vollständiges reines Räucherwerk für den HERRN",
-          "explanation": ""
+          "text": "Sie war voll von heiligem Räucherwerk"
         },
         {
-          "text": "Das heilige Blut der dargebrachten Sündopfertiere",
-          "explanation": ""
+          "text": "Das Blut vom dargebrachten Sündopfer"
         }
       ],
       "correctAnswers": [
@@ -1461,23 +1445,19 @@
     {
       "questionId": "num_049",
       "type": "single_choice",
-      "text": "Von welchem Ort her hörte Mose die Stimme Gottes sprechen, wenn er die Hütte betrat?",
+      "text": "Von wo herab hörte Mose die Stimme reden, wenn er in die Stiftshütte ging?",
       "options": [
         {
-          "text": "Von der Deckplatte zwischen den zwei Cherubim",
-          "explanation": ""
+          "text": "Vom Sühnedeckel zwischen den beiden Cherubim"
         },
         {
-          "text": "Aus der Rauchwolke über dem Brandopferaltar im Hof",
-          "explanation": ""
+          "text": "Aus der Rauchwolke über dem Brandopferaltar"
         },
         {
-          "text": "Durch das Ertönen der zwei Silbertrompeten am Tor",
-          "explanation": ""
+          "text": "Durch das Blasen der zwei Silbertrompeten"
         },
         {
-          "text": "Von der Spitze des rauchenden Berges Sinai herab",
-          "explanation": ""
+          "text": "Von der Spitze des rauchenden Berges Sinai"
         }
       ],
       "correctAnswers": [
@@ -1491,23 +1471,19 @@
     {
       "questionId": "num_050",
       "type": "single_choice",
-      "text": "Wohin sollte das Licht der sieben Lampen des goldenen Leuchters im Heiligtum strahlen?",
+      "text": "Wohin sollten alle sieben Lampen des Leuchters ihr Licht werfen?",
       "options": [
         {
-          "text": "Nach der Decke des Zeltes der Begegnung hinauf",
-          "explanation": ""
+          "text": "Nach der Decke der heiligen Stiftshütte hinauf"
         },
         {
-          "text": "Nach vorne hin vor die Vorderseite des Leuchters",
-          "explanation": ""
+          "text": "Nach der gegenüberliegenden Seite des Leuchters"
         },
         {
-          "text": "Nach der inneren Wand des Allerheiligsten hinein",
-          "explanation": ""
+          "text": "Nach der inneren Wand des Allerheiligsten hin"
         },
         {
-          "text": "Nach dem Vorhof und dem Brandopferaltar hinaus",
-          "explanation": ""
+          "text": "Nach dem Vorhof und dem Brandopferaltar hin"
         }
       ],
       "correctAnswers": [
@@ -2001,23 +1977,19 @@
     {
       "questionId": "num_067",
       "type": "single_choice",
-      "text": "Welche Verheißung gab Gott beim Blasen der Trompeten im Krieg gegen Feinde im Lande?",
+      "text": "Was sollte geschehen, wenn Israel in seinem Erdlande in den Krieg zog?",
       "options": [
         {
-          "text": "Die Feinde wurden sofort von Verwirrung geschlagen",
-          "explanation": ""
+          "text": "Die Priester sollten mit Trompeten Lärm blasen"
         },
         {
-          "text": "Ein feuriger Hagel stürzte auf das Heer der Feinde",
-          "explanation": ""
+          "text": "Das Volk sollte drei Tage lang streng fasten"
         },
         {
-          "text": "Gott würde ihrer gedenken und sie vor Feinden retten",
-          "explanation": ""
+          "text": "Die Bundeslade sollte vergraben werden im Sand"
         },
         {
-          "text": "Die Engel des Himmels kämpften sichtbar voran",
-          "explanation": ""
+          "text": "Die Ältesten sollten Boten nach Ägypten senden"
         }
       ],
       "correctAnswers": [
@@ -2061,23 +2033,19 @@
     {
       "questionId": "num_069",
       "type": "single_choice",
-      "text": "Wer war Hobab, den Mose bat, als Führer und Augen in der Wüste mitzuziehen?",
+      "text": "Wohin wollte Hobab ziehen, als Mose ihn bat, bei Israel zu bleiben?",
       "options": [
         {
-          "text": "Der Sohn Reguels (Jethros), des Midianiters",
-          "explanation": ""
+          "text": "In die Festungsstädte der heidnischen Kanaaniter"
         },
         {
-          "text": "Der Hohepriester der Moabiter im Ostland",
-          "explanation": ""
+          "text": "Zurück in sein Erdland und zu seiner Verwandtschaft"
         },
         {
-          "text": "Ein Stammesfürst aus dem kriegerischen Volke Edom",
-          "explanation": ""
+          "text": "In das Erdland Ägypten zu den alten Fleischtöpfen"
         },
         {
-          "text": "Der oberste Feldhauptmann des Stammes Gad",
-          "explanation": ""
+          "text": "Auf die Höhen des Berges Sinai zum Gebet vor Gott"
         }
       ],
       "correctAnswers": [
@@ -2271,23 +2239,19 @@
     {
       "questionId": "num_076",
       "type": "single_choice",
-      "text": "Auf welche Weise beschaffte Gott dem Volk die ersehnte Fleischspeise in der Wüste?",
+      "text": "Wie weit streute der Wind die Wachteln über das Erdland um das Lager her?",
       "options": [
         {
-          "text": "Er ließ große Viehherden aus dem Lande Midian kommen",
-          "explanation": ""
+          "text": "Eine Tagereise weit und zwei Ellen hoch über das Erdland"
         },
         {
-          "text": "Die Priester opferten alle Rinder aus den Ställen",
-          "explanation": ""
+          "text": "Zehn Tagereisen weit bis an die Grenzen des Philisterlandes"
         },
         {
-          "text": "Der Fluss führte massenhaft Fische an das Lagerufer",
-          "explanation": ""
+          "text": "Nur genau innerhalb der Zeltgassen des versammelten Volkes"
         },
         {
-          "text": "Ein heftiger Wind trieb gewaltige Wachtelscharen herbei",
-          "explanation": ""
+          "text": "Sieben Ellen hoch über den Erdboden bis an das Rote Meer"
         }
       ],
       "correctAnswers": [
@@ -2421,23 +2385,19 @@
     {
       "questionId": "num_081",
       "type": "single_choice",
-      "text": "Welche augenblickliche Strafe traf Mirjam, als die Wolke vom Zelt der Begegnung wich?",
+      "text": "Was geschah mit Mirjam, als die Wolke von der Stiftshütte wich?",
       "options": [
         {
-          "text": "Sie war plötzlich aussätzig geworden wie Schnee",
-          "explanation": ""
+          "text": "Sie fiel in Ohnmacht vor den Augen des Volkes"
         },
         {
-          "text": "Sie verlor für immer ihre Stimme vor dem Volke",
-          "explanation": ""
+          "text": "Sie wurde aussätzig, weiß wie der kalte Schnee"
         },
         {
-          "text": "Sie wurde augenblicklich aus dem Lager gestoßen",
-          "explanation": ""
+          "text": "Sie verlor ihre Stimme für genau vierzig Tage"
         },
         {
-          "text": "Sie erblindete an ihren beiden Augen vor dem Zelt",
-          "explanation": ""
+          "text": "Sie wurde augenblicklich aus dem Lager getrieben"
         }
       ],
       "correctAnswers": [
@@ -2511,23 +2471,19 @@
     {
       "questionId": "num_084",
       "type": "single_choice",
-      "text": "Wohin zog das Volk Israel weiter, nachdem Mirjam wieder in das Lager aufgenommen worden war?",
+      "text": "Welche Aufgabe gab der HERR den zwölf Männern in 4. Mose 13:2?",
       "options": [
         {
-          "text": "In die fruchtbaren Ebenen des Landes Moab",
-          "explanation": ""
+          "text": "Die Städte der Kanaaniter mit Waffen einzunehmen"
         },
         {
-          "text": "Direkt an die Ufer des Flusses Jordan",
-          "explanation": ""
+          "text": "Das Erdland Kanaan für die Gemeinde auszukundschaften"
         },
         {
-          "text": "Zurück an den Fuß des rauchenden Berges Sinai",
-          "explanation": ""
+          "text": "Einen Friedensbund mit den Kanaanitern zu schließen"
         },
         {
-          "text": "Von Hazeroth in die weite Wüste Paran",
-          "explanation": ""
+          "text": "Neue Brunnen in der Wüste Paran zu graben für Vieh"
         }
       ],
       "correctAnswers": [
@@ -2691,23 +2647,19 @@
     {
       "questionId": "num_090",
       "type": "single_choice",
-      "text": "Welches böse Gerücht verbreiteten zehn der Kundschafter über das Land Kanaan?",
+      "text": "Wie brachten die ungetreuen Männer das erkundigte Erdland in Verruf?",
       "options": [
         {
-          "text": "Das Land sei völlig dörr und ohne Wasserquellen",
-          "explanation": ""
+          "text": "Sie nannten es ein dürres Erdland voll Steine"
         },
         {
-          "text": "Es sei ein Land, das seine Bewohner frisst",
-          "explanation": ""
+          "text": "Das Erdland frißt seine Einwohner und birgt Riesen"
         },
         {
-          "text": "Die Städte seien verlassen und von Pest befallen",
-          "explanation": ""
+          "text": "Sie sagten, die Flüsse seien vergiftet von Feinden"
         },
         {
-          "text": "Das Land sei voll von giftigen Schlangen",
-          "explanation": ""
+          "text": "Es gebe dort weder Weinstöcke noch süße Feigenbäume"
         }
       ],
       "correctAnswers": [
@@ -2931,23 +2883,19 @@
     {
       "questionId": "num_098",
       "type": "single_choice",
-      "text": "Was geschah mit den zehn ungetreuen Kundschaftern, die das böse Gerücht verbreitet hatten?",
+      "text": "Was geschah mit den Männern, die das Erdland böse in Verruf brachten?",
       "options": [
         {
-          "text": "Sie wurden vom Volk aus dem Lager gestoßen",
-          "explanation": ""
+          "text": "Sie wurden vom Volk aus dem Lager gestoßen"
         },
         {
-          "text": "Sie starben an einer Plage vor dem HERRN",
-          "explanation": ""
+          "text": "Sie starben an einer Plage vor dem HERRN"
         },
         {
-          "text": "Sie wurden von den Kanaanitern im Kampf getötet",
-          "explanation": ""
+          "text": "Sie wurden von den Kanaanitern getötet"
         },
         {
-          "text": "Sie mussten vierzig Jahre in Fesseln gehen",
-          "explanation": ""
+          "text": "Sie mussten vierzig Jahre in Fesseln gehen"
         }
       ],
       "correctAnswers": [
@@ -2991,23 +2939,19 @@
     {
       "questionId": "num_100",
       "type": "single_choice",
-      "text": "Welches Opfer verlangte das Gesetz künftig zu jedem Brandopfer im Land Kanaan?",
+      "text": "Was sollte Israel darbringen, wenn es in das Erdland seiner Wohnsitze kam?",
       "options": [
         {
-          "text": "Ein zweites Lamm als zusätzliches Dankopfer",
-          "explanation": ""
+          "text": "Ein zweites Lamm als zusätzliches Dankopfer"
         },
         {
-          "text": "Ein Maß Salz und heiligen Weihrauch auf den Altar",
-          "explanation": ""
+          "text": "Ein Maß Salz und Weihrauch auf jeden Altar"
         },
         {
-          "text": "Ein Brandopfer von zwei jungen Tauben",
-          "explanation": ""
+          "text": "Ein Brandopfer von zwei jungen Turteltauben"
         },
         {
-          "text": "Ein Speisopfer aus Feinmehl mit Öl und Wein",
-          "explanation": ""
+          "text": "Ein Speisopfer aus Feinmehl mit Öl und Wein"
         }
       ],
       "correctAnswers": [
@@ -3711,23 +3655,19 @@
     {
       "questionId": "num_124",
       "type": "single_choice",
-      "text": "Welches Erbteil oder Landbesitz erhielt der Hohepriester Aaron im Land Kanaan?",
+      "text": "Welches Erbteil empfing Aaron im Erdlande der Söhne Israel?",
       "options": [
         {
-          "text": "Die fruchtbaren Weidegründe im Süden",
-          "explanation": ""
+          "text": "Den fruchtbarsten Ackerstrich im Bergland Juda"
         },
         {
-          "text": "Die besten Städte an den Ufern des Jordan",
-          "explanation": ""
+          "text": "Der HERR selbst ist sein Anteil und sein Erbteil"
         },
         {
-          "text": "Ein doppeltes Erbteil aus dem Stamme Juda",
-          "explanation": ""
+          "text": "Fünfzig Festungsstädte mit ihren Weidegründen"
         },
         {
-          "text": "Kein Erbteil noch Anteil mitten unter Israel",
-          "explanation": ""
+          "text": "Das gesamte Weideland am heiligen Jordanfluss"
         }
       ],
       "correctAnswers": [
@@ -4131,23 +4071,19 @@
     {
       "questionId": "num_138",
       "type": "single_choice",
-      "text": "Welches Urteil fällte Gott über Mose und Aaron wegen ihres Ungehorsams bei Meriba?",
+      "text": "Welches Urteil sprach der HERR zu Mose und Aaron bei den Wassern von Meriba?",
       "options": [
         {
-          "text": "Sie mussten sofort ihr Priesteramt abgeben",
-          "explanation": ""
+          "text": "Ihr sollt diese Gemeinde nicht in das Erdland bringen"
         },
         {
-          "text": "Sie durften die Gemeinde nicht in das Land führen",
-          "explanation": ""
+          "text": "Ihr sollt sogleich das Priesteramt an Eleasar abgeben"
         },
         {
-          "text": "Sie wurden für vierzig Tage aus dem Lager verbannt",
-          "explanation": ""
+          "text": "Ihr müsst vierzig Tage lang vor dem Heiligtum fasten"
         },
         {
-          "text": "Sie mussten ein doppeltes Sündopfer darbringen",
-          "explanation": ""
+          "text": "Ihr dürft nicht mehr vor dem Angesicht des Volkes opfern"
         }
       ],
       "correctAnswers": [
@@ -4161,23 +4097,19 @@
     {
       "questionId": "num_139",
       "type": "single_choice",
-      "text": "Wie reagierte der König von Edom auf die höfliche Bitte Israels um friedlichen Durchzug?",
+      "text": "Was antwortete der König von Edom, als Israel durch sein Erdland ziehen wollte?",
       "options": [
         {
-          "text": "Er hieß Israel herzlich in seinem Lande willkommen",
-          "explanation": ""
+          "text": "Er verlangte den halben Ertrag des eroberten Silbers"
         },
         {
-          "text": "Er verlangte das doppelte Lösegeld für das Wasser",
-          "explanation": ""
+          "text": "Du sollst nicht durch mein Erdland ziehen, sonst ziehe ich mit dem Schwert aus"
         },
         {
-          "text": "Er verweigerte den Durchzug und zog mit Heeresmacht aus",
-          "explanation": ""
+          "text": "Er öffnete die Brunnen und wies den Israeliten den Weg"
         },
         {
-          "text": "Er erlaubte den Durchzug nur für die Priester",
-          "explanation": ""
+          "text": "Er schloss einen ewigen Bund des Friedens mit Mose am Tor"
         }
       ],
       "correctAnswers": [
@@ -4371,23 +4303,19 @@
     {
       "questionId": "num_146",
       "type": "single_choice",
-      "text": "Welchem Volk hatte Sihon, der König der Amoriter, zuvor das Land bis zum Arnon entrissen?",
+      "text": "Was nahm Israel von Sihon, dem König der Amoriter, nach dem Sieg ein?",
       "options": [
         {
-          "text": "Dem kriegerischen Stamm der Philister im Westen",
-          "explanation": ""
+          "text": "Nur seine Waffen und das königliche Vieh"
         },
         {
-          "text": "Dem ersten König der Moabiter im Ostjordanland",
-          "explanation": ""
+          "text": "Sein ganzes Erdland von Arnon bis Jabbok"
         },
         {
-          "text": "Den Edomitern aus den Bergen des Seir-Gebirges",
-          "explanation": ""
+          "text": "Den goldenen Königsthron in seiner Stadt"
         },
         {
-          "text": "Den Ammonitern aus den nördlichen Grenzzonen",
-          "explanation": ""
+          "text": "Einen Zehnten des Getreides auf den Feldern"
         }
       ],
       "correctAnswers": [
@@ -4461,23 +4389,19 @@
     {
       "questionId": "num_149",
       "type": "single_choice",
-      "text": "Wo befand sich die Heimatstadt Pethor, aus der der Seher Bileam stammte?",
+      "text": "Wo befand sich Petor, die Heimat Bileams, nach 4. Mose 22:5?",
       "options": [
         {
-          "text": "Am Fluss Euphrat im Lande seiner Verwandten",
-          "explanation": ""
+          "text": "Am Fluss im Erdlande der Söhne seines Volkes"
         },
         {
-          "text": "In der Wüste Paran nahe der Oase Kadesch",
-          "explanation": ""
+          "text": "In der Wüste Paran nahe der Oase von Kadesch"
         },
         {
-          "text": "An den Ufern des Roten Meeres im Süden",
-          "explanation": ""
+          "text": "An den Ufern des Roten Meeres im fernen Süden"
         },
         {
-          "text": "Auf den Höhen des Berges Hor bei Edom",
-          "explanation": ""
+          "text": "Auf den Höhen des Berges Hor an der Grenze Edoms"
         }
       ],
       "correctAnswers": [
@@ -4701,23 +4625,19 @@
     {
       "questionId": "num_157",
       "type": "single_choice",
-      "text": "Wie viele Altäre und Opfertiere ließ Bileam auf den Höhen des Baal (Bamoth-Baal) errichten?",
+      "text": "Was ließ Bileam auf den sieben Altären für Balak zurichten?",
       "options": [
         {
-          "text": "Sieben Altäre mit sieben Stieren und sieben Widdern",
-          "explanation": ""
+          "text": "Je sieben Lämmer und Ziegenböcke"
         },
         {
-          "text": "Zwölf Altäre mit zwölf jungen Farren",
-          "explanation": ""
+          "text": "Sieben Farren und sieben Widder"
         },
         {
-          "text": "Drei Altäre mit drei fehlerfreien Lämmern",
-          "explanation": ""
+          "text": "Sieben Tauben und feines Mehl"
         },
         {
-          "text": "Einen einzigen großen Altar aus Ziegelsteinen",
-          "explanation": ""
+          "text": "Sieben Schekel Silber und Gold"
         }
       ],
       "correctAnswers": [
@@ -5361,23 +5281,19 @@
     {
       "questionId": "num_179",
       "type": "single_choice",
-      "text": "Nach welchem doppelten Prinzip sollte das Land Kanaan unter den Stämmen aufgeteilt werden?",
+      "text": "Nach welchem Grundsatz sollte das Erdland an die gemusterten Stämme verteilt werden?",
       "options": [
         {
-          "text": "Nach dem Alter der Väter und der Zahl der Herden",
-          "explanation": ""
+          "text": "Einem großen Stamm viel Erbteil, einem kleinen wenig"
         },
         {
-          "text": "Nach dem Beschluss der Priester und der Richter",
-          "explanation": ""
+          "text": "Jeder Stamm erhielt exakt die gleiche Anzahl Quadratmeilen"
         },
         {
-          "text": "Nach der Seelenzahl der Stämme und durch das Los",
-          "explanation": ""
+          "text": "Die Priester Eleasar und Josua bestimmten die Grenzen allein"
         },
         {
-          "text": "Nach der militärischen Tapferkeit im Wüstenkampf",
-          "explanation": ""
+          "text": "Der erstgeborene Stamm Ruben erhielt die doppelte Portion"
         }
       ],
       "correctAnswers": [
@@ -5601,23 +5517,19 @@
     {
       "questionId": "num_187",
       "type": "single_choice",
-      "text": "Auf welchen Berg sollte Mose steigen, um das verheißene Land vor seinem Tode zu schauen?",
+      "text": "Welchen Berg sollte Mose besteigen, um das verheißene Erdland zu besehen?",
       "options": [
         {
-          "text": "Auf den Berg Sinai in der tiefen Wüste",
-          "explanation": ""
+          "text": "Den Berg Sinai in der Wüste"
         },
         {
-          "text": "Auf den Berg Hor an der Grenze Edoms",
-          "explanation": ""
+          "text": "Das Gebirge Abarim (Nebo)"
         },
         {
-          "text": "Auf das Gebirge Abarim im Lande Moab",
-          "explanation": ""
+          "text": "Den Berg Hor an Edoms Grenze"
         },
         {
-          "text": "Auf den Berg Karmel nahe dem großen Meer",
-          "explanation": ""
+          "text": "Den Berg Hermon im Norden"
         }
       ],
       "correctAnswers": [
@@ -5751,23 +5663,19 @@
     {
       "questionId": "num_192",
       "type": "single_choice",
-      "text": "Welche Brandopfertiere verlangte das Gesetz am ersten Tag eines jeden Monats (Neumond)?",
+      "text": "Welche Brandopfertiere wurden an jedem Neumond zusätzlich dargebracht?",
       "options": [
         {
-          "text": "Ein einziger Farre und sieben Ziegenböcke",
-          "explanation": ""
+          "text": "Zwei junge Farren, ein Widder, sieben Lämmer"
         },
         {
-          "text": "Dreizehn Stiere und zwei Widder am Altar",
-          "explanation": ""
+          "text": "Ein junger Farre, zwei Widder, drei Ziegenböcke"
         },
         {
-          "text": "Vier Widder und zwölf junge Tauben",
-          "explanation": ""
+          "text": "Sieben junge Farren und vierzehn weiße Schafe"
         },
         {
-          "text": "Zwei junge Stiere, ein Widder und sieben Lämmer",
-          "explanation": ""
+          "text": "Drei junge Stiere und zwei Turteltauben im Hof"
         }
       ],
       "correctAnswers": [
@@ -5991,23 +5899,19 @@
     {
       "questionId": "num_200",
       "type": "single_choice",
-      "text": "Wie viele junge Stiere wurden am allerersten Tag des Laubhüttenfestes geopfert?",
+      "text": "Wie viele junge Farren wurden am ersten Tag des Laubhüttenfestes geopfert?",
       "options": [
         {
-          "text": "Genau sieben junge Stiere am Altar",
-          "explanation": ""
+          "text": "Genau sieben junge Farren am Brandopferaltar"
         },
         {
-          "text": "Genau zehn junge Stiere für die Stämme",
-          "explanation": ""
+          "text": "Genau zehn junge Farren für die Stämme Israels"
         },
         {
-          "text": "Genau zwanzig junge Stiere im Hof",
-          "explanation": ""
+          "text": "Genau zwanzig Farren vor den Augen des Volkes"
         },
         {
-          "text": "Genau dreizehn junge Stiere als Brandopfer",
-          "explanation": ""
+          "text": "Genau dreizehn junge Farren als Brandopfergabe"
         }
       ],
       "correctAnswers": [
@@ -6021,23 +5925,19 @@
     {
       "questionId": "num_201",
       "type": "single_choice",
-      "text": "Wie veränderte sich die Zahl der zu opfernden Stiere an den folgenden Tagen des Laubhüttenfestes?",
+      "text": "Wie veränderte sich die Zahl der Farren an den Festtagen des Laubhüttenfestes?",
       "options": [
         {
-          "text": "Sie nahm jeden Tag um genau einen Stier ab",
-          "explanation": ""
+          "text": "Sie nahm an jedem Tag um genau einen Farren ab"
         },
         {
-          "text": "Sie verdoppelte sich an jedem weiteren Festtag",
-          "explanation": ""
+          "text": "Sie verdoppelte sich an jedem weiteren Festtag"
         },
         {
-          "text": "Sie blieb an allen sieben Tagen exakt gleich",
-          "explanation": ""
+          "text": "Sie blieb an allen sieben Tagen exakt dieselbe"
         },
         {
-          "text": "Sie schwankte nach dem Beschluss der Priester",
-          "explanation": ""
+          "text": "Sie schwankte nach dem Beschluss der Priester"
         }
       ],
       "correctAnswers": [
@@ -6051,23 +5951,19 @@
     {
       "questionId": "num_202",
       "type": "single_choice",
-      "text": "Wie viele junge Stiere wurden schließlich am siebenten Tag des Laubhüttenfestes dargebracht?",
+      "text": "Wie viele junge Farren wurden am siebenten Tag des Laubhüttenfestes geopfert?",
       "options": [
         {
-          "text": "Genau ein einziger Stier am Altar",
-          "explanation": ""
+          "text": "Genau ein Farre zum feierlichen Festabschluss"
         },
         {
-          "text": "Genau sieben junge Stiere am siebenten Tag",
-          "explanation": ""
+          "text": "Genau fünf Farren für die Fürsten der Stämme"
         },
         {
-          "text": "Genau drei junge Stiere für das Volk",
-          "explanation": ""
+          "text": "Genau sieben Farren samt Widdern und Schäflein"
         },
         {
-          "text": "Genau zwölf junge Stiere im Vorhof",
-          "explanation": ""
+          "text": "Genau zehn Farren nach dem göttlichen Gesetze"
         }
       ],
       "correctAnswers": [
@@ -6501,23 +6397,19 @@
     {
       "questionId": "num_217",
       "type": "single_choice",
-      "text": "Welche zwei Stämme besaßen sehr viel Vieh und baten um das Land Gilead als Erbteil?",
+      "text": "Warum baten die Stämme Ruben und Gad um das Erdland Jaser und Gilead?",
       "options": [
         {
-          "text": "Die Stämme Ruben und Gad mit großem Viehbesitz",
-          "explanation": ""
+          "text": "Weil sie den kriegerischen Jordanübergang fürchteten"
         },
         {
-          "text": "Die Stämme Simeon und Levi aus dem Lager",
-          "explanation": ""
+          "text": "Weil sie sehr viel Vieh hatten und es ein Viehland war"
         },
         {
-          "text": "Die Stämme Ephraim und Benjamin im Westen",
-          "explanation": ""
+          "text": "Weil ihre Vorväter schon immer in Gilead gewohnt hatten"
         },
         {
-          "text": "Die Stämme Dan und Naphtali an der Nordgrenze",
-          "explanation": ""
+          "text": "Weil Mose ihnen dieses Erdland vor dem Auszug versprach"
         }
       ],
       "correctAnswers": [
@@ -6531,23 +6423,19 @@
     {
       "questionId": "num_218",
       "type": "single_choice",
-      "text": "Womit verglich Mose den Wunsch von Ruben und Gad, im Ostjordanland zu bleiben?",
+      "text": "Womit verglich Mose die Weigerung von Ruben und Gad, über den Jordan zu ziehen?",
       "options": [
         {
-          "text": "Mit dem Aufruhr Korahs und seiner Rotte gegen Mose",
-          "explanation": ""
+          "text": "Mit dem Aufruhr Korahs gegen das Priestertum"
         },
         {
-          "text": "Mit dem Mutlosmachen durch die früheren Kundschafter",
-          "explanation": ""
+          "text": "Mit den Kundschaftern, die das Erdland entmutigten"
         },
         {
-          "text": "Mit der Sünde des Volkes beim goldenen Kalb am Sinai",
-          "explanation": ""
+          "text": "Mit dem Bau des goldenen Kalbes am Sinai-Gottesberg"
         },
         {
-          "text": "Mit dem Murren wegen des Mannas in der Wüste Sin",
-          "explanation": ""
+          "text": "Mit dem Murren des Volkes beim Mangel an Wasser"
         }
       ],
       "correctAnswers": [
@@ -6561,23 +6449,19 @@
     {
       "questionId": "num_219",
       "type": "single_choice",
-      "text": "Unter welcher strikten Bedingung bewilligte Mose den Wunsch der Ostjordanland-Stämme?",
+      "text": "Unter welcher Bedingung durften Ruben und Gad das Ostjordanland empfangen?",
       "options": [
         {
-          "text": "Sie mussten das doppelte Lösegeld am Heiligtum zahlen",
-          "explanation": ""
+          "text": "Sie mussten gerüstet vor dem HERRN über den Jordan ziehen"
         },
         {
-          "text": "Sie mussten ihren gesamten Viehbesitz den Leviten schenken",
-          "explanation": ""
+          "text": "Sie mussten den zehnten Teil ihrer Herden opfern"
         },
         {
-          "text": "Sie mussten bewaffnet vor Israel über den Jordan ziehen",
-          "explanation": ""
+          "text": "Sie bauten sofort eine steinerne Stadt für Eleasar"
         },
         {
-          "text": "Sie durften erst nach zehn Jahren ihre Häuser bauen",
-          "explanation": ""
+          "text": "Sie durften erst nach fünfzig Jahren dorthin zurück"
         }
       ],
       "correctAnswers": [
@@ -6621,23 +6505,19 @@
     {
       "questionId": "num_221",
       "type": "single_choice",
-      "text": "Welcher halbe Stamm erhielt neben Ruben und Gad ebenfalls sein Erbteil im Ostjordanland?",
+      "text": "Welche Stämme erhielten das Erdland Sihons und Ogs östlich des Jordans?",
       "options": [
         {
-          "text": "Der halbe Stamm Manasse, der Sohn Josephs",
-          "explanation": ""
+          "text": "Juda, Benjamin und der halbe Stamm Manasse"
         },
         {
-          "text": "Der halbe Stamm Benjamin aus dem Lager",
-          "explanation": ""
+          "text": "Ruben, Gad und der halbe Stamm Manasse"
         },
         {
-          "text": "Der halbe Stamm Issaschar von den Hängen",
-          "explanation": ""
+          "text": "Dan, Naphtali und die Priester von Levi"
         },
         {
-          "text": "Der halbe Stamm Sebulon an den Grenzen",
-          "explanation": ""
+          "text": "Simeon, Issaschar und der Stamm Sebulon"
         }
       ],
       "correctAnswers": [
@@ -6801,23 +6681,19 @@
     {
       "questionId": "num_227",
       "type": "single_choice",
-      "text": "Was würden die verbliebenen Kanaaniter für Israel werden, falls sie NICHT vertrieben würden?",
+      "text": "Was drohte Israel, wenn sie die Einwohner des Erdlandes nicht vertrieben?",
       "options": [
         {
-          "text": "Treue Knechte für den Ackerbau im Lande",
-          "explanation": ""
+          "text": "Die Feinde würden sie mit schwerem Tribut belegen"
         },
         {
-          "text": "Freunde, die Israel im Kampf beistehen",
-          "explanation": ""
+          "text": "Sie würden Dornen in ihren Augen und Stacheln sein"
         },
         {
-          "text": "Dornen in ihren Augen und Stacheln in den Seiten",
-          "explanation": ""
+          "text": "Eine schwere Hungersnot würde über das Land kommen"
         },
         {
-          "text": "Eine Beute für die Nachbarvölker der Wüste",
-          "explanation": ""
+          "text": "Die Bundeslade würde ihnen von Feinden geraubt"
         }
       ],
       "correctAnswers": [
@@ -6891,23 +6767,19 @@
     {
       "questionId": "num_230",
       "type": "single_choice",
-      "text": "Welcher Ort bildete den südlichen Endpunkt der östlichen Landesgrenze Kanaans?",
+      "text": "Welche natürliche Grenze bildete die westliche Grenze des Erdlandes Kanaan?",
       "options": [
         {
-          "text": "Die Mündung des Jabbokflusses im Norden",
-          "explanation": ""
+          "text": "Das Große Meer (Mittelmeer) mit seinem Gestade"
         },
         {
-          "text": "Das Salzmeer an seinem südlichen Ende",
-          "explanation": ""
+          "text": "Der Jordanfluss mit seinen fruchtbaren Auen"
         },
         {
-          "text": "Der See Genezareth im Norden des Landes",
-          "explanation": ""
+          "text": "Das Salzmeer im tiefen Süden des Wüstenrandes"
         },
         {
-          "text": "Die Oase Kadesch-Barnea in der Wüste",
-          "explanation": ""
+          "text": "Der Bach Ägyptens am Rande der heißen Wüste"
         }
       ],
       "correctAnswers": [
@@ -6921,23 +6793,19 @@
     {
       "questionId": "num_231",
       "type": "single_choice",
-      "text": "Welche zwei Hauptleiter bestimmten das Volk zur Verteilung des Landes Kanaan?",
+      "text": "Welche zwei Männer sollten das Erdland Kanaan als Erbe unter die Stämme verteilen?",
       "options": [
         {
-          "text": "Mose der Prophet und Josua der Feldherr",
-          "explanation": ""
+          "text": "Der Priester Eleasar und Josua, der Sohn Nuns"
         },
         {
-          "text": "Kaleb der Sohn Jephunnes und Pinchas",
-          "explanation": ""
+          "text": "Mose der Prophet und Aaron der Hohepriester"
         },
         {
-          "text": "Eleasar der Priester und Josua der Sohn Nuns",
-          "explanation": ""
+          "text": "Kaleb der Keneasiter und Phinehas der Priester"
         },
         {
-          "text": "Ithamar der Priester und Hobab der Führer",
-          "explanation": ""
+          "text": "Die beiden Fürsten der Stämme Juda und Benjamin"
         }
       ],
       "correctAnswers": [
@@ -6951,23 +6819,19 @@
     {
       "questionId": "num_232",
       "type": "single_choice",
-      "text": "Wer unterstützte Eleasar und Josua bei der Verteilung des Landes im Westjordanland?",
+      "text": "Wer sollte Eleasar und Josua unterstützen, um das Erdland auszuteilen?",
       "options": [
         {
-          "text": "Die siebzig Ältesten der Wüstenwanderung",
-          "explanation": ""
+          "text": "Je ein Fürst von jedem einzelnen der Stämme"
         },
         {
-          "text": "Alle Obersten der Tausendschaften des Heeres",
-          "explanation": ""
+          "text": "Die siebzig Ältesten der Richterschaft"
         },
         {
-          "text": "Die Schreiber aus den Familien der Leviten",
-          "explanation": ""
+          "text": "Die kriegserfahrenen Hauptleute über tausend"
         },
         {
-          "text": "Je ein Fürst aus den zehn West-Stämmen",
-          "explanation": ""
+          "text": "Die Leviten, die die Bundeslade trugen"
         }
       ],
       "correctAnswers": [
@@ -7071,23 +6935,19 @@
     {
       "questionId": "num_236",
       "type": "single_choice",
-      "text": "Wie viele der achtundvierzig Levitienstädte mussten als Zufluchtsstädte dienen?",
+      "text": "Wie viele der achtundvierzig Levitienstädte mussten als Freistädte dienen?",
       "options": [
         {
-          "text": "Genau zwölf Städte als Freistädte für Totschläger",
-          "explanation": ""
+          "text": "Genau zwölf Freistädte für den Totschläger"
         },
         {
-          "text": "Genau drei Städte als Freistädte für Totschläger",
-          "explanation": ""
+          "text": "Genau drei Freistädte für den Totschläger"
         },
         {
-          "text": "Genau zehn Städte als Freistädte für Totschläger",
-          "explanation": ""
+          "text": "Genau zehn Freistädte für den Totschläger"
         },
         {
-          "text": "Genau sechs Städte als Freistädte für Totschläger",
-          "explanation": ""
+          "text": "Genau sechs Freistädte für den Totschläger"
         }
       ],
       "correctAnswers": [
@@ -7101,23 +6961,19 @@
     {
       "questionId": "num_237",
       "type": "single_choice",
-      "text": "Wie verteilten sich die sechs Zufluchtsstädte auf die beiden Seiten des Jordans?",
+      "text": "Wie verteilten sich die sechs Freistädte auf die beiden Seiten des Jordans?",
       "options": [
         {
-          "text": "Drei Städte im Ostjordanland, drei in Kanaan",
-          "explanation": ""
+          "text": "Drei Städte diesseits des Jordans, drei im Erdland Kanaan"
         },
         {
-          "text": "Fünf Städte im Westen, eine Stadt im Osten",
-          "explanation": ""
+          "text": "Fünf Städte im Westen Kanaan, eine Stadt im Ostjordanland"
         },
         {
-          "text": "Alle sechs Städte lagen im Lande Kanaan",
-          "explanation": ""
+          "text": "Alle sechs Freistädte lagen ausschließlich in Kanaan"
         },
         {
-          "text": "Vier Städte im Ostjordanland, zwei im Westen",
-          "explanation": ""
+          "text": "Vier Städte im Ostjordanland, zwei Städte im Erdland Kanaan"
         }
       ],
       "correctAnswers": [
@@ -7131,23 +6987,19 @@
     {
       "questionId": "num_238",
       "type": "single_choice",
-      "text": "Vor wem schützte die Zufluchtstadt den unvorsätzlichen Totschläger nach dem Gesetz?",
+      "text": "Vor wem sollte die Freistadt den Totschläger nach 4. Mose 35:12 schützen?",
       "options": [
         {
-          "text": "Vor den Richtern der siebzig Ältesten",
-          "explanation": ""
+          "text": "Vor den Richtern der siebzig Ältesten"
         },
         {
-          "text": "Vor der Hand des Bluträchers der Familie",
-          "explanation": ""
+          "text": "Vor der Hand des Bluträchers der Sippe"
         },
         {
-          "text": "Vor den Angriffen der heidnischen Feinde",
-          "explanation": ""
+          "text": "Vor feindlichen Nachbarn des Erdlandes"
         },
         {
-          "text": "Vor der Strafe der Ausrottung durch Gott",
-          "explanation": ""
+          "text": "Vor der Ausrottung durch die Gemeinde"
         }
       ],
       "correctAnswers": [
@@ -7221,23 +7073,19 @@
     {
       "questionId": "num_241",
       "type": "single_choice",
-      "text": "Welche Sorge äußerten die Sippenhäupter Manasses bezüglich der Töchter Zelofhads?",
+      "text": "Worüber beschwerten sich die Familienhäupter Gileads bezüglich des Erdlandes?",
       "options": [
         {
-          "text": "Dass ihr Erbteil an andere Stämme übergehe",
-          "explanation": ""
+          "text": "Die Leviten beanspruchten zu viele ihrer Städte"
         },
         {
-          "text": "Dass die Töchter das Erbe verkaufen würden",
-          "explanation": ""
+          "text": "Das Erbe der Töchter Zelophchads fiele an fremde Stämme"
         },
         {
-          "text": "Dass sie die Weideabgabe verweigerten",
-          "explanation": ""
+          "text": "Sie hatten zu wenig Weideland für ihre vielen Rinder"
         },
         {
-          "text": "Dass sie in das Land Moab auswanderten",
-          "explanation": ""
+          "text": "Die Kanaaniter weigerten sich, ihre Festungen zu räumen"
         }
       ],
       "correctAnswers": [
@@ -7371,7 +7219,7 @@
     {
       "questionId": "num_246",
       "type": "multiple_choice",
-      "text": "Welche zwei Kundschafter ermutigten das Volk nach 4. Mose 14:6-9, in das verheißene Land zu ziehen?",
+      "text": "Welche zwei Männer ermutigten das Volk nach der Erkundung des Erdlandes?",
       "options": [
         {
           "text": "Kaleb, der Sohn Jephunnes",

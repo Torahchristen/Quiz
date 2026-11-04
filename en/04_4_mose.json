@@ -23,23 +23,19 @@
       "questionId": "num_001",
       "type": "single_choice",
       "difficulty": "easy",
-      "text": "Where were the children of Israel when the LORD commanded Moses to number the men of war?",
+      "text": "Where was Moses when the LORD spake unto him in the wilderness of Sinai?",
       "options": [
         {
-          "text": "In the wilderness of Sinai in the tabernacle",
-          "explanation": ""
+          "text": "In the tabernacle of the congregation"
         },
         {
-          "text": "In the plains of Moab opposite the city of Jericho",
-          "explanation": ""
+          "text": "Upon the burning mount of sacred Sinai"
         },
         {
-          "text": "At the base of Mount Horeb before the departure",
-          "explanation": ""
+          "text": "At the foot of Mount Horeb in the desert"
         },
         {
-          "text": "In the oasis of Kadesh-barnea in the desert of Paran",
-          "explanation": ""
+          "text": "In the plains of Moab opposite to Jericho"
         }
       ],
       "correctAnswers": [
@@ -593,23 +589,19 @@
       "questionId": "num_020",
       "type": "single_choice",
       "difficulty": "easy",
-      "text": "Where did Moses, Aaron, and Aaron's sons encamp relative to the tabernacle of the congregation?",
+      "text": "Where were Moses, Aaron, and his sons commanded to encamp before the tabernacle?",
       "options": [
         {
-          "text": "On the west side behind the holy tabernacle",
-          "explanation": ""
+          "text": "Before the tabernacle eastward, toward sunrise"
         },
         {
-          "text": "On the south side beside the camp of Kohath",
-          "explanation": ""
+          "text": "On the west side behind the hanging curtains"
         },
         {
-          "text": "On the north side near the family of Merari",
-          "explanation": ""
+          "text": "On the south side near the sanctuary vessels"
         },
         {
-          "text": "Before the tabernacle eastward toward the sunrise",
-          "explanation": ""
+          "text": "On the north side opposite the brazen altar"
         }
       ],
       "correctAnswers": [
@@ -1373,23 +1365,19 @@
       "questionId": "num_046",
       "type": "single_choice",
       "difficulty": "hard",
-      "text": "What was the weight of each silver charger offered by the princes at the dedication of the altar?",
+      "text": "What was the weight of each silver charger offered by the tribal princes?",
       "options": [
         {
-          "text": "One hundred shekels after the holy weight of the altar",
-          "explanation": ""
+          "text": "Fifty shekels after the shekel of the house"
         },
         {
-          "text": "An hundred and thirty shekels after the shekel of the sanctuary",
-          "explanation": ""
+          "text": "Seventy shekels after the sacred sanctuary"
         },
         {
-          "text": "Fifty shekels according to standard merchants' weight",
-          "explanation": ""
+          "text": "An hundred and thirty shekels of silver"
         },
         {
-          "text": "Two hundred shekels of purified silver for the court",
-          "explanation": ""
+          "text": "Two hundred shekels by the royal standard"
         }
       ],
       "correctAnswers": [
@@ -1403,23 +1391,19 @@
       "questionId": "num_047",
       "type": "single_choice",
       "difficulty": "hard",
-      "text": "What was inside each golden spoon of ten shekels presented by the twelve tribal princes?",
+      "text": "What was inside each golden spoon of ten shekels presented by the princes?",
       "options": [
         {
-          "text": "Pure holy anointing oil for consecrating the bronze altar",
-          "explanation": ""
+          "text": "Pure oil of anointing for the holy place"
         },
         {
-          "text": "Fine flour mingled with choice olive oil for the offering",
-          "explanation": ""
+          "text": "Fine flour mingled with pure beaten oil"
         },
         {
-          "text": "Sweet incense made according to the art of the apothecary",
-          "explanation": ""
+          "text": "It was one golden spoon full of incense"
         },
         {
-          "text": "The sacrificial blood taken from the consecrated sin offerings",
-          "explanation": ""
+          "text": "Sacrificial blood from the sin offering"
         }
       ],
       "correctAnswers": [
@@ -1463,23 +1447,19 @@
       "questionId": "num_049",
       "type": "single_choice",
       "difficulty": "easy",
-      "text": "From what place did Moses hear the voice of the LORD speaking when he entered the tabernacle?",
+      "text": "From where did Moses hear the voice speaking when he went into the tabernacle?",
       "options": [
         {
-          "text": "From off the mercy seat between the two cherubims",
-          "explanation": ""
+          "text": "From off the mercy seat between the cherubims"
         },
         {
-          "text": "Out of the cloud above the bronze altar in the court",
-          "explanation": ""
+          "text": "Out of the cloud above the holy brazen altar"
         },
         {
-          "text": "Through the sounding of the two silver trumpets at the door",
-          "explanation": ""
+          "text": "By the solemn blowing of the silver trumpets"
         },
         {
-          "text": "From the burning summit of Mount Sinai in the wilderness",
-          "explanation": ""
+          "text": "From the smoking summit of sacred mount Sinai"
         }
       ],
       "correctAnswers": [
@@ -1493,23 +1473,19 @@
       "questionId": "num_050",
       "type": "single_choice",
       "difficulty": "hard",
-      "text": "Toward where were the seven lamps of the golden candlestick appointed to give their light?",
+      "text": "Where were the seven lamps of the candlestick appointed to give light?",
       "options": [
         {
-          "text": "Toward the ceiling curtains of the tabernacle above",
-          "explanation": ""
+          "text": "Toward the ceiling of the sacred tabernacle"
         },
         {
-          "text": "Over against the candlestick toward the front thereof",
-          "explanation": ""
+          "text": "Over against the candlestick upon the front"
         },
         {
-          "text": "Toward the inner wall of the most holy place inside",
-          "explanation": ""
+          "text": "Toward the inner veil of the most holy place"
         },
         {
-          "text": "Outward toward the court and the altar of sacrifice",
-          "explanation": ""
+          "text": "Toward the outer court of the brazen altar"
         }
       ],
       "correctAnswers": [
@@ -2423,23 +2399,19 @@
       "questionId": "num_081",
       "type": "single_choice",
       "difficulty": "medium",
-      "text": "What immediate judgment befell Miriam when the cloud departed from off the tabernacle?",
+      "text": "What happened unto Miriam when the cloud departed from off the tabernacle?",
       "options": [
         {
-          "text": "Miriam became leprous, white as the winter snow",
-          "explanation": ""
+          "text": "She fell down in a deep swoon before all Israel"
         },
         {
-          "text": "She lost her voice completely before the congregation",
-          "explanation": ""
+          "text": "Miriam became leprous, white as snow in sight"
         },
         {
-          "text": "She was instantly driven far beyond the camp border",
-          "explanation": ""
+          "text": "She lost her voice for forty days in the desert"
         },
         {
-          "text": "She was smitten with total blindness before the tent",
-          "explanation": ""
+          "text": "She was driven out instantly into the wilderness"
         }
       ],
       "correctAnswers": [
@@ -4286,20 +4258,16 @@
       "text": "In what manner were those who were bitten by the fiery serpents healed from death?",
       "options": [
         {
-          "text": "By anointing their painful wounds with holy anointing oil",
-          "explanation": ""
+          "text": "By anointing their wounds with holy oil"
         },
         {
-          "text": "By presenting a sin offering before the tabernacle of God",
-          "explanation": ""
+          "text": "By presenting a sin offering before God"
         },
         {
-          "text": "When anyone who was bitten beheld the serpent of brass, he lived",
-          "explanation": ""
+          "text": "When he beheld the serpent of brass, he lived"
         },
         {
-          "text": "By drinking the water of separation sprinkled by Eleazar",
-          "explanation": ""
+          "text": "By drinking the water of separation in camp"
         }
       ],
       "correctAnswers": [
@@ -4703,23 +4671,19 @@
       "questionId": "num_157",
       "type": "single_choice",
       "difficulty": "hard",
-      "text": "What did Balaam command Balak to prepare upon the high places of Baal (Bamoth-baal)?",
+      "text": "What offerings did Balaam command Balak to prepare upon the seven altars?",
       "options": [
         {
-          "text": "Build me here seven altars, and prepare seven oxen and seven rams",
-          "explanation": ""
+          "text": "Seven lambs and seven male goats"
         },
         {
-          "text": "Twelve stone altars with twelve young bullocks of the herd",
-          "explanation": ""
+          "text": "Seven bullocks and seven rams"
         },
         {
-          "text": "Three golden altars with three unblemished sacrificial lambs",
-          "explanation": ""
+          "text": "Seven turtles and fine flour"
         },
         {
-          "text": "A single monumental altar made of unhewn rocks of the field",
-          "explanation": ""
+          "text": "Seven shekels of pure silver"
         }
       ],
       "correctAnswers": [
@@ -5753,23 +5717,19 @@
       "questionId": "num_192",
       "type": "single_choice",
       "difficulty": "easy",
-      "text": "What burnt offerings were required in the beginnings of months (the new moon) unto the LORD?",
+      "text": "What burnt offering beasts were commanded at the beginning of each month?",
       "options": [
         {
-          "text": "A single young bullock and seven kids of the goats",
-          "explanation": ""
+          "text": "Two young bullocks, one ram, seven lambs"
         },
         {
-          "text": "Thirteen young bullocks and two rams upon the bronze altar",
-          "explanation": ""
+          "text": "One young bullock, two rams, three goats"
         },
         {
-          "text": "Four mature rams and twelve young pigeons from the court",
-          "explanation": ""
+          "text": "Seven young bullocks and fourteen sheep"
         },
         {
-          "text": "Two young bullocks, and one ram, seven lambs of first year",
-          "explanation": ""
+          "text": "Three young bullocks and two turtledoves"
         }
       ],
       "correctAnswers": [
@@ -7073,23 +7033,19 @@
       "questionId": "num_236",
       "type": "single_choice",
       "difficulty": "hard",
-      "text": "How many of the forty-eight Levitical cities were appointed to be cities of refuge for the manslayer?",
+      "text": "How many of the forty-eight cities of the Levites were to be cities for refuge?",
       "options": [
         {
-          "text": "Twelve cities of refuge appointed for the unintentional slayer",
-          "explanation": ""
+          "text": "Twelve cities for refuge for the slayer"
         },
         {
-          "text": "Three cities of refuge appointed for the unintentional slayer",
-          "explanation": ""
+          "text": "Three cities for refuge for the slayer"
         },
         {
-          "text": "Ten cities of refuge appointed for the unintentional slayer",
-          "explanation": ""
+          "text": "Ten cities for refuge for the slayer"
         },
         {
-          "text": "Six cities for refuge, that the manslayer may flee thither",
-          "explanation": ""
+          "text": "Six cities for refuge for the slayer"
         }
       ],
       "correctAnswers": [
@@ -7103,23 +7059,19 @@
       "questionId": "num_237",
       "type": "single_choice",
       "difficulty": "medium",
-      "text": "How were the six cities of refuge distributed on either side of the river Jordan?",
+      "text": "How were the six cities of refuge distributed on either side of Jordan?",
       "options": [
         {
-          "text": "Three cities on this side Jordan, and three in Canaan",
-          "explanation": ""
+          "text": "Three cities on this side Jordan, and three in Canaan"
         },
         {
-          "text": "Five cities in the west, and one city eastward of Jordan",
-          "explanation": ""
+          "text": "Five cities in the west, and one city eastward Jordan"
         },
         {
-          "text": "All six cities were situated within the land of Canaan",
-          "explanation": ""
+          "text": "All six cities for refuge were in the land of Canaan"
         },
         {
-          "text": "Four cities on this side Jordan, and two in the west land",
-          "explanation": ""
+          "text": "Four cities on this side Jordan, and two in west Canaan"
         }
       ],
       "correctAnswers": [
@@ -7133,23 +7085,19 @@
       "questionId": "num_238",
       "type": "single_choice",
       "difficulty": "medium",
-      "text": "From whose vengeance did the city of refuge protect the unintentional manslayer?",
+      "text": "From whom was the city of refuge to protect the unintentional slayer?",
       "options": [
         {
-          "text": "From the formal judgment of the seventy appointed elders",
-          "explanation": ""
+          "text": "From the judgment of the seventy elders"
         },
         {
-          "text": "Cities for refuge from the avenger, that he die not",
-          "explanation": ""
+          "text": "From the avenger of blood, that he die not"
         },
         {
-          "text": "From the hostile assaults of foreign heathen marauders",
-          "explanation": ""
+          "text": "From hostile heathen enemies of the land"
         },
         {
-          "text": "From the divine sentence of cutting off by the congregation",
-          "explanation": ""
+          "text": "From cutting off by the congregation"
         }
       ],
       "correctAnswers": [
