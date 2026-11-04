@@ -13,49 +13,41 @@ EN_CATEGORIES = [
     {
         "id": "torah",
         "name": "Torah Weekly Portions",
-        "icon": "📜",
         "description": "54 Parashot of the Torah"
     },
     {
         "id": "gesetz",
         "name": "Law & Torah",
-        "icon": "⚖️",
         "description": "The Books of the Law (Exodus to Deuteronomy)"
     },
     {
         "id": "geschichte",
         "name": "Historical Books",
-        "icon": "🏛️",
         "description": "Joshua to Esther"
     },
     {
         "id": "weisheit",
         "name": "Wisdom & Poetry",
-        "icon": "💡",
         "description": "Job, Psalms, Proverbs, Ecclesiastes, Song of Solomon"
     },
     {
         "id": "propheten",
         "name": "Prophets (Major & Minor)",
-        "icon": "🔥",
         "description": "Isaiah to Malachi"
     },
     {
         "id": "at",
         "name": "Old Testament",
-        "icon": "📜",
         "description": "The Old Testament: Law, History, Wisdom, and Prophets"
     },
     {
         "id": "nt",
         "name": "New Testament",
-        "icon": "✝️",
         "description": "Gospels, Acts, Epistles, and Revelation"
     },
     {
         "id": "themen",
         "name": "Topics & Feasts",
-        "icon": "🕯️",
         "description": "Bible Topics, Feasts, and Doctrine"
     }
 ]

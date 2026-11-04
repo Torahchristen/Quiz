@@ -238,19 +238,19 @@ def main():
                         inconsistencies.append(f"{en_label} Q#{idx+1} ({eq.get('questionId')}): difficulty '{eq.get('difficulty')}' != DE '{dq.get('difficulty')}'")
 
     print("\n================ VALIDATION REPORT ================")
-    print(f"🔴 Critical Errors:   {len(crit_errors)}")
+    print(f"Critical Errors:   {len(crit_errors)}")
     for e in crit_errors[:30]:
         print(f"  - {e}")
     if len(crit_errors) > 30:
         print(f"  ... and {len(crit_errors) - 30} more critical errors")
 
-    print(f"🟡 Inconsistencies:   {len(inconsistencies)}")
+    print(f"Inconsistencies:   {len(inconsistencies)}")
     for e in inconsistencies[:30]:
         print(f"  - {e}")
     if len(inconsistencies) > 30:
         print(f"  ... and {len(inconsistencies) - 30} more inconsistencies")
 
-    print(f"🟢 Quality Warnings:  {len(quality_warnings)}")
+    print(f"Quality Warnings:  {len(quality_warnings)}")
     for e in quality_warnings[:15]:
         print(f"  - {e}")
     if len(quality_warnings) > 15:
