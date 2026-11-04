@@ -58,15 +58,15 @@
           "explanation": ""
         },
         {
-          "text": "Sie wollte als Magd am Heiligtum dienen",
+          "text": "Sie wollte als Magd am heiligen Heiligtum dienen",
           "explanation": ""
         },
         {
-          "text": "Der Knabe sollte sein Leben lang Gott gehören",
+          "text": "Ihn dem HERRN zu geben all sein Leben lang",
           "explanation": ""
         },
         {
-          "text": "Sie versprach ein Brandopfer aus zehn Rindern",
+          "text": "Sie versprach ein fettes Brandopfer aus Rindern",
           "explanation": ""
         }
       ],
@@ -96,7 +96,7 @@
           "explanation": ""
         },
         {
-          "text": "Er hielt sie für trunken vom süßen Wein",
+          "text": "Eli meinte, sie wäre vom Weine trunken",
           "explanation": ""
         }
       ],
@@ -294,19 +294,19 @@
       "text": "Von wo bis wo wurde ganz Israel gewahr, dass Samuel als Prophet Gottes bestätigt war?",
       "options": [
         {
-          "text": "Von der Stadt Jericho bis zur Meeresküste",
+          "text": "Von Hebron im Süden bis hinauf nach Dan",
           "explanation": ""
         },
         {
-          "text": "Vom Berg Sinai bis zu den Grenzen Moabs",
+          "text": "Von Dan an bis gen Beer-Seba im Lande",
           "explanation": ""
         },
         {
-          "text": "Von Dan bis nach Beerseba im ganzen Land",
+          "text": "Von Bethel bis zur Küste des großen Meeres",
           "explanation": ""
         },
         {
-          "text": "Von der Festung Sichem bis nach Bethlehem",
+          "text": "Von Silo bis an die äußerste Grenze Moabs",
           "explanation": ""
         }
       ],
@@ -324,7 +324,7 @@
       "text": "Welches Heiligtum holten die Israeliten nach der ersten Niederlage bei Eben-Ezer ins Feldlager?",
       "options": [
         {
-          "text": "Den goldenen Altar aus dem Heiligtum Silo",
+          "text": "Die Lade des Bundes des HERRN von Silo",
           "explanation": ""
         },
         {
@@ -564,19 +564,19 @@
       "text": "Mit welcher schweren Plage schlug Gott die Einwohner von Aschdod, Gath und Ekron?",
       "options": [
         {
-          "text": "Mit einer dreijährigen verheerenden Dürre",
+          "text": "Mit einer verheerenden Dürre im ganzen Lande",
           "explanation": ""
         },
         {
-          "text": "Mit dem Verlust all ihrer Rinderherden",
+          "text": "Mit dem plötzlichen Verlust aller Rinderherden",
           "explanation": ""
         },
         {
-          "text": "Mit Blindheit über alle ihre Krieger",
+          "text": "Mit finsterer Blindheit über all ihre Krieger",
           "explanation": ""
         },
         {
-          "text": "Mit schmerzhaften Geschwüren an ihren Körpern",
+          "text": "Mit schmerzhaften Beulen an heimlichen Orten",
           "explanation": ""
         }
       ],
@@ -624,19 +624,19 @@
       "text": "Welche Sühneopfer aus Gold forderten die Wahrsager der Philister zur Rückgabe der Lade?",
       "options": [
         {
-          "text": "Fünf goldene Schwerter und zehn Becher",
+          "text": "Fünf goldene Schwerter und zehn Becher Silbers",
           "explanation": ""
         },
         {
-          "text": "Fünf goldene Geschwüre und fünf goldene Mäuse",
+          "text": "Fünf goldene Beulen und fünf goldene Mäuse",
           "explanation": ""
         },
         {
-          "text": "Zwölf goldene Kälber nach den Stämmen",
+          "text": "Zwölf goldene Kälber nach den Stämmen Israels",
           "explanation": ""
         },
         {
-          "text": "Zehn goldene Kronen der heidnischen Könige",
+          "text": "Zehn goldene Kronen von den Fürsten der Städte",
           "explanation": ""
         }
       ],
@@ -2634,11 +2634,11 @@
       "text": "Welches persönliche Merkmal kennzeichnete den reichen Mann Nabal aus Maon laut dem Text?",
       "options": [
         {
-          "text": "Er war hart und bösartig in allen seinen Taten",
+          "text": "Er war hart und boshaft in seinen Händeln",
           "explanation": ""
         },
         {
-          "text": "Er war ein milder, gottesfürchtiger Mann",
+          "text": "Er war ein gütiger, gottesfürchtiger Mann",
           "explanation": ""
         },
         {
@@ -2646,7 +2646,7 @@
           "explanation": ""
         },
         {
-          "text": "Er war ein Priester an den Höhen von Bethel",
+          "text": "Er war ein Priester an den Höhen Beth-Els",
           "explanation": ""
         }
       ],
@@ -2784,15 +2784,15 @@
       "text": "Auf welchem unerlaubten Weg suchte Saul Auskunft, als Gott ihm NICHT mehr durch Träume antwortete?",
       "options": [
         {
-          "text": "Er suchte den Hohepriester in der Stadt Nob",
+          "text": "Er suchte den Hohepriester in der Stadt Nob auf",
           "explanation": ""
         },
         {
-          "text": "Er suchte eine Frau mit einem Wahrsagergeist auf",
+          "text": "Er suchte ein Weib zu Endor mit Wahrsagergeist",
           "explanation": ""
         },
         {
-          "text": "Er brachte Hunderte von Opfern in Gilgal dar",
+          "text": "Er brachte Brandopfer vor dem Altar in Gilgal dar",
           "explanation": ""
         },
         {
@@ -3182,7 +3182,7 @@
           "explanation": ""
         },
         {
-          "text": "Zu Achisch, dem König von Gath, ins Land der Philister",
+          "text": "Zu Achis, dem König zu Gath, im Land der Philister",
           "explanation": ""
         },
         {
@@ -3201,7 +3201,7 @@
     {
       "questionId": "1sam_115",
       "type": "single_choice",
-      "text": "Welches Zeugnis stellte Achisch David aus?",
+      "text": "Welches Zeugnis stellte Achis David aus?",
       "options": [
         {
           "text": "Er halte ihn für einen hinterlistigen Spion, dem kein Fürst trauen dürfe",
@@ -3302,7 +3302,7 @@
           "explanation": ""
         },
         {
-          "text": "Eine lederne Schleuder in der Hand",
+          "text": "Die Schleuder in seiner Hand",
           "explanation": ""
         },
         {
@@ -3329,11 +3329,11 @@
           "explanation": ""
         },
         {
-          "text": "David besiegt Goliath im Tal Terebinthe",
+          "text": "David besiegt Goliath im Eichgrunde",
           "explanation": ""
         },
         {
-          "text": "Saul fällt im Kampf gegen die Philister",
+          "text": "Saul fällt im Kampf gegen Philister",
           "explanation": ""
         },
         {
@@ -3341,7 +3341,7 @@
           "explanation": ""
         },
         {
-          "text": "David flieht vor den Nachstellungen Sauls",
+          "text": "David flieht vor Nachstellungen Sauls",
           "explanation": ""
         }
       ],
