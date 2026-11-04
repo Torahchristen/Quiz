@@ -21,23 +21,19 @@
     {
       "questionId": "lev_001",
       "type": "single_choice",
-      "text": "Von welchem heiligen Ort her rief Gott den Propheten Mose, um ihm die Opfergesetze zu verkünden?",
+      "text": "Von welchem Ort her rief der HERR Mose und redete zu ihm?",
       "options": [
         {
-          "text": "Von der rauchenden Spitze des Berges Sinai",
-          "explanation": ""
+          "text": "Vom rauchenden Gipfel des Berges Sinai"
         },
         {
-          "text": "Aus der Mitte des brennenden Dornbuschs",
-          "explanation": ""
+          "text": "Aus der Mitte des brennenden Busches"
         },
         {
-          "text": "Aus dem Inneren des Zeltes der Begegnung",
-          "explanation": ""
+          "text": "Von der heiligen Stiftshütte aus"
         },
         {
-          "text": "Vor den Toren des Lagers am Altar",
-          "explanation": ""
+          "text": "Vom Vorhof des Brandopferaltars her"
         }
       ],
       "correctAnswers": [
@@ -51,23 +47,19 @@
     {
       "questionId": "lev_002",
       "type": "single_choice",
-      "text": "Welche Eigenschaft verlangte das Gesetz von einem Rind, das als vollkommenes Brandopfer dargebracht wurde?",
+      "text": "Was für ein Rind sollte jemand als Brandopfer für den HERRN darbringen?",
       "options": [
         {
-          "text": "Es musste ein fehlerfreier Männling sein",
-          "explanation": ""
+          "text": "Ein makelloses männliches Tier"
         },
         {
-          "text": "Es musste ein junges weibliches Kalb sein",
-          "explanation": ""
+          "text": "Ein junges weibliches Zuchtkalb"
         },
         {
-          "text": "Es musste mindestens drei Jahre alt sein",
-          "explanation": ""
+          "text": "Ein dreijähriges gemästetes Tier"
         },
         {
-          "text": "Es musste im Heiligtum geboren worden sein",
-          "explanation": ""
+          "text": "Ein weißes, erstgeborenes Kalb"
         }
       ],
       "correctAnswers": [
@@ -81,23 +73,19 @@
     {
       "questionId": "lev_003",
       "type": "single_choice",
-      "text": "Was musste der Opfernde vor dem Schlachten des Brandopfertieres mit seiner Hand vollziehen?",
+      "text": "Was sollte man vor dem Schächten des Brandopfers mit der Hand tun?",
       "options": [
         {
-          "text": "Das Tier dreimal mit reinem Wasser waschen",
-          "explanation": ""
+          "text": "Das Opfertier dreimal mit Wasser waschen"
         },
         {
-          "text": "Die Hand fest auf den Kopf des Tieres legen",
-          "explanation": ""
+          "text": "Seine Hand auf den Kopf des Brandopfers stützen"
         },
         {
-          "text": "Die Hörner des Tieres mit Salböl bestreichen",
-          "explanation": ""
+          "text": "Das heilige Salböl auf die Hörner streichen"
         },
         {
-          "text": "Dem Tier das Maul mit einer Binde verbinden",
-          "explanation": ""
+          "text": "Dem Opfertier das Maul mit Binden verbinden"
         }
       ],
       "correctAnswers": [
@@ -111,23 +99,19 @@
     {
       "questionId": "lev_004",
       "type": "single_choice",
-      "text": "Wohin spritzten die Priester das gegossene Blut des geschlachteten Brandopfertieres?",
+      "text": "Wohin sollten Aarons Söhne das Blut des geschächteten Brandopfers sprengen?",
       "options": [
         {
-          "text": "Auf den goldenen Räucheraltar im Zelt",
-          "explanation": ""
+          "text": "An den goldenen Räucheraltar im Heiligtum"
         },
         {
-          "text": "Auf den Boden außerhalb des Heiligtums",
-          "explanation": ""
+          "text": "Auf den Erdboden vor dem Tor der Stiftshütte"
         },
         {
-          "text": "Ringsum an den bronzenen Altar im Hof",
-          "explanation": ""
+          "text": "Ringsum an den Altar vor der Stiftshütte"
         },
         {
-          "text": "Auf das weiße Gewand des Priesters",
-          "explanation": ""
+          "text": "Auf das weiße leinene Gewand des Priesters"
         }
       ],
       "correctAnswers": [
@@ -141,23 +125,19 @@
     {
       "questionId": "lev_005",
       "type": "single_choice",
-      "text": "Welche Teile des Brandopfers mussten vor dem Verbrennen gründlich mit Wasser gewaschen werden?",
+      "text": "Welche Teile des Brandopfers sollten mit Wasser gewaschen werden?",
       "options": [
         {
-          "text": "Nur der Kopf und die Fettstücke",
-          "explanation": ""
+          "text": "Nur der Kopf und die Fettstücke daran"
         },
         {
-          "text": "Das gesamte Fleisch mitsamt der Haut",
-          "explanation": ""
+          "text": "Das gesamte Fleisch mitsamt der Haut"
         },
         {
-          "text": "Nur die Wundstelle des Kehlschnitts",
-          "explanation": ""
+          "text": "Nur die Wundstelle des Schnittes am Hals"
         },
         {
-          "text": "Die Eingeweide und die Beine des Tieres",
-          "explanation": ""
+          "text": "Sein Eingeweide und seine Schenkel"
         }
       ],
       "correctAnswers": [
@@ -261,23 +241,19 @@
     {
       "questionId": "lev_009",
       "type": "single_choice",
-      "text": "Welchen Teil des Speisopfers verbrannte der Priester als Gedenkopfer auf dem Altar?",
+      "text": "Was sollte der Priester als Gedächtnisopfer vom Speisopfer auf dem Altar verbrennen?",
       "options": [
         {
-          "text": "Das gesamte dargebrachte Feinmehl mitsamt dem Öl",
-          "explanation": ""
+          "text": "Das gesamte Feinmehl und das ganze Öl"
         },
         {
-          "text": "Nur den Weihrauch ohne das Feinmehl",
-          "explanation": ""
+          "text": "Nur den Weihrauch ohne Mehl und ohne Öl"
         },
         {
-          "text": "Die Hälfte des Mehles und der gesamte Sauerteig",
-          "explanation": ""
+          "text": "Die Hälfte des Mehls mit dem Sauerteig"
         },
         {
-          "text": "Eine Handvoll Feinmehl mit Öl und all den Weihrauch",
-          "explanation": ""
+          "text": "Eine Handvoll Feinmehl und Öl samt Weihrauch"
         }
       ],
       "correctAnswers": [
@@ -531,23 +507,19 @@
     {
       "questionId": "lev_018",
       "type": "single_choice",
-      "text": "Wie bezeichnete das Gesetz die auf dem Altar verbrannten Fettstücke des Friedensopfers?",
+      "text": "Als was bezeichnet das Gesetz die auf dem Altar verbrannten Fettstücke des Friedensopfers?",
       "options": [
         {
-          "text": "Eine Speise des Feueropfers für den HERRN",
-          "explanation": ""
+          "text": "Nahrung für das Feuer des HERRN"
         },
         {
-          "text": "Ein Sühnopfer für die unbewusste Sünde",
-          "explanation": ""
+          "text": "Sühnopfer für unbewusste Sünde"
         },
         {
-          "text": "Ein Hebopfer für die levitischen Arme",
-          "explanation": ""
+          "text": "Hebopfer für levitische Priester"
         },
         {
-          "text": "Ein Vorhofsopfer der Reinigung",
-          "explanation": ""
+          "text": "Reinigungsanteil für den Vorhof"
         }
       ],
       "correctAnswers": [
@@ -561,23 +533,19 @@
     {
       "questionId": "lev_019",
       "type": "single_choice",
-      "text": "An welchem Ort schlachtete der Geber das Tier für sein Friedensopfer?",
+      "text": "An welchem Ort sollte der Geber sein Friedensopfer vor dem HERRN schächten?",
       "options": [
         {
-          "text": "An der Nordseite des Brandopferaltars",
-          "explanation": ""
+          "text": "An der Nordseite des Brandopferaltars"
         },
         {
-          "text": "Am Eingang des Zeltes der Begegnung",
-          "explanation": ""
+          "text": "Vor der Tür der heiligen Stiftshütte"
         },
         {
-          "text": "Außerhalb des Lagers an reiner Stätte",
-          "explanation": ""
+          "text": "Außerhalb des Lagers an reinem Ort"
         },
         {
-          "text": "Direkt vor dem inneren Trennvorhang",
-          "explanation": ""
+          "text": "Direkt vor dem inneren Trennvorhang"
         }
       ],
       "correctAnswers": [
@@ -621,23 +589,19 @@
     {
       "questionId": "lev_021",
       "type": "single_choice",
-      "text": "Für welche Art von Verfehlungen wurde das Sündopfer im Gesetz ausdrücklich gestiftet?",
+      "text": "Für welchen Fall ordnete das Gesetz das Sündopfer in 3. Mose 4:2 an?",
       "options": [
         {
-          "text": "Für vorsätzliche Morde aus Hass",
-          "explanation": ""
+          "text": "Für vorsätzlichen Mord und frevelhafte Taten"
         },
         {
-          "text": "Für das Brechen des Sabbatgebotes",
-          "explanation": ""
+          "text": "Für das bewusste Entheiligen des Ruhetages"
         },
         {
-          "text": "Für Götzendienst mit heidnischen Bildern",
-          "explanation": ""
+          "text": "Für Götzendienst mit heidnischen Schnitzbildern"
         },
         {
-          "text": "Für Verfehlungen aus Unwissenheit",
-          "explanation": ""
+          "text": "Wenn sich eine Seele aus Irrtum versündigt"
         }
       ],
       "correctAnswers": [
@@ -651,23 +615,19 @@
     {
       "questionId": "lev_022",
       "type": "single_choice",
-      "text": "Welches Sühnopfer musste der gesalbte Hohepriester bringen, wenn er Schuld auf das Volk lud?",
+      "text": "Was sollte der gesalbte Priester als Sündopfer bringen, wenn er Schuld auf das Volk lud?",
       "options": [
         {
-          "text": "Einen fehlerfreien jungen Farren",
-          "explanation": ""
+          "text": "Einen jungen, makellosen Farren"
         },
         {
-          "text": "Einen fehlerfreien jungen Ziegenbock",
-          "explanation": ""
+          "text": "Einen fehlerfreien Ziegenbock"
         },
         {
-          "text": "Zwei Turteltauben aus der Taubenhecke",
-          "explanation": ""
+          "text": "Zwei Turteltauben aus der Hecke"
         },
         {
-          "text": "Ein fehlerfreies Männlein von den Schafen",
-          "explanation": ""
+          "text": "Ein makelloses Schaf der Weide"
         }
       ],
       "correctAnswers": [
@@ -741,23 +701,19 @@
     {
       "questionId": "lev_025",
       "type": "single_choice",
-      "text": "Welches Opfertier verlangte das Gesetz von einem Fürsten, der versehentlich sündigte?",
+      "text": "Was sollte ein Fürst als Opfergabe bringen, wenn er aus Versehen sündigte?",
       "options": [
         {
-          "text": "Einen fehlerfreien jungen Stier",
-          "explanation": ""
+          "text": "Einen jungen Farren von den Rindern"
         },
         {
-          "text": "Eine weibliche Ziege oder ein Lamm",
-          "explanation": ""
+          "text": "Einen Ziegenbock, ein makelloses Tier"
         },
         {
-          "text": "Zwei Turteltauben oder Tauben",
-          "explanation": ""
+          "text": "Einen ausgewachsenen Widder der Schafe"
         },
         {
-          "text": "Einen fehlerfreien Ziegenbock",
-          "explanation": ""
+          "text": "Eine weibliche Ziege aus seiner Herde"
         }
       ],
       "correctAnswers": [
@@ -771,23 +727,19 @@
     {
       "questionId": "lev_026",
       "type": "single_choice",
-      "text": "Welches Opfertier musste ein gewöhnliches Mitglied des Volkes bei versehentlicher Sünde bringen?",
+      "text": "Was sollte jemand aus dem Volk als Opfergabe bringen, wenn er aus Versehen sündigte?",
       "options": [
         {
-          "text": "Eine fehlerfreie Ziegenziege oder ein Schaf",
-          "explanation": ""
+          "text": "Einen jungen Farren von den Rindern"
         },
         {
-          "text": "Einen fehlerfreien Ziegenbock aus den Herden",
-          "explanation": ""
+          "text": "Einen Ziegenbock ohne jedes Gebrechen"
         },
         {
-          "text": "Einen jungen Stier ohne Fehler aus dem Stall",
-          "explanation": ""
+          "text": "Eine Ziege, ein makelloses Tier"
         },
         {
-          "text": "Einen Widder ohne Fehler von den Herden",
-          "explanation": ""
+          "text": "Zwei Turteltauben von den Felsen"
         }
       ],
       "correctAnswers": [
@@ -954,20 +906,16 @@
       "text": "Welches Tier verlangte das Gesetz als Schuldopfer bei Untreue an den heiligen Dingen?",
       "options": [
         {
-          "text": "Einen jungen fehlerfreien Stier vom Vieh",
-          "explanation": ""
+          "text": "Einen jungen Farren von den Rindern"
         },
         {
-          "text": "Einen fehlerfreien Ziegenbock vom Kleinvieh",
-          "explanation": ""
+          "text": "Einen Ziegenbock aus der Ziegenherde"
         },
         {
-          "text": "Einen fehlerfreien Widder von den Schafen",
-          "explanation": ""
+          "text": "Einen makellosen Widder von den Schafen"
         },
         {
-          "text": "Eine fehlerfreie Ziege aus der Herde",
-          "explanation": ""
+          "text": "Eine weibliche Ziege von den Herden"
         }
       ],
       "correctAnswers": [
@@ -1194,20 +1142,16 @@
       "text": "Unter welcher Bedingung durfte das Fleisch eines Sündopfers KEINESFALLS gegessen werden?",
       "options": [
         {
-          "text": "Wenn das Tier ein weibliches Schaf war",
-          "explanation": ""
+          "text": "Wenn das dargebrachte Tier ein weibliches Schaf war"
         },
         {
-          "text": "Wenn das Opfer an einem Werktag dargebracht wurde",
-          "explanation": ""
+          "text": "Wenn das Opfer an einem gewöhnlichen Werktag dargebracht war"
         },
         {
-          "text": "Wenn der Geber nicht aus dem Stamm Levi stammte",
-          "explanation": ""
+          "text": "Wenn der Bringer des Opfers nicht aus dem Stamme Levi war"
         },
         {
-          "text": "Wenn sein Blut in das Heilige gebracht worden war",
-          "explanation": ""
+          "text": "Wenn von dem Blut in die Stiftshütte hineingebracht wird"
         }
       ],
       "correctAnswers": [
@@ -1221,23 +1165,19 @@
     {
       "questionId": "lev_042",
       "type": "single_choice",
-      "text": "An welchem Ort musste das Tier für das Schuldopfer geschlachtet werden?",
+      "text": "An welchem Ort sollte das Tier für das Schuldopfer geschächtet werden?",
       "options": [
         {
-          "text": "An derselben Stelle wie das Brandopfer",
-          "explanation": ""
+          "text": "Am gleichen Ort wie das Brandopfer"
         },
         {
-          "text": "An der Südseite vor dem goldenen Leuchter",
-          "explanation": ""
+          "text": "An der Südseite vor dem Leuchter"
         },
         {
-          "text": "Außerhalb des Lagers an reinem Ort",
-          "explanation": ""
+          "text": "Außerhalb des Lagers an reinem Ort"
         },
         {
-          "text": "Direkt vor dem Tor des äußeren Vorhofs",
-          "explanation": ""
+          "text": "Direkt vor dem Tor des Vorhofs"
         }
       ],
       "correctAnswers": [
@@ -1701,23 +1641,19 @@
     {
       "questionId": "lev_059",
       "type": "single_choice",
-      "text": "Welches Opfertier musste Aaron für seine eigene Person als Sündopfer bringen?",
+      "text": "Welche Tiere sollte Aaron für sich selbst zum Sünd- und Brandopfer nehmen?",
       "options": [
         {
-          "text": "Einen fehlerfreien alten Ziegenbock",
-          "explanation": ""
+          "text": "Einen Ziegenbock und eine junge Ziege"
         },
         {
-          "text": "Ein junges Kalb von den Rindern",
-          "explanation": ""
+          "text": "Ein Stierkalb und einen Widder, makellos"
         },
         {
-          "text": "Zwei fehlerfreie Widder von den Schafen",
-          "explanation": ""
+          "text": "Zwei fehlerfreie Lämmer von der Weide"
         },
         {
-          "text": "Eine weibliche Ziege aus der Herde",
-          "explanation": ""
+          "text": "Einen jungen Farren und zwei Tauben"
         }
       ],
       "correctAnswers": [
@@ -1761,23 +1697,19 @@
     {
       "questionId": "lev_061",
       "type": "single_choice",
-      "text": "Welches Tier opferte Aaron als Sündopfer für das gesamte Volk Israel?",
+      "text": "Welches Tier nahm Aaron als Sündopfer für das Volk und schächtete es?",
       "options": [
         {
-          "text": "Einen jungen fehlerfreien Stier",
-          "explanation": ""
+          "text": "Einen jungen, makellosen Farren"
         },
         {
-          "text": "Zwei Turteltauben aus dem Taubenschlag",
-          "explanation": ""
+          "text": "Zwei Turteltauben aus der Hecke"
         },
         {
-          "text": "Ein fehlerfreies Männlein von den Schafen",
-          "explanation": ""
+          "text": "Ein fehlerfreies Schaf der Weide"
         },
         {
-          "text": "Einen Ziegenbock aus der Herde",
-          "explanation": ""
+          "text": "Den Bock, das Sündopfer des Volkes"
         }
       ],
       "correctAnswers": [
@@ -1821,23 +1753,19 @@
     {
       "questionId": "lev_063",
       "type": "single_choice",
-      "text": "Was geschah vor den Augen des ganzen Volkes, als Mose und Aaron aus dem Zelt traten?",
+      "text": "Was geschah, als Mose und Aaron aus der Stiftshütte traten und das Volk segneten?",
       "options": [
         {
-          "text": "Die Bundeslade erstrahlte und eine goldene Taube stieg auf",
-          "explanation": ""
+          "text": "Die Bundeslade erstrahlte und eine goldene Taube stieg auf"
         },
         {
-          "text": "Gottes Herrlichkeit erschien und Feuer verzehrte das Opfer",
-          "explanation": ""
+          "text": "Gottes Herrlichkeit erschien und Feuer verzehrte das Opfer"
         },
         {
-          "text": "Ein gewaltiger Regenguss löschte die Glut auf dem Altar aus",
-          "explanation": ""
+          "text": "Ein gewaltiger Regenguss löschte die Glut auf dem Altar aus"
         },
         {
-          "text": "Die Wolkensäule zerteilte sich und ein Donner erschütterte",
-          "explanation": ""
+          "text": "Die Wolkensäule zerteilte sich und ein Donner erschütterte"
         }
       ],
       "correctAnswers": [
@@ -1911,23 +1839,19 @@
     {
       "questionId": "lev_066",
       "type": "single_choice",
-      "text": "Wer trug die Leichen der getöteten Priestersöhne in ihren Röcken aus dem Lager?",
+      "text": "Wer trug Nadab und Abihu in ihren Leibröcken vor das Lager hinaus?",
       "options": [
         {
-          "text": "Misael und Elzaphan, die Vettern Aarons",
-          "explanation": ""
+          "text": "Misael und Elzaphan, die Söhne Ussiels"
         },
         {
-          "text": "Eleasar und Ithamar, ihre Brüder",
-          "explanation": ""
+          "text": "Eleasar und Ithamar, ihre beiden Brüder"
         },
         {
-          "text": "Die siebzig Ältesten des Volkes Israel",
-          "explanation": ""
+          "text": "Die siebzig Ältesten des Volkes Israel"
         },
         {
-          "text": "Die Leviten aus dem Hause Kesiath",
-          "explanation": ""
+          "text": "Die levitischen Priester aus dem Zelte"
         }
       ],
       "correctAnswers": [
@@ -2361,23 +2285,19 @@
     {
       "questionId": "lev_081",
       "type": "single_choice",
-      "text": "Welches reguläre Opfer musste eine Wöchnerin nach Ablauf ihrer Reinigungstage darbringen?",
+      "text": "Was sollte eine Frau nach Erfüllung ihrer Reinigungstage dem Priester bringen?",
       "options": [
         {
-          "text": "Ein Rind zum Sündopfer und ein Lamm zum Dank",
-          "explanation": ""
+          "text": "Einen jungen Farren und zwei Widder"
         },
         {
-          "text": "Zwei fehlerfreie Widder von den Weiden",
-          "explanation": ""
+          "text": "Zwei Ziegenböcke und feinstes Mehl"
         },
         {
-          "text": "Einen Ziegenbock und zwei Turteltauben",
-          "explanation": ""
+          "text": "Drei Lämmer ohne jedes Gebrechen"
         },
         {
-          "text": "Ein einjähriges Lamm und eine junge Taube",
-          "explanation": ""
+          "text": "Ein einjähriges Schaf und eine Taube"
         }
       ],
       "correctAnswers": [
@@ -3171,23 +3091,19 @@
     {
       "questionId": "lev_108",
       "type": "single_choice",
-      "text": "Was geschah mit den zwei Ziegenböcken, die die Gemeinde vor das Zelt stellte?",
+      "text": "Was tat Aaron mit den zwei Böcken vor der Tür der Stiftshütte?",
       "options": [
         {
-          "text": "Beide Böcke wurden gemeinsam am Altar geschlachtet",
-          "explanation": ""
+          "text": "Beide Böcke wurden zum Brandopfer am Altar geschächtet"
         },
         {
-          "text": "Beide Böcke wurden lebendig in die Wüste verjagt",
-          "explanation": ""
+          "text": "Beide Böcke wurden lebendig in die Wüste hinausgejagt"
         },
         {
-          "text": "Es wurden Lose geworfen für den HERRN und Asasel",
-          "explanation": ""
+          "text": "Er warf Lose: ein Los für den HERRN und eins für Asasel"
         },
         {
-          "text": "Ein Bock wurde geopfert, der andere dem Armen gegeben",
-          "explanation": ""
+          "text": "Ein Bock wurde geschächtet, der andere dem Volk gegeben"
         }
       ],
       "correctAnswers": [
@@ -3201,23 +3117,19 @@
     {
       "questionId": "lev_109",
       "type": "single_choice",
-      "text": "Was tat der Hohepriester mit dem lebendigen Ziegenbock, auf den das Los für Asasel fiel?",
+      "text": "Was tat Aaron mit dem lebendigen Bock, auf welchen das Los für Asasel fiel?",
       "options": [
         {
-          "text": "Er verbrannte ihn vollständig auf dem Brandopferaltar",
-          "explanation": ""
+          "text": "Er verbrannte ihn ganz auf dem Brandopferaltar"
         },
         {
-          "text": "Er übergab ihn den Leviten zur heiligen Schlachtung",
-          "explanation": ""
+          "text": "Er übergab ihn den Ältesten zur Schlichtung am Tor"
         },
         {
-          "text": "Er besprengte sein Fell mit dem Blut des Stiers",
-          "explanation": ""
+          "text": "Er besprengte sein Fell mit dem Blut des Stieres"
         },
         {
-          "text": "Er bekannte alle Missetaten Israels über seinem Haupt",
-          "explanation": ""
+          "text": "Er stützte beide Hände auf ihn und bekannte Schuld"
         }
       ],
       "correctAnswers": [
@@ -3231,23 +3143,19 @@
     {
       "questionId": "lev_110",
       "type": "single_choice",
-      "text": "Womit verhüllte Aaron den Gnadenstuhl im Allerheiligsten, damit er nicht stürbe?",
+      "text": "Womit bedeckte Aaron den Sühnedeckel im Heiligtum, damit er nicht sterbe?",
       "options": [
         {
-          "text": "Mit einer dichten Wolke des Räucherwerks",
-          "explanation": ""
+          "text": "Mit einer Wolke des Räucherwerks"
         },
         {
-          "text": "Mit dem blauen Purpurmantel seines Amtes",
-          "explanation": ""
+          "text": "Mit dem leinenen Mantel des Amtes"
         },
         {
-          "text": "Mit dem inneren gewobenen Trennvorhang",
-          "explanation": ""
+          "text": "Mit dem inneren Trennungsvorhang"
         },
         {
-          "text": "Mit der reinen Wolkensäule vom Gottesberg",
-          "explanation": ""
+          "text": "Mit der Wolkensäule am Gottesberg"
         }
       ],
       "correctAnswers": [
@@ -3261,23 +3169,19 @@
     {
       "questionId": "lev_111",
       "type": "single_choice",
-      "text": "Wie oft spritzte Aaron das Blut des Sündopferstiers vor den Gnadenstuhl nach Osten?",
+      "text": "Wie sprengte Aaron das Blut des Farren auf und vor den Sühnedeckel nach Osten?",
       "options": [
         {
-          "text": "Dreimal zur Reinigung des heiligen Ortes",
-          "explanation": ""
+          "text": "Dreimal zur Reinigung des Heiligtums"
         },
         {
-          "text": "Einmal auf die Vorderseite und siebenmal davor",
-          "explanation": ""
+          "text": "Einmal darauf und siebenmal davor"
         },
         {
-          "text": "Zwölfmal für die zwölf Stämme des Volkes",
-          "explanation": ""
+          "text": "Zwölfmal für alle Stämme von Israel"
         },
         {
-          "text": "Vierundzwanzigmal an alle Ecken der Lade",
-          "explanation": ""
+          "text": "Vierundzwanzigmal an alle vier Ecken"
         }
       ],
       "correctAnswers": [
@@ -3534,20 +3438,16 @@
       "text": "Welche Bräuche sollte Israel nach den Worten Gottes ausdrücklich NICHT nachahmen?",
       "options": [
         {
-          "text": "Die Ackerbaumethoden der Nachbarvölker",
-          "explanation": ""
+          "text": "Die Ackerbaumethoden der Nachbarvölker"
         },
         {
-          "text": "Die Sprachdialekte der Wüstenstämme",
-          "explanation": ""
+          "text": "Die Sprachdialekte der Wüstenstämme"
         },
         {
-          "text": "Die Sitten Ägyptens und des Landes Kanaan",
-          "explanation": ""
+          "text": "Wie im Erdland Ägypten und Erdland Kanaan"
         },
         {
-          "text": "Die Bauart der heidnischen Wohnhäuser",
-          "explanation": ""
+          "text": "Die Bauart der heidnischen Wohnhäuser"
         }
       ],
       "correctAnswers": [
@@ -3651,23 +3551,19 @@
     {
       "questionId": "lev_124",
       "type": "single_choice",
-      "text": "Was geschah mit dem Land Kanaan wegen der abscheulichen Gräuel seiner Bewohner?",
+      "text": "Was geschah mit dem Erdland wegen der abscheulichen Gräuel seiner Bewohner?",
       "options": [
         {
-          "text": "Es wurde von einer großen Dürre heimgesucht",
-          "explanation": ""
+          "text": "Es wurde von einer großen Dürre heimgesucht"
         },
         {
-          "text": "Es geriet unter die Herrschaft Ägyptens",
-          "explanation": ""
+          "text": "Es geriet unter die Herrschaft Ägyptens"
         },
         {
-          "text": "Das Land wurde unrein und spie sie aus",
-          "explanation": ""
+          "text": "Das Erdland wurde unrein und spie sie aus"
         },
         {
-          "text": "Es verwandelte sich in eine Wüste",
-          "explanation": ""
+          "text": "Es verwandelte sich in eine öde Wüste"
         }
       ],
       "correctAnswers": [
@@ -3681,23 +3577,19 @@
     {
       "questionId": "lev_125",
       "type": "single_choice",
-      "text": "Wie bezeichnet das Wort Gottes homosexuelle Handlungen im Gesetzbuch?",
+      "text": "Wie bezeichnet das Gesetz das Beiliegen bei einer männlichen Person wie bei einer Frau?",
       "options": [
         {
-          "text": "Als einen verzeihlichen Mangel an Erkenntnis",
-          "explanation": ""
+          "text": "Als ein leichtes Vergehen ohne Gericht"
         },
         {
-          "text": "Als eine heidnische Sitte ohne Strafe",
-          "explanation": ""
+          "text": "Als eine fremde Heidensitte ohne Strafe"
         },
         {
-          "text": "Als eine Krankheit, die Heilung braucht",
-          "explanation": ""
+          "text": "Als eine Schwachheit, die Milde verlangt"
         },
         {
-          "text": "Als eine Abscheulichkeit vor dem HERRN",
-          "explanation": ""
+          "text": "Als einen Greuel vor dem Angesicht Gottes"
         }
       ],
       "correctAnswers": [
@@ -3771,23 +3663,19 @@
     {
       "questionId": "lev_128",
       "type": "single_choice",
-      "text": "Was sollte ein Landwirt bei der Getreideernte für die Armen und Fremdlinge tun?",
+      "text": "Was sollte man bei der Ernte des Erdlandes für die Gedemütigten und Fremdlinge tun?",
       "options": [
         {
-          "text": "Den zehnten Teil der Ernte ins Heiligtum bringen",
-          "explanation": ""
+          "text": "Den zehnten Teil der Ernte ins Heiligtum bringen"
         },
         {
-          "text": "Die Hälfte des Ertrags unter die Armen verteilen",
-          "explanation": ""
+          "text": "Die Hälfte des Ertrags unter die Armen verteilen"
         },
         {
-          "text": "Die Ränder des Feldes nicht vollständig abernten",
-          "explanation": ""
+          "text": "Die Ränder des Feldes nicht vollständig abernten"
         },
         {
-          "text": "Die Ernte vor den Armen im Speicher verschließen",
-          "explanation": ""
+          "text": "Die Ernte vor den Armen im Speicher verschließen"
         }
       ],
       "correctAnswers": [
@@ -3891,23 +3779,19 @@
     {
       "questionId": "lev_132",
       "type": "single_choice",
-      "text": "Was galt für die Früchte neu gepflanzter Obstbäume im Land Kanaan in den ersten drei Jahren?",
+      "text": "Was galt für die Früchte neu gepflanzter Fruchtbäume im Erdland in den ersten drei Jahren?",
       "options": [
         {
-          "text": "Sie mussten vollständig dem amtierenden Hohenpriester zufallen",
-          "explanation": ""
+          "text": "Sie mussten ganz dem amtierenden Hohenpriester zufallen"
         },
         {
-          "text": "Sie durften ausschließlich an heimatlose Fremdlinge gehen",
-          "explanation": ""
+          "text": "Sie durften ausschließlich an heimatlose Fremdlinge gehen"
         },
         {
-          "text": "Sie galten als unbeschnitten und durften nicht gegessen werden",
-          "explanation": ""
+          "text": "Sie galten als unbeschnitten und durften nicht gegessen werden"
         },
         {
-          "text": "Sie mussten auf dem heiligen Brandopferaltar verbrannt werden",
-          "explanation": ""
+          "text": "Sie mussten auf dem heiligen Brandopferaltar verbrannt werden"
         }
       ],
       "correctAnswers": [
@@ -3954,20 +3838,16 @@
       "text": "Welches Gericht traf einen Mann im Volk Israel, der ein Kind dem Molech opferte?",
       "options": [
         {
-          "text": "Das Volk des Landes musste ihn unweigerlich steinigen",
-          "explanation": ""
+          "text": "Das Volk des Erdlandes musste ihn steinigen"
         },
         {
-          "text": "Er wurde für lebenslang aus dem Lager gestoßen",
-          "explanation": ""
+          "text": "Er wurde auf Lebenszeit aus dem Lager verbannt"
         },
         {
-          "text": "Er musste das Fünffache des Wergeldes zahlen",
-          "explanation": ""
+          "text": "Er musste das Fünffache des Wergeldes zahlen"
         },
         {
-          "text": "Er verlor sein Erbteil im Land Kanaan",
-          "explanation": ""
+          "text": "Er verlor sein ganzes Erbteil an die Priester"
         }
       ],
       "correctAnswers": [
@@ -4401,23 +4281,19 @@
     {
       "questionId": "lev_149",
       "type": "single_choice",
-      "text": "Welches tierethische Gebot verbot eine zeitgleiche Schlachtung bei Mutter und Jungtier?",
+      "text": "Was verbot 3. Mose 22:28 bezüglich eines Stieres oder Kleinviehs und seines Jungen?",
       "options": [
         {
-          "text": "Mutter und Junges durften nie im selben Hof stehen",
-          "explanation": ""
+          "text": "Das Junge vor der Mutter vom Lager zu trennen"
         },
         {
-          "text": "Das Jungtier durfte nie vor der Mutter sterben",
-          "explanation": ""
+          "text": "Das Jungtier vor der Mutter sterben zu lassen"
         },
         {
-          "text": "Die Mutter musste nach dem Jungen frei gelassen werden",
-          "explanation": ""
+          "text": "Die Mutter nach dem Jungen ins Feld zu entlassen"
         },
         {
-          "text": "Ihr sollt es nicht an einem Tag zusammen schlachten",
-          "explanation": ""
+          "text": "Ihr sollt es nicht an einem Tag zusammen schächten"
         }
       ],
       "correctAnswers": [
@@ -4491,23 +4367,19 @@
     {
       "questionId": "lev_152",
       "type": "single_choice",
-      "text": "Welches besondere Fest wurde am ersten Tag des siebenten Monats mit Posaunenschall gefeiert?",
+      "text": "Was sollte am ersten Tag des siebenten Monats gehalten werden?",
       "options": [
         {
-          "text": "Das Passahfest der Befreiung aus Ägypten",
-          "explanation": ""
+          "text": "Das Passahfest der Befreiung aus Ägypten"
         },
         {
-          "text": "Das Laubhüttenfest der Freude am Ende",
-          "explanation": ""
+          "text": "Das Laubhüttenfest der Freude am Jahresende"
         },
         {
-          "text": "Ein Ruhetag zum Gedenken mit Posaunenblasen",
-          "explanation": ""
+          "text": "Ein Sabbat, ein Gedächtnistag unter Lärmblasen"
         },
         {
-          "text": "Das Wochenfest der Erstlingsfrüchte des Weizens",
-          "explanation": ""
+          "text": "Das Wochenfest der Erstlingsfrüchte des Weizens"
         }
       ],
       "correctAnswers": [
@@ -4764,20 +4636,16 @@
       "text": "Was sollte im siebenten Jahr (Sabbatjahr) mit dem Ackerland geschehen?",
       "options": [
         {
-          "text": "Es sollte doppelt besät und erntet werden",
-          "explanation": ""
+          "text": "Es sollte doppelt besät und erntet werden"
         },
         {
-          "text": "Es musste an Fremdlinge verpachtet werden",
-          "explanation": ""
+          "text": "Es musste an fremde Bauern verpachtet werden"
         },
         {
-          "text": "Der Ertrag gehörte allein dem König des Landes",
-          "explanation": ""
+          "text": "Der Ertrag gehörte allein den Priestern im Hof"
         },
         {
-          "text": "Das Land sollte einen Sabbat der Ruhe halten",
-          "explanation": ""
+          "text": "Das Erdland soll einen Sabbat der Ruhe haben"
         }
       ],
       "correctAnswers": [
@@ -5181,23 +5049,19 @@
     {
       "questionId": "lev_175",
       "type": "single_choice",
-      "text": "Welcher Teil des Ertrages von Samen, Früchten und Vieh gehörte als Zehnter dem HERRN?",
+      "text": "Welcher Teil von der Saat des Erdlandes, Früchten und Vieh gehörte als Zehnter dem HERRN?",
       "options": [
         {
-          "text": "Jeder fünfte Teil des gesamten Jahresertrags",
-          "explanation": ""
+          "text": "Jeder fünfte Teil des gesamten Jahresertrags"
         },
         {
-          "text": "Jeder zehnte Teil des Landes und des Viehs",
-          "explanation": ""
+          "text": "Jeder zehnte Teil des Erdlandes und des Viehs"
         },
         {
-          "text": "Der zwanzigste Teil der Getreideernte",
-          "explanation": ""
+          "text": "Der zwanzigste Teil der geernteten Früchte"
         },
         {
-          "text": "Nur der Erstling der Rinder- und Schafherden",
-          "explanation": ""
+          "text": "Nur der Erstling der Rinder- und Schafherden"
         }
       ],
       "correctAnswers": [

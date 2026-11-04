@@ -23,23 +23,19 @@
       "questionId": "lev_001",
       "type": "single_choice",
       "difficulty": "easy",
-      "text": "From what holy place did the LORD call unto Moses to give him the laws of the offerings?",
+      "text": "From what place did the LORD call unto Moses, and spake unto him?",
       "options": [
         {
-          "text": "From the burning summit of Mount Sinai",
-          "explanation": ""
+          "text": "From the burning summit of Mount Sinai"
         },
         {
-          "text": "Out of the midst of the flaming bush",
-          "explanation": ""
+          "text": "Out of the midst of the flaming bush"
         },
         {
-          "text": "Out of the tabernacle of the congregation",
-          "explanation": ""
+          "text": "Out of the tabernacle of the congregation"
         },
         {
-          "text": "Before the gates of the camp by the altar",
-          "explanation": ""
+          "text": "Before the gates of the camp by the altar"
         }
       ],
       "correctAnswers": [
@@ -53,23 +49,19 @@
       "questionId": "lev_002",
       "type": "single_choice",
       "difficulty": "medium",
-      "text": "What requirement did the law specify for cattle brought as a burnt sacrifice unto the LORD?",
+      "text": "What cattle was a man commanded to offer for a burnt sacrifice unto the LORD?",
       "options": [
         {
-          "text": "It had to be a male without any blemish",
-          "explanation": ""
+          "text": "A male without blemish from the herd"
         },
         {
-          "text": "It had to be a young female heifer of the herd",
-          "explanation": ""
+          "text": "A female heifer of three years of age"
         },
         {
-          "text": "It had to be at least three full years of age",
-          "explanation": ""
+          "text": "A young suckling calf without any spot"
         },
         {
-          "text": "It had to be born within the court of the tabernacle",
-          "explanation": ""
+          "text": "A firstling heifer born in the holy camp"
         }
       ],
       "correctAnswers": [
@@ -83,23 +75,19 @@
       "questionId": "lev_003",
       "type": "single_choice",
       "difficulty": "medium",
-      "text": "What was the offerer required to do with his hand before the burnt sacrifice was killed?",
+      "text": "What was the offerer to do before the burnt sacrifice was killed?",
       "options": [
         {
-          "text": "Wash the animal three times with pure water",
-          "explanation": ""
+          "text": "Wash the beast three times with pure water"
         },
         {
-          "text": "Put his hand upon the head of the burnt offering",
-          "explanation": ""
+          "text": "Put his hand upon the head of the burnt offering"
         },
         {
-          "text": "Anoint the horns of the beast with holy oil",
-          "explanation": ""
+          "text": "Anoint the two horns of the beast with holy oil"
         },
         {
-          "text": "Bind the mouth of the animal with clean linen",
-          "explanation": ""
+          "text": "Bind the mouth of the sacrifice with clean cords"
         }
       ],
       "correctAnswers": [
@@ -113,23 +101,19 @@
       "questionId": "lev_004",
       "type": "single_choice",
       "difficulty": "medium",
-      "text": "Where were Aaron's sons, the priests, commanded to sprinkle the blood of the burnt offering?",
+      "text": "Where were Aaron's sons commanded to sprinkle the blood of the burnt offering?",
       "options": [
         {
-          "text": "Upon the golden altar of incense in the tent",
-          "explanation": ""
+          "text": "Upon the golden altar within the holy place"
         },
         {
-          "text": "Upon the open ground outside the holy camp",
-          "explanation": ""
+          "text": "Upon the open ground outside the holy camp"
         },
         {
-          "text": "Round about upon the altar by the door of the tent",
-          "explanation": ""
+          "text": "Round about upon the altar by the tabernacle door"
         },
         {
-          "text": "Upon the white garments worn by the high priest",
-          "explanation": ""
+          "text": "Upon the white garments worn by the high priest"
         }
       ],
       "correctAnswers": [
@@ -143,23 +127,19 @@
       "questionId": "lev_005",
       "type": "single_choice",
       "difficulty": "medium",
-      "text": "Which parts of the burnt sacrifice had to be washed in water before being burnt on the altar?",
+      "text": "Which parts of the burnt sacrifice were to be washed in water?",
       "options": [
         {
-          "text": "The head and the thick fat of the breast",
-          "explanation": ""
+          "text": "Only the head and the fat pieces thereof"
         },
         {
-          "text": "The hide and the four hooves of the animal",
-          "explanation": ""
+          "text": "The entire skin and all the outward meat"
         },
         {
-          "text": "The liver and the two kidneys with the caul",
-          "explanation": ""
+          "text": "Only the place of slaughter at the throat"
         },
         {
-          "text": "His inwards and his legs of the sacrificial beast",
-          "explanation": ""
+          "text": "His inwards and his legs shall he wash"
         }
       ],
       "correctAnswers": [
@@ -173,23 +153,19 @@
       "questionId": "lev_006",
       "type": "single_choice",
       "difficulty": "medium",
-      "text": "Which fowls was a poor man permitted to bring as an acceptable burnt offering unto the LORD?",
+      "text": "Which fowls was a man permitted to bring for a burnt offering unto the LORD?",
       "options": [
         {
-          "text": "Turtledoves, or young pigeons of the field",
-          "explanation": ""
+          "text": "Sparrows, or wild fowls of the hills"
         },
         {
-          "text": "Young eagles, or wild ravens of the valley",
-          "explanation": ""
+          "text": "Turtledoves, or young pigeons"
         },
         {
-          "text": "Clean quails, or young sparrows from the hedge",
-          "explanation": ""
+          "text": "Quails, or partridges from the fields"
         },
         {
-          "text": "White doves, or clean partridges of the hill",
-          "explanation": ""
+          "text": "Swallows, or white birds of the brook"
         }
       ],
       "correctAnswers": [
@@ -263,23 +239,19 @@
       "questionId": "lev_009",
       "type": "single_choice",
       "difficulty": "easy",
-      "text": "What portion of the meat offering did the priest take to burn as a memorial upon the altar?",
+      "text": "What portion of the meat offering was the priest to burn as a memorial upon the altar?",
       "options": [
         {
-          "text": "The entire offering mixed with all the oil",
-          "explanation": ""
+          "text": "All of the fine flour mingled with the oil"
         },
         {
-          "text": "Exactly half of the flour and all of the salt",
-          "explanation": ""
+          "text": "Only the frankincense without any flour or oil"
         },
         {
-          "text": "A third part of the fine meal and the herbs",
-          "explanation": ""
+          "text": "The half of the flour with all leavened bread"
         },
         {
-          "text": "A handful of the flour, of the oil, and all the incense",
-          "explanation": ""
+          "text": "His handful of the flour, of the oil, and all frankincense"
         }
       ],
       "correctAnswers": [
@@ -536,20 +508,16 @@
       "text": "How does the law describe the fat of the peace offering burnt by the priest upon the altar?",
       "options": [
         {
-          "text": "It is the food of the offering made by fire unto the LORD",
-          "explanation": ""
+          "text": "It is the food of the offering made by fire unto the LORD"
         },
         {
-          "text": "It is a sacred gift belonging entirely to the common poor",
-          "explanation": ""
+          "text": "It is a sacred gift belonging entirely to the common poor"
         },
         {
-          "text": "It is an earthly token reserved for the judges of the tribes",
-          "explanation": ""
+          "text": "It is an earthly token reserved for the judges of tribes"
         },
         {
-          "text": "It is a memorial share given unto the keeper of the court",
-          "explanation": ""
+          "text": "It is a memorial share given unto the keeper of the court"
         }
       ],
       "correctAnswers": [
@@ -623,23 +591,19 @@
       "questionId": "lev_021",
       "type": "single_choice",
       "difficulty": "hard",
-      "text": "For what kind of transgressions against the commandments of the LORD was the sin offering prescribed?",
+      "text": "For what manner of sin was the sin offering prescribed in Leviticus 4:2?",
       "options": [
         {
-          "text": "For deliberate rebellion against the civil rulers",
-          "explanation": ""
+          "text": "For deliberate rebellion against the civil rulers"
         },
         {
-          "text": "For willful blasphemy committed in open public",
-          "explanation": ""
+          "text": "For willful blasphemy committed in open public"
         },
         {
-          "text": "For violent robbery committed against a neighbor",
-          "explanation": ""
+          "text": "For violent robbery committed against a neighbor"
         },
         {
-          "text": "If a soul shall sin through ignorance against any command",
-          "explanation": ""
+          "text": "If a soul shall sin through ignorance against commands"
         }
       ],
       "correctAnswers": [
@@ -1196,20 +1160,16 @@
       "text": "Under what condition was the flesh of a sin offering STRICTLY forbidden to be eaten?",
       "options": [
         {
-          "text": "If the sacrificial beast was a female sheep of the fold",
-          "explanation": ""
+          "text": "If the sacrificial beast was a female sheep of the fold"
         },
         {
-          "text": "If the offering was brought upon a common working day",
-          "explanation": ""
+          "text": "If the offering was brought upon a common working day"
         },
         {
-          "text": "If the offerer was not a native-born son of the tribe of Levi",
-          "explanation": ""
+          "text": "If the offerer was not a native-born son of the tribe of Levi"
         },
         {
-          "text": "Whereof any of the blood is brought into the tabernacle to reconcile",
-          "explanation": ""
+          "text": "Whereof any blood is brought into the tabernacle to reconcile"
         }
       ],
       "correctAnswers": [
@@ -3173,23 +3133,19 @@
       "questionId": "lev_108",
       "type": "single_choice",
       "difficulty": "medium",
-      "text": "What did Aaron cast upon the two goats presented before the door of the tabernacle?",
+      "text": "What did Aaron cast upon the two goats before the door of the tabernacle?",
       "options": [
         {
-          "text": "He sprinkled them with oil and marked their left horns",
-          "explanation": ""
+          "text": "He sprinkled them with oil and marked their left horns"
         },
         {
-          "text": "He divided them according to their age and bodily size",
-          "explanation": ""
+          "text": "He divided them according to their age and bodily size"
         },
         {
-          "text": "Aaron shall cast lots: one for the LORD, and the other for the scapegoat",
-          "explanation": ""
+          "text": "Lots: one for the LORD, and the other for the scapegoat"
         },
         {
-          "text": "He appointed the older for sacrifice and the younger for food",
-          "explanation": ""
+          "text": "He appointed one for a burnt beast and one for a feast"
         }
       ],
       "correctAnswers": [
@@ -3203,23 +3159,19 @@
       "questionId": "lev_109",
       "type": "single_choice",
       "difficulty": "easy",
-      "text": "What did the high priest do with the live goat upon whose head the lot fell for the scapegoat?",
+      "text": "What did Aaron do with the live goat upon which the lot fell for the scapegoat?",
       "options": [
         {
-          "text": "He slew it at the door and burnt its inward fat on the altar",
-          "explanation": ""
+          "text": "He slew it at the door and burnt the inward fat on the altar"
         },
         {
-          "text": "He gave it unto the princes of the tribes for a memorial gift",
-          "explanation": ""
+          "text": "He gave it unto the elders of Israel for a memorial offering"
         },
         {
-          "text": "He marked it with red thread and placed it within the tent court",
-          "explanation": ""
+          "text": "He marked both horns with red thread and kept it in the court"
         },
         {
-          "text": "Lay both his hands upon its head, confess all iniquities, and send him away",
-          "explanation": ""
+          "text": "Lay both hands upon his head, and confess all their iniquities"
         }
       ],
       "correctAnswers": [
@@ -3233,23 +3185,19 @@
       "questionId": "lev_110",
       "type": "single_choice",
       "difficulty": "easy",
-      "text": "With what did Aaron cover the mercy seat in the most holy place, that he die not?",
+      "text": "With what was Aaron to cover the mercy seat within the vail, that he die not?",
       "options": [
         {
-          "text": "The cloud of the incense may cover the mercy seat",
-          "explanation": ""
+          "text": "With the cloud of the holy incense"
         },
         {
-          "text": "A heavy veil of blue and purple linen woven by craftsmen",
-          "explanation": ""
+          "text": "With the blue robe of the sanctuary"
         },
         {
-          "text": "A golden shield held before his eyes with his left hand",
-          "explanation": ""
+          "text": "With the linen veil of the holy tent"
         },
         {
-          "text": "The fresh blood of the bullock poured over the golden cherubim",
-          "explanation": ""
+          "text": "With a golden shield held in his hand"
         }
       ],
       "correctAnswers": [
@@ -3263,23 +3211,19 @@
       "questionId": "lev_111",
       "type": "single_choice",
       "difficulty": "hard",
-      "text": "How many times did Aaron sprinkle the blood of the bullock with his finger before the mercy seat?",
+      "text": "How was Aaron to sprinkle the blood of the bullock upon and before the mercy seat?",
       "options": [
         {
-          "text": "Three times upon the golden horns of the chest",
-          "explanation": ""
+          "text": "Three times upon the golden horns of the ark"
         },
         {
-          "text": "Seven times with his finger before the mercy seat",
-          "explanation": ""
+          "text": "Once upon the seat and seven times before it"
         },
         {
-          "text": "Twelve times facing toward the four quarters of heaven",
-          "explanation": ""
+          "text": "Twelve times toward the four winds of heaven"
         },
         {
-          "text": "Once only upon the center between the two cherubim",
-          "explanation": ""
+          "text": "Twenty and four times along the inner border"
         }
       ],
       "correctAnswers": [
@@ -3683,23 +3627,19 @@
       "questionId": "lev_125",
       "type": "single_choice",
       "difficulty": "medium",
-      "text": "How does the Word of God designate lying with mankind as with womankind?",
+      "text": "How does the law designate lying with mankind as with womankind?",
       "options": [
         {
-          "text": "As an excusable lack of divine understanding",
-          "explanation": ""
+          "text": "As a slight trespass requiring only a small fine"
         },
         {
-          "text": "As a heathen custom incurring no punishment",
-          "explanation": ""
+          "text": "As a foreign heathen custom incurring no judgment"
         },
         {
-          "text": "As a natural infirmity that needed healing",
-          "explanation": ""
+          "text": "As a bodily infirmity that demanded purification"
         },
         {
-          "text": "As a grievous abomination before the LORD",
-          "explanation": ""
+          "text": "It is an abomination before the holy LORD our God"
         }
       ],
       "correctAnswers": [
@@ -4403,23 +4343,19 @@
       "questionId": "lev_149",
       "type": "single_choice",
       "difficulty": "easy",
-      "text": "What humane commandment concerning cattle did the law establish regarding slaughtering?",
+      "text": "What did the law forbid concerning a cow or ewe and her young in Leviticus 22:28?",
       "options": [
         {
-          "text": "No beast could be slain during the dry season of year",
-          "explanation": ""
+          "text": "Ye shall not separate the young beast from the mother"
         },
         {
-          "text": "Beasts had to be fed with grain before being killed",
-          "explanation": ""
+          "text": "Ye shall not let the young beast die before its mother"
         },
         {
-          "text": "Wild animals could not be hunted within the holy camp",
-          "explanation": ""
+          "text": "Ye shall not release the mother alone into open field"
         },
         {
-          "text": "Ye shall not kill it and her young both in one day",
-          "explanation": ""
+          "text": "Ye shall not kill it and her young both in one day"
         }
       ],
       "correctAnswers": [
@@ -4493,23 +4429,19 @@
       "questionId": "lev_152",
       "type": "single_choice",
       "difficulty": "medium",
-      "text": "What solemn observance took place on the first day of the seventh month?",
+      "text": "What was to be observed on the first day of the seventh month?",
       "options": [
         {
-          "text": "The feast of unleavened bread kept for seven days",
-          "explanation": ""
+          "text": "The feast of unleavened bread kept seven days"
         },
         {
-          "text": "The feast of tabernacles with palm tree branches",
-          "explanation": ""
+          "text": "The feast of tabernacles with palm tree boughs"
         },
         {
-          "text": "A sabbath memorial of blowing of holy trumpets",
-          "explanation": ""
+          "text": "A sabbath, a memorial of blowing of trumpets"
         },
         {
-          "text": "The annual shearing of all sheep in the pastures",
-          "explanation": ""
+          "text": "The feast of weeks with loaves of fine flour"
         }
       ],
       "correctAnswers": [
