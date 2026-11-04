@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-11-04T17:34:42Z",
+  "lastUpdated": "2026-11-04T17:49:38Z",
   "language": "en",
   "categories": [
     {
@@ -101,6 +101,25 @@
       ],
       "sizeBytes": 152123,
       "downloadUrl": "./en/03_3_mose.json"
+    },
+    {
+      "quizId": "bibel_04_4_mose_en",
+      "category": "gesetz",
+      "title": "Numbers",
+      "subtitle": "Numbers 1:1 – 36:13 (246 Questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 246,
+      "difficulty": "medium",
+      "tags": [
+        "Numbers",
+        "OT",
+        "law",
+        "KJV"
+      ],
+      "sizeBytes": 220105,
+      "downloadUrl": "./en/04_4_mose.json"
     }
   ]
 }
