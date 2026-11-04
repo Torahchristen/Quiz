@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-11-04T22:14:07Z",
+  "lastUpdated": "2026-11-04T22:17:09Z",
   "language": "en",
   "categories": [
     {
@@ -446,6 +446,26 @@
       ],
       "sizeBytes": 40734,
       "downloadUrl": "./en/21_prediger.json"
+    },
+    {
+      "quizId": "bibel_22_hohelied_en",
+      "category": "weisheit",
+      "title": "Song of Solomon",
+      "subtitle": "Song of Solomon 1:1 – 8:14 (26 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "1.0.0",
+      "questionCount": 26,
+      "difficulty": "medium",
+      "tags": [
+        "Song of Solomon",
+        "OT",
+        "wisdom",
+        "poetry",
+        "KJV"
+      ],
+      "sizeBytes": 24640,
+      "downloadUrl": "./en/22_hohelied.json"
     }
   ]
 }

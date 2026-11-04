@@ -1,0 +1,908 @@
+{
+  "metadata": {
+    "quizId": "bibel_22_hohelied_en",
+    "title": "Song of Solomon",
+    "subtitle": "Song of Solomon 1:1 – 8:14 (26 questions)",
+    "author": "King James Version (1769)",
+    "version": "1.0.0",
+    "language": "en",
+    "category": "weisheit",
+    "difficulty": "medium",
+    "tags": [
+      "Song of Solomon",
+      "OT",
+      "wisdom",
+      "poetry",
+      "KJV"
+    ],
+    "questionCount": 26,
+    "canonicalBookNumber": 22,
+    "testament": "OT"
+  },
+  "questions": [
+    {
+      "questionId": "hld_001",
+      "type": "single_choice",
+      "text": "What is better than wine according to Song of Solomon 1:2?",
+      "options": [
+        {
+          "text": "The fine gold of the king",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The sweet scent of cedars",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Thy love is better than wine",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The favour of all princes",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Song of Solomon 1:2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hld_002",
+      "type": "single_choice",
+      "text": "How doth the bride describe herself in Song of Solomon 1:5?",
+      "options": [
+        {
+          "text": "White as the snow upon Mount Hermon, yet exceeding comely",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Red as royal purple from Tyrus, yet exceeding comely",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Glistering as temple gold of Jerusalem, yet exceeding comely",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I am black, but comely, as the tents of Kedar, curtains of Solomon",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Song of Solomon 1:5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hld_003",
+      "type": "single_choice",
+      "text": "With what doth the bridegroom compare his love in Song of Solomon 2:2?",
+      "options": [
+        {
+          "text": "As the lily among thorns, so is my love",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "As a green cedar upon the high mountains",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As a fair flock of sheep by quiet brooks",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As a strong tower built upon a high crag",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Song of Solomon 2:2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hld_004",
+      "type": "single_choice",
+      "text": "Whom should one take according to Song of Solomon 2:15?",
+      "options": [
+        {
+          "text": "The fowls of the air that eat the ripening grapes",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The foxes, the little foxes, that spoil the vines",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The robbers by the way that strip the vineyards",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The strange shepherds that drive their herds within",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Song of Solomon 2:15",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hld_005",
+      "type": "single_choice",
+      "text": "When and where doth the bride seek her beloved in Song of Solomon 3:1?",
+      "options": [
+        {
+          "text": "In the garden in the morning",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In the royal palace of kings",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By night on my bed I sought him",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "At the quiet springs of sheep",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Song of Solomon 3:1-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hld_006",
+      "type": "single_choice",
+      "text": "What cometh out of the wilderness like pillars of smoke in Song of Solomon 3:6-7?",
+      "options": [
+        {
+          "text": "A royal host with chariots and many swift horsemen",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A holy procession with priests and fragrant incense",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A merchant caravan with precious spices from afar",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The bed of Solomon, with threescore valiant men about it",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Song of Solomon 3:6-7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hld_007",
+      "type": "single_choice",
+      "text": "With what images is the bride described in Song of Solomon 4:12?",
+      "options": [
+        {
+          "text": "A garden inclosed, a spring shut up, a fountain sealed",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A fruitful field, a well of living waters in valley",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A high fortress, a golden palace upon Mount Zion",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A green olive tree, a fruitful vineyard on the hill",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Song of Solomon 4:12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hld_008",
+      "type": "single_choice",
+      "text": "What happened in Song of Solomon 5:6 when the bride opened to her beloved?",
+      "options": [
+        {
+          "text": "He was standing at the door",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He had withdrawn and was gone",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He was sleeping by the lodge",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He was weeping in the garden",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Song of Solomon 5:2-6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hld_009",
+      "type": "single_choice",
+      "text": "What did the watchmen do unto the bride in Song of Solomon 5:7?",
+      "options": [
+        {
+          "text": "They led her in peace unto the king's royal palace",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They questioned her closely concerning her kindred",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They smote me, they wounded me; took away my veil",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "They mocked her saying: Whither is thy beloved gone",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Song of Solomon 5:7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hld_010",
+      "type": "single_choice",
+      "text": "By what name is the bride called in Song of Solomon 6:13?",
+      "options": [
+        {
+          "text": "Miriam",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Abigail",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Tirzah",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Shulamite",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Song of Solomon 6:13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hld_011",
+      "type": "single_choice",
+      "text": "With what celestial images is the bride compared in Song of Solomon 6:10?",
+      "options": [
+        {
+          "text": "As the morning, fair as the moon, clear as the sun",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "As the bright evening star, glorious as constellations",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As the shining sun in his strength, bright as silver",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As the clouds of heaven, glittering as the lightning",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Song of Solomon 6:10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hld_012",
+      "type": "single_choice",
+      "text": "How strong is love according to Song of Solomon 8:6?",
+      "options": [
+        {
+          "text": "Stronger than the mountains",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For love is strong as death",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Mightier than raging floods",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "More durable than temple brass",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Song of Solomon 8:6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hld_013",
+      "type": "single_choice",
+      "text": "What can NOT quench love according to Song of Solomon 8:7?",
+      "options": [
+        {
+          "text": "Fierce wrath",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Bitter hatred",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Many waters",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Heavy sorrows",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Song of Solomon 8:7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hld_014",
+      "type": "single_choice",
+      "text": "Unto what is the bride's stature compared in Song of Solomon 7:7?",
+      "options": [
+        {
+          "text": "Unto a fruitful vine",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto a green fir tree",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto a tall cedar tree",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Like to a palm tree",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Song of Solomon 7:7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hld_015",
+      "type": "single_choice",
+      "text": "What doth the bride propose to her beloved in Song of Solomon 7:12?",
+      "options": [
+        {
+          "text": "Let us get up early to the vineyards",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "To hasten unto the springs of waters",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To go into the palace of the monarch",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To visit the flocks upon the pastures",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Song of Solomon 7:12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hld_016",
+      "type": "single_choice",
+      "text": "What wish doth the bride express in Song of Solomon 8:1?",
+      "options": [
+        {
+          "text": "That he were a king reigning over all the earth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "O that thou wert as my brother that sucked",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "That he possessed countless treasures of gold",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That they dwelt alone in the highest mountains",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Song of Solomon 8:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hld_017",
+      "type": "single_choice",
+      "text": "Unto what doth the bride exhort her beloved at the close in Song of Solomon 8:14?",
+      "options": [
+        {
+          "text": "To sing as a turtledove in the rocky clefts",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To feed as a gentle lamb upon green pastures",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Be thou like to a roe on mountains of spices",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "To rest as a lion in the quiet forest shade",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Song of Solomon 8:14",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hld_018",
+      "type": "single_choice",
+      "text": "What would happen if a man gave all the substance of his house for love in Song of Solomon 8:7?",
+      "options": [
+        {
+          "text": "He would win her great favour",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He would find a rich recompense",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He would be honoured by princes",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It would utterly be contemned",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Song of Solomon 8:7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hld_019",
+      "type": "single_choice",
+      "text": "Which precious spices are named in the garden of Song of Solomon 4:13-14?",
+      "options": [
+        {
+          "text": "Spikenard and saffron, calamus and cinnamon",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Myrrh and frankincense, cassia and balsam",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Aloes and sweet cane, coriander and cumin",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Rose of Sharon, lily of valleys, and myrrh",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Song of Solomon 4:13-14",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hld_020",
+      "type": "single_choice",
+      "text": "Unto which city is the bride's beauty compared in Song of Solomon 6:4?",
+      "options": [
+        {
+          "text": "As Shiloh",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As Tirzah",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "As Shechem",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As Hebron",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Song of Solomon 6:4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hld_021",
+      "type": "single_choice",
+      "text": "Concerning what doth the bride enquire in Song of Solomon 1:7?",
+      "options": [
+        {
+          "text": "Where thou feedest, where thou makest to rest at noon",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Where thou gatherest thy flock in the early morning",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Whither thou hastest at evening before night falleth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "When thou leadest thy cattle unto the city fountain",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Song of Solomon 1:7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hld_022",
+      "type": "single_choice",
+      "text": "What call doth the beloved address to the bride in Song of Solomon 2:10?",
+      "options": [
+        {
+          "text": "Remain hidden in thy secret chamber of rest",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Rise up, my love, my fair one, and come away",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Prepare the royal feast in the house of father",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Tend thy young flock beside the shepherds' tents",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Song of Solomon 2:10-13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hld_023",
+      "type": "single_choice",
+      "text": "Whereof did king Solomon make himself a chariot in Song of Solomon 3:9-10?",
+      "options": [
+        {
+          "text": "Of cypress wood with ivory carved upon the door posts",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Of bronze and polished ivory with little silver bells",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Of the wood of Lebanon with silver pillars, gold bottom",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Of shittim wood with costly carvings from craftsmen",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Song of Solomon 3:9-10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hld_024",
+      "type": "single_choice",
+      "text": "What doth the bride call upon the winds to do in Song of Solomon 4:16?",
+      "options": [
+        {
+          "text": "Depart from me, ye winds, that my garden wither not",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Be still, ye tempests, that the tall cedars break not",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Carry my complaint far away unto the gates of Damascus",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Blow upon my garden, that the spices thereof may flow",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Song of Solomon 4:16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hld_025",
+      "type": "single_choice",
+      "text": "How doth the bride praise her beloved in Song of Solomon 5:10?",
+      "options": [
+        {
+          "text": "My beloved is white and ruddy, chiefest among ten thousand",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A victorious warrior whose sharp sword turneth not back",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A royal prince whose glorious treasures are unsearchable",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A righteous judge who sitteth upon the throne of David",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Song of Solomon 5:10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hld_026",
+      "type": "single_choice",
+      "text": "What confession doth the bride make in Song of Solomon 6:3?",
+      "options": [
+        {
+          "text": "My beloved is king, and I am his humble handmaid",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I am my beloved’s, and my beloved is mine in truth",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "I have received more gold than all maidens in palace",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Springtime abideth for ever in our fruitful vineyard",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Song of Solomon 6:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    }
+  ]
+}
