@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-11-04T20:50:21Z",
+  "lastUpdated": "2026-11-04T20:56:07Z",
   "language": "en",
   "categories": [
     {
@@ -253,6 +253,25 @@
       ],
       "sizeBytes": 60989,
       "downloadUrl": "./en/11_1_koenige.json"
+    },
+    {
+      "quizId": "bibel_12_2_koenige_en",
+      "category": "geschichte",
+      "title": "2 Kings",
+      "subtitle": "2 Kings 1:1 – 25:30 (77 Questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 77,
+      "difficulty": "medium",
+      "tags": [
+        "2 Kings",
+        "OT",
+        "history",
+        "KJV"
+      ],
+      "sizeBytes": 69074,
+      "downloadUrl": "./en/12_2_koenige.json"
     }
   ]
 }
