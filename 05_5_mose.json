@@ -24,20 +24,16 @@
       "text": "Wo befand sich das Volk Israel, als Mose ihm die Worte des fünften Buches vortrug?",
       "options": [
         {
-          "text": "Am Fuß des rauchenden Berges Sinai in der Einöde",
-          "explanation": ""
+          "text": "Am Fuß des rauchenden Berges Sinai in der Wüste"
         },
         {
-          "text": "In den Ebenen Moabs jenseits des Jordans in der Wüste",
-          "explanation": ""
+          "text": "Im Erdlande der Moabiter diesseits des Jordans"
         },
         {
-          "text": "Vor den Toren der befestigten Festungsstadt Jericho",
-          "explanation": ""
+          "text": "Vor den Toren der befestigten Königsstadt Jericho"
         },
         {
-          "text": "In der Oase Kadesch-Barnea an der Grenze Edoms",
-          "explanation": ""
+          "text": "In der Oase Kadesch-Barnea an den Grenzen Edoms"
         }
       ],
       "correctAnswers": [
@@ -51,23 +47,19 @@
     {
       "questionId": "dtn_002",
       "type": "single_choice",
-      "text": "An welchem Ort gebot Gott den Israeliten zum ersten Mal, den Aufbruch ins verheißene Land zu wagen?",
+      "text": "An welchem Ort gebot der HERR den Israeliten, ins Erdland der Kanaaniter aufzubrechen?",
       "options": [
         {
-          "text": "In der Wüste Paran nach dem Tode der Seher",
-          "explanation": ""
+          "text": "In der Wüste Paran nach dem Tode der Seher"
         },
         {
-          "text": "In den fruchtbaren Oasen des Landes Midian",
-          "explanation": ""
+          "text": "In den fruchtbaren Oasen des Landes Midian"
         },
         {
-          "text": "Am Berg Horeb nach der Verweildauer im Lager",
-          "explanation": ""
+          "text": "Am Berge Horeb nach der Verweildauer im Lager"
         },
         {
-          "text": "Vor den Grenzen des kriegerischen Reiches Edom",
-          "explanation": ""
+          "text": "Vor den Grenzen des kriegerischen Reiches Edom"
         }
       ],
       "correctAnswers": [
@@ -84,20 +76,16 @@
       "text": "Was beklagte Mose vor dem Volk bezüglich seiner alleinigen Leitungsverantwortung am Sinai?",
       "options": [
         {
-          "text": "Dass das Volk kein Manna mehr essen wollte und ständig murrte",
-          "explanation": ""
+          "text": "Dass das Volk kein Manna mehr essen wollte und murrte"
         },
         {
-          "text": "Dass die Stammesfürsten ihm das Gold für das Heiligtum verweigerten",
-          "explanation": ""
+          "text": "Dass die Stammesfürsten ihm das Gold verweigerten"
         },
         {
-          "text": "Dass die Feinde das Zelt der Begegnung ständig angriffen",
-          "explanation": ""
+          "text": "Dass die Feinde die Stiftshütte im Lager angriffen"
         },
         {
-          "text": "Dass er die Mühe und Streitigkeiten nicht allein tragen konnte",
-          "explanation": ""
+          "text": "Dass er die Mühe und Streitigkeiten nicht allein trug"
         }
       ],
       "correctAnswers": [
@@ -141,7 +129,7 @@
     {
       "questionId": "dtn_005",
       "type": "single_choice",
-      "text": "Wie viele Männer wurden von Kadesch-Barnea aus entsandt, um das Land Kanaan zu erkunden?",
+      "text": "Wie viele Männer wurden entsandt, um das Erdland Kanaan zu erkunden?",
       "options": [
         {
           "text": "Genau siebzig Älteste aus den Väterhäusern",
@@ -171,23 +159,19 @@
     {
       "questionId": "dtn_006",
       "type": "single_choice",
-      "text": "Was brachten die Kundschafter als Gegenstand aus dem Land Kanaan mit ins Lager zurück?",
+      "text": "Was brachten die Männer als Früchte aus dem Erdland Kanaan mit ins Lager zurück?",
       "options": [
         {
-          "text": "Einen goldenen Becher aus den Häusern der Riesen",
-          "explanation": ""
+          "text": "Einen goldenen Becher aus den Häusern der Riesen"
         },
         {
-          "text": "Eine eiserne Rüstung der königlichen Wachen",
-          "explanation": ""
+          "text": "Eine eiserne Rüstung der königlichen Wachen"
         },
         {
-          "text": "Früchte des Landes und den Bericht von seiner Güte",
-          "explanation": ""
+          "text": "Früchte des Erdlandes und den Bericht seiner Güte"
         },
         {
-          "text": "Einen Bauplan der Befestigungsmauern von Jericho",
-          "explanation": ""
+          "text": "Einen Bauplan der Befestigungsmauern von Jericho"
         }
       ],
       "correctAnswers": [
@@ -204,20 +188,16 @@
       "text": "Welcher Strafentscheid erging von Gott über die ungläubige Generation nach dem Murren in Kadesch?",
       "options": [
         {
-          "text": "Sie mussten sofort als Knechte nach Ägypten zurück",
-          "explanation": ""
+          "text": "Sie mussten sofort als Knechte nach Ägypten zurückkehren"
         },
         {
-          "text": "Sie wurden zur dreifachen Opferabgabe im Hof verpflichtet",
-          "explanation": ""
+          "text": "Sie wurden zur dreifachen Opferabgabe im Hof verpflichtet"
         },
         {
-          "text": "Sie wurden für vierzig Tage in die Wüste verbannt",
-          "explanation": ""
+          "text": "Sie wurden für vierzig Tage in die Wüste Paran verbannt"
         },
         {
-          "text": "Kein Mann dieser bösen Generation sieht das gute Land",
-          "explanation": ""
+          "text": "Kein Mann dieser bösen Generation sieht das gute Erdland"
         }
       ],
       "correctAnswers": [
@@ -264,20 +244,16 @@
       "text": "Warum untersagte Gott dem Volk Israel den Angriff auf das Gebiet der Moabiter (Ar)?",
       "options": [
         {
-          "text": "Weil die Moabiter ein gewaltiges Heer besaßen",
-          "explanation": ""
+          "text": "Weil die Moabiter ein unbesiegbares Kriegsheer besaßen"
         },
         {
-          "text": "Weil Er den Kindern Lots das Land zum Besitz gab",
-          "explanation": ""
+          "text": "Weil Er den Kindern Lots das Erdland zum Besitz gab"
         },
         {
-          "text": "Weil das Land völlig austrocknet und dürr war",
-          "explanation": ""
+          "text": "Weil das Erdland völlig ausgetrocknet und unfruchtbar war"
         },
         {
-          "text": "Weil der Seher Bileam das Heer beschützte",
-          "explanation": ""
+          "text": "Weil der Seher Bileam die Festung mit Flüchen beschützte"
         }
       ],
       "correctAnswers": [
@@ -324,20 +300,16 @@
       "text": "Welchem weiteren Volk durfte Israel bei der Durchreise ebenfalls KEIN Leid zufügen?",
       "options": [
         {
-          "text": "Den kriegerischen Kanaanitern im Tiefland",
-          "explanation": ""
+          "text": "Den kriegerischen Kanaanitern im Tal"
         },
         {
-          "text": "Den heidnischen Jebusitern auf dem Berge",
-          "explanation": ""
+          "text": "Den heidnischen Jebusitern auf Bergen"
         },
         {
-          "text": "Den Amalekitern an den Quellen des Wassers",
-          "explanation": ""
+          "text": "Den Amalekitern an den Quellen davor"
         },
         {
-          "text": "Den Söhnen Ammons im Ostjordanland",
-          "explanation": ""
+          "text": "Den Söhnen Ammons in ihrem Erdlande"
         }
       ],
       "correctAnswers": [
@@ -354,20 +326,16 @@
       "text": "Welcher amoritische König von Hesbon lehnte die Bitte um einen friedlichen Durchzug strikt ab?",
       "options": [
         {
-          "text": "König Sihon von Hesbon im Amoritertal",
-          "explanation": ""
+          "text": "König Sihon von Hesbon im Amoritertal"
         },
         {
-          "text": "König Og von Baschan auf den Höhen",
-          "explanation": ""
+          "text": "König Og von Basan auf den Höhenzügen"
         },
         {
-          "text": "König Balak von Moab aus den Städten",
-          "explanation": ""
+          "text": "König Balak von Moab aus den Städten"
         },
         {
-          "text": "König Arad aus dem Süden des Landes",
-          "explanation": ""
+          "text": "König Arad aus dem Süden des Erdlands"
         }
       ],
       "correctAnswers": [
@@ -561,7 +529,7 @@
     {
       "questionId": "dtn_019",
       "type": "single_choice",
-      "text": "Welchen Stämmen gab Mose das eroberte Land im Ostjordanland vom Arnon bis zum Hermon?",
+      "text": "An wen verteilte Mose das eroberte Erdland von Aroer am Bach Arnon?",
       "options": [
         {
           "text": "Den Stämmen Juda, Benjamin und Levi",
@@ -801,23 +769,19 @@
     {
       "questionId": "dtn_027",
       "type": "single_choice",
-      "text": "Was kündigte Mose dem Volk für den Fall eines künftigen Götzendienstes im Lande an?",
+      "text": "Was kündigte Mose dem Volk an, falls sie im Erdlande Götzendienst trieben?",
       "options": [
         {
-          "text": "Dass Er die Ernte des Landes für drei Jahre sperren werde",
-          "explanation": ""
+          "text": "Dass sie unter die heidnischen Völker zerstreut würden"
         },
         {
-          "text": "Dass das Zelt der Begegnung ins Meer geworfen würde",
-          "explanation": ""
+          "text": "Dass die Stiftshütte von feindlichen Kriegern verbrannt werde"
         },
         {
-          "text": "Dass alle Priester und Leviten ihr Leben verlören",
-          "explanation": ""
+          "text": "Dass eine siebenjährige Dürre alle Brunnen austrocknen würde"
         },
         {
-          "text": "Ihr werdet bald ausgerottet und unter Heiden zerstreut",
-          "explanation": ""
+          "text": "Dass sie wieder Knechte unter dem Pharao in Ägypten würden"
         }
       ],
       "correctAnswers": [
@@ -831,23 +795,19 @@
     {
       "questionId": "dtn_028",
       "type": "single_choice",
-      "text": "Wie viele Zufluchtsstädte sonderte Mose östlich des Jordans für Totschläger ab?",
+      "text": "Welche drei Freistädte sonderte Mose diesseits des Jordans im Ostland aus?",
       "options": [
         {
-          "text": "Genau drei Zufluchtsstädte im Ostjordanland",
-          "explanation": ""
+          "text": "Bezer in der Wildnis, Ramot in Gilead und Golan in Basan"
         },
         {
-          "text": "Genau sechs Städte im ganzen Ostland",
-          "explanation": ""
+          "text": "Hebron, Sichem und Kedesch in den Bergen von Galiläa"
         },
         {
-          "text": "Genau zwölf Städte für alle Stammessöhne",
-          "explanation": ""
+          "text": "Jericho, Hesbon und Aroer an den Ufern des Bachs Arnon"
         },
         {
-          "text": "Nur eine einzige Stadt im Reiche Ogs",
-          "explanation": ""
+          "text": "Dibon, Medeba und Kirjat-Huzot in den Steppen von Moab"
         }
       ],
       "correctAnswers": [
@@ -1161,7 +1121,7 @@
     {
       "questionId": "dtn_039",
       "type": "single_choice",
-      "text": "Vor welcher besonderen Gefahr warnte Mose das Volk beim Einzug in die ererbten Städte?",
+      "text": "Wovor warnte Mose das Volk, wenn es in das reiche Erdland kam?",
       "options": [
         {
           "text": "Vor den Giftnattern in den Tälern Kanaanitern",
@@ -1224,20 +1184,16 @@
       "text": "Was sollten die israelitischen Väter ihren Kindern antworten, wenn diese nach den Gesetzen fragten?",
       "options": [
         {
-          "text": "Dass die Gebote von den Ältesten erdacht wurden",
-          "explanation": ""
+          "text": "Wir waren Knechte; Gott führte uns ins verheißene Erdland"
         },
         {
-          "text": "Wir waren Knechte des Pharao und Gott befreite uns",
-          "explanation": ""
+          "text": "Wir haben diese Gesetze von unseren weisen Ahnen empfangen"
         },
         {
-          "text": "Dass nur die Priester das Gesetz verstehen können",
-          "explanation": ""
+          "text": "Die Richter und Ältesten haben diese Gebote einst beschlossen"
         },
         {
-          "text": "Dass die Gesetze den Wohlstand im Land garantieren",
-          "explanation": ""
+          "text": "Die Priester am Horeb haben sie für den Gottesdienst erfunden"
         }
       ],
       "correctAnswers": [
@@ -1281,7 +1237,7 @@
     {
       "questionId": "dtn_043",
       "type": "single_choice",
-      "text": "Wie viele kanaanitische Völker sollte Israel bei der Besitznahme des Landes vertreiben?",
+      "text": "Wie viele heidnische Völker sollte Israel im Erdlande Kanaan vertreiben?",
       "options": [
         {
           "text": "Genau drei Völker im Tal des Flusses Jordan",
@@ -1581,23 +1537,19 @@
     {
       "questionId": "dtn_053",
       "type": "single_choice",
-      "text": "Wie wird das verheißene Land Kanaan bezüglich seiner natürlichen Schätze beschrieben?",
+      "text": "Wie beschrieb Mose das gute Erdland, in das der HERR sie führen wollte?",
       "options": [
         {
-          "text": "Als ein Land voll goldener Sanddünen",
-          "explanation": ""
+          "text": "Ein Erdland von Bächen, Quellen, Weizen, Feigen und Erz"
         },
         {
-          "text": "Ein Land mit Bächen, Weizen, Weinstöcken und Eisen",
-          "explanation": ""
+          "text": "Ein ebenes Wüstenland mit tiefen Brunnen und Oasenpalmen"
         },
         {
-          "text": "Ein Land ohne jegliche Berge und Täter",
-          "explanation": ""
+          "text": "Ein Handelsland mit prächtigen Palästen und Goldminen"
         },
         {
-          "text": "Ein Land, das ausschließlich Wüstenöle hervorbringt",
-          "explanation": ""
+          "text": "Ein bewaldetes Bergland voller Weinberge und Zedernholz"
         }
       ],
       "correctAnswers": [
@@ -1764,20 +1716,16 @@
       "text": "Wie lange blieb Mose auf dem Berg Horeb ohne Brot und Wasser, um die Tafeln zu empfangen?",
       "options": [
         {
-          "text": "Genau sieben Tage und sieben Nächte im Rauch des Berges",
-          "explanation": ""
+          "text": "Genau sieben Tage und sieben Nächte im Rauch des Berges"
         },
         {
-          "text": "Zwölf Tage und Nächte lang im Zelt der Begegnung",
-          "explanation": ""
+          "text": "Zwölf Tage und zwölf Nächte lang in der Stiftshütte"
         },
         {
-          "text": "Dreißig Tage lang ohne Speise vor dem Angesicht Gottes",
-          "explanation": ""
+          "text": "Dreißig Tage lang ohne Speise vor dem Angesicht Gottes"
         },
         {
-          "text": "Vierzig Tage und vierzig Nächte ohne Speise und Trank",
-          "explanation": ""
+          "text": "Vierzig Tage und vierzig Nächte ohne Speise und Trank"
         }
       ],
       "correctAnswers": [
@@ -1944,20 +1892,16 @@
       "text": "Woraus fertigte Mose die heilige Lade zur Aufbewahrung der zwei neuen Tafeln?",
       "options": [
         {
-          "text": "Aus edlem Zedernholz vom Berge Libanon",
-          "explanation": ""
+          "text": "Aus edlem Zedernholz vom Berge Libanon"
         },
         {
-          "text": "Aus beständigem Akazienholz (Schittimholz)",
-          "explanation": ""
+          "text": "Aus Akazienholz, wie es geboten war"
         },
         {
-          "text": "Aus gegossenem purem Gold der Beute",
-          "explanation": ""
+          "text": "Aus gegossenem purem Gold der Beute"
         },
         {
-          "text": "Aus behauenem Granitstein der Wüste",
-          "explanation": ""
+          "text": "Aus behauenem Granitstein der Wüste"
         }
       ],
       "correctAnswers": [
@@ -2121,7 +2065,7 @@
     {
       "questionId": "dtn_071",
       "type": "single_choice",
-      "text": "Was sahen die Augen der Väter im Volk Israel im Gegensatz zu ihren Kindern?",
+      "text": "An welche Taten Gottes im Erdlande Ägypten erinnerte Mose die Väter?",
       "options": [
         {
           "text": "Den Bau der ersten Städte im verheißenen Land",
@@ -2151,7 +2095,7 @@
     {
       "questionId": "dtn_072",
       "type": "single_choice",
-      "text": "Womit verglich Mose das Land Ägypten im Gegensatz zum verheißenen Land Kanaan?",
+      "text": "Worin unterschied sich das Erdland Kanaan vom Erdlande Ägypten bei der Bewässerung?",
       "options": [
         {
           "text": "Mit einem Gemüsegarten, den man mit dem Fuß wässert",
@@ -2181,23 +2125,19 @@
     {
       "questionId": "dtn_073",
       "type": "single_choice",
-      "text": "Worauf richten sich die Augen des HERRN im verheißenen Land Kanaan beständig?",
+      "text": "Welche Fürsorge verhieß Gott für das Erdland vom Anfang bis zum Ende des Jahres?",
       "options": [
         {
-          "text": "Auf das Salböl auf dem Haupt des Hohepriesters im Hof",
-          "explanation": ""
+          "text": "Es sollte von allen feindlichen Heeren unberührt bleiben"
         },
         {
-          "text": "Vom Anfang des Jahres bis zum Ende des Jahres darauf",
-          "explanation": ""
+          "text": "Die Augen des HERRN stehen beständig auf diesem Erdlande"
         },
         {
-          "text": "Auf die festen Mauern der Städte des Stammes Juda",
-          "explanation": ""
+          "text": "Seine Kornspeicher sollten niemals von Mäusen befallen werden"
         },
         {
-          "text": "Ausschließlich während der drei großen Wallfahrtsfeste",
-          "explanation": ""
+          "text": "Die Quellen des Wassers sollten täglich süßen Wein hervorbringen"
         }
       ],
       "correctAnswers": [
@@ -2214,20 +2154,16 @@
       "text": "Welchen doppelten Regen sagte Gott Israel bei Gehorsam gegenüber Seinen Geboten zu?",
       "options": [
         {
-          "text": "Den Morgentau des Sommers und die Abendflut des Winters",
-          "explanation": ""
+          "text": "Einen ewigen Tau, der jede Nacht die Ernte feuchtet"
         },
         {
-          "text": "Den sanften Landregen und die gewaltigen Wüstenstürme",
-          "explanation": ""
+          "text": "Frühregen und Spätregen für das Erdland zu seiner Zeit"
         },
         {
-          "text": "Den Frühregen und den Spätregen zur rechten Zeit",
-          "explanation": ""
+          "text": "Quellwasser, das ohne Wolken aus der Tiefe strömt"
         },
         {
-          "text": "Den Schnee auf den Bergen und die Quelle im Tale",
-          "explanation": ""
+          "text": "Sanfte Frühlingsschauer an jedem Sabbat des Jahres"
         }
       ],
       "correctAnswers": [
@@ -2241,23 +2177,19 @@
     {
       "questionId": "dtn_075",
       "type": "single_choice",
-      "text": "Was drohte den Himmel über Israel zu verschließen, sodass KEIN Regen mehr fiel?",
+      "text": "Was drohte dem Volk, wenn es fremden Göttern diente, bezüglich des Erdlandes?",
       "options": [
         {
-          "text": "Der Streit der Stammesfürsten um das verheißene Land",
-          "explanation": ""
+          "text": "Der Himmel verschließt sich und das Erdland gibt keinen Ertrag"
         },
         {
-          "text": "Das Auslassen der täglichen Abgaben an die Leviten im Lande",
-          "explanation": ""
+          "text": "Fremde Herrscher würden sofort alle Städte und Brunnen besetzen"
         },
         {
-          "text": "Die Weigerung der Krieger, in den Kampf zu ziehen",
-          "explanation": ""
+          "text": "Eine schwere Plage giftiger Schlangen würde das Lager befallen"
         },
         {
-          "text": "Wenn ihr Herz verführt würde und sie fremden Göttern dienten",
-          "explanation": ""
+          "text": "Die Feinde würden alle Weinberge und Fruchtbäume niederbrennen"
         }
       ],
       "correctAnswers": [
@@ -2271,7 +2203,7 @@
     {
       "questionId": "dtn_076",
       "type": "single_choice",
-      "text": "Auf welchen zwei Bergen sollten der Segen und der Fluch im Lande verkündet werden?",
+      "text": "Was sollte Israel tun, wenn der HERR sie in das Erdland gebracht hatte?",
       "options": [
         {
           "text": "Den Segen auf dem Berg Gerizim, den Fluch auf dem Ebal",
@@ -2601,7 +2533,7 @@
     {
       "questionId": "dtn_087",
       "type": "single_choice",
-      "text": "Welches Verhalten war geboten, wenn der eigene leibliche Bruder heimlich zum Götzendienst verleiten wollte?",
+      "text": "Wer sollte gesteinigt werden, wenn er heimlich zum Abfall vom HERRN verführte?",
       "options": [
         {
           "text": "Man sollte die Sache vor der Familie verschweigen",
@@ -3024,20 +2956,16 @@
       "text": "Welche Verheißung gab Gott bezüglich der Armut, wenn das Volk den Geboten gehorchte?",
       "options": [
         {
-          "text": "Dass alle Arme zu Priestern berufen würden",
-          "explanation": ""
+          "text": "Jeder Knecht sollte nach drei Jahren freigelassen werden"
         },
         {
-          "text": "Es sollte gar kein Armer unter euch sein",
-          "explanation": ""
+          "text": "Es soll gar kein Armer unter dir sein im guten Erdlande"
         },
         {
-          "text": "Dass jeder Arme ein eigenes Stück Land erhielte",
-          "explanation": ""
+          "text": "Die Zinsen für geliehenes Silber sollten halbiert werden"
         },
         {
-          "text": "Dass die Armen zeitlebens von den Reichen versorgt würden",
-          "explanation": ""
+          "text": "Alle Zehnten sollten ausschließlich an die Witwen gehen"
         }
       ],
       "correctAnswers": [
@@ -3624,20 +3552,16 @@
       "text": "Welche festen Fleischteile standen dem Priester von den Schlachttieren des Volkes zu?",
       "options": [
         {
-          "text": "Die Vorderbeine und der Rücken des geschlachteten Tieres",
-          "explanation": ""
+          "text": "Die Vorderbeine und der Rücken des Schlachttieres"
         },
         {
-          "text": "Die Schulter, die beiden Kinnbacken und der Magen",
-          "explanation": ""
+          "text": "Die Vorderkeule, die Kinnladen und der Magen"
         },
         {
-          "text": "Das gesamte Fett der Lenden und der Nieren",
-          "explanation": ""
+          "text": "Das gesamte Fett der Lenden und beider Nieren"
         },
         {
-          "text": "Nur die Haut und das Fell des verbrannten Opfers",
-          "explanation": ""
+          "text": "Nur die Haut und das Fell des Brandopfers"
         }
       ],
       "correctAnswers": [
@@ -3801,23 +3725,19 @@
     {
       "questionId": "dtn_127",
       "type": "single_choice",
-      "text": "Welcher praktische Schritt war bei den drei Zufluchtsstädten zur Erleichterung der Flucht geboten?",
+      "text": "Wie viele Freistädte sollten mitten im Erdlande für den Totschläger ausgesondert werden?",
       "options": [
         {
-          "text": "Hohe Wachtürme an den Toren zu errichten",
-          "explanation": ""
+          "text": "Genau zwölf Freistädte für den Totschläger"
         },
         {
-          "text": "Silberne Signaltrompeten auf den Mauern blasen",
-          "explanation": ""
+          "text": "Genau drei Freistädte für den Totschläger"
         },
         {
-          "text": "Wasserbrände entlang der Grenzen anlegen",
-          "explanation": ""
+          "text": "Genau sechs Freistädte für den Totschläger"
         },
         {
-          "text": "Du sollst dir den Weg dorthin zubereiten",
-          "explanation": ""
+          "text": "Genau zehn Freistädte für den Totschläger"
         }
       ],
       "correctAnswers": [
@@ -3831,23 +3751,19 @@
     {
       "questionId": "dtn_128",
       "type": "single_choice",
-      "text": "Welches konkrete Beispiel veranschaulicht den unvorsätzlichen Totschlag ohne vorherigen Hass?",
+      "text": "Wem sollten die Ältesten den vorsätzlichen Mörder aus der Freistadt überantworten?",
       "options": [
         {
-          "text": "Wenn das Eisen von der Axt rutscht und trifft",
-          "explanation": ""
+          "text": "In die Hände der heidnischen Richter am Tor"
         },
         {
-          "text": "Wenn beim Einsturz eines Hauses jemand stirbt",
-          "explanation": ""
+          "text": "In die Hände des Bluträchers, dass er sterbe"
         },
         {
-          "text": "Wenn ein Pfeil bei der Jagd vom Wind verweht wird",
-          "explanation": ""
+          "text": "Den Priestern zur dauerhaften Gefangenschaft"
         },
         {
-          "text": "Wenn ein Rind auf der Weide den Hirten stößt",
-          "explanation": ""
+          "text": "Der Versammlung des Volkes zur Verbannung"
         }
       ],
       "correctAnswers": [
@@ -3891,7 +3807,7 @@
     {
       "questionId": "dtn_130",
       "type": "single_choice",
-      "text": "Welches Verbot schützt den historischen Grundbesitz der Vorfahren im verheißenen Land?",
+      "text": "Was gebot das Gesetz in 5. Mose 19:14 bezüglich des Besitzes im Erdlande?",
       "options": [
         {
           "text": "Man durfte keine Ziegelsteine im Land brennen",
@@ -4674,20 +4590,16 @@
       "text": "Ab welchem Geschlecht durften Nachkommen der Edomiter und Ägypter aufgenommen werden?",
       "options": [
         {
-          "text": "Ab dem dritten Geschlecht dürfen sie hineinkommen",
-          "explanation": ""
+          "text": "Weil Josef einst der höchste Wesir in Memphis war"
         },
         {
-          "text": "Erst ab dem siebenten Geschlecht im Lande",
-          "explanation": ""
+          "text": "Weil Israel ein Fremdling in seinem Erdlande war"
         },
         {
-          "text": "Sie waren für alle Zeiten völlig ausgeschlossen",
-          "explanation": ""
+          "text": "Weil der Pharao ihnen Wagen für Jakob schenkte"
         },
         {
-          "text": "Ab dem zehnten Geschlecht nach dem Jubeljahr",
-          "explanation": ""
+          "text": "Weil Ägypten ein Bündnis gegen Edom anbot"
         }
       ],
       "correctAnswers": [
@@ -4791,7 +4703,7 @@
     {
       "questionId": "dtn_160",
       "type": "single_choice",
-      "text": "Wem durfte ein Israelit Geld oder Speise auf Zins leihen und wem keinesfalls?",
+      "text": "Von wem durfte der Israelite Zinsen nehmen im Erdlande, das er einnahm?",
       "options": [
         {
           "text": "Dem Ausländer darfst du auf Zins leihen, dem Bruder nicht",
@@ -5274,20 +5186,16 @@
       "text": "Was musste ein Israelit mit den ersten Früchten des Landes tun, wenn er Kanaan in Besitz nahm?",
       "options": [
         {
-          "text": "In einen Korb legen und zum erwählten Ort bringen",
-          "explanation": ""
+          "text": "Einen goldenen Krug voll reinem Quellwasser"
         },
         {
-          "text": "Mitten im eigenen Haus als ständiges Denkmal aufbewahren",
-          "explanation": ""
+          "text": "Die Erstlinge aller Früchte des Erdlandes"
         },
         {
-          "text": "Den Armengemeinden am Stadttor als Geschenk übergeben",
-          "explanation": ""
+          "text": "Das erste Schaf von seiner Frühlingsweide"
         },
         {
-          "text": "Auf den Höhen des Berges Sinai im Feuer verbrennen",
-          "explanation": ""
+          "text": "Einen Schekel Silber als jährliche Tempelsteuer"
         }
       ],
       "correctAnswers": [
@@ -5481,7 +5389,7 @@
     {
       "questionId": "dtn_183",
       "type": "single_choice",
-      "text": "Was sollte auf die großen Steine geschrieben werden, die auf dem Berg Ebal aufgerichtet wurden?",
+      "text": "Was sollte auf die gekalkten Steine geschrieben werden, wenn sie ins Erdland zogen?",
       "options": [
         {
           "text": "Die Namen der zwölf Stammesfürsten Israels",
@@ -5904,20 +5812,16 @@
       "text": "Wo schloss Gott den Bund mit Israel neben dem früheren Bund, den Er am Horeb geschlossen hatte?",
       "options": [
         {
-          "text": "Vor den Toren der Priesterstadt Hebron",
-          "explanation": ""
+          "text": "Vor den Toren der Priesterstadt Hebron"
         },
         {
-          "text": "Im Lande Moab vor dem Eingang nach Kanaan",
-          "explanation": ""
+          "text": "Im Moabiter Erdland jenseits des Jordan"
         },
         {
-          "text": "In der Oase Kadesch-Barnea an den Quellen",
-          "explanation": ""
+          "text": "In der Oase Kadesch-Barnea an den Quellen"
         },
         {
-          "text": "Auf dem Gipfel des Berges Hermon im Norden",
-          "explanation": ""
+          "text": "Auf dem Gipfel des Berges Hermon im Norden"
         }
       ],
       "correctAnswers": [
@@ -5934,20 +5838,16 @@
       "text": "Welches ständige Wunder an der Kleidung bezeugte Gottes Treue während der Wüstenjahre?",
       "options": [
         {
-          "text": "Das Linnen eurer Kleider wurde niemals vom Staub gefärbt",
-          "explanation": ""
+          "text": "Das Linnen eurer Kleider wurde niemals vom Staub gefärbt"
         },
         {
-          "text": "Täglich erhieltet ihr neue Gewänder aus dem Zelt der Begegnung",
-          "explanation": ""
+          "text": "Täglich neue Kleider aus den Schätzen der Stiftshütte"
         },
         {
-          "text": "Eure Kleider sind nicht zerfallen, die Schuhe nicht alt worden",
-          "explanation": ""
+          "text": "Eure Kleider sind nicht zerfallen, die Schuhe nicht alt worden"
         },
         {
-          "text": "Die Schilde eurer Krieger verrosteten in der Wüste niemals",
-          "explanation": ""
+          "text": "Die Schilde eurer Krieger verrosteten in der Wüste niemals"
         }
       ],
       "correctAnswers": [
@@ -6021,7 +5921,7 @@
     {
       "questionId": "dtn_201",
       "type": "single_choice",
-      "text": "Mit welchen katastrophal verwüsteten Städten der Vorzeit vergleicht das Gesetz das gerichtete Land?",
+      "text": "Mit welchen zerstörten Städten vergleicht die Schrift das gerichtete Erdland?",
       "options": [
         {
           "text": "Mit den festen Mauern von Jericho und Ai, die zerstört wurden",
@@ -6054,20 +5954,16 @@
       "text": "Was werden die nachfolgenden Geschlechter und Fremde fragen, wenn sie das verbrannte Land sehen?",
       "options": [
         {
-          "text": "Welcher König hat dieses Land erobert?",
-          "explanation": ""
+          "text": "Welcher König hat dieses Erdland erobert?"
         },
         {
-          "text": "Wo sind die goldenen Altäre der Priester hin?",
-          "explanation": ""
+          "text": "Wo sind die goldenen Altäre der Priester hin?"
         },
         {
-          "text": "„Warum hat der HERR diesem Lande so getan?“",
-          "explanation": ""
+          "text": "„Warum hat der HERR diesem Erdlande so getan?“"
         },
         {
-          "text": "Haben die Einwohner ihre Brunnen verfehlt?",
-          "explanation": ""
+          "text": "Haben die Einwohner ihre Brunnen verfehlt?"
         }
       ],
       "correctAnswers": [
@@ -6471,7 +6367,7 @@
     {
       "questionId": "dtn_216",
       "type": "single_choice",
-      "text": "Was kündigte Gott Mose bezüglich des Verhaltens Israels nach seinem Tode im Land Kanaan an?",
+      "text": "Was kündigte der HERR Mose bezüglich Israels Verhalten im Erdlande an?",
       "options": [
         {
           "text": "Das Volk wird abfallen und den Bund brechen",
@@ -6681,23 +6577,19 @@
     {
       "questionId": "dtn_223",
       "type": "single_choice",
-      "text": "Auf welchen Berg im Gebirge Abarim sollte Mose steigen, um vor seinem Tode Kanaan zu schauen?",
+      "text": "Auf welchen Berg sollte Mose steigen, um das Erdland Kanaan zu besehen?",
       "options": [
         {
-          "text": "Auf den Berg Sinai in der tiefen Wüste Arabiens",
-          "explanation": ""
+          "text": "Auf den Berg Sinai in der tiefen Wüste Arabiens"
         },
         {
-          "text": "Auf den Berg Hor an der Grenze des Landes Edom",
-          "explanation": ""
+          "text": "Auf den Berg Hor an der Grenze des Landes Edom"
         },
         {
-          "text": "Auf den Berg Karmel nahe dem großen Meer",
-          "explanation": ""
+          "text": "Auf den Berg Karmel nahe dem großen Meer"
         },
         {
-          "text": "Auf den Berg Nebo im Lande Moab gegenüber Jericho",
-          "explanation": ""
+          "text": "Auf den Berg Nebo im Moabiterlande vor Jericho"
         }
       ],
       "correctAnswers": [
@@ -6951,7 +6843,7 @@
     {
       "questionId": "dtn_232",
       "type": "single_choice",
-      "text": "Von welchem Aussichtspunkt aus schaute Mose das gesamte verheißene Land vor seinem Tode?",
+      "text": "Von welchem Aussichtspunkt aus zeigte der HERR dem Mose das ganze Erdland?",
       "options": [
         {
           "text": "Von der Spitze des Pisga auf dem Berg Nebo",
@@ -7044,20 +6936,16 @@
       "text": "Wer begrub den Leichnam Moses im Tal im Lande Moab gegenüber Beth-Peor?",
       "options": [
         {
-          "text": "Die levitischen Priester im Beisein Eleasars",
-          "explanation": ""
+          "text": "Die levitischen Priester im Beisein Eleasars"
         },
         {
-          "text": "Josua und Kaleb zusammen mit den Ältesten",
-          "explanation": ""
+          "text": "Josua und Kaleb zusammen mit den Ältesten"
         },
         {
-          "text": "Die Söhne Gersoms und Eliesers im Geheimen",
-          "explanation": ""
+          "text": "Die Söhne Gersoms und Eliesers im Geheimen"
         },
         {
-          "text": "Gott Selbst begrub ihn im Tal im Lande Moab",
-          "explanation": ""
+          "text": "Gott Selbst begrub ihn im Tal im Erdlande Moab"
         }
       ],
       "correctAnswers": [
@@ -7071,7 +6959,7 @@
     {
       "questionId": "dtn_236",
       "type": "single_choice",
-      "text": "Wie viele Tage lang beweinten die Israeliten den Tod Moses in den Ebenen Moabs?",
+      "text": "Wie viele Tage lang beweinten die Söhne Israel Mose in den Steppen Moabs?",
       "options": [
         {
           "text": "Genau dreißig Tage dauerte die Trauerzeit",
