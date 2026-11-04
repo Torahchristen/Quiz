@@ -21,22 +21,22 @@
     {
       "questionId": "rut_001",
       "type": "single_choice",
-      "text": "In welcher geschichtlichen Epoche Israels übersiedelte Elimelech wegen einer Hungersnot nach Moab?",
+      "text": "Zu welcher Zeit zog ein Mann von Bethlehem-Juda wegen einer Teuerung im Lande nach Moab?",
       "options": [
         {
-          "text": "In den Tagen, als die Richter herrschten",
+          "text": "Zu der Zeit, da die Richter regierten",
           "explanation": ""
         },
         {
-          "text": "In den Tagen des ersten Königs Saul",
+          "text": "Zu der Zeit, da König Saul regierte",
           "explanation": ""
         },
         {
-          "text": "In den Jahren der vierzigjährigen Wüstenreise",
+          "text": "Zu der Zeit der vierzig Jahre Wüste",
           "explanation": ""
         },
         {
-          "text": "In der Regierungszeit des Königs Salomo",
+          "text": "Zu der Zeit, da König Salomo regierte",
           "explanation": ""
         }
       ],
@@ -51,22 +51,22 @@
     {
       "questionId": "rut_002",
       "type": "single_choice",
-      "text": "Aus welcher judäischen Stadt stammten Elimelech, seine Frau Naemi und ihre zwei Söhne?",
+      "text": "Aus welcher Stadt stammten Elimelech, sein Weib Naemi und ihre zwei Söhne?",
       "options": [
         {
-          "text": "Aus der Priesterstadt Hebron im Süden",
+          "text": "Aus der Priesterstadt Hebron in Juda",
           "explanation": ""
         },
         {
-          "text": "Aus der Stadt Bethlehem im Lande Juda",
+          "text": "Aus der Stadt Bethlehem-Juda im Land",
           "explanation": ""
         },
         {
-          "text": "Aus der Stiftshüttenstadt Silo im Gebirge",
+          "text": "Aus der Bundeslade-Stadt Silo im Land",
           "explanation": ""
         },
         {
-          "text": "Aus der Grenzstadt Bethel nahe den Hügeln",
+          "text": "Aus der Stadt Bethel im Gebirge Ephraim",
           "explanation": ""
         }
       ],
@@ -81,18 +81,18 @@
     {
       "questionId": "rut_003",
       "type": "single_choice",
-      "text": "Wie hießen die zwei Söhne Elimelechs und Naemis, die im Lande Moab verstarben?",
+      "text": "Wie hießen die zwei Söhne Elimelechs und Naemis, die im Lande der Moabiter starben?",
       "options": [
         {
-          "text": "Othniel und Kenas aus dem Südland",
+          "text": "Othniel und Kenas aus dem Südlande",
           "explanation": ""
         },
         {
-          "text": "Gersom und Elieser aus dem Ostland",
+          "text": "Gersom und Elieser aus dem Ostlande",
           "explanation": ""
         },
         {
-          "text": "Machlon und Kiljon aus Bethlehem-Juda",
+          "text": "Mahlon und Chiljon aus Bethlehem-Juda",
           "explanation": ""
         },
         {
@@ -111,10 +111,10 @@
     {
       "questionId": "rut_004",
       "type": "single_choice",
-      "text": "Wie hießen die zwei moabitischen Frauen, die die Söhne Naemis geheiratet hatten?",
+      "text": "Wie hießen die moabitischen Weiber, die die Söhne Naemis genommen hatten?",
       "options": [
         {
-          "text": "Miriam und Zippora aus den Steppen",
+          "text": "Miriam und Zippora aus der Wüste",
           "explanation": ""
         },
         {
@@ -122,11 +122,11 @@
           "explanation": ""
         },
         {
-          "text": "Debora und Jael aus den Berggebieten",
+          "text": "Debora und Jael aus dem Berglande",
           "explanation": ""
         },
         {
-          "text": "Orpa und Rut aus dem Lande Moab",
+          "text": "Orpa und Ruth aus dem Lande Moab",
           "explanation": ""
         }
       ],
@@ -141,22 +141,22 @@
     {
       "questionId": "rut_005",
       "type": "single_choice",
-      "text": "Welchen dringenden Rat gab Naemi ihren beiden Schwiegertöchtern auf dem Rückweg nach Juda?",
+      "text": "Welchen Rat gab Naemi ihren beiden Schwiegertöchtern auf dem Rückweg nach Juda?",
       "options": [
         {
-          "text": "Kehrt um, jede ins Haus ihrer Mutter!",
+          "text": "Kehrt um, eine jegliche zu ihrer Mutter Haus!",
           "explanation": ""
         },
         {
-          "text": "Folgt mir bis in die Priesterstadt Silo",
+          "text": "Zieht mit mir bis zur Stiftshütte nach Silo!",
           "explanation": ""
         },
         {
-          "text": "Zieht sogleich zu den Verwandten nach Hebron",
+          "text": "Geht sogleich zu den Verwandten nach Hebron!",
           "explanation": ""
         },
         {
-          "text": "Bleibt im Lande Moab an den Quellen",
+          "text": "Bleibt im Moabiterland an den frischen Quellen!",
           "explanation": ""
         }
       ],
@@ -171,22 +171,22 @@
     {
       "questionId": "rut_006",
       "type": "single_choice",
-      "text": "Wie reagierte Orpa im Gegensatz zu Rut auf die einfühlsamen Worte ihrer Schwiegermutter Naemi?",
+      "text": "Wie verhielt sich Orpa im Gegensatz zu Rut nach den Worten Naemis?",
       "options": [
         {
           "text": "Sie weigerte sich und zog mit nach Juda",
           "explanation": ""
         },
         {
-          "text": "Sie küsste Naemi und kehrte um",
+          "text": "Sie küsste Naemi und kehrte um in ihr Land",
           "explanation": ""
         },
         {
-          "text": "Sie verfluchte die Götter ihres Volkes",
+          "text": "Sie haderte bitterlich mit ihrer Schwiegermutter",
           "explanation": ""
         },
         {
-          "text": "Sie verlangte das Erbgut ihres Mannes",
+          "text": "Sie forderte sogleich das Erbgut ihres Mannes",
           "explanation": ""
         }
       ],
@@ -201,14 +201,14 @@
     {
       "questionId": "rut_007",
       "type": "single_choice",
-      "text": "Welches unerschütterliche Bekenntnis legte Rut ab, als Naemi sie zur Umkehr bewegen wollte?",
+      "text": "Mit welchem Bekenntnis weigerte sich Rut, von Naemi umzukehren?",
       "options": [
         {
-          "text": "Ich will dir täglich zehn Silberlinge geben",
+          "text": "Ich gebe dir täglich zwanzig Silberlinge",
           "explanation": ""
         },
         {
-          "text": "Ich baue dir ein neues Haus in Bethlehem",
+          "text": "Ich baue dir ein neues Gehöft in Bethlehem",
           "explanation": ""
         },
         {
@@ -216,7 +216,7 @@
           "explanation": ""
         },
         {
-          "text": "Ich diene den Leviten am Heiligtum Silos",
+          "text": "Ich will den Priestern am Altar in Silo dienen",
           "explanation": ""
         }
       ],
@@ -231,22 +231,22 @@
     {
       "questionId": "rut_008",
       "type": "single_choice",
-      "text": "Welchen neuen Namen forderte Naemi bei ihrer Rückkehr von den Frauen in Bethlehem für sich?",
+      "text": "Welchen Namen forderte Naemi von den Frauen in Bethlehem, als sie zurückkehrte?",
       "options": [
         {
-          "text": "Nennt mich Debora, die Einsame",
+          "text": "Heißt mich Deborah, denn der HERR gab mir Kraft",
           "explanation": ""
         },
         {
-          "text": "Nennt mich Rahel, die Beraubte",
+          "text": "Heißt mich Lea, denn ich trage schwere Bürden",
           "explanation": ""
         },
         {
-          "text": "Nennt mich Sara, die Verlassene",
+          "text": "Heißt mich Hannah, denn der HERR hat mich erhört",
           "explanation": ""
         },
         {
-          "text": "Nennt mich Mara, die Bittere",
+          "text": "Heißt mich Mara, denn der Allmächtige betrübte mich",
           "explanation": ""
         }
       ],
@@ -261,22 +261,22 @@
     {
       "questionId": "rut_009",
       "type": "single_choice",
-      "text": "Zu welcher landwirtschaftlichen Erntezeit trafen Naemi und Rut in Bethlehem ein?",
+      "text": "Zu welcher Erntezeit kamen Naemi und Rut gen Bethlehem?",
       "options": [
         {
-          "text": "Zu Beginn der Gerstenernte im Lande",
+          "text": "Im Anfang der Gerstenernte im Lande",
           "explanation": ""
         },
         {
-          "text": "Zu Beginn der großen Weinlese im Herbst",
+          "text": "Zur Zeit der großen Weinlese im Herbst",
           "explanation": ""
         },
         {
-          "text": "Mitten in der weiten Weizenernte",
+          "text": "Am Ende der sommerlichen Feigenernte",
           "explanation": ""
         },
         {
-          "text": "Zur Zeit der Olivenernte auf den Hügeln",
+          "text": "Inmitten der späten Weizenernte im Mai",
           "explanation": ""
         }
       ],
@@ -291,22 +291,22 @@
     {
       "questionId": "rut_010",
       "type": "single_choice",
-      "text": "Wer war der vermögende Mann aus dem Geschlecht Elimelechs, auf dessen Feld Rut Ähren las?",
+      "text": "Wer war der Mann von großem Vermögen aus dem Geschlecht Elimelechs, auf dessen Feld Rut geriet?",
       "options": [
         {
-          "text": "Othniel der Held aus den Bergstädten",
+          "text": "Elkana, der gottesfürchtige Levit vom Berge",
           "explanation": ""
         },
         {
-          "text": "Boas, ein wohlhabender Mann der Sippe",
+          "text": "Boas, der vermögende Verwandte Elimelechs",
           "explanation": ""
         },
         {
-          "text": "Jesse der Vater des künftigen Königs",
+          "text": "Kis, der wohlhabende Vorfahr des Königs Saul",
           "explanation": ""
         },
         {
-          "text": "Abinadab aus den Hügeln des Landes",
+          "text": "Isai, der reiche Hirtenfürst aus Bethlehem",
           "explanation": ""
         }
       ],
@@ -321,22 +321,22 @@
     {
       "questionId": "rut_011",
       "type": "single_choice",
-      "text": "Welche Anweisung gab Boas seinen Knechten bezüglich Ruts Ährenlesen auf dem Feld?",
+      "text": "Welches Gebot gab Boas seinen Knaben bezüglich Ruts Auflesen auf dem Felde?",
       "options": [
         {
-          "text": "Sie sollten sie sogleich vom Feld verjagen, damit sie die Ernte nicht schmälerte",
+          "text": "Sie sollten sie sofort von den Feldern vor der Stadt verweisen",
           "explanation": ""
         },
         {
-          "text": "Sie durfte nur den Abfall am Weg auflesen und nicht zwischen die Garben treten",
+          "text": "Sie sollten ihr nur Wasser und Brot zur Mittagszeit anbieten",
           "explanation": ""
         },
         {
-          "text": "Sie sollten Ähren aus den Garben für sie herausziehen und sie nicht beschämen",
+          "text": "Sie sollten sie zwischen Garben auflesen lassen und nicht schelten",
           "explanation": ""
         },
         {
-          "text": "Sie sollte jeden Abend einen Teil ihrer Ähren den Knechten abgeben",
+          "text": "Sie sollten ihr die volle Zehnte der Gerstenernte überlassen",
           "explanation": ""
         }
       ],
@@ -351,22 +351,22 @@
     {
       "questionId": "rut_012",
       "type": "single_choice",
-      "text": "Warum erwies Boas der moabitischen Fremdlingerin Rut so große Barmherzigkeit und Schutz?",
+      "text": "Warum erwies Boas der Fremdlingerin Rut so große Barmherzigkeit und Schutz?",
       "options": [
         {
-          "text": "Weil er ihr Silber für das Korn abkaufte",
+          "text": "Weil sie ihm reichen Tribut aus dem Lande Moab entrichtet hatte",
           "explanation": ""
         },
         {
-          "text": "Weil der Priester in Silo es ihm gebot",
+          "text": "Weil die Ältesten der Stadt ihn schriftlich dazu verordnet hatten",
           "explanation": ""
         },
         {
-          "text": "Weil sie ihm königliche Geschenke brachte",
+          "text": "Weil sie eine nahe leibliche Verwandte seiner eigenen Mutter war",
           "explanation": ""
         },
         {
-          "text": "Weil ihm ihre Liebe zu Naemi bekannt war",
+          "text": "Weil ihm alles angesagt war, was sie an Naemi treulich getan hatte",
           "explanation": ""
         }
       ],
@@ -381,22 +381,22 @@
     {
       "questionId": "rut_013",
       "type": "single_choice",
-      "text": "Welchen göttlichen Schutzsegen sprach Boas über Rut bei ihrer ersten Begegnung aus?",
+      "text": "Welchen Segen sprach Boas über Rut aus (Rut 2:12)?",
       "options": [
         {
-          "text": "Der HERR vergelte dir deine Wohltat vollkommen",
+          "text": "Der HERR vergelte deine Tat unter seinen Flügeln",
           "explanation": ""
         },
         {
-          "text": "Gott gebe dir zehntausend Silberlinge",
+          "text": "Der HERR schenke dir reiche Herden auf den Bergen",
           "explanation": ""
         },
         {
-          "text": "Du sollst die reichste Frau in Bethlehem sein",
+          "text": "Der HERR mache dich zur Königin im Lande Kanaan",
           "explanation": ""
         },
         {
-          "text": "Gott schenke dir alle Ären dieses Feldes",
+          "text": "Der HERR gebe dir viele Paläste im Stamme Juda",
           "explanation": ""
         }
       ],
@@ -411,89 +411,89 @@
     {
       "questionId": "rut_014",
       "type": "single_choice",
-      "text": "Wie viel Gerste drosch und sammelte Rut am Ende ihres ersten Arbeitstages auf Boas' Feld?",
+      "text": "Wozu lud Boas Rut zur Essenszeit der Schnitter ein?",
       "options": [
         {
-          "text": "Genau drei Maß frischer Weizenkörner",
+          "text": "Vom Wein der Fürsten zu trinken und Feigen zu essen",
           "explanation": ""
         },
         {
-          "text": "Etwa ein Epha Gerste drosch sie aus",
+          "text": "Vom Brot zu essen und ihren Bissen in Essig zu tunken",
           "explanation": ""
         },
         {
-          "text": "Genau zehn volle Maß Gerstenkörner",
+          "text": "Ein fettes Lamm mit den Ältesten am Tor zu speisen",
           "explanation": ""
         },
         {
-          "text": "Nur eine kleine Handvoll dörrer Halme",
+          "text": "Frisches Quellwasser aus dem Brunnen Davids zu schöpfen",
           "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
-      "bibleReference": "Rut 2:17",
-      "explanation": "Ein Epha war ein antikes Hohlmaß für Getreide und entsprach etwa 20 bis 22 Litern (rund 10 bis 15 Kilogramm Gerste).",
-      "explanationReviewed": true,
+      "bibleReference": "Rut 2:14",
+      "explanation": "",
+      "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "rut_015",
       "type": "single_choice",
-      "text": "Welche Bedeutung hatte Boas für die Familie Naemis nach den Worten der Schwiegermutter?",
+      "text": "Wie viel Gerste schlug Rut am Abend nach ihrem ersten Tag des Auflesens aus?",
       "options": [
         {
-          "text": "Er war der oberste Richter der Stadt",
+          "text": "Genau ein Zehntel eines Maßes",
           "explanation": ""
         },
         {
-          "text": "Er war der Verwalter der Kornhäuser",
+          "text": "Zwei volle Krüge gereinigtes Mehl",
           "explanation": ""
         },
         {
-          "text": "Der Mann gehört zu unseren nahen Erblösern",
+          "text": "Bei einem Epha gemessene Gerste",
           "explanation": ""
         },
         {
-          "text": "Er war der Hauptmann des Heeres Judas",
+          "text": "Fünf Garben ungedroschener Weizen",
           "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
-      "bibleReference": "Rut 2:20",
-      "explanation": "",
-      "explanationReviewed": false,
+      "bibleReference": "Rut 2:17",
+      "explanation": "Ein Epha war ein altes biblisches Hohlmaß für Getreide und entsprach etwa 20 bis 22 Litern (Rut 2:17).",
+      "explanationReviewed": true,
       "difficulty": "hard"
     },
     {
       "questionId": "rut_016",
       "type": "single_choice",
-      "text": "Welchen Rat gab Naemi der Rut für die Nacht des Worfelns auf der Dreschtenne des Boas?",
+      "text": "Wie lange hielt sich Rut zu den Dirnen des Boas beim Ährenlesen?",
       "options": [
         {
-          "text": "Bitte ihn öffentlich vor den Ältesten um Hilfe",
+          "text": "Nur sieben Tage während des Laubhüttenfestes",
           "explanation": ""
         },
         {
-          "text": "Bringe ihm Geschenke aus dem Land Moab",
+          "text": "Genau einen Mondmonat bis zum Passahfest",
           "explanation": ""
         },
         {
-          "text": "Zünde auf der Dreschtenne eine Fackel an",
+          "text": "Lediglich bis zum Abschluss der Feigenernte",
           "explanation": ""
         },
         {
-          "text": "Bade dich, salbe dich und lege dich zu seinen Füßen",
+          "text": "Bis die Gerstenernte und Weizenernte aus war",
           "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
-      "bibleReference": "Rut 3:1-4",
+      "bibleReference": "Rut 2:23",
       "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
@@ -501,29 +501,29 @@
     {
       "questionId": "rut_017",
       "type": "single_choice",
-      "text": "Zu welcher nächtlichen Stunde erwachte Boas erschrocken auf seiner Dreschtenne?",
+      "text": "Welchen Rat gab Naemi der Rut für die Nacht auf der Tenne des Boas?",
       "options": [
         {
-          "text": "Genau zur finsteren Mitternacht",
+          "text": "Sich zu seinen Füßen aufzudecken und sich hinzulegen",
           "explanation": ""
         },
         {
-          "text": "Beim ersten frühen Hahnenschrei",
+          "text": "Ihm heimlich einen Beutel mit Silberstücken zu bringen",
           "explanation": ""
         },
         {
-          "text": "Bei Anbruch der dritten Nachtwache",
+          "text": "Vor den Schnittern laut um ein neues Brautkleid zu bitten",
           "explanation": ""
         },
         {
-          "text": "Kurz nach dem späten Sonnenuntergang",
+          "text": "Die Vorräte an Gerste vor den Knechten der Tenne zu wiegen",
           "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
-      "bibleReference": "Rut 3:8",
+      "bibleReference": "Rut 3:1-4",
       "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
@@ -531,22 +531,22 @@
     {
       "questionId": "rut_018",
       "type": "single_choice",
-      "text": "Worum bat Rut den Boas, als er sie in der Dunkelheit der Dreschtenne erfragte?",
+      "text": "Was erbat Rut auf der Tenne von Boas mit den Worten: „denn du bist der Erbe“ (Rut 3:9)?",
       "options": [
         {
-          "text": "Um zehn Silberlinge als Lohn für ihre Arbeit in der Ernte",
+          "text": "Dass er ihr zehn Scheffel feines Weizenmehl schenke",
           "explanation": ""
         },
         {
-          "text": "Dass er seine Decke über sie breite, weil er der Erbe sei",
+          "text": "Dass er seine Flügel über seine Magd breite",
           "explanation": ""
         },
         {
-          "text": "Um ein eigenes Stück Feld am Stadtberg von Bethlehem",
+          "text": "Dass er sie als Aufseherin über seine Knechte setze",
           "explanation": ""
         },
         {
-          "text": "Um die Freilassung ihrer Verwandten aus dem Land Moab",
+          "text": "Dass er Naemi aus der Schuldknechtschaft auslöse",
           "explanation": ""
         }
       ],
@@ -561,22 +561,22 @@
     {
       "questionId": "rut_019",
       "type": "single_choice",
-      "text": "Welches Zeugnis stellte Boas der moabitischen Frau Rut vor ganz Bethlehem aus?",
+      "text": "Welches Zeugnis gab Boas der Rut vor dem ganzen Tor seines Volkes?",
       "options": [
         {
-          "text": "Ganz Bethlehem ehrt dich als die vermögendste Frau im Lande",
+          "text": "Dass sie die reichste Frau unter den Fremdlingen sei",
           "explanation": ""
         },
         {
-          "text": "Alle Ältesten preisen dich als schönste Maid in ganz Juda",
+          "text": "Dass ihre Klugheit die Worte der Ältesten übertreffe",
           "explanation": ""
         },
         {
-          "text": "Das ganze Tor meines Volkes weiß, dass du tugendhaft bist",
+          "text": "Dass das ganze Tor weiß, dass sie ein tugendsam Weib ist",
           "explanation": ""
         },
         {
-          "text": "Der Hohepriester weihte dich zur treuen Dienerin des Herrn",
+          "text": "Dass sie die Erbin des gesamten Hauses Elimelech sei",
           "explanation": ""
         }
       ],
@@ -591,22 +591,22 @@
     {
       "questionId": "rut_020",
       "type": "single_choice",
-      "text": "Welches rechtliche Hindernis stand einer sofortigen Lösung durch Boas noch entgegen?",
+      "text": "Welches Hindernis nannte Boas, bevor er das Erbrecht wahrnehmen konnte?",
       "options": [
         {
-          "text": "Der Hohepriester in Silo verbot den Kauf",
+          "text": "Das Ackerland Elimelechs war bereits fremd verpfändet",
           "explanation": ""
         },
         {
-          "text": "Die Stadt verlangte eine hohe Lösegeldsteuer",
+          "text": "Die Ältesten hatten den Kauf des Feldes untersagt",
           "explanation": ""
         },
         {
-          "text": "Naemi musste erst das Land verkaufen",
+          "text": "Naemi hatte noch nicht ihren rechtlichen Eid abgelegt",
           "explanation": ""
         },
         {
-          "text": "Es gab noch einen näheren Erblöser als Boas",
+          "text": "Es gab noch einen Erben, der näher war als Boas",
           "explanation": ""
         }
       ],
@@ -621,22 +621,22 @@
     {
       "questionId": "rut_021",
       "type": "single_choice",
-      "text": "Mit wie vielen Maßen Gerste beschenkte Boas die Rut vor ihrem morgendlichen Heimweg?",
+      "text": "Mit welcher Gabe an Gerste entließ Boas Rut am Morgen nach Hause?",
       "options": [
         {
-          "text": "Mit sechs Maßen Gerste",
+          "text": "Mit sechs Maßen zugemessener Gerste",
           "explanation": ""
         },
         {
-          "text": "Mit drei Maßen reinen Weizens",
+          "text": "Mit zwei vollen Säcken Weizenmehl",
           "explanation": ""
         },
         {
-          "text": "Mit zehn Krügen frischen Weins",
+          "text": "Mit einem halben Maß feinem Schrot",
           "explanation": ""
         },
         {
-          "text": "Mit zwei Epha feinen Mehlgebäcks",
+          "text": "Mit zehn Krügen besten Olivenöls",
           "explanation": ""
         }
       ],
@@ -651,22 +651,22 @@
     {
       "questionId": "rut_022",
       "type": "single_choice",
-      "text": "An welchem zentralen Ort Bethlehems trat Boas zur rechtlichen Klärung des Lösungsfalls an?",
+      "text": "An welchem Ort setzte sich Boas nieder, um die Erbangelegenheit zu verhandeln?",
       "options": [
         {
-          "text": "Vor dem Altar der Stiftshütte in Silo",
+          "text": "Im Vorhof der Stiftshütte zu Silo",
           "explanation": ""
         },
         {
-          "text": "Im Stadttor, wo die Ältesten saßen",
+          "text": "Im Tor der Stadt Bethlehem-Juda",
           "explanation": ""
         },
         {
-          "text": "Auf der Dreschtenne außerhalb der Stadt",
+          "text": "Auf der Dreschtenne vor der Stadt",
           "explanation": ""
         },
         {
-          "text": "Im Hause der Naemi am Marktplatz",
+          "text": "Im Hause des Hohenpriesters Eli",
           "explanation": ""
         }
       ],
@@ -681,7 +681,7 @@
     {
       "questionId": "rut_023",
       "type": "single_choice",
-      "text": "Wie viele Älteste der Stadt Bethlehem rief Boas als Zeugen der Verhandlung zusammen?",
+      "text": "Wie viele Männer von den Ältesten der Stadt nahm Boas als Zeugen hinzu?",
       "options": [
         {
           "text": "Genau sieben Männer",
@@ -711,22 +711,22 @@
     {
       "questionId": "rut_024",
       "type": "single_choice",
-      "text": "Warum trat der nähere Erblöser schließlich vom Kauf des Feldstücks Naemis zurück?",
+      "text": "Warum weigerte sich der nähere Erbe, das Gut zu beerben?",
       "options": [
         {
           "text": "Weil er nicht genug Silber im Hause hatte",
           "explanation": ""
         },
         {
-          "text": "Weil die Ältesten ihm das Recht verweigerten",
+          "text": "Weil die Ältesten ihm das Recht absprachen",
           "explanation": ""
         },
         {
-          "text": "Weil Naemi das Land zu teuer verkaufte",
+          "text": "Weil Naemi das Feld viel zu teuer verkaufte",
           "explanation": ""
         },
         {
-          "text": "Aus Furcht, sein eigenes Erbteil zu schädigen",
+          "text": "Dass er nicht vielleicht sein Erbteil verderbe",
           "explanation": ""
         }
       ],
@@ -741,22 +741,22 @@
     {
       "questionId": "rut_025",
       "type": "single_choice",
-      "text": "Welches symbolische Rechtszeichen vollzog man in Israel zur Bekräftigung des Loskaufs?",
+      "text": "Welches Zeugnis vollzog man in Israel, um das Beerben oder Erkaufen zu bestätigen?",
       "options": [
         {
-          "text": "Der Auszug des Schuhs und die Übergabe",
+          "text": "Ein Mann zog seinen Schuh aus und gab ihn dem andern",
           "explanation": ""
         },
         {
-          "text": "Man zerbrach einen Ziegelstein am Tor",
+          "text": "Man zerbrach einen gebrannten Tonkrug vor den Ältesten",
           "explanation": ""
         },
         {
-          "text": "Man schüttete ein Maß Gerste auf den Boden",
+          "text": "Man schüttete ein volles Maß Gerste auf die Schwelle",
           "explanation": ""
         },
         {
-          "text": "Man entzündete eine Fackel vor dem Tor",
+          "text": "Man entzündete eine geweihte Fackel am Tore der Stadt",
           "explanation": ""
         }
       ],
@@ -764,29 +764,29 @@
         0
       ],
       "bibleReference": "Rut 4:7-8",
-      "explanation": "Das Ausziehen und Übergeben des Schuhs symbolisierte den Verzicht auf das Besitz- und Betretungsrecht am Land und übertrug das Löserrecht rechtskräftig auf den anderen.",
+      "explanation": "Das Ausziehen des Schuhs war in Israel ein altes Rechtszeichen, um den Verzicht auf das Betretungs- und Erbrecht öffentlich zu bezeugen (Rut 4:7-8).",
       "explanationReviewed": true,
       "difficulty": "hard"
     },
     {
       "questionId": "rut_026",
       "type": "single_choice",
-      "text": "Welchen Segen riefen die Ältesten und das Volk im Tor über die Ehe des Boas mit Rut aus?",
+      "text": "Welchen Segen sprachen das Volk im Tor und die Ältesten über Boas aus?",
       "options": [
         {
-          "text": "Gott gebe euch das Silber aller Könige",
+          "text": "Gott vermehre eure Herden wie die Sandkörner am Meere",
           "explanation": ""
         },
         {
-          "text": "Der HERR mache diese Frau wie Rahel und Lea",
+          "text": "Der HERR mache das Weib wie Rahel und Lea im Hause Israel",
           "explanation": ""
         },
         {
-          "text": "Sie möge Königin im Lande Kanaan werden",
+          "text": "Sie möge als mächtige Fürstin über ganz Kanaan herrschen",
           "explanation": ""
         },
         {
-          "text": "Ihr Haus werde so groß wie das Zelt Silos",
+          "text": "Euer Geschlecht sei geehrt gleich dem Priesterhause Silos",
           "explanation": ""
         }
       ],
@@ -801,22 +801,22 @@
     {
       "questionId": "rut_027",
       "type": "single_choice",
-      "text": "Wie hieß der Sohn, den Rut dem Boas gebar und den Naemi auf ihren Schoß legte?",
+      "text": "Wie hießen die Nachbarinnen das Kind, das Rut dem Boas gebar?",
       "options": [
         {
-          "text": "Jesse, der Vater Davids",
+          "text": "Jesse, welcher der Vater Davids war",
           "explanation": ""
         },
         {
-          "text": "David, der spätere König",
+          "text": "David, welcher der künftige König war",
           "explanation": ""
         },
         {
-          "text": "Obed, der Vater Isais",
+          "text": "Obed, welcher der Vater Isais ist",
           "explanation": ""
         },
         {
-          "text": "Perez, der Stammvater",
+          "text": "Perez, welcher der alte Stammvater war",
           "explanation": ""
         }
       ],
@@ -831,22 +831,22 @@
     {
       "questionId": "rut_028",
       "type": "single_choice",
-      "text": "Welcher berühmte König war ein Enkel Obeds?",
+      "text": "Welcher König ging aus der Nachkommenschaft Obeds und Isais hervor?",
       "options": [
         {
-          "text": "König Salomo, der weise Herrscher",
+          "text": "König Salomo, der Friedensfürst",
           "explanation": ""
         },
         {
-          "text": "König Saul aus dem Stamme Benjamin",
+          "text": "König Saul, der Sohn des Kis",
           "explanation": ""
         },
         {
-          "text": "König Hiskia der getreue Herrscher",
+          "text": "König Hiskia, der treue Herrscher",
           "explanation": ""
         },
         {
-          "text": "König David, der Sohn Jesses",
+          "text": "König David, der Sohn Isais",
           "explanation": ""
         }
       ],
@@ -861,22 +861,22 @@
     {
       "questionId": "rut_029",
       "type": "single_choice",
-      "text": "Mit welchem Stammvater aus dem Hause Juda beginnt das Geschlechtsregister am Ende des Buches Rut?",
+      "text": "Mit wessen Geschlecht beginnt das Geschlechtsregister am Ende des Buches Rut?",
       "options": [
         {
-          "text": "Perez, der Sohn Judas",
+          "text": "Mit dem Geschlecht des Perez",
           "explanation": ""
         },
         {
-          "text": "Nahschon, der Fürst in der Wüste",
+          "text": "Mit dem Geschlecht des Nahesson",
           "explanation": ""
         },
         {
-          "text": "Boas, der Erblöser aus Bethlehem",
+          "text": "Mit dem Geschlecht des Salma",
           "explanation": ""
         },
         {
-          "text": "Elimelech, der Vater Machlons",
+          "text": "Mit dem Geschlecht des Hezron",
           "explanation": ""
         }
       ],
@@ -891,14 +891,14 @@
     {
       "questionId": "rut_030",
       "type": "single_choice",
-      "text": "Wer sagte zu Naemi: „Wo du hin gehst, da will ich auch hin gehen; dein Volk ist mein Volk“ (Rut 1:16)?",
+      "text": "Wer sprach zu Naemi: „Wo du hin gehst, da will ich auch hin gehen; dein Volk ist mein Volk“?",
       "options": [
         {
           "text": "Hanna",
           "explanation": ""
         },
         {
-          "text": "Rut",
+          "text": "Ruth",
           "explanation": ""
         },
         {
@@ -921,7 +921,7 @@
     {
       "questionId": "rut_031",
       "type": "multiple_choice",
-      "text": "Wie hießen die beiden Schwiegertöchter Naemis nach Rut 1:4?",
+      "text": "Wie hießen die moabitischen Weiber der Söhne Naemis (Rut 1:4)?",
       "options": [
         {
           "text": "Michal",
