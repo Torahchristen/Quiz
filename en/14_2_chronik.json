@@ -1,0 +1,3023 @@
+{
+  "metadata": {
+    "quizId": "bibel_14_2_chronik_en",
+    "title": "2 Chronicles",
+    "subtitle": "2 Chronicles 1:1 – 36:23 (100 Questions)",
+    "author": "King James Version (1769)",
+    "language": "en",
+    "tags": [
+      "2 Chronicles",
+      "OT",
+      "history",
+      "KJV"
+    ],
+    "questionCount": 100,
+    "canonicalBookNumber": 14,
+    "testament": "AT",
+    "category": "geschichte",
+    "version": "2.3.0",
+    "difficulty": "medium"
+  },
+  "questions": [
+    {
+      "questionId": "2chr_001",
+      "type": "single_choice",
+      "text": "What petition of Solomon in Gibeon pleased God, that He granted him also riches and honour?",
+      "options": [
+        {
+          "text": "Victory over all enemy armies at the borders",
+          "explanation": ""
+        },
+        {
+          "text": "Long life upon the royal throne of king David",
+          "explanation": ""
+        },
+        {
+          "text": "Wisdom and knowledge to judge the great people",
+          "explanation": ""
+        },
+        {
+          "text": "Abundance of all the treasures of gold and land",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Chronicles 1:10-12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2chr_002",
+      "type": "single_choice",
+      "text": "Which king sent timber from Lebanon and a cunning workman unto king Solomon?",
+      "options": [
+        {
+          "text": "Hadadezer the king of Zobah",
+          "explanation": ""
+        },
+        {
+          "text": "Ben-hadad the king of Syria",
+          "explanation": ""
+        },
+        {
+          "text": "Pharaoh-necho king of Egypt",
+          "explanation": ""
+        },
+        {
+          "text": "Huram the king of Tyre",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Chronicles 2:2-13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2chr_003",
+      "type": "single_choice",
+      "text": "Upon which mount in Jerusalem did Solomon begin to build the house of the LORD?",
+      "options": [
+        {
+          "text": "In mount Moriah at the threshingfloor of Ornan",
+          "explanation": ""
+        },
+        {
+          "text": "In mount Zion near the royal city of David",
+          "explanation": ""
+        },
+        {
+          "text": "In mount Horeb where the law was delivered",
+          "explanation": ""
+        },
+        {
+          "text": "In mount Olivet eastward over against Salem",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Chronicles 3:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2chr_004",
+      "type": "single_choice",
+      "text": "What came to pass when the trumpeters and singers were as one to make one sound?",
+      "options": [
+        {
+          "text": "A great earthquake shook the foundations of house",
+          "explanation": ""
+        },
+        {
+          "text": "The house was filled with a cloud of the LORD",
+          "explanation": ""
+        },
+        {
+          "text": "Chariots of fire appeared above the sanctuary",
+          "explanation": ""
+        },
+        {
+          "text": "A voice of mighty thunders sounded from heaven",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Chronicles 5:13-14",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2chr_005",
+      "type": "single_choice",
+      "text": "What came to pass when Solomon had made an end of praying at the dedication of the temple?",
+      "options": [
+        {
+          "text": "A mighty east wind opened all the temple gates",
+          "explanation": ""
+        },
+        {
+          "text": "The sound of trumpets rang from the holy place",
+          "explanation": ""
+        },
+        {
+          "text": "Fire came down from heaven and consumed burnt offering",
+          "explanation": ""
+        },
+        {
+          "text": "The ark of the covenant was lifted up from floor",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Chronicles 7:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2chr_006",
+      "type": "single_choice",
+      "text": "What promise gave God if His people shall humble themselves, pray, and turn from wicked ways?",
+      "options": [
+        {
+          "text": "He will give them continual victory over every enemy host",
+          "explanation": ""
+        },
+        {
+          "text": "He will multiply their gold and silver in the holy city",
+          "explanation": ""
+        },
+        {
+          "text": "He will make a solemn covenant with all heathen nations",
+          "explanation": ""
+        },
+        {
+          "text": "He will hear from heaven, forgive their sin, and heal land",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Chronicles 7:14",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2chr_007",
+      "type": "single_choice",
+      "text": "What gave the queen of Sheba unto king Solomon besides gold and precious stones?",
+      "options": [
+        {
+          "text": "Of spices great abundance and very much",
+          "explanation": ""
+        },
+        {
+          "text": "Ten thousand oxen out of rich pastures",
+          "explanation": ""
+        },
+        {
+          "text": "Shields of iron for all his armed host",
+          "explanation": ""
+        },
+        {
+          "text": "A hundred ships for the port of Ezion",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Chronicles 9:1-9",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2chr_008",
+      "type": "single_choice",
+      "text": "Why did the priests and the Levites leave their suburbs and come to Judah and Jerusalem?",
+      "options": [
+        {
+          "text": "Because Solomon had promised them great possessions in the city",
+          "explanation": ""
+        },
+        {
+          "text": "Because Jeroboam cast them off from executing priest's office",
+          "explanation": ""
+        },
+        {
+          "text": "Because a grievous drought and famine consumed northern tribes",
+          "explanation": ""
+        },
+        {
+          "text": "Because Shishak the king of Egypt had burned their dwellingplaces",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Chronicles 11:13-15",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2chr_009",
+      "type": "single_choice",
+      "text": "What transgression of Rehoboam caused Shishak king of Egypt to come up in the fifth year?",
+      "options": [
+        {
+          "text": "He made a secret league of peace with the Philistines",
+          "explanation": ""
+        },
+        {
+          "text": "He refused to deliver the customary tribute unto Egypt",
+          "explanation": ""
+        },
+        {
+          "text": "When he had established the kingdom, he forsook the law",
+          "explanation": ""
+        },
+        {
+          "text": "He commanded all the vessels of the house to be melted",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Chronicles 12:1-2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2chr_010",
+      "type": "single_choice",
+      "text": "Where did king Abijah of Judah stand when he reproved Jeroboam and all Israel?",
+      "options": [
+        {
+          "text": "Upon the mount of Ephraim near the ancient city Shechem",
+          "explanation": ""
+        },
+        {
+          "text": "In the valley of Rephaim before the gates of Jerusalem",
+          "explanation": ""
+        },
+        {
+          "text": "Before the sacred courts of the priestly city of Bethel",
+          "explanation": ""
+        },
+        {
+          "text": "Upon mount Zemaraim, which is in mount Ephraim",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Chronicles 13:4-18",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2chr_011",
+      "type": "single_choice",
+      "text": "Who came out against king Asa in the valley of Zephathah with a great host?",
+      "options": [
+        {
+          "text": "Zerah the Ethiopian with an host of a thousand thousand",
+          "explanation": ""
+        },
+        {
+          "text": "Ben-hadad king of Syria with eight hundred thousand men",
+          "explanation": ""
+        },
+        {
+          "text": "Shishak the king of Egypt with innumerable horsemen",
+          "explanation": ""
+        },
+        {
+          "text": "Hadadezer the king of Zobah with his whole Syrian army",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Chronicles 14:8-12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2chr_012",
+      "type": "single_choice",
+      "text": "Which prophet did the Spirit of God come upon to meet king Asa after the victory?",
+      "options": [
+        {
+          "text": "Jehu the son of Hanani out of Jerusalem",
+          "explanation": ""
+        },
+        {
+          "text": "Azariah the son of Oded by the Spirit of God",
+          "explanation": ""
+        },
+        {
+          "text": "Hanani the faithful seer of the king of Judah",
+          "explanation": ""
+        },
+        {
+          "text": "Elijah the Tishbite of the inhabitants of Gilead",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Chronicles 15:1-8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2chr_013",
+      "type": "single_choice",
+      "text": "How did Asa induce Ben-hadad king of Syria to break his league with Baasha king of Israel?",
+      "options": [
+        {
+          "text": "By a league of marriage with the daughter of the Syrian ruler",
+          "explanation": ""
+        },
+        {
+          "text": "By delivering ten strong fenced border cities in northern Judah",
+          "explanation": ""
+        },
+        {
+          "text": "By silver and gold out of the treasures of the house of the LORD",
+          "explanation": ""
+        },
+        {
+          "text": "By threatening an invasion of all the mighty men of his kingdom",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Chronicles 16:1-6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2chr_014",
+      "type": "single_choice",
+      "text": "What did king Jehoshaphat in the third year of his reign throughout the cities of Judah?",
+      "options": [
+        {
+          "text": "He built high fenced walls round about cities",
+          "explanation": ""
+        },
+        {
+          "text": "He ordained new solemn feasts for all of Judah",
+          "explanation": ""
+        },
+        {
+          "text": "He forbade strange merchants to enter the land",
+          "explanation": ""
+        },
+        {
+          "text": "He sent princes and Levites with book of the law",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Chronicles 17:7-9",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2chr_015",
+      "type": "single_choice",
+      "text": "What reproof did Jehu the son of Hanani the seer speak unto king Jehoshaphat?",
+      "options": [
+        {
+          "text": "Shouldest thou help ungodly, and love them that hate the LORD?",
+          "explanation": ""
+        },
+        {
+          "text": "Why hast thou carried the holy ark of God unto Ramoth-gilead?",
+          "explanation": ""
+        },
+        {
+          "text": "Why didst thou fear before the multitude of the king of Syria?",
+          "explanation": ""
+        },
+        {
+          "text": "Thou oughtest to have slain king Ahab upon the field of battle!",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Chronicles 19:1-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2chr_016",
+      "type": "single_choice",
+      "text": "Who came against Jehoshaphat to battle, whereupon he set himself to seek the LORD?",
+      "options": [
+        {
+          "text": "The Philistines, the Canaanites, and warriors of Damascus",
+          "explanation": ""
+        },
+        {
+          "text": "The children of Moab, Ammon, and with them of mount Seir",
+          "explanation": ""
+        },
+        {
+          "text": "The Egyptians, the Babylonians, and the armies of Assyria",
+          "explanation": ""
+        },
+        {
+          "text": "The Chaldeans, the Phoenicians, and robbers of the desert",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Chronicles 20:1-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2chr_017",
+      "type": "single_choice",
+      "text": "What order did Jehoshaphat appoint when they went forth into wilderness of Tekoa?",
+      "options": [
+        {
+          "text": "He caused unarmed priests only to march before the armies of Judah",
+          "explanation": ""
+        },
+        {
+          "text": "He sent three hundred spies disguised before the camp of the enemy",
+          "explanation": ""
+        },
+        {
+          "text": "He appointed singers that should praise in beauty of holiness before",
+          "explanation": ""
+        },
+        {
+          "text": "He commanded the ark of the covenant to be carried before soldiers",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Chronicles 20:21-22",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2chr_018",
+      "type": "single_choice",
+      "text": "What sore judgment came upon king Jehoram of Judah according to the writing from Elijah?",
+      "options": [
+        {
+          "text": "He lost his sight immediately in the court",
+          "explanation": ""
+        },
+        {
+          "text": "He was slain by the sword of his own guards",
+          "explanation": ""
+        },
+        {
+          "text": "He was struck with leprosy like king Uzziah",
+          "explanation": ""
+        },
+        {
+          "text": "A great sickness by disease of his bowels",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Chronicles 21:12-19",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2chr_019",
+      "type": "single_choice",
+      "text": "Who hid the young child Joash six years in the house of God from Athaliah?",
+      "options": [
+        {
+          "text": "Jehoshabeath with Jehoiada the priest in house of God",
+          "explanation": ""
+        },
+        {
+          "text": "The nurse of the princess in the secret bedchamber",
+          "explanation": ""
+        },
+        {
+          "text": "The prophet Elijah fleeing into mount Horeb of old",
+          "explanation": ""
+        },
+        {
+          "text": "A faithful chief captain of royal guards at Salem",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Chronicles 22:10-12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2chr_020",
+      "type": "single_choice",
+      "text": "How old was Jehoiada the priest when he died, being old and full of days?",
+      "options": [
+        {
+          "text": "An hundred and twenty years old was he",
+          "explanation": ""
+        },
+        {
+          "text": "An hundred and thirty years old was he",
+          "explanation": ""
+        },
+        {
+          "text": "An hundred and forty years old was he",
+          "explanation": ""
+        },
+        {
+          "text": "An hundred and fifteen years old was he",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Chronicles 24:15-16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2chr_021",
+      "type": "single_choice",
+      "text": "What great trespass did king Joash commit after the death of Jehoiada the priest?",
+      "options": [
+        {
+          "text": "He delivered the holy ark unto the Syrians",
+          "explanation": ""
+        },
+        {
+          "text": "He burned the scrolls of the law of the LORD",
+          "explanation": ""
+        },
+        {
+          "text": "He stoned Zechariah the son of Jehoiada with stones",
+          "explanation": ""
+        },
+        {
+          "text": "He broke down the brazen altar before the temple",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Chronicles 24:20-22",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2chr_022",
+      "type": "single_choice",
+      "text": "What trespass did king Amaziah commit after his victory over the Edomites in the valley?",
+      "options": [
+        {
+          "text": "He made an everlasting league with the Pharaoh",
+          "explanation": ""
+        },
+        {
+          "text": "He parted the temple treasures among mercenaries",
+          "explanation": ""
+        },
+        {
+          "text": "He refused to offer thanksgiving unto the LORD",
+          "explanation": ""
+        },
+        {
+          "text": "He brought the gods of Edom and bowed down to them",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Chronicles 25:14-15",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2chr_023",
+      "type": "single_choice",
+      "text": "What trespass in the temple caused king Uzziah to be smitten with leprosy in his forehead?",
+      "options": [
+        {
+          "text": "He went in to burn incense upon the altar of incense",
+          "explanation": ""
+        },
+        {
+          "text": "He took away the golden tables of shewbread therein",
+          "explanation": ""
+        },
+        {
+          "text": "He cast down the molten sea in the court of temple",
+          "explanation": ""
+        },
+        {
+          "text": "He set up a graven image in the most holy place",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Chronicles 26:16-21",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2chr_024",
+      "type": "single_choice",
+      "text": "How many priests withstood king Uzziah valiantly to keep him from burning incense?",
+      "options": [
+        {
+          "text": "Twelve priests of the house of Levi",
+          "explanation": ""
+        },
+        {
+          "text": "Fourscore priests of the LORD with Azariah",
+          "explanation": ""
+        },
+        {
+          "text": "Three hundred priests and Levites together",
+          "explanation": ""
+        },
+        {
+          "text": "Forty faithful singers of the sons of Asaph",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Chronicles 26:17-18",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2chr_025",
+      "type": "single_choice",
+      "text": "Why became king Jotham mighty in his kingdom of Judah?",
+      "options": [
+        {
+          "text": "Because he doubled the walls of Jerusalem",
+          "explanation": ""
+        },
+        {
+          "text": "Because he received great tribute of Ammon",
+          "explanation": ""
+        },
+        {
+          "text": "Because he prepared his ways before the LORD",
+          "explanation": ""
+        },
+        {
+          "text": "Because he hired a great host of soldiers",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Chronicles 27:6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2chr_026",
+      "type": "single_choice",
+      "text": "What did king Hezekiah in the first year of his reign, in the first month?",
+      "options": [
+        {
+          "text": "He went forth with a great host to battle with Philistines",
+          "explanation": ""
+        },
+        {
+          "text": "He made a new league of peace with the great king of Egypt",
+          "explanation": ""
+        },
+        {
+          "text": "He cast off the priests and appointed new judges in cities",
+          "explanation": ""
+        },
+        {
+          "text": "He opened doors of house of the LORD and repaired them",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Chronicles 29:3-5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2chr_027",
+      "type": "single_choice",
+      "text": "In which month did Hezekiah keep the passover, because priests and people were NOT ready in first month?",
+      "options": [
+        {
+          "text": "In the second month they kept the feast",
+          "explanation": ""
+        },
+        {
+          "text": "In the third month after barley harvest",
+          "explanation": ""
+        },
+        {
+          "text": "In the seventh month at feast of booths",
+          "explanation": ""
+        },
+        {
+          "text": "In the twelfth month of the king's year",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Chronicles 30:2-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2chr_028",
+      "type": "single_choice",
+      "text": "What did Hezekiah pray for the multitude of Ephraim and Manasseh who did eat not cleansed?",
+      "options": [
+        {
+          "text": "That God would cast them out from the sanctuary",
+          "explanation": ""
+        },
+        {
+          "text": "That the good LORD would pardon every one that seeketh God",
+          "explanation": ""
+        },
+        {
+          "text": "That they should offer a double sin offering",
+          "explanation": ""
+        },
+        {
+          "text": "That they should be banished seven days from city",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Chronicles 30:18-20",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2chr_029",
+      "type": "single_choice",
+      "text": "What did king Manasseh when he was in affliction and bound with fetters in Babylon?",
+      "options": [
+        {
+          "text": "He cried unto the gods of Babylon for deliverance",
+          "explanation": ""
+        },
+        {
+          "text": "He sought secretly to escape from the prison house",
+          "explanation": ""
+        },
+        {
+          "text": "He besought the LORD his God and humbled himself greatly",
+          "explanation": ""
+        },
+        {
+          "text": "He offered all the gold of Jerusalem to the king",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Chronicles 33:11-13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2chr_030",
+      "type": "single_choice",
+      "text": "How old was Josiah when he began to reign, and what did he in his youth?",
+      "options": [
+        {
+          "text": "He was twelve years old and built fenced towers",
+          "explanation": ""
+        },
+        {
+          "text": "He was twenty years old and went out to war",
+          "explanation": ""
+        },
+        {
+          "text": "He was sixteen years old and made leagues of peace",
+          "explanation": ""
+        },
+        {
+          "text": "He was eight years old and sought the God of David",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Chronicles 34:1-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2chr_031",
+      "type": "single_choice",
+      "text": "What word sent Huldah the prophetess unto Josiah because his heart was tender?",
+      "options": [
+        {
+          "text": "Thou shalt be gathered to thy grave in peace",
+          "explanation": ""
+        },
+        {
+          "text": "Thou shalt subdue all border nations by sword",
+          "explanation": ""
+        },
+        {
+          "text": "Thy kingdom shall continue more than seventy years",
+          "explanation": ""
+        },
+        {
+          "text": "Thou shalt build the house of God twice as great",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Chronicles 34:26-28",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2chr_032",
+      "type": "single_choice",
+      "text": "What message sent Pharaoh-necho to Josiah when he went out against him at Carchemish?",
+      "options": [
+        {
+          "text": "He intended to destroy all Judah and burn down temple",
+          "explanation": ""
+        },
+        {
+          "text": "God commanded him to make haste; forbear to meddle with God",
+          "explanation": ""
+        },
+        {
+          "text": "He demanded ten thousand talents of silver from land",
+          "explanation": ""
+        },
+        {
+          "text": "He desired a league with Judah against the king of Babylon",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Chronicles 35:20-22",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2chr_033",
+      "type": "single_choice",
+      "text": "Which prophet lamented for the fallen king Josiah in a lamentation?",
+      "options": [
+        {
+          "text": "The prophet Isaiah the son of Amoz",
+          "explanation": ""
+        },
+        {
+          "text": "The prophet Ezekiel by river Chebar",
+          "explanation": ""
+        },
+        {
+          "text": "The prophet Jeremiah with the singers",
+          "explanation": ""
+        },
+        {
+          "text": "The prophet Zephaniah in days of Judah",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Chronicles 35:25",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2chr_034",
+      "type": "single_choice",
+      "text": "Why lay the land desolate threescore and ten years after the captivity into Babylon?",
+      "options": [
+        {
+          "text": "To restore all the holy vessels of the sanctuary",
+          "explanation": ""
+        },
+        {
+          "text": "Until the mighty kings of Egypt were brought low",
+          "explanation": ""
+        },
+        {
+          "text": "Until the royal palaces of Babylon were consumed",
+          "explanation": ""
+        },
+        {
+          "text": "Until the land had enjoyed her solemn sabbaths",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Chronicles 36:20-21",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2chr_035",
+      "type": "single_choice",
+      "text": "Which king of Persia made a proclamation to build the LORD an house in Jerusalem?",
+      "options": [
+        {
+          "text": "Cyrus the king of Persia",
+          "explanation": ""
+        },
+        {
+          "text": "Darius the king of the Medes",
+          "explanation": ""
+        },
+        {
+          "text": "Ahasuerus the royal ruler",
+          "explanation": ""
+        },
+        {
+          "text": "Artaxerxes the great king",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Chronicles 36:22-23",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2chr_036",
+      "type": "single_choice",
+      "text": "How many burnt offerings did Solomon offer upon the brazen altar at Gibeon?",
+      "options": [
+        {
+          "text": "A thousand burnt offerings there",
+          "explanation": ""
+        },
+        {
+          "text": "Seven hundred sheep and fat lambs",
+          "explanation": ""
+        },
+        {
+          "text": "Twelve bullocks for all the people",
+          "explanation": ""
+        },
+        {
+          "text": "Forty rams for the twelve tribes",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Chronicles 1:6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2chr_039",
+      "type": "single_choice",
+      "text": "How did Huram king of Tyre answer in writing sent to king Solomon?",
+      "options": [
+        {
+          "text": "He demanded double wheat and refused to send cedar trees",
+          "explanation": ""
+        },
+        {
+          "text": "He prepared a fleet of war against Solomon upon the sea",
+          "explanation": ""
+        },
+        {
+          "text": "He asked that idols of Tyre be set within the court",
+          "explanation": ""
+        },
+        {
+          "text": "He blessed the LORD and sent a cunning man of Huram's",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Chronicles 2:10-13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2chr_040",
+      "type": "single_choice",
+      "text": "With what did Solomon overlay the greater house of the temple?",
+      "options": [
+        {
+          "text": "With fine gold of Parvaim, with palms thereon",
+          "explanation": ""
+        },
+        {
+          "text": "With silver of Tarshish and carved pomegranates",
+          "explanation": ""
+        },
+        {
+          "text": "With brass of Cyprus, adorned with lilies round",
+          "explanation": ""
+        },
+        {
+          "text": "With ivory and cedar wood out of mount Lebanon",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Chronicles 3:5-6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2chr_041",
+      "type": "single_choice",
+      "text": "What names were given to the two pillars reared up before the temple?",
+      "options": [
+        {
+          "text": "Urim on the right hand and Thummim on left",
+          "explanation": ""
+        },
+        {
+          "text": "Jachin on the right hand and Boaz on left",
+          "explanation": ""
+        },
+        {
+          "text": "Gideon on the right hand and Samson on left",
+          "explanation": ""
+        },
+        {
+          "text": "Moriah on the right hand and Zion on left",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Chronicles 3:17",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2chr_042",
+      "type": "single_choice",
+      "text": "Upon what did the molten sea stand in the court of the temple?",
+      "options": [
+        {
+          "text": "Upon four brazen eagles with great outspread wings",
+          "explanation": ""
+        },
+        {
+          "text": "Upon ten brazen lions facing outward toward the gates",
+          "explanation": ""
+        },
+        {
+          "text": "Upon twelve oxen, three looking toward all four quarters",
+          "explanation": ""
+        },
+        {
+          "text": "Upon seven steps of polished marble brought from afar",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Chronicles 4:2-5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2chr_043",
+      "type": "single_choice",
+      "text": "How many candlesticks of gold and tables did Solomon make for the temple?",
+      "options": [
+        {
+          "text": "Seven candlesticks and seven tables for the holy place",
+          "explanation": ""
+        },
+        {
+          "text": "Twelve candlesticks and twelve tables for the tribes",
+          "explanation": ""
+        },
+        {
+          "text": "Four candlesticks and four tables for the four corners",
+          "explanation": ""
+        },
+        {
+          "text": "Ten candlesticks and ten tables, five on right and left",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Chronicles 4:7-8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2chr_044",
+      "type": "single_choice",
+      "text": "In what region did king Solomon cast the great brazen vessels of the temple?",
+      "options": [
+        {
+          "text": "In the plain of Jordan in the clay ground",
+          "explanation": ""
+        },
+        {
+          "text": "In the mountains of Edom by copper mines",
+          "explanation": ""
+        },
+        {
+          "text": "In the outer courts of the temple in Salem",
+          "explanation": ""
+        },
+        {
+          "text": "Upon the sea coast of Joppa by the haven",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Chronicles 4:17",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2chr_045",
+      "type": "single_choice",
+      "text": "What was in the holy ark of the covenant in the most holy place?",
+      "options": [
+        {
+          "text": "Aaron's rod that budded and the pot of manna",
+          "explanation": ""
+        },
+        {
+          "text": "Nothing save the two tables which Moses put",
+          "explanation": ""
+        },
+        {
+          "text": "The golden censer and the holy anointing oil",
+          "explanation": ""
+        },
+        {
+          "text": "The book of the law written by Moses' hand",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Chronicles 5:10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2chr_046",
+      "type": "single_choice",
+      "text": "What praised the singers and trumpeters when the cloud filled the house?",
+      "options": [
+        {
+          "text": "Holy, holy, holy is the LORD of all hosts!",
+          "explanation": ""
+        },
+        {
+          "text": "Great is our God above all gods of nations!",
+          "explanation": ""
+        },
+        {
+          "text": "For he is good; for his mercy endureth for ever!",
+          "explanation": ""
+        },
+        {
+          "text": "Lift up your heads, O ye gates of Jerusalem!",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Chronicles 5:13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2chr_047",
+      "type": "single_choice",
+      "text": "With what words did Solomon begin to speak when the glory filled the house?",
+      "options": [
+        {
+          "text": "God needeth no house made by the hands of men",
+          "explanation": ""
+        },
+        {
+          "text": "Hear thou from heaven the prayer of thy servant",
+          "explanation": ""
+        },
+        {
+          "text": "Blessed be the God of Abraham, Isaac and Jacob",
+          "explanation": ""
+        },
+        {
+          "text": "The LORD said that he would dwell in thick darkness",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Chronicles 6:1-2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2chr_048",
+      "type": "single_choice",
+      "text": "From what place did Solomon kneel down and pray before all the congregation?",
+      "options": [
+        {
+          "text": "Upon a brazen scaffold in midst of the court",
+          "explanation": ""
+        },
+        {
+          "text": "Upon the steps before the most holy chamber",
+          "explanation": ""
+        },
+        {
+          "text": "Upon the great ivory throne overlaid with gold",
+          "explanation": ""
+        },
+        {
+          "text": "Upon the high battlements of the south wall",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Chronicles 6:13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2chr_049",
+      "type": "single_choice",
+      "text": "What did Solomon pray concerning the stranger that should pray toward this house?",
+      "options": [
+        {
+          "text": "That he must first be circumcised in the flesh",
+          "explanation": ""
+        },
+        {
+          "text": "That God hear and do according to all he calleth for",
+          "explanation": ""
+        },
+        {
+          "text": "That he bring great offerings of silver and gold",
+          "explanation": ""
+        },
+        {
+          "text": "That he become a tributary servant unto the king",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Chronicles 6:32-33",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2chr_050",
+      "type": "single_choice",
+      "text": "What warning did God give if they should turn away and serve other gods?",
+      "options": [
+        {
+          "text": "He will break the walls of Jerusalem by earthquake",
+          "explanation": ""
+        },
+        {
+          "text": "He will cast off all the priests from their office",
+          "explanation": ""
+        },
+        {
+          "text": "He will pluck them up by roots out of His land",
+          "explanation": ""
+        },
+        {
+          "text": "He will shut up heaven that there be no rain for years",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Chronicles 7:20",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2chr_051",
+      "type": "single_choice",
+      "text": "Which city in the wilderness did Solomon build, with store cities in Hamath?",
+      "options": [
+        {
+          "text": "Nineveh upon the great river in the east",
+          "explanation": ""
+        },
+        {
+          "text": "Kadesh-barnea upon the south border of land",
+          "explanation": ""
+        },
+        {
+          "text": "Shushan in the mountains for a royal palace",
+          "explanation": ""
+        },
+        {
+          "text": "Tadmor in the wilderness and cities of store",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Chronicles 8:4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2chr_052",
+      "type": "single_choice",
+      "text": "Why brought Solomon the daughter of Pharaoh out of the city of David into her house?",
+      "options": [
+        {
+          "text": "My wife shall not dwell in the house of David",
+          "explanation": ""
+        },
+        {
+          "text": "Because she brought too many servants with her",
+          "explanation": ""
+        },
+        {
+          "text": "Because the priests protested against her abode",
+          "explanation": ""
+        },
+        {
+          "text": "Because Pharaoh had promised her a separate palace",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Chronicles 8:11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2chr_053",
+      "type": "single_choice",
+      "text": "How much gold did the servants of Solomon and Huram bring from Ophir?",
+      "options": [
+        {
+          "text": "One hundred talents of fine gold of Ophir",
+          "explanation": ""
+        },
+        {
+          "text": "Four hundred and fifty talents of gold",
+          "explanation": ""
+        },
+        {
+          "text": "Seven hundred talents of refined silver",
+          "explanation": ""
+        },
+        {
+          "text": "Twelve hundred talents of precious brass",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Chronicles 8:18",
+      "explanation": "The servants of Huram with Solomon's servants brought 450 talents of gold from Ophir (approx. 15 metric tons) [ref:2 Chronicles 8:18].",
+      "explanationReviewed": true,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2chr_054",
+      "type": "single_choice",
+      "text": "How was the great throne of king Solomon fashioned in his palace?",
+      "options": [
+        {
+          "text": "Of cedar wood with silver ornaments and four high steps",
+          "explanation": ""
+        },
+        {
+          "text": "Of molten brass with brazen oxen standing by the stays",
+          "explanation": ""
+        },
+        {
+          "text": "Of ivory overlaid with pure gold, six steps and twelve lions",
+          "explanation": ""
+        },
+        {
+          "text": "Of ebony with golden cherubim and ten ascending steps",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Chronicles 9:17-19",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2chr_055",
+      "type": "single_choice",
+      "text": "How long did Solomon reign in Jerusalem over all Israel until his death?",
+      "options": [
+        {
+          "text": "Five and twenty years in riches and honour",
+          "explanation": ""
+        },
+        {
+          "text": "Thirty years until his son became the king",
+          "explanation": ""
+        },
+        {
+          "text": "Fifty years until he died in an old age",
+          "explanation": ""
+        },
+        {
+          "text": "Forty years reigned Solomon in Jerusalem",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Chronicles 9:30",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2chr_056",
+      "type": "single_choice",
+      "text": "What did Jeroboam and all Israel ask of king Rehoboam in Shechem?",
+      "options": [
+        {
+          "text": "Ease thou somewhat the grievous servitude and heavy yoke!",
+          "explanation": ""
+        },
+        {
+          "text": "Lead us forth immediately to battle against the Philistines!",
+          "explanation": ""
+        },
+        {
+          "text": "Permit us to erect our own altars in Dan and Bethel for sacrifice!",
+          "explanation": ""
+        },
+        {
+          "text": "Abolish the priestly courses in the house of the LORD at Salem!",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Chronicles 10:4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2chr_057",
+      "type": "single_choice",
+      "text": "What counsel did the old men that had stood before Solomon give unto Rehoboam?",
+      "options": [
+        {
+          "text": "Command that the leaders of the people be cast into prison",
+          "explanation": ""
+        },
+        {
+          "text": "If thou be kind to this people, and please them with good words",
+          "explanation": ""
+        },
+        {
+          "text": "Double their heavy tribute to show thy supreme royal majesty",
+          "explanation": ""
+        },
+        {
+          "text": "Flee unto the land of Egypt until the murmuring be quieted",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Chronicles 10:7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2chr_058",
+      "type": "single_choice",
+      "text": "What haughty answer did Rehoboam give unto the people after the counsel of young men?",
+      "options": [
+        {
+          "text": "My father chastised you with rods; I release you today!",
+          "explanation": ""
+        },
+        {
+          "text": "I remit all heavy burdens if ye give me ten thousand men!",
+          "explanation": ""
+        },
+        {
+          "text": "My little finger shall be thicker than my father's loins!",
+          "explanation": ""
+        },
+        {
+          "text": "Whosoever murmurs against me shall be banished from land!",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Chronicles 10:10-14",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2chr_059",
+      "type": "single_choice",
+      "text": "Which prophet forbade Rehoboam to fight against the departed tribes of Israel?",
+      "options": [
+        {
+          "text": "Ahijah the Shilonite with his rent garment",
+          "explanation": ""
+        },
+        {
+          "text": "Iddo the seer with his prophetic visions",
+          "explanation": ""
+        },
+        {
+          "text": "Nathan the prophet from the days of David",
+          "explanation": ""
+        },
+        {
+          "text": "Shemaiah the man of God by the word of the LORD",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Chronicles 11:2-4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2chr_060",
+      "type": "single_choice",
+      "text": "Who came out of all the tribes of Israel to Jerusalem after Jeroboam cast them off?",
+      "options": [
+        {
+          "text": "The priests, Levites, and such as sought God",
+          "explanation": ""
+        },
+        {
+          "text": "Only the wealthy merchants with their treasures",
+          "explanation": ""
+        },
+        {
+          "text": "The ancient captains that had served Solomon",
+          "explanation": ""
+        },
+        {
+          "text": "The families of Simeon from the utmost borders",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Chronicles 11:13-16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2chr_061",
+      "type": "single_choice",
+      "text": "With what great army did Shishak king of Egypt come up against Jerusalem?",
+      "options": [
+        {
+          "text": "Five hundred chariots and ten thousand horsemen of Nubia",
+          "explanation": ""
+        },
+        {
+          "text": "Twelve hundred chariots, threescore thousand horsemen, and people",
+          "explanation": ""
+        },
+        {
+          "text": "Two thousand chariots and three hundred thousand footmen",
+          "explanation": ""
+        },
+        {
+          "text": "Eighteen hundred chariots and all the host of Pharaoh",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Chronicles 12:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2chr_062",
+      "type": "single_choice",
+      "text": "With what did king Rehoboam replace the shields of gold which Shishak took away?",
+      "options": [
+        {
+          "text": "With shields of silver from the mines of Arabia",
+          "explanation": ""
+        },
+        {
+          "text": "With shields of leather painted with golden lions",
+          "explanation": ""
+        },
+        {
+          "text": "With shields of brass for the guard of the door",
+          "explanation": ""
+        },
+        {
+          "text": "With shields of thick wood overlaid with iron bands",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Chronicles 12:9-10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2chr_063",
+      "type": "single_choice",
+      "text": "Unto what covenant did king Abijah appeal in his speech upon mount Zemaraim?",
+      "options": [
+        {
+          "text": "Unto the covenant of the priesthood with Aaron",
+          "explanation": ""
+        },
+        {
+          "text": "Unto the royal league with Huram king of Tyre",
+          "explanation": ""
+        },
+        {
+          "text": "Unto the covenant of the patriarchs at Hebron",
+          "explanation": ""
+        },
+        {
+          "text": "Unto the covenant of salt made with David's house",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Chronicles 13:5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2chr_064",
+      "type": "single_choice",
+      "text": "Why did the children of Judah prevail against Jeroboam notwithstanding the ambushment?",
+      "options": [
+        {
+          "text": "Because they cried unto the LORD, relying upon Him",
+          "explanation": ""
+        },
+        {
+          "text": "Because a sudden pestilence consumed Israel's camp",
+          "explanation": ""
+        },
+        {
+          "text": "Because a mighty rainstorm disabled all their chariots",
+          "explanation": ""
+        },
+        {
+          "text": "Because Syrian allies came and broke through the ambush",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Chronicles 13:14-18",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2chr_065",
+      "type": "single_choice",
+      "text": "What reforms did godly king Asa execute in the beginning of his reign in Judah?",
+      "options": [
+        {
+          "text": "He forbade private sacrifices and commanded tithes to Shiloh",
+          "explanation": ""
+        },
+        {
+          "text": "He took away strange altars, high places, images, and groves",
+          "explanation": ""
+        },
+        {
+          "text": "He overlaid the outer courts with gold and set new singers",
+          "explanation": ""
+        },
+        {
+          "text": "He dismissed unjust judges and appointed faithful Levites",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Chronicles 14:1-4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2chr_066",
+      "type": "single_choice",
+      "text": "With what prayer did king Asa cry unto the LORD his God against Zerah the Ethiopian?",
+      "options": [
+        {
+          "text": "LORD, consume all the enemies with thy arrows of fire!",
+          "explanation": ""
+        },
+        {
+          "text": "Send down thine angels from heaven to destroy their camp!",
+          "explanation": ""
+        },
+        {
+          "text": "LORD, it is nothing with thee to help, with many or none!",
+          "explanation": ""
+        },
+        {
+          "text": "Have mercy for David's sake and deliver our souls today!",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Chronicles 14:11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2chr_067",
+      "type": "single_choice",
+      "text": "What solemn message did Azariah the son of Oded proclaim unto king Asa?",
+      "options": [
+        {
+          "text": "Build a great navy at Ezion-geber for gold of Ophir",
+          "explanation": ""
+        },
+        {
+          "text": "Make no covenant whatsoever with kings of the heathen",
+          "explanation": ""
+        },
+        {
+          "text": "Go not up against Samaria to war with northern house",
+          "explanation": ""
+        },
+        {
+          "text": "The LORD is with you, while ye be with him in truth",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Chronicles 15:2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2chr_068",
+      "type": "single_choice",
+      "text": "What did king Asa concerning his mother Maachah because of her idolatry?",
+      "options": [
+        {
+          "text": "He removed her from being queen for making an idol",
+          "explanation": ""
+        },
+        {
+          "text": "He banished her for ever into the mountains of Seir",
+          "explanation": ""
+        },
+        {
+          "text": "He shut her up within the royal house of Lebanon",
+          "explanation": ""
+        },
+        {
+          "text": "He disinherited all her children from the kingdom",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Chronicles 15:16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2chr_069",
+      "type": "single_choice",
+      "text": "What word did Hanani the seer speak unto Asa concerning the watchful care of God?",
+      "options": [
+        {
+          "text": "God neither slumbers nor sleeps over the house of Israel",
+          "explanation": ""
+        },
+        {
+          "text": "The eyes of the LORD run to and fro to shew Himself strong",
+          "explanation": ""
+        },
+        {
+          "text": "The angel of the LORD encampeth round about them that fear",
+          "explanation": ""
+        },
+        {
+          "text": "No weapon formed against the mountain of God shall prosper",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Chronicles 16:9",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2chr_070",
+      "type": "single_choice",
+      "text": "What fault is laid unto king Asa in his great disease of his feet?",
+      "options": [
+        {
+          "text": "He offered sacrifices to strange gods for his healing",
+          "explanation": ""
+        },
+        {
+          "text": "He refused the fasts and prayers appointed by priests",
+          "explanation": ""
+        },
+        {
+          "text": "Yet in his disease he sought not to the LORD, but physicians",
+          "explanation": ""
+        },
+        {
+          "text": "He commanded that many wise counselors be put to death",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Chronicles 16:12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2chr_072",
+      "type": "single_choice",
+      "text": "What effect had Jehoshaphat's godly reign upon the surrounding kingdoms?",
+      "options": [
+        {
+          "text": "The fear of the LORD fell upon all the kingdoms round",
+          "explanation": ""
+        },
+        {
+          "text": "They sent royal ambassadors offering him their crowns",
+          "explanation": ""
+        },
+        {
+          "text": "They confederated secretly together for an invasion",
+          "explanation": ""
+        },
+        {
+          "text": "They refused to pay the customary tribute unto Judah",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Chronicles 17:10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2chr_073",
+      "type": "single_choice",
+      "text": "What ungodly affinity did king Jehoshaphat make with Ahab king of Israel?",
+      "options": [
+        {
+          "text": "He made a navy of ships to go to Tarshish for gold",
+          "explanation": ""
+        },
+        {
+          "text": "He joined affinity with Ahab and went to Ramoth-gilead",
+          "explanation": ""
+        },
+        {
+          "text": "He delivered unto Ahab the fenced cities of Benjamin",
+          "explanation": ""
+        },
+        {
+          "text": "He permitted an house of Baal to be built at Jerusalem",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Chronicles 18:1-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2chr_074",
+      "type": "single_choice",
+      "text": "What vision did the prophet Micaiah reveal unto king Ahab and king Jehoshaphat?",
+      "options": [
+        {
+          "text": "Four chariots of brass coming forth from two mountains",
+          "explanation": ""
+        },
+        {
+          "text": "The LORD upon His throne, and a lying spirit in the mouth",
+          "explanation": ""
+        },
+        {
+          "text": "A flying roll passing over the royal palace of Samaria",
+          "explanation": ""
+        },
+        {
+          "text": "Seven golden vials poured out upon the mount of Gilead",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Chronicles 18:18-22",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2chr_075",
+      "type": "single_choice",
+      "text": "How was king Ahab of Israel slain in battle notwithstanding his disguise?",
+      "options": [
+        {
+          "text": "He was surrounded by thirty and two Syrian chariots",
+          "explanation": ""
+        },
+        {
+          "text": "His own horse was terrified and plunged down a cliff",
+          "explanation": ""
+        },
+        {
+          "text": "A certain man drew a bow at venture and smote him",
+          "explanation": ""
+        },
+        {
+          "text": "He fell by the sharp sword of the chief Syrian captain",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Chronicles 18:33",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2chr_076",
+      "type": "single_choice",
+      "text": "What charge gave king Jehoshaphat unto the judges set in the fenced cities of Judah?",
+      "options": [
+        {
+          "text": "Judge according to the royal statute of kings of Israel!",
+          "explanation": ""
+        },
+        {
+          "text": "Take no tithes of the widows nor of fatherless children!",
+          "explanation": ""
+        },
+        {
+          "text": "Take heed what ye do: for ye judge not for man, but God",
+          "explanation": ""
+        },
+        {
+          "text": "Determine every hard matter alone by casting of the lot!",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Chronicles 19:6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2chr_077",
+      "type": "single_choice",
+      "text": "Whom did Jehoshaphat set in Jerusalem over the matters of the LORD and the king?",
+      "options": [
+        {
+          "text": "Zechariah for the law of the LORD and Benaiah over the host",
+          "explanation": ""
+        },
+        {
+          "text": "Eliakim for the royal palace and Shebna the chief scribe",
+          "explanation": ""
+        },
+        {
+          "text": "Hilkiah for holy scriptures and Jehu the seer for battle",
+          "explanation": ""
+        },
+        {
+          "text": "Amariah the chief priest and Zebadiah ruler of house of Judah",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Chronicles 19:11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2chr_078",
+      "type": "single_choice",
+      "text": "What confession of faith did Jehoshaphat utter in his prayer before all Judah?",
+      "options": [
+        {
+          "text": "We have no might against this great company; our eyes are upon thee!",
+          "explanation": ""
+        },
+        {
+          "text": "Our walls are strong and our swords are sharp to obtain victory!",
+          "explanation": ""
+        },
+        {
+          "text": "We will make a treaty of peace with Moab and Ammon with silver!",
+          "explanation": ""
+        },
+        {
+          "text": "Send down thine holy angels from heaven to destroy their borders!",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Chronicles 20:12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2chr_079",
+      "type": "single_choice",
+      "text": "What cruel deed did Jehoram the son of Jehoshaphat commit after he was risen up?",
+      "options": [
+        {
+          "text": "He banished the faithful priests from the sanctuary",
+          "explanation": ""
+        },
+        {
+          "text": "He slew all his brethren with sword, and divers princes",
+          "explanation": ""
+        },
+        {
+          "text": "He delivered the suburbs of Jerusalem to be plundered",
+          "explanation": ""
+        },
+        {
+          "text": "He brake down the doors of the temple for their gold",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Chronicles 21:4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2chr_081",
+      "type": "single_choice",
+      "text": "Who was counsellor unto king Ahaziah of Judah to do wickedly in his reign?",
+      "options": [
+        {
+          "text": "The priests of the sanctuary who served strange gods",
+          "explanation": ""
+        },
+        {
+          "text": "The Syrian merchants that builded altars in the city",
+          "explanation": ""
+        },
+        {
+          "text": "The captains of the Philistines with whom he made league",
+          "explanation": ""
+        },
+        {
+          "text": "His mother Athaliah the daughter of Omri was his counsellor",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Chronicles 22:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2chr_082",
+      "type": "single_choice",
+      "text": "Who saved the young child Joash from the destruction of Athaliah?",
+      "options": [
+        {
+          "text": "Jehoshabeath the daughter of the king, who hid him in a bedchamber",
+          "explanation": ""
+        },
+        {
+          "text": "A faithful priest who bred him as a shepherd in the wilderness",
+          "explanation": ""
+        },
+        {
+          "text": "Huldah the prophetess who nourished him secretly in her chamber",
+          "explanation": ""
+        },
+        {
+          "text": "A captain of the royal guard who carried him away unto Hebron",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Chronicles 22:11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2chr_083",
+      "type": "single_choice",
+      "text": "How did Jehoiada the priest set the lawful king Joash upon the royal throne?",
+      "options": [
+        {
+          "text": "He called the people together to put the queen from power",
+          "explanation": ""
+        },
+        {
+          "text": "He made a covenant with captains and crowned Joash in God's house",
+          "explanation": ""
+        },
+        {
+          "text": "He hired Syrian mercenaries to take possession of palace",
+          "explanation": ""
+        },
+        {
+          "text": "He commanded that Athaliah be banished secretly by night",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Chronicles 23:1-11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2chr_084",
+      "type": "single_choice",
+      "text": "What cried Athaliah when she saw the king stand at his pillar at the entering in?",
+      "options": [
+        {
+          "text": "Woe, woe, the judgment of Baal is upon us!",
+          "explanation": ""
+        },
+        {
+          "text": "Lay hold on the conspirators and bind them!",
+          "explanation": ""
+        },
+        {
+          "text": "Treason, Treason! – and she rent her clothes",
+          "explanation": ""
+        },
+        {
+          "text": "Cursed be the house of David for evermore!",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Chronicles 23:13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2chr_085",
+      "type": "single_choice",
+      "text": "What did all the people after the death of Athaliah with the house of Baal?",
+      "options": [
+        {
+          "text": "They converted it into a storehouse for corn",
+          "explanation": ""
+        },
+        {
+          "text": "They shut up the doors thereof and sealed them",
+          "explanation": ""
+        },
+        {
+          "text": "They sold the brazen pillars to strange merchants",
+          "explanation": ""
+        },
+        {
+          "text": "They brake down the house of Baal and slew Mattan",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Chronicles 23:17",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2chr_086",
+      "type": "single_choice",
+      "text": "How did Joash and Jehoiada collect the collection of Moses to repair the house?",
+      "options": [
+        {
+          "text": "They made a chest, and set it without at the gate of the house",
+          "explanation": ""
+        },
+        {
+          "text": "They sent armed soldiers through houses to seize silver",
+          "explanation": ""
+        },
+        {
+          "text": "They sold the holy hangings and vessels of the sanctuary",
+          "explanation": ""
+        },
+        {
+          "text": "They borrowed a great sum from the wealthy princes of Tyre",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Chronicles 24:8-10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2chr_087",
+      "type": "single_choice",
+      "text": "Why did king Amaziah discharge the hundred thousand men of valour hired out of Israel?",
+      "options": [
+        {
+          "text": "Because he lacked sufficient silver to pay their hire",
+          "explanation": ""
+        },
+        {
+          "text": "Because a man of God said: The LORD is not with Israel!",
+          "explanation": ""
+        },
+        {
+          "text": "Because the mercenaries conspired against the king of Judah",
+          "explanation": ""
+        },
+        {
+          "text": "Because the priests refused to sanctify them for battle",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Chronicles 25:7-10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2chr_089",
+      "type": "single_choice",
+      "text": "What inventions did king Uzziah make in Jerusalem to be on the towers and bulwarks?",
+      "options": [
+        {
+          "text": "Battering rams of iron hung with strong chains",
+          "explanation": ""
+        },
+        {
+          "text": "Great brazen mirrors to dazzle the enemy host",
+          "explanation": ""
+        },
+        {
+          "text": "Mighty torches of fire for the watch of the night",
+          "explanation": ""
+        },
+        {
+          "text": "Engines, invented by cunning men, to shoot stones",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Chronicles 26:15",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2chr_090",
+      "type": "single_choice",
+      "text": "What notable works did upright king Jotham build in the land?",
+      "options": [
+        {
+          "text": "He built the high gate of house of the LORD and on Ophel",
+          "explanation": ""
+        },
+        {
+          "text": "He built a great conduit from Jordan unto the palace",
+          "explanation": ""
+        },
+        {
+          "text": "He erected twenty brazen altars upon the hills of Judah",
+          "explanation": ""
+        },
+        {
+          "text": "He made a wall of defence along the border of Edom",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Chronicles 27:3-4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2chr_092",
+      "type": "single_choice",
+      "text": "What abominations did wicked king Ahaz commit in his reign?",
+      "options": [
+        {
+          "text": "He sold the holy ark of God unto Pharaoh of Egypt",
+          "explanation": ""
+        },
+        {
+          "text": "He opened the sepulchre of David to take the gold",
+          "explanation": ""
+        },
+        {
+          "text": "He made molten images for Baalim and burnt his children",
+          "explanation": ""
+        },
+        {
+          "text": "He forbade the covenant of circumcision in all Judah",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Chronicles 28:2-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2chr_093",
+      "type": "single_choice",
+      "text": "Which prophet went out before the host of Israel that came to Samaria?",
+      "options": [
+        {
+          "text": "Micah the Morasthite with a weeping voice",
+          "explanation": ""
+        },
+        {
+          "text": "Amos of Tekoa with solemn prophecies of doom",
+          "explanation": ""
+        },
+        {
+          "text": "Hosea the son of Beeri in name of the LORD",
+          "explanation": ""
+        },
+        {
+          "text": "Oded the prophet who bade release the captives",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Chronicles 28:9-11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2chr_094",
+      "type": "single_choice",
+      "text": "What folly did king Ahaz manifest in the time of his distress?",
+      "options": [
+        {
+          "text": "He sacrificed unto the gods of Damascus which smote him",
+          "explanation": ""
+        },
+        {
+          "text": "He made a captain of Syria to be high priest in Zion",
+          "explanation": ""
+        },
+        {
+          "text": "He fled unto Babylon seeking protection from Chaldeans",
+          "explanation": ""
+        },
+        {
+          "text": "He burned the ancient chronicles of the kings of Judah",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Chronicles 28:22-23",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2chr_096",
+      "type": "single_choice",
+      "text": "How was the service of the house of the LORD set in order under Hezekiah?",
+      "options": [
+        {
+          "text": "In solemn silence did the people remain all the day",
+          "explanation": ""
+        },
+        {
+          "text": "Only the Levites were permitted before the altar",
+          "explanation": ""
+        },
+        {
+          "text": "All the congregation worshipped, singers sang and trumpets",
+          "explanation": ""
+        },
+        {
+          "text": "A grievous lamentation filled the streets of Jerusalem",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Chronicles 29:28-36",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2chr_097",
+      "type": "single_choice",
+      "text": "How far did the proclamation of Hezekiah extend to keep the passover at Jerusalem?",
+      "options": [
+        {
+          "text": "Only unto the citizens of Jerusalem and priests within",
+          "explanation": ""
+        },
+        {
+          "text": "Only unto the tribes of Judah and Benjamin in the south",
+          "explanation": ""
+        },
+        {
+          "text": "Unto all the dwellers in the wilderness unto mount Edom",
+          "explanation": ""
+        },
+        {
+          "text": "Throughout all Israel and Judah from Beer-sheba to Dan",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Chronicles 30:5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2chr_098",
+      "type": "single_choice",
+      "text": "What did all Israel that were present do after the passover was finished?",
+      "options": [
+        {
+          "text": "They brake images, cut down groves, threw down high places",
+          "explanation": ""
+        },
+        {
+          "text": "They shut up all the shrines and sealed them with seal",
+          "explanation": ""
+        },
+        {
+          "text": "They converted the heathen groves into storehouses",
+          "explanation": ""
+        },
+        {
+          "text": "They banished the idolatrous priests out of the coasts",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Chronicles 31:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2chr_099",
+      "type": "single_choice",
+      "text": "What did Hezekiah and the princes see concerning the heaps of tithes?",
+      "options": [
+        {
+          "text": "That the people had brought almost no tithes at all",
+          "explanation": ""
+        },
+        {
+          "text": "That people brought in abundantly, and there was plenteous",
+          "explanation": ""
+        },
+        {
+          "text": "That the priests had sold the portion of the Levites",
+          "explanation": ""
+        },
+        {
+          "text": "That new storehouses must be builded outside the walls",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Chronicles 31:6-10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2chr_100",
+      "type": "single_choice",
+      "text": "With what testimony does the scripture record the works of Hezekiah?",
+      "options": [
+        {
+          "text": "He gathered more silver and gold than all kings before him",
+          "explanation": ""
+        },
+        {
+          "text": "He subdued all the cities of the Philistines by battle",
+          "explanation": ""
+        },
+        {
+          "text": "In every work he sought his God with all his heart, and prospered",
+          "explanation": ""
+        },
+        {
+          "text": "He builded the highest wall that ever stood in Jerusalem",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Chronicles 31:20-21",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2chr_101",
+      "type": "single_choice",
+      "text": "What defence took Hezekiah when he saw that Sennacherib was come?",
+      "options": [
+        {
+          "text": "He builded a brick wall round about all the mountains",
+          "explanation": ""
+        },
+        {
+          "text": "He burned all the cornfields in the valleys round about",
+          "explanation": ""
+        },
+        {
+          "text": "He asked the king of Egypt for three hundred ships of war",
+          "explanation": ""
+        },
+        {
+          "text": "He stopped the fountains and watercourse of Gihon beneath",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Chronicles 32:2-4, 30",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2chr_102",
+      "type": "single_choice",
+      "text": "With what words did Hezekiah encourage the people before the host of Assyria?",
+      "options": [
+        {
+          "text": "With him is an arm of flesh; with us is the LORD our God!",
+          "explanation": ""
+        },
+        {
+          "text": "Our fenced walls are too high for their horses and chariots!",
+          "explanation": ""
+        },
+        {
+          "text": "The mighty army of Pharaoh cometh swiftly to our help!",
+          "explanation": ""
+        },
+        {
+          "text": "A league with Babylon shall preserve our lives from sword!",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Chronicles 32:7-8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2chr_103",
+      "type": "single_choice",
+      "text": "How ended the siege of Jerusalem by Sennacherib king of Assyria?",
+      "options": [
+        {
+          "text": "Sennacherib made a perpetual treaty of peace with Judah",
+          "explanation": ""
+        },
+        {
+          "text": "An angel cut off his host; he was slain in house of his god",
+          "explanation": ""
+        },
+        {
+          "text": "The men of Judah assaulted the camp by night and prevailed",
+          "explanation": ""
+        },
+        {
+          "text": "A great famine in the land compelled the Assyrians to depart",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Chronicles 32:21",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2chr_104",
+      "type": "single_choice",
+      "text": "What great abominations did Manasseh build in the house of the LORD?",
+      "options": [
+        {
+          "text": "He delivered the golden candlestick unto Babylon",
+          "explanation": ""
+        },
+        {
+          "text": "He burned the rolls of the covenant within the court",
+          "explanation": ""
+        },
+        {
+          "text": "He built altars for the host of heaven and set an idol",
+          "explanation": ""
+        },
+        {
+          "text": "He forbade the priests to enter into the sanctuary",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Chronicles 33:4-7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2chr_106",
+      "type": "single_choice",
+      "text": "What did Hilkiah the priest find when they brought out the money in the temple?",
+      "options": [
+        {
+          "text": "A chest with the crowns of the ancient kings",
+          "explanation": ""
+        },
+        {
+          "text": "A book of the law of the LORD given by Moses",
+          "explanation": ""
+        },
+        {
+          "text": "The golden sceptre of David and Solomon's seal",
+          "explanation": ""
+        },
+        {
+          "text": "A roll of hidden treasures laid up in sanctuary",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Chronicles 34:14-15",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2chr_107",
+      "type": "single_choice",
+      "text": "How is the passover kept by king Josiah described in the scripture?",
+      "options": [
+        {
+          "text": "It continued for the space of forty days and forty nights",
+          "explanation": ""
+        },
+        {
+          "text": "It was kept without lambs, with unleavened cakes only",
+          "explanation": ""
+        },
+        {
+          "text": "No passover like that was kept from the days of Samuel",
+          "explanation": ""
+        },
+        {
+          "text": "Only the rulers and priests were admitted to the feast",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Chronicles 35:18",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2chr_108",
+      "type": "single_choice",
+      "text": "What does the scripture record concerning the people before the destruction?",
+      "options": [
+        {
+          "text": "They builded mighty fenced towers against the Chaldeans",
+          "explanation": ""
+        },
+        {
+          "text": "They believed the words of prophets and repented in sackcloth",
+          "explanation": ""
+        },
+        {
+          "text": "They sent ambassadors to Egypt seeking an army of chariots",
+          "explanation": ""
+        },
+        {
+          "text": "They mocked the messengers of God, till there was no remedy",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Chronicles 36:15-16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    }
+  ]
+}
