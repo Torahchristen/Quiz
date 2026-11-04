@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-11-04T18:22:31Z",
+  "lastUpdated": "2026-11-04T18:37:23Z",
   "language": "en",
   "categories": [
     {
@@ -196,6 +196,25 @@
       ],
       "sizeBytes": 27432,
       "downloadUrl": "./en/08_rut.json"
+    },
+    {
+      "quizId": "bibel_09_1_samuel_en",
+      "category": "geschichte",
+      "title": "1 Samuel",
+      "subtitle": "1 Samuel 1:1 – 31:13 (111 Questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 111,
+      "difficulty": "medium",
+      "tags": [
+        "1 Samuel",
+        "OT",
+        "history",
+        "KJV"
+      ],
+      "sizeBytes": 97242,
+      "downloadUrl": "./en/09_1_samuel.json"
     }
   ]
 }
