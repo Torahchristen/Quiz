@@ -1,0 +1,1384 @@
+{
+  "metadata": {
+    "quizId": "bibel_21_prediger_en",
+    "title": "Ecclesiastes",
+    "subtitle": "Ecclesiastes 1:1 – 12:14 (40 questions)",
+    "author": "King James Version (1769)",
+    "version": "1.0.0",
+    "language": "en",
+    "category": "weisheit",
+    "difficulty": "medium",
+    "tags": [
+      "Ecclesiastes",
+      "OT",
+      "wisdom",
+      "poetry",
+      "KJV"
+    ],
+    "questionCount": 40,
+    "canonicalBookNumber": 21,
+    "testament": "OT"
+  },
+  "questions": [
+    {
+      "questionId": "pred_001",
+      "type": "single_choice",
+      "text": "How doth the Preacher judge all labour of man in Ecclesiastes 1:2?",
+      "options": [
+        {
+          "text": "It is eternal and can never pass away",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Vanity of vanities; all is vanity under the sun",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "It is continually blessed of God alone",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It is the source of all heavenly wisdom",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Ecclesiastes 1:2-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "pred_002",
+      "type": "single_choice",
+      "text": "What image for the perpetual cycle of nature doth the Preacher use in Ecclesiastes 1:7?",
+      "options": [
+        {
+          "text": "The wind bloweth toward the south, and whirleth about continually",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The stars rise and go down in their appointed celestial course",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "All the rivers run into the sea; yet the sea is not full",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The harvest ripeneth in the fields and is gathered year by year",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Ecclesiastes 1:7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "pred_003",
+      "type": "single_choice",
+      "text": "What conclusion doth the Preacher reach after beholding all his works and pleasures?",
+      "options": [
+        {
+          "text": "It was all good and brought enduring profit under the sun",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It was all profitable and satisfied the soul with abiding peace",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It was the wise man's true reward and nothing was lost of it",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "All was vanity and vexation of spirit, and there was no profit under the sun",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Ecclesiastes 2:11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "pred_004",
+      "type": "single_choice",
+      "text": "What happeneth to the wise man even as to the fool in Ecclesiastes 2:14-16?",
+      "options": [
+        {
+          "text": "One event happeneth to them all: they die",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The same great age and the same poverty in their death",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The same open reproach and the same quick forgetting",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The same grievous sickness and the same heavy affliction",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Ecclesiastes 2:14-16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "pred_005",
+      "type": "single_choice",
+      "text": "What is declared in Ecclesiastes 3:1 concerning all purpose under the heaven?",
+      "options": [
+        {
+          "text": "It dependeth upon the changing will of earthly kings",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To every thing there is a season, and a time to every purpose",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "It faileth continually without heavenly knowledge",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It endeth only in vanity and grief under the sun",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Ecclesiastes 3:1-8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "pred_006",
+      "type": "single_choice",
+      "text": "What hath God done concerning the heart of man in Ecclesiastes 3:11?",
+      "options": [
+        {
+          "text": "He hath caused their heart to rejoice in all earthly riches",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He hath hardened their heart against all heavenly instruction",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He hath set the world in their heart, so that no man can find it out",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He hath established their heart in quiet peace through all time",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Ecclesiastes 3:11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "pred_007",
+      "type": "single_choice",
+      "text": "What image doth the Preacher use in Ecclesiastes 4:12 for the strength of companionship?",
+      "options": [
+        {
+          "text": "A rock in the sea that withstandeth every tempestuous storm",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A fruitful tree planted by the waters that never falleth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A brazen shield that turneth away the arrows of the enemy",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A threefold cord is not quickly broken",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Ecclesiastes 4:9-12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "pred_008",
+      "type": "single_choice",
+      "text": "What counsel doth the Preacher give concerning a vow in Ecclesiastes 5:4?",
+      "options": [
+        {
+          "text": "When thou vowest a vow, defer not to pay it",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Make vows only in the presence of holy priests",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Put off the payment of a vow until prosperity",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Speak few words and refrain from all promises",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Ecclesiastes 5:3-4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "pred_009",
+      "type": "single_choice",
+      "text": "What doth Ecclesiastes 5:10 say concerning him that loveth money?",
+      "options": [
+        {
+          "text": "He shall quickly become rich and have plenty",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He that loveth silver shall not be satisfied with silver",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He shall find quiet peace in his great abundance",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He shall become a generous giver unto the poor",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Ecclesiastes 5:10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "pred_010",
+      "type": "single_choice",
+      "text": "With what doth Ecclesiastes 7:1 compare a good name?",
+      "options": [
+        {
+          "text": "Better than great store of refined gold",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Better than sweet noble wine in cup",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A good name is better than precious ointment",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Better than the honeycomb of the field",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Ecclesiastes 7:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "pred_011",
+      "type": "single_choice",
+      "text": "What counsel doth Ecclesiastes 7:9 give concerning anger?",
+      "options": [
+        {
+          "text": "Anger is a sign of valour and firmness in the assembly of elders",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Anger cleanseth the mind and bringeth hidden righteousness to light",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Anger is righteous zeal and is commended by the judges of people",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Be not hasty in thy spirit to be angry: for anger resteth in fools",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Ecclesiastes 7:9",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "pred_012",
+      "type": "single_choice",
+      "text": "Why is a living dog better than a dead lion according to Ecclesiastes 9:4-5?",
+      "options": [
+        {
+          "text": "For the living know that they shall die, and to him that is joined there is hope",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Because the dog is faithful and followeth his master, but the lion is wild",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because the lion loseth his great strength in death and no man feareth him",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because the dog is useful in the house, but the dead lion profiteth nothing",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Ecclesiastes 9:4-5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "pred_013",
+      "type": "single_choice",
+      "text": "What doth the Preacher relate in Ecclesiastes 9:14-15 concerning a little city?",
+      "options": [
+        {
+          "text": "A valiant captain defended it with soldiers, yet he fell before the gates",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A poor wise man by his wisdom delivered the city, yet no man remembered him",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The elders paid much gold unto the king, yet the city was utterly ruined",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The citizens built a high wall round about, yet the enemy breached the towers",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Ecclesiastes 9:14-15",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "pred_014",
+      "type": "single_choice",
+      "text": "What causeth the ointment of the apothecary to stink in Ecclesiastes 10:1?",
+      "options": [
+        {
+          "text": "Foul river water",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The scorching sun",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Dead flies cause it",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "An excess of salt",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Ecclesiastes 10:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "pred_015",
+      "type": "single_choice",
+      "text": "What counsel is given in Ecclesiastes 11:1?",
+      "options": [
+        {
+          "text": "Sow thy seed only upon fertile soil, so shalt thou reap an abundant harvest",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Hide thy corn from the eyes of strangers, that thou mayest survive famine",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Bestow thy goods only upon the righteous, so shalt thou have blessing in house",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Cast thy bread upon the waters: for thou shalt find it after many days",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Ecclesiastes 11:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "pred_016",
+      "type": "single_choice",
+      "text": "Whom shouldest thou remember in the days of thy youth according to Ecclesiastes 12:1?",
+      "options": [
+        {
+          "text": "Remember now thy Creator, while the evil days come not",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The holy statutes of Moses, that thy days may be prolonged",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The ancient wisdom of the elders who walked before God",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The sacred covenant made with thy fathers in the wilderness",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Ecclesiastes 12:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "pred_017",
+      "type": "single_choice",
+      "text": "What is the conclusion of the whole matter according to Ecclesiastes 12:13?",
+      "options": [
+        {
+          "text": "To build cities and establish just laws for all future generations",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Fear God, and keep his commandments: for this is the whole duty of man",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "To study ancient wisdom and teach understanding unto simple youth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To offer morning and evening sacrifices upon the altar in Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Ecclesiastes 12:13-14",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "pred_018",
+      "type": "single_choice",
+      "text": "Who identifieth himself as the speaker of the book in Ecclesiastes 1:1?",
+      "options": [
+        {
+          "text": "Solomon the son of David, reigning in glory over the heathen",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A prophet of the LORD prophesying in the wilderness of Judah",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The words of the Preacher, the son of David, king in Jerusalem",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "An aged priest ministering daily in the holy temple sanctuary",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Ecclesiastes 1:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "pred_019",
+      "type": "single_choice",
+      "text": "What followeth upon much wisdom according to Ecclesiastes 1:18?",
+      "options": [
+        {
+          "text": "Great worldly riches and an honourable name in all the earth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Quiet contentment and peace of mind among many companions",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Exaltation to high dignity and power over the city gates",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For in much wisdom is much grief: and he that increaseth knowledge sorrow",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Ecclesiastes 1:17-18",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "pred_020",
+      "type": "single_choice",
+      "text": "With what doth Ecclesiastes 7:6 compare the laughter of the fool?",
+      "options": [
+        {
+          "text": "As the crackling of thorns under a pot, so is the laughter of the fool",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "As the loud croaking of frogs in the marshes when darkness falleth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As the hooting of desert owls among the deserted ruins of the city",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As the roaring of wild beasts of the wilderness that seek after prey",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Ecclesiastes 7:6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "pred_021",
+      "type": "single_choice",
+      "text": "What counsel doth Ecclesiastes 11:2 give in view of coming evil upon the earth?",
+      "options": [
+        {
+          "text": "Lay up secret storehouses of silver against the days of famine",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Give a portion to seven, and also to eight, for coming evil",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Flee into the high mountain fortresses before the storm breaketh",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Rely only upon thine own kindred and put no confidence in strangers",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Ecclesiastes 11:2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "pred_022",
+      "type": "single_choice",
+      "text": "How doth Ecclesiastes 12:3 describe old age in figurative language?",
+      "options": [
+        {
+          "text": "The golden bowl is shattered and the cistern wheel is broken in twain",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The grasshopper is a heavy burden and all the desire of life faileth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The keepers of the house shall tremble, and the strong men shall bow",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The sun, the light, the moon, and the stars are darkened in the heavens",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Ecclesiastes 12:2-5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "pred_023",
+      "type": "single_choice",
+      "text": "What happeneth at death according to Ecclesiastes 12:7?",
+      "options": [
+        {
+          "text": "The body sleepeth in the sepulchre, and the soul resteth in silence",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The flesh perisheth in the earth, and the spirit wandereth in darkness",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The dust returneth to ashes, and the memory fadeth like a morning mist",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The dust shall return to the earth, and the spirit unto God who gave it",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Ecclesiastes 12:7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "pred_024",
+      "type": "single_choice",
+      "text": "What doth Ecclesiastes 12:12 say concerning the making of books?",
+      "options": [
+        {
+          "text": "Of making many books there is no end",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The making of books bringeth great fame",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The making of books increaseth all wisdom",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The making of books delighteth the monarch",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Ecclesiastes 12:12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "pred_025",
+      "type": "single_choice",
+      "text": "What shall happen according to Ecclesiastes 12:14?",
+      "options": [
+        {
+          "text": "The earth shall pass away and a new heaven shall be created in glory",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "God shall bring every work into judgment, with every secret thing",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The names of all the wicked shall be blotted out of remembrance",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The righteous shall inherit the kingdoms of the earth for evermore",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Ecclesiastes 12:14",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "pred_026",
+      "type": "single_choice",
+      "text": "What is good for man according to Ecclesiastes 2:24?",
+      "options": [
+        {
+          "text": "That he should eat and drink, and make his soul enjoy good in his labour",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "That he should lay up treasures of silver and be secure from all want",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That he should rule over his neighbours and be a renowned prince in land",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That he should study ancient lore and abstain from all worldly pleasure",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Ecclesiastes 2:24",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "pred_027",
+      "type": "single_choice",
+      "text": "Unto what purpose doth God work according to Ecclesiastes 3:14?",
+      "options": [
+        {
+          "text": "That the nations may acknowledge his boundless mighty power",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "God doeth it, that men should fear before him in reverence",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "That the righteous may receive great riches upon the earth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That the counsel of the ungodly rulers may be brought to nought",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Ecclesiastes 3:14",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "pred_028",
+      "type": "single_choice",
+      "text": "What did the Preacher behold with grief in Ecclesiastes 4:1?",
+      "options": [
+        {
+          "text": "The ungodly rulers rejoicing in their great worldly palaces",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The temples of false gods erected upon the high mountains",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The tears of such as were oppressed, and they had no comforter",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The faithful priests neglected while the people went astray",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Ecclesiastes 4:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "pred_029",
+      "type": "single_choice",
+      "text": "Who is better than an old and foolish king according to Ecclesiastes 4:13?",
+      "options": [
+        {
+          "text": "A wealthy merchant",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A valiant soldier",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A prudent magistrate",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Better is a poor and a wise child",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Ecclesiastes 4:13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "pred_030",
+      "type": "single_choice",
+      "text": "What counsel is given in Ecclesiastes 5:2 concerning speaking before God?",
+      "options": [
+        {
+          "text": "Be not rash with thy mouth: for God is in heaven, and thou upon earth",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Pray with a loud voice in the market that men may see thy devoutness",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Speak only within the temple walls, for there only doth the LORD hear",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Repeat thy words three times in prayer that they may prevail with God",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Ecclesiastes 5:2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "pred_031",
+      "type": "single_choice",
+      "text": "What grievous evil is described in Ecclesiastes 6:1-2?",
+      "options": [
+        {
+          "text": "A man buildeth a house, but a hostile army consumeth it with fire",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "God giveth riches, yet not power to eat thereof, but a stranger eateth it",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A ruler gathereth silver and gold, but his unfaithful servants steal it",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A wise man planteth a vineyard, but a severe drought destroyeth the crop",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Ecclesiastes 6:1-2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "pred_032",
+      "type": "single_choice",
+      "text": "Who is better off than a man whose soul is NOT filled with good in Ecclesiastes 6:3?",
+      "options": [
+        {
+          "text": "A poor hired labourer",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A wandering stranger",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "An untimely birth is better",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "An aged blind beggar",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Ecclesiastes 6:3-5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "pred_033",
+      "type": "single_choice",
+      "text": "What is better according to Ecclesiastes 6:9?",
+      "options": [
+        {
+          "text": "To pursue every distant desire rather than be content with little",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To lay up large storehouses of grain rather than eat daily bread",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To seek after the wealth of strangers rather than dwell in peace",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Better is the sight of the eyes than the wandering of the desire",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Ecclesiastes 6:9",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "pred_034",
+      "type": "single_choice",
+      "text": "What is said concerning the word of a king in Ecclesiastes 8:4?",
+      "options": [
+        {
+          "text": "Where the word of a king is, there is power: who may say, What doest thou?",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "In his word is righteous judgment, and all his people obey with gladness",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In his word is tender mercy, and the destitute find a sure refuge in him",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In his word is deceitful vanity, and no wise counsellor relieth upon it",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Ecclesiastes 8:4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "pred_035",
+      "type": "single_choice",
+      "text": "Why is the heart of men fully set in them to do evil in Ecclesiastes 8:11?",
+      "options": [
+        {
+          "text": "Because they no longer believe the holy statutes of the ancient law",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because sentence against an evil work is not executed speedily",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Because the magistrates in the gate take bribes from violent oppressors",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because no man regardeth the words and warnings of the holy prophets",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Ecclesiastes 8:11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "pred_036",
+      "type": "single_choice",
+      "text": "What assurance doth the Preacher maintain in Ecclesiastes 8:12?",
+      "options": [
+        {
+          "text": "All the children of men receive the same earthly reward in life",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Abundance of worldly riches is the sure token of divine favour",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It shall be well with them that fear God, which fear before him",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Man directeth his own destiny by the strength of his understanding",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Ecclesiastes 8:12-13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "pred_037",
+      "type": "single_choice",
+      "text": "What counsel doth Ecclesiastes 9:10 give?",
+      "options": [
+        {
+          "text": "Wait until others determine the matter, and then act cautiously",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Defer thy work until old age, when thou art grown more prudent",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Avoid manual labour and seek after light easy occupations in life",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Whatsoever thy hand findeth to do, do it with thy might",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Ecclesiastes 9:10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "pred_038",
+      "type": "single_choice",
+      "text": "What is said concerning the heart of the wise and the fool in Ecclesiastes 10:2?",
+      "options": [
+        {
+          "text": "A wise man’s heart is at his right hand; but a fool’s heart at his left",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The wise man walketh upon the mountains, but the fool in the valleys",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The wise man keepeth silence in assembly, but the fool talketh much",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The wise man spareth his bread, but the fool consumeth all his goods",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Ecclesiastes 10:2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "pred_039",
+      "type": "single_choice",
+      "text": "Over what doth the Preacher pronounce woe in Ecclesiastes 10:16?",
+      "options": [
+        {
+          "text": "Over a land without soldiers, whose watchmen sleep and keep no guard",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Woe to thee, O land, when thy king is a child, and thy princes eat in morning",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Over a conquered country that payeth heavy tribute unto foreign kings",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Over a barren land without harvest, whose judges pervert the righteous cause",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Ecclesiastes 10:16-17",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "pred_040",
+      "type": "single_choice",
+      "text": "What counsel is given to the sower in Ecclesiastes 11:6?",
+      "options": [
+        {
+          "text": "To sow only under a clear sky and wait patiently for the rainy season",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To flee from the field whenever dark clouds begin to gather in heaven",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In the morning sow thy seed, and in the evening withhold not thine hand",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "To sow only half of the grain and reserve the rest against famine",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Ecclesiastes 11:6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "branch": "review-and-english",
   "totalFiles": 66,
-  "completedCount": 20,
+  "completedCount": 21,
   "completedFiles": [
     "01_1_mose.json",
     "02_2_mose.json",
@@ -22,10 +22,10 @@
     "17_esther.json",
     "18_hiob.json",
     "19_psalmen.json",
-    "20_sprueche.json"
+    "20_sprueche.json",
+    "21_prediger.json"
   ],
   "pendingFiles": [
-    "21_prediger.json",
     "22_hohelied.json",
     "23_jesaja.json",
     "24_jeremia.json",
@@ -212,6 +212,13 @@
       "explanationsReviewedEn": 0,
       "reportPath": "reports/20_sprueche.md",
       "enPath": "en/20_sprueche.json"
+    },
+    "21_prediger.json": {
+      "questionsCount": 40,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/21_prediger.md",
+      "enPath": "en/21_prediger.json"
     }
   }
 }

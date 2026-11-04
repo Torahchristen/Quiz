@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-11-04T22:09:05Z",
+  "lastUpdated": "2026-11-04T22:14:07Z",
   "language": "en",
   "categories": [
     {
@@ -426,6 +426,26 @@
       ],
       "sizeBytes": 87242,
       "downloadUrl": "./en/20_sprueche.json"
+    },
+    {
+      "quizId": "bibel_21_prediger_en",
+      "category": "weisheit",
+      "title": "Ecclesiastes",
+      "subtitle": "Ecclesiastes 1:1 – 12:14 (40 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "1.0.0",
+      "questionCount": 40,
+      "difficulty": "medium",
+      "tags": [
+        "Ecclesiastes",
+        "OT",
+        "wisdom",
+        "poetry",
+        "KJV"
+      ],
+      "sizeBytes": 40734,
+      "downloadUrl": "./en/21_prediger.json"
     }
   ]
 }
