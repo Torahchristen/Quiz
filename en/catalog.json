@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-11-04T18:12:28Z",
+  "lastUpdated": "2026-11-04T18:18:59Z",
   "language": "en",
   "categories": [
     {
@@ -158,6 +158,25 @@
       ],
       "sizeBytes": 129348,
       "downloadUrl": "./en/06_josua.json"
+    },
+    {
+      "quizId": "bibel_07_richter_en",
+      "category": "geschichte",
+      "title": "Judges",
+      "subtitle": "Judges 1:1 – 21:25 (140 Questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 140,
+      "difficulty": "medium",
+      "tags": [
+        "Judges",
+        "OT",
+        "history",
+        "KJV"
+      ],
+      "sizeBytes": 123954,
+      "downloadUrl": "./en/07_richter.json"
     }
   ]
 }

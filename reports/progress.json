@@ -1,17 +1,17 @@
 {
   "branch": "review-and-english",
   "totalFiles": 66,
-  "completedCount": 6,
+  "completedCount": 7,
   "completedFiles": [
     "01_1_mose.json",
     "02_2_mose.json",
     "03_3_mose.json",
     "04_4_mose.json",
     "05_5_mose.json",
-    "06_josua.json"
+    "06_josua.json",
+    "07_richter.json"
   ],
   "pendingFiles": [
-    "07_richter.json",
     "08_rut.json",
     "09_1_samuel.json",
     "10_2_samuel.json",
@@ -114,6 +114,13 @@
       "explanationsReviewedEn": 1,
       "reportPath": "reports/06_josua.md",
       "enPath": "en/06_josua.json"
+    },
+    "07_richter.json": {
+      "questionsCount": 140,
+      "explanationsReviewedDe": 1,
+      "explanationsReviewedEn": 1,
+      "reportPath": "reports/07_richter.md",
+      "enPath": "en/07_richter.json"
     }
   }
 }
