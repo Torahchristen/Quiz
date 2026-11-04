@@ -25,19 +25,27 @@
       "options": [
         {
           "text": "Das Land würde ihnen erst nach dem Bau eines Altars gehören",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Sie müssten jede Stätte von den Völkern mit Silber auslösen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Gott hatte ihnen jede Stätte gegeben, wie er zu Mose geredet hatte",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Nur die Täler im Süden würden ihnen ohne jeden Kampf zufallen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -55,19 +63,27 @@
       "options": [
         {
           "text": "Die ständige Beratung mit den Hauptleuten des Heeres",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Das Ausrüsten des Heeres mit eisernen Rüstungen her",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Die regelmäßige Darbringung von Opfern auf dem Altar",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Das Betrachten des Buchs des Gesetzes bei Tag und Nacht",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -85,19 +101,27 @@
       "options": [
         {
           "text": "Über den Jordan in das Land der Kinder Israel",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Über den Fluss Arnon an die Grenzen von Moab",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Über den Bach Jabbok im Gebiet der Ammoniter",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Über den Bach Ägyptens am Rande dieser Wüste",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -115,19 +139,27 @@
       "options": [
         {
           "text": "Eine Frist von sieben vollen Tagen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Eine Frist von genau drei Tagen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Eine Frist von vierzehn Tagen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Eine Frist von dreißig Tagen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -145,19 +177,27 @@
       "options": [
         {
           "text": "Die Hälfte ihres Viehes den Leviten als Gabe zu geben",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Die Bundeslade während des ganzen Durchzugs zu tragen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Vor ihren Brüdern her gerüstet zu ziehen und zu helfen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Erst nach zehn Jahren eigene Städte und Häuser zu bauen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -175,19 +215,27 @@
       "options": [
         {
           "text": "Sie forderten zuerst ein doppeltes Erbteil diesseit des Jordans",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Sie baten um einen langen Aufschub bis zum Ausgang des Sommers",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Sie weigerten sich, das Land zu verlassen, das Mose ihnen gab",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Sie versprachen gehorsam zu sein, wie sie Mose gehorsam waren",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -205,19 +253,27 @@
       "options": [
         {
           "text": "Sei getrost und unverzagt!",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Baue mir ein Haus am Berg!",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Zähle die Männer zum Heer!",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Opfere mir tausend Rinder!",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -235,19 +291,27 @@
       "options": [
         {
           "text": "Zwölf Männer, aus jedem Stamm einen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Zwei Kundschafter sandte er heimlich",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Siebzig Älteste aus dem ganzen Volk",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Vier Männer aus dem Stamm Ephraim her",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -265,19 +329,27 @@
       "options": [
         {
           "text": "In das Haus einer Witwe des Königs",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "In das Haus eines Obersten der Stadt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "In das Haus einer Hure namens Rahab",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "In das Haus eines Händlers aus Tyros",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -295,19 +367,27 @@
       "options": [
         {
           "text": "In einem tiefen Brunnen im Innenhof ihres Hauses",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "In einer verborgenen Kammer hinter der Stadtmauer",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Unter schweren Getreidesäcken in der Speisekammer",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Unter den ausgebreiteten Flachsstengeln auf dem Dach",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -325,19 +405,27 @@
       "options": [
         {
           "text": "Dass Schrecken über sie alle gefallen war",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Sie rüsteten sich voller Zuversicht zum Gegenangriff",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Sie vertrauten unerschütterlich auf ihre hohen Mauern",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Sie hielten die Berichte aus der Wüste für Märchen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -355,19 +443,27 @@
       "options": [
         {
           "text": "Ein weißes Leinentuch an der Tür des Hauses",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Eine Schnur aus karmesinrotem Faden am Fenster",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Eine brennende Fackel auf den Zinnen der Mauer",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Ein eingemeißeltes Siegel an der Außentür",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -385,19 +481,27 @@
       "options": [
         {
           "text": "Wenn sie vergessen würde, das Schild am Tor aufzuhängen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Wenn ihre Verwandten kein Schutzgeld an die Priester zahlten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Wenn jemand das Haus auf die Straße hinaus verließ",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Wenn sie das rote Seil während der Belagerung einholte",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -415,19 +519,27 @@
       "options": [
         {
           "text": "Direkt über den Jordan zurück in das Hauptlager",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "In die Schilfwälder an den Ufern des Flussbettes",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "In die Festung der verbündeten Amoriterkönige",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Ins Gebirge, wo sie drei Tage verborgen blieben",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -445,19 +557,27 @@
       "options": [
         {
           "text": "Die Bundeslade Gottes getragen von den Priestern",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Das eiserne Schwert des Feldhauptmanns Josua",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Die feurige Wolkensäule am Himmel des Lagers",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Ein vergoldetes Panier des führenden Stammes Juda",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -475,19 +595,27 @@
       "options": [
         {
           "text": "Ein Abstand von genau einhundert gewöhnlichen Schritten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Ein Abstand von etwa zweitausend Ellen nach dem Maß",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Ein Abstand von fünfhundert Ellen zum Schutz der Priester",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Ein Abstand, den jeder Stamm selbst festlegen durfte",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -505,19 +633,27 @@
       "options": [
         {
           "text": "Alle Schwerter und Lanzen für den bevorstehenden Kampf zu schärfen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Hundert Brandopfer am Altar des HERRN darzubringen und zu beten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Sich zu heiligen, weil der HERR am nächsten Tag ein Wunder tun würde",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Drei Tage lang ohne Speise zu fasten und sich zu demütigen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -535,19 +671,27 @@
       "options": [
         {
           "text": "Das Wasser im ganzen Flussbett verwandelte sich in Eis",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Ein starker Ostwind blies die Fluten zur Seite hinweg",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Das reißende Wasser versank in verborgenen Erdspalten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Das Wasser von oben stand aufgerichtet auf einem Haufen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -565,19 +709,27 @@
       "options": [
         {
           "text": "Er war voll an allen seinen Ufern die ganze Zeit der Ernte",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Er war völlig vertrocknet und bis auf den Grund versandet",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Er floss nur als ganz schmaler Bach durch sein breites Bett",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Er war durch schwere Fröste mit dickem Eis fest überzogen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -595,19 +747,27 @@
       "options": [
         {
           "text": "Am östlichen Ufer des Flusses auf trockenem Boden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Unverrückt mitten im Jordan auf trockenem Boden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Voran an der Spitze des Heeres am Westufer",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Auf einer künstlich gebauten Brücke aus Holz",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -625,19 +785,27 @@
       "options": [
         {
           "text": "Vor den Mauern der Stadt Jericho im Gefilde",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Bei den Oasen von Kadesch an den Grenzen Edoms",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Bei der Stadt Adam, die zur Seite Zarthans liegt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Bei den Altären von Bethel im Gebirge Ephraim",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -655,19 +823,27 @@
       "options": [
         {
           "text": "Genau siebzig Älteste aus dem ganzen Volk",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Genau vierundzwanzig streitbare Männer des Heeres",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Nur die Hauptleute der Tausendschaften des Heeres",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Genau zwölf Männer, aus jedem Stamm ein Mann",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -685,19 +861,27 @@
       "options": [
         {
           "text": "In Gilgal an der östlichen Grenze von Jericho",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Im Vorhof der Hütte des Stifts zu Sittim",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Auf der Spitze des heiligen Berges Ebal bei Sichem",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Vor den geschlossenen Toren der Stadt Jericho",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -715,19 +899,27 @@
       "options": [
         {
           "text": "Auf der östlichen Uferhöhe vor Sittim",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Zwölf Steine mitten im Bett des Flusses Jordan",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Ein hohes Mal aus unbehauenen Steinen am Westufer",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Einen Stein-Altar für Brandopfer vor der Lade",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -745,19 +937,27 @@
       "options": [
         {
           "text": "Genau zwölftausend Mann aus den Stämmen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Genau hunderttausend streitbare Männer",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Bei vierzigtausend Gerüstete zum Heer",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Nur die Fürsten über die Tausendschaften",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -775,19 +975,27 @@
       "options": [
         {
           "text": "Der Fluss blieb für weitere drei Tage ausgetrocknet",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Das Wasser floss rückwärts in den See Genezareth",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Es bildete sich ein dauerhafter See vor Gilgal",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Das Wasser kehrte sogleich in sein Bett zurück",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -805,19 +1013,27 @@
       "options": [
         {
           "text": "Am zehnten Tag des ersten Monats Abib",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Am ersten Tag des Frühlingsmonats Abib",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Am vierzehnten Tag des Monats beim Passah",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Am siebzehnten Tag nach den Trauertagen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -835,19 +1051,27 @@
       "options": [
         {
           "text": "Sie sollten als Grenzmarkierung gegenüber den Kanaanitern im Land dienen und das Gebiet kennzeichnen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Sie sollten den fragenden Kindern bezeugen, dass Israel trocken durch den Jordan zog",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Sie sollten als Opferstätte für die jährlichen Erstlinge dienen, die das Volk darbrachte",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Sie sollten Baumaterial für das spätere Heiligtum liefern, das man dort bauen wollte",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -865,19 +1089,27 @@
       "options": [
         {
           "text": "Sie verbündeten sich sogleich zu einem Riesenheer",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Sie sandten sofort Boten mit Frieden und Gold",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Ihr Herz schmolz und der Mut verließ sie völlig",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Sie zogen sich in die Höhlen des Gebirges zurück",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -895,19 +1127,27 @@
       "options": [
         {
           "text": "Mit messerscharfen Klingen aus reinem Silber",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Mit eisernen Scheren der Handwerker aus dem Heer",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Mit goldenen Klingen aus dem Heiligtum",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Mit steinernen Messern aus hartem Feuerstein",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -925,19 +1165,27 @@
       "options": [
         {
           "text": "Weil alle auf dem Wüstenweg Geborenen nicht beschnitten waren",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Weil sie das Gebot vom Sinai in der Wüste völlig vergessen hatten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Weil der Hohepriester das Beschneiden vor dem Jordan verboten hatte",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Weil nur Beschnittene den Jordan überqueren durften",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -955,19 +1203,27 @@
       "options": [
         {
           "text": "Die Schande der vierzigjährigen Knechtschaft in Midian",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Die verbleibende Schande des Landes Ägypten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Die Schande des Abfalls beim goldenen Kalb",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Die Schande der Niederlage vor den Amalekitern",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -985,19 +1241,27 @@
       "options": [
         {
           "text": "Am ersten Tag des Monats beim Neumond",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Am siebenten Tag nach der Beschneidung",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Am vierzehnten Tag des Monats am Abend",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Am zwanzigsten Tag nach dem Durchzug",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1015,19 +1279,27 @@
       "options": [
         {
           "text": "Das tägliche Opfer der Priester am Altar",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Der Dienst der Leviten beim Tragen des Zeltes",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Die feurige Wolkensäule über dem Lager",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Das Himmelsbrot Manna hörte auf zu fallen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -1045,19 +1317,27 @@
       "options": [
         {
           "text": "Der Fürst über das Heer des HERRN",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Der Hohepriester Eleasar im heiligen Ornat",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Der verstorbene Prophet Mose in Lichtgestalt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Der König von Jericho zur Übergabe der Stadt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1075,19 +1355,27 @@
       "options": [
         {
           "text": "Genau sieben Tage lang jeweils zweimal täglich",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Genau sechs Tage nacheinander einmal am Tag",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Genau drei Tage lang zur Vorbereitung des Lagers",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Genau vierzig Tage nach der Zahl der Wüstenjahre",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1105,19 +1393,27 @@
       "options": [
         {
           "text": "Genau zwölf Priester aus allen Stämmen Israels",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Genau zwei Priester aus dem Geschlecht Aarons",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Genau sieben Priester mit sieben Hörnern",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Genau siebzig Älteste des gesamten Volkes",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1135,19 +1431,27 @@
       "options": [
         {
           "text": "Die Mauern sollten durch Rammböcke zerschmettert werden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Die Priester sollten das Feuer auf dem Altar entzünden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Das Heer sollte sogleich friedliche Verhandlungen beginnen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Ein langer Hornstoß ertönen und das Volk laut schreien",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -1165,19 +1469,27 @@
       "options": [
         {
           "text": "Die Hure Rahab und alle, die in ihrem Hause waren",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Alle Frauen und Kinder der kanaanitischen Fürsten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Die Ältesten der Stadt, die sich ergeben hatten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Die Handwerker, die die Metallgefäße schmiedeten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1195,19 +1507,27 @@
       "options": [
         {
           "text": "Es sollte unter das Kriegsvolk verteilt werden",
-          "explanation": ""
-        },
-        {
-          "text": "Es sollte im Feuer vor dem Zelt verbrannt werden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Es sollte zum Schatz des HERRN gebracht werden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
+        },
+        {
+          "text": "Es sollte im Feuer vor dem Zelt verbrannt werden",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Es sollte als Abgabe an Nachbarn gezahlt werden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1225,19 +1545,27 @@
       "options": [
         {
           "text": "Der Erbauer sollte lebenslang an Aussatz erkranken",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Das Land um die Stadt sollte für ewig verdorren",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Wer sie baut, verliert seinen Erstgeborenen und Jüngsten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Die Stadt sollte von wilden Tieren bewohnt werden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1255,19 +1583,27 @@
       "options": [
         {
           "text": "Direkt im Allerheiligsten der Stiftshütte",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "In den Höhen der Zufluchtsstadt Hebron",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Im Lande Moab bei den Verwandten Lots",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Sie wurden außerhalb des Lagers Israels gesetzt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -1284,20 +1620,28 @@
       "text": "Aus welchem Grund erlitt das israelitische Heer bei der Stadt Ai eine unerwartete Niederlage?",
       "options": [
         {
-          "text": "Weil die Männer von Ai viel stärkere Rüstungen trugen",
-          "explanation": ""
+          "text": "Weil Israel sich an dem Verbannten vergriffen hatte",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Weil die Kundschafter einen falschen Bericht brachten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
-          "text": "Weil Israel sich an dem Verbannten vergriffen hatte",
-          "explanation": ""
+          "text": "Weil die Männer von Ai viel stärkere Rüstungen trugen",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Weil Josua vergessen hatte, das Brandopfer darzutun",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1315,19 +1659,27 @@
       "options": [
         {
           "text": "Das ganze Kriegsvolk des Heeres",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Bei zwei- oder dreitausend Mann",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Genau zwölftausend auserwählte",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Siebentausend streitbare Männer",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1345,19 +1697,27 @@
       "options": [
         {
           "text": "Er befahl den sofortigen Rückzug über den Jordan",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Er ließ die Kundschafter sogleich vor dem Tor steinigen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Er zerriss seine Kleider und fiel auf sein Angesicht",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Er sammelte sofort das Silber für ein Versöhnungsopfer",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1375,19 +1735,27 @@
       "options": [
         {
           "text": "Einen goldenen Schild, ein Schwert und einen Purpurmantel aus dem Palast des Königs",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Zwei Silberbecher, eine eiserne Rüstung und einen Beutel mit Edelsteinen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Drei köstliche Gewänder, fünfzig Silberlinge und eine goldene Figur",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Einen babylonischen Mantel, zweihundert Silberlinge und eine goldene Stange",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -1405,19 +1773,27 @@
       "options": [
         {
           "text": "Mitten in seinem Zelt in der Erde vergraben",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "In einer Höhle außerhalb des Lagers Gilgal",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Unter den Steinen des Denkmals am Jordan",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Im Geheimen bei einem Händler der Gibeoniter",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1435,19 +1811,27 @@
       "options": [
         {
           "text": "Der erstgeborene Stamm Ruben im Ostland",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Der Stamm Juda wurde durch das Los getroffen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Der führende Stamm Ephraim im Gebirge",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Der Priesterstamm Levi am Heiligtum",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1465,19 +1849,27 @@
       "options": [
         {
           "text": "Vor den geschlossenen Toren der Stadt Jericho",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Auf dem Gipfel des Berges Ebal bei Sichem",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Im Tal Achor (Tal der Trübsal)",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "An den Ufern des überfluteten Jordanflusses",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1495,19 +1887,27 @@
       "options": [
         {
           "text": "Die Stadt nachts mit Fackeln und Krügen zu umstellen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Die Brunnen der Stadt mit Steinen zu verstopfen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Die Mauern wie in Jericho sieben Tage zu umrunden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Einen Hinterhalt hinter die Stadt im Westen zu legen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -1525,19 +1925,27 @@
       "options": [
         {
           "text": "Durch das Ausstrecken seiner Lanze gegen Ai",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Durch das Blasen einer silbernen Signaltrompete",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Durch das Entzünden eines gewaltigen Rauchsignals",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Durch das Erheben der Bundeslade auf dem Hügel",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1555,19 +1963,27 @@
       "options": [
         {
           "text": "Alle Waffen und die eisernen Rüstungen der Feinde",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Das Vieh und den Raub der Stadt als Beute",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Die Häuser der Stadt als feste Wohnstätten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Die verbliebenen Vorräte an Korn und Wein",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1585,19 +2001,27 @@
       "options": [
         {
           "text": "Er wurde als Sklave an die Leviten übergeben",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Er floh unerkannt in die Wüste von Bethel",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Er wurde an ein Holz gehängt bis zum Abend",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Er schloss einen geheimen Bund mit Josua",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1615,19 +2039,27 @@
       "options": [
         {
           "text": "Auf dem Berg Gerizim im fruchtbaren Tal",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Auf dem Berg Nebo im Lande der Moabiter",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Auf dem Berg Hermon an den Grenzen des Nordens",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Auf dem Berg Ebal aus unbehauenen Steinen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -1645,19 +2077,27 @@
       "options": [
         {
           "text": "Eine Abschrift des Gesetzes Moses auf die Steine",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Eine Chronik der Siege über Jericho und Ai",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Die Namen der zwölf Stammesfürsten Israels",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Die Liste aller geschlagenen Kanaaniterkönige",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1675,19 +2115,27 @@
       "options": [
         {
           "text": "Alle Stämme standen gemeinsam auf dem Berg Ebal",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Die eine Hälfte vor Gerizim, die andere vor Ebal",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Nur die Priester und Leviten standen auf den Bergen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Die Männer auf Gerizim, Frauen und Kinder auf Ebal",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1705,19 +2153,27 @@
       "options": [
         {
           "text": "Sie gaben sich als ägyptische Händler mit Waren und Lasttieren aus",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Sie führten kranke Rinder als Geschenke für die Israeliten mit sich",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Sie nahmen alte Säcke, zerrissene Schläuche und trockenes Brot",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Sie stellten sich als Flüchtlinge aus Babylon mit Gold und Silber dar",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1735,19 +2191,27 @@
       "options": [
         {
           "text": "Sie forderten keine reichen Geschenke von den Gesandten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Sie zeigten den Fremden den ganzen Schatz des Lagers",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Sie schlossen den Bund ganz ohne die Zeugnissteine ab",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Sie nahmen ihre Speise an und fragten des HERRN Mund nicht",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -1765,19 +2229,27 @@
       "options": [
         {
           "text": "Nach drei Tagen erfuhren sie von ihrer Nachbarschaft",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Bereits am folgenden Morgen beim Aufbruch des Heeres von Gilgal",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Erst nach sieben Wochen, als die Stämme im Land verteilt wurden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Nach vierzig Tagen, als das Land unter den Stämmen verteilt wurde",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1795,19 +2267,27 @@
       "options": [
         {
           "text": "Weil die Gibeoniter hohe Silbersteuern zahlten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Weil sie ihnen bei Gott einen Eid geschworen hatten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Weil das Volk sie als Knechte beschützen wollte",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Weil der Hohepriester ihnen Asyl gewährt hatte",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1825,19 +2305,27 @@
       "options": [
         {
           "text": "Das Hüten der Schafherden der Priester",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Das Tragen des Zeltes bei den Umzügen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Holzhauer und Wasserträger für den Altar zu sein",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Das Bestellen der Felder für die Levitenstädte",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1855,19 +2343,27 @@
       "options": [
         {
           "text": "Jericho, Ai, Bethel und Ophra im Gebirge",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Hebron, Debir, Lachisch und Jarmuth im Süden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Sichem, Tirza, Samaria und Dotan im Norden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Gibeon, Kaphira, Beeroth und Kirjath-Jearim",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -1885,19 +2381,27 @@
       "options": [
         {
           "text": "König Adoni-Zedek von Jerusalem",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "König Jabin von Hazor aus dem Norden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "König Hoham von Hebron aus den Bergen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "König Piram von Jarmuth aus der Niederung",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1915,19 +2419,27 @@
       "options": [
         {
           "text": "Durch einen plötzlichen Erdrutsch auf den Bergen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Gott warf große Hagelsteine vom Himmel auf sie",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Durch feurige Blitze, die ihre Rüstungen trafen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Durch eine dichte Finsternis im ganzen Tal",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1945,19 +2457,27 @@
       "options": [
         {
           "text": "Der Fluss Jordan kehrte seine Strömung um",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Die Erde spaltete sich und verschlang den Feind",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Sonne stehe still zu Gibeon und Mond im Tal Ajalon",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Ein starker Südwind blies die Pfeile zurück",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1975,19 +2495,27 @@
       "options": [
         {
           "text": "Im Buch der Kriege des HERRN aus der Wüste",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "In den Annalen der Könige von Juda und Israel",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "In den Chroniken der levitischen Priester",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Im Buch des Redlichen (Buch Jaschar)",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -2005,19 +2533,27 @@
       "options": [
         {
           "text": "In der Höhle bei Makkeda im Gebirge",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "In der Höhle Machpela nahe der Stadt Hebron",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "In der Höhle Adullam in den Bergen Judas",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "In den Felsenhöhlen der Wüste Engedi",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2035,19 +2571,27 @@
       "options": [
         {
           "text": "Ihnen die Kronen abzunehmen und dem Volk zu zeigen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Ihre Füße auf die Hälse der Könige zu setzen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Sie vor dem ganzen Volk um Gnade zu bitten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Ihre Schwerter im Heiligtum aufzuhängen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2065,19 +2609,27 @@
       "options": [
         {
           "text": "Die Küstenebene der Philister mit ihren Seehäfen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Die Täler des Jordans von Jericho bis Hazor",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Das Gebirge, das Südland, die Niederung und die Hänge",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Die Städte des Stammes Benjamin im Bergland",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2095,19 +2647,27 @@
       "options": [
         {
           "text": "Der unübertroffenen Zahl ihrer Kriegstruppen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Den eisernen Rüstungen aus der Beute von Ai",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Den verheerenden Bündnissen der Gibeoniter",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Weil der HERR, der Gott Israels, für Israel stritt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -2125,19 +2685,27 @@
       "options": [
         {
           "text": "König Jabin von der mächtigen Festung Hazor",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "König Adoni-Sedek aus der Bergstadt Jerusalem",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "König Sihon aus der königlichen Stadt Hesbon",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "König Og aus dem fruchtbaren Riesenreich Baschan",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2155,19 +2723,27 @@
       "options": [
         {
           "text": "Sie im Vorhof des Stiftszeltes aufzubewahren",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Die Rosse zu lähmen und Wagen zu verbrennen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Die Streitwagen an die Leviten zu übergeben",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Die Pferde zum Transport der Steine zu nutzen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2185,19 +2761,27 @@
       "options": [
         {
           "text": "Sie wurde unangetastet den Leviten übergeben",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Sie wurde zur ersten Zufluchtsstadt bestimmt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Sie wurde von Josua vollständig niedergebrannt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Sie wurde unbewohnt als Wüstenei gelassen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2215,19 +2799,27 @@
       "options": [
         {
           "text": "Weil sie auf die Rüstungen aus Ägypten bauten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Weil ihre Priester ihnen den Sieg versprachen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Weil sie die Zahl des Heeres unterschätzten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Gott verstockte ihr Herz zum Kampf gegen Israel",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -2245,19 +2837,27 @@
       "options": [
         {
           "text": "Die Enakiter von dem Gebirge",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Die Amalekiter aus der Wüste",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Die Girgaschiter an dem See",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Die Jebusiter zu Jerusalem",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2275,19 +2875,27 @@
       "options": [
         {
           "text": "In Jericho, Ai und Bethel an den Tälern",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "In den Städten Gaza, Gath und Asdod",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "In Hebron, Debir und Anab auf den Hügeln",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "In Gilgal, Sichem und Silo beim Lager",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2305,19 +2913,27 @@
       "options": [
         {
           "text": "Die Stämme kehrten nach Ägypten zurück",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Ein dreijähriges Fasten wurde ausgerufen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Das Land hatte Ruhe vor weiteren Kriegen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Die Bürger flohen an das große Weltmeer",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2335,19 +2951,27 @@
       "options": [
         {
           "text": "König Og, der in Astharoth und Edrei in Baschan herrschte",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "König Jabin aus der Nordfestung Hazor",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "König Balak aus den Ebenen des Landes Moab",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "König Sihon, der im Reiche Hesbon regierte",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -2365,19 +2989,27 @@
       "options": [
         {
           "text": "König Og von Basan, der von den Riesen übrig war",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "König Adoni-Sedek aus der Stadt Jerusalem",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "König Hoham aus der gebirgigen Stadt Hebron",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "König Piram aus der Niederung von Jarmuth",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2395,19 +3027,27 @@
       "options": [
         {
           "text": "Juda, Benjamin und dem Stamm Simeon im Süden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Den Stämmen Ruben, Gad und halb Manasse",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Ephraim, Manasse und dem Stamme Sebulon",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Ausschließlich den Söhnen des Hauses Levis",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2425,19 +3065,27 @@
       "options": [
         {
           "text": "Genau zwölf Könige der Festungsstädte",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Genau siebzig Könige an den Meeresküsten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Insgesamt einunddreißig Könige des Landes",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Genau vierzig Könige entsprechend den Wüstenjahren",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2455,19 +3103,27 @@
       "options": [
         {
           "text": "Der tief strömende Jordanfluss im Westen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Der Jabbokfluss an den Grenzen Ammoniter",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Der Bach Ägyptens an den Wüstengrenzen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Der Wildbach Arnon mitten im tiefen Tal",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -2485,19 +3141,27 @@
       "options": [
         {
           "text": "Bis zum schneebedeckten Berg Hermon",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Bis zum Berg Sinai in der tiefen Einöde",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Bis zum Berg Nebo im Lande der Moabiter",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Bis zum Berg Karmel nahe dem großen Meer",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2515,19 +3179,27 @@
       "options": [
         {
           "text": "Das große Salzmeer an den Wüstengrenzen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Das Binnenmeer Kinnereth (Genezareth)",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Der rote Meerbusen an den Grenzen Edoms",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Der Wildbach Kison nahe dem Berg Karmel",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2545,19 +3217,27 @@
       "options": [
         {
           "text": "Er war erblindet und konnte nicht gehen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Er war schwer erkrankt im Feldlager",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Er war alt und hoch an Jahren betagt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Er hatte seine volle Jugendkraft behalten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2575,19 +3255,27 @@
       "options": [
         {
           "text": "Der kriegerische Stamm Benjamin",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Der erstgeborene Stamm Ruben",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Der zahlenstarke Stamm Ephraim",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Der priesterliche Stamm Levi",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -2605,19 +3293,27 @@
       "options": [
         {
           "text": "Die Feueropfer des HERRN sind ihr Erbteil",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Die Goldvorräte aus den Beuten der Siege",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Die Hälfte aller Erträge der Weinberge",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Die Erstlinge aller Beutetiere aus den Kriegszügen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2635,19 +3331,27 @@
       "options": [
         {
           "text": "König Balak aus den Bergen der Moabiter",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Bileam, der Sohn Beors, der Weissager",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "König Jabin aus der gefallenen Stadt Hazor",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Hiram der Baumeister aus den Städten Tyros",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2665,19 +3369,27 @@
       "options": [
         {
           "text": "Der Jordan",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Der Arnon",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Der Jabbok",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Der Kison",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2695,19 +3407,27 @@
       "options": [
         {
           "text": "Genau zwei Fürsten: Oreb und Seeb",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Genau zehn Fürsten aus den Oasen Midians",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Genau sieben Fürsten, die Bileam einst beraten hatten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Genau fünf Fürsten: Ewi, Rekem, Zur, Hur und Reba",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -2725,19 +3445,27 @@
       "options": [
         {
           "text": "Das ganze Reich Baschan des Königs Og",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Das gesamte Tal des Baches Arnon",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Die Küstenebene des großen Mittelmeeres",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Die Wüste Kadesch an den Südgrenzen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2755,19 +3483,27 @@
       "options": [
         {
           "text": "Der Feldhauptmann Kaleb aus dem Stamme Juda",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Eleasar, der Priester, und die Hauptleute",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Die siebzig Ältesten der Wüstenwanderung",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Die Boten aus den Städten der Gibeoniter",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2785,19 +3521,27 @@
       "options": [
         {
           "text": "Genau dreißig Jahre alt im Lager",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Genau fünfzig Jahre alt nach der Zählung",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Genau vierzig Jahre alt war Kaleb",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Genau fünfundzwanzig Jahre im Dienst",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2815,19 +3559,27 @@
       "options": [
         {
           "text": "Genau siebzig Jahre alt nach den Kriegen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Genau einhundert Jahre alt im Lande",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Genau neunundsiebzig Jahre alt beim Los",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Genau fünfundachtzig Jahre alt war er",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -2845,19 +3597,27 @@
       "options": [
         {
           "text": "Noch heute bin ich so stark wie damals",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Meine Sehkraft ist geschwächt, aber das Herz stark",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Ich benötige die Hilfe der Söhne zum Streit",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Nur im Gebet vermag ich den Feind zu schlagen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2875,19 +3635,27 @@
       "options": [
         {
           "text": "Die Palmenstadt Jericho in der Ebene",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Hebron, wo die Enakiter und große feste Städte waren",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Die Stadt Bethel im Gebirge Ephraim",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Die Küstenstadt Aschdod im Philisterland",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2905,19 +3673,27 @@
       "options": [
         {
           "text": "Nach dem Riesen Og aus dem Lande Baschan",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Nach dem König Sihon aus der Stadt Hesbon",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Nach Arba, einem großen Menschen der Enakiter",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Nach dem Riesen Goliath aus der Stadt Gath",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2935,19 +3711,27 @@
       "options": [
         {
           "text": "Weil er der reichste Mann im Stamme Juda war",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Weil er die meisten Männer im Heere anführte",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Weil Mose es auf Tafeln geschrieben gelassen hat",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Weil er dem HERRN treulich nachgefolgt war",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -2965,19 +3749,27 @@
       "options": [
         {
           "text": "Das große Meer (Mittelmeer) mit seiner Küste",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Der tief strömende Fluss Jordan im Osten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Der Wildbach Arnon im Süden des Landes",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Der See Kinnereth im Norden des Gebiets",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2995,19 +3787,27 @@
       "options": [
         {
           "text": "Der Fluss Jabbok an den Grenzen Ammoniter",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Das Salzmeer im Osten bis zum Ende des Jordans",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Das rote Meer an den Grenzen des Landes Edom",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Der Bach Ägyptens im tiefen Süden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3025,19 +3825,27 @@
       "options": [
         {
           "text": "Ein doppeltes Erbteil an Feldern in Hebron",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Fünfzig Silberlinge aus der Beute der Stadt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Seine Tochter Achsa wollte er ihm zum Weibe geben",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Das Amt des Obersten über die Tausendschaften",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3055,19 +3863,27 @@
       "options": [
         {
           "text": "Nun, der Vater des Feldhauptmanns Josua",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Eleasar, der Sohn des Hohepriesters Aaron",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Pinehas, der Sohn Eleasars des Priesters",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Othniel, der Sohn des Kenas, des Bruders Kalebs",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -3085,19 +3901,27 @@
       "options": [
         {
           "text": "Um Wasserquellen: die oberen und die unteren",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Um zwei Esel und zehn Knechte für ihren Hof",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Um eine Herde von hundert auserlesenen Schafen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Um ein festes Haus aus behauenem Stein in Hebron",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3115,19 +3939,27 @@
       "options": [
         {
           "text": "Die Philister aus der Küstenebene am Meer",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Die Jebusiter in der Bergfestung Jerusalem",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Die Girgaschiter aus den Tälern des Jordans",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Die Hethiter aus den Wäldern des Nordens",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3145,19 +3977,27 @@
       "options": [
         {
           "text": "Sie hieß vorzeiten Hebron am Berge",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Sie hieß vorzeiten Kirjath-Arba her",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Debir hieß vorzeiten Kirjath-Sepher",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Sie hieß vorzeiten Gilgal im Süden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3175,19 +4015,27 @@
       "options": [
         {
           "text": "Sie vertrieben sie aus dem ganzen Gebiet Ephraims",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Sie vernichteten alle mit dem Bann, wie Gott geboten hatte",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Sie siedelten sie als Gefangene im Ostjordanland an",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Sie vertrieben sie nicht, sondern machten sie zinsbar",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -3205,19 +4053,27 @@
       "options": [
         {
           "text": "Zelophehad aus dem Geschlecht Manasse",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Othniel aus den südlichen Städten Judas",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Gilead aus den gebirgigen Landstrichen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Machir aus den kriegerischen Oststämmen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3235,19 +4091,27 @@
       "options": [
         {
           "text": "Über das Fehlen von Brunnen in den Bergen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Dass sie als großes Volk nur ein Los erhielten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Über die hohe Abgabe an die Leviten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Dass ihr Land von den Philistern besetzt war",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3265,19 +4129,27 @@
       "options": [
         {
           "text": "Sich mit den Söhnen Judas im Süden zu verbinden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Kriegsschiffe für die Meeresküsten zu bauen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Den Wald im Land der Pheresiter zu roden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Den Stamm Benjamin aus den Tälern zu vertreiben",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3295,19 +4167,27 @@
       "options": [
         {
           "text": "Hohe Rammböcke aus massivem Eichenholz",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Lange Schleudern mit glatten Kieselsteinen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Vergiftete Pfeile aus den heidnischen Werkstätten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Eiserne Streitwagen in allen ihren Tälern",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -3325,19 +4205,27 @@
       "options": [
         {
           "text": "In Silo, wo die Gemeinde das Zelt aufrichtete",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "In Gilgal, wo das erste Lager im Land gestanden hatte",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "In Bethel auf den Hügeln des Gebirges Ephraim",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "In Hebron bei den Eichen von Mamre im Süden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3355,19 +4243,27 @@
       "options": [
         {
           "text": "Genau drei Stämme, die im Binnenland wohnen sollten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Noch sieben Stämme, deren Land nicht verlost war",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Genau fünf Stämme, die an der Küste wohnen sollten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Genau zwei Stämme, die im Ostjordanland wohnen sollten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3385,19 +4281,27 @@
       "options": [
         {
           "text": "Brunnen in allen noch unbesetzten Städten zu graben",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Alle heidnischen Altäre im Land sofort zu zerstören",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Das verbliebene Land zu durchwandern und zu beschreiben",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Die Einwohnerzahl aller Festungen im Land zu zählen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3415,19 +4319,27 @@
       "options": [
         {
           "text": "Der kriegerische Stamm Benjamin im Nordosten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Der Stamm Dan an den Küsten des Meeres",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Der Stamm Sebulon an den Bergen des Nordens",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Der Stamm Simeon mitten im Gebiet Judas",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -3445,19 +4357,27 @@
       "options": [
         {
           "text": "Die Stadt Timnath-Serah auf dem Gebirge",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Die Festung Hebron in den Bergen des Südens",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Die Heiligtumsstadt Silo nahe dem Zelt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Die Grenzstadt Bethel an den Hügeln",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3475,19 +4395,27 @@
       "options": [
         {
           "text": "Nach Kadesch in der Wüste, wo sie Weideland suchten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Hinauf gen Lesem, schlugen es und nannten die Stadt Dan",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "An die Ufer des Jordans, wo sie viele neue Flecken bauten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "In das Gebirge Gilead, wo sie reiche Herden weiden ließen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3505,19 +4433,27 @@
       "options": [
         {
           "text": "Genau zwölf Städte im ganzen Lande",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Genau drei Städte diesseit des Jordans",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Insgesamt sechs Städte zu beiden Seiten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Genau zehn Städte für die Totschläger",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3535,19 +4471,27 @@
       "options": [
         {
           "text": "Die Stadt Sichem auf dem Gebirge Ephraim",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Die Stadt Kirjath-Arba im Gebirge Juda",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Die Stadt Golan in der Landschaft Basan",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Kedes in Galiläa auf Gebirge Naphthali",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -3565,19 +4509,27 @@
       "options": [
         {
           "text": "Seine Sache vor den Ältesten der Stadt ansagen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Ein reiches Bußgeld an die Priester entrichten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Sich sofort dem Bluträcher zur Strafe übergeben",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Drei Jahre lang im finstern Kerker verbleiben",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3595,19 +4547,27 @@
       "options": [
         {
           "text": "Bis zum nächsten Passahfest in Gilgal am Jordan",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Bis zum Tode des Hohepriesters jener selben Zeit",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Bis zum nächsten Halljahr nach der langen Zählung",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Genau sieben volle Jahre lang nach seiner Ankunft",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3625,19 +4585,27 @@
       "options": [
         {
           "text": "Genau zwölf Städte für die vier Familien",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Genau dreißig Städte im gesamten Lande",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Insgesamt achtundvierzig Städte samt Bezirken",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Genau siebzig Städte nach den Ältesten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3655,19 +4623,27 @@
       "options": [
         {
           "text": "Die Kinder Gersons aus den nördlichen Stämmen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Die Kinder Meraris aus den östlichen Stämmen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Die Nachkommen Elis aus der alten Stadt Silo",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Die Kinder Aarons, des Priesters, aus Kahath",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -3685,19 +4661,27 @@
       "options": [
         {
           "text": "Es fehlte nichts an allem Guten; es kam alles",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Einige Verheißungen fielen dahin wegen der Sünde",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Die Verheißungen sollten erst viel später gelten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Nur ein kleiner Teil der Zusagen ging in Erfüllung",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3715,19 +4699,27 @@
       "options": [
         {
           "text": "Eine hohe Mauer zur Abwehr künftiger Feinde",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Einen großen, schönen Altar drüben am Jordan",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Ein goldenes Denkmal für die Fürsten im Heer",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Eine feste Brücke über das breite Strombett",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3745,19 +4737,27 @@
       "options": [
         {
           "text": "Josua, den Sohn Nuns, samt zwölf Feldherren",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Eleasar, den Hohenpriester, in eigener Person",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Pinehas, den Sohn Eleasars, samt zehn Fürsten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Ithamar, den Priester, mit den Ältesten Silos",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3775,19 +4775,27 @@
       "options": [
         {
           "text": "Den Bau des goldenen Kalbes am Berg Sinai",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Das Hadern des Volkes beim Mangel an Wasser",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Die Verfehlung Achans bei der Einnahme Ais",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Die schwere Missetat zu Peor in der Wüste",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -3805,19 +4813,27 @@
       "options": [
         {
           "text": "Ein Zeuge sollte er sein zwischen uns und euch",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Eine Stätte für Brandopfer und Schlachtopfer",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Ein Vorratsort für Zehnten und Abgaben dort",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Ein Siegesdenkmal über den König Og von Basan",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3835,19 +4851,27 @@
       "options": [
         {
           "text": "Sie nannten den Altar Bethel",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Sie nannten den Altar Ed (Zeuge)",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Sie nannten den Altar Ebenezer",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Sie nannten den Altar Gilgal",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3865,19 +4889,27 @@
       "options": [
         {
           "text": "Nach Gilgal an den Ort des ersten Lagers",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Nach Silo vor den Eingang der Stiftshütte",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Gen Sichem vor das Angesicht des HERRN",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Nach Jerusalem vor die Burg der Jebusiter",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3895,19 +4927,27 @@
       "options": [
         {
           "text": "Isaak im Lande Kanaan",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Jakob im Lande Haran",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Lot in den Städten am Meer",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Tharah, der Vater Abrahams",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -3925,19 +4965,27 @@
       "options": [
         {
           "text": "Durch Hornissen, die er vor ihnen hersandte",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Durch die ehernen Rüstungen ihrer Krieger",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Durch dichte Wolken von sengendem Feuer",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Durch das Einstürzen der festen Mauern",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3955,19 +5003,27 @@
       "options": [
         {
           "text": "Wir wollen den Altären auf allen Höhen dienen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Ich und mein Haus, wir wollen dem HERRN dienen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Das Gesetz soll durch die Ältesten verwaltet werden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Wir wollen den Göttern der Amoriter dienen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3985,19 +5041,27 @@
       "options": [
         {
           "text": "Mit der Darbringung von Brandopfern auf dem Altar",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Mit der Übergabe ihres Goldes an die Priester in Silo",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Mit dem Ruf: Fern sei es von uns, den HERRN zu verlassen!",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Mit dem Zerreißen ihrer Gewänder vor der Bundeslade",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4015,19 +5079,27 @@
       "options": [
         {
           "text": "Eine hölzerne Säule mit den Geboten Gottes",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Einen vergoldeten Schild an den Ästen des Baumes",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Einen silbernen Becher im Boden der Eiche",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Einen großen Stein richtete er dort auf",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -4045,19 +5117,27 @@
       "options": [
         {
           "text": "Einhundertundzehn Jahre alt starb Josua",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Genau einhundertundzwanzig Jahre alt wie Mose",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Genau einhundert Jahre alt im Erbteil",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Genau einhundertsiebenunddreißig Jahre alt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4075,19 +5155,27 @@
       "options": [
         {
           "text": "In der Höhle Machpela nahe der Stadt Hebron",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Zu Timnath-Serah auf dem Gebirge Ephraim",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "In den Tälern Silos nahe dem Zelt Gottes",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Im Tal Achor nahe der Stadt Jericho",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4105,19 +5193,27 @@
       "options": [
         {
           "text": "Die Gebeine des Stammvaters Jakob",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Die Gebeine des Propheten Mose aus Moab",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Die Gebeine Josephs, die aus Ägypten kamen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Die Gebeine des ersten Hohepriesters Aaron",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4135,19 +5231,27 @@
       "options": [
         {
           "text": "Nur wenige Tage bis zum ersten Erntefest",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Für volle vierhundert Jahre im ganzen Lande",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Bis zum Bau des ersten Königspalastes",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Alle Tage der Ältesten, die nach Josua lebten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -4165,19 +5269,27 @@
       "options": [
         {
           "text": "Eleasar, der Sohn Aarons, der Hohepriester",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Pinehas, der Sohn des Priesters im Heiligtum",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Ithamar, der Sohn Aarons aus dem Priesterhaus",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Eli, der Richter und Priester zu Silo am Altar",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4195,19 +5307,27 @@
       "options": [
         {
           "text": "Von den Ältesten der Jebusiter in Jerusalem",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Von den Söhnen Hamors um hundert Kesita",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Von den Fürsten der Midianiter am Jordan",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Vom König der Amoriter aus der Stadt Ai",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4225,19 +5345,27 @@
       "options": [
         {
           "text": "Am Jordan gegenüber Jericho und von dort durch die Wüste hinauf nach Bethel",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Am Arnon im Land der Moabiter und von dort am Salzmeer entlang hinauf nach Gilead",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "An den Quellen des Kison bei Megiddo und von dort quer durch die Ebene Jesreel zum Meer",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Am Bach Ägyptens bei Kadesch-Barnea und von dort hinauf ins Gebirge Seir",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4255,19 +5383,27 @@
       "options": [
         {
           "text": "Die Herrschaft über alle Kanaaniter in der Stadt Gezer",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Einzelne ausgesonderte Städte samt Dörfern mitten im Erbteil Manasses",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Weideland im Ostjordanland an den Grenzen von Ruben und Gad",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Einen Hafen am Mittelmeer, den sie mit Sebulon und Ascher teilten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4285,19 +5421,27 @@
       "options": [
         {
           "text": "Mit den übrigen Völkern Bündnisse zu schließen und Handel zu treiben",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Alle Kriegswagen der Kanaaniter zu erbeuten und ein stehendes Heer aufzustellen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Alles im Gesetzbuch Moses zu halten und weder nach rechts noch nach links davon abzuweichen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Auf jedem hohen Hügel neue Altäre zu errichten und täglich Brandopfer darzubringen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4315,19 +5459,27 @@
       "options": [
         {
           "text": "Weil sie mit eisernen Schwertern und Schilden aus Ägypten ausgerüstet waren",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Weil die Heere der Kanaaniter durch Zwietracht und Hunger geschwächt waren",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Weil bei jeder Schlacht die Bundeslade von vierundzwanzig Priestern vorangetragen wurde",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Weil der HERR, ihr Gott, für sie stritt, wie er geredet hatte",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -4345,19 +5497,27 @@
       "options": [
         {
           "text": "Die Völker würden Israel zum Strick und Stachel werden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Gott werde das Land aufteilen und den Völkern ein eigenes Erbteil zuweisen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Gott werde Israel in die Wüste zurückführen, um es dort zu prüfen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Gott werde die Priester vom Altar entfernen, bis das Volk umkehre",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4375,19 +5535,27 @@
       "options": [
         {
           "text": "Israel unterliegt bei Ai wegen der Sünde Achans",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Das Volk zieht trockenen Fußes durch den Jordan",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Die starken Mauern von Jericho stürzen ein",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Die Gibeoniter täuschen Josua mit einer List",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [

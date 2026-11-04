@@ -24,16 +24,28 @@
       "text": "Von welchem Ort her rief der HERR Mose und redete zu ihm?",
       "options": [
         {
-          "text": "Vom rauchenden Gipfel des Berges Sinai"
+          "text": "Vom rauchenden Gipfel des Berges Sinai",
+          "id": "opt_1",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Aus der Mitte des brennenden Busches"
+          "text": "Aus der Mitte des brennenden Busches",
+          "id": "opt_2",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Von der heiligen Stiftshütte aus"
+          "text": "Von der heiligen Stiftshütte aus",
+          "id": "opt_3",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Vom Vorhof des Brandopferaltars her"
+          "text": "Vom Vorhof des Brandopferaltars her",
+          "id": "opt_4",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -50,16 +62,28 @@
       "text": "Was für ein Rind sollte jemand als Brandopfer für den HERRN darbringen?",
       "options": [
         {
-          "text": "Ein makelloses männliches Tier"
+          "text": "Ein makelloses männliches Tier",
+          "id": "opt_1",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Ein junges weibliches Zuchtkalb"
+          "text": "Ein junges weibliches Zuchtkalb",
+          "id": "opt_2",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Ein dreijähriges gemästetes Tier"
+          "text": "Ein dreijähriges gemästetes Tier",
+          "id": "opt_3",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Ein weißes, erstgeborenes Kalb"
+          "text": "Ein weißes, erstgeborenes Kalb",
+          "id": "opt_4",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -76,16 +100,28 @@
       "text": "Was sollte man vor dem Schächten des Brandopfers mit der Hand tun?",
       "options": [
         {
-          "text": "Das Opfertier dreimal mit Wasser waschen"
+          "text": "Das Opfertier dreimal mit Wasser waschen",
+          "id": "opt_1",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Seine Hand auf den Kopf des Brandopfers stützen"
+          "text": "Seine Hand auf den Kopf des Brandopfers stützen",
+          "id": "opt_2",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Das heilige Salböl auf die Hörner streichen"
+          "text": "Das heilige Salböl auf die Hörner streichen",
+          "id": "opt_3",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Dem Opfertier das Maul mit Binden verbinden"
+          "text": "Dem Opfertier das Maul mit Binden verbinden",
+          "id": "opt_4",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -102,16 +138,28 @@
       "text": "Wohin sollten Aarons Söhne das Blut des geschächteten Brandopfers sprengen?",
       "options": [
         {
-          "text": "An den goldenen Räucheraltar im Heiligtum"
+          "text": "An den goldenen Räucheraltar im Heiligtum",
+          "id": "opt_1",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Auf den Erdboden vor dem Tor der Stiftshütte"
+          "text": "Auf den Erdboden vor dem Tor der Stiftshütte",
+          "id": "opt_2",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Ringsum an den Altar vor der Stiftshütte"
+          "text": "Ringsum an den Altar vor der Stiftshütte",
+          "id": "opt_3",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Auf das weiße leinene Gewand des Priesters"
+          "text": "Auf das weiße leinene Gewand des Priesters",
+          "id": "opt_4",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -128,16 +176,28 @@
       "text": "Welche Teile des Brandopfers sollten mit Wasser gewaschen werden?",
       "options": [
         {
-          "text": "Nur der Kopf und die Fettstücke daran"
+          "text": "Nur der Kopf und die Fettstücke daran",
+          "id": "opt_1",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Das gesamte Fleisch mitsamt der Haut"
+          "text": "Das gesamte Fleisch mitsamt der Haut",
+          "id": "opt_2",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Nur die Wundstelle des Schnittes am Hals"
+          "text": "Nur die Wundstelle des Schnittes am Hals",
+          "id": "opt_3",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Sein Eingeweide und seine Schenkel"
+          "text": "Sein Eingeweide und seine Schenkel",
+          "id": "opt_4",
+          "isCorrect": true,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -155,19 +215,27 @@
       "options": [
         {
           "text": "Turteltauben oder junge Felsentauben",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Junge Tauben oder frische Wachteln",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Junge Hühner oder kleine Turteltauben",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Sperlinge oder wild gefangene Raben",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -185,19 +253,27 @@
       "options": [
         {
           "text": "Sie wurde zusammen mit dem Fleisch verbrannt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Sie fiel dem dienenden Priester zu",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Sie wurde im Vorhof vor dem Volk vergraben",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Sie wurde dem Armen des Lagers geschenkt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -215,19 +291,27 @@
       "options": [
         {
           "text": "Gerstenmehl, frischer Honig und Salz",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Weizenmehl, feiner Sauerteig und Öl",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Feinmehl, klares Olivenöl und Weihrauch",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Feinmehl, roter Wein und weißes Salz",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -244,16 +328,28 @@
       "text": "Was sollte der Priester als Gedächtnisopfer vom Speisopfer auf dem Altar verbrennen?",
       "options": [
         {
-          "text": "Das gesamte Feinmehl und das ganze Öl"
+          "text": "Das gesamte Feinmehl und das ganze Öl",
+          "id": "opt_1",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Nur den Weihrauch ohne Mehl und ohne Öl"
+          "text": "Nur den Weihrauch ohne Mehl und ohne Öl",
+          "id": "opt_2",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Die Hälfte des Mehls mit dem Sauerteig"
+          "text": "Die Hälfte des Mehls mit dem Sauerteig",
+          "id": "opt_3",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Eine Handvoll Feinmehl und Öl samt Weihrauch"
+          "text": "Eine Handvoll Feinmehl und Öl samt Weihrauch",
+          "id": "opt_4",
+          "isCorrect": true,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -271,19 +367,27 @@
       "options": [
         {
           "text": "Dem Priester Aaron und seinen Söhnen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Den Armen und Waisen des Lagers",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Dem Geber des Opfers zur Verzehrung",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Den levitischen Sängern im Vorhof",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -301,19 +405,27 @@
       "options": [
         {
           "text": "Weihrauch und klares Olivenöl",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Gärender Sauerteig und süßer Honig",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Weißes Salz und feines Mehl",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Schafsfett und frisches Olivenöl",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -331,19 +443,27 @@
       "options": [
         {
           "text": "Duftende Myrrhe aus dem Süden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Feiner Kalmus aus fernen Ländern",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Das weiße Salz des Gottesbundes",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Gemahlener Kümmel des Feldes",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -361,19 +481,27 @@
       "options": [
         {
           "text": "Als feingemahlenes weißes Mehl im Korbe",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Als gebackenes Brot mit Sauerteig",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Als ungebackenes Korn im Bündel",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Als am Feuer geröstete grüne Ähren",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -391,19 +519,27 @@
       "options": [
         {
           "text": "Ungesäuerte mit Öl angemachte Kuchen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Gesäuerte Kuchen mit Honig bestrichen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Gebratene Fleischstücke mit Mehl",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "In Wasser gesottene Brote im Topf",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -421,19 +557,27 @@
       "options": [
         {
           "text": "Ausschließlich ein junges männliches Tier",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Männlich oder weiblich ohne Mangel",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Nur Muttertiere mit ihren Jungen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Ausschließlich erstgeborene Männlinge",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -451,19 +595,27 @@
       "options": [
         {
           "text": "Die Schenkel und die gesamte Brust",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Der Magen und die vorderen Läufe",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Das Fett der Eingeweide und die Nieren",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Das gesamte Magerfleisch des Tieres",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -481,19 +633,27 @@
       "options": [
         {
           "text": "Die gesamte Haut mitsamt der Wolle",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Nur das Herz und die Lunge des Schafes",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Die beiden Ohren und die Klauen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Der ganze fette Schwanz nahe am Grat",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -510,16 +670,28 @@
       "text": "Als was bezeichnet das Gesetz die auf dem Altar verbrannten Fettstücke des Friedensopfers?",
       "options": [
         {
-          "text": "Nahrung für das Feuer des HERRN"
+          "text": "Nahrung für das Feuer des HERRN",
+          "id": "opt_1",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Sühnopfer für unbewusste Sünde"
+          "text": "Sühnopfer für unbewusste Sünde",
+          "id": "opt_2",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Hebopfer für levitische Priester"
+          "text": "Hebopfer für levitische Priester",
+          "id": "opt_3",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Reinigungsanteil für den Vorhof"
+          "text": "Reinigungsanteil für den Vorhof",
+          "id": "opt_4",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -536,16 +708,28 @@
       "text": "An welchem Ort sollte der Geber sein Friedensopfer vor dem HERRN schächten?",
       "options": [
         {
-          "text": "An der Nordseite des Brandopferaltars"
+          "text": "An der Nordseite des Brandopferaltars",
+          "id": "opt_1",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Vor der Tür der heiligen Stiftshütte"
+          "text": "Vor der Tür der heiligen Stiftshütte",
+          "id": "opt_2",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Außerhalb des Lagers an reinem Ort"
+          "text": "Außerhalb des Lagers an reinem Ort",
+          "id": "opt_3",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Direkt vor dem inneren Trennvorhang"
+          "text": "Direkt vor dem inneren Trennvorhang",
+          "id": "opt_4",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -563,19 +747,27 @@
       "options": [
         {
           "text": "Ihr sollt kein Fleisch von Ziegen essen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Ihr sollt keine ungewaschenen Früchte essen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Ihr sollt keinerlei Fett noch Blut essen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Ihr sollt kein Brot am Sabbattag backen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -592,16 +784,28 @@
       "text": "Für welchen Fall ordnete das Gesetz das Sündopfer in 3. Mose 4:2 an?",
       "options": [
         {
-          "text": "Für vorsätzlichen Mord und frevelhafte Taten"
+          "text": "Für vorsätzlichen Mord und frevelhafte Taten",
+          "id": "opt_1",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Für das bewusste Entheiligen des Ruhetages"
+          "text": "Für das bewusste Entheiligen des Ruhetages",
+          "id": "opt_2",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Für Götzendienst mit heidnischen Schnitzbildern"
+          "text": "Für Götzendienst mit heidnischen Schnitzbildern",
+          "id": "opt_3",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Wenn sich eine Seele aus Irrtum versündigt"
+          "text": "Wenn sich eine Seele aus Irrtum versündigt",
+          "id": "opt_4",
+          "isCorrect": true,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -618,16 +822,28 @@
       "text": "Was sollte der gesalbte Priester als Sündopfer bringen, wenn er Schuld auf das Volk lud?",
       "options": [
         {
-          "text": "Einen jungen, makellosen Farren"
+          "text": "Einen jungen, makellosen Farren",
+          "id": "opt_1",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Einen fehlerfreien Ziegenbock"
+          "text": "Einen fehlerfreien Ziegenbock",
+          "id": "opt_2",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Zwei Turteltauben aus der Hecke"
+          "text": "Zwei Turteltauben aus der Hecke",
+          "id": "opt_3",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Ein makelloses Schaf der Weide"
+          "text": "Ein makelloses Schaf der Weide",
+          "id": "opt_4",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -645,19 +861,27 @@
       "options": [
         {
           "text": "Dreimal zur Versöhnung des Ortes",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Genau siebenmal vor dem HERRN",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Ein einziges Mal an die Altarwand",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Zwölfmal für die Stämme Israels",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -675,19 +899,27 @@
       "options": [
         {
           "text": "Sie wurden im Vorhof von den Priestern gegessen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Sie wurden am Brandopferaltar vollständig verbrannt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Außerhalb des Lagers an einen reinen Ort",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Sie wurden den Armen im Lager geschenkt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -704,16 +936,28 @@
       "text": "Was sollte ein Fürst als Opfergabe bringen, wenn er aus Versehen sündigte?",
       "options": [
         {
-          "text": "Einen jungen Farren von den Rindern"
+          "text": "Einen jungen Farren von den Rindern",
+          "id": "opt_1",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Einen Ziegenbock, ein makelloses Tier"
+          "text": "Eine weibliche Ziege aus seiner Herde",
+          "id": "opt_2",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Einen ausgewachsenen Widder der Schafe"
+          "text": "Einen ausgewachsenen Widder der Schafe",
+          "id": "opt_3",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Eine weibliche Ziege aus seiner Herde"
+          "text": "Einen Ziegenbock, ein makelloses Tier",
+          "id": "opt_4",
+          "isCorrect": true,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -730,16 +974,28 @@
       "text": "Was sollte jemand aus dem Volk als Opfergabe bringen, wenn er aus Versehen sündigte?",
       "options": [
         {
-          "text": "Einen jungen Farren von den Rindern"
+          "text": "Eine Ziege, ein makelloses Tier",
+          "id": "opt_1",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Einen Ziegenbock ohne jedes Gebrechen"
+          "text": "Einen Ziegenbock ohne jedes Gebrechen",
+          "id": "opt_2",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Eine Ziege, ein makelloses Tier"
+          "text": "Einen jungen Farren von den Rindern",
+          "id": "opt_3",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Zwei Turteltauben von den Felsen"
+          "text": "Zwei Turteltauben von den Felsen",
+          "id": "opt_4",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -757,19 +1013,27 @@
       "options": [
         {
           "text": "An die Vorhangsäulen des Heiligen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "An die Hörner des Brandopferaltars",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Auf den goldenen Schaubrottisch",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "An das Gewand des Sünders",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -787,19 +1051,27 @@
       "options": [
         {
           "text": "Er blieb völlig schuldlos vor dem Gesetz",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Er wurde sofort aus dem Lager gestoßen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Er lud seine eigene Schuld auf sich",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Er musste das dreifache Wergeld zahlen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -817,19 +1089,27 @@
       "options": [
         {
           "text": "Ein Maß Weizenbrot ohne Öl und Weihrauch",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Einen halben Schekel Silber für den Priester",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Ein Bündel Ysop mit Salz vom Altar",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Zwei Turteltauben oder zwei junge Tauben",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -847,19 +1127,27 @@
       "options": [
         {
           "text": "Einen zehnten Teil eines Epha Feinmehl",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Ein halbes Maß Gerstenbrot ohne Salz",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Einen Korb voll grüner Ähren vom Feld",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Eine Schale mit frischem Salz und Weihrauch",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -877,19 +1165,27 @@
       "options": [
         {
           "text": "Weil Öl und Weihrauch zu teuer waren",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Weil es ein ernsthaftes Sündopfer war",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Weil Weihrauch das Mehl verderben würde",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Weil der Priester kein Öl berühren durfte",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -906,16 +1202,28 @@
       "text": "Welches Tier verlangte das Gesetz als Schuldopfer bei Untreue an den heiligen Dingen?",
       "options": [
         {
-          "text": "Einen jungen Farren von den Rindern"
+          "text": "Einen jungen Farren von den Rindern",
+          "id": "opt_1",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Einen Ziegenbock aus der Ziegenherde"
+          "text": "Einen Ziegenbock aus der Ziegenherde",
+          "id": "opt_2",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Einen makellosen Widder von den Schafen"
+          "text": "Einen makellosen Widder von den Schafen",
+          "id": "opt_3",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Eine weibliche Ziege von den Herden"
+          "text": "Eine weibliche Ziege von den Herden",
+          "id": "opt_4",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -933,19 +1241,27 @@
       "options": [
         {
           "text": "Um das Doppelte des Wertes (100 %)",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Um die Hälfte des Gesamtwertes (50 %)",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Um den zehnten Teil der Schadenssumme (10 %)",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Um einen fünften Teil des Wertes (20 %)",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -963,19 +1279,27 @@
       "options": [
         {
           "text": "Das aufrichtige Bekenntnis der Sünde",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Ein dreitägiges Fasten im Vorhof",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Das Waschen aller Kleider im Lager",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Eine Spende von Silber am Altar",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -993,19 +1317,27 @@
       "options": [
         {
           "text": "Er musste nur das Opfer am Altar bringen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Volle Erstattung plus ein Fünftel Zusetzung",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Dreifacher Ersatz an das Opferhaus",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Vierjähriger Knechtsdienst beim Nächsten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1023,19 +1355,27 @@
       "options": [
         {
           "text": "Es durfte nur am Sabbattag brennen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Es musste jeden Abend neu entfacht werden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Es brannte nur während der großen Feste",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Es sollte beständig brennen und nie erlöschen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -1053,19 +1393,27 @@
       "options": [
         {
           "text": "Leinene Kleider und leinene Beinkleider",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Sein gewöhnliches Alltagsgewand aus Wolle",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Das prachtvolle Ephod mit dem Brustschild",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Ein schwarzes Trauergewand aus Ziegenhaar",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1083,19 +1431,27 @@
       "options": [
         {
           "text": "Es wurde von allen Priestern im Hof gegessen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Es musste als Ganzopfer verbrannt werden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Es wurde den Armen des Volkes ausgeteilt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Es wurde mit dem Blut des Stiers gemischt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1113,19 +1469,27 @@
       "options": [
         {
           "text": "Es musste mit Salzwasser gründlich gereinigt werden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Es musste im Feuer des Altars ausgeglüht werden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Es musste unweigerlich zerbrochen werden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Es durfte für profane Zwecke weiterdienen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1142,16 +1506,28 @@
       "text": "Unter welcher Bedingung durfte das Fleisch eines Sündopfers KEINESFALLS gegessen werden?",
       "options": [
         {
-          "text": "Wenn das dargebrachte Tier ein weibliches Schaf war"
+          "text": "Wenn das dargebrachte Tier ein weibliches Schaf war",
+          "id": "opt_1",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Wenn das Opfer an einem gewöhnlichen Werktag dargebracht war"
+          "text": "Wenn das Opfer an einem gewöhnlichen Werktag dargebracht war",
+          "id": "opt_2",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Wenn der Bringer des Opfers nicht aus dem Stamme Levi war"
+          "text": "Wenn der Bringer des Opfers nicht aus dem Stamme Levi war",
+          "id": "opt_3",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Wenn von dem Blut in die Stiftshütte hineingebracht wird"
+          "text": "Wenn von dem Blut in die Stiftshütte hineingebracht wird",
+          "id": "opt_4",
+          "isCorrect": true,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -1168,16 +1544,28 @@
       "text": "An welchem Ort sollte das Tier für das Schuldopfer geschächtet werden?",
       "options": [
         {
-          "text": "Am gleichen Ort wie das Brandopfer"
+          "text": "Am gleichen Ort wie das Brandopfer",
+          "id": "opt_1",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "An der Südseite vor dem Leuchter"
+          "text": "An der Südseite vor dem Leuchter",
+          "id": "opt_2",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Außerhalb des Lagers an reinem Ort"
+          "text": "Außerhalb des Lagers an reinem Ort",
+          "id": "opt_3",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Direkt vor dem Tor des Vorhofs"
+          "text": "Direkt vor dem Tor des Vorhofs",
+          "id": "opt_4",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -1195,19 +1583,27 @@
       "options": [
         {
           "text": "Bis zum Ablauf von genau drei vollen Tagen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Bis zum nächsten Sabbatfest der Gemeinde",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Am Tag der Darbringung ohne Rest bis zum Morgen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Innerhalb von sieben Tagen nach dem Feste",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1225,19 +1621,27 @@
       "options": [
         {
           "text": "Es musste den Priestern zur Speise dienen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Es durfte mit Salz konserviert werden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Es wurde den Armen vor dem Lager geschenkt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Es musste vollständig im Feuer verbrannt werden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -1255,19 +1659,27 @@
       "options": [
         {
           "text": "Er sollte aus seinem Volk ausgerottet werden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Er musste eine doppelte Geldbuße entrichten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Er wurde für vierzig Tage aus dem Lager verbannt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Er musste ein zusätzliches Schuldopfer bringen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1285,19 +1697,27 @@
       "options": [
         {
           "text": "Von Eseln, Pferden und reinen Kamelen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Von Rindern, Schafen und Ziegen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Von Tauben, Wachteln und wilden Enten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Von Hirschen, Rehen und wilden Gazellen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1315,19 +1735,27 @@
       "options": [
         {
           "text": "Blut durfte nur an Festtagen getrunken werden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Nur das Blut von Opfertieren war streng untersagt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Wer irgendwelches Blut aß, wurde ausgerottet",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Das Blut musste vor dem Kochen gesalzen werden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1345,19 +1773,27 @@
       "options": [
         {
           "text": "Den Kopf und die Läufe des Opfertieres",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Die Nieren mitsamt dem fetten Schwanz",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Die gesamte Haut mitsamt den Innereien",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Die Webebrust und die Hebekeule",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -1375,19 +1811,27 @@
       "options": [
         {
           "text": "Am Eingang des Zeltes der Begegnung",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Vor der rauchenden Spitze des Berges Sinai",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Mitten im Lager bei den Manna-Krügen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "An den Ufern des Baches am Horeb",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1405,19 +1849,27 @@
       "options": [
         {
           "text": "Das Abrasieren des gesamten Haupthaars",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Das Waschen ihrer Körper mit reinem Wasser",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Das dreitägige Fasten vor dem Volk Israel",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Das Bestreuen des Hauptes mit Altarasche",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1435,19 +1887,27 @@
       "options": [
         {
           "text": "Einen goldenen Reif mit den Namen der zwölf Stämme",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Einen Edelstein aus dem Stamm Juda im Kopfbund",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Das goldene Stirnblatt mit der Heiligkeitsschrift",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Eine blaue Schleife mit Granatäpfeln und Glöckchen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1465,19 +1925,27 @@
       "options": [
         {
           "text": "Mit dem frischen Blut des Brandopferstiers",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Mit reinem Olivenöl aus den Oasen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Mit Quellwasser aus dem Felsen Horeb",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Mit dem heiligen Salböl der Bereitung",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -1495,19 +1963,27 @@
       "options": [
         {
           "text": "Auf die Hörner des Brandopferaltars ringsum",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Auf den goldenen Schaubrottisch im Zelt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Auf den inneren Trennvorhang im Heiligen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Auf die Oberschwelle der Stiftshütte",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1525,19 +2001,27 @@
       "options": [
         {
           "text": "Auf die Stirn, die rechte Hand und das Knie",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Auf das rechte Ohrläppchen, den Daumen und die Zehe",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Auf die rechte Schulter, die Brust und die Ferse",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Auf das rechte Auge, die Lippe und den Arm",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1555,19 +2039,27 @@
       "options": [
         {
           "text": "In die Hände der siebzig Ältesten Israels",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "In die Hände der Handwerker Bezaleel und Oholiab",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "In die Hände Aarons und seiner Söhne",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "In die Hände seines Dieners Josua",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1585,19 +2077,27 @@
       "options": [
         {
           "text": "Drei Tage lang in vollkommener Stille",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Vierzig Tage lang wie Mose am Berg",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Zwölf Tage lang für die Stämme Israels",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Sieben Tage lang bis zum Tag der Vollendung",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -1615,19 +2115,27 @@
       "options": [
         {
           "text": "Am achten Tag nach der Weihewoche",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Am ersten Tag des ersten Monats",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Am siebenten Tag der Einweihungszeit",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Am zehnten Tag des Monats Abib",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1644,16 +2152,28 @@
       "text": "Welche Tiere sollte Aaron für sich selbst zum Sünd- und Brandopfer nehmen?",
       "options": [
         {
-          "text": "Einen Ziegenbock und eine junge Ziege"
+          "text": "Einen Ziegenbock und eine junge Ziege",
+          "id": "opt_1",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Ein Stierkalb und einen Widder, makellos"
+          "text": "Ein Stierkalb und einen Widder, makellos",
+          "id": "opt_2",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Zwei fehlerfreie Lämmer von der Weide"
+          "text": "Zwei fehlerfreie Lämmer von der Weide",
+          "id": "opt_3",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Einen jungen Farren und zwei Tauben"
+          "text": "Einen jungen Farren und zwei Tauben",
+          "id": "opt_4",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -1671,19 +2191,27 @@
       "options": [
         {
           "text": "Er spritzte es an den inneren Trennvorhang",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Er goss es vollständig außerhalb des Lagers aus",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Er tat es mit dem Finger an die Altarhörner",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Er besprengte damit das Volk Israel",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1700,16 +2228,28 @@
       "text": "Welches Tier nahm Aaron als Sündopfer für das Volk und schächtete es?",
       "options": [
         {
-          "text": "Einen jungen, makellosen Farren"
+          "text": "Einen jungen, makellosen Farren",
+          "id": "opt_1",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Zwei Turteltauben aus der Hecke"
+          "text": "Zwei Turteltauben aus der Hecke",
+          "id": "opt_2",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Ein fehlerfreies Schaf der Weide"
+          "text": "Ein fehlerfreies Schaf der Weide",
+          "id": "opt_3",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Den Bock, das Sündopfer des Volkes"
+          "text": "Den Bock, das Sündopfer des Volkes",
+          "id": "opt_4",
+          "isCorrect": true,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -1727,19 +2267,27 @@
       "options": [
         {
           "text": "Er hob seine Hände auf und segnete das Volk",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Er verneigte sich stumm vor der Lade",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Er verbrannte das gesamte Fleisch im Hof",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Er wechselte sogleich seine Kleider",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1756,16 +2304,28 @@
       "text": "Was geschah, als Mose und Aaron aus der Stiftshütte traten und das Volk segneten?",
       "options": [
         {
-          "text": "Die Bundeslade erstrahlte und eine goldene Taube stieg auf"
+          "text": "Die Bundeslade erstrahlte und eine goldene Taube stieg auf",
+          "id": "opt_1",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Gottes Herrlichkeit erschien und Feuer verzehrte das Opfer"
+          "text": "Gottes Herrlichkeit erschien und Feuer verzehrte das Opfer",
+          "id": "opt_2",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Ein gewaltiger Regenguss löschte die Glut auf dem Altar aus"
+          "text": "Ein gewaltiger Regenguss löschte die Glut auf dem Altar aus",
+          "id": "opt_3",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Die Wolkensäule zerteilte sich und ein Donner erschütterte"
+          "text": "Die Wolkensäule zerteilte sich und ein Donner erschütterte",
+          "id": "opt_4",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -1783,19 +2343,27 @@
       "options": [
         {
           "text": "Sie verweigerten das Schachten des Widders",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Sie stahlen das Gold aus dem Stiftszelt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Sie brachten fremdes Feuer vor den HERRN",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Sie betraten das Heiligtum in unreinem Gewand",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1813,19 +2381,27 @@
       "options": [
         {
           "text": "Sie wurden auf der Stelle vom Aussatz befällt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Ein Erdbeben verschlang sie im Zeltvorhof",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Sie wurden vom Priesteramt ausgeschlossen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Feuer ging aus vom HERRN und verzehrte sie",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -1842,16 +2418,28 @@
       "text": "Wer trug Nadab und Abihu in ihren Leibröcken vor das Lager hinaus?",
       "options": [
         {
-          "text": "Misael und Elzaphan, die Söhne Ussiels"
+          "text": "Misael und Elzaphan, die Söhne Ussiels",
+          "id": "opt_1",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Eleasar und Ithamar, ihre beiden Brüder"
+          "text": "Eleasar und Ithamar, ihre beiden Brüder",
+          "id": "opt_2",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Die siebzig Ältesten des Volkes Israel"
+          "text": "Die siebzig Ältesten des Volkes Israel",
+          "id": "opt_3",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Die levitischen Priester aus dem Zelte"
+          "text": "Die levitischen Priester aus dem Zelte",
+          "id": "opt_4",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -1869,19 +2457,27 @@
       "options": [
         {
           "text": "Sie durften kein Brot im Lager essen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Haare nicht entblößen und Kleider nicht zerreißen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Sie mussten sieben Tage vollkommen schweigen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Sie durften den Altar nicht mehr berühren",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1899,19 +2495,27 @@
       "options": [
         {
           "text": "Sie durften kein Manna vor dem Dienst essen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Sie mussten stets barfuß im Hof stehen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Keinen Wein noch berauschendes Getränk trinken",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Sie durften nur bei Tageslicht dienen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1929,19 +2533,27 @@
       "options": [
         {
           "text": "Weil der Ziegenbock unrein war",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Weil sie das Blut am Altar vergessen hatten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Weil sie den Bock nicht opfern wollten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Weil der Bock verbrannt statt gegessen wurde",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -1959,19 +2571,27 @@
       "options": [
         {
           "text": "Solches ist mir widerfahren; wäre es Gott wohlgefällig gewesen?",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Weil das Fleisch durch die Glut des Altars ungenießbar verbrannt war",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Weil das Volk Israel die vorgeschriebenen Sühneopfergaben minderte",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Weil die Leviten das Fleisch vor dem Zelt unrein gemacht hatten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1989,19 +2609,27 @@
       "options": [
         {
           "text": "Nur das Wiederkäuen ohne Rücksicht auf die Hufform",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Völlig gespaltene Hufe und das Wiederkäuen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Nur gespaltene Hufe unabhängig von der Verdauungsart",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Völlig ungespaltene Hufe sowie der reine Pflanzenfraß",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2019,19 +2647,27 @@
       "options": [
         {
           "text": "Weil es weder die Hufe spaltet noch als Tier wiederkäut",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Weil es als Haustier ausschließlich im Stalle gehalten wurde",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Weil es zwar gespaltene Hufe hat, aber nicht wiederkäut",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Weil es nur am Abend und niemals am Tage gefüttert wurde",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2049,19 +2685,27 @@
       "options": [
         {
           "text": "Nur schillernde Schuppen ohne das Vorhandensein von Flossen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Weder Flossen noch Schuppen auf ihrer glatten Haut",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Eine Mindestlänge von einer Spanne beim frischen Fang",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Sowohl sichtbare Flossen als auch echte Schuppen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -2079,19 +2723,27 @@
       "options": [
         {
           "text": "Heuschreckenarten mit Schenkeln zum Hüpfen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Alle vierfüßigen Fliegen und die kleinen Stechmücken",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Sämtliche Bienen und Wespen aus den Wüstenfelsen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Nur die im Wasser lebenden kleinen Käferarten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2109,19 +2761,27 @@
       "options": [
         {
           "text": "Genau sieben Tage lang außerhalb des Lagers",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Bis zum Abend desselben Tages nach der Reinigung",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Bis zum nächsten Anbruch des heiligen Sabbats",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Drei volle Tage nach dem Bringen eines Opfers",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2139,19 +2799,27 @@
       "options": [
         {
           "text": "Es musste gründlich dreimal mit Wasser gewaschen werden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Es musste im offenen Feuer des Altars ausgeglüht werden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Es musste unweigerlich vollkommen zerbrochen werden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Es durfte nach sieben Tagen wieder frei benutzt werden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2169,19 +2837,27 @@
       "options": [
         {
           "text": "Die Zisterne wurde für immer unbrauchbar und unrein",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Das Wasser musste vollständig abgepumpt werden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Das Wasser durfte nur noch für das Vieh dienen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Das gesammelte Wasser blieb trotz des Aases rein",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -2199,19 +2875,27 @@
       "options": [
         {
           "text": "Genau am achten Tag nach der Geburt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Am ersten Tag unmittelbar nach der Geburt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Am vierzehnten Tag nach der Reinigung",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Am vierzigsten Tag zusammen mit dem Opfer",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2229,19 +2913,27 @@
       "options": [
         {
           "text": "Insgesamt sieben Tage der vollkommenen Stille",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Insgesamt vierzig Tage bis zur vollen Reinigung",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Insgesamt sechzig Tage nach dem Gesetzbuch",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Insgesamt achtzig Tage im Wüstenlager",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2259,19 +2951,27 @@
       "options": [
         {
           "text": "Genau vierzig Tage wie bei einem Knaben",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Genau fünfzig Tage nach dem Kalender",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Genau achtzig Tage bis zur Vollendung",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Genau einhundert Tage außerhalb des Zeltes",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2288,16 +2988,28 @@
       "text": "Was sollte eine Frau nach Erfüllung ihrer Reinigungstage dem Priester bringen?",
       "options": [
         {
-          "text": "Einen jungen Farren und zwei Widder"
+          "text": "Einen jungen Farren und zwei Widder",
+          "id": "opt_1",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Zwei Ziegenböcke und feinstes Mehl"
+          "text": "Zwei Ziegenböcke und feinstes Mehl",
+          "id": "opt_2",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Drei Lämmer ohne jedes Gebrechen"
+          "text": "Drei Lämmer ohne jedes Gebrechen",
+          "id": "opt_3",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Ein einjähriges Schaf und eine Taube"
+          "text": "Ein einjähriges Schaf und eine Taube",
+          "id": "opt_4",
+          "isCorrect": true,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -2315,19 +3027,27 @@
       "options": [
         {
           "text": "Zwei Turteltauben oder zwei junge Tauben",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Ein Maß Feinmehl mit Olivenöl vermischt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Einen halben Schekel Silber am Heiligtum",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Ein kleines Ziegenböcklein aus der Herde",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2345,19 +3065,27 @@
       "options": [
         {
           "text": "Der betroffene Hausvater der Familie",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Der Priester aus dem Hause Aarons",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Die siebzig Ältesten des Volkes Israel",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Der Prophet Mose als Mittler des Bundes",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2375,19 +3103,27 @@
       "options": [
         {
           "text": "Drei Tage lang zur ersten Beobachtung",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Vierzehn Tage lang ohne Unterbrechung",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Sieben Tage lang zur genauen Prüfung",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Vierzig Tage lang in der Wüste draußen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2405,19 +3141,27 @@
       "options": [
         {
           "text": "Der Kranke musste unweigerlich getötet werden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Er verbannte ihn für immer aus dem Lande",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Er verlangte das doppelte Schuldopfer",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Er erklärte den Kranken für vollkommen rein",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -2435,19 +3179,27 @@
       "options": [
         {
           "text": "Zerrissene Kleider, entblößtes Haupt und verhüllter Bart",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Ein schwarzes Gewand, geschorene Augenbrauen und ein Stab",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Ein gelbes Band am Arm, barfüßiger Gang und Stillschweigen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Ein weißes Leinentuch um die Hüften und eine Ascheschicht",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2465,19 +3217,27 @@
       "options": [
         {
           "text": "An bronzenen Gefäßen und goldenen Ringen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "An Gewändern aus Wolle, Leinen oder Leder",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "An den hölzernen Wänden der Zelte im Lager",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "An den tönernen Vorratskrügen im Zelt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2495,19 +3255,27 @@
       "options": [
         {
           "text": "Es durfte nach dreimaligem Salzen genutzt werden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Es wurde den heidnischen Fremdlingen geschenkt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Es musste vollständig im Feuer verbrannt werden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Es wurde tief unter der Erde vergraben",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2525,19 +3293,27 @@
       "options": [
         {
           "text": "Zwei junge Tauben aus dem Heiligtum",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Zwei junge Wachteln aus dem Lager",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Zwei weiße Enten aus den Flüssen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Zwei lebendige reine Vögel vom Felde",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -2555,19 +3331,27 @@
       "options": [
         {
           "text": "Über einem irdenen Gefäß mit fließendem Wasser",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Über dem brennenden Feuer des Altars",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Über einer silbernen Schale voller Salböl",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Über dem Felsen am Eingang des Zeltes",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2585,19 +3369,27 @@
       "options": [
         {
           "text": "Er wurde ebenfalls über dem Gefäß geschlachtet",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Er wurde frei auf das offene Feld entlassen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Er wurde dem Priester zur Speise gegeben",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Er wurde im Stiftszelt vor der Lade gehalten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2615,19 +3407,27 @@
       "options": [
         {
           "text": "Das Einschmieren des gesamten Körpers mit Asche und Salz",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Das Eintauchen in den Fluss Jordan für sieben Male hintereinander",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Das Abrasieren all seiner Haare an Kopf, Bart und Augenbrauen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Das dreitägige Fasten ohne Wasser und Brot außerhalb des Lagers",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2645,19 +3445,27 @@
       "options": [
         {
           "text": "Drei junge Farren aus den Ställen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Drei fehlerfreie Ziegenböcke aus der Herde",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Drei Widdereinzlinge aus den Herden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Zwei männliche Lämmer und ein weibliches Schaf",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -2675,19 +3483,27 @@
       "options": [
         {
           "text": "Zuerst mit dem Blut des Schuldopfers",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Zuerst mit reinem Wasser und danach mit Asche",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Nur mit dem feinen Mehl des Speisopfers",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Ausschließlich mit dem Blut der Taube",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2705,19 +3521,27 @@
       "options": [
         {
           "text": "Er goss es an den Fuß des Brandopferaltars",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Er goss es auf das Haupt des zu Reinigenden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Er salbte damit die eigenen Priestergewänder",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Er schenkte es den Armen im Vorhof",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2735,19 +3559,27 @@
       "options": [
         {
           "text": "Nur ein einziges Maß Feinmehl ohne Tiere",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Zwei Turteltauben ohne jegliches Lamm",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Ein Lamm zum Schuldopfer und zwei Tauben",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Einen halben Schekel Silber am Altar",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2765,19 +3597,27 @@
       "options": [
         {
           "text": "An dunklem Ruß und schwarzem Schimmel",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "An feinen Rissen im Verputz des Gemäuers",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "An weißem Salzbelag auf den Steinen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "An grünlichen oder rötlichen Vertiefungen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -2795,19 +3635,27 @@
       "options": [
         {
           "text": "Genau sieben Tage lang verschlossen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Drei Tage lang zur schnellen Kontrolle",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Vierzehn Tage lang ohne Betreten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Einen vollen Monat lang im Dorf",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2825,19 +3673,27 @@
       "options": [
         {
           "text": "Das Haus musste sofort niedergebrannt werden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Befallene Steine ausbrechen und Haus neu verputzen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Alle Fenster und Türen dauerhaft zumauern",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Das Haus mit Salzwasser gründlich abwaschen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2855,19 +3711,27 @@
       "options": [
         {
           "text": "Es durfte als Viehstuhl weitergenutzt werden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Es wurde mit großem Opfer gereinigt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Es musste völlig abgebrochen und entsorgt werden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Es wurde den heidnischen Nachbarn überlassen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2885,19 +3749,27 @@
       "options": [
         {
           "text": "Weihrauch, Olivenöl, Salz und reines Wasser",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Das Blut eines Stiers und heiliges Salböl",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Drei Krüge mit frischem Quellwasser",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Zwei Vögel, Zedernholz, Karmesin und Ysop",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -2915,19 +3787,27 @@
       "options": [
         {
           "text": "Er war unrein und machte alle Lagerstätten unrein",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Er blieb rein, aber seine Kleider wurden unrein",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Er musste für vierzig Tage das Lager verlassen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Er musste sofort ein Schuldopfer am Altar bringen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2945,19 +3825,27 @@
       "options": [
         {
           "text": "Drei Tage lang außerhalb des Lagers bleiben und nichts essen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Seine Kleider waschen, baden und unrein sein bis zum Abend",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Ein Sündopfer von zwei Tauben beim Priester darbringen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Das berührte Bett sofort im Feuer verbrennen und neu bauen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2975,19 +3863,27 @@
       "options": [
         {
           "text": "Drei Tage ab dem Beginn der Blutwallung",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Vierzehn Tage lang wie nach der Geburt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Genau sieben Tage lang im Wüstenlager",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Bis zum nächsten Neumond des Monats",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3005,19 +3901,27 @@
       "options": [
         {
           "text": "Zwei Wachteln aus dem täglichen Wüstenlager",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Zwei lebendige reine Vögel vom offenen Felde",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Zwei weiße Tauben mitsamt einem Lamm",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Zwei Turteltauben oder zwei junge Tauben",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -3035,19 +3939,27 @@
       "options": [
         {
           "text": "Einmal im Jahr am Versöhnungstag mit Rauchwerk",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "An jedem Sabbat nach dem Darbringen des Brandopfers",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Täglich am Morgen zur Verbrennung des Weihrauchs",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "An jedem Neumond des Jahreslaufs mit dem Volkssündopfer",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3065,19 +3977,27 @@
       "options": [
         {
           "text": "Das prachtvolle goldene Ephod mit dem Brustschild",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Die einfachen heiligen leinenen Gewänder",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Ein purpurnes Gewand mit den goldenen Glöckchen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Ein langes Trauergewand aus dunklem Ziegenhaar",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3094,16 +4014,28 @@
       "text": "Was tat Aaron mit den zwei Böcken vor der Tür der Stiftshütte?",
       "options": [
         {
-          "text": "Beide Böcke wurden zum Brandopfer am Altar geschächtet"
+          "text": "Beide Böcke wurden zum Brandopfer am Altar geschächtet",
+          "id": "opt_1",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Beide Böcke wurden lebendig in die Wüste hinausgejagt"
+          "text": "Beide Böcke wurden lebendig in die Wüste hinausgejagt",
+          "id": "opt_2",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Er warf Lose: ein Los für den HERRN und eins für Asasel"
+          "text": "Er warf Lose: ein Los für den HERRN und eins für Asasel",
+          "id": "opt_3",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Ein Bock wurde geschächtet, der andere dem Volk gegeben"
+          "text": "Ein Bock wurde geschächtet, der andere dem Volk gegeben",
+          "id": "opt_4",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -3120,16 +4052,28 @@
       "text": "Was tat Aaron mit dem lebendigen Bock, auf welchen das Los für Asasel fiel?",
       "options": [
         {
-          "text": "Er verbrannte ihn ganz auf dem Brandopferaltar"
+          "text": "Er verbrannte ihn ganz auf dem Brandopferaltar",
+          "id": "opt_1",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Er übergab ihn den Ältesten zur Schlichtung am Tor"
+          "text": "Er übergab ihn den Ältesten zur Schlichtung am Tor",
+          "id": "opt_2",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Er besprengte sein Fell mit dem Blut des Stieres"
+          "text": "Er besprengte sein Fell mit dem Blut des Stieres",
+          "id": "opt_3",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Er stützte beide Hände auf ihn und bekannte Schuld"
+          "text": "Er stützte beide Hände auf ihn und bekannte Schuld",
+          "id": "opt_4",
+          "isCorrect": true,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -3146,16 +4090,28 @@
       "text": "Womit bedeckte Aaron den Sühnedeckel im Heiligtum, damit er nicht sterbe?",
       "options": [
         {
-          "text": "Mit einer Wolke des Räucherwerks"
+          "text": "Mit einer Wolke des Räucherwerks",
+          "id": "opt_1",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Mit dem leinenen Mantel des Amtes"
+          "text": "Mit dem leinenen Mantel des Amtes",
+          "id": "opt_2",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Mit dem inneren Trennungsvorhang"
+          "text": "Mit dem inneren Trennungsvorhang",
+          "id": "opt_3",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Mit der Wolkensäule am Gottesberg"
+          "text": "Mit der Wolkensäule am Gottesberg",
+          "id": "opt_4",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -3172,16 +4128,28 @@
       "text": "Wie sprengte Aaron das Blut des Farren auf und vor den Sühnedeckel nach Osten?",
       "options": [
         {
-          "text": "Dreimal zur Reinigung des Heiligtums"
+          "text": "Dreimal zur Reinigung des Heiligtums",
+          "id": "opt_1",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Einmal darauf und siebenmal davor"
+          "text": "Einmal darauf und siebenmal davor",
+          "id": "opt_2",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Zwölfmal für alle Stämme von Israel"
+          "text": "Zwölfmal für alle Stämme von Israel",
+          "id": "opt_3",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Vierundzwanzigmal an alle vier Ecken"
+          "text": "Vierundzwanzigmal an alle vier Ecken",
+          "id": "opt_4",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -3199,19 +4167,27 @@
       "options": [
         {
           "text": "Ein Freudenfest mit vielen Brandopfern zu feiern",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Alle Herden zur Zählung am Zelt zu versammeln",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Die Seelen zu demütigen und keine Arbeit zu tun",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Das Passahmahl mit ungesäuertem Brot zu essen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3229,19 +4205,27 @@
       "options": [
         {
           "text": "An jedem beliebigen Ort auf dem freien Feld",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Vor den Zelttüren der Ältesten der Stämme",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Außerhalb des Lagers an einem reinen Ort",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Am Eingang des Zeltes vor dem Altar des HERRN",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -3259,19 +4243,27 @@
       "options": [
         {
           "text": "Er lud Blutschuld auf sich und wurde ausgerottet",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Er musste das dreifache Wergeld bezahlen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Er wurde für sieben Tage aus dem Lager verbannt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Er musste ein zusätzliches Widderopfer bringen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3289,19 +4281,27 @@
       "options": [
         {
           "text": "Weil Blut schnell verdirbt und krank macht",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Weil das Leben des Fleisches im Blute ist",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Weil Blut den Priestern allein vorbehalten war",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Weil Blut die Opfergeräte im Vorhof verunreinigte",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3319,19 +4319,27 @@
       "options": [
         {
           "text": "Das Tier lebendig zum Priester bringen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Das Tier noch am Jagdort im Feuer verbrennen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Sein Blut ausfließen lassen und mit Erde bedecken",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Den zehnten Teil des Fleisches dem Altar weihen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3349,19 +4357,27 @@
       "options": [
         {
           "text": "Er musste aus dem Volk ausgerottet werden und sterben",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Ein Widder als Schuldopfer am Altar darbringen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Für drei Tage außerhalb des Lagers wohnen müssen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Seine Kleider waschen, sich baden und unrein sein",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -3379,19 +4395,27 @@
       "options": [
         {
           "text": "Dem Opfern für die dämonischen Feldgeister",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Dem Verkauf von Fleisch an heidnische Händler",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Dem Diebstahl von Opfervieh aus den Ställen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Dem unberechtigten Anmaßen des Priesteramtes",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3409,19 +4433,27 @@
       "options": [
         {
           "text": "Nur für die geweihten Priester aus Levi",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Für die Israeliten und die Fremdlinge unter ihnen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Ausschließlich für die gebürtigen Israeliten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Nur für die Ältesten und Fürsten des Volkes",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3438,16 +4470,28 @@
       "text": "Welche Bräuche sollte Israel nach den Worten Gottes ausdrücklich NICHT nachahmen?",
       "options": [
         {
-          "text": "Die Ackerbaumethoden der Nachbarvölker"
+          "text": "Die Ackerbaumethoden der Nachbarvölker",
+          "id": "opt_1",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Die Sprachdialekte der Wüstenstämme"
+          "text": "Die Sprachdialekte der Wüstenstämme",
+          "id": "opt_2",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Wie im Erdland Ägypten und Erdland Kanaan"
+          "text": "Wie im Erdland Ägypten und Erdland Kanaan",
+          "id": "opt_3",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Die Bauart der heidnischen Wohnhäuser"
+          "text": "Die Bauart der heidnischen Wohnhäuser",
+          "id": "opt_4",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -3465,19 +4509,27 @@
       "options": [
         {
           "text": "Das Verbot des Handels mit fremdem Gold",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Das Verbot des Essens von Fettauswüchsen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Das Verbot der Arbeit am heiligen Sabbat",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Die Verhüllung der Blöße naher Blutsverwandter",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -3495,19 +4547,27 @@
       "options": [
         {
           "text": "Das Dahingeben von Kindern an den Molech",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Das Verbrennen von Getreide für den Baal",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Das Schlachten von Tauben auf Bergen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Das Trinken von Milch beim Götzendienst",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3525,19 +4585,27 @@
       "options": [
         {
           "text": "Als leichte Verfehlung, die mit Geld sühnt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Als verunreinigende Sünde vor dem HERRN",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Als ein Vergehen, das nur den Mann betrifft",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Als eine Sache, die die Ältesten regeln",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3554,16 +4622,28 @@
       "text": "Was geschah mit dem Erdland wegen der abscheulichen Gräuel seiner Bewohner?",
       "options": [
         {
-          "text": "Es wurde von einer großen Dürre heimgesucht"
+          "text": "Es wurde von einer großen Dürre heimgesucht",
+          "id": "opt_1",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Es geriet unter die Herrschaft Ägyptens"
+          "text": "Es geriet unter die Herrschaft Ägyptens",
+          "id": "opt_2",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Das Erdland wurde unrein und spie sie aus"
+          "text": "Das Erdland wurde unrein und spie sie aus",
+          "id": "opt_3",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Es verwandelte sich in eine öde Wüste"
+          "text": "Es verwandelte sich in eine öde Wüste",
+          "id": "opt_4",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -3580,16 +4660,28 @@
       "text": "Wie bezeichnet das Gesetz das Beiliegen bei einer männlichen Person wie bei einer Frau?",
       "options": [
         {
-          "text": "Als ein leichtes Vergehen ohne Gericht"
+          "text": "Als ein leichtes Vergehen ohne Gericht",
+          "id": "opt_1",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Als eine fremde Heidensitte ohne Strafe"
+          "text": "Als eine fremde Heidensitte ohne Strafe",
+          "id": "opt_2",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Als eine Schwachheit, die Milde verlangt"
+          "text": "Als eine Schwachheit, die Milde verlangt",
+          "id": "opt_3",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Als einen Greuel vor dem Angesicht Gottes"
+          "text": "Als einen Greuel vor dem Angesicht Gottes",
+          "id": "opt_4",
+          "isCorrect": true,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -3607,19 +4699,27 @@
       "options": [
         {
           "text": "Sie sollte ausgerottet werden aus dem Volk",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Sie musste für ein Jahr aus dem Lager",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Sie musste ihren gesamten Besitz abgeben",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Sie durfte nie mehr das Heiligtum sehen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3637,19 +4737,27 @@
       "options": [
         {
           "text": "Dient dem HERRN mit Furcht und Zittern",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Ihr sollt heilig sein, denn ich bin heilig",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Haltet meine Rechte und fürchtet die Priester",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Ich bin der HERR, der euch aus Ägypten führte",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3666,16 +4774,28 @@
       "text": "Was sollte man bei der Ernte des Erdlandes für die Gedemütigten und Fremdlinge tun?",
       "options": [
         {
-          "text": "Den zehnten Teil der Ernte ins Heiligtum bringen"
+          "text": "Den zehnten Teil der Ernte ins Heiligtum bringen",
+          "id": "opt_1",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Die Hälfte des Ertrags unter die Armen verteilen"
+          "text": "Die Hälfte des Ertrags unter die Armen verteilen",
+          "id": "opt_2",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Die Ränder des Feldes nicht vollständig abernten"
+          "text": "Die Ränder des Feldes nicht vollständig abernten",
+          "id": "opt_3",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Die Ernte vor den Armen im Speicher verschließen"
+          "text": "Die Ernte vor den Armen im Speicher verschließen",
+          "id": "opt_4",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -3693,19 +4813,27 @@
       "options": [
         {
           "text": "Sein Lohn musste stets in Silber gezahlt werden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Er durfte nur fünf Stunden am Tage arbeiten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Er musste doppeltes Brot zum Essen erhalten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Sein Lohn durfte nicht über Nacht bleiben",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -3723,19 +4851,27 @@
       "options": [
         {
           "text": "Dem Tauben nicht fluchen, dem Blinden kein Anstoß sein",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Man sollte ihnen Almosen vor den Toren geben",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Sie sollten im Zelt der Priester verpflegt werden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Man sollte sie von den Gerichten fernhalten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3753,19 +4889,27 @@
       "options": [
         {
           "text": "Du sollst deinem Nächsten seine Fehler vergeben",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Du sollst deinen Nächsten lieben wie dich selbst",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Du sollst deinem Nächsten jeden Tag Gutes tun",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Du sollst deinem Nächsten keinen Schaden zufügen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3782,16 +4926,28 @@
       "text": "Was galt für die Früchte neu gepflanzter Fruchtbäume im Erdland in den ersten drei Jahren?",
       "options": [
         {
-          "text": "Sie mussten ganz dem amtierenden Hohenpriester zufallen"
+          "text": "Sie mussten ganz dem amtierenden Hohenpriester zufallen",
+          "id": "opt_1",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Sie durften ausschließlich an heimatlose Fremdlinge gehen"
+          "text": "Sie durften ausschließlich an heimatlose Fremdlinge gehen",
+          "id": "opt_2",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Sie galten als unbeschnitten und durften nicht gegessen werden"
+          "text": "Sie galten als unbeschnitten und durften nicht gegessen werden",
+          "id": "opt_3",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Sie mussten auf dem heiligen Brandopferaltar verbrannt werden"
+          "text": "Sie mussten auf dem heiligen Brandopferaltar verbrannt werden",
+          "id": "opt_4",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -3809,19 +4965,27 @@
       "options": [
         {
           "text": "Ihnen das doppelte Erbteil an Vieh und Ländereien zusichern",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Sie von allen steuerlichen Lasten und Opferabgaben befreien",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Sie zu lebenslangen Richtern in den Toren jeder Stadt machen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Vor grauem Haar aufstehen und das Angesicht des Alten ehren",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -3838,16 +5002,28 @@
       "text": "Welches Gericht traf einen Mann im Volk Israel, der ein Kind dem Molech opferte?",
       "options": [
         {
-          "text": "Das Volk des Erdlandes musste ihn steinigen"
+          "text": "Das Volk des Erdlandes musste ihn steinigen",
+          "id": "opt_1",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Er wurde auf Lebenszeit aus dem Lager verbannt"
+          "text": "Er wurde auf Lebenszeit aus dem Lager verbannt",
+          "id": "opt_2",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Er musste das Fünffache des Wergeldes zahlen"
+          "text": "Er musste das Fünffache des Wergeldes zahlen",
+          "id": "opt_3",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Er verlor sein ganzes Erbteil an die Priester"
+          "text": "Er verlor sein ganzes Erbteil an die Priester",
+          "id": "opt_4",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -3865,19 +5041,27 @@
       "options": [
         {
           "text": "Er verlangte ein dreifaches Schuldopfer",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Er kehrte Sein Angesicht gegen sie und rottete sie aus",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Er verbot ihnen den Zutritt zum Vorhof für ein Jahr",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Er übergab sie dem Gericht der siebzig Ältesten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3895,19 +5079,27 @@
       "options": [
         {
           "text": "Sie mussten eine schwere Geldstrafe an die Priester entrichten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Sie wurden für sieben Jahre aus dem Lager verbannt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Beide mussten unweigerlich mit dem Tode bestraft werden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Die Frau wurde verstoßen, der Mann zahlte eine Buße",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3925,19 +5117,27 @@
       "options": [
         {
           "text": "Er musste unverzüglich aus dem Erbteil der Sippe weichen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Er verlor für immer das gesamte Erstgeburtsrecht im Hause",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Er wurde vor den Ältesten mit vierzig Streichen geschlagen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Er musste unweigerlich getötet werden; sein Blut war auf ihm",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -3955,19 +5155,27 @@
       "options": [
         {
           "text": "Beide mussten unweigerlich getötet werden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Nur der Mensch wurde getötet, das Tier freigelassen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Der Mensch wurde verbannt, das Tier geopfert",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Der Mensch zahlte Buße, das Tier wurde verkauft",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3985,19 +5193,27 @@
       "options": [
         {
           "text": "Damit sie die reichste Nation auf Erden würden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Damit sie dem HERRN heilig seien und Ihm gehörten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Damit sie alle Kriege in der Welt gewännen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Damit sie die Gesetze den Heiden lehrten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4015,19 +5231,27 @@
       "options": [
         {
           "text": "Sie wurden für vierzig Tage in die Wüste verbannt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Sie mussten eine große Strafe am Heiligtum zahlen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Sie mussten unweigerlich gesteinigt werden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Sie wurden von den Priestern gereinigt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4045,19 +5269,27 @@
       "options": [
         {
           "text": "Wegen jedem verstorbenen Mitglied seines Stammes",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Wegen allen im Lager verstorbenen Israeliten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Ausschließlich wegen seiner eigenen Ehefrau",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Nur wegen seiner nächsten Blutsverwandten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -4075,19 +5307,27 @@
       "options": [
         {
           "text": "Eine Hure, eine Entweihte oder eine Verstoßene",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Eine Jungfrau aus den Stämmen des Volkes Israel",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Die leibliche Witwe eines verstorbenen Priesters",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Eine Tochter aus dem levitischen Hause Aarons",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4105,19 +5345,27 @@
       "options": [
         {
           "text": "Er durfte sich drei Tage lang an Eltern verunreinigen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Er durfte sich nicht einmal am Vater verunreinigen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Er musste sein Obergewand am Altar zerreißen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Er musste vierzig Tage im Heiligtum verbleiben",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4135,19 +5383,27 @@
       "options": [
         {
           "text": "Er wurde vollständig aus dem Stamme Levi ausgestoßen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Er durfte nur den Dienst an den Vorhoftoren verrichten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Er durfte nicht zum Altar nahen, aber die Speise essen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Er musste das doppelte Lösegeld am Heiligtum erstatten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4165,19 +5421,27 @@
       "options": [
         {
           "text": "Sie wurde für sieben Jahre aus dem Lager gestoßen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Sie musste eine große Geldstrafe am Altar zahlen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Sie wurde dem nächsten Verwandten zur Magd gegeben",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Sie musste unweigerlich im Feuer verbrannt werden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -4195,19 +5459,27 @@
       "options": [
         {
           "text": "Der mit Geld Gekaufte und im Hause Geborene",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Jeder Tagelöhner, der im Hause des Priesters arbeitete",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Jeder fremde Gast, der am Tisch des Priesters saß",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Nur die Söhne des Priesters, aber keine Töchter",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4225,19 +5497,27 @@
       "options": [
         {
           "text": "Er musste vierzig Tage lang am Heiligtum fasten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Den Wert erstatten und einen fünften Teil hinzufügen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Das Doppelte des Wertes in Silber entrichten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Ein Brandopfer von zwei jungen Stieren bringen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4255,19 +5535,27 @@
       "options": [
         {
           "text": "Es musste mindestens dreißig Tage bei der Mutter bleiben",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Es durfte erst im Alter von einem Jahr geopfert werden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Es musste sieben Tage bei seiner Mutter bleiben",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Es musste sogleich am ersten Tag geweiht werden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4284,16 +5572,28 @@
       "text": "Was verbot 3. Mose 22:28 bezüglich eines Stieres oder Kleinviehs und seines Jungen?",
       "options": [
         {
-          "text": "Das Junge vor der Mutter vom Lager zu trennen"
+          "text": "Das Junge vor der Mutter vom Lager zu trennen",
+          "id": "opt_1",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Das Jungtier vor der Mutter sterben zu lassen"
+          "text": "Das Jungtier vor der Mutter sterben zu lassen",
+          "id": "opt_2",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Die Mutter nach dem Jungen ins Feld zu entlassen"
+          "text": "Die Mutter nach dem Jungen ins Feld zu entlassen",
+          "id": "opt_3",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Ihr sollt es nicht an einem Tag zusammen schächten"
+          "text": "Ihr sollt es nicht an einem Tag zusammen schächten",
+          "id": "opt_4",
+          "isCorrect": true,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -4311,19 +5611,27 @@
       "options": [
         {
           "text": "Es musste noch am selben Tage vor dem Morgen verzehrt werden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Es durfte innerhalb von drei vollen Tagen verzehrt werden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Es durfte mit Salz getrocknet über Monate aufbewahrt werden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Es musste am folgenden Tag den levitischen Priestern gehören",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4341,19 +5649,27 @@
       "options": [
         {
           "text": "Genau drei volle Wochen nach dem Auszug",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Genau sieben volle Wochen (fünfzig Tage)",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Genau zehn Wochen im Sommer des Landes",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Genau vierundvierzig Tage nach dem Passah",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4370,16 +5686,28 @@
       "text": "Was sollte am ersten Tag des siebenten Monats gehalten werden?",
       "options": [
         {
-          "text": "Das Passahfest der Befreiung aus Ägypten"
+          "text": "Das Passahfest der Befreiung aus Ägypten",
+          "id": "opt_1",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Das Laubhüttenfest der Freude am Jahresende"
+          "text": "Das Laubhüttenfest der Freude am Jahresende",
+          "id": "opt_2",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Ein Sabbat, ein Gedächtnistag unter Lärmblasen"
+          "text": "Ein Sabbat, ein Gedächtnistag unter Lärmblasen",
+          "id": "opt_3",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Das Wochenfest der Erstlingsfrüchte des Weizens"
+          "text": "Das Wochenfest der Erstlingsfrüchte des Weizens",
+          "id": "opt_4",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -4397,19 +5725,27 @@
       "options": [
         {
           "text": "Genau drei Tage lang im Vorhof der Hütte",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Genau vierzig Tage lang nach den Wüstenjahren",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Genau zwölf Tage lang für alle Stämme",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Genau sieben Tage lang in allen Wohnsitzen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -4427,19 +5763,27 @@
       "options": [
         {
           "text": "Schönheitsbäume, Palmen, Bachweiden und Myrthen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Nur dicke Aststücke von den stolzen Zedern",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Ausschließlich Akazienholz aus der Wüste",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Trockenes Stroh und Schilfrohr vom Meere",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4457,19 +5801,27 @@
       "options": [
         {
           "text": "Der erste Tag des Monats mit Posaunen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Der zehnte Tag des siebenten Monats",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Der fünfzehnte Tag des siebenten Monats",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Der letzte Tag des Monats beim Neumond",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4487,19 +5839,27 @@
       "options": [
         {
           "text": "Aus kochend gepressten Oliven der Ernte",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Aus Olivenöl vermischt mit feinem Balsam",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Aus reinem, gestampftem Olivenöl der Bäume",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Aus den ersten unreifen Oliven des Frühjahrs",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4517,19 +5877,27 @@
       "options": [
         {
           "text": "Genau sieben Schaubrote für die Feiertage",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Genau zehn Schaubrote nach den Geboten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Genau vierundzwanzig Brote für die Priester",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Genau zwölf Schaubrote in zwei Schichten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -4547,19 +5915,27 @@
       "options": [
         {
           "text": "Er lästerte und verfluchte den heiligen Namen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Er stahl das Gold aus dem Zeltvorhof",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Er brach das Gesetz des heiligen Sabbats",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Er opferte ein unreinem Tier am Altar",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4577,19 +5953,27 @@
       "options": [
         {
           "text": "Er wurde mit Schimpf und Schande für immer des Landes verwiesen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Alle Hörer legten die Hände auf ihn und er wurde gesteinigt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Er musste das siebenfache Lösegeld an das Heiligtum entrichten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Er wurde den levitischen Priestern als ewiger Leibeigener gegeben",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4607,19 +5991,27 @@
       "options": [
         {
           "text": "Fünffacher Ersatz für jeden erlittenen Schaden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Dreifaches Wergeld an den Richter des Hauses",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Bruch um Bruch, Auge um Auge, Zahn um Zahn",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Lebenslange Knechtschaft für den Täter",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4636,16 +6028,28 @@
       "text": "Was sollte im siebenten Jahr (Sabbatjahr) mit dem Ackerland geschehen?",
       "options": [
         {
-          "text": "Es sollte doppelt besät und erntet werden"
+          "text": "Es sollte doppelt besät und erntet werden",
+          "id": "opt_1",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Es musste an fremde Bauern verpachtet werden"
+          "text": "Es musste an fremde Bauern verpachtet werden",
+          "id": "opt_2",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Der Ertrag gehörte allein den Priestern im Hof"
+          "text": "Der Ertrag gehörte allein den Priestern im Hof",
+          "id": "opt_3",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Das Erdland soll einen Sabbat der Ruhe haben"
+          "text": "Das Erdland soll einen Sabbat der Ruhe haben",
+          "id": "opt_4",
+          "isCorrect": true,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -4663,19 +6067,27 @@
       "options": [
         {
           "text": "Das große Jubeljahr im fünfzigsten Jahr",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Das Jahr der doppelten Ernte für die Priester",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Das zweite Sabbatjahr in Folge ohne Aussaat",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Das Jahr der Erstlingsfrüchte im Land Kanaan",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4693,19 +6105,27 @@
       "options": [
         {
           "text": "Sie verblieben für immer beim neuen Käufer",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Jeder kehrte wieder zu seinem Eigentum zurück",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Sie wurden dem Heiligtum in Silo geschenkt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Der Käufer erhielt den doppelten Preis zurück",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4723,19 +6143,27 @@
       "options": [
         {
           "text": "Es konnte jederzeit bis zum Jubeljahr eingelöst werden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Es gab überhaupt kein Recht auf Einlösung",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Ein volles Jahr lang bestand das Einlösungsrecht",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Drei volle Jahre lang durfte es zurückgefordert werden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4753,19 +6181,27 @@
       "options": [
         {
           "text": "Man durfte Zinsen verlangen, aber nur in Getreide",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Ein kleiner Zins war nach einem Sabbatjahr gestattet",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Zins war nur bei Fremdlingen streng verboten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Du sollst keinen Zins noch Aufschlag von ihm nehmen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -4783,19 +6219,27 @@
       "options": [
         {
           "text": "Regen zur rechten Zeit, Erntefülle und Frieden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Gold und Silber im Überfluss in jedem Hause",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Unsterblichkeit und Befreiung von jeder Krankheit",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Befreiung von jeglicher leiblicher Arbeit",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4813,19 +6257,27 @@
       "options": [
         {
           "text": "Fünf Israeliten sollten fünfzig Feinde jagen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Fünf von euch werden hundert jagen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Fünf Israeliten sollten eintausend jagen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Fünf Israeliten sollten zehntausend jagen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4843,19 +6295,27 @@
       "options": [
         {
           "text": "Sofortiger Einsturz der Mauern Jerusalems",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Die Verwandlung aller Quellen in kochendes Blut",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Schrecken, Auszehrung, Fieber und vergebliche Saat",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Der sofortige Tod aller Erstgeborenen im Land",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4873,19 +6333,27 @@
       "options": [
         {
           "text": "Damit die Feinde keine Städte bauen konnten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Weil der Boden für immer unfruchtbar wurde",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Damit wilde Tiere sich ungehindert vermehrten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Damit das Land seine Ruhesabbate nachhole",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -4903,19 +6371,27 @@
       "options": [
         {
           "text": "Seines Bundes mit Jakob, Isaak und Abraham",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Des Bundes mit den Königen von Juda",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Der Verdienste Moses und Aarons am Sinai",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Der Opfer, die im Heiligtum gebracht wurden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4933,19 +6409,27 @@
       "options": [
         {
           "text": "Zwanzig Schekel Silber nach dem Heiligtums-Schekel",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Fünfzig Schekel Silber nach dem Heiligtums-Schekel",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Hundert Schekel Silber nach dem Heiligtums-Schekel",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Dreißig Schekel Silber nach dem Heiligtums-Schekel",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4963,19 +6447,27 @@
       "options": [
         {
           "text": "Der Tausch war gültig und ohne weitere Folgen für den Besitzer",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Das zweite Tier wurde unheilbar unrein und musste vernichtet werden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Sowohl das erste als auch das eingetauschte Tier wurden heilig",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Der Mensch musste dem Priester das Dreifache des Wertes zahlen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4993,19 +6485,27 @@
       "options": [
         {
           "text": "Indem er den einfachen Schätzungswert entrichtete",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Das Feld war für immer unwiderruflich verloren",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Indem er ein zusätzliches Brandopfer darbrachte",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Den Schätzungswert zahlen und ein Fünftel hinzufügen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -5023,19 +6523,27 @@
       "options": [
         {
           "text": "Es durfte weder verkauft noch eingelöst werden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Es konnte nach drei Jahren wieder eingelöst werden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Es gehörte zu einem Drittel dem opfernden Mann",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Es konnte gegen das doppelte Geld ausgelöst werden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -5052,16 +6560,28 @@
       "text": "Welcher Teil von der Saat des Erdlandes, Früchten und Vieh gehörte als Zehnter dem HERRN?",
       "options": [
         {
-          "text": "Jeder fünfte Teil des gesamten Jahresertrags"
+          "text": "Jeder fünfte Teil des gesamten Jahresertrags",
+          "id": "opt_1",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Jeder zehnte Teil des Erdlandes und des Viehs"
+          "text": "Jeder zehnte Teil des Erdlandes und des Viehs",
+          "id": "opt_2",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Der zwanzigste Teil der geernteten Früchte"
+          "text": "Der zwanzigste Teil der geernteten Früchte",
+          "id": "opt_3",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Nur der Erstling der Rinder- und Schafherden"
+          "text": "Nur der Erstling der Rinder- und Schafherden",
+          "id": "opt_4",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [

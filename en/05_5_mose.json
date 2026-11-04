@@ -833,19 +833,23 @@
       "questionId": "dtn_028",
       "type": "single_choice",
       "difficulty": "hard",
-      "text": "Which three cities for refuge did Moses sever on this side Jordan toward the sun rising?",
+      "text": "How many cities of refuge did Moses sever on the east side of Jordan toward the sunrising?",
       "options": [
         {
-          "text": "Bezer in the wilderness, Ramoth in Gilead, and Golan in Bashan"
+          "text": "Then Moses severed three cities on this side Jordan",
+          "explanation": ""
         },
         {
-          "text": "Hebron, Shechem, and Kedesh in mount Naphtali of the west"
+          "text": "Six cities of refuge distributed throughout the eastern land",
+          "explanation": ""
         },
         {
-          "text": "Jericho, Heshbon, and Aroer upon the bank of the river Arnon"
+          "text": "Twelve cities, one city for each of the twelve tribal camps",
+          "explanation": ""
         },
         {
-          "text": "Dibon, Medeba, and Kirjath-huzoth in the plain of the Moabites"
+          "text": "A single fortified city situated in the territory of Og",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -3791,19 +3795,23 @@
       "questionId": "dtn_127",
       "type": "single_choice",
       "difficulty": "medium",
-      "text": "How many cities for refuge was Israel to separate in the midst of their land?",
+      "text": "What practical command was given concerning the three cities of refuge?",
       "options": [
         {
-          "text": "Twelve cities for refuge for the slayer"
+          "text": "To build high defensive watchtowers around the four city gates",
+          "explanation": ""
         },
         {
-          "text": "Three cities for refuge for the slayer"
+          "text": "To sound silver trumpets continually whenever an enemy approached",
+          "explanation": ""
         },
         {
-          "text": "Six cities for refuge for the slayer"
+          "text": "To dig deep water trenches along the outer boundaries of the land",
+          "explanation": ""
         },
         {
-          "text": "Ten cities for refuge for the slayer"
+          "text": "Thou shalt prepare thee a way, that every slayer may flee thither",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -3817,19 +3825,23 @@
       "questionId": "dtn_128",
       "type": "single_choice",
       "difficulty": "medium",
-      "text": "Unto whose hand were the elders to deliver the willful murderer from the city of refuge?",
+      "text": "What example illustrates accidental manslaughter without any prior hatred?",
       "options": [
         {
-          "text": "Into the hand of foreign heathen judges at the gate"
+          "text": "When the ax head slippeth from the helve and lighteth upon a neighbour",
+          "explanation": ""
         },
         {
-          "text": "Into the hand of the avenger of blood, that he die"
+          "text": "When a high roof of a house collapses suddenly during a heavy storm",
+          "explanation": ""
         },
         {
-          "text": "Unto the priests for perpetual imprisonment in court"
+          "text": "When a stray hunting arrow is blown aside by the wind in the field",
+          "explanation": ""
         },
         {
-          "text": "Unto the congregation of Israel to be banished out"
+          "text": "When a grazing ox suddenly gores another herdsman in the pasture",
+          "explanation": ""
         }
       ],
       "correctAnswers": [

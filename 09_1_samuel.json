@@ -25,19 +25,27 @@
       "options": [
         {
           "text": "Aus der Priesterstadt Hebron im Südland",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Aus Ramathaim-Zophim vom Gebirge Ephraim",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Aus der Festung Sichem im Binnenland",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Aus Bethlehem-Juda im Stamme Juda",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -55,19 +63,27 @@
       "options": [
         {
           "text": "Sie wollte jährlich hundert Silberlinge spenden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Sie wollte als Magd am heiligen Heiligtum dienen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Ihn dem HERRN zu geben all sein Leben lang",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Sie versprach ein fettes Brandopfer aus Rindern",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -85,19 +101,27 @@
       "options": [
         {
           "text": "Er verdächtigte sie des Raubes von Opfergut",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Er meinte, sie diene den fremden Götzen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Er verdächtigte sie der Verfluchung seiner Söhne",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Eli meinte, sie wäre vom Weine trunken",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -115,19 +139,27 @@
       "options": [
         {
           "text": "Von Gott erbeten (Gott hat gehört)",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Der Erhöhte des Herrn über die Völker",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Der Starke Helfer in der Not",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Licht des Allerhöchsten am Altar",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -145,19 +177,27 @@
       "options": [
         {
           "text": "Mit einem neuen Obergewand aus Purpurstoff",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Mit einem kleinen Oberkleid, das sie selbst gemacht hatte",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Mit einem ledernen Gürtel nach der Regel der Priester",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Mit einem goldenen Kopfband für den Dienst",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -175,19 +215,27 @@
       "options": [
         {
           "text": "Sie forderten doppelte Silberabgaben vom Volk",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Sie verweigerten das Schlachten der Opfertiere",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Sie forderten das rohe Fleisch vor dem Fettopfer",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Sie dienten heimlich den Götzen der Philister",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -205,19 +253,27 @@
       "options": [
         {
           "text": "Die Vertreibung aller Verwandten nach Moab",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Die sofortige Niederbrennung der Stiftshütte",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Die Übergabe des Priesteramts an die Philister",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Der Tod aller Männer seines Hauses in jungen Jahren",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -235,19 +291,27 @@
       "options": [
         {
           "text": "Genau drei Male rief Gott den Knaben",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Genau zwei Male rief ihn die Stimme",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Genau vier Male rief die Stimme vom Altar",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Genau sieben Male nach der heiligen Zahl",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -265,19 +329,27 @@
       "options": [
         {
           "text": "Höre Gott, denn dein Knecht bringt Opfer",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Rede, HERR, denn dein Knecht hört!",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Hier bin ich, dein Priester im Heiligtum",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Vergib die Sünden des Hauses meines Vaters",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -295,19 +367,27 @@
       "options": [
         {
           "text": "Von Hebron im Süden bis hinauf nach Dan",
-          "explanation": ""
-        },
-        {
-          "text": "Von Dan an bis gen Beer-Seba im Lande",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Von Bethel bis zur Küste des großen Meeres",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "Von Dan an bis gen Beer-Seba im Lande",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Von Silo bis an die äußerste Grenze Moabs",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -325,19 +405,27 @@
       "options": [
         {
           "text": "Die Lade des Bundes des HERRN von Silo",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Die eherne Schlange aus den Wüstentagen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Das Stiftszelt samt den Opfergeräten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Die Bundeslade des Bundes Gottes aus Silo",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -355,19 +443,27 @@
       "options": [
         {
           "text": "Sie fürchteten sich sehr und sprachen: Wehe uns!",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Sie flohen sogleich in ihre Küstenstädte",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Sie lachten über das Schreien der Israeliten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Sie forderten sofort verhandelte Friedensbedingungen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -385,19 +481,27 @@
       "options": [
         {
           "text": "Genau vier Tausend Mann am ersten Tage",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Genau dreißigtausend Mann Fußvolk Israels",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Genau zwölftausend Krieger der Stämme",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Genau siebzigtausend Mann im Feldlager",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -415,19 +519,27 @@
       "options": [
         {
           "text": "Eli verlor sein Augenlicht und geriet in Gefangenschaft",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Die Stiftshütte wurde von den Philistern völlig niedergebrannt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Die Bundeslade wurde erbeutet und seine Söhne starben",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Alle Priester wurden als Sklaven nach Aschdod weggeführt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -445,19 +557,27 @@
       "options": [
         {
           "text": "Genau achtzig Jahre alt war Eli",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Genau einhundert Jahre alt im Amt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Genau siebzigundfünf Jahre alt im Heiligtum",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Genau achtundneunzig Jahre alt war er",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -475,19 +595,27 @@
       "options": [
         {
           "text": "Ichabod, denn die Herrlichkeit ist hinweg",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Samuel zur Erinnerung an die Verheißung",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Eben-Ezer nach dem Ort der Schlacht",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Baruch als Trost in der schweren Stunde",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -505,19 +633,27 @@
       "options": [
         {
           "text": "In das Haus des Baal nahe der Meeresküste",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "In das Haus ihres Götzengottes Dagon",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "In das Haus der Aschtarot auf den Bergen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "In die Festung des Königs von Aschkelon",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -535,19 +671,27 @@
       "options": [
         {
           "text": "Das Dach des Hauses stürzte in sich zusammen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Das Bildnis zerfiel sogleich zu Staub",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Dagon lag auf seinem Angesicht vor der Lade",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Dagon füllte sich mit verzehrendem Feuer",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -565,19 +709,27 @@
       "options": [
         {
           "text": "Mit einer verheerenden Dürre im ganzen Lande",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Mit dem plötzlichen Verlust aller Rinderherden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Mit finsterer Blindheit über all ihre Krieger",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Mit schmerzhaften Beulen an heimlichen Orten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -595,19 +747,27 @@
       "options": [
         {
           "text": "Genau sieben Monate im Lande der Philister",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Genau drei Monate lang in Ekron",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Genau ein ganzes Jahr nach der Zählung",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Genau vierzig Tage im Hause Dagons",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -625,19 +785,27 @@
       "options": [
         {
           "text": "Fünf goldene Schwerter und zehn Becher Silbers",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Fünf goldene Beulen und fünf goldene Mäuse",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Zwölf goldene Kälber nach den Stämmen Israels",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Zehn goldene Kronen von den Fürsten der Städte",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -655,19 +823,27 @@
       "options": [
         {
           "text": "Zwei wilde Hengste aus den königlichen Ställen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Vier starke Ochsen aus den Feldern von Gath",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Zwei säugende Kühe, die nie ein Joch getragen hatten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Zwei Maulesel aus den Schätzen der Händler",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -685,19 +861,27 @@
       "options": [
         {
           "text": "Nach der Priesterstadt Silo am Zelt Gottes",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Nach der Festung Jerusalem im Gebirge",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Nach Mizpa zur Versammlung des Volkes",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Stracks auf dem Weg nach Beth-Schemesch",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -715,19 +899,27 @@
       "options": [
         {
           "text": "Weil sie unwürdig in die Lade Gottes schauten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Weil sie das Gold der Schuldopfer raubten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Weil sie den Wagen vor den Altären verbrannten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Weil sie den Kühen das Fleisch abzogen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -745,19 +937,27 @@
       "options": [
         {
           "text": "In das Zelt der Priester auf dem Berge Tabor",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "In das Haus Abinadabs auf dem Hügel",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "In die Wohnung des Propheten Samuel zu Rama",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "In die Festung des Helden Kaleb zu Hebron",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -775,19 +975,27 @@
       "options": [
         {
           "text": "Genau sieben Jahre lang am Orte",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Genau vierzig Jahre bis zur Thronbesteigung",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Genau zwanzig Jahre lang",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Genau zehn Jahre in der Hut Eleasars",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -805,19 +1013,27 @@
       "options": [
         {
           "text": "Das Ausrüsten von zehntausend Reiterkriegern",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Das Bringen von dreihundert Brandopfern",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Das Bauen einer Mauer um die Stätte Silo",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Das Wegtun der fremden Götter und der Aschtarot",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -835,19 +1051,27 @@
       "options": [
         {
           "text": "Zu Mizpa versammelte er das ganze Volk",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Zu Gilgal am Flussbett des Jordans",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Zu Bethel auf den heiligen Hügeln",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Zu Hebron vor den Grabstätten der Väter",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -865,19 +1089,27 @@
       "options": [
         {
           "text": "Mit einem gewaltigen Erdrutsch in den Bergen von Mizpa",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Mit einem großen Donner, der sie in Schrecken versetzte",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Mit feurigen Schlangen aus den Wüstentälern Judas",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Mit einer plötzlichen Dürre und Hitze am Flussbett",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -895,19 +1127,27 @@
       "options": [
         {
           "text": "Jerubbaal zur Erinnerung an Gideon",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Gilgal zur Wälzung der alten Schande",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Eben-Ezer (Stein der Hilfe)",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Ichabod zur Warnung vor dem Abfall",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -925,19 +1165,27 @@
       "options": [
         {
           "text": "Jericho, Ai, Hebron und Jerusalem im Süden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Silo, Kedes, Debir und Bethlehem-Juda",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Gath, Aschdod, Ekron und Gaza der Philister",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Bethel, Gilgal, Mizpa und in seiner Stadt Rama",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -955,19 +1203,27 @@
       "options": [
         {
           "text": "Weil Samuels Söhne den Gewinn suchten und das Recht beugten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Weil die Philister die Stiftshütte im Ort Silo niederbrannten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Weil die Stämme Judas und Benjamin gegeneinander stritten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Weil Gott Selbst den Priestern das Richteramt entzogen hatte",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -985,19 +1241,27 @@
       "options": [
         {
           "text": "Sie haben einzig den Propheten Samuel persönlich beleidigt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Sie haben nicht dich, sondern Mich als König verworfen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Sie erfüllten damit die alten Verheißungen an Abraham",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Sie folgten der Weisung des Hohenpriesters aus dem Zelt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1015,19 +1279,27 @@
       "options": [
         {
           "text": "Er wird alle Altäre auf den Bergen abbrechen lassen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Er wird das Gesetz Moses auf neue Steintafeln schreiben",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Er wird eure Söhne und Töchter zu seinen Diensten nehmen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Er wird die Bundeslade dauerhaft in sein Haus holen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1045,19 +1317,27 @@
       "options": [
         {
           "text": "Aus dem königlichen Stamm Juda aus den Bergstädten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Aus dem kriegerischen Stamm Ephraim im Binnenland",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Aus dem Priesterstamm Levi aus der Mitte Silos",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Aus dem kleinsten Stamm Benjamin stammend",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -1075,19 +1355,27 @@
       "options": [
         {
           "text": "Die entlaufenen Eselinnen des Vaters zu suchen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Die Beute aus den Philisterstädten einzufordern",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Das Brandopfer beim Heiligtum in Bethel darzubringen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Die Ältesten des Stammes nach Rama zu begleiten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1105,19 +1393,27 @@
       "options": [
         {
           "text": "Man nannte ihn den Priester des Allerhöchsten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Vorzeiten nannte man den Propheten einen Seher",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Man nannte ihn den Richter der Gottesgemeinde",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Man nannte ihn den Ältesten des Stiftszeltes",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1135,19 +1431,27 @@
       "options": [
         {
           "text": "Die Brust des Schafes aus den Opfergaben",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Das Lendenstück des Rindes vom Altartisch",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Die gebratene Schulter samt dem, was daranhing",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Die Leber des Ziegenbockes aus den Erstlingen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1165,19 +1469,27 @@
       "options": [
         {
           "text": "Mit einem goldenen Becher vollen Weines",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Mit dem Heiligen Salböl aus der Bundeslade",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Mit dem Blut eines Opfertieres, das er auf sein Haupt sprengte",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Mit einem Ölglas, dessen Inhalt er auf sein Haupt goss",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -1195,19 +1507,27 @@
       "options": [
         {
           "text": "Der Geist Gottes kam gewaltig über ihn",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Er verlor auf der Stelle seine Sehkraft",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Er fiel in einen tiefen Schlaf wie die Väter",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Er empfing das zweischneidige Schwert des Sieges",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1225,19 +1545,27 @@
       "options": [
         {
           "text": "Er stand an der Spitze der Ältesten des Stammes",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Er hatte sich unter dem Gepäck verborgen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Er weilte noch in seinem Vaterhaus zu Gibea",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Er betete vor der Bundeslade im Zelt Gottes",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1255,19 +1583,27 @@
       "options": [
         {
           "text": "Dass sie ihm jährlich die Hälfte der Herden zahlen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Dass sie alle ihre Waffen an die Philister abliefern",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Dass jedem Einwohner das rechte Auge ausgestochen werde",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Dass sie ihre Erstgeborenen als Sklaven wegführen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1285,19 +1621,27 @@
       "options": [
         {
           "text": "Er ließ die silbernen Trompeten im Lande blasen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Er entzündete gewaltige Fackelsignale auf den Bergen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Er sandte Boten mit dem Siegel des Priesters Ahija",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Er nahm ein Gespann Rinder und zerstückelte es",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -1315,19 +1659,27 @@
       "options": [
         {
           "text": "Zu Gilgal vor dem HERRN mit Friedensopfern",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Zu Mizpa vor den Toren der Stadt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Zu Bethel auf den heiligen Höhen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Zu Hebron nahe den Grabstätten der Väter",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1345,19 +1697,27 @@
       "options": [
         {
           "text": "Eine plötzliche Finsternis am hellen Mittag",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Gott sandte Donner und Regen am Erntetag",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Das Austrocknen aller Brunnen im Lande",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Einen starken Erdstoß im Gebirge Ephraim",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1375,19 +1735,27 @@
       "options": [
         {
           "text": "Er werde fortan als wachsamer Hohepriester im Heiligtum zu Silo dienen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Er werde den gesalbten König in allen künftigen Feldzügen treu beraten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Er werde sich nicht durch das Aufhören seiner Fürbitte an dem HERRN versündigen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Er werde das Buch des Gesetzes auf steinerne Tafeln für Israel schreiben",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1405,19 +1773,27 @@
       "options": [
         {
           "text": "Er erbeutete das Silber der Philister",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Er schloss einen Schutzbund mit den Heiden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Er verjagte die Priester aus dem Lager",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Er opferte das Brandopfer eigenmächtig selbst",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -1435,19 +1811,27 @@
       "options": [
         {
           "text": "Sein Königtum werde keinen Bestand haben",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Er werde sofort an Aussatz erkranken",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Das Volk werde ihn sogleich absetzen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Seine Söhne würden im Kampf durch das Schwert fallen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1465,19 +1849,27 @@
       "options": [
         {
           "text": "Es fehlte an Kohle und Holz in den Bergen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Die Philister duldeten keinen Schmied im Lande",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Der Priester verbot das Schmelzen von Eisen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Das Volk hatte alles Eisen dem Heiligtum gegeben",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1495,19 +1887,27 @@
       "options": [
         {
           "text": "Die siebzig auserlesenen Helden des Stammes",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Der Priester Ahia mit dem heiligen Ephod",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Nur sein junger Waffenträger ging mit ihm",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Die dreihundert Schleuderer aus Benjamin",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1525,19 +1925,27 @@
       "options": [
         {
           "text": "Wenn die Wache die Flucht vor ihnen ergreife",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Wenn ein starker Wind im Tale brause",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Wenn die Krieger ihre Waffen niederlegen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Wenn sie sagen: Kommt herauf zu uns!",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -1555,19 +1963,27 @@
       "options": [
         {
           "text": "Verflucht sei der Mann, der Brot isst bis zum Abend",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Verflucht sei, wer aus den Beuten der Feinde nimmt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Verflucht sei, wer seinen Speer im Kampfe verliert",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Verflucht sei, wer den Priester nicht um Rat fragt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1585,19 +2001,27 @@
       "options": [
         {
           "text": "Er trank kühles Quellwasser aus dem Felsen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Er tunkte seinen Stab in eine Honigwabe",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Er verzehrte das Brot aus den Vorräten der Feinde",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Er aß das Fleisch der erbeuteten Rinder",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1615,19 +2039,27 @@
       "options": [
         {
           "text": "Sie plünderten das Heiligtum zu Nob",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Sie fielen über die Wohnhäuser der Gibeoniter her",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Sie schlachteten Vieh und aßen es samt dem Blut",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Sie weigerten sich, dem König weiter zu dienen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1645,19 +2077,27 @@
       "options": [
         {
           "text": "Der Prophet Samuel durch ein Gottesurteil",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Der Priester Ahia durch das heilige Los",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Der Waffenträger Jonathans durch sein Opfer",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Das Volk trat ein und erlöste Jonathan",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -1675,19 +2115,27 @@
       "options": [
         {
           "text": "Vollstrecke den Bann und töte Mann und Frau",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Nimm nur Tribut von ihren reichen Städten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Schone die Frauen und nimm Krieger gefangen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Führe ihre Herden als Opfergut nach Gilgal",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1705,19 +2153,27 @@
       "options": [
         {
           "text": "König Nahas von den Söhnen Ammons",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Agag, den König der Amalekiter",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "König Jabin aus den Festungen des Nordens",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "König Adoni-Sedek aus der Bergstadt Jerusalem",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1735,19 +2191,27 @@
       "options": [
         {
           "text": "Einen hohen Altar aus unbehauenen Steinen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Eine feste Burg zum Schutz gegen die Philister",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Ein Siegeszeichen zu seinen eigenen Ehren",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Ein Haus für das heilige Opfergut",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1765,19 +2229,27 @@
       "options": [
         {
           "text": "Das Volk habe die Beute ohne sein Wissen geraubt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Die Tiere seien für den Dienst am Zelt bestimmt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Die Hirten hätten die Tiere aus Irrtum getrieben",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Das Volk verschonte sie, um sie Gott zu opfern",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -1795,19 +2267,27 @@
       "options": [
         {
           "text": "Gehorsam ist besser als Opfer, Aufmerken besser als das Fett von Widdern",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Das Gold des Heiligtums wiegt schwerer als das Gesetz, darum bringt Opfer in Fülle",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Wer den König ehrt, der ehrt auch den Allerhöchsten, darum gehorcht dem Gesalbten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Das Brandopfer sühnt alle Sünden des Heeres, darum gebt dem Altar das Beste",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1825,19 +2305,27 @@
       "options": [
         {
           "text": "Mit dem Raub der Gaben von den Tischen des Heiligtums",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Mit der Sünde der Zauberei und dem Götzendienst",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Mit der Mordtat an den eigenen Brüdern",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Mit dem Abfall der Väter in der Wüste Sin",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1855,19 +2343,27 @@
       "options": [
         {
           "text": "Der Zipfel verwandelte sich in staubige Asche",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Das Gewand erglänzte in hellem feurigen Licht",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Der Zipfel des Mantels riss ab",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Der Mantel verfiel dem Banne des Heiligtums",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1885,19 +2381,27 @@
       "options": [
         {
           "text": "Der Heilige Israels, der in den höchsten Himmeln wohnt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Der Fels der Rettung, der vor allen Feinden schützt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Der König der Könige, der auf dem ewigen Thron sitzt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Der Held in Israel lügt nicht und es gereut ihn nicht",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -1915,19 +2419,27 @@
       "options": [
         {
           "text": "Der Prophet Samuel hieb Agag vor dem HERRN in Stücke",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Der Königssohn Jonathan mit seinem eigenen Schwert",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Der Waffenträger Sauls auf Befehl des Königs in Gilgal",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Die Ältesten des Stammes Juda mit dem Schwert in Gilgal",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1945,19 +2457,27 @@
       "options": [
         {
           "text": "Sie schlossen ein neues Bündnis im Zelt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Samuel sah Saul fortan nicht mehr bis zu seinem Tod",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Sie trafen sich jährlich zum Opferfest in Bethel",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Samuel wurde der oberste Ratgeber am Hofe Sauls",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1975,19 +2495,27 @@
       "options": [
         {
           "text": "In der Priesterstadt Nob nahe den Hügeln",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "In der Festung Hebron auf dem Gebirge",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "In der Stadt Bethlehem im Lande Juda",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "In der Stadt Gibea im Stamme Benjamin",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2005,19 +2533,27 @@
       "options": [
         {
           "text": "Der Mensch blickt auf die Vorfahren, der HERR prüft die Taten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Der Mensch wählt den Ältesten, Gott den jüngsten Sohn",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Der Mensch schätzt die Kriegskraft, Gott den Glauben",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Der Mensch sieht auf das Äußere, Gott sieht das Herz an",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -2035,19 +2571,27 @@
       "options": [
         {
           "text": "Er hütete die Schafe auf den Feldern Bethlehems",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Er verrichtete den Dienst am Altar des Vaters",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Er bestellte die Weinberge der Familie am Berg",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Er fertigte Waffen für die Krieger des Stammes",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2065,19 +2609,27 @@
       "options": [
         {
           "text": "Er las dem König täglich aus den Gesetzesschriften vor",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Er spielte auf der Harfe, wenn der böse Geist kam",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Er brachte dem König die Speisen aus der Hofküche",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Er bewachte die Tore der königlichen Festung Gibea",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2095,19 +2647,27 @@
       "options": [
         {
           "text": "Genau vier Ellen und eine Handbreit betrug seine Höhe",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Genau fünf Ellen und zwei Handbreit betrug seine Höhe",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Genau sechs Ellen und eine Handbreit betrug seine Höhe",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Genau sieben Ellen und eine Handbreit betrug seine Höhe",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2121,23 +2681,31 @@
     {
       "questionId": "1sam_071",
       "type": "single_choice",
-      "text": "Welchen ursprünglichen Auftrag erfüllte David, als er das Feldlager im Eichengrund erreichte?",
+      "text": "Welchen ursprünglichen Auftrag erfüllte David, als er das Heer im Eichgrund erreichte?",
       "options": [
         {
           "text": "Er sollte als Waffenträger im Heere Sauls dienen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Er sollte das königliche Zelt Sauls bewachen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Er wollte die Philister mit der Schleuder fordern",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Er brachte Brot und Käse zu seinen Brüdern im Feld",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -2155,19 +2723,27 @@
       "options": [
         {
           "text": "Mit Hirtenstab, Schleuder und fünf glatten Steinen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Mit dem Schwert und dem Panzerhemd, die Saul ihm gegeben hatte",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Mit einer hölzernen Lanze und einem Schild aus Leder",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Mit zwei scharfen Wurfspeeren aus Sauls Zelt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2185,19 +2761,27 @@
       "options": [
         {
           "text": "Mit seinem eigenen Hirtenmesser am Gürtel",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Mit dem mächtigen Schwert des Riesen Goliath",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Mit dem Wurfspeer, den Saul ihm geliehen hatte",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Mit einem schweren Felsbrocken aus dem Bachtal",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2211,23 +2795,31 @@
     {
       "questionId": "1sam_074",
       "type": "single_choice",
-      "text": "Welches tiefe Bündnis schloss der Königssohn Jonathan mit David nach dem Sieg im Eichengrund?",
+      "text": "Welches tiefe Bündnis schloss der Königssohn Jonathan mit David nach dem Sieg im Eichgrund?",
       "options": [
         {
           "text": "Sie teilten die Beute der Philister zu gleichen Teilen und schworen sich Treue darauf",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Sie schworen sich Beistand vor der Lade zu Silo und verpflichteten sich zum Gehorsam",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Jonathan liebte David wie sein eigenes Herz und schenkte ihm Mantel und Waffen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Sie gelobten die gemeinsame Herrschaft über das Reich und teilten das Land auf",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2245,19 +2837,27 @@
       "options": [
         {
           "text": "David ist der König über alle Stämme Israels",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Der HERR hat den Hirten über den König erhöht",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Die Philister fallen vor dem Helden aus Bethlehem",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Saul hat Tausend geschlagen, David aber Zehntausend",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -2275,19 +2875,27 @@
       "options": [
         {
           "text": "Hundert Vorhäute der Philister als Rache an den Feinden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Hundert Silberlinge aus den Schätzen der Städte",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Fünfzig eiserne Streitwagen aus den Küstenstädten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Die Einnahme der unbesiegbaren Festung Jebus",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2305,19 +2913,27 @@
       "options": [
         {
           "text": "Sie verkleidete ihn als heidnischen Priester und führte ihn durchs Stadttor",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Sie ließ ihn durchs Fenster hinab und legte ein Götzenbild in sein Bett",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Sie bestach die Wachen am Stadttor mit Silberlingen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Sie verbarg ihn im kühlen Weinkeller ihres Hauses",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2335,19 +2951,27 @@
       "options": [
         {
           "text": "Sie wurden von den Einwohnern mit Steinen vertrieben",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Sie verirrten sich in den dichten Wäldern des Gebirges",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
-          "text": "Der Geist Gottes kam auf sie und sie gerieten in Verzückung",
-          "explanation": ""
+          "text": "Der Geist Gottes kam auf sie, und sie weissagten auch",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Sie fielen vor Furcht auf ihr Angesicht zur Erde",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2365,19 +2989,27 @@
       "options": [
         {
           "text": "Er entzündete drei feurige Fackeln auf den Höhen des Felsens",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Er blies das Widderhorn beim feierlichen Beginn des Neumondes",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Er breitete ein purpurnes Tuch am Brunnen des königlichen Hofes",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Er schoss drei Pfeile und rief dem Knaben zu: Weiter draußen!",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -2395,19 +3027,27 @@
       "options": [
         {
           "text": "Die heiligen Schaubrote vor dem Angesicht Gottes",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Das Fleisch der Opfertiere von dem Brandaltar",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Ungesäuerte Kuchen aus den Vorratsspeichern",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Frische Datteln und Rosinen aus den Vorräten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2425,19 +3065,27 @@
       "options": [
         {
           "text": "Urija der Hethiter, ein Hauptmann im Heer",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Doeg der Edomiter, der oberste Hirt des Königs Saul",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Ittai der Gathiter, ein Söldner aus der Philisterstadt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Arauna der Jebusiter, ein Bauer aus Jerusalem",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2455,19 +3103,27 @@
       "options": [
         {
           "text": "Er verkleidete sich als blinder Bettler am Tor",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Er gab sich als vertriebener Priester Silos aus",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Er verstellte seinen Verstand und gebärdete sich toll",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Er behauptete, ein Bote des Pharaos zu sein",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2485,19 +3141,27 @@
       "options": [
         {
           "text": "Auserlesene Priester und Leviten aus Silo",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Reich gewordene Viehzüchter aus dem Südland",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Fremde Söldner aus den Städten der Philister",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Alle Bedrängten, Verschuldeten und Betrübten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -2515,19 +3179,27 @@
       "options": [
         {
           "text": "Doeg der Edomiter schlug die Priester nieder",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Die benjaminitischen Leibwächter des Königs",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Die Philisterkrieger aus der Festung Gath",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Der Hauptmann Abner mit seinen Männern",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2545,19 +3217,27 @@
       "options": [
         {
           "text": "Sacharja der jüngste Priester des Hauses",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Abjathar, der Sohn Ahimelechs",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Pinchas der Nachkommen des Hauses Eli",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Eleasar der Hüter der Lade in Kirjath",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2575,19 +3255,27 @@
       "options": [
         {
           "text": "Die Festung Sichem im Gebirge Ephraim",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Die Stadt Bethel nahe den Südgrenzen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Die Stadt Keila in der Niederung Judas",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Die Priesterstadt Hebron auf den Bergen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2605,19 +3293,27 @@
       "options": [
         {
           "text": "David nahm Sauls Speer und Wasserkrug vom Kopfende",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "David nahm Sauls Siegelring vom Finger",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "David fesselte den schlafenden Saul mit Stricken",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "David schnitt heimlich einen Zipfel von Sauls Rock ab",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -2635,19 +3331,27 @@
       "options": [
         {
           "text": "Er war hart und boshaft in seinen Händeln",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Er war ein gütiger, gottesfürchtiger Mann",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Er war ein armer Knecht aus dem Stamme Dan",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Er war ein Priester an den Höhen Beth-Els",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2665,19 +3369,27 @@
       "options": [
         {
           "text": "Sie zahlte tausend Silberlinge an Davids Krieger",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Sie brachte Brote, Wein, Schafe, Korn und Rosinen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Sie rief die Ältesten der Stadt Maon zu Hilfe",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Sie übergab Nabal gebunden in Davids Hände",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2695,19 +3407,27 @@
       "options": [
         {
           "text": "Er verfluchte seine Frau und verjagte sie",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Er zog sogleich in den Krieg gegen David",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Sein Herz erstarb in ihm, und er wurde wie Stein",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Er schenkte David die Hälfte seiner Herden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2725,19 +3445,27 @@
       "options": [
         {
           "text": "Den königlichen Mantel und den Ring Sauls",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Das Schwert des Königs und seinen Helm",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Das goldene Zeltband und den Schild",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Den Speer und den Wasserkrug zu Sauls Haupt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -2755,19 +3483,27 @@
       "options": [
         {
           "text": "Die Stadt Ziklag",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Die Stadt Aschkelon",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Die Stadt Ekron",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Die Stadt Gaza",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2785,19 +3521,27 @@
       "options": [
         {
           "text": "Er suchte den Hohepriester in der Stadt Nob auf",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Er suchte ein Weib zu Endor mit Wahrsagergeist",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Er brachte Brandopfer vor dem Altar in Gilgal dar",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Er befragte die Götzenpriester der Philister in Gat",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2815,19 +3559,27 @@
       "options": [
         {
           "text": "Das Zelt Gottes werde nach Jerusalem verlegt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Du wirst noch zwanzig Jahre über Israel regieren",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Der HERR gibt Israel in die Hand der Philister",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "David wird im Kampfe gegen die Philister fallen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2845,19 +3597,27 @@
       "options": [
         {
           "text": "Weil David schwer erkrankt im Lager lag",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Weil König Achisch ihn nach Ziklag zurückrief",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Weil der Prophet Gad ihm das Mitziehen verbot",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Die Fürsten der Philister fürchteten seinen Abfall",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -2875,19 +3635,27 @@
       "options": [
         {
           "text": "Die Amalekiter hatten Ziklag verbrannt und Frauen geraubt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Sauls Krieger hatten Ziklag eingenommen und die Männer erschlagen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Die Philister hatten Ziklag geplündert und alle Bewohner getötet",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Ein Erdbeben hatte die Stadt zerstört, und viele waren umgekommen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2905,19 +3673,27 @@
       "options": [
         {
           "text": "Ein gefangener Fürst aus den Städten Philistiens",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Ein ägyptischer Knabe, der drei Tage krank gewesen war",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Ein Bote aus dem Stamme Juda im Südland",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Ein Kundschafter aus den Wüstendörfern",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2935,19 +3711,27 @@
       "options": [
         {
           "text": "Die Kämpfenden erhalten die gesamte Beute, und die Zurückgebliebenen gehen leer aus",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Der Zehnte aller Beuten gehört den Priestern, und den Rest teilt das Los",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Wer beim Gerät blieb, erhielt denselben Anteil wie die Kämpfer",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "David behält alle Vorräte für ein künftiges Heiligtum, und das Volk erhält nur das Vieh",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2965,19 +3749,27 @@
       "options": [
         {
           "text": "Er wurde von den Pferden der Philister zertreten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Er wurde als Gefangener nach Gasa weggeführt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Er floh unerkannt in die Wüstenlandschaften",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Er stürzte sich in sein eigenes Schwert",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -2995,19 +3787,27 @@
       "options": [
         {
           "text": "Sie holten die Leichen Sauls und seiner Söhne",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Sie steinigten die Philisterfürsten in Beth-Schean",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Sie erbeuteten die Waffen Sauls aus dem Götzenhaus",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Sie klagten vierzig Tage lang im Heiligtum",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3025,19 +3825,27 @@
       "options": [
         {
           "text": "Der HERR werde sein Volk um seines großen Namens willen nicht verstoßen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Der HERR werde Saul wieder absetzen, wenn das Volk nicht dreißig Tage faste",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Das Volk müsse den Priestern in Silo einen Teil der Ammoniterbeute als Buße zahlen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Samuel werde künftig nicht mehr für das Volk beten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3055,19 +3863,27 @@
       "options": [
         {
           "text": "Dass David ihm half, Saul vom Thron zu stürzen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Dass David ihm nach der Thronbesteigung ein hohes Amt übertrage",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Dass David seine Barmherzigkeit nie von Jonathans Haus abwende",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Dass sie niemals gegeneinander die Waffen erheben würden",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3085,19 +3901,27 @@
       "options": [
         {
           "text": "Ein plötzlicher Wolkenbruch überschwemmte das Tal und trennte die Heere",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Ein Bote meldete Saul einen Einfall der Philister, sodass er abließ",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Jonathan stellte sich mit seiner Leibwache zwischen die Heere",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Ein Felssturz versperrte Saul den Zugang zu Davids Höhle",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3115,19 +3939,27 @@
       "options": [
         {
           "text": "Er ließ seine Krieger sofort zum Angriff auf David und seine Männer antreten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Er forderte David zum Zweikampf heraus, um den wahren König zu ermitteln",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Er bot David die Hälfte seines Reiches an, wenn er künftig Frieden halte",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Er weinte, nannte David gerechter als sich selbst und erkannte sein künftiges Königtum",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -3145,19 +3977,27 @@
       "options": [
         {
           "text": "Dass er heimlich mit den Philistern verhandelt habe",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Dass er seinen Herrn, den König, nicht behütet habe",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Dass er das Heer ohne Waffen ins Lager geführt habe",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Dass er Saul im Krieg gegen Amalek nicht beigestanden habe",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3175,19 +4015,27 @@
       "options": [
         {
           "text": "Ins Gebirge Seir zu den Edomitern, den Verwandten Esaus",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Nach Ägypten an den Hof des Pharao, wo er Schutz suchte",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Zu Achis, dem König zu Gath, im Land der Philister",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Nach Damaskus in Syrien zum Hof des Königs von Aram",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3205,19 +4053,27 @@
       "options": [
         {
           "text": "Er halte ihn für einen hinterlistigen Spion, dem kein Fürst trauen dürfe",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Er lobte seine Weisheit, verbot ihm aber alle Opfer",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Er halte ihn für redlich und sein Wesen sei ihm angenehm wie ein Engel Gottes",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Er ernannte ihn zum Statthalter über alle fünf Philisterstädte",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3235,19 +4091,27 @@
       "options": [
         {
           "text": "Der junge Samuel",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Der König Saul",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Der Hirte David",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Der Priester Eli",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3265,19 +4129,27 @@
       "options": [
         {
           "text": "Der Krieger Abisai",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Der junge König Saul",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Der Königssohn Jonathan",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Der Hirtenknabe David",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -3295,19 +4167,27 @@
       "options": [
         {
           "text": "Fünf glatte Steine aus dem Bach",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Das schwere Schwert des Königs Saul",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Die Schleuder in seiner Hand",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Den ehernen Schuppenpanzer Sauls",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3326,23 +4206,33 @@
       "options": [
         {
           "text": "David wird in Hebron zum König gesalbt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "David besiegt Goliath im Eichgrunde",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Saul fällt im Kampf gegen Philister",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Samuel salbt David zum künftigen König",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         },
         {
           "text": "David flieht vor Nachstellungen Sauls",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_5",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [

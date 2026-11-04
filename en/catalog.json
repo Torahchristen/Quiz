@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-11-04T20:08:09Z",
+  "lastUpdated": "2026-11-04T20:31:54Z",
   "language": "en",
   "categories": [
     {
@@ -61,7 +61,7 @@
         "Bible Quiz",
         "KJV"
       ],
-      "sizeBytes": 263663,
+      "sizeBytes": 328832,
       "downloadUrl": "./en/01_1_mose.json"
     },
     {
@@ -80,7 +80,7 @@
         "law",
         "KJV"
       ],
-      "sizeBytes": 253036,
+      "sizeBytes": 317140,
       "downloadUrl": "./en/02_2_mose.json"
     },
     {
@@ -99,7 +99,7 @@
         "law",
         "KJV"
       ],
-      "sizeBytes": 149714,
+      "sizeBytes": 189573,
       "downloadUrl": "./en/03_3_mose.json"
     },
     {
@@ -118,7 +118,7 @@
         "law",
         "KJV"
       ],
-      "sizeBytes": 217731,
+      "sizeBytes": 273112,
       "downloadUrl": "./en/04_4_mose.json"
     },
     {
@@ -137,7 +137,7 @@
         "law",
         "KJV"
       ],
-      "sizeBytes": 219156,
+      "sizeBytes": 219642,
       "downloadUrl": "./en/05_5_mose.json"
     },
     {
@@ -156,7 +156,7 @@
         "history",
         "KJV"
       ],
-      "sizeBytes": 127374,
+      "sizeBytes": 159346,
       "downloadUrl": "./en/06_josua.json"
     },
     {
@@ -175,7 +175,7 @@
         "history",
         "KJV"
       ],
-      "sizeBytes": 120116,
+      "sizeBytes": 150899,
       "downloadUrl": "./en/07_richter.json"
     },
     {
@@ -194,7 +194,7 @@
         "history",
         "KJV"
       ],
-      "sizeBytes": 25990,
+      "sizeBytes": 27025,
       "downloadUrl": "./en/08_rut.json"
     },
     {
@@ -213,7 +213,7 @@
         "history",
         "KJV"
       ],
-      "sizeBytes": 97199,
+      "sizeBytes": 121545,
       "downloadUrl": "./en/09_1_samuel.json"
     }
   ]

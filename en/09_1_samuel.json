@@ -27,19 +27,27 @@
       "options": [
         {
           "text": "In the priestly city of Hebron in Judah",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "In Ramathaim-zophim of Mount Ephraim",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "In the mountain citadel of ancient Shechem",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "In Beth-lehem-judah within the tribe of Judah",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -57,19 +65,27 @@
       "options": [
         {
           "text": "She vowed to donate an hundred pieces of silver",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "She vowed to minister as an handmaid in Shiloh",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "To give him unto the LORD all the days of life",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "She vowed a great sacrifice of ten fat bullocks",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -87,19 +103,27 @@
       "options": [
         {
           "text": "He suspected her of stealing from the holy gifts",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "He supposed she was worshipping foreign idols",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "He thought she was cursing his two priestly sons",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Therefore Eli thought she had been drunken",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -117,19 +141,27 @@
       "options": [
         {
           "text": "Asked of God (for I have asked him of the LORD)",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "The exalted prince of the LORD above the nations",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "The valiant helper and horn in the day of trouble",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "The shining light of the Most High at the altar",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -147,19 +179,27 @@
       "options": [
         {
           "text": "A white linen mitre consecrated by the priests",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "A little coat which she made and brought to him",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "A golden girdle embroidered with blue and purple",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "A pair of soft leather shoes for the holy courts",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -177,19 +217,27 @@
       "options": [
         {
           "text": "They offered strange incense upon the golden hearth",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "They stole the consecrated gold vessels of the table",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "They demanded raw flesh before the fat was burned",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "They refused to admit the poor into the tabernacle",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -207,19 +255,27 @@
       "options": [
         {
           "text": "They shall be carried away into perpetual exile",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Their cities shall be destroyed by fire from heaven",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "They shall be smitten with an incurable white plague",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "All the increase of his house shall die in their youth",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -237,19 +293,27 @@
       "options": [
         {
           "text": "Exactly three times did the LORD call the child",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Seven times did the voice call him from the ark",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Twice did the voice call him in the dark night",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Four times before the high priest understood",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -267,19 +331,27 @@
       "options": [
         {
           "text": "Hear, O Lord, and deliver the house of thy servant",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Speak, LORD; for thy servant heareth",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Arise, O God, and judge the sins of the congregation",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Command thy servant, for I am ready to obey thee",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -297,19 +369,27 @@
       "options": [
         {
           "text": "From Hebron in the south even unto Dan",
-          "explanation": ""
-        },
-        {
-          "text": "From Dan even to Beer-sheba in the land",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "From Bethel unto the coast of the great sea",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "From Dan even to Beer-sheba in the land",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "From Shiloh unto the utmost border of Moab",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -327,19 +407,27 @@
       "options": [
         {
           "text": "The ark of the covenant of the LORD out of Shiloh",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "The brazen altar of burnt offering from the court",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "The sacred urim and thummim borne by the Levites",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "The ark of the covenant of the LORD out of Shiloh",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -357,19 +445,27 @@
       "options": [
         {
           "text": "They were afraid, and said: God is come into the camp; woe unto us!",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "They immediately dispatched ambassadors to sue for peace",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "They offered thirty talents of silver unto the high priest",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "They retreated into their five coastal strongholds in haste",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -387,19 +483,27 @@
       "options": [
         {
           "text": "Twelve thousand warriors of the eastern tribes",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "There fell of Israel thirty thousand footmen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Ten thousand seasoned spearmen of the tribe Judah",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Forty thousand archers overthrown in the field",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -417,19 +521,27 @@
       "options": [
         {
           "text": "The city of Shiloh was burned and the priests captured",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "The holy vessels were broken and the altar overthrown",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "The ark of God was taken, and Hophni and Phinehas died",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "The tabernacle was spoiled and thirty priests slain",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -447,19 +559,27 @@
       "options": [
         {
           "text": "Seventy years old after judging the house of Israel",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "A hundred and twenty years old, matching Moses' age",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Eighty-four years of age when he served at Shiloh",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Now Eli was ninety and eight years old (98)",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -477,19 +597,27 @@
       "options": [
         {
           "text": "Ichabod (saying: The glory is departed from Israel)",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Benoni (saying: The son of my sorrow and weeping)",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Ebenezer (saying: Hitherto hath the LORD helped us)",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Ahimelech (saying: My brother is king over the house)",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -507,19 +635,27 @@
       "options": [
         {
           "text": "Into the high palace of King Achish the ruler",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Into the house of their idol god Dagon",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Into the temple of Baal-zebub the lord of Ekron",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Into the fortress storehouse of the coastal lords",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -537,19 +673,27 @@
       "options": [
         {
           "text": "Dagon was shattered into fine dust by lightning",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "The idol was consumed by a sudden celestial fire",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Behold, Dagon was fallen upon his face to the ground",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "The statue was turned into a coarse block of stone",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -567,19 +711,27 @@
       "options": [
         {
           "text": "A grievous famine throughout all their country",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "A sudden pestilence destroying all their kine",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Darkness and blindness upon all their warriors",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "He smote them with emerods in their secret parts",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -597,19 +749,27 @@
       "options": [
         {
           "text": "The ark of the LORD was in the country seven months",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Exactly twelve months matching the course of a year",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Three full years until the great famine had ceased",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Forty days corresponding to the challenge of Goliath",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -627,19 +787,27 @@
       "options": [
         {
           "text": "Five golden swords and ten flagons of pure silver",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Five golden emerods, and five golden mice of gold",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Twelve golden calves according to tribes of Israel",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Ten golden crowns from the lords of the Philistines",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -657,19 +825,27 @@
       "options": [
         {
           "text": "Four strong horses taken from the royal chariots",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Two young bulls that had been trained to the yoke",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Two milch kine, on which there hath come no yoke",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Six asses chosen from the herds of the five lords",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -687,19 +863,27 @@
       "options": [
         {
           "text": "Unto the mountain refuge city of Hebron in Judah",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Unto the court of the tabernacle rebuilt at Shiloh",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Unto the house of Abinadab in the hill of Kirjath",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "The kine took the straight way to Beth-shemesh",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -717,19 +901,27 @@
       "options": [
         {
           "text": "Because they had looked into the ark of the LORD",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Because they touched the golden mice with unwashed hands",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Because they delayed to send tidings unto Samuel at Ramah",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Because they offered strange fire upon the great stone",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -747,19 +939,27 @@
       "options": [
         {
           "text": "Into the house of Jesse the father of King David",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Into the house of Abinadab in the hill",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Into the palace of the chief ruler of the Gibeonites",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Into the dwelling of Eleazar the priest at Anathoth",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -777,19 +977,27 @@
       "options": [
         {
           "text": "Seven years until Saul was anointed king over Israel",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Forty years during the judgeship of holy Samuel",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "And it was so, that the ark abode there twenty years",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Twelve years until David brought it up into Zion",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -807,19 +1015,27 @@
       "options": [
         {
           "text": "To pay a double tribute of lambs unto the altar",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "To observe a solemn fast of thirty days in silence",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "To build twelve new altars of stone throughout Judah",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Put away the strange gods and Ashtaroth from among you",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -837,19 +1053,27 @@
       "options": [
         {
           "text": "Samuel gathered all Israel to Mizpeh to pray",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "At the ancient altar of sacrifice in Bethel",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "At the historic camp of the twelve stones in Gilgal",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Within the mountain valley of Shechem between mounts",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -867,19 +1091,27 @@
       "options": [
         {
           "text": "By a sudden burning fire which fell upon their tents",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "The LORD thundered with a great thunder upon them",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "By a violent earthquake which swallowed their vanguard",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "By sending a swarm of hornets which blinded their host",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -897,19 +1129,27 @@
       "options": [
         {
           "text": "He called the name of it Jehovah-shalom (our peace)",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "He called the name of it Galeed (the heap of witness)",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "He called the name of it Ebenezer (the stone of help)",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "He called the name of it Bethel (the house of God)",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -927,19 +1167,27 @@
       "options": [
         {
           "text": "Hebron, Bethlehem, Jerusalem, and Jericho in Judah",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Shechem, Samaria, Tirzah, and Dothan in Ephraim",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Gaza, Ashdod, Ashkelon, and Ekron in Philistia",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "In circuit to Bethel, and Gilgal, and Mizpeh, and Ramah",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -957,19 +1205,27 @@
       "options": [
         {
           "text": "Because his sons turned aside after lucre and bribes",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Because the Philistines had invaded the southern borders",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Because Samuel was too feeble to offer the sacrifices",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Because the tribe of Judah claimed the royal sceptre",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -987,19 +1243,27 @@
       "options": [
         {
           "text": "They have honored my commandments above the traditions",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "They have not rejected thee, but they have rejected me",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "They shall find peace and prosperity under their ruler",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Their request is pleasing unto all the hosts of heaven",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1017,19 +1281,27 @@
       "options": [
         {
           "text": "He will surrender all their iron weapons to Philistia",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "He will abolish the yearly feast of the passover",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "He will take your sons and your daughters for his work",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "He will compel the priests to become horsemen in battle",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1047,19 +1319,27 @@
       "options": [
         {
           "text": "From the royal tribe of Judah holding the sceptre",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "From the mountainous tribe of Ephraim in the north",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "From the priestly tribe of Levi ministering at altar",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "From the smallest tribe of Benjamin, of family Matri",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -1077,19 +1357,27 @@
       "options": [
         {
           "text": "Take now one of the servants, and arise, seek the asses",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "To purchase iron ploughshares in the city of Ramah",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "To carry thirty pieces of silver unto the sanctuary",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "To inspect the vineyards of Carmel during the harvest",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1106,20 +1394,28 @@
       "text": "What title was given to a prophet in Israel in ancient times, as explained in 1 Samuel 9?",
       "options": [
         {
-          "text": "Beforetime in Israel, a Prophet was called a Seer",
-          "explanation": ""
+          "text": "He was called a Ruler over the thousands of Israel",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
-          "text": "He was called a Ruler over the thousands of Israel",
-          "explanation": ""
+          "text": "Beforetime in Israel, a Prophet was called a Seer",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "He was styled an Ambassador of the holy tabernacle",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "He was known as a Watchman upon the mountain heights",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1137,19 +1433,27 @@
       "options": [
         {
           "text": "The breast of the wave offering consecrated by priests",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "The right haunch of the prime bullock of the sacrifice",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "The shoulder, and that which was upon it, set for Saul",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "The head and horns of the choice ram offered on altar",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1167,19 +1471,27 @@
       "options": [
         {
           "text": "He placed a golden crown of victory upon his brow",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "He delivered unto him the ancient battle sword of Joshua",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "He fastened a jewelled breastplate upon his garments",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Samuel took a vial of oil, and poured it upon his head",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -1197,19 +1509,27 @@
       "options": [
         {
           "text": "The Spirit of God came upon him, and he prophesied",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "He was struck with sudden blindness until the morning",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "The prophets delivered unto him the sacred silver trumpet",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "A voice spoke from heaven confirming his royal title",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1227,19 +1547,27 @@
       "options": [
         {
           "text": "Behind the holy curtains of the tabernacle at Shiloh",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Behold, he hath hid himself among the stuff (baggage)",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Inside a deep rock cave on the borders of Benjamin",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Upon the high battlements of the city wall of Mizpeh",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1257,19 +1585,27 @@
       "options": [
         {
           "text": "That they surrender all their flocks of sheep to Ammon",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "That they pay a yearly tribute of thirty gold talents",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "That I may thrust out all your right eyes for reproach",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "That they dismantle their stone battlements and gates",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1287,19 +1623,27 @@
       "options": [
         {
           "text": "He blew seven silver trumpets from the top of Mount Ephraim",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "He kindled great fire beacons upon the summits of the hills",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "He sent messengers bearing the signet ring of the priest",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "He took a yoke of oxen, and hewed them in pieces throughout",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -1317,19 +1661,27 @@
       "options": [
         {
           "text": "To Gilgal before the LORD with sacrifices of peace",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "In the holy sanctuary at Shiloh before the ark",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Upon the summit of Mount Gerizim in Ephraim",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "In the royal city of Hebron within the tribe Judah",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1347,19 +1699,27 @@
       "options": [
         {
           "text": "A sudden darkness that obscured the sun at high noon",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "The LORD sent thunder and rain in the wheat harvest",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "A fiery pillar that consumed the sacrifices on altar",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "A great whirlwind that broke the oaks in the forest",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1377,19 +1737,27 @@
       "options": [
         {
           "text": "He would retire to Mount Carmel and pray in solitude",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "He would appoint forty priests to offer daily prayers",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "God forbid that I should sin in ceasing to pray for you",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "He would never again mention their names before the ark",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1407,19 +1775,27 @@
       "options": [
         {
           "text": "He made a secret treaty of alliance with Philistines",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "He carried off the consecrated gold vessels of altar",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "He ordered the holy ark of God to be brought from Nob",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "He offered the burnt offering presumptuously himself",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -1437,19 +1813,27 @@
       "options": [
         {
           "text": "Thy kingdom shall not continue; LORD sought a man",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "The Philistines shall burn thy palace in Gibeah",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Thy sons shall be carried captive beyond the river",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Thou shalt be smitten with incurable leprosy of brow",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1467,19 +1851,27 @@
       "options": [
         {
           "text": "Because all the craftsmen had perished in the famine",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Philistines said: Lest Hebrews make swords or spears",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Because the law of Moses strictly forbade iron tools",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Because all iron mines had been exhausted in the hills",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1497,19 +1889,27 @@
       "options": [
         {
           "text": "Ahiah the priest who bare the ephod in the camp",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "David the son of Jesse who played upon the harp",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Only his young armourbearer went with him to fight",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Abner the chief captain of the armies of Israel",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1527,19 +1927,27 @@
       "options": [
         {
           "text": "If they cast three javelins down into the ravine",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "If they sound the silver trumpet of warning in camp",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "If they flee away into the hidden caves of the hill",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "If they say thus: Come up unto us; for LORD delivered",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -1557,19 +1965,27 @@
       "options": [
         {
           "text": "Cursed be the man that eateth any food until evening",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Whosoever taketh any spoil of silver shall be slain",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "No man shall lay down his iron sword until midnight",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Cursed be the soldier who spareth an enemy captive",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1587,19 +2003,27 @@
       "options": [
         {
           "text": "He drank of a cold mountain spring bubbling from rock",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "He dipped the end of his rod in an honeycomb and ate",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "He ate of the barley loaves found in enemy's tents",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "He tasted of the parched corn carried in his scrip",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1617,19 +2041,27 @@
       "options": [
         {
           "text": "They plundered the holy sanctuary of the priests Nob",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "They assaulted the peaceful homes of the Gibeonites",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "They slew cattle on ground, and did eat with blood",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "They refused to obey the commandments of anointed king",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1647,19 +2079,27 @@
       "options": [
         {
           "text": "Samuel the prophet by pronouncing a divine decree",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Ahiah the priest by inquiring through the holy lot",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "The young armourbearer by offering his own life",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "The people rescued Jonathan, that he died not",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -1677,19 +2117,27 @@
       "options": [
         {
           "text": "Smite Amalek, and utterly destroy all that they have",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Exact only a yearly tribute of silver from cities",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Spare the women and take warriors captive in war",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Drive their herds as a consecrated offering Gilgal",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1707,19 +2155,27 @@
       "options": [
         {
           "text": "Nahash the king of the children of Ammon in east",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Agag the king of the Amalekites",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Jabin the ruler of the northern stronghold Hazor",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Adoni-zedek the ancient mountain king Jerusalem",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1737,19 +2193,27 @@
       "options": [
         {
           "text": "A high stone altar for daily morning burnt offerings",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "A strong fortress to guard the southern desert borders",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Behold, he set him up a place (monument of victory)",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "A storehouse for the consecrated spoil of cattle",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1767,19 +2231,27 @@
       "options": [
         {
           "text": "The warriors took the spoil secretly without knowledge",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "The animals were intended for the support of Levites",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "The herdsmen preserved the cattle out of pity young",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "The people spared the best of animals to sacrifice",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -1797,19 +2269,27 @@
       "options": [
         {
           "text": "Behold, to obey is better than sacrifice, and to hearken than fat",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "The abundance of burnt offerings covereth the transgression of sin",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Whosoever buildeth an altar of stone shall receive forgiveness",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "A king hath authority to order the sacrifices of the congregation",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1826,20 +2306,28 @@
       "text": "Unto what grave sins did Samuel compare rebellion and stubbornness against the word of the LORD?",
       "options": [
         {
-          "text": "Rebellion is as witchcraft, and stubbornness is as idolatry",
-          "explanation": ""
+          "text": "Rebellion is like the sin of the golden calf in the wilderness",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
-          "text": "Rebellion is like the sin of the golden calf in the wilderness",
-          "explanation": ""
+          "text": "Rebellion is as witchcraft, and stubbornness is as idolatry",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Stubbornness is like breaking the sacred covenant of the ark",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Rebellion is as the blasphemy of the Philistine heathen gods",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1856,20 +2344,28 @@
       "text": "What occurred when Saul laid hold upon the skirt of Samuel's mantle as he turned to depart?",
       "options": [
         {
-          "text": "The skirt of the mantle rent, symbolizing the kingdom rent away",
-          "explanation": ""
+          "text": "Samuel's horn of oil fell from his hand and was broken",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "The mantle fell to the earth and was covered with ash",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
-          "text": "Samuel's horn of oil fell from his hand and was broken",
-          "explanation": ""
+          "text": "The skirt of the mantle rent, symbolizing the kingdom rent away",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Saul was struck with a sudden trembling across his limbs",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1886,20 +2382,28 @@
       "text": "What divine title did Samuel use when proclaiming that God is NOT a man that He should repent?",
       "options": [
         {
-          "text": "The Strength of Israel will not lie nor repent",
-          "explanation": ""
+          "text": "The Lord of hosts that sitteth between the cherubims",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "The Holy One of Israel who dwelleth in thick darkness",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "The Almighty Rock of our salvation across all ages",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
-          "text": "The Lord of hosts that sitteth between the cherubims",
-          "explanation": ""
+          "text": "The Strength of Israel will not lie nor repent",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -1917,19 +2421,27 @@
       "options": [
         {
           "text": "Samuel hewed Agag in pieces before the LORD in Gilgal",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "He banished him into the lonely desert borders of Paran",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "He delivered him into the hands of the elders of Judah",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "He imprisoned him in the stronghold of the city of Ramah",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1943,22 +2455,30 @@
       "questionId": "1sam_065",
       "type": "single_choice",
       "difficulty": "medium",
-      "text": "Whither did the LORD send Samuel with an horn of oil to anoint a new king over Israel?",
+      "text": "How was the relationship between Samuel and King Saul until the day of Samuel's death?",
       "options": [
         {
-          "text": "Unto Jesse the Beth-lehemite, for I have provided me a king",
+          "id": "opt_1",
+          "text": "They renewed their covenant annually at the tent in Shiloh",
+          "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Unto the house of Abinadab in the hill of Kirjath-jearim",
+          "id": "opt_2",
+          "text": "Samuel came no more to see Saul until the day of his death",
+          "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "Unto the mountain refuge city of Hebron in the south",
+          "id": "opt_3",
+          "text": "They met together every year at the feast in Beth-el",
+          "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Unto the sons of Aaron ministering in the sanctuary at Nob",
+          "id": "opt_4",
+          "text": "Samuel remained as chief counselor in the court of Saul",
+          "isCorrect": false,
           "explanation": ""
         }
       ],
@@ -1973,22 +2493,30 @@
       "questionId": "1sam_066",
       "type": "single_choice",
       "difficulty": "medium",
-      "text": "What rule of divine judgment did the LORD reveal to Samuel when viewing Eliab's tall stature?",
+      "text": "Unto whom in Beth-lehem did the LORD send Samuel to anoint a new king?",
       "options": [
         {
-          "text": "Man looketh on the outward appearance, but the LORD looketh on the heart",
+          "id": "opt_1",
+          "text": "Unto Ahimelech the priest in the city of Nob",
+          "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "The firstborn of every family is chosen to rule over the congregation",
+          "id": "opt_2",
+          "text": "Unto Caleb the prince in the fortress of Hebron",
+          "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "He that hath the greatest stature shall lead the hosts to battle",
+          "id": "opt_3",
+          "text": "Unto Jesse the Beth-lehemite, among whose sons was a king",
+          "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "The beauty of countenance revealeth the secret wisdom of the soul",
+          "id": "opt_4",
+          "text": "Unto Abner the captain in the city of Gibeah",
+          "isCorrect": false,
           "explanation": ""
         }
       ],
@@ -2003,22 +2531,30 @@
       "questionId": "1sam_067",
       "type": "single_choice",
       "difficulty": "easy",
-      "text": "Where was young David when Samuel inquired if Jesse had any more sons present?",
+      "text": "What standard of judgment did the LORD reveal unto Samuel when choosing among Jesse's sons?",
       "options": [
         {
-          "text": "Behold, he keepeth the sheep out in the pasture fields",
+          "id": "opt_1",
+          "text": "Man looketh on the lineage, but the LORD weigheth the deeds",
+          "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "He was practicing with his shepherd's sling at the brook",
+          "id": "opt_2",
+          "text": "Man chooseth the eldest son, but God chooseth the youngest",
+          "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "He was learning the sacred songs of the temple from the seers",
+          "id": "opt_3",
+          "text": "Man prizeth strength in battle, but God prizeth bold faith",
+          "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "He was bearing loaves of parched corn unto his three brethren",
+          "id": "opt_4",
+          "text": "Man looketh on the outward appearance, but the LORD looketh on the heart",
+          "isCorrect": true,
           "explanation": ""
         }
       ],
@@ -2033,22 +2569,30 @@
       "questionId": "1sam_068",
       "type": "single_choice",
       "difficulty": "medium",
-      "text": "What troubled King Saul after the Spirit of the LORD departed from him?",
+      "text": "What daily task was young David performing when Samuel arrived at the house of Jesse?",
       "options": [
         {
-          "text": "An evil spirit from the LORD troubled him with terror",
+          "id": "opt_1",
+          "text": "He was keeping the sheep in the fields of Beth-lehem",
+          "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "A severe sickness of body that confined him to his bed",
+          "id": "opt_2",
+          "text": "He was ministering before the family altar of sacrifice",
+          "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Continual fears of a foreign invasion from the Ammonites",
+          "id": "opt_3",
+          "text": "He was dressing the vineyards upon the hill slopes",
+          "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Painful dreams of the destruction of the tabernacle",
+          "id": "opt_4",
+          "text": "He was forging weapons for the warriors of his tribe",
+          "isCorrect": false,
           "explanation": ""
         }
       ],
@@ -2066,20 +2610,28 @@
       "text": "How did young David refresh King Saul when the evil spirit from God was upon him?",
       "options": [
         {
-          "text": "David took an harp, and played with his hand: and Saul was refreshed",
-          "explanation": ""
+          "text": "He sang the ancient heroic psalms of Moses before his couch",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
-          "text": "He sang the ancient heroic psalms of Moses before his couch",
-          "explanation": ""
+          "text": "David took an harp, and played with his hand: and Saul was refreshed",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "He offered incense of sweet spices upon the golden hearth",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "He prepared a soothing draught of herbs and sweet vineyard wine",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2096,20 +2648,28 @@
       "text": "What was the extraordinary stature of Goliath, the champion of the Philistines of Gath?",
       "options": [
         {
-          "text": "Whose height was six cubits and a span (nearly 3 metres)",
-          "explanation": ""
+          "text": "Seven cubits according to the ancient measure of the giants",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Exactly five cubits from the sole of his foot to his crown",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
-          "text": "Seven cubits according to the ancient measure of the giants",
-          "explanation": ""
+          "text": "Whose height was six cubits and a span (nearly 3 metres)",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Four cubits and a cubit's breadth above all other warriors",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2123,22 +2683,30 @@
       "questionId": "1sam_071",
       "type": "single_choice",
       "difficulty": "easy",
-      "text": "How heavy was the iron head of Goliath's spear which resembled a weaver's beam?",
+      "text": "What errand did Jesse give David when sending him to the camp in the valley of Elah?",
       "options": [
         {
-          "text": "Six hundred shekels of iron weighed the head of his spear",
+          "id": "opt_1",
+          "text": "To serve as an armourbearer in the royal host of Saul",
+          "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Three hundred shekels of refined brass forged in Gath",
+          "id": "opt_2",
+          "text": "To stand watch by night before the royal pavilion of Saul",
+          "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "A thousand shekels of seasoned iron taken from the smiths",
+          "id": "opt_3",
+          "text": "To challenge the Philistine champion with his shepherd's sling",
+          "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "One hundred shekels of beaten bronze with two sharp edges",
+          "id": "opt_4",
+          "text": "To carry parched corn, ten loaves, and ten cheeses to his brethren",
+          "isCorrect": true,
           "explanation": ""
         }
       ],
@@ -2153,22 +2721,30 @@
       "questionId": "1sam_072",
       "type": "single_choice",
       "difficulty": "medium",
-      "text": "What provisions did Jesse send with David to the camp in the valley of Elah for his brethren?",
+      "text": "With what did David arm himself before going forth to meet Goliath in the valley?",
       "options": [
         {
-          "text": "An ephah of parched corn, ten loaves, and ten cheeses",
+          "id": "opt_1",
+          "text": "With his staff, his sling, and five smooth stones out of the brook",
+          "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "Three sacks of fine winnowed barley and two flagons of wine",
+          "id": "opt_2",
+          "text": "With the brass helmet and coat of mail that Saul had put upon him",
+          "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Five roasted sheep, thirty cakes of figs, and honeycomb",
+          "id": "opt_3",
+          "text": "With a heavy wooden spear and a buckler of hardened leather",
+          "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Ten loaves of leavened bread and twenty pieces of silver",
+          "id": "opt_4",
+          "text": "With two sharp javelins taken from the tent of his brother Eliab",
+          "isCorrect": false,
           "explanation": ""
         }
       ],
@@ -2187,19 +2763,27 @@
       "options": [
         {
           "text": "With his own small shepherd's knife at his girdle",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "With the mighty iron sword of the giant Goliath",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "With the royal javelin which Saul had lent unto him",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "With a heavy stone boulder taken from the brook bed",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2216,20 +2800,28 @@
       "text": "How does Scripture describe the deep covenant friendship between Prince Jonathan and David?",
       "options": [
         {
-          "text": "The soul of Jonathan was knit with the soul of David, loving him as himself",
-          "explanation": ""
+          "text": "Jonathan agreed to serve as chief captain under David's future kingdom",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "They swore to divide the royal inheritance equally between their families",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
-          "text": "Jonathan agreed to serve as chief captain under David's future kingdom",
-          "explanation": ""
+          "text": "The soul of Jonathan was knit with the soul of David, loving him as himself",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "They exchanged their horses and golden chariots before all the host",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2246,20 +2838,28 @@
       "text": "What song of the dancing women stirred Saul's jealous wrath against David?",
       "options": [
         {
-          "text": "Saul hath slain his thousands, and David his ten thousands",
-          "explanation": ""
+          "text": "David is greater than all the mighty captains of the twelve tribes",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Behold our glorious king who hath overthrown the host of Philistia",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "The shepherd of Bethlehem hath taken the crown of Mount Gilboa",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
-          "text": "David is greater than all the mighty captains of the twelve tribes",
-          "explanation": ""
+          "text": "Saul hath slain his thousands, and David his ten thousands",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -2277,19 +2877,27 @@
       "options": [
         {
           "text": "An hundred foreskins of the Philistines to avenge the king",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Fifty chariots of iron taken from the garrison of Ashkelon",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Five hundred talents of silver brought from the coastal cities",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "The golden battle-shield of the slain champion of the city Gath",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2306,20 +2914,28 @@
       "text": "How did Michal help her husband David escape from the messengers sent by Saul to slay him?",
       "options": [
         {
-          "text": "She let him down through a window and laid an image in the bed",
-          "explanation": ""
+          "text": "She disguised him in the vestments of a visiting priest of Nob",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
-          "text": "She disguised him in the vestments of a visiting priest of Nob",
-          "explanation": ""
+          "text": "She let him down through a window and laid an image in the bed",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "She hid him in a deep empty grain pit beneath the stable floor",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "She locked the royal guards inside the inner chamber of the house",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2333,22 +2949,30 @@
       "questionId": "1sam_078",
       "type": "single_choice",
       "difficulty": "medium",
-      "text": "Whither did David flee to find sanctuary with Samuel after escaping from King Saul?",
+      "text": "What happened to Saul's messengers when they came to take David at Naioth in Ramah?",
       "options": [
         {
-          "text": "He came to Samuel to Ramah, and dwelt in Naioth",
+          "id": "opt_1",
+          "text": "They were driven back with stones by the elders of the city",
+          "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Unto the secluded caves on the cliffs of Mount En-gedi",
+          "id": "opt_2",
+          "text": "They lost their way in the thick forests of mount Ephraim",
+          "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Unto the mountain refuge city of Hebron in southern Judah",
+          "id": "opt_3",
+          "text": "The Spirit of God was upon them, and they also prophesied",
+          "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "Unto the court of the tabernacle of the congregation in Shiloh",
+          "id": "opt_4",
+          "text": "They fell upon their faces in terror before the gate of Ramah",
+          "isCorrect": false,
           "explanation": ""
         }
       ],
@@ -2366,20 +2990,28 @@
       "text": "By what sign of shooting arrows did Jonathan warn David whether to return or flee?",
       "options": [
         {
-          "text": "If he said to the lad: The arrows are beyond thee; go thy way",
-          "explanation": ""
+          "text": "By shooting two arrows into the trunk of the great terebinth",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "By shooting a single flaming arrow toward the rock of Ezel",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "By breaking three arrows in the presence of his armourbearer",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
-          "text": "By shooting two arrows into the trunk of the great terebinth",
-          "explanation": ""
+          "text": "If he said to the lad: The arrows are beyond thee; go thy way",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -2397,19 +3029,27 @@
       "options": [
         {
           "text": "The hallowed shewbread taken from before the LORD",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "The roasted flesh of the burnt offerings on the altar",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Unleavened cakes taken from the storehouses of Nob",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Fresh clusters of summer raisins and parched grains",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2427,19 +3067,27 @@
       "options": [
         {
           "text": "Uriah the Hittite, a captain in the army",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Doeg the Edomite, the chiefest of Saul's herdmen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Ittai the Gittite, a soldier from Philistia",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Araunah the Jebusite, a farmer from Jerusalem",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2457,19 +3105,27 @@
       "options": [
         {
           "text": "He disguised himself as a blind beggar at the gate",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "He pretended to be a banished priest from Shiloh",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "He feigned himself mad and scrabbled on the doors",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "He claimed to be an ambassador sent from Pharaoh",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2487,19 +3143,27 @@
       "options": [
         {
           "text": "Chosen priests and Levites out of Shiloh",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Wealthy cattle breeders from the south country",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Foreign mercenaries from the cities of Philistia",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Every one in distress, in debt, and discontented",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -2517,19 +3181,27 @@
       "options": [
         {
           "text": "Doeg the Edomite fell upon the priests and slew them",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "The Benjamite royal bodyguards of King Saul",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "The Philistine archers from the city of Gath",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Captain Abner together with his soldiers",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2547,19 +3219,27 @@
       "options": [
         {
           "text": "Zechariah the youngest priest of the house",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Abiathar, the son of Ahimelech",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Phinehas of the remnant of the house of Eli",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Eleazar the keeper of the ark in Kirjath",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2577,19 +3257,27 @@
       "options": [
         {
           "text": "The mountain stronghold of ancient Shechem",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "The altar city of Bethel near the south borders",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "The city of Keilah in the low western plain",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "The priestly city of Hebron upon the mountains",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2607,19 +3295,27 @@
       "options": [
         {
           "text": "David took Saul's spear and cruse from his bolster",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "David took Saul's royal signet ring from his hand",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "David bound the sleeping king with hempen cords",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "David cut off the skirt of Saul's robe privily",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -2637,19 +3333,27 @@
       "options": [
         {
           "text": "The man was churlish and evil in his doings",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "He was a gentle, God-fearing shepherd of sheep",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "He was a poor bondman from the tribal land Dan",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "He was a priest ministering upon Bethel heights",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2667,19 +3371,27 @@
       "options": [
         {
           "text": "She paid a thousand silver pieces to David's men",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "She brought loaves, wine, sheep, corn, and raisins",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "She summoned the elders of Maon to intervene",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "She delivered Nabal bound into David's hands",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2697,19 +3409,27 @@
       "options": [
         {
           "text": "He cursed his wife and banished her to Carmel",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "He marched forth with sixty spearmen to war",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "His heart died within him, and he became as a stone",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "He presented David with half of all his sheep",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2727,19 +3447,27 @@
       "options": [
         {
           "text": "The royal scarlet mantle and the signet ring",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "The king's iron sword and his bronze helmet",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "The golden tent band and the royal shield",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "The spear and the cruse of water from his head",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -2757,19 +3485,27 @@
       "options": [
         {
           "text": "The city of Ziklag",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "The city of Ashkelon",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "The city of Ekron",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "The city of Gaza",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2787,19 +3523,27 @@
       "options": [
         {
           "text": "He sought out the high priest in the city of Nob",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "He sought a woman that had a familiar spirit at Endor",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "He offered solemn burnt offerings at altar in Gilgal",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "He consulted the idol priests of Philistines in Gath",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2817,19 +3561,27 @@
       "options": [
         {
           "text": "The holy tabernacle shall be removed to Zion",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Thou shalt reign twenty more years over Israel",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "The LORD will deliver Israel to the Philistines",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "David shall fall in battle against Philistia",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2847,19 +3599,27 @@
       "options": [
         {
           "text": "Because David was sore sick in the encampment",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Because King Achish recalled him to Ziklag",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Because the prophet Gad forbade him to march",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "The lords feared he would turn adversary in battle",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -2877,19 +3637,27 @@
       "options": [
         {
           "text": "The Amalekites had burned Ziklag and taken women",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Saul's warriors had overthrown and slain the men",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "The men of Judah had plundered their possessions",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "A great fire had consumed the city to ashes",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2907,19 +3675,27 @@
       "options": [
         {
           "text": "A captive prince from the cities of Philistia",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "An Egyptian youth, sick three days, fed by David",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "A messenger from the tribe of Judah in the south",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "A desert scout from the border villages of Shur",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2937,19 +3713,27 @@
       "options": [
         {
           "text": "The warriors take all, and the rest receive naught",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "The tenth part goes to priests, the rest by lot",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "He that tarrieth by stuff shareth alike with warrior",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "David reserveth all stores for a future temple",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2967,19 +3751,27 @@
       "options": [
         {
           "text": "He was trodden down by the Philistine chariots",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "He was carried away captive into the city of Gaza",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "He fled disguised into the southern wilderness",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "He took a sword, and fell upon it, and died",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -2997,19 +3789,27 @@
       "options": [
         {
           "text": "They recovered the bodies of Saul and his sons",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "They stoned the Philistine lords in Beth-shan",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "They took Saul's weapons from the idol temple",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "They mourned forty days at the holy sanctuary",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3027,19 +3827,27 @@
       "options": [
         {
           "text": "For the LORD will not forsake his people for his name's sake",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "The LORD would depose Saul if the people did not fast thirty days",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "The people must pay part of the spoil of Ammon to Shiloh priests",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Samuel would no longer pray unto the LORD on behalf of people",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3057,19 +3865,27 @@
       "options": [
         {
           "text": "That David should help him depose King Saul from the throne",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "That David should bestow upon him a high office in his kingdom",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Thou shalt not cut off thy kindness from my house for ever",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "That they should never take up battle weapons against each other",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3087,19 +3903,27 @@
       "options": [
         {
           "text": "A sudden rainstorm flooded the valley and separated the hosts",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "A messenger reported a Philistine invasion, so Saul returned",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Jonathan stood with his bodyguards between the two armies",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "A fall of rocks barred King Saul from the entrance of the cave",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3117,19 +3941,27 @@
       "options": [
         {
           "text": "He ordered his warriors immediately to assault David's men",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "He challenged David to single combat to determine the king",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "He offered David the half of his kingdom if he kept peace",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "He wept, acknowledged David more righteous, and foresaw his reign",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -3147,19 +3979,27 @@
       "options": [
         {
           "text": "That he had secretly negotiated a league with Philistines",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Art not thou a valiant man? wherefore hast thou not kept thy lord?",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "That he had led the host into the field without weapons",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "That he had not stood beside King Saul in war with Amalek",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3177,19 +4017,27 @@
       "options": [
         {
           "text": "Unto Mount Seir to the Edomites, the kinsmen of Esau",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Down into Egypt unto the royal court of the Pharaoh",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Unto Achish, the son of Maoch, king of Gath, in Philistia",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Unto Damascus in Syria unto the court of the king of Aram",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3207,19 +4055,27 @@
       "options": [
         {
           "text": "He considered him a treacherous spy whom no lord could trust",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "He praised his wisdom but strictly forbade him to sacrifice",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "He found no fault in him, for he was good as an angel of God",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "He appointed him governor over all the five cities of Philistia",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3237,19 +4093,27 @@
       "options": [
         {
           "text": "The young Samuel",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "The king Saul",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "The shepherd David",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "The priest Eli",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3267,19 +4131,27 @@
       "options": [
         {
           "text": "The warrior Abishai",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "The young king Saul",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "The king's son Jonathan",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "The shepherd boy David",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -3297,19 +4169,27 @@
       "options": [
         {
           "text": "Five smooth stones out of the brook",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "The heavy iron sword of King Saul",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "His sling in his hand",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "The bronze coat of mail of King Saul",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3328,23 +4208,33 @@
       "options": [
         {
           "text": "David is anointed king over Judah in Hebron",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "David slays Goliath in the valley of Elah",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Saul falls in battle against Philistines",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Samuel anoints David to be king of Israel",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         },
         {
           "text": "David flees away from the presence of Saul",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_5",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [

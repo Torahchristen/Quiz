@@ -413,22 +413,30 @@
       "questionId": "rut_014",
       "type": "single_choice",
       "difficulty": "hard",
-      "text": "What did Boaz invite Ruth to do at mealtime with the reapers?",
+      "text": "How much barley did Ruth beat out at even after her first day of gleaning in Boaz's field?",
       "options": [
         {
-          "text": "To drink royal wine and feast on figs with the reapers",
+          "id": "opt_1",
+          "text": "Exactly three measures of fresh winnowed wheat",
+          "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "To eat of bread and dip her morsel in the vinegar",
+          "id": "opt_2",
+          "text": "It was about an ephah of barley that she gleaned",
+          "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "To eat a fatted lamb with the elders sitting at the gate",
+          "id": "opt_3",
+          "text": "Ten full measures of parched corn from the sheaves",
+          "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "To draw fresh living water from the famous well of David",
+          "id": "opt_4",
+          "text": "Only a small handful of dry stalks from the border",
+          "isCorrect": false,
           "explanation": ""
         }
       ],
@@ -437,28 +445,36 @@
       ],
       "explanation": "",
       "explanationReviewed": false,
-      "bibleReference": "Ruth 2:14"
+      "bibleReference": "Ruth 2:17"
     },
     {
       "questionId": "rut_015",
       "type": "single_choice",
       "difficulty": "hard",
-      "text": "How much barley did Ruth beat out at even after her first day of gleaning?",
+      "text": "What significance did Boaz have for Naomi's family according to Naomi's words?",
       "options": [
         {
-          "text": "About a tenth deal of coarse barley",
+          "id": "opt_1",
+          "text": "He was the chief magistrate sitting in the city gate",
+          "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Two earthen pitchers of fine flour",
+          "id": "opt_2",
+          "text": "He was the royal overseer of the storehouses of Judah",
+          "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "About an ephah of threshed barley",
+          "id": "opt_3",
+          "text": "The man is near of kin unto us, one of our next kinsmen",
+          "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "Five large sheaves of unthreshed wheat",
+          "id": "opt_4",
+          "text": "He was the captain of the armed host of Beth-lehem",
+          "isCorrect": false,
           "explanation": ""
         }
       ],
@@ -467,28 +483,36 @@
       ],
       "explanation": "An ephah was an ancient biblical dry measure for grain, equal to about 20 to 22 liters (Ruth 2:17).",
       "explanationReviewed": true,
-      "bibleReference": "Ruth 2:17"
+      "bibleReference": "Ruth 2:20"
     },
     {
       "questionId": "rut_016",
       "type": "single_choice",
       "difficulty": "medium",
-      "text": "How long did Ruth keep fast by the maidens of Boaz to glean?",
+      "text": "What counsel did Naomi give Ruth for the night when Boaz winnowed barley on the threshingfloor?",
       "options": [
         {
-          "text": "Only seven days during the feast of tabernacles",
+          "id": "opt_1",
+          "text": "Entreat him publicly before the elders for assistance",
+          "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Exactly one month until the feast of passover",
+          "id": "opt_2",
+          "text": "Bring him costly gifts brought from the land of Moab",
+          "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Only until the summer fig harvest was gathered",
+          "id": "opt_3",
+          "text": "Kindle a bright torch in the midst of the threshingfloor",
+          "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Unto the end of barley harvest and wheat harvest",
+          "id": "opt_4",
+          "text": "Wash thyself, anoint thee, and lay thee down at his feet",
+          "isCorrect": true,
           "explanation": ""
         }
       ],
@@ -497,28 +521,36 @@
       ],
       "explanation": "",
       "explanationReviewed": false,
-      "bibleReference": "Ruth 2:23"
+      "bibleReference": "Ruth 3:1-4"
     },
     {
       "questionId": "rut_017",
       "type": "single_choice",
       "difficulty": "medium",
-      "text": "What instruction did Naomi give unto Ruth concerning Boaz at the threshingfloor?",
+      "text": "At what hour of the night was Boaz afraid and turned himself on the threshingfloor?",
       "options": [
         {
-          "text": "To uncover his feet and lay herself down softly",
+          "id": "opt_1",
+          "text": "It came to pass at midnight that the man was afraid",
+          "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "To bring a bag of silver and present it secretly",
+          "id": "opt_2",
+          "text": "At the first crowing of the cock before the dawn",
+          "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "To cry aloud for marriage before all the reapers",
+          "id": "opt_3",
+          "text": "At the beginning of the third watch of the night",
+          "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "To measure the corn in the storehouses at night",
+          "id": "opt_4",
+          "text": "Shortly after the setting of the sun in the evening",
+          "isCorrect": false,
           "explanation": ""
         }
       ],
@@ -527,7 +559,7 @@
       ],
       "explanation": "",
       "explanationReviewed": false,
-      "bibleReference": "Ruth 3:1-4"
+      "bibleReference": "Ruth 3:8"
     },
     {
       "questionId": "rut_018",

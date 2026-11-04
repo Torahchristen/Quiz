@@ -411,29 +411,29 @@
     {
       "questionId": "rut_014",
       "type": "single_choice",
-      "text": "Wozu lud Boas Rut zur Essenszeit der Schnitter ein?",
+      "text": "Wie viel Gerste schlug Rut am Abend ihres ersten Arbeitstages auf Boas' Feld aus?",
       "options": [
         {
-          "text": "Vom Wein der Fürsten zu trinken und Feigen zu essen",
+          "text": "Genau drei Maß frischer Weizenkörner",
           "explanation": ""
         },
         {
-          "text": "Vom Brot zu essen und ihren Bissen in Essig zu tunken",
+          "text": "Bei einem Epha Gerste schlug sie aus",
           "explanation": ""
         },
         {
-          "text": "Ein fettes Lamm mit den Ältesten am Tor zu speisen",
+          "text": "Genau zehn volle Maß Gerstenkörner",
           "explanation": ""
         },
         {
-          "text": "Frisches Quellwasser aus dem Brunnen Davids zu schöpfen",
+          "text": "Nur eine kleine Handvoll dörrer Halme",
           "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
-      "bibleReference": "Rut 2:14",
+      "bibleReference": "Rut 2:17",
       "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
@@ -441,29 +441,29 @@
     {
       "questionId": "rut_015",
       "type": "single_choice",
-      "text": "Wie viel Gerste schlug Rut am Abend nach ihrem ersten Tag des Auflesens aus?",
+      "text": "Welche Bedeutung hatte Boas für die Familie Naemis nach den Worten der Schwiegermutter?",
       "options": [
         {
-          "text": "Genau ein Zehntel eines Maßes",
+          "text": "Er war der oberste Richter der Stadt",
           "explanation": ""
         },
         {
-          "text": "Zwei volle Krüge gereinigtes Mehl",
+          "text": "Er war der Verwalter der Kornhäuser",
           "explanation": ""
         },
         {
-          "text": "Bei einem Epha gemessene Gerste",
+          "text": "Der Mann gehört zu unseren nächsten Erben",
           "explanation": ""
         },
         {
-          "text": "Fünf Garben ungedroschener Weizen",
+          "text": "Er war der Hauptmann des Heeres Judas",
           "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
-      "bibleReference": "Rut 2:17",
+      "bibleReference": "Rut 2:20",
       "explanation": "Ein Epha war ein altes biblisches Hohlmaß für Getreide und entsprach etwa 20 bis 22 Litern (Rut 2:17).",
       "explanationReviewed": true,
       "difficulty": "hard"
@@ -471,29 +471,29 @@
     {
       "questionId": "rut_016",
       "type": "single_choice",
-      "text": "Wie lange hielt sich Rut zu den Dirnen des Boas beim Ährenlesen?",
+      "text": "Welchen Rat gab Naemi der Rut für die Nacht des Worfelns auf der Tenne des Boas?",
       "options": [
         {
-          "text": "Nur sieben Tage während des Laubhüttenfestes",
+          "text": "Bitte ihn öffentlich vor den Ältesten um Hilfe",
           "explanation": ""
         },
         {
-          "text": "Genau einen Mondmonat bis zum Passahfest",
+          "text": "Bringe ihm Geschenke aus dem Land Moab",
           "explanation": ""
         },
         {
-          "text": "Lediglich bis zum Abschluss der Feigenernte",
+          "text": "Zünde auf der Dreschtenne eine Fackel an",
           "explanation": ""
         },
         {
-          "text": "Bis die Gerstenernte und Weizenernte aus war",
+          "text": "Bade dich, salbe dich und lege dich zu seinen Füßen",
           "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
-      "bibleReference": "Rut 2:23",
+      "bibleReference": "Rut 3:1-4",
       "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
@@ -501,29 +501,29 @@
     {
       "questionId": "rut_017",
       "type": "single_choice",
-      "text": "Welchen Rat gab Naemi der Rut für die Nacht auf der Tenne des Boas?",
+      "text": "Zu welcher nächtlichen Stunde erschrak Boas auf seiner Tenne und beugte sich?",
       "options": [
         {
-          "text": "Sich zu seinen Füßen aufzudecken und sich hinzulegen",
+          "text": "Genau zur finsteren Mitternacht",
           "explanation": ""
         },
         {
-          "text": "Ihm heimlich einen Beutel mit Silberstücken zu bringen",
+          "text": "Beim ersten frühen Hahnenschrei",
           "explanation": ""
         },
         {
-          "text": "Vor den Schnittern laut um ein neues Brautkleid zu bitten",
+          "text": "Bei Anbruch der dritten Nachtwache",
           "explanation": ""
         },
         {
-          "text": "Die Vorräte an Gerste vor den Knechten der Tenne zu wiegen",
+          "text": "Kurz nach dem späten Sonnenuntergang",
           "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
-      "bibleReference": "Rut 3:1-4",
+      "bibleReference": "Rut 3:8",
       "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"

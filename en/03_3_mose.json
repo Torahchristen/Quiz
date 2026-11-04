@@ -26,16 +26,28 @@
       "text": "From what place did the LORD call unto Moses, and spake unto him?",
       "options": [
         {
-          "text": "From the burning summit of Mount Sinai"
+          "text": "From the burning summit of Mount Sinai",
+          "id": "opt_1",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Out of the midst of the flaming bush"
+          "text": "Out of the midst of the flaming bush",
+          "id": "opt_2",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Out of the tabernacle of the congregation"
+          "text": "Out of the tabernacle of the congregation",
+          "id": "opt_3",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Before the gates of the camp by the altar"
+          "text": "Before the gates of the camp by the altar",
+          "id": "opt_4",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -52,16 +64,28 @@
       "text": "What cattle was a man commanded to offer for a burnt sacrifice unto the LORD?",
       "options": [
         {
-          "text": "A male without blemish from the herd"
+          "text": "A male without blemish from the herd",
+          "id": "opt_1",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "A female heifer of three years of age"
+          "text": "A female heifer of three years of age",
+          "id": "opt_2",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "A young suckling calf without any spot"
+          "text": "A young suckling calf without any spot",
+          "id": "opt_3",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "A firstling heifer born in the holy camp"
+          "text": "A firstling heifer born in the holy camp",
+          "id": "opt_4",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -78,16 +102,28 @@
       "text": "What was the offerer to do before the burnt sacrifice was killed?",
       "options": [
         {
-          "text": "Wash the beast three times with pure water"
+          "text": "Wash the beast three times with pure water",
+          "id": "opt_1",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Put his hand upon the head of the burnt offering"
+          "text": "Put his hand upon the head of the burnt offering",
+          "id": "opt_2",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Anoint the two horns of the beast with holy oil"
+          "text": "Anoint the two horns of the beast with holy oil",
+          "id": "opt_3",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Bind the mouth of the sacrifice with clean cords"
+          "text": "Bind the mouth of the sacrifice with clean cords",
+          "id": "opt_4",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -104,16 +140,28 @@
       "text": "Where were Aaron's sons commanded to sprinkle the blood of the burnt offering?",
       "options": [
         {
-          "text": "Upon the golden altar within the holy place"
+          "text": "Upon the golden altar within the holy place",
+          "id": "opt_1",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Upon the open ground outside the holy camp"
+          "text": "Upon the open ground outside the holy camp",
+          "id": "opt_2",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Round about upon the altar by the tabernacle door"
+          "text": "Round about upon the altar by the tabernacle door",
+          "id": "opt_3",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Upon the white garments worn by the high priest"
+          "text": "Upon the white garments worn by the high priest",
+          "id": "opt_4",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -130,16 +178,28 @@
       "text": "Which parts of the burnt sacrifice were to be washed in water?",
       "options": [
         {
-          "text": "Only the head and the fat pieces thereof"
+          "text": "Only the head and the fat pieces thereof",
+          "id": "opt_1",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "The entire skin and all the outward meat"
+          "text": "The entire skin and all the outward meat",
+          "id": "opt_2",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Only the place of slaughter at the throat"
+          "text": "Only the place of slaughter at the throat",
+          "id": "opt_3",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "His inwards and his legs shall he wash"
+          "text": "His inwards and his legs shall he wash",
+          "id": "opt_4",
+          "isCorrect": true,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -156,16 +216,28 @@
       "text": "Which fowls was a man permitted to bring for a burnt offering unto the LORD?",
       "options": [
         {
-          "text": "Sparrows, or wild fowls of the hills"
+          "text": "Turtledoves, or young pigeons",
+          "id": "opt_1",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Turtledoves, or young pigeons"
+          "text": "Sparrows, or wild fowls of the hills",
+          "id": "opt_2",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Quails, or partridges from the fields"
+          "text": "Quails, or partridges from the fields",
+          "id": "opt_3",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Swallows, or white birds of the brook"
+          "text": "Swallows, or white birds of the brook",
+          "id": "opt_4",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -183,19 +255,27 @@
       "options": [
         {
           "text": "It had to be burnt completely outside the camp",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "The priest that offereth it shall have the skin",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "It was given back to the offerer for his tent",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "It was laid before the ark in the most holy place",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -213,19 +293,27 @@
       "options": [
         {
           "text": "Barley flour, pure water, and sweet honey",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Crushed wheat, sweet wine, and bitter herbs",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Fine flour, oil poured thereon, and frankincense",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Coarse meal, sheep fat, and fragrant myrrh",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -242,16 +330,28 @@
       "text": "What portion of the meat offering was the priest to burn as a memorial upon the altar?",
       "options": [
         {
-          "text": "All of the fine flour mingled with the oil"
+          "text": "All of the fine flour mingled with the oil",
+          "id": "opt_1",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Only the frankincense without any flour or oil"
+          "text": "Only the frankincense without any flour or oil",
+          "id": "opt_2",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "The half of the flour with all leavened bread"
+          "text": "The half of the flour with all leavened bread",
+          "id": "opt_3",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "His handful of the flour, of the oil, and all frankincense"
+          "text": "His handful of the flour, of the oil, and all frankincense",
+          "id": "opt_4",
+          "isCorrect": true,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -269,19 +369,27 @@
       "options": [
         {
           "text": "Unto Aaron and his sons, as a thing most holy",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Unto the offerer and his family for a sacred feast",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Unto the poor strangers and widows in the gate",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Unto the Levites who carried the sacred vessels",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -299,19 +407,27 @@
       "options": [
         {
           "text": "Pure olive oil and white salt of the sea",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Any leaven, and any honey in the sacrifice",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Sweet wine and bitter mountain herbs",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Fine frankincense and dried myrrh",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -329,19 +445,27 @@
       "options": [
         {
           "text": "Pure frankincense from the merchants",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Sweet olive oil from the sacred presses",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "The salt of the covenant of thy God",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Fragrant cinnamon from the southern land",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -359,19 +483,27 @@
       "options": [
         {
           "text": "As heavy sheaves of wheat freshly cut down",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "As baked loaves of bread mixed with leaven",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "As unground barley seeds steeped in wine",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "As green ears of corn dried by fire and beaten out",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -389,19 +521,27 @@
       "options": [
         {
           "text": "Unleavened cakes of fine flour mingled with oil",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Leavened loaves baked with dried sweet raisins",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Boiled flour dumplings seasoned with fresh salt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Thin wafers rubbed with the sweet fat of sheep",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -419,19 +559,27 @@
       "options": [
         {
           "text": "Only a male without blemish was accepted",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Whether it be a male or female without blemish",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Only a young female heifer born in that year",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Only twin bullocks brought from the home fold",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -449,19 +597,27 @@
       "options": [
         {
           "text": "The heart, the lungs, and the flesh of the ribs",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "The entire shoulder, the tongue, and the throat",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "The fat that covereth the inwards and the two kidneys",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "The hide of the breast, the marrow, and the spleen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -479,19 +635,27 @@
       "options": [
         {
           "text": "The fatty skin covering the neck of the beast",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "The rich fat layer clinging unto the brisket",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "The entire suet encasing the lower ribs",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "The whole rump taken off hard by the backbone",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -508,16 +672,28 @@
       "text": "How does the law describe the fat of the peace offering burnt by the priest upon the altar?",
       "options": [
         {
-          "text": "It is the food of the offering made by fire unto the LORD"
+          "text": "It is the food of the offering made by fire unto the LORD",
+          "id": "opt_1",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "It is a sacred gift belonging entirely to the common poor"
+          "text": "It is a sacred gift belonging entirely to the common poor",
+          "id": "opt_2",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "It is an earthly token reserved for the judges of tribes"
+          "text": "It is an earthly token reserved for the judges of tribes",
+          "id": "opt_3",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "It is a memorial share given unto the keeper of the court"
+          "text": "It is a memorial share given unto the keeper of the court",
+          "id": "opt_4",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -535,19 +711,27 @@
       "options": [
         {
           "text": "Outside the gates of the camp by the river",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "At the door of the tabernacle of the congregation",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "On the north side of the sacred wooden altar",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Within the holy place before the inner veil",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -565,19 +749,27 @@
       "options": [
         {
           "text": "That they should eat no meat during the holy feasts",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "That they should eat neither leavened bread nor olives",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "That ye eat neither fat nor blood in all your dwellings",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "That they should eat no bitter herbs after nightfall",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -594,16 +786,28 @@
       "text": "For what manner of sin was the sin offering prescribed in Leviticus 4:2?",
       "options": [
         {
-          "text": "For deliberate rebellion against the civil rulers"
+          "text": "For deliberate rebellion against the civil rulers",
+          "id": "opt_1",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "For willful blasphemy committed in open public"
+          "text": "For willful blasphemy committed in open public",
+          "id": "opt_2",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "For violent robbery committed against a neighbor"
+          "text": "For violent robbery committed against a neighbor",
+          "id": "opt_3",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "If a soul shall sin through ignorance against commands"
+          "text": "If a soul shall sin through ignorance against commands",
+          "id": "opt_4",
+          "isCorrect": true,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -621,19 +825,27 @@
       "options": [
         {
           "text": "A young bullock without blemish for a sin offering",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "A male goat without blemish from the desert flocks",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "A ram of the first year taken from the fold",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Two young turtledoves offered before the door",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -651,19 +863,27 @@
       "options": [
         {
           "text": "Three times upon the threshold of the tent",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Seven times before the veil of the sanctuary",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Twelve times facing toward the four quarters",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Once only upon the golden base of the veil",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -681,19 +901,27 @@
       "options": [
         {
           "text": "Upon the brazen altar in the courtyard of the tent",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Within the holy place on the golden hearth of incense",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Without the camp, unto a clean place where ashes are poured",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Into a deep pit dug near the boundary of the camp",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -711,19 +939,27 @@
       "options": [
         {
           "text": "A young heifer that had never borne any yoke",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "A pure white ram taken from the chief flocks",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "A young bullock without spot from his stable",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "A kid of the goats, a male without blemish",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -741,19 +977,27 @@
       "options": [
         {
           "text": "A kid of the goats, a female without blemish",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "A young bullock from the common herd of cattle",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "A strong ram taken from the chief pastures",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "A male goat without blemish from the fold",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -771,19 +1015,27 @@
       "options": [
         {
           "text": "Sprinkled seven times before the inner veil of the tent",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Put upon the horns of the altar of burnt offering",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Poured out upon the threshold of the high priest's court",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Carried into the holy place and sprinkled on the lamp",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -801,19 +1053,27 @@
       "options": [
         {
           "text": "He was banished from the camp for forty days",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "He had to restore fourfold the hidden goods",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "If he did not utter it, he shall bear his iniquity",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "He was disqualified from offering gifts at the altar",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -831,19 +1091,27 @@
       "options": [
         {
           "text": "A small piece of silver measured by the elders",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "A handful of dried barley flour without olive oil",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "A basket of summer figs gathered from the trees",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Two turtledoves, or two young pigeons unto the LORD",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -861,19 +1129,27 @@
       "options": [
         {
           "text": "The tenth part of an ephah of fine flour for a sin offering",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "A cup of cold water drawn from the sanctuary fountain",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "A handful of roasted grain gathered from the harvest field",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "A small bundle of clean hyssop from the garden wall",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -891,19 +1167,27 @@
       "options": [
         {
           "text": "Because fine olive oil was too costly for his family",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "For it is a sin offering, and not a sweet savour",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Because frankincense was reserved solely for the princes",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Because mourning rites forbade the use of sweet spices",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -921,19 +1205,27 @@
       "options": [
         {
           "text": "A young bullock without blemish from the herd",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "A male kid of the goats taken from the flock",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "A ram without blemish out of the flocks with estimation",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "A female lamb of the first year from the fold",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -951,19 +1243,27 @@
       "options": [
         {
           "text": "A tenth part added unto the principal value",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "A third part added unto the estimated price",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Double the amount of the damage that was done",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "He shall add the fifth part thereto unto the priest",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -981,19 +1281,27 @@
       "options": [
         {
           "text": "He shall confess that he hath sinned in that thing",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "He had to fast in sackcloth and ashes for three days",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "He was required to wash his garments before the elders",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "He had to bow seven times towards the holy sanctuary",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1011,19 +1319,27 @@
       "options": [
         {
           "text": "He had only to bring the sacrificial ram to the altar",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "He shall restore it in the principal, and add the fifth part",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "He had to pay threefold damages unto the treasury",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "He was sentenced to four years of bondage to his neighbor",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1041,19 +1357,27 @@
       "options": [
         {
           "text": "It was permitted to burn only on the solemn Sabbath day",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "It had to be rekindled anew each evening with pine wood",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "It blazed only during the three solemn feasts of Israel",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "It shall ever be burning upon the altar, and never go out",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -1071,19 +1395,27 @@
       "options": [
         {
           "text": "His linen garment, and his linen breeches upon his flesh",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "His common woolen robe worn during travel through the camp",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "The glorious golden ephod adorned with the breastplate",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "A mourning garment of coarse black goat hair",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1101,19 +1433,27 @@
       "options": [
         {
           "text": "It was eaten by all the priests within the sacred court",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "It shall be wholly burnt; it shall not be eaten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "It was distributed among the poor families of the people",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "It was mingled with the sacrificial blood of the bullock",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1131,19 +1471,27 @@
       "options": [
         {
           "text": "It was washed with salt water and rinsed seven times",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "It was purified by being held in the flames of the altar",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "The earthen vessel wherein it is sodden shall be broken",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "It was set apart for ordinary household use in the camp",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1160,16 +1508,28 @@
       "text": "Under what condition was the flesh of a sin offering STRICTLY forbidden to be eaten?",
       "options": [
         {
-          "text": "If the sacrificial beast was a female sheep of the fold"
+          "text": "If the sacrificial beast was a female sheep of the fold",
+          "id": "opt_1",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "If the offering was brought upon a common working day"
+          "text": "If the offering was brought upon a common working day",
+          "id": "opt_2",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "If the offerer was not a native-born son of the tribe of Levi"
+          "text": "If the offerer was not a native-born son of the tribe of Levi",
+          "id": "opt_3",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Whereof any blood is brought into the tabernacle to reconcile"
+          "text": "Whereof any blood is brought into the tabernacle to reconcile",
+          "id": "opt_4",
+          "isCorrect": true,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -1187,19 +1547,27 @@
       "options": [
         {
           "text": "In the place where they kill the burnt offering",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "On the south side before the golden candlestick",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Without the camp in a clean place where ashes lie",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Directly before the eastern gate of the outer court",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1217,19 +1585,27 @@
       "options": [
         {
           "text": "Within the space of three full days following the sacred feast",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Before the next solemn Sabbath day of the gathered congregation",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "The same day that it is offered; none shall be left until the morning",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Within seven full days following the presentation of the gifts",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1247,19 +1623,27 @@
       "options": [
         {
           "text": "It was reserved as holy food for all the anointed priests",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "It was preserved with salt for future annual sacred feasts",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "It was given to the poor strangers dwelling outside the camp",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "The remainder on the third day shall be burnt with fire",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -1277,19 +1661,27 @@
       "options": [
         {
           "text": "Even that soul shall be cut off from his people",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "He had to pay a double fine unto the sanctuary treasury",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "He was banished from the camp of Israel for forty days",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "He was required to bring an additional trespass ram",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1307,19 +1699,27 @@
       "options": [
         {
           "text": "Of camel, of wild horse, or of any desert mountain ass",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Ye shall eat no manner of fat, of ox, of sheep, or of goat",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Of hart, of wild roebuck, or of any swift desert gazelle",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Of fowl, of fish, or of any wild beast taken in hunting",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1337,19 +1737,27 @@
       "options": [
         {
           "text": "He had to pay thirty shekels of silver to the priests",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "He was shut out from the camp for seven full days",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Even that soul shall be cut off from his people",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "He had to offer three rams at the door of the tent",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1367,19 +1775,27 @@
       "options": [
         {
           "text": "The head and the thick fat covering the inward sacrificial parts",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "The two kidneys and the caul above the sacred consecrated liver",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "The right shank and the choice skin of the breast of the animal",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "The wave breast and the heave shoulder from off the sacrifices",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -1397,19 +1813,27 @@
       "options": [
         {
           "text": "Unto the door of the tabernacle of the congregation",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "At the foot of Mount Sinai where the law was given",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Before the royal tent of Moses in the midst of the camp",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "On the hill overlooking the holy desert plains",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1427,19 +1851,27 @@
       "options": [
         {
           "text": "He anointed their heads with precious sweet myrrh",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Moses brought Aaron and his sons, and washed them with water",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "He cut their hair and trimmed their beards with shears",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "He commanded them to confess all their past trespasses",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1457,19 +1889,27 @@
       "options": [
         {
           "text": "A band of pure scarlet silk woven with blue thread",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "A wreath of silver bells and fragrant almond blossoms",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "The golden plate, the holy crown, upon his forefront",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Two engraved onyx stones bearing the names of Israel",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1487,19 +1927,27 @@
       "options": [
         {
           "text": "The sprinkled water of purification from the brazen laver",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "The sweet burning incense taken from the golden altar",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "The fresh morning dew collected from Mount Hermon",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "The anointing oil poured upon them to sanctify them",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -1517,19 +1965,27 @@
       "options": [
         {
           "text": "Upon the horns of the altar round about with his finger",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Upon the four corner sockets beneath the brazen grating",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Upon the inner veil before the holy mercy seat",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Upon the steps leading up to the holy sanctuary",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1547,19 +2003,27 @@
       "options": [
         {
           "text": "Upon his forehead, his right shoulder, and the kneecap of his right leg",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Upon the tip of his right ear, his right thumb, and his right great toe",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Upon his right eye, the palm of his left hand, and his right heel-bone",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Upon his tongue, the center of his right breast, and his right ankle",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1577,19 +2041,27 @@
       "options": [
         {
           "text": "Into the hands of the twelve princes of the tribes",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Into the hands of the seventy appointed elders",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Upon Aaron's hands, and upon his sons' hands",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Into the hands of the young Levites of the court",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1607,19 +2079,27 @@
       "options": [
         {
           "text": "Three days and three nights until the holy Sabbath appeared",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Forty days in solemn prayer and fasting before the door of the tent",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Twelve days according to the number of the twelve tribes of Israel",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Seven days and nights until the days of consecration were fulfilled",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -1637,19 +2117,27 @@
       "options": [
         {
           "text": "On the eighth day after the days of consecration",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "On the tenth day of the first sacred month",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "On the fourteenth day at the feast of passover",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "On the first day of the following new moon",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1667,19 +2155,27 @@
       "options": [
         {
           "text": "An old male goat without blemish from the desert fold",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "A young calf for a sin offering, and a ram for a burnt offering",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "A pair of young turtledoves brought from the holy mountain",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "A strong bullock of three years chosen from the home herd",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1697,19 +2193,27 @@
       "options": [
         {
           "text": "He sprinkled it seven times before the inner veil of the sanctuary",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "He poured it all out into the sand outside the gates of the camp",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "He dipped his finger in the blood, and put it upon the altar horns",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "He sprinkled it over the garments of all the seventy chief elders",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1727,19 +2231,27 @@
       "options": [
         {
           "text": "A young bullock without blemish from the herd",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "A ram of the first year taken from the pastures",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Two female lambs without blemish from the fold",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "The goat, which was the sin offering for the people",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -1757,19 +2269,27 @@
       "options": [
         {
           "text": "He lifted up his hand toward the people, and blessed them",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "He bowed himself seven times before the sacred ark",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "He commanded the elders to divide the remaining meat",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "He changed his garments and put on common apparel",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1787,19 +2307,27 @@
       "options": [
         {
           "text": "The ark of the covenant shone with light and a dove ascended",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "The glory of the LORD appeared, and fire consumed the offering",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "A sudden tempest of heavy rain quenched the altar coals",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "The cloudy pillar was divided asunder by a mighty thunder",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1817,19 +2345,27 @@
       "options": [
         {
           "text": "They refused to slay the ram of consecration",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "They stole the consecrated gold from the tent",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "They offered strange fire before the LORD",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "They entered into the holy place in unwashed linen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1847,19 +2383,27 @@
       "options": [
         {
           "text": "They were smitten with sudden white leprosy on their brow",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "The earth opened her mouth and swallowed them in the court",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "They were cast out from the holy priesthood forevermore",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "There went out fire from the LORD, and devoured them",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -1877,19 +2421,27 @@
       "options": [
         {
           "text": "Mishael and Elzaphan, the cousins of Aaron",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Eleazar and Ithamar, their surviving brethren",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "The seventy appointed elders of the tribes of Israel",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "The Levites of the family of Kohath from the camp",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1907,19 +2459,27 @@
       "options": [
         {
           "text": "Eating bitter herbs and fasting for seven full days",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Uncovering their heads and rending their clothes",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Sitting upon the ground in sackcloth and grey ashes",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Weeping aloud before the gates of the holy sanctuary",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1937,19 +2497,27 @@
       "options": [
         {
           "text": "They were to fast from sunset until the midday sacrifice",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "They had to wear purple girdles tied around their waists",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Do not drink wine nor strong drink, lest ye die",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "They were never to speak aloud within the sacred courts",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -1967,19 +2535,27 @@
       "options": [
         {
           "text": "Because they had neglected to sprinkle its blood outside",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Because they had given the choice portions to their kin",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Because they offered it on a common stone upon the sand",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Because it was burnt, and they had not eaten it in the holy place",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -1997,19 +2573,27 @@
       "options": [
         {
           "text": "Such things have befallen me; should it have been accepted?",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Because the sacred fire of the altar had consumed all the meat",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Because the elders of the congregation commanded them to fast",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Because they were unclean according to the laws of leprosy",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2027,19 +2611,27 @@
       "options": [
         {
           "text": "Long curving horns and sharp cloven hooves",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Parteth the hoof and is clovenfooted, and cheweth the cud",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Four walking legs and short white fleece",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Eating green grass and drinking running river water",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2057,19 +2649,27 @@
       "options": [
         {
           "text": "Because he feedeth upon unclean carrion in the mire",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Because he hath no horns upon his head to defend him",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Though he divide the hoof, yet he cheweth not the cud",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Because he walloweth continually in damp marshland",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2087,19 +2687,27 @@
       "options": [
         {
           "text": "A smooth silver skin without any hard scales",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "The ability to swim against the swift mountain currents",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Breathing both the fresh air and living water",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Whatsoever hath fins and scales in the waters",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -2117,19 +2725,27 @@
       "options": [
         {
           "text": "Those which have legs above their feet, to leap withal, as the locust",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Those winged creatures that feed solely upon fresh wild flowers",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Those small gnats and beetles that live in high mountain crags",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Those desert flies that gather honey from the sweet date trees",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2147,19 +2763,27 @@
       "options": [
         {
           "text": "For three full days after washing in water",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "He shall be unclean until the even",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Seven days until the following Sabbath morning",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Until he brought a young ram to the door of the tent",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2177,19 +2801,27 @@
       "options": [
         {
           "text": "It was to be washed seven times in living brook water",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "It was scoured with hot ashes and placed in the sun",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Whatsoever is in it shall be unclean; and ye shall break it",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "It was buried secretly in the ground outside the camp",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2207,19 +2839,27 @@
       "options": [
         {
           "text": "The water had to be boiled before anyone could drink it",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "The entire fountain remained unclean for forty full days",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "The priest had to sprinkle ashes over the spring",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "A fountain or pit, wherein there is plenty of water, shall be clean",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -2237,19 +2877,27 @@
       "options": [
         {
           "text": "In the eighth day the flesh of his foreskin shall be circumcised",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "On the seventh day when the holy Sabbath was observed",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "On the fourteenth day after his mother was purified",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "On the thirtieth day at the presentation in the sanctuary",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2267,19 +2915,27 @@
       "options": [
         {
           "text": "Fourteen days in all until her purification",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Three and thirty days, being forty in all",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Fifty full days according to the jubilee",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Seven days of separation within her tent",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2297,19 +2953,27 @@
       "options": [
         {
           "text": "Forty days in all, even as for a young son",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Fifty days according to the counting of weeks",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Eighty days in all (two weeks and threescore and six days)",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "A hundred and twenty days of separation in her tent",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2327,19 +2991,27 @@
       "options": [
         {
           "text": "Two young bullocks and a measure of flour",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "A she-goat for sin offering and two rams",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Three turtledoves and a flask of fine oil",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "A lamb of the first year, and a young pigeon",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -2357,19 +3029,27 @@
       "options": [
         {
           "text": "She shall bring two turtles, or two young pigeons",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "A tenth deal of fine flour mingled with pure salt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "A small piece of silver given unto the chief priest",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "A sheaf of barley gathered from the common harvest field",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2387,19 +3067,27 @@
       "options": [
         {
           "text": "The civil magistrate and the elders of the city gate",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "He shall be brought unto Aaron the priest, or one of his sons",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "The oldest physician residing within the camp of Israel",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "The father or head of the household in his own tent",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2417,19 +3105,27 @@
       "options": [
         {
           "text": "Three days and nights in a private tent",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "For forty full days outside the camp gate",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "The priest shall shut him up seven days",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Twelve days until the new moon appeareth",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2447,19 +3143,27 @@
       "options": [
         {
           "text": "He was banished forever beyond the camp",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "He was shut up in solitary confinement",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "He had to offer ten rams at the altar",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Pronounce him clean: it is all turned white",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -2477,19 +3181,27 @@
       "options": [
         {
           "text": "His clothes shall be rent, his head bare, and he shall cry, Unclean, unclean",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "He had to wear black sackcloth, cast dust on his head, and carry a bell",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "He had to shave his eyebrows, wear wooden shoes, and walk backward",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "He was required to cover his entire body with a heavy purple veil",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2507,19 +3219,27 @@
       "options": [
         {
           "text": "In bronze vessels, iron plowshares, and gold ornaments",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Whether it be in the warp, or woof; of linen, or of woollen; or of skin",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "In cedar wood beams, stone thresholds, and roof tiles",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "In earthen jars, woven straw baskets, and olive presses",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2537,19 +3257,27 @@
       "options": [
         {
           "text": "It was washed in the river and stored in darkness for a year",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "It was buried deep under the sand outside the camp of Israel",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "He shall therefore burn that garment, whether warp or woof, in the fire",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "It was given to the poor strangers who dwelt without the gate",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2567,19 +3295,27 @@
       "options": [
         {
           "text": "Two young calves, a horn of oil, and sweet incense",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Two silver coins, a branch of myrtle, and spring water",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "A white lamb, three measures of flour, and bitter herbs",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Two birds alive and clean, and cedar wood, and scarlet, and hyssop",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -2597,19 +3333,27 @@
       "options": [
         {
           "text": "In an earthen vessel over running water",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Over the blazing coals upon the brazen altar",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Over a smooth stone placed at the door of the tent",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Over a golden cup filled with the oil of anointing",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2627,19 +3371,27 @@
       "options": [
         {
           "text": "It was burnt upon the altar as a sweet-smelling savour",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "He shall let the living bird loose into the open field",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "It was kept in a wicker cage within the sacred court",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "It was given unto the high priest as a perpetual possession",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2657,19 +3409,27 @@
       "options": [
         {
           "text": "He had to fast from food and wash his clothes in salt water",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "He had to anoint his whole body with thirty drops of myrrh",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "He shall shave all his hair, his head and beard, and wash in water",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "He had to stand barefoot in the sun from dawn until twilight",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2687,19 +3447,27 @@
       "options": [
         {
           "text": "Three young bullocks without blemish from his herd",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Three female goats of the first year from his pastures",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Three pure white rams taken from the desert flocks",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Two he lambs without blemish, and one ewe lamb of the first year",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -2717,19 +3485,27 @@
       "options": [
         {
           "text": "With the blood of the trespass offering",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "With the pure oil taken from the golden candlestick",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "With the water of separation mingled with ashes",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "With the fine flour taken from the meat offering",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2747,19 +3523,27 @@
       "options": [
         {
           "text": "He poured it all upon the blazing coals of the altar",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "He shall pour it upon the head of him that is to be cleansed",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "He gave it unto his fellow priests to keep in the sanctuary",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "He sprinkled it seven times over the doors of the tent",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2777,19 +3561,27 @@
       "options": [
         {
           "text": "A handful of parched grain and two small cups of wine",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "A single turtle dove and a small piece of holy silver",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "One he lamb for a trespass offering, and two turtledoves",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "A female kid of the goats and a fifth part of an ephah",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2807,19 +3599,27 @@
       "options": [
         {
           "text": "By black mold smelling of decay and damp marsh water",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "By white powdery dust falling continuously from the ceiling",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "By wide cracks running down the stone cornerstones",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "By hollow strakes, greenish or reddish, in sight lower than the wall",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -2837,19 +3637,27 @@
       "options": [
         {
           "text": "He shall shut up the house seven days",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Three full days from the evening of his visit",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Fourteen days until the phase of the moon changed",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Forty days in total while the owners lodged without",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2867,19 +3675,27 @@
       "options": [
         {
           "text": "Wash the outer walls with vinegar and boil the mortar",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Take away the stones in which the plague is, and scrape the house",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Set fire to the wooden roof beams from the inside",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Anoint the stone doorposts with sweet oil and myrrh",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2897,19 +3713,27 @@
       "options": [
         {
           "text": "It was sealed up forever and shunned by the congregation",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "It was cleansed again with twice the amount of cedar wood",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "He shall break down the house, the stones, timber, and all the morter",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "It was given to foreign merchants as a storage warehouse",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2927,19 +3751,27 @@
       "options": [
         {
           "text": "Seven white lambs, sweet wine, and fine mountain herbs",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "A vessel of pure water, thirty silver coins, and barley",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Two young bullocks, cedar logs, and four horns of oil",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Two birds, and cedar wood, and scarlet, and hyssop",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -2957,19 +3789,27 @@
       "options": [
         {
           "text": "He is unclean, with every bed and seat",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "He was fined five shekels of silver",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "He was banished from the camp in exile",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "He had to bring a bullock on the morrow",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -2987,19 +3827,27 @@
       "options": [
         {
           "text": "Remain outside the camp of Israel for seven full days",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Wash his clothes, bathe in water, and be unclean until even",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Offer two young pigeons before the tabernacle altar",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Sprinkle the bed with holy oil and fresh spring water",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3017,19 +3865,27 @@
       "options": [
         {
           "text": "Three days after the flow had ceased",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Twelve days by the tribal reckoning",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "She shall be put apart for seven days",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Fourteen days of separation in tent",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3047,19 +3903,27 @@
       "options": [
         {
           "text": "Two young eagles captured from mountain nests",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Two white quails gathered from the wilderness",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Two clean partridges caught in fowler snares",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Two turtles, or two young pigeons unto the priest",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -3077,19 +3941,27 @@
       "options": [
         {
           "text": "Not at all times, but with a cloud of incense covering the mercy seat, lest he die",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "At any time during the holy feasts when clothed in his glorious ephod",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Whenever the seventy elders requested a solemn judgment from God",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "On every new moon festival accompanied by the sound of silver trumpets",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3107,19 +3979,27 @@
       "options": [
         {
           "text": "The golden ephod adorned with the twelve tribal stones",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "The holy linen coat, breeches, girdle, and linen mitre",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "A purple robe trimmed with golden bells and pomegranates",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "A royal mantle woven of blue, scarlet, and fine gold thread",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3136,16 +4016,28 @@
       "text": "What did Aaron cast upon the two goats before the door of the tabernacle?",
       "options": [
         {
-          "text": "He sprinkled them with oil and marked their left horns"
+          "text": "He sprinkled them with oil and marked their left horns",
+          "id": "opt_1",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "He divided them according to their age and bodily size"
+          "text": "He divided them according to their age and bodily size",
+          "id": "opt_2",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Lots: one for the LORD, and the other for the scapegoat"
+          "text": "Lots: one for the LORD, and the other for the scapegoat",
+          "id": "opt_3",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "He appointed one for a burnt beast and one for a feast"
+          "text": "He appointed one for a burnt beast and one for a feast",
+          "id": "opt_4",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -3162,16 +4054,28 @@
       "text": "What did Aaron do with the live goat upon which the lot fell for the scapegoat?",
       "options": [
         {
-          "text": "He slew it at the door and burnt the inward fat on the altar"
+          "text": "He slew it at the door and burnt the inward fat on the altar",
+          "id": "opt_1",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "He gave it unto the elders of Israel for a memorial offering"
+          "text": "He gave it unto the elders of Israel for a memorial offering",
+          "id": "opt_2",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "He marked both horns with red thread and kept it in the court"
+          "text": "He marked both horns with red thread and kept it in the court",
+          "id": "opt_3",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Lay both hands upon his head, and confess all their iniquities"
+          "text": "Lay both hands upon his head, and confess all their iniquities",
+          "id": "opt_4",
+          "isCorrect": true,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -3188,16 +4092,28 @@
       "text": "With what was Aaron to cover the mercy seat within the vail, that he die not?",
       "options": [
         {
-          "text": "With the cloud of the holy incense"
+          "text": "With the cloud of the holy incense",
+          "id": "opt_1",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "With the blue robe of the sanctuary"
+          "text": "With the blue robe of the sanctuary",
+          "id": "opt_2",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "With the linen veil of the holy tent"
+          "text": "With the linen veil of the holy tent",
+          "id": "opt_3",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "With a golden shield held in his hand"
+          "text": "With a golden shield held in his hand",
+          "id": "opt_4",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -3214,16 +4130,28 @@
       "text": "How was Aaron to sprinkle the blood of the bullock upon and before the mercy seat?",
       "options": [
         {
-          "text": "Three times upon the golden horns of the ark"
+          "text": "Three times upon the golden horns of the ark",
+          "id": "opt_1",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Once upon the seat and seven times before it"
+          "text": "Once upon the seat and seven times before it",
+          "id": "opt_2",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Twelve times toward the four winds of heaven"
+          "text": "Twelve times toward the four winds of heaven",
+          "id": "opt_3",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Twenty and four times along the inner border"
+          "text": "Twenty and four times along the inner border",
+          "id": "opt_4",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -3241,19 +4169,27 @@
       "options": [
         {
           "text": "To feast with joy and drink sweet wine before the sanctuary",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "To gather all their herds and count their cattle for tribute",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Ye shall afflict your souls, and do no work at all",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "To sound the jubilee trumpets throughout all their cities",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3271,19 +4207,27 @@
       "options": [
         {
           "text": "Unto the highest hill overlooking the tents of the people",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Before the door of the chief prince of the offerer's tribe",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Unto any clean open field where green trees grew in peace",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Unto the door of the tabernacle, unto the priest, for peace offerings",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -3301,19 +4245,27 @@
       "options": [
         {
           "text": "Blood shall be imputed unto that man; he shall be cut off from among his people",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "He was fined fifty shekels of silver by the court of the elders",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "He was sentenced to seven years of hard labor in the wilderness",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "His cattle were taken away and distributed among the poor widows",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3331,19 +4283,27 @@
       "options": [
         {
           "text": "Because blood causeth sickness and corruption of the flesh",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "For the life of the flesh is in the blood: it maketh an atonement for the soul",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Because blood belonged solely unto the king and the priests",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Because it was the ancient token of foreign desert idolaters",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3361,19 +4321,27 @@
       "options": [
         {
           "text": "He had to bring the blood to the priest in a silver cup",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "He had to dry the blood in the sun and sprinkle it on wood",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "He shall even pour out the blood thereof, and cover it with dust",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "He was required to wash the animal in running river water",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3391,19 +4359,27 @@
       "options": [
         {
           "text": "Be banished from the camp until the next new moon appeared",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Pay thirty silver shekels unto the sanctuary treasury",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Bring a young bullock for a sin offering at the door",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Wash his clothes, bathe in water, and be unclean until even",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -3421,19 +4397,27 @@
       "options": [
         {
           "text": "And they shall no more offer their sacrifices unto devils",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "The worship of the golden calf made during the wanderings",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "The burning of incense unto the queen of heaven on the hills",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "The bowing down before stone pillars and carved sun images",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3451,19 +4435,27 @@
       "options": [
         {
           "text": "Only unto the ordained priests and Levites of the sanctuary",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "No soul of you shall eat blood, neither shall any stranger that sojourneth",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Exclusively unto native-born men of the twelve tribes of Israel",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Only unto the princes, rulers, and judges of the congregation",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3481,19 +4473,27 @@
       "options": [
         {
           "text": "The agricultural methods and canal systems of the valleys",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "The dialects and desert languages spoken by wandering tribes",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "After the doings of Egypt, and after the doings of the land of Canaan",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "The architecture and stone masonry of foreign palaces",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3511,19 +4511,27 @@
       "options": [
         {
           "text": "Trading with heathen strangers upon the holy Sabbath day",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Eating the fat of any beast offered upon private altars",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Building houses within forty cubits of a brother's tent",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "None shall approach to near of kin, to uncover their nakedness",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -3541,19 +4549,27 @@
       "options": [
         {
           "text": "Thou shalt not let any of thy seed pass through the fire to Molech",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Burning the first sheaves of wheat upon the high hilltops",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Slaughtering young doves upon the rock altars of Baal",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Pouring out libations of milk before carved stone idols",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3571,19 +4587,27 @@
       "options": [
         {
           "text": "As a slight trespass satisfied with a fine",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "As a defiling sin before the holy LORD",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "As an offense concerning only the man",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "As a matter for the elders to settle",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3601,19 +4625,27 @@
       "options": [
         {
           "text": "It was smitten with perpetual severe drought",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "It fell under the dominion of the Egyptians",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "The land became defiled and vomited them out",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "It was turned into a barren desert of stone",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3630,16 +4662,28 @@
       "text": "How does the law designate lying with mankind as with womankind?",
       "options": [
         {
-          "text": "As a slight trespass requiring only a small fine"
+          "text": "As a slight trespass requiring only a small fine",
+          "id": "opt_1",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "As a foreign heathen custom incurring no judgment"
+          "text": "As a foreign heathen custom incurring no judgment",
+          "id": "opt_2",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "As a bodily infirmity that demanded purification"
+          "text": "As a bodily infirmity that demanded purification",
+          "id": "opt_3",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "It is an abomination before the holy LORD our God"
+          "text": "It is an abomination before the holy LORD our God",
+          "id": "opt_4",
+          "isCorrect": true,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -3657,19 +4701,27 @@
       "options": [
         {
           "text": "Cut off from among the midst of his people",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Banished from the sacred camp for one year",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Forfeiting his entire inheritance of goods",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Forbidden forever to see the holy sanctuary",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3687,19 +4739,27 @@
       "options": [
         {
           "text": "Serve the LORD your God with fear and trembling",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Ye shall be holy: for I the LORD your God am holy",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Keep my statutes and reverence all the priests",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "I am the LORD your God which brought you forth",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3717,19 +4777,27 @@
       "options": [
         {
           "text": "Bring a tenth part of the field to the priest",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Distribute half of the sheaves among the poor",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Not wholly reap the corners of the corn field",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Lock the entire harvest within the storehouse",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3747,19 +4815,27 @@
       "options": [
         {
           "text": "His daily wages had to be paid in pure silver",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "He was permitted to work only five hours a day",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "He was entitled to receive double food to eat",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "His wages should not abide with thee all night",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -3777,19 +4853,27 @@
       "options": [
         {
           "text": "Not curse the deaf, nor put stumbling before blind",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Give them free alms before the gates of the city",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Provide them with shelter within the holy courts",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Keep them far removed from all public judgments",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3807,19 +4891,27 @@
       "options": [
         {
           "text": "Thou shalt forgive thy brother all his past faults",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Thou shalt love thy neighbour as thine own self",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Thou shalt do good unto thy brethren day by day",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Thou shalt do no manner of harm unto any stranger",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3837,19 +4929,27 @@
       "options": [
         {
           "text": "They fell entirely unto the officiating high priest",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "They were given exclusively unto wandering strangers",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "They were as uncircumcised and should not be eaten",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "They had to be burnt upon the holy altar of God",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3867,19 +4967,27 @@
       "options": [
         {
           "text": "Grant them a double inheritance of land and cattle",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Exempt them from all tax burdens and altar offerings",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Appoint them as lifelong judges in every city gate",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Rise up before hoary head, and honour the old man",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -3897,19 +5005,27 @@
       "options": [
         {
           "text": "The people of the land shall stone him with stones",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "He was banished from the camp of Israel for life",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "He had to pay fivefold the price of restitution",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "He forfeited his inheritance in the land of Canaan",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3927,19 +5043,27 @@
       "options": [
         {
           "text": "He demanded a threefold trespass ram at the door",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "He set His face against that soul, and cut him off",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "He barred that soul from the holy court for a year",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "He delivered that soul unto the seventy chief elders",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3957,19 +5081,27 @@
       "options": [
         {
           "text": "They had to pay a heavy fine of fifty silver pieces",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "They were banished beyond the wilderness of the land",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Both the adulterer and the adulteress shall be slain",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "They received forty stripes before the congregation",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -3987,19 +5119,27 @@
       "options": [
         {
           "text": "He was disinherited from all his father's house",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "He was sentenced to seven years of hard bondage",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "He was beaten with rods before the city elders",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "He shall be put to death: his blood is upon him",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -4017,19 +5157,27 @@
       "options": [
         {
           "text": "Both the person and the beast shall surely be slain",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "The person was banished and the beast sold to Syria",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "A fine was paid and the beast offered on the altar",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Both were shut out from the camp for seven months",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4047,19 +5195,27 @@
       "options": [
         {
           "text": "Because they were more numerous than all peoples",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "That they should be holy unto God, who severed them",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Because they possessed great skills in battlefields",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Because they had never murmured in the wilderness",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4077,19 +5233,27 @@
       "options": [
         {
           "text": "They were banished into foreign lands beyond Jordan",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "They had to shave their heads and wear sackcloth",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "They shall surely be put to death: stone them with stones",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "They were deprived of their civil rights within gate",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4107,19 +5271,27 @@
       "options": [
         {
           "text": "For any ruler or elder of his tribe who died in war",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "For his distant cousins and tribal brethren in camp",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "For any stranger who died without kin to bury him",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "For his mother, father, son, daughter, and sister",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -4137,19 +5309,27 @@
       "options": [
         {
           "text": "A whore, or profane, or a woman put away by husband",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "A maiden born of the daughters of the house of Levi",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "A widow whose deceased husband was an anointed priest",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "A young virgin chosen from the twelve tribes of Israel",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4167,19 +5347,27 @@
       "options": [
         {
           "text": "He could mourn within his private chamber three days",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "He shall not go in to any dead, nor for his father",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "He had to attend the burial of every tribal prince",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "He could defile his holy office only for his mother",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4197,19 +5385,27 @@
       "options": [
         {
           "text": "He was expelled from the sacred camp for all time",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "He could not marry any daughter of the tribes",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "He shall not offer the bread, yet he may eat of it",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "He was required to fast on every new moon feast",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4227,19 +5423,27 @@
       "options": [
         {
           "text": "She was banished into the desert without any food",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "She was sentenced to lifelong labor in grinding corn",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "She was stoned before the door of her father's tent",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "She profaneth her father: she shall be burnt with fire",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -4257,19 +5461,27 @@
       "options": [
         {
           "text": "He that is bought with money, and born in his house",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Any foreign merchant lodging as a guest in his tent",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "A hired day labourer working in the priest's vineyard",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Only the elder sons who ministered before the altar",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4287,19 +5499,27 @@
       "options": [
         {
           "text": "He was banished from the camp of Israel thirty days",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "He shall put the fifth part unto it, and give to priest",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "He had to bring three young bullocks for burnt gifts",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "He had to restore fourfold the value of holy things",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4317,19 +5537,27 @@
       "options": [
         {
           "text": "At least thirty days old and weaned from its mother",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Three full months after its birth in the home fold",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Seven days under the dam, and from eighth day accepted",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "One full year of age according to the sacred count",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4346,16 +5574,28 @@
       "text": "What did the law forbid concerning a cow or ewe and her young in Leviticus 22:28?",
       "options": [
         {
-          "text": "Ye shall not separate the young beast from the mother"
+          "text": "Ye shall not separate the young beast from the mother",
+          "id": "opt_1",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Ye shall not let the young beast die before its mother"
+          "text": "Ye shall not let the young beast die before its mother",
+          "id": "opt_2",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Ye shall not release the mother alone into open field"
+          "text": "Ye shall not release the mother alone into open field",
+          "id": "opt_3",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Ye shall not kill it and her young both in one day"
+          "text": "Ye shall not kill it and her young both in one day",
+          "id": "opt_4",
+          "isCorrect": true,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -4373,19 +5613,27 @@
       "options": [
         {
           "text": "Eaten on the same day; leave none of it until morrow",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Within three days after the offering at the altar",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Before the following Sabbath day of the congregation",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "At any time before the new moon festival appeared",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4403,19 +5651,27 @@
       "options": [
         {
           "text": "Forty days in all from the wave sheaf presentation",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Seven sabbaths complete, even fifty days numbered",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Twelve weeks according to the twelve tribes of Israel",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Thirty days culminating on the day of the new moon",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4432,16 +5688,28 @@
       "text": "What was to be observed on the first day of the seventh month?",
       "options": [
         {
-          "text": "The feast of unleavened bread kept seven days"
+          "text": "The feast of unleavened bread kept seven days",
+          "id": "opt_1",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "The feast of tabernacles with palm tree boughs"
+          "text": "The feast of tabernacles with palm tree boughs",
+          "id": "opt_2",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "A sabbath, a memorial of blowing of trumpets"
+          "text": "A sabbath, a memorial of blowing of trumpets",
+          "id": "opt_3",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "The feast of weeks with loaves of fine flour"
+          "text": "The feast of weeks with loaves of fine flour",
+          "id": "opt_4",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -4459,19 +5727,27 @@
       "options": [
         {
           "text": "Three days during the early spring barley harvest",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Fourteen days in memory of the journey from Egypt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Forty days according to the wanderings in desert",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Seven days: all that are Israelites shall dwell",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -4489,19 +5765,27 @@
       "options": [
         {
           "text": "Boughs of goodly trees, palm branches, and willows",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Branches of cedar wood, olive boughs, and hyssop",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Oak leaves, cypress twigs, and fragrant myrtle",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Pomegranate boughs, fig tree leaves, and vines",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4519,19 +5803,27 @@
       "options": [
         {
           "text": "On the first day of the month at trumpet sound",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "On the tenth day of the seventh month for atonement",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "On the fourteenth day at twilight even as passover",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "On the fifteenth day when feast of booths began",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4549,19 +5841,27 @@
       "options": [
         {
           "text": "Fine sesame oil scented with sweet mountain myrrh",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Sweet almond oil pressed from blossoms of Hermon",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Pure oil olive beaten for the light, to burn always",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Clarified animal fat seasoned with fine white salt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4579,19 +5879,27 @@
       "options": [
         {
           "text": "Seven loaves set in a circle around the golden cup",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Twenty-four small cakes divided into four equal rows",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Ten loaves according to the commandments of the law",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Twelve cakes set in two rows, six upon a row, table",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -4609,19 +5917,27 @@
       "options": [
         {
           "text": "He blasphemed the name of the LORD, and cursed",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "He stole the consecrated shewbread from the table",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "He refused to be circumcised before the elders",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "He entered into the most holy place in bad linen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4639,19 +5955,27 @@
       "options": [
         {
           "text": "He was banished into the desert for forty full days",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "All hearers laid hands on his head, and all stoned him",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "He was beaten with forty stripes save one in the gate",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "He had to bring seven rams for a trespass offering",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4669,19 +5993,27 @@
       "options": [
         {
           "text": "A monetary compensation set by the judges in gate",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Double restitution paid unto the injured household",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Breach for breach, eye for eye, and tooth for tooth",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Seven years of bondage in the house of the injured",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4699,19 +6031,27 @@
       "options": [
         {
           "text": "It was given over to foreign strangers to cultivate",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "It was planted solely with barley and bitter herbs",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "It was fertilized with ashes from the sacred altar",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "A sabbath of rest: thou shalt neither sow nor prune",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -4729,19 +6069,27 @@
       "options": [
         {
           "text": "The fiftieth year as a jubile: proclaim liberty",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "The year of double tribute paid unto the sanctuary",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "The year of solemn repentance throughout all tribes",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "The year of building new fortified desert cities",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4759,19 +6107,27 @@
       "options": [
         {
           "text": "They remained forever with the recent purchaser",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Ye shall return every man unto his own possession",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "They were given unto the sanctuary at Shiloh as gift",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "The purchaser received double the original payment",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4789,19 +6145,27 @@
       "options": [
         {
           "text": "It could be redeemed at any time until the jubile",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "There was no right of redemption granted at all",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Within a whole year after it is sold he may redeem",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "Three full years were allowed to reclaim the house",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4819,19 +6183,27 @@
       "options": [
         {
           "text": "Interest was allowed, but only in harvested wheat",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "A small fee was permitted after a sabbatical year",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Interest was strictly forbidden only from foreigners",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Thou shalt not give him thy money upon any usury",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -4849,19 +6221,27 @@
       "options": [
         {
           "text": "Rain in due season, peace in land, and abundance",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "Abundant gold and silver in every family dwelling",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Freedom from all sickness and bodily death on earth",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Exemption from every form of agricultural labor",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4879,19 +6259,27 @@
       "options": [
         {
           "text": "Five of them should chase fifty opposing warriors",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Five of you shall chase an hundred of the enemies",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "Five of them should chase a thousand desert horsemen",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Five of them should put ten thousand men to flight",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4909,19 +6297,27 @@
       "options": [
         {
           "text": "The immediate collapse of all city walls in land",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "The turning of all fresh fountains into hot blood",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Terror, consumption, burning ague, and wasted seed",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "The sudden death of all the firstborn of the people",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4939,19 +6335,27 @@
       "options": [
         {
           "text": "Lest the enemies build strong fortified dwellings",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Because the soil became barren and hard as bronze",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "That wild desert beasts might multiply unhindered",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "That the land might enjoy and rest in her sabbaths",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -4969,19 +6373,27 @@
       "options": [
         {
           "text": "His holy covenant with Jacob, Isaac, and Abraham",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "The royal covenant made with the kings of Judah",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "The righteous merits of Moses and Aaron on Sinai",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "The ancient offerings presented in the sanctuary",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -4999,19 +6411,27 @@
       "options": [
         {
           "text": "Twenty shekels of silver after the common weight",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "Fifty shekels of silver, after sanctuary shekel",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "A hundred shekels of silver weighed by the priest",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Thirty shekels of silver measured by the elders",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -5029,19 +6449,27 @@
       "options": [
         {
           "text": "The exchange was valid without any penalty to owner",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "The second beast became unclean and had to be slain",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "Both it and the exchange thereof shall be holy",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
         },
         {
           "text": "The man had to pay three times the estimated price",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -5059,19 +6487,27 @@
       "options": [
         {
           "text": "By paying the simple estimated value unto priest",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "The field was lost forever without any redemption",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "By offering an additional young bullock for burnt",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Add the fifth part of the estimation unto it",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -5089,19 +6525,27 @@
       "options": [
         {
           "text": "No devoted thing shall be sold or redeemed at all",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
         },
         {
           "text": "It could be redeemed after three years for double",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
         },
         {
           "text": "A third part of its value was returned to the man",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "It was given unto poor strangers lodging outside",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
@@ -5119,19 +6563,27 @@
       "options": [
         {
           "text": "Every fifth part of the total annual harvest yield",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
         },
         {
           "text": "The tenth part of the land and of the herd is holy",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
         },
         {
           "text": "The twentieth part of the harvested barley grain",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
         },
         {
           "text": "Only the firstborn of the bullocks and the sheep",
-          "explanation": ""
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
