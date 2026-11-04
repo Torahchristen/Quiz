@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-11-04T22:03:33Z",
+  "lastUpdated": "2026-11-04T22:09:05Z",
   "language": "en",
   "categories": [
     {
@@ -406,6 +406,26 @@
       ],
       "sizeBytes": 120104,
       "downloadUrl": "./en/19_psalmen.json"
+    },
+    {
+      "quizId": "bibel_20_sprueche_en",
+      "category": "weisheit",
+      "title": "Proverbs",
+      "subtitle": "Proverbs 1:1 – 31:31 (92 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "1.0.0",
+      "questionCount": 92,
+      "difficulty": "medium",
+      "tags": [
+        "Proverbs",
+        "OT",
+        "wisdom",
+        "poetry",
+        "KJV"
+      ],
+      "sizeBytes": 87242,
+      "downloadUrl": "./en/20_sprueche.json"
     }
   ]
 }

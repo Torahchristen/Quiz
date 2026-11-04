@@ -1,0 +1,3152 @@
+{
+  "metadata": {
+    "quizId": "bibel_20_sprueche_en",
+    "title": "Proverbs",
+    "subtitle": "Proverbs 1:1 – 31:31 (92 questions)",
+    "author": "King James Version (1769)",
+    "version": "1.0.0",
+    "language": "en",
+    "category": "weisheit",
+    "difficulty": "medium",
+    "tags": [
+      "Proverbs",
+      "OT",
+      "wisdom",
+      "poetry",
+      "KJV"
+    ],
+    "questionCount": 92,
+    "canonicalBookNumber": 20,
+    "testament": "OT"
+  },
+  "questions": [
+    {
+      "questionId": "spr_001",
+      "type": "single_choice",
+      "text": "According to Proverbs 1:7, what is the beginning of knowledge?",
+      "options": [
+        {
+          "text": "The fear of the LORD",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The study of ancient laws",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The wisdom of the elders",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The experience of many years",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Proverbs 1:7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "spr_002",
+      "type": "single_choice",
+      "text": "What counsel doth the father give his son in Proverbs 1:10 if sinners entice him?",
+      "options": [
+        {
+          "text": "Stand thy ground and dispute with them in the gate",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Consent thou not, walk not in their evil way with them",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Accept their gifts but refrain from their deeds in secret",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Observe their path closely from afar to learn caution",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Proverbs 1:10-15",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "spr_003",
+      "type": "single_choice",
+      "text": "With what doth Proverbs 2 compare the diligent search for wisdom?",
+      "options": [
+        {
+          "text": "With the building of a strong fortress against foes",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With the tilling of a field and waiting for the rain",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "If thou seekest her as silver, and for hid treasures",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "With the training of a soldier in the skill of sword",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Proverbs 2:1-5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "spr_004",
+      "type": "single_choice",
+      "text": "In whom should man trust with all his heart according to Proverbs 3:5?",
+      "options": [
+        {
+          "text": "In the words of the wise elders and faithful priests",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In the abundance of riches gathered throughout his life",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In the strength of his own arm and the counsel of friends",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Trust in the LORD, and lean not unto thine own understanding",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Proverbs 3:5-6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "spr_005",
+      "type": "single_choice",
+      "text": "How should one receive the chastening of the LORD according to Proverbs 3:11-12?",
+      "options": [
+        {
+          "text": "Despise not the chastening of the LORD, neither be weary",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Flee far away from his rebuke and lament in deep sorrow",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Complain of his severity before the elders of the gate",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Seek after human healers to remove the heavy affliction",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Proverbs 3:11-12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "spr_006",
+      "type": "single_choice",
+      "text": "Unto what is the path of the just compared in Proverbs 4:18?",
+      "options": [
+        {
+          "text": "Unto a river that floweth silently through all the valley",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As the shining light, that shineth unto the perfect day",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Unto a cedar of Lebanon that withstandeth every tempest",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto a tower of brass that never can be shaken by storm",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Proverbs 4:18",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "spr_007",
+      "type": "single_choice",
+      "text": "What should man keep with all diligence according to Proverbs 4:23?",
+      "options": [
+        {
+          "text": "His tongue",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "His eyes",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "His heart",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "His feet",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Proverbs 4:23",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "spr_008",
+      "type": "single_choice",
+      "text": "Which creature is set before the sluggard as an example in Proverbs 6:6?",
+      "options": [
+        {
+          "text": "The spider",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The coney",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The locust",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The ant",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Proverbs 6:6-8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "spr_009",
+      "type": "single_choice",
+      "text": "How many things doth the LORD hate, and how many are an abomination unto him in Proverbs 6:16?",
+      "options": [
+        {
+          "text": "These six things doth the LORD hate: yea, seven are an abomination",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Four things he hateth in the earth, and five are an abomination",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Three things are hateful unto him, and four are an abomination",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Eight things are despised of God, and nine are an abomination",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Proverbs 6:16-19",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "spr_010",
+      "type": "single_choice",
+      "text": "How doth the strange woman approach the simple young man in Proverbs 7:13?",
+      "options": [
+        {
+          "text": "She inviteth him into her garden with sweet words of peace",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "She caught him, and kissed him, and with an impudent face spake",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "She sendeth her maidens to bring him secretly to her chamber",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "She offereh him precious gold and rich coverings of tapestry",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Proverbs 7:13-21",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "spr_011",
+      "type": "single_choice",
+      "text": "What doth wisdom declare in Proverbs 8:22 concerning her origin?",
+      "options": [
+        {
+          "text": "She was created in the days of the patriarchs before flood",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "She was born in the sacred temple of God upon Mount Zion",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The LORD possessed me in the beginning of his way, of old",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "She was given unto the kings of the earth at their rising",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Proverbs 8:22-31",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "spr_012",
+      "type": "single_choice",
+      "text": "How many pillars hath wisdom hewn out for her house according to Proverbs 9:1?",
+      "options": [
+        {
+          "text": "Twelve pillars",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Three pillars",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Ten pillars",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Seven pillars",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Proverbs 9:1-5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "spr_013",
+      "type": "single_choice",
+      "text": "What effect hath a wise son according to Proverbs 10:1?",
+      "options": [
+        {
+          "text": "A wise son maketh a glad father",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He increaseth the honour of his city",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He bringeth riches into his family",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He keepeth his inheritance from loss",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Proverbs 10:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "spr_014",
+      "type": "single_choice",
+      "text": "What doth the blessing of the LORD do according to Proverbs 10:22?",
+      "options": [
+        {
+          "text": "It giveth long life without sickness",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It maketh rich, and he addeth no sorrow with it",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "It giveth victory over all enemies in war",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It maketh a man honourable before all kings",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Proverbs 10:22",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "spr_015",
+      "type": "single_choice",
+      "text": "What is a false balance according to Proverbs 11:1?",
+      "options": [
+        {
+          "text": "An error of the merchant",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A folly before the elders",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "An abomination to the LORD",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A loss unto the city gate",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Proverbs 11:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "spr_016",
+      "type": "single_choice",
+      "text": "Unto what is the fruit of the righteous compared in Proverbs 11:30?",
+      "options": [
+        {
+          "text": "Unto a fountain of living waters",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto a fruitful field of good grain",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto a green vineyard upon the hill",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The fruit of the righteous is a tree of life",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Proverbs 11:30",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "spr_017",
+      "type": "single_choice",
+      "text": "What distinguisheth the righteous from the wicked in regard to animals in Proverbs 12:10?",
+      "options": [
+        {
+          "text": "A righteous man regardeth the life of his beast: but the wicked are cruel",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A righteous man offereth all his cattle in sacrifice, but the wicked spareth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A righteous man selleth his cattle for fair gain, but the wicked cheateth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A righteous man keepeth many flocks on hills, but the wicked neglecteth them",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Proverbs 12:10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "spr_018",
+      "type": "single_choice",
+      "text": "What doth Proverbs 13:24 say concerning him that spareth his rod?",
+      "options": [
+        {
+          "text": "He honoureth his son",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He hateth his son",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He loveth his son",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He spareth his son",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Proverbs 13:24",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "spr_019",
+      "type": "single_choice",
+      "text": "Whereunto leadeth a way which seemeth right unto a man according to Proverbs 14:12?",
+      "options": [
+        {
+          "text": "The end thereof are the riches of life",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The end thereof are the honours of men",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The end thereof are the ways of death",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The end thereof are the paths of peace",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Proverbs 14:12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "spr_020",
+      "type": "single_choice",
+      "text": "What effect hath a soft answer according to Proverbs 15:1?",
+      "options": [
+        {
+          "text": "It stirreth up great anger",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It increaseth bitter strife",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It hideth the deceit of man",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A soft answer turneth away wrath",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Proverbs 15:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "spr_021",
+      "type": "single_choice",
+      "text": "What do the eyes of the LORD behold in every place according to Proverbs 15:3?",
+      "options": [
+        {
+          "text": "Beholding the evil and the good",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Beholding only the prayers of saints",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Beholding the secret treasures of kings",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Beholding the offerings upon the altar",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Proverbs 15:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "spr_022",
+      "type": "single_choice",
+      "text": "What goeth before destruction and a haughty spirit before a fall in Proverbs 16:18?",
+      "options": [
+        {
+          "text": "Folly",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Pride",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Riches",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Sloth",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Proverbs 16:18",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "spr_023",
+      "type": "single_choice",
+      "text": "Of whom is the disposing of the lot according to Proverbs 16:33?",
+      "options": [
+        {
+          "text": "Of the cast of dice by the players",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Of blind fortune and circumstance",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The whole disposing thereof is of the LORD",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Of the royal decree of the monarch",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Proverbs 16:33",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "spr_024",
+      "type": "single_choice",
+      "text": "How is a true friend described in Proverbs 17:17?",
+      "options": [
+        {
+          "text": "He giveth gifts in secret and flattereth his companion",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He counselleth with pleasant words and avoideth dispute",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He shareth his worldly wealth and walketh in pleasure",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A friend loveth at all times, and a brother is born for adversity",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Proverbs 17:17",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "spr_025",
+      "type": "single_choice",
+      "text": "Unto what is the name of the LORD compared in Proverbs 18:10?",
+      "options": [
+        {
+          "text": "The name of the LORD is a strong tower: the righteous runneth into it",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Unto a sharp twoedged sword that fighteth for the oppressed in battle",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto a glorious golden crown upon the head of the righteous ruler",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto a deep overflowing river that watereth all the dry wilderness",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Proverbs 18:10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "spr_026",
+      "type": "single_choice",
+      "text": "Unto whom lendeth he that hath pity upon the poor according to Proverbs 19:17?",
+      "options": [
+        {
+          "text": "He lendeth unto the earthly king of the land",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He that hath pity upon the poor lendeth unto the LORD",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He lendeth unto the wise counsellors of city",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He lendeth unto the richest merchants in gate",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Proverbs 19:17",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "spr_027",
+      "type": "single_choice",
+      "text": "How are wine and strong drink described in Proverbs 20:1?",
+      "options": [
+        {
+          "text": "Wine is sweet to taste, strong drink maketh the spirit glad",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Wine is a noble gift, strong drink is a medicine for sorrow",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Wine is a mocker, strong drink is raging: deceived thereby is not wise",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Wine is dangerous only to the simple, strong drink befitteth kings",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Proverbs 20:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "spr_028",
+      "type": "single_choice",
+      "text": "What promise is given in Proverbs 22:6 for training up a child?",
+      "options": [
+        {
+          "text": "He shall inherit great riches and gain high honour in the gate",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He shall be delivered from all manner of sickness and affliction",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He shall become a ruler and judge over all his brethren in peace",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "When he is old, he will not depart from it",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Proverbs 22:6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "spr_029",
+      "type": "single_choice",
+      "text": "What command is given in Proverbs 22:28 concerning landmarks?",
+      "options": [
+        {
+          "text": "Remove not the ancient landmark, which thy fathers have set",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Enlarge thy boundaries continually at the expense of strangers",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Measure thy land yearly with the cords of the temple sanctuary",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Set new stones of boundary in every generation of thy children",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Proverbs 22:28",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "spr_030",
+      "type": "single_choice",
+      "text": "What shouldest thou do if thine enemy be hungry according to Proverbs 25:21?",
+      "options": [
+        {
+          "text": "Pass by on the other side and leave him in his great distress",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "If thine enemy be hungry, give him bread to eat",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Demand that he repent and confess his former transgressions",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Deliver him into the hands of the magistrate to be judged",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Proverbs 25:21-22",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "spr_031",
+      "type": "single_choice",
+      "text": "With what doth Proverbs 27:17 compare mutual influence between men?",
+      "options": [
+        {
+          "text": "As one fire kindleth another, so a companion comforteth his friend",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As one stream feedeth another, so a teacher instructeth his scholar",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Iron sharpeneth iron; so a man sharpeneth the countenance of his friend",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "As two trees grow together, so brothers support each other in life",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Proverbs 27:17",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "spr_032",
+      "type": "single_choice",
+      "text": "What is the fate of him that covereth his sins according to Proverbs 28:13?",
+      "options": [
+        {
+          "text": "He shall be forgiven by men but judged by the Almighty in heaven",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He shall prosper for a time, yet his memory shall vanish away",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He shall find peace among companions who know not his secret guilt",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He that covereth his sins shall not prosper: but whoso confesseth shall have mercy",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Proverbs 28:13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "spr_033",
+      "type": "single_choice",
+      "text": "What happeneth where there is no vision according to Proverbs 29:18?",
+      "options": [
+        {
+          "text": "Where there is no vision, the people perish",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The people become rich in worldly merchandise",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The enemies take the walled cities without war",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The elders lose their authority in the councils",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Proverbs 29:18",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "spr_034",
+      "type": "single_choice",
+      "text": "Above what is the price of a virtuous woman according to Proverbs 31:10?",
+      "options": [
+        {
+          "text": "Above refined silver",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Above fine gold of Ophir",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Her price is far above rubies",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Above all precious pearls",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Proverbs 31:10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "spr_035",
+      "type": "single_choice",
+      "text": "What doth Proverbs 31:11 say concerning the husband of a virtuous woman?",
+      "options": [
+        {
+          "text": "The heart of her husband doth safely trust in her",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Her husband is known as the richest among all merchants",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Her husband spendeth his days in ease and royal pleasure",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Her husband needeth no armour when he goeth forth to war",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Proverbs 31:11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "spr_036",
+      "type": "single_choice",
+      "text": "Where doth wisdom utter her voice according to Proverbs 1:20-21?",
+      "options": [
+        {
+          "text": "Wisdom crieth without; she uttereth her voice in the streets",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Within the secret chambers of the kings and royal counsellors",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In the desert places where no man passeth by through the way",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Only within the holy courts and sanctuaries of the priesthood",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Proverbs 1:20-21",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "spr_037",
+      "type": "single_choice",
+      "text": "Who giveth wisdom according to Proverbs 2:6?",
+      "options": [
+        {
+          "text": "The aged counsellors",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For the LORD giveth wisdom",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The teachers of the law",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The kings of the nations",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Proverbs 2:6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "spr_038",
+      "type": "single_choice",
+      "text": "From whom doth wisdom deliver the young man according to Proverbs 2:16?",
+      "options": [
+        {
+          "text": "From the violent robber lying in wait by the highway",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "From the false witness that uttereth lies in judgment",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "From the strange woman, which flattereth with her words",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "From the proud companion that walketh in scornful paths",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Proverbs 2:16-17",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "spr_039",
+      "type": "single_choice",
+      "text": "Wherewith should man honour the LORD according to Proverbs 3:9?",
+      "options": [
+        {
+          "text": "With solemn fastings and loud lamentations of spirit",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With building of high towers and monuments in the land",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With words of praise and vows made in the congregation",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Honour the LORD with thy substance, and with the firstfruits",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Proverbs 3:9-10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "spr_040",
+      "type": "single_choice",
+      "text": "What exhortation doth the father give in Proverbs 4:5-6?",
+      "options": [
+        {
+          "text": "Get wisdom, get understanding: forsake her not, she shall preserve thee",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Gather silver and gold while thou art young and retain thy possessions",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Seek after honour among the princes of the earth and defend thy house",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Keep silence before all elders and do not question their judgments",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Proverbs 4:5-6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "spr_041",
+      "type": "single_choice",
+      "text": "How is the mouth of a strange woman described in Proverbs 5:3-4?",
+      "options": [
+        {
+          "text": "Her lips speak folly, and her mouth is full of loud cursing and wrath",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Her lips drop as an honeycomb, but her end is bitter as wormwood",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Her words are as arrows that wound the heart of the simple wanderer",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Her speech is smooth as milk, but her heart deviseth bloody mischief",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Proverbs 5:3-4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "spr_042",
+      "type": "single_choice",
+      "text": "What metaphor is used in Proverbs 5:15 for marital fidelity?",
+      "options": [
+        {
+          "text": "Keep the fire burning continually upon thine own hearth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Plant a fruitful olive tree in the midst of thine own garden",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Drink waters out of thine own cistern, and running waters out of thine own well",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Build a strong wall around the inheritance of thy fathers",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Proverbs 5:15-18",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "spr_043",
+      "type": "single_choice",
+      "text": "What is said concerning the ways of man in Proverbs 5:21?",
+      "options": [
+        {
+          "text": "They are hidden in darkness from the eyes of the living",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They are determined by the stars and constellations above",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They are known only to the man himself in his secret mind",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The ways of man are before the eyes of the LORD",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Proverbs 5:21",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "spr_044",
+      "type": "single_choice",
+      "text": "How do the commandments of parents accompany the youth according to Proverbs 6:22?",
+      "options": [
+        {
+          "text": "When thou goest, it shall lead thee; when thou sleepest, it shall keep thee",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "They shall bring thee rich gifts and make thee a prince among thy people",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They shall give thee victory over all thy foes and crown thee with gold",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They shall preserve thy body from all manner of disease and early decay",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Proverbs 6:20-22",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "spr_045",
+      "type": "single_choice",
+      "text": "What shouldest thou say unto wisdom according to Proverbs 7:4?",
+      "options": [
+        {
+          "text": "Thou art my glorious queen",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Say unto wisdom, Thou art my sister",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Thou art my everlasting light",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Thou art my loving mother",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Proverbs 7:4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "spr_046",
+      "type": "single_choice",
+      "text": "Unto what is the seduced youth compared in Proverbs 7:22?",
+      "options": [
+        {
+          "text": "Unto a fish caught in a deadly net of silk",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto a sheep wandering into the wilderness",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As an ox goeth to the slaughter, or as a fool to the stocks",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Unto a young lion falling into a deep pitfall",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Proverbs 7:22-23",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "spr_047",
+      "type": "single_choice",
+      "text": "What is the fear of the LORD according to Proverbs 8:13?",
+      "options": [
+        {
+          "text": "To study the commandments of the law",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To keep the solemn fasts continually",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To visit the holy temples of worship",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The fear of the LORD is to hate evil",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Proverbs 8:13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "spr_048",
+      "type": "single_choice",
+      "text": "What is promised to him that findeth wisdom in Proverbs 8:35?",
+      "options": [
+        {
+          "text": "Whoso findeth me findeth life, and shall obtain favour of the LORD",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He shall become a mighty king and rule over all the nations of earth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He shall never suffer disease and shall attain to many years of life",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He shall obtain great treasures of silver and high honour before men",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Proverbs 8:35",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "spr_050",
+      "type": "single_choice",
+      "text": "How doth foolishness entice in Proverbs 9:17?",
+      "options": [
+        {
+          "text": "Whoso followeth me shall have great abundance of corn and sweet wine",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Whoso cometh unto me shall become wise and obtain deep understanding",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Stolen waters are sweet, and bread eaten in secret is pleasant",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "My house is an habitation of rest and safety for all weary strangers",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Proverbs 9:17-18",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "spr_051",
+      "type": "single_choice",
+      "text": "What contrast is stated in Proverbs 10:4?",
+      "options": [
+        {
+          "text": "The sluggard remaineth rich, but the diligent man is brought low",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The sluggard sleepeth late, but the diligent man prayeth early",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The sluggard learneth not, but the diligent man is exalted in gate",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He becometh poor that dealeth with a slack hand: but the diligent maketh rich",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Proverbs 10:4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "spr_052",
+      "type": "single_choice",
+      "text": "What followeth when pride cometh according to Proverbs 11:2?",
+      "options": [
+        {
+          "text": "When pride cometh, then cometh shame: but with lowly is wisdom",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "When pride cometh, then cometh wealth: but with lowly is poverty",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "When pride cometh, then cometh honour: but with lowly is disgrace",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "When pride cometh, then cometh power: but with lowly is weakness",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Proverbs 11:2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "spr_053",
+      "type": "single_choice",
+      "text": "Who loveth knowledge according to Proverbs 12:1?",
+      "options": [
+        {
+          "text": "He that seeketh after riches",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Whoso loveth instruction",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He that listeneth to scorners",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He that remaineth at ease",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Proverbs 12:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "spr_054",
+      "type": "single_choice",
+      "text": "What is the tongue of the wise according to Proverbs 12:18?",
+      "options": [
+        {
+          "text": "It is as a sword",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It is vain and dumb",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The tongue of the wise is health",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "It is smoother than oil",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Proverbs 12:18",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "spr_055",
+      "type": "single_choice",
+      "text": "How doth a wise son behave according to Proverbs 13:1?",
+      "options": [
+        {
+          "text": "He followeth his own counsel in all matters",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He walketh in the way of his own desires",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He keepeth silence before all his companions",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A wise son heareth his father’s instruction",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Proverbs 13:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "spr_056",
+      "type": "single_choice",
+      "text": "What is the effect of walking with wise men according to Proverbs 13:20?",
+      "options": [
+        {
+          "text": "He that walketh with wise men shall be wise",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He that walketh with wise men shall be proud",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He that walketh with wise men shall be rich",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He that walketh with wise men shall be slothful",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Proverbs 13:20",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "spr_057",
+      "type": "single_choice",
+      "text": "What doth every wise woman do according to Proverbs 14:1?",
+      "options": [
+        {
+          "text": "She gathereth precious garments",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Every wise woman buildeth her house",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "She ruleth over the whole city gate",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "She keepeth silence in her chamber",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Proverbs 14:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "spr_058",
+      "type": "single_choice",
+      "text": "What exalteth a nation according to Proverbs 14:34?",
+      "options": [
+        {
+          "text": "Abundant riches",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A mighty army",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Righteousness",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Worldly power",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Proverbs 14:34",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "spr_059",
+      "type": "single_choice",
+      "text": "What doth a merry heart do according to Proverbs 15:13?",
+      "options": [
+        {
+          "text": "It bringeth great riches to the house",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It delivereth the body from all sickness",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It maketh the mind proud and haughty",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A merry heart maketh a cheerful countenance",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Proverbs 15:13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "spr_060",
+      "type": "single_choice",
+      "text": "Who directeth a man's steps according to Proverbs 16:9?",
+      "options": [
+        {
+          "text": "The LORD directeth his steps",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The man's own strong will",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The shifting wind of fortune",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The counsel of wise rulers",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Proverbs 16:9",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "spr_061",
+      "type": "single_choice",
+      "text": "With what is the trying of hearts by the LORD compared in Proverbs 17:3?",
+      "options": [
+        {
+          "text": "With the stormy wind and the floods of the wilderness",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The fining pot is for silver, and the furnace for gold",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "With the balances of the merchant in the market place",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With the hammer upon the stone and the chisel on wood",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Proverbs 17:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "spr_062",
+      "type": "single_choice",
+      "text": "What doth a merry heart do according to Proverbs 17:22?",
+      "options": [
+        {
+          "text": "It maketh the body strong",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It maketh the eyes clear",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A merry heart doeth good like a medicine",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "It maketh the spirit bold",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Proverbs 17:22",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "spr_063",
+      "type": "single_choice",
+      "text": "What are in the power of the tongue according to Proverbs 18:21?",
+      "options": [
+        {
+          "text": "Wisdom and folly among companions",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Riches and poverty in earthly life",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Honour and reproach before princes",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Death and life are in the power of the tongue",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Proverbs 18:21",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "spr_064",
+      "type": "single_choice",
+      "text": "What hath he found who findeth a wife according to Proverbs 18:22?",
+      "options": [
+        {
+          "text": "Whoso findeth a wife findeth a good thing, and obtaineth favour",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He findeth great riches and winneth high honour in the gate",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He findeth constant peace and is delivered from all sadness",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He findeth a faithful helper and shall possess many children",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Proverbs 18:22",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "spr_065",
+      "type": "single_choice",
+      "text": "Who is better than he that is perverse in his lips according to Proverbs 19:1?",
+      "options": [
+        {
+          "text": "A king that ruleth in great majesty and power",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Better is the poor that walketh in his integrity",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A merchant that hath gathered much gold in life",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A warrior that hath won many victories in battle",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Proverbs 19:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "spr_066",
+      "type": "single_choice",
+      "text": "What shall stand according to Proverbs 19:21?",
+      "options": [
+        {
+          "text": "The vain imaginations of the heart",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The strong fortified walls of city",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The counsel of the LORD, that shall stand",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The royal decrees of earthly rulers",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Proverbs 19:21",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "spr_067",
+      "type": "single_choice",
+      "text": "By what is even a child known according to Proverbs 20:11?",
+      "options": [
+        {
+          "text": "By his noble kindred",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By his daily speech",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By his outward beauty",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Even a child is known by his doings",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Proverbs 20:11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "spr_068",
+      "type": "single_choice",
+      "text": "What is the candle of the LORD according to Proverbs 20:27?",
+      "options": [
+        {
+          "text": "The spirit of man is the candle of the LORD",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The holy law written upon tablets of stone",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The sun that shineth upon the evil and good",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The prayer offered by the faithful in temple",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Proverbs 20:27",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "spr_069",
+      "type": "single_choice",
+      "text": "Whither doth the LORD turn the king's heart according to Proverbs 21:1?",
+      "options": [
+        {
+          "text": "Toward the nations that seek after his alliance",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As rivers of water: he turneth it whithersoever he will",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Toward the accumulation of silver and gold in palace",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto the counsel of the wise scribes and recorders",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Proverbs 21:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "spr_070",
+      "type": "single_choice",
+      "text": "What is more acceptable to the LORD than sacrifice according to Proverbs 21:3?",
+      "options": [
+        {
+          "text": "To pray continually with loud words",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To fast many days in the sanctuary",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To do justice and judgment is more acceptable",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "To offer costly gifts upon the altar",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Proverbs 21:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "spr_071",
+      "type": "single_choice",
+      "text": "From whom is safety and victory according to Proverbs 21:31?",
+      "options": [
+        {
+          "text": "Of the host",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Of the horse",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Of the sword",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Safety is of the LORD",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Proverbs 21:31",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "spr_072",
+      "type": "single_choice",
+      "text": "What is rather to be chosen than great riches in Proverbs 22:1?",
+      "options": [
+        {
+          "text": "A good name is rather to be chosen than great riches",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A strong body that feareth neither labor nor heat",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A high position among the noble princes of city",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A fruitful vineyard with an abundance of sweet wine",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Proverbs 22:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "spr_073",
+      "type": "single_choice",
+      "text": "Why shouldest thou NOT labour to be rich according to Proverbs 23:4-5?",
+      "options": [
+        {
+          "text": "Because riches take away the quiet peace of mind",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For riches certainly make themselves wings as an eagle",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Because riches perish before the judgment of the law",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because riches divide the hearts of closest friends",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Proverbs 23:4-5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "spr_074",
+      "type": "single_choice",
+      "text": "What doth the father ask of his son in Proverbs 23:26?",
+      "options": [
+        {
+          "text": "His word",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "His gold",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "His heart",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "His time",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Proverbs 23:26",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "spr_075",
+      "type": "single_choice",
+      "text": "Concerning whom are the questions 'Who hath woe? who hath sorrow?' in Proverbs 23:29-30?",
+      "options": [
+        {
+          "text": "Concerning them that hasten early to market for merchandise",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Concerning them that seek after strange gods and false idols",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Concerning them that stir up contentions and angry brawls",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They that tarry long at the wine; they that go to seek mixed wine",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Proverbs 23:29-30",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "spr_076",
+      "type": "single_choice",
+      "text": "Through what is an house builded according to Proverbs 24:3-4?",
+      "options": [
+        {
+          "text": "Through wisdom is an house builded",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Through much silver and fine gold",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Through many strong building men",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Through the favor of earthly kings",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Proverbs 24:3-4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "spr_077",
+      "type": "single_choice",
+      "text": "What is commanded in Proverbs 24:11?",
+      "options": [
+        {
+          "text": "To punish them that transgress the law in the gate",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "If thou forbear to deliver them that are drawn unto death",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "To avoid all companions that walk in crooked paths",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To comfort them that mourn in secret in their house",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Proverbs 24:11-12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "spr_078",
+      "type": "single_choice",
+      "text": "How often doth a just man fall and rise up again in Proverbs 24:16?",
+      "options": [
+        {
+          "text": "Three times only, and then he riseth up again",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Once only in his youth, and riseth up again",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For a just man falleth seven times, and riseth up again",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Ten times in life, and then he riseth up again",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Proverbs 24:16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "spr_079",
+      "type": "single_choice",
+      "text": "What is the glory of God and the honour of kings in Proverbs 25:2?",
+      "options": [
+        {
+          "text": "God's glory is judgment; the king's honour is mercy to poor",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "God's glory is power; the king's honour is victory in battle",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "God's glory is holiness; the king's honour is just sentence",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It is glory of God to conceal a thing: honour of kings to search",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Proverbs 25:2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "spr_080",
+      "type": "single_choice",
+      "text": "Unto what is a word fitly spoken compared in Proverbs 25:11?",
+      "options": [
+        {
+          "text": "A word fitly spoken is like apples of gold in pictures of silver",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Unto a pearl of great price found in the depths of the ocean",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto a river of refreshing water in the parched desert sand",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto a shining jewel set in the crown of a righteous monarch",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Proverbs 25:11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "spr_081",
+      "type": "single_choice",
+      "text": "With what doth Proverbs 26:1 compare honour for a fool?",
+      "options": [
+        {
+          "text": "With fire in the winter and dew upon the mown grass",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As snow in summer, and as rain in harvest, so honour is not seemly",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "With oil poured upon water and light in the dark cave",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With wine given to a sick child and a jewel on swine",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Proverbs 26:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "spr_082",
+      "type": "single_choice",
+      "text": "What counsel is given in Proverbs 26:4-5 concerning answering a fool?",
+      "options": [
+        {
+          "text": "Flee from him at once and enter not into conversation",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Chastise him with the rod and mock his foolish words",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Answer not a fool according to his folly, and yet answer him",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Praise his saying before the elders to reveal his shame",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Proverbs 26:4-5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "spr_083",
+      "type": "single_choice",
+      "text": "What ceaseth where there is no talebearer according to Proverbs 26:20?",
+      "options": [
+        {
+          "text": "The burning wrath breaketh out at once",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The bitter shame tarrieth in the house",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The joyful feast beginneth in the gate",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Where there is no talebearer, the strife ceaseth",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Proverbs 26:20",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "spr_084",
+      "type": "single_choice",
+      "text": "Against what doth Proverbs 27:1 warn?",
+      "options": [
+        {
+          "text": "Boast not thyself of to morrow",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Boasting of thy hidden treasures",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Boasting of thy noble ancestry",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Boasting of thine own wisdom",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Proverbs 27:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "spr_085",
+      "type": "single_choice",
+      "text": "What is said concerning the wounds of a friend in Proverbs 27:6?",
+      "options": [
+        {
+          "text": "They destroy the body",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Faithful are the wounds of a friend",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "They pass away quickly",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They call for revenge",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Proverbs 27:6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "spr_086",
+      "type": "single_choice",
+      "text": "How do the wicked and the righteous differ according to Proverbs 28:1?",
+      "options": [
+        {
+          "text": "The wicked perish in youth, but the righteous attain old age",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The wicked seek after war, but the righteous delight in peace",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The wicked flee when no man pursueth: but righteous are bold as lion",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The wicked gather silver, but the righteous inherit wisdom",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Proverbs 28:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "spr_087",
+      "type": "single_choice",
+      "text": "What is the prayer of him that turneth away his ear from hearing the law in Proverbs 28:9?",
+      "options": [
+        {
+          "text": "It is unheard before the throne of God",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It is mocked and rejected among all men",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It bringeth sorrow instead of blessing",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Even his prayer shall be abomination",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Proverbs 28:9",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "spr_088",
+      "type": "single_choice",
+      "text": "What shall happen to him that being often reproved hardeneth his neck in Proverbs 29:1?",
+      "options": [
+        {
+          "text": "Shall suddenly be destroyed, and that without remedy",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Shall slowly become impoverished before all the nations",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Shall wander solitary throughout the parched wilderness",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Shall flee in utter shame and confusion from his enemies",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Proverbs 29:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "spr_089",
+      "type": "single_choice",
+      "text": "What doth the fear of man bring according to Proverbs 29:25?",
+      "options": [
+        {
+          "text": "Great worldly wisdom",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The fear of man bringeth a snare",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Honour among princes",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Deliverance from foes",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Proverbs 29:25",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "spr_090",
+      "type": "single_choice",
+      "text": "What two things doth Agur require of the LORD in Proverbs 30:7-8?",
+      "options": [
+        {
+          "text": "Victory over enemies and long peaceful life in the land",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Wisdom of Solomon and understanding to judge the people",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Remove far from me vanity and lies: give me neither poverty nor riches",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Great abundance of cattle and an inheritance for children",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Proverbs 30:7-9",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "spr_091",
+      "type": "single_choice",
+      "text": "Which four things are little upon the earth, but exceeding wise in Proverbs 30:24-28?",
+      "options": [
+        {
+          "text": "Bees, swallows, falcons, and doves",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Foxes, wolves, serpents, and ravens",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Butterflies, sparrows, moths, and flies",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The ants, the conies, the locusts, and the spider",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Proverbs 30:24-28",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "spr_092",
+      "type": "single_choice",
+      "text": "What did the mother of Lemuel say was NOT for kings in Proverbs 31:4?",
+      "options": [
+        {
+          "text": "It is not for kings, O Lemuel, to drink wine; nor for princes strong drink",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "To ride upon horses of Egypt and to multiply wives unto themselves",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To gather silver and gold and to lay heavy taxes upon the poor",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To take counsel with youthful companions and despise the aged men",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Proverbs 31:4-5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "spr_093",
+      "type": "single_choice",
+      "text": "What is vain and deceitful according to Proverbs 31:30?",
+      "options": [
+        {
+          "text": "Riches and worldly honour",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Favour is deceitful, and beauty is vain",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Pride and earthly renown",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Youth and bodily strength",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Proverbs 31:30",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    }
+  ]
+}
