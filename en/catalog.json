@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-11-04T21:33:27Z",
+  "lastUpdated": "2026-11-04T21:50:24Z",
   "language": "en",
   "categories": [
     {
@@ -367,6 +367,25 @@
       ],
       "sizeBytes": 28295,
       "downloadUrl": "./en/17_esther.json"
+    },
+    {
+      "quizId": "bibel_18_hiob_en",
+      "category": "weisheit",
+      "title": "Job",
+      "subtitle": "Job 1:1 – 42:17 (141 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "1.0.0",
+      "questionCount": 141,
+      "difficulty": "medium",
+      "tags": [
+        "Job",
+        "OT",
+        "wisdom",
+        "KJV"
+      ],
+      "sizeBytes": 143036,
+      "downloadUrl": "./en/18_hiob.json"
     }
   ]
 }

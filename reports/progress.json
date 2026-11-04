@@ -1,7 +1,7 @@
 {
   "branch": "review-and-english",
   "totalFiles": 66,
-  "completedCount": 17,
+  "completedCount": 18,
   "completedFiles": [
     "01_1_mose.json",
     "02_2_mose.json",
@@ -19,10 +19,10 @@
     "14_2_chronik.json",
     "15_esra.json",
     "16_nehemia.json",
-    "17_esther.json"
+    "17_esther.json",
+    "18_hiob.json"
   ],
   "pendingFiles": [
-    "18_hiob.json",
     "19_psalmen.json",
     "20_sprueche.json",
     "21_prediger.json",
@@ -191,6 +191,13 @@
       "explanationsReviewedEn": 1,
       "reportPath": "reports/17_esther.md",
       "enPath": "en/17_esther.json"
+    },
+    "18_hiob.json": {
+      "questionsCount": 141,
+      "explanationsReviewedDe": 1,
+      "explanationsReviewedEn": 1,
+      "reportPath": "reports/18_hiob.md",
+      "enPath": "en/18_hiob.json"
     }
   }
 }
