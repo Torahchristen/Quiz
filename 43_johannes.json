@@ -24,60 +24,60 @@
     {
       "questionId": "joh_001",
       "type": "single_choice",
-      "text": "Welcher Zustand wird dem Wort Gottes im einleitenden Prolog vor Grundlegung der Welt zugeschrieben?",
+      "text": "Was wird im Anfang über das Wort bezeugt (Johannes 1:1-2)?",
       "options": [
         {
           "text": "Es war ein Geschöpf aus den Engeln",
-          "explanation": "Das trifft nicht zu. Richtig ist: Es war bei Gott, und Gott war das Wort [ref:Johannes 1:1-2]."
+          "explanation": ""
         },
         {
           "text": "Es war bei Gott, und Gott war das Wort",
-          "explanation": "Im Anfang war das Wort, und das Wort war bei Gott, und das Wort war Gott [ref:Johannes 1:1-2]."
+          "explanation": ""
         },
         {
           "text": "Es entstand erst mit der Schöpfung",
-          "explanation": "Das trifft nicht zu. Richtig ist: Es war bei Gott, und Gott war das Wort [ref:Johannes 1:1-2]."
+          "explanation": ""
         },
         {
           "text": "Es war nur ein Gedanke des Vaters",
-          "explanation": "Das trifft nicht zu. Richtig ist: Es war bei Gott, und Gott war das Wort [ref:Johannes 1:1-2]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Johannes 1:1-2",
-      "explanation": "Im Anfang war das Wort, und das Wort war bei Gott, und das Wort war Gott [ref:Johannes 1:1-2].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "joh_002",
       "type": "single_choice",
-      "text": "Was geschah nach dem Zeugnis des Johannesevangeliums mit dem ewigen Gotteswort?",
+      "text": "Was geschah nach Johannes 1:14 mit dem Wort?",
       "options": [
         {
           "text": "Es blieb als Geist im Himmel verborgen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Das Wort wurde Fleisch und wohnte unter uns [ref:Johannes 1:14]."
+          "explanation": ""
         },
         {
           "text": "Es erschien als Engel des Lichts",
-          "explanation": "Das trifft nicht zu. Richtig ist: Das Wort wurde Fleisch und wohnte unter uns [ref:Johannes 1:14]."
+          "explanation": ""
         },
         {
           "text": "Das Wort wurde Fleisch und wohnte unter uns",
-          "explanation": "Das Wort wurde Fleisch und wohnte unter uns, und wir sahen seine Herrlichkeit [ref:Johannes 1:14]."
+          "explanation": ""
         },
         {
           "text": "Es wurde als neues Gesetz gegeben",
-          "explanation": "Das trifft nicht zu. Richtig ist: Das Wort wurde Fleisch und wohnte unter uns [ref:Johannes 1:14]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Johannes 1:14",
-      "explanation": "Das Wort wurde Fleisch und wohnte unter uns, und wir sahen seine Herrlichkeit [ref:Johannes 1:14].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -87,27 +87,27 @@
       "text": "Welche Bezeichnung gab Johannes der Täufer Jesus, als Er auf ihn zukam?",
       "options": [
         {
-          "text": "Siehe, der Herrscher von Juda, der Israel erlösen wird",
-          "explanation": "Das trifft nicht zu. Richtig ist: Siehe, das ist Gottes Lamm, das der Welt Sünde trägt [ref:Johannes 1:29]."
+          "text": "Siehe, der verheißene König, der sein Volk Israel befreien wird!",
+          "explanation": ""
         },
         {
-          "text": "Siehe, der Prophet der Endzeit, der Elia gleich ist",
-          "explanation": "Das trifft nicht zu. Richtig ist: Siehe, das ist Gottes Lamm, das der Welt Sünde trägt [ref:Johannes 1:29]."
+          "text": "Siehe, der Prophet der Endzeit, der mit großem Eifer auftreten wird!",
+          "explanation": ""
         },
         {
-          "text": "Siehe, der Richter der Welt, der mit dem Feuer kommt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Siehe, das ist Gottes Lamm, das der Welt Sünde trägt [ref:Johannes 1:29]."
+          "text": "Siehe, der heilige Richter, der die ganze Welt mit Feuer reinigen wird!",
+          "explanation": ""
         },
         {
-          "text": "Siehe, das ist Gottes Lamm, das der Welt Sünde trägt",
-          "explanation": "Johannes der Täufer wies auf Jesus als das Lamm Gottes [ref:Johannes 1:29]."
+          "text": "Siehe, das Lamm Gottes, welches die Sünde der Welt hinwegnimmt!",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Johannes 1:29",
-      "explanation": "Johannes der Täufer wies auf Jesus als das Lamm Gottes [ref:Johannes 1:29].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -117,27 +117,27 @@
       "text": "Welcher Jünger brachte seinen Bruder Simon Petrus zu Jesus Christus?",
       "options": [
         {
-          "text": "Andreas, sein Bruder",
-          "explanation": "Andreas fand zuerst seinen Bruder Simon und führte ihn zu Jesus [ref:Johannes 1:40-42]."
+          "text": "Andreas, der Bruder des Petrus",
+          "explanation": ""
         },
         {
-          "text": "Philippus aus Bethsaida",
-          "explanation": "Das trifft nicht zu. Richtig ist: Andreas, sein Bruder [ref:Johannes 1:40-42]."
+          "text": "Philippus aus der Stadt Bethsaida",
+          "explanation": ""
         },
         {
           "text": "Johannes, der Sohn des Zebedäus",
-          "explanation": "Das trifft nicht zu. Richtig ist: Andreas, sein Bruder [ref:Johannes 1:40-42]."
+          "explanation": ""
         },
         {
-          "text": "Nathanael aus Kana",
-          "explanation": "Das trifft nicht zu. Richtig ist: Andreas, sein Bruder [ref:Johannes 1:40-42]."
+          "text": "Nathanael, der treue Mann aus Kana",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Johannes 1:40-42",
-      "explanation": "Andreas fand zuerst seinen Bruder Simon und führte ihn zu Jesus [ref:Johannes 1:40-42].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -148,26 +148,26 @@
       "options": [
         {
           "text": "Bei der Arbeit am See",
-          "explanation": "Das trifft nicht zu. Richtig ist: Unter dem Feigenbaum [ref:Johannes 1:47-49]."
+          "explanation": ""
         },
         {
           "text": "Unter dem Feigenbaum",
-          "explanation": "Jesus sagte zu Nathanael: Ehe dich Philippus rief, als du unter dem Feigenbaum warst, sah ich dich [ref:Johannes 1:47-49]."
+          "explanation": ""
         },
         {
           "text": "Beim Gebet im Tempel",
-          "explanation": "Das trifft nicht zu. Richtig ist: Unter dem Feigenbaum [ref:Johannes 1:47-49]."
+          "explanation": ""
         },
         {
           "text": "Am Zolltisch in Kapernaum",
-          "explanation": "Das trifft nicht zu. Richtig ist: Unter dem Feigenbaum [ref:Johannes 1:47-49]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Johannes 1:47-49",
-      "explanation": "Jesus sagte zu Nathanael: Ehe dich Philippus rief, als du unter dem Feigenbaum warst, sah ich dich [ref:Johannes 1:47-49].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -178,26 +178,26 @@
       "options": [
         {
           "text": "Die Vermehrung von Gerstenbroten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Verwandlung von Wasser in Wein [ref:Johannes 2:1-11]."
+          "explanation": ""
         },
         {
           "text": "Die Heilung der Mutter der Braut",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Verwandlung von Wasser in Wein [ref:Johannes 2:1-11]."
+          "explanation": ""
         },
         {
           "text": "Die Verwandlung von Wasser in Wein",
-          "explanation": "Das erste Zeichen tat Jesus in Kana in Galiläa und offenbarte seine Herrlichkeit [ref:Johannes 2:1-11]."
+          "explanation": ""
         },
         {
           "text": "Die Stillung eines Sturms",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Verwandlung von Wasser in Wein [ref:Johannes 2:1-11]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Johannes 2:1-11",
-      "explanation": "Das erste Zeichen tat Jesus in Kana in Galiläa und offenbarte seine Herrlichkeit [ref:Johannes 2:1-11].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -207,27 +207,27 @@
       "text": "Was tat Jesus bei der Reinigung des jerusalemer Tempels?",
       "options": [
         {
-          "text": "Er zahlte die Tempelsteuer für das Volk und kaufte die Opfertiere frei",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er trieb die Händler mit einer Geißel aus dem Tempel [ref:Johannes 2:13-17]."
+          "text": "Er entrichtete die Tempelsteuer für alle Armen des Volkes",
+          "explanation": ""
         },
         {
-          "text": "Er hielt eine Rede vor dem Hohen Rat und forderte die Priester heraus",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er trieb die Händler mit einer Geißel aus dem Tempel [ref:Johannes 2:13-17]."
+          "text": "Er forderte die Priester vor dem Hohen Rat zur Umkehr auf",
+          "explanation": ""
         },
         {
-          "text": "Er weihte das Haus mit Salböl und opferte dort ein Dankopfer",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er trieb die Händler mit einer Geißel aus dem Tempel [ref:Johannes 2:13-17]."
+          "text": "Er weihte die Hallen mit heiligem Öl und brachte Opfer dar",
+          "explanation": ""
         },
         {
-          "text": "Er trieb die Händler mit einer Geißel aus dem Tempel",
-          "explanation": "Jesus sprach: Macht nicht meines Vaters Haus zum Kaufhaus! [ref:Johannes 2:13-17]."
+          "text": "Er trieb sie mit einer Peitsche aus Stricken zum Tempel hinaus",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Johannes 2:13-17",
-      "explanation": "Jesus sprach: Macht nicht meines Vaters Haus zum Kaufhaus! [ref:Johannes 2:13-17].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -238,26 +238,26 @@
       "options": [
         {
           "text": "Den Tempel seines Leibes",
-          "explanation": "Jesus sprach: Brecht diesen Tempel ab, und in drei Tagen will ich ihn aufrichten; er redete aber von dem Tempel seines Leibes [ref:Johannes 2:18-22]."
+          "explanation": ""
         },
         {
           "text": "Den steinernen Tempel Salomos",
-          "explanation": "Das trifft nicht zu. Richtig ist: Den Tempel seines Leibes [ref:Johannes 2:18-22]."
+          "explanation": ""
         },
         {
           "text": "Das Heiligtum der Samariter",
-          "explanation": "Das trifft nicht zu. Richtig ist: Den Tempel seines Leibes [ref:Johannes 2:18-22]."
+          "explanation": ""
         },
         {
           "text": "Den Wohnsitz Gottes im Himmel",
-          "explanation": "Das trifft nicht zu. Richtig ist: Den Tempel seines Leibes [ref:Johannes 2:18-22]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Johannes 2:18-22",
-      "explanation": "Jesus sprach: Brecht diesen Tempel ab, und in drei Tagen will ich ihn aufrichten; er redete aber von dem Tempel seines Leibes [ref:Johannes 2:18-22].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -268,26 +268,26 @@
       "options": [
         {
           "text": "Weil sie kein Geld besaßen und seinem Dienst nichts beitragen konnten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil er alle kannte und wusste, was im Menschen war [ref:Johannes 2:23-25]."
+          "explanation": ""
         },
         {
           "text": "Weil er alle kannte und wusste, was im Menschen war",
-          "explanation": "Jesus vertraute sich ihnen nicht an, weil er alle kannte [ref:Johannes 2:23-25]."
+          "explanation": ""
         },
         {
           "text": "Weil die Römer die Stadt bewachten und jede Zusammenkunft verhinderten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil er alle kannte und wusste, was im Menschen war [ref:Johannes 2:23-25]."
+          "explanation": ""
         },
         {
           "text": "Weil das Gesetz es ihm verbot, sich Menschen so anzuvertrauen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil er alle kannte und wusste, was im Menschen war [ref:Johannes 2:23-25]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Johannes 2:23-25",
-      "explanation": "Jesus vertraute sich ihnen nicht an, weil er alle kannte [ref:Johannes 2:23-25].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -298,26 +298,26 @@
       "options": [
         {
           "text": "Sie flohen vor seiner Macht",
-          "explanation": "Das trifft nicht zu. Richtig ist: Seine Jünger glaubten an ihn [ref:Johannes 2:11]."
+          "explanation": ""
         },
         {
           "text": "Sie bauten ihm ein Haus",
-          "explanation": "Das trifft nicht zu. Richtig ist: Seine Jünger glaubten an ihn [ref:Johannes 2:11]."
+          "explanation": ""
         },
         {
           "text": "Seine Jünger glaubten an ihn",
-          "explanation": "Mit diesem Zeichen offenbarte Jesus seine Herrlichkeit, und seine Jünger glaubten an ihn [ref:Johannes 2:11]."
+          "explanation": ""
         },
         {
           "text": "Sie schwiegen aus Furcht",
-          "explanation": "Das trifft nicht zu. Richtig ist: Seine Jünger glaubten an ihn [ref:Johannes 2:11]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Johannes 2:11",
-      "explanation": "Mit diesem Zeichen offenbarte Jesus seine Herrlichkeit, und seine Jünger glaubten an ihn [ref:Johannes 2:11].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -328,26 +328,26 @@
       "options": [
         {
           "text": "Der Hohepriester Kaiphas, ein Sadduzäer",
-          "explanation": "Das trifft nicht zu. Richtig ist: Nikodemus, ein Oberster der Juden [ref:Johannes 3:1-2]."
+          "explanation": ""
         },
         {
           "text": "Josef von Arimathäa, ein Ratsherr",
-          "explanation": "Das trifft nicht zu. Richtig ist: Nikodemus, ein Oberster der Juden [ref:Johannes 3:1-2]."
+          "explanation": ""
         },
         {
           "text": "Gamaliel, ein Lehrer des Gesetzes",
-          "explanation": "Das trifft nicht zu. Richtig ist: Nikodemus, ein Oberster der Juden [ref:Johannes 3:1-2]."
+          "explanation": ""
         },
         {
           "text": "Nikodemus, ein Oberster der Juden",
-          "explanation": "Nikodemus kam bei Nacht zu Jesus und erkannte ihn als einen von Gott gekommenen Lehrer [ref:Johannes 3:1-2]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Johannes 3:1-2",
-      "explanation": "Nikodemus kam bei Nacht zu Jesus und erkannte ihn als einen von Gott gekommenen Lehrer [ref:Johannes 3:1-2].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -357,27 +357,27 @@
       "text": "Welche Bedingung nannte Jesus für das Schauen des Reiches Gottes?",
       "options": [
         {
-          "text": "Wer nicht aus Wasser und Geist geboren wird, kann nicht in das Reich Gottes kommen",
-          "explanation": "Jesus sagte zu Nikodemus: Es sei denn, dass jemand von neuem geboren werde, so kann er das Reich Gottes nicht sehen [ref:Johannes 3:3-5]."
+          "text": "Wenn jemand nicht aus Wasser und Geist geboren wird, kann er nicht in das Reich Gottes eingehen",
+          "explanation": ""
         },
         {
-          "text": "Wer alle Satzungen der Väter genau hält und keine Vorschrift jemals auslässt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Wer nicht aus Wasser und Geist geboren wird, kann nicht in das Reich Gottes kommen [ref:Johannes 3:3-5]."
+          "text": "Wer alle Satzungen der Väter genau hält und keine einzige Vorschrift jemals auslässt",
+          "explanation": ""
         },
         {
-          "text": "Wer drei Jahre lang im Heiligtum fastet und dort Gott dient und betet",
-          "explanation": "Das trifft nicht zu. Richtig ist: Wer nicht aus Wasser und Geist geboren wird, kann nicht in das Reich Gottes kommen [ref:Johannes 3:3-5]."
+          "text": "Wer drei Jahre lang im Heiligtum fastet und dort Tag und Nacht zu Gott fleht und betet",
+          "explanation": ""
         },
         {
-          "text": "Wer reichlich den Armen spendet und sein ganzes Vermögen verteilt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Wer nicht aus Wasser und Geist geboren wird, kann nicht in das Reich Gottes kommen [ref:Johannes 3:3-5]."
+          "text": "Wer reichlich den Armen spendet und sein ganzes weltliches Vermögen willig verteilt",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Johannes 3:3-5",
-      "explanation": "Jesus sagte zu Nikodemus: Es sei denn, dass jemand von neuem geboren werde, so kann er das Reich Gottes nicht sehen [ref:Johannes 3:3-5].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -388,26 +388,26 @@
       "options": [
         {
           "text": "Die Rettung Noahs in der Arche",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die erhöhte Schlange in der Wüste [ref:Johannes 3:14-15]."
+          "explanation": ""
         },
         {
           "text": "Die erhöhte Schlange in der Wüste",
-          "explanation": "Wie Mose in der Wüste die Schlange erhöht hat, so muss der Menschensohn erhöht werden [ref:Johannes 3:14-15]."
+          "explanation": ""
         },
         {
-          "text": "Das Opfer Isaaks",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die erhöhte Schlange in der Wüste [ref:Johannes 3:14-15]."
+          "text": "Das Opfer Isaaks auf dem Berge",
+          "explanation": ""
         },
         {
-          "text": "Das Wasser aus dem Felsen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die erhöhte Schlange in der Wüste [ref:Johannes 3:14-15]."
+          "text": "Das Quellwasser aus dem Felsen",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Johannes 3:14-15",
-      "explanation": "Wie Mose in der Wüste die Schlange erhöht hat, so muss der Menschensohn erhöht werden [ref:Johannes 3:14-15].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -418,26 +418,26 @@
       "options": [
         {
           "text": "Sein Zorn über die Heiden",
-          "explanation": "Das trifft nicht zu. Richtig ist: Seine Liebe zur Welt [ref:Johannes 3:16]."
+          "explanation": ""
         },
         {
           "text": "Sein Verlangen nach Tempelopfern",
-          "explanation": "Das trifft nicht zu. Richtig ist: Seine Liebe zur Welt [ref:Johannes 3:16]."
+          "explanation": ""
         },
         {
           "text": "Seine Liebe zur Welt",
-          "explanation": "Also hat Gott die Welt geliebt, dass er seinen eingeborenen Sohn gab [ref:Johannes 3:16]."
+          "explanation": ""
         },
         {
           "text": "Sein Wunsch nach einem neuen Gesetz",
-          "explanation": "Das trifft nicht zu. Richtig ist: Seine Liebe zur Welt [ref:Johannes 3:16]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Johannes 3:16",
-      "explanation": "Also hat Gott die Welt geliebt, dass er seinen eingeborenen Sohn gab [ref:Johannes 3:16].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -448,26 +448,26 @@
       "options": [
         {
           "text": "Er muss abnehmen, ich muss wachsen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er muss wachsen, ich aber muss abnehmen [ref:Johannes 3:30]."
+          "explanation": ""
         },
         {
           "text": "Wir sind beide gleich vor Gott",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er muss wachsen, ich aber muss abnehmen [ref:Johannes 3:30]."
+          "explanation": ""
         },
         {
           "text": "Ich bin der Herr, er ist mein Knecht",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er muss wachsen, ich aber muss abnehmen [ref:Johannes 3:30]."
+          "explanation": ""
         },
         {
           "text": "Er muss wachsen, ich aber muss abnehmen",
-          "explanation": "Johannes der Täufer erkannte, dass sein Dienst hinter dem Christus zurücktritt [ref:Johannes 3:30]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Johannes 3:30",
-      "explanation": "Johannes der Täufer erkannte, dass sein Dienst hinter dem Christus zurücktritt [ref:Johannes 3:30].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -477,27 +477,27 @@
       "text": "An welchem Brunnen begegnete Jesus der samaritanischen Frau mittags?",
       "options": [
         {
-          "text": "Am Jakobsbrunnen",
-          "explanation": "Jesus ruhte am Jakobsbrunnen bei Sichar und bat eine samaritische Frau um Wasser [ref:Johannes 4:5-7]."
+          "text": "Am Jakobsbrunnen bei Sichar",
+          "explanation": ""
         },
         {
-          "text": "Am Brunnen Abrahams bei Beerscheba",
-          "explanation": "Das trifft nicht zu. Richtig ist: Am Jakobsbrunnen [ref:Johannes 4:5-7]."
+          "text": "Am Brunnen bei Beerscheba",
+          "explanation": ""
         },
         {
-          "text": "Am Brunnen bei Jericho",
-          "explanation": "Das trifft nicht zu. Richtig ist: Am Jakobsbrunnen [ref:Johannes 4:5-7]."
+          "text": "Am Brunnen nahe bei Jericho",
+          "explanation": ""
         },
         {
           "text": "An der Quelle bei Bethlehem",
-          "explanation": "Das trifft nicht zu. Richtig ist: Am Jakobsbrunnen [ref:Johannes 4:5-7]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Johannes 4:5-7",
-      "explanation": "Jesus ruhte am Jakobsbrunnen bei Sichar und bat eine samaritische Frau um Wasser [ref:Johannes 4:5-7].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -508,26 +508,26 @@
       "options": [
         {
           "text": "Kühles Wasser aus dem tiefen Jakobsbrunnen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Lebendiges Wasser, das ewiges Leben gibt [ref:Johannes 4:10-14]."
+          "explanation": ""
         },
         {
           "text": "Lebendiges Wasser, das ewiges Leben gibt",
-          "explanation": "Wer von dem Wasser trinkt, das ich ihm gebe, den wird in Ewigkeit nicht dürsten [ref:Johannes 4:10-14]."
+          "explanation": ""
         },
         {
           "text": "Geweihtes Wasser aus dem Teich Bethesda",
-          "explanation": "Das trifft nicht zu. Richtig ist: Lebendiges Wasser, das ewiges Leben gibt [ref:Johannes 4:10-14]."
+          "explanation": ""
         },
         {
           "text": "Frisches Regenwasser aus den Zisternen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Lebendiges Wasser, das ewiges Leben gibt [ref:Johannes 4:10-14]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Johannes 4:10-14",
-      "explanation": "Wer von dem Wasser trinkt, das ich ihm gebe, den wird in Ewigkeit nicht dürsten [ref:Johannes 4:10-14].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -538,26 +538,26 @@
       "options": [
         {
           "text": "Nur im Tempel zu Jerusalem",
-          "explanation": "Das trifft nicht zu. Richtig ist: Im Geist und in der Wahrheit [ref:Johannes 4:23-24]."
+          "explanation": ""
         },
         {
           "text": "Nur auf dem Berg Garizim",
-          "explanation": "Das trifft nicht zu. Richtig ist: Im Geist und in der Wahrheit [ref:Johannes 4:23-24]."
+          "explanation": ""
         },
         {
           "text": "Im Geist und in der Wahrheit",
-          "explanation": "Gott ist Geist, und die ihn anbeten, müssen ihn im Geist und in der Wahrheit anbeten [ref:Johannes 4:23-24]."
+          "explanation": ""
         },
         {
           "text": "Mit reichen Tieropfern am Altar",
-          "explanation": "Das trifft nicht zu. Richtig ist: Im Geist und in der Wahrheit [ref:Johannes 4:23-24]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Johannes 4:23-24",
-      "explanation": "Gott ist Geist, und die ihn anbeten, müssen ihn im Geist und in der Wahrheit anbeten [ref:Johannes 4:23-24].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -568,26 +568,26 @@
       "options": [
         {
           "text": "Das ungesäuerte Brot der Feste, das er mit seinen Jüngern in Jerusalem aß",
-          "explanation": "Das trifft nicht zu. Richtig ist: Den Willen dessen zu tun, der ihn gesandt hat, und sein Werk zu vollenden [ref:Johannes 4:34]."
+          "explanation": ""
         },
         {
           "text": "Das Fasten im Gebet, das er lange in der Wüste geübt hatte und liebte",
-          "explanation": "Das trifft nicht zu. Richtig ist: Den Willen dessen zu tun, der ihn gesandt hat, und sein Werk zu vollenden [ref:Johannes 4:34]."
+          "explanation": ""
         },
         {
           "text": "Die Früchte des Landes, die er den Armen in Kana und Kapernaum schenkte",
-          "explanation": "Das trifft nicht zu. Richtig ist: Den Willen dessen zu tun, der ihn gesandt hat, und sein Werk zu vollenden [ref:Johannes 4:34]."
+          "explanation": ""
         },
         {
           "text": "Den Willen dessen zu tun, der ihn gesandt hat, und sein Werk zu vollenden",
-          "explanation": "Meine Speise ist die, dass ich tue den Willen des, der mich gesandt hat [ref:Johannes 4:34]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Johannes 4:34",
-      "explanation": "Meine Speise ist die, dass ich tue den Willen des, der mich gesandt hat [ref:Johannes 4:34].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -598,26 +598,26 @@
       "options": [
         {
           "text": "Durch sein Wort aus der Ferne: Dein Sohn lebt",
-          "explanation": "Der königliche Beamte glaubte dem Wort Jesu, und sein Sohn wurde in derselben Stunde gesund [ref:Johannes 4:46-54]."
+          "explanation": ""
         },
         {
           "text": "Durch Handauflegen am Bett des Kindes, das er persönlich besuchte",
-          "explanation": "Das trifft nicht zu. Richtig ist: Durch sein Wort aus der Ferne: Dein Sohn lebt [ref:Johannes 4:46-54]."
+          "explanation": ""
         },
         {
           "text": "Durch Waschen mit Salböl im Haus des königlichen Beamten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Durch sein Wort aus der Ferne: Dein Sohn lebt [ref:Johannes 4:46-54]."
+          "explanation": ""
         },
         {
           "text": "Durch dreitägiges Fasten im Haus und ein langes Gebet am Bett",
-          "explanation": "Das trifft nicht zu. Richtig ist: Durch sein Wort aus der Ferne: Dein Sohn lebt [ref:Johannes 4:46-54]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Johannes 4:46-54",
-      "explanation": "Der königliche Beamte glaubte dem Wort Jesu, und sein Sohn wurde in derselben Stunde gesund [ref:Johannes 4:46-54].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -627,27 +627,27 @@
       "text": "Wie lange war der Kranke am Teich Bethesda schon krank?",
       "options": [
         {
-          "text": "Zwölf Jahre",
-          "explanation": "Das trifft nicht zu. Richtig ist: Achtunddreißig Jahre [ref:Johannes 5:1-9]."
+          "text": "Seit zwölf Jahren",
+          "explanation": ""
         },
         {
           "text": "Achtunddreißig Jahre",
-          "explanation": "Der Kranke am Teich Bethesda war schon achtunddreißig Jahre krank; Jesus sprach: Steh auf, nimm dein Bett und geh! [ref:Johannes 5:1-9]."
+          "explanation": ""
         },
         {
-          "text": "Zwanzig Jahre",
-          "explanation": "Das trifft nicht zu. Richtig ist: Achtunddreißig Jahre [ref:Johannes 5:1-9]."
+          "text": "Seit zwanzig Jahren",
+          "explanation": ""
         },
         {
-          "text": "Vierzig Jahre",
-          "explanation": "Das trifft nicht zu. Richtig ist: Achtunddreißig Jahre [ref:Johannes 5:1-9]."
+          "text": "Seit vierzig Jahren",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Johannes 5:1-9",
-      "explanation": "Der Kranke am Teich Bethesda war schon achtunddreißig Jahre krank; Jesus sprach: Steh auf, nimm dein Bett und geh! [ref:Johannes 5:1-9].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -658,26 +658,26 @@
       "options": [
         {
           "text": "Dass er von den Kranken Geld verlangte und die Heilung verkaufte",
-          "explanation": "Das trifft nicht zu. Richtig ist: Dass er den Sabbat brach und sich Gott gleichmachte [ref:Johannes 5:16-18]."
+          "explanation": ""
         },
         {
           "text": "Dass er das Fasten missachtete und die Jünger dazu verleitete",
-          "explanation": "Das trifft nicht zu. Richtig ist: Dass er den Sabbat brach und sich Gott gleichmachte [ref:Johannes 5:16-18]."
+          "explanation": ""
         },
         {
           "text": "Dass er den Sabbat brach und sich Gott gleichmachte",
-          "explanation": "Die Juden suchten ihn zu töten, weil er den Sabbat brach und Gott seinen Vater nannte [ref:Johannes 5:16-18]."
+          "explanation": ""
         },
         {
           "text": "Dass er vor den Tempelwachen floh und sich verborgen hielt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Dass er den Sabbat brach und sich Gott gleichmachte [ref:Johannes 5:16-18]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Johannes 5:16-18",
-      "explanation": "Die Juden suchten ihn zu töten, weil er den Sabbat brach und Gott seinen Vater nannte [ref:Johannes 5:16-18].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -687,27 +687,27 @@
       "text": "Welche Verheißung gibt Jesus dem, der Sein Wort hört und glaubt?",
       "options": [
         {
-          "text": "Er wird reich und mächtig und herrscht im Reich Gottes",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er hat das ewige Leben und kommt nicht ins Gericht [ref:Johannes 5:24]."
+          "text": "Großen irdischen Besitz und langes Leben",
+          "explanation": ""
         },
         {
-          "text": "Er bleibt von allem Leid frei und hat nie mehr Not",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er hat das ewige Leben und kommt nicht ins Gericht [ref:Johannes 5:24]."
+          "text": "Ansehen vor den Fürsten dieser Welt",
+          "explanation": ""
         },
         {
-          "text": "Er wird Richter im Tempel und spricht Recht über das Volk",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er hat das ewige Leben und kommt nicht ins Gericht [ref:Johannes 5:24]."
+          "text": "Große Macht über alle seine Feinde",
+          "explanation": ""
         },
         {
-          "text": "Er hat das ewige Leben und kommt nicht ins Gericht",
-          "explanation": "Wer mein Wort hört und glaubt dem, der mich gesandt hat, der hat das ewige Leben [ref:Johannes 5:24]."
+          "text": "Ewiges Leben und kommt nicht ins Gericht",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Johannes 5:24",
-      "explanation": "Wer mein Wort hört und glaubt dem, der mich gesandt hat, der hat das ewige Leben [ref:Johannes 5:24].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -718,26 +718,26 @@
       "options": [
         {
           "text": "Sie zeugen von Christus selbst",
-          "explanation": "Ihr forscht in der Schrift, und sie ist es, die von mir zeugt [ref:Johannes 5:39-40]."
+          "explanation": ""
         },
         {
           "text": "Sie lehren weltliche Weisheit",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie zeugen von Christus selbst [ref:Johannes 5:39-40]."
+          "explanation": ""
         },
         {
           "text": "Sie dienen nur dem Priesteramt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie zeugen von Christus selbst [ref:Johannes 5:39-40]."
+          "explanation": ""
         },
         {
           "text": "Sie enthalten die Gesetze der Römer",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie zeugen von Christus selbst [ref:Johannes 5:39-40]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Johannes 5:39-40",
-      "explanation": "Ihr forscht in der Schrift, und sie ist es, die von mir zeugt [ref:Johannes 5:39-40].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -747,27 +747,27 @@
       "text": "Wer wird nach den Worten Jesu die ungläubigen Juden anklagen?",
       "options": [
         {
-          "text": "Elia",
-          "explanation": "Das trifft nicht zu. Richtig ist: Mose, auf den sie hoffen [ref:Johannes 5:45-47]."
+          "text": "Elia, der große Prophet",
+          "explanation": ""
         },
         {
           "text": "Mose, auf den sie hoffen",
-          "explanation": "Es ist einer, der euch verklagt: Mose, auf den ihr hofft [ref:Johannes 5:45-47]."
+          "explanation": ""
         },
         {
-          "text": "David",
-          "explanation": "Das trifft nicht zu. Richtig ist: Mose, auf den sie hoffen [ref:Johannes 5:45-47]."
+          "text": "David, der König Israels",
+          "explanation": ""
         },
         {
-          "text": "Die Engel des Gerichts",
-          "explanation": "Das trifft nicht zu. Richtig ist: Mose, auf den sie hoffen [ref:Johannes 5:45-47]."
+          "text": "Samuel, der treue Richter",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Johannes 5:45-47",
-      "explanation": "Es ist einer, der euch verklagt: Mose, auf den ihr hofft [ref:Johannes 5:45-47].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -778,26 +778,26 @@
       "options": [
         {
           "text": "Fünf Brote und drei Fische",
-          "explanation": "Das trifft nicht zu. Richtig ist: Fünf Gerstenbrote und zwei Fische [ref:Johannes 6:8-11]."
+          "explanation": ""
         },
         {
           "text": "Sieben Brote und wenige Fische",
-          "explanation": "Das trifft nicht zu. Richtig ist: Fünf Gerstenbrote und zwei Fische [ref:Johannes 6:8-11]."
+          "explanation": ""
         },
         {
           "text": "Fünf Gerstenbrote und zwei Fische",
-          "explanation": "Ein Knabe hatte fünf Gerstenbrote und zwei Fische; Jesus dankte und gab sie den Gelagerten [ref:Johannes 6:8-11]."
+          "explanation": ""
         },
         {
           "text": "Zehn Brote für die Apostel",
-          "explanation": "Das trifft nicht zu. Richtig ist: Fünf Gerstenbrote und zwei Fische [ref:Johannes 6:8-11]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Johannes 6:8-11",
-      "explanation": "Ein Knabe hatte fünf Gerstenbrote und zwei Fische; Jesus dankte und gab sie den Gelagerten [ref:Johannes 6:8-11].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -808,26 +808,26 @@
       "options": [
         {
           "text": "Ich bin der Weinstock",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ich bin das Brot des Lebens [ref:Johannes 6:35]."
+          "explanation": ""
         },
         {
           "text": "Ich bin der gute Hirte",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ich bin das Brot des Lebens [ref:Johannes 6:35]."
+          "explanation": ""
         },
         {
           "text": "Ich bin das Licht der Welt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ich bin das Brot des Lebens [ref:Johannes 6:35]."
+          "explanation": ""
         },
         {
           "text": "Ich bin das Brot des Lebens",
-          "explanation": "Wer zu mir kommt, den wird nicht hungern, und wer an mich glaubt, den wird nimmermehr dürsten [ref:Johannes 6:35]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Johannes 6:35",
-      "explanation": "Wer zu mir kommt, den wird nicht hungern, und wer an mich glaubt, den wird nimmermehr dürsten [ref:Johannes 6:35].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -838,26 +838,26 @@
       "options": [
         {
           "text": "Er ist das lebendige Brot, das vom Himmel kommt, damit man ewig lebt",
-          "explanation": "Eure Väter haben das Manna gegessen und sind gestorben; wer von diesem Brot isst, wird leben in Ewigkeit [ref:Johannes 6:48-51]."
+          "explanation": ""
         },
         {
           "text": "Er ist wie das Blut der Opfertiere, das die Sünden des Volkes sühnt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er ist das lebendige Brot, das vom Himmel kommt, damit man ewig lebt [ref:Johannes 6:48-51]."
+          "explanation": ""
         },
         {
           "text": "Er ist wie die Speise der Propheten, die in der Wüste gestärkt wurden",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er ist das lebendige Brot, das vom Himmel kommt, damit man ewig lebt [ref:Johannes 6:48-51]."
+          "explanation": ""
         },
         {
           "text": "Er ist wie das Mehl im Heiligtum, das auf dem Altar geopfert wird",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er ist das lebendige Brot, das vom Himmel kommt, damit man ewig lebt [ref:Johannes 6:48-51]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Johannes 6:48-51",
-      "explanation": "Eure Väter haben das Manna gegessen und sind gestorben; wer von diesem Brot isst, wird leben in Ewigkeit [ref:Johannes 6:48-51].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -868,26 +868,26 @@
       "options": [
         {
           "text": "Sie bauten eine Hütte und feierten das Laubhüttenfest mit ihm",
-          "explanation": "Das trifft nicht zu. Richtig ist: Viele wandten sich ab und gingen nicht mehr mit ihm [ref:Johannes 6:60-66]."
+          "explanation": ""
         },
         {
           "text": "Viele wandten sich ab und gingen nicht mehr mit ihm",
-          "explanation": "Das ist eine harte Rede, wer kann sie hören? [ref:Johannes 6:60-66]."
+          "explanation": ""
         },
         {
           "text": "Sie dienten ihm mit Freuden und folgten ihm noch eifriger nach",
-          "explanation": "Das trifft nicht zu. Richtig ist: Viele wandten sich ab und gingen nicht mehr mit ihm [ref:Johannes 6:60-66]."
+          "explanation": ""
         },
         {
           "text": "Sie forderten ein neues Zeichen und blieben bei ihm sitzen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Viele wandten sich ab und gingen nicht mehr mit ihm [ref:Johannes 6:60-66]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Johannes 6:60-66",
-      "explanation": "Das ist eine harte Rede, wer kann sie hören? [ref:Johannes 6:60-66].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -898,26 +898,26 @@
       "options": [
         {
           "text": "Du bist der König von Israel, der das Reich Davids aufrichten wird",
-          "explanation": "Das trifft nicht zu. Richtig ist: Herr, wohin sollen wir gehen? Du hast Worte des ewigen Lebens [ref:Johannes 6:68-69]."
+          "explanation": ""
         },
         {
           "text": "Du bist der Wiedergekommene, von dem die Propheten geredet haben",
-          "explanation": "Das trifft nicht zu. Richtig ist: Herr, wohin sollen wir gehen? Du hast Worte des ewigen Lebens [ref:Johannes 6:68-69]."
+          "explanation": ""
         },
         {
           "text": "Herr, wohin sollen wir gehen? Du hast Worte des ewigen Lebens",
-          "explanation": "Petrus bekannte: Wir haben geglaubt und erkannt, dass du bist der Heilige Gottes [ref:Johannes 6:68-69]."
+          "explanation": ""
         },
         {
           "text": "Du bist der Hohepriester, der den Bund für uns erneuern wird",
-          "explanation": "Das trifft nicht zu. Richtig ist: Herr, wohin sollen wir gehen? Du hast Worte des ewigen Lebens [ref:Johannes 6:68-69]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Johannes 6:68-69",
-      "explanation": "Petrus bekannte: Wir haben geglaubt und erkannt, dass du bist der Heilige Gottes [ref:Johannes 6:68-69].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -928,26 +928,26 @@
       "options": [
         {
           "text": "Weil sie das Gesetz verwarfen und die Gebote des Mose nicht achteten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil sie rein menschlich dachten und nicht an ihn glaubten [ref:Johannes 7:3-5]."
+          "explanation": ""
         },
         {
           "text": "Weil sie den Tempel mieden und in Nazareth bleiben wollten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil sie rein menschlich dachten und nicht an ihn glaubten [ref:Johannes 7:3-5]."
+          "explanation": ""
         },
         {
           "text": "Weil sie die Römer fürchteten und keine Unruhe im Haus wollten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil sie rein menschlich dachten und nicht an ihn glaubten [ref:Johannes 7:3-5]."
+          "explanation": ""
         },
         {
           "text": "Weil sie rein menschlich dachten und nicht an ihn glaubten",
-          "explanation": "Auch seine Brüder glaubten nicht an ihn [ref:Johannes 7:3-5]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Johannes 7:3-5",
-      "explanation": "Auch seine Brüder glaubten nicht an ihn [ref:Johannes 7:3-5].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -958,26 +958,26 @@
       "options": [
         {
           "text": "Das Laubhüttenfest",
-          "explanation": "Das Fest der Juden, die Laubhütten, war nahe [ref:Johannes 7:2-14]."
+          "explanation": ""
         },
         {
           "text": "Das Passafest",
-          "explanation": "Das trifft nicht zu. Richtig ist: Das Laubhüttenfest [ref:Johannes 7:2-14]."
+          "explanation": ""
         },
         {
           "text": "Das Wochenfest",
-          "explanation": "Das trifft nicht zu. Richtig ist: Das Laubhüttenfest [ref:Johannes 7:2-14]."
+          "explanation": ""
         },
         {
           "text": "Das Tempelweihfest",
-          "explanation": "Das trifft nicht zu. Richtig ist: Das Laubhüttenfest [ref:Johannes 7:2-14]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Johannes 7:2-14",
-      "explanation": "Das Fest der Juden, die Laubhütten, war nahe [ref:Johannes 7:2-14].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -988,26 +988,26 @@
       "options": [
         {
           "text": "Wer glaubt, wird reich an Gold und Silber und lebt in Fülle und Überfluss",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ströme lebendigen Wassers werden aus dem Leib dessen fließen, der an ihn glaubt [ref:Johannes 7:37-39]."
+          "explanation": ""
         },
         {
           "text": "Ströme lebendigen Wassers werden aus dem Leib dessen fließen, der an ihn glaubt",
-          "explanation": "Am letzten, großen Tag des Festes rief Jesus: Wen dürstet, der komme zu mir und trinke! [ref:Johannes 7:37-39]."
+          "explanation": ""
         },
         {
           "text": "Wer dürstet, erhält ein eigenes Feld und eine Quelle im eigenen Land",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ströme lebendigen Wassers werden aus dem Leib dessen fließen, der an ihn glaubt [ref:Johannes 7:37-39]."
+          "explanation": ""
         },
         {
           "text": "Wer fastet, sieht Gottes Thron und die Herrlichkeit des Himmels offen vor sich",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ströme lebendigen Wassers werden aus dem Leib dessen fließen, der an ihn glaubt [ref:Johannes 7:37-39]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Johannes 7:37-39",
-      "explanation": "Am letzten, großen Tag des Festes rief Jesus: Wen dürstet, der komme zu mir und trinke! [ref:Johannes 7:37-39].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -1017,27 +1017,27 @@
       "text": "Was antworteten die Tempeldiener den Hohenpriestern nach ihrem Auftrag?",
       "options": [
         {
-          "text": "Wir haben ihn im Volk nicht gefunden",
-          "explanation": "Das trifft nicht zu. Richtig ist: Nie hat ein Mensch so geredet wie dieser [ref:Johannes 7:45-46]."
+          "text": "Wir konnten ihn im Tempel nicht greifen",
+          "explanation": ""
         },
         {
-          "text": "Er ist vor unseren Schwertern geflohen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Nie hat ein Mensch so geredet wie dieser [ref:Johannes 7:45-46]."
+          "text": "Er entwich aus unseren Händen hinweg",
+          "explanation": ""
         },
         {
           "text": "Nie hat ein Mensch so geredet wie dieser",
-          "explanation": "Die Knechte konnten Jesus nicht ergreifen, weil sie von seinen Worten überwältigt waren [ref:Johannes 7:45-46]."
+          "explanation": ""
         },
         {
-          "text": "Das Volk beschützt ihn",
-          "explanation": "Das trifft nicht zu. Richtig ist: Nie hat ein Mensch so geredet wie dieser [ref:Johannes 7:45-46]."
+          "text": "Das Volk stellte sich schützend vor ihn",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Johannes 7:45-46",
-      "explanation": "Die Knechte konnten Jesus nicht ergreifen, weil sie von seinen Worten überwältigt waren [ref:Johannes 7:45-46].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -1047,27 +1047,27 @@
       "text": "Welcher Pharisäer verteidigte das Recht Jesu auf ein ordentliches Verhör?",
       "options": [
         {
-          "text": "Josef von Arimathäa",
-          "explanation": "Das trifft nicht zu. Richtig ist: Nikodemus [ref:Johannes 7:50-53]."
+          "text": "Josef von Arimathia",
+          "explanation": ""
         },
         {
-          "text": "Gamaliel",
-          "explanation": "Das trifft nicht zu. Richtig ist: Nikodemus [ref:Johannes 7:50-53]."
+          "text": "Gamaliel, der Lehrer",
+          "explanation": ""
         },
         {
           "text": "Simon der Pharisäer",
-          "explanation": "Das trifft nicht zu. Richtig ist: Nikodemus [ref:Johannes 7:50-53]."
+          "explanation": ""
         },
         {
-          "text": "Nikodemus",
-          "explanation": "Nikodemus fragte seine Ratskollegen: Richtet unser Gesetz einen Menschen, ehe man ihn verhört hat? [ref:Johannes 7:50-53]."
+          "text": "Nikodemus, einer von ihnen",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Johannes 7:50-53",
-      "explanation": "Nikodemus fragte seine Ratskollegen: Richtet unser Gesetz einen Menschen, ehe man ihn verhört hat? [ref:Johannes 7:50-53].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -1078,26 +1078,26 @@
       "options": [
         {
           "text": "Wer unter euch ohne Sünde ist, der werfe den ersten Stein",
-          "explanation": "Als sie das hörten, gingen sie hinaus, einer nach dem andern, die Ältesten zuerst [ref:Johannes 8:3-9]."
+          "explanation": ""
         },
         {
           "text": "Wer das Gesetz auswendig kann, werfe den ersten Stein",
-          "explanation": "Das trifft nicht zu. Richtig ist: Wer unter euch ohne Sünde ist, der werfe den ersten Stein [ref:Johannes 8:3-9]."
+          "explanation": ""
         },
         {
           "text": "Wer dem Tempel den Zehnten gibt, werfe den ersten Stein",
-          "explanation": "Das trifft nicht zu. Richtig ist: Wer unter euch ohne Sünde ist, der werfe den ersten Stein [ref:Johannes 8:3-9]."
+          "explanation": ""
         },
         {
           "text": "Wer Richter im Hohen Rat ist, werfe den ersten Stein",
-          "explanation": "Das trifft nicht zu. Richtig ist: Wer unter euch ohne Sünde ist, der werfe den ersten Stein [ref:Johannes 8:3-9]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Johannes 8:3-9",
-      "explanation": "Als sie das hörten, gingen sie hinaus, einer nach dem andern, die Ältesten zuerst [ref:Johannes 8:3-9].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -1107,27 +1107,27 @@
       "text": "Welches Wort sprach Jesus zu der beschuldigten Frau nach dem Fortgehen der Männer?",
       "options": [
         {
-          "text": "Geh hin und bring ein Sühnopfer im Heiligtum für deine Schuld dar",
-          "explanation": "Das trifft nicht zu. Richtig ist: So verurteile ich dich auch nicht; geh hin und sündige hinfort nicht mehr [ref:Johannes 8:10-11]."
+          "text": "Geh hin und bringe ein Schuldopfer im Heiligtum für deine Sünde dar",
+          "explanation": ""
         },
         {
-          "text": "So verurteile ich dich auch nicht; geh hin und sündige hinfort nicht mehr",
-          "explanation": "Jesus sprach zu der Frau: Hat dich niemand verdammt? So verdamme ich dich auch nicht; gehe hin und sündige hinfort nicht mehr! [ref:Johannes 8:10-11]."
+          "text": "So verurteile ich dich auch nicht; gehe hin und sündige nicht mehr!",
+          "explanation": ""
         },
         {
-          "text": "Geh hin und faste drei Tage lang in Sack und Asche, damit dir vergeben werde",
-          "explanation": "Das trifft nicht zu. Richtig ist: So verurteile ich dich auch nicht; geh hin und sündige hinfort nicht mehr [ref:Johannes 8:10-11]."
+          "text": "Geh hin und faste drei Tage lang in Sack und Asche vor dem Angesicht Gottes",
+          "explanation": ""
         },
         {
-          "text": "Geh hin, du bist gerecht, und niemand soll dich jemals mehr anklagen",
-          "explanation": "Das trifft nicht zu. Richtig ist: So verurteile ich dich auch nicht; geh hin und sündige hinfort nicht mehr [ref:Johannes 8:10-11]."
+          "text": "Geh hin in Frieden, denn deine Gerechtigkeit ist größer als die ihre",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Johannes 8:10-11",
-      "explanation": "Jesus sprach zu der Frau: Hat dich niemand verdammt? So verdamme ich dich auch nicht; gehe hin und sündige hinfort nicht mehr! [ref:Johannes 8:10-11].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -1138,26 +1138,26 @@
       "options": [
         {
           "text": "Ich bin die Tür der Schafe",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ich bin das Licht der Welt [ref:Johannes 8:12]."
+          "explanation": ""
         },
         {
           "text": "Ich bin der Weg zur Wahrheit",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ich bin das Licht der Welt [ref:Johannes 8:12]."
+          "explanation": ""
         },
         {
           "text": "Ich bin das Licht der Welt",
-          "explanation": "Wer mir nachfolgt, wird nicht in der Finsternis wandeln, sondern das Licht des Lebens haben [ref:Johannes 8:12]."
+          "explanation": ""
         },
         {
           "text": "Ich bin der wahre Weinstock",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ich bin das Licht der Welt [ref:Johannes 8:12]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Johannes 8:12",
-      "explanation": "Wer mir nachfolgt, wird nicht in der Finsternis wandeln, sondern das Licht des Lebens haben [ref:Johannes 8:12].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -1168,26 +1168,26 @@
       "options": [
         {
           "text": "Das Geld aus dem Tempelschatz",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Wahrheit, die ihr erkennt [ref:Johannes 8:31-36]."
+          "explanation": ""
         },
         {
           "text": "Die Befreiung von der Römerherrschaft",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Wahrheit, die ihr erkennt [ref:Johannes 8:31-36]."
+          "explanation": ""
         },
         {
           "text": "Die Einhaltung aller Satzungen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Wahrheit, die ihr erkennt [ref:Johannes 8:31-36]."
+          "explanation": ""
         },
         {
           "text": "Die Wahrheit, die ihr erkennt",
-          "explanation": "Ihr werdet die Wahrheit erkennen, und die Wahrheit wird euch frei machen [ref:Johannes 8:31-36]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Johannes 8:31-36",
-      "explanation": "Ihr werdet die Wahrheit erkennen, und die Wahrheit wird euch frei machen [ref:Johannes 8:31-36].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -1197,27 +1197,27 @@
       "text": "Mit welchem Wort bezeugte Jesus seine Ewigkeit vor Abraham?",
       "options": [
         {
-          "text": "Ehe Abraham wurde, bin ich",
-          "explanation": "Mit dem göttlichen Ich bin bezeugte Jesus seine Ewigkeit; da hoben sie Steine auf [ref:Johannes 8:56-59]."
+          "text": "Ehe Abraham gewesen ist, bin ich",
+          "explanation": ""
         },
         {
-          "text": "Ehe Abraham war, war ich König",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ehe Abraham wurde, bin ich [ref:Johannes 8:56-59]."
+          "text": "Ehe Abraham war, regierte ich ewig",
+          "explanation": ""
         },
         {
-          "text": "Ehe Abraham war, wurde ich Erbe",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ehe Abraham wurde, bin ich [ref:Johannes 8:56-59]."
+          "text": "Ehe Abraham war, wurde ich erwählt",
+          "explanation": ""
         },
         {
-          "text": "Ehe Abraham war, schuf ich alles",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ehe Abraham wurde, bin ich [ref:Johannes 8:56-59]."
+          "text": "Ehe Abraham war, erschuf ich alles",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Johannes 8:56-59",
-      "explanation": "Mit dem göttlichen Ich bin bezeugte Jesus seine Ewigkeit; da hoben sie Steine auf [ref:Johannes 8:56-59].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -1227,27 +1227,27 @@
       "text": "Welches Mittel gebrauchte Jesus bei der Heilung des Geburtsblinden?",
       "options": [
         {
-          "text": "Er wusch seine Augen mit Öl und sprach ein Wort darüber aus",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er machte einen Teig aus Speichel und Erde und strich ihn auf die Augen [ref:Johannes 9:1-7]."
+          "text": "Er wusch seine Augen mit Öl und sprach ein mächtiges Wort darüber aus",
+          "explanation": ""
         },
         {
-          "text": "Er machte einen Teig aus Speichel und Erde und strich ihn auf die Augen",
-          "explanation": "Jesus spuckte auf die Erde, machte einen Brei und strich ihn dem Blinden auf die Augen [ref:Johannes 9:1-7]."
+          "text": "Er machte Schlammteig mit Speichel und strich ihn auf seine Augen",
+          "explanation": ""
         },
         {
-          "text": "Er rührte nur seine Stirn an und sprach: Sei geheilt, du Blinder",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er machte einen Teig aus Speichel und Erde und strich ihn auf die Augen [ref:Johannes 9:1-7]."
+          "text": "Er berührte nur seine Stirn und sprach: Sei nun sehend, du Blinder!",
+          "explanation": ""
         },
         {
-          "text": "Er sprach ein Wort aus der Ferne, und die Augen wurden sogleich offen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er machte einen Teig aus Speichel und Erde und strich ihn auf die Augen [ref:Johannes 9:1-7]."
+          "text": "Er rief ihm aus der Ferne zu, und seine Augen taten sich alsbald auf",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Johannes 9:1-7",
-      "explanation": "Jesus spuckte auf die Erde, machte einen Brei und strich ihn dem Blinden auf die Augen [ref:Johannes 9:1-7].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -1258,26 +1258,26 @@
       "options": [
         {
           "text": "Zum Teich Bethesda",
-          "explanation": "Das trifft nicht zu. Richtig ist: Zum Teich Siloah [ref:Johannes 9:7]."
+          "explanation": ""
         },
         {
           "text": "Zum See Genezareth",
-          "explanation": "Das trifft nicht zu. Richtig ist: Zum Teich Siloah [ref:Johannes 9:7]."
+          "explanation": ""
         },
         {
           "text": "Zum Teich Siloah",
-          "explanation": "Geh hin zum Teich Siloah und wasche dich! Da ging er hin, wusch sich und kam sehend wieder [ref:Johannes 9:7]."
+          "explanation": ""
         },
         {
           "text": "Zur Jordanquelle",
-          "explanation": "Das trifft nicht zu. Richtig ist: Zum Teich Siloah [ref:Johannes 9:7]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Johannes 9:7",
-      "explanation": "Geh hin zum Teich Siloah und wasche dich! Da ging er hin, wusch sich und kam sehend wieder [ref:Johannes 9:7].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -1287,27 +1287,27 @@
       "text": "Wie antwortete der Geheilte auf die Fragen der Pharisäer nach Jesu Wesen?",
       "options": [
         {
-          "text": "Er ist ein Gesetzesbrecher, doch er hat mich sehend gemacht",
-          "explanation": "Das trifft nicht zu. Richtig ist: Eins weiß ich: Ich war blind und bin nun sehend [ref:Johannes 9:24-33]."
+          "text": "Er ist ein Gesetzesübertreter, doch er hat mich sehend gemacht",
+          "explanation": ""
         },
         {
-          "text": "Er ist ein ungelehrter Mann, der aber Wunder tun kann",
-          "explanation": "Das trifft nicht zu. Richtig ist: Eins weiß ich: Ich war blind und bin nun sehend [ref:Johannes 9:24-33]."
+          "text": "Er ist ein Prophet der Vorzeit, der mächtige Wundertaten vollbringt",
+          "explanation": ""
         },
         {
-          "text": "Er verführt das ganze Volk, aber mir hat er geholfen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Eins weiß ich: Ich war blind und bin nun sehend [ref:Johannes 9:24-33]."
+          "text": "Er verführt das ganze Volk, aber mir hat er Barmherzigkeit erwiesen",
+          "explanation": ""
         },
         {
-          "text": "Eins weiß ich: Ich war blind und bin nun sehend",
-          "explanation": "Der Geheilte blieb bei dem, was er erlebt hatte [ref:Johannes 9:24-33]."
+          "text": "Eins weiß ich gewiss: dass ich blind war und jetzt sehend bin!",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Johannes 9:24-33",
-      "explanation": "Der Geheilte blieb bei dem, was er erlebt hatte [ref:Johannes 9:24-33].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -1318,26 +1318,26 @@
       "options": [
         {
           "text": "Der Ausschluss aus der Synagoge",
-          "explanation": "Die Juden hatten beschlossen: Wenn jemand ihn als Christus bekennt, soll er aus der Synagoge ausgestoßen werden [ref:Johannes 9:22-34]."
+          "explanation": ""
         },
         {
           "text": "Eine Geldstrafe an den Tempel",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der Ausschluss aus der Synagoge [ref:Johannes 9:22-34]."
+          "explanation": ""
         },
         {
           "text": "Dreißig Geißelhiebe",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der Ausschluss aus der Synagoge [ref:Johannes 9:22-34]."
+          "explanation": ""
         },
         {
           "text": "Die Vertreibung aus dem Land",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der Ausschluss aus der Synagoge [ref:Johannes 9:22-34]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Johannes 9:22-34",
-      "explanation": "Die Juden hatten beschlossen: Wenn jemand ihn als Christus bekennt, soll er aus der Synagoge ausgestoßen werden [ref:Johannes 9:22-34].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -1348,26 +1348,26 @@
       "options": [
         {
           "text": "Er floh voller Furcht vor dem Menschensohn und verbarg sich",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er sagte: Herr, ich glaube, und betete ihn an [ref:Johannes 9:35-38]."
+          "explanation": ""
         },
         {
           "text": "Er sagte: Herr, ich glaube, und betete ihn an",
-          "explanation": "Der Geheilte erkannte Jesus als den Menschensohn an und fiel vor ihm nieder [ref:Johannes 9:35-38]."
+          "explanation": ""
         },
         {
           "text": "Er dankte ihm mit Geld und brachte ein Opfer dar",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er sagte: Herr, ich glaube, und betete ihn an [ref:Johannes 9:35-38]."
+          "explanation": ""
         },
         {
           "text": "Er ging hin und schwieg über alles, was er erlebt hatte",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er sagte: Herr, ich glaube, und betete ihn an [ref:Johannes 9:35-38]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Johannes 9:35-38",
-      "explanation": "Der Geheilte erkannte Jesus als den Menschensohn an und fiel vor ihm nieder [ref:Johannes 9:35-38].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -1378,26 +1378,26 @@
       "options": [
         {
           "text": "Er steigt über die Mauer",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er geht durch die Tür hinein [ref:Johannes 10:1-3]."
+          "explanation": ""
         },
         {
           "text": "Er bricht das Gatter auf",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er geht durch die Tür hinein [ref:Johannes 10:1-3]."
+          "explanation": ""
         },
         {
           "text": "Er geht durch die Tür hinein",
-          "explanation": "Wer durch die Tür hineingeht, der ist der Hirte der Schafe [ref:Johannes 10:1-3]."
+          "explanation": ""
         },
         {
           "text": "Er gräbt einen Gang",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er geht durch die Tür hinein [ref:Johannes 10:1-3]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Johannes 10:1-3",
-      "explanation": "Wer durch die Tür hineingeht, der ist der Hirte der Schafe [ref:Johannes 10:1-3].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -1408,26 +1408,26 @@
       "options": [
         {
           "text": "Ich bin das Brot des Lebens",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ich bin die Tür für die Schafe [ref:Johannes 10:7-9]."
+          "explanation": ""
         },
         {
           "text": "Ich bin der Weg nach Jerusalem",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ich bin die Tür für die Schafe [ref:Johannes 10:7-9]."
+          "explanation": ""
         },
         {
           "text": "Ich bin das Licht in der Finsternis",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ich bin die Tür für die Schafe [ref:Johannes 10:7-9]."
+          "explanation": ""
         },
         {
           "text": "Ich bin die Tür für die Schafe",
-          "explanation": "Ich bin die Tür; wenn jemand durch mich eingeht, wird er gerettet werden [ref:Johannes 10:7-9]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Johannes 10:7-9",
-      "explanation": "Ich bin die Tür; wenn jemand durch mich eingeht, wird er gerettet werden [ref:Johannes 10:7-9].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -1437,27 +1437,27 @@
       "text": "Welcher wesentliche Unterschied unterscheidet den Guten Hirten vom Mietling?",
       "options": [
         {
-          "text": "Der gute Hirte lässt sein Leben für die Schafe; der Mietling flieht",
-          "explanation": "Der Mietling flieht, wenn der Wolf kommt; dem guten Hirten aber liegen die Schafe am Herzen [ref:Johannes 10:11-15]."
+          "text": "Der edle Hirte lässt sein Leben für die Schafe; der Mietling flieht",
+          "explanation": ""
         },
         {
-          "text": "Der Hirte fordert hohen Lohn für seinen Dienst; der Mietling arbeitet umsonst",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der gute Hirte lässt sein Leben für die Schafe; der Mietling flieht [ref:Johannes 10:11-15]."
+          "text": "Der Hirte fordert keinen Lohn für seinen Dienst; der Mietling flieht",
+          "explanation": ""
         },
         {
-          "text": "Der Hirte hat tausend Schafe in der Herde; der Mietling nur wenige",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der gute Hirte lässt sein Leben für die Schafe; der Mietling flieht [ref:Johannes 10:11-15]."
+          "text": "Der Hirte behütet seine Schafe in der Nacht; der Mietling schläft",
+          "explanation": ""
         },
         {
-          "text": "Der Hirte schläft in der Nacht bei den Schafen; der Mietling wacht",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der gute Hirte lässt sein Leben für die Schafe; der Mietling flieht [ref:Johannes 10:11-15]."
+          "text": "Der Hirte weidet tausend Schafe auf der Aue; der Mietling verliert sie",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Johannes 10:11-15",
-      "explanation": "Der Mietling flieht, wenn der Wolf kommt; dem guten Hirten aber liegen die Schafe am Herzen [ref:Johannes 10:11-15].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -1468,26 +1468,26 @@
       "options": [
         {
           "text": "Sie bleiben von Leiden verschont",
-          "explanation": "Das trifft nicht zu. Richtig ist: Niemand wird sie aus meiner Hand reißen [ref:Johannes 10:27-29]."
+          "explanation": ""
         },
         {
           "text": "Niemand wird sie aus meiner Hand reißen",
-          "explanation": "Meine Schafe hören meine Stimme, und ich gebe ihnen das ewige Leben, und niemand wird sie aus meiner Hand reißen [ref:Johannes 10:27-29]."
+          "explanation": ""
         },
         {
           "text": "Sie werden reich in dieser Welt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Niemand wird sie aus meiner Hand reißen [ref:Johannes 10:27-29]."
+          "explanation": ""
         },
         {
           "text": "Sie werden über die Römer herrschen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Niemand wird sie aus meiner Hand reißen [ref:Johannes 10:27-29]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Johannes 10:27-29",
-      "explanation": "Meine Schafe hören meine Stimme, und ich gebe ihnen das ewige Leben, und niemand wird sie aus meiner Hand reißen [ref:Johannes 10:27-29].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -1498,26 +1498,26 @@
       "options": [
         {
           "text": "Ich bin der Vater im Himmel",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ich und der Vater sind eins [ref:Johannes 10:30-31]."
+          "explanation": ""
         },
         {
           "text": "Ich diene dem Vater als Knecht",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ich und der Vater sind eins [ref:Johannes 10:30-31]."
+          "explanation": ""
         },
         {
           "text": "Ich und der Vater sind eins",
-          "explanation": "Die Juden hoben Steine auf, um ihn zu steinigen [ref:Johannes 10:30-31]."
+          "explanation": ""
         },
         {
           "text": "Ich kenne den Vater nicht",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ich und der Vater sind eins [ref:Johannes 10:30-31]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Johannes 10:30-31",
-      "explanation": "Die Juden hoben Steine auf, um ihn zu steinigen [ref:Johannes 10:30-31].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -1528,26 +1528,26 @@
       "options": [
         {
           "text": "In Kapernaum",
-          "explanation": "Das trifft nicht zu. Richtig ist: In Bethanien [ref:Johannes 11:1-3]."
+          "explanation": ""
         },
         {
           "text": "In Nazareth",
-          "explanation": "Das trifft nicht zu. Richtig ist: In Bethanien [ref:Johannes 11:1-3]."
+          "explanation": ""
         },
         {
           "text": "In Jericho",
-          "explanation": "Das trifft nicht zu. Richtig ist: In Bethanien [ref:Johannes 11:1-3]."
+          "explanation": ""
         },
         {
           "text": "In Bethanien",
-          "explanation": "Lazarus aus Bethanien, dem Dorf der Maria und ihrer Schwester Martha, war krank [ref:Johannes 11:1-3]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Johannes 11:1-3",
-      "explanation": "Lazarus aus Bethanien, dem Dorf der Maria und ihrer Schwester Martha, war krank [ref:Johannes 11:1-3].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -1558,26 +1558,26 @@
       "options": [
         {
           "text": "Ich bin die Auferstehung und das Leben",
-          "explanation": "Wer an mich glaubt, der wird leben, ob er gleich stürbe [ref:Johannes 11:25-26]."
+          "explanation": ""
         },
         {
           "text": "Weine nicht, dein Bruder schläft nur",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ich bin die Auferstehung und das Leben [ref:Johannes 11:25-26]."
+          "explanation": ""
         },
         {
           "text": "Dein Bruder wird am Ende der Tage leben",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ich bin die Auferstehung und das Leben [ref:Johannes 11:25-26]."
+          "explanation": ""
         },
         {
           "text": "Alle Menschen müssen sterben",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ich bin die Auferstehung und das Leben [ref:Johannes 11:25-26]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Johannes 11:25-26",
-      "explanation": "Wer an mich glaubt, der wird leben, ob er gleich stürbe [ref:Johannes 11:25-26].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -1587,27 +1587,27 @@
       "text": "Wie reagierte Jesus leiblich an der Grabstätte Seines verstorbenen Freundes?",
       "options": [
         {
-          "text": "Er sang ein Klagelied",
-          "explanation": "Das trifft nicht zu. Richtig ist: Jesus weinte [ref:Johannes 11:33-36]."
+          "text": "Er stimmte ein Klagelied an",
+          "explanation": ""
         },
         {
-          "text": "Jesus weinte",
-          "explanation": "Jesus weinte; da sprachen die Juden: Seht, wie hat er ihn so lieb gehabt! [ref:Johannes 11:33-36]."
+          "text": "Jesus weinte vor aller Menge",
+          "explanation": ""
         },
         {
-          "text": "Er schalt die weinenden Frauen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Jesus weinte [ref:Johannes 11:33-36]."
+          "text": "Er wies die Weinenden zurecht",
+          "explanation": ""
         },
         {
-          "text": "Er blieb völlig regungslos",
-          "explanation": "Das trifft nicht zu. Richtig ist: Jesus weinte [ref:Johannes 11:33-36]."
+          "text": "Er blieb ohne jede Regung da",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Johannes 11:33-36",
-      "explanation": "Jesus weinte; da sprachen die Juden: Seht, wie hat er ihn so lieb gehabt! [ref:Johannes 11:33-36].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -1617,27 +1617,27 @@
       "text": "Wie lange lag Lazarus schon im Grab, als Jesus befahl, den Stein wegzunehmen?",
       "options": [
         {
-          "text": "Er lag bereits zwei Tage im Grab, und der Verwesungsgeruch war noch nicht da",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er lag bereits vier Tage im Grab [ref:Johannes 11:39-44]."
+          "text": "Er lag schon zwei Tage im Grab",
+          "explanation": ""
         },
         {
-          "text": "Er lag bereits drei Tage im Grab, wie Jesus zuvor angekündigt hatte",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er lag bereits vier Tage im Grab [ref:Johannes 11:39-44]."
+          "text": "Er lag schon drei Tage im Grab",
+          "explanation": ""
         },
         {
-          "text": "Er lag bereits vier Tage im Grab",
-          "explanation": "Martha sagte: Herr, er stinkt schon, denn er liegt schon vier Tage [ref:Johannes 11:39-44]."
+          "text": "Er lag schon vier Tage im Grab",
+          "explanation": ""
         },
         {
-          "text": "Er lag bereits sieben Tage im Grab, und die Trauerzeit war vorüber",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er lag bereits vier Tage im Grab [ref:Johannes 11:39-44]."
+          "text": "Er lag schon sieben Tage im Grab",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Johannes 11:39-44",
-      "explanation": "Martha sagte: Herr, er stinkt schon, denn er liegt schon vier Tage [ref:Johannes 11:39-44].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -1647,27 +1647,27 @@
       "text": "Welche prophetische Aussage machte der Hohepriester Kaiphas im Hohen Rat?",
       "options": [
         {
-          "text": "Es ist besser, das Gesetz zu halten, als das Volk zu verderben",
-          "explanation": "Das trifft nicht zu. Richtig ist: Es ist besser, dass ein Mensch für das Volk sterbe [ref:Johannes 11:49-52]."
+          "text": "Es ist besser, das heilige Gesetz zu bewahren, als dass die Nation verderbe",
+          "explanation": ""
         },
         {
-          "text": "Wir müssen Jesus als König ehren, sonst kommt der Zorn über uns",
-          "explanation": "Das trifft nicht zu. Richtig ist: Es ist besser, dass ein Mensch für das Volk sterbe [ref:Johannes 11:49-52]."
+          "text": "Es ist besser, den Römern zu gehorchen, als dass unser Land eingenommen wird",
+          "explanation": ""
         },
         {
-          "text": "Die Römer werden uns alle töten, wenn wir ihn gewähren lassen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Es ist besser, dass ein Mensch für das Volk sterbe [ref:Johannes 11:49-52]."
+          "text": "Es ist besser, den Tempel zu schützen, als dass die Priesterschaft vertrieben wird",
+          "explanation": ""
         },
         {
-          "text": "Es ist besser, dass ein Mensch für das Volk sterbe",
-          "explanation": "Kaiphas weissagte, ohne es zu wissen, dass Jesus für das Volk sterben sollte [ref:Johannes 11:49-52]."
+          "text": "Es ist vorteilhafter, dass ein Mensch stirbt, als dass die ganze Nation untergeht",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Johannes 11:49-52",
-      "explanation": "Kaiphas weissagte, ohne es zu wissen, dass Jesus für das Volk sterben sollte [ref:Johannes 11:49-52].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -1677,27 +1677,27 @@
       "text": "Womit salbte Maria die Füße Jesu beim Gastmahl in Bethanien?",
       "options": [
         {
-          "text": "Mit einem Pfund echten, kostbaren Nardenöls",
-          "explanation": "Maria nahm ein Pfund Salböl von echter, kostbarer Narde und salbte Jesu Füße [ref:Johannes 12:1-3]."
+          "text": "Mit einem Pfund echter, köstlicher Nardensalbe",
+          "explanation": ""
         },
         {
-          "text": "Mit einfachem Olivenöl, das sie aus ihrem eigenen Haus brachte",
-          "explanation": "Das trifft nicht zu. Richtig ist: Mit einem Pfund echten, kostbaren Nardenöls [ref:Johannes 12:1-3]."
+          "text": "Mit einem Krug einfachen Olivenöls aus dem Hause",
+          "explanation": ""
         },
         {
-          "text": "Mit reinem Wasser aus dem Brunnen, das sie in einem Krug trug",
-          "explanation": "Das trifft nicht zu. Richtig ist: Mit einem Pfund echten, kostbaren Nardenöls [ref:Johannes 12:1-3]."
+          "text": "Mit reinem Quellwasser aus dem Brunnen des Ortes",
+          "explanation": ""
         },
         {
-          "text": "Mit Duftstoffen aus dem Tempel, die sie dort gekauft hatte",
-          "explanation": "Das trifft nicht zu. Richtig ist: Mit einem Pfund echten, kostbaren Nardenöls [ref:Johannes 12:1-3]."
+          "text": "Mit duftenden Gewürzen aus den Vorräten des Tempels",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Johannes 12:1-3",
-      "explanation": "Maria nahm ein Pfund Salböl von echter, kostbarer Narde und salbte Jesu Füße [ref:Johannes 12:1-3].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -1707,27 +1707,27 @@
       "text": "Wer heuchelte Sorge um die Armen, als er die Salbung kritisierte?",
       "options": [
         {
-          "text": "Nikodemus, der Pharisäer, der heimlich zu Jesus gekommen war",
-          "explanation": "Das trifft nicht zu. Richtig ist: Judas Ischariot, der Verräter [ref:Johannes 12:4-6]."
+          "text": "Nikodemus, der zu ihm bei Nacht kam",
+          "explanation": ""
         },
         {
-          "text": "Judas Ischariot, der Verräter",
-          "explanation": "Judas sagte dies nicht, weil er sich um die Armen kümmerte, sondern weil er ein Dieb war [ref:Johannes 12:4-6]."
+          "text": "Judas Ischariot, der ihn verriet",
+          "explanation": ""
         },
         {
-          "text": "Simon Petrus, der Fischer, der den Beutel der Jünger trug",
-          "explanation": "Das trifft nicht zu. Richtig ist: Judas Ischariot, der Verräter [ref:Johannes 12:4-6]."
+          "text": "Simon Petrus, der Bruder des Andreas",
+          "explanation": ""
         },
         {
-          "text": "Thomas, der Zwilling, der Zweifel an der Salbung äußerte",
-          "explanation": "Das trifft nicht zu. Richtig ist: Judas Ischariot, der Verräter [ref:Johannes 12:4-6]."
+          "text": "Thomas, der der Zwilling genannt wird",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Johannes 12:4-6",
-      "explanation": "Judas sagte dies nicht, weil er sich um die Armen kümmerte, sondern weil er ein Dieb war [ref:Johannes 12:4-6].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -1738,26 +1738,26 @@
       "options": [
         {
           "text": "Der Weinstock am Hang, der erst nach dem Beschneiden Frucht bringt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Das Weizenkorn, das in die Erde fällt und stirbt [ref:Johannes 12:24]."
+          "explanation": ""
         },
         {
           "text": "Das Senfkorn auf dem Feld, das zu einem großen Baum heranwächst",
-          "explanation": "Das trifft nicht zu. Richtig ist: Das Weizenkorn, das in die Erde fällt und stirbt [ref:Johannes 12:24]."
+          "explanation": ""
         },
         {
           "text": "Das Weizenkorn, das in die Erde fällt und stirbt",
-          "explanation": "Wenn das Weizenkorn nicht in die Erde fällt und erstirbt, bleibt es allein; wenn es aber erstirbt, bringt es viel Frucht [ref:Johannes 12:24]."
+          "explanation": ""
         },
         {
           "text": "Der Feigenbaum am Weg, der erst nach dem Dünger Früchte trägt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Das Weizenkorn, das in die Erde fällt und stirbt [ref:Johannes 12:24]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Johannes 12:24",
-      "explanation": "Wenn das Weizenkorn nicht in die Erde fällt und erstirbt, bleibt es allein; wenn es aber erstirbt, bringt es viel Frucht [ref:Johannes 12:24].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -1768,26 +1768,26 @@
       "options": [
         {
           "text": "Ich werde die Römer richten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ich will alle zu mir ziehen [ref:Johannes 12:32-33]."
+          "explanation": ""
         },
         {
           "text": "Ich werde einen Tempel bauen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ich will alle zu mir ziehen [ref:Johannes 12:32-33]."
+          "explanation": ""
         },
         {
           "text": "Ich werde das Gold sammeln",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ich will alle zu mir ziehen [ref:Johannes 12:32-33]."
+          "explanation": ""
         },
         {
           "text": "Ich will alle zu mir ziehen",
-          "explanation": "Und ich, wenn ich von der Erde erhöht bin, will alle zu mir ziehen [ref:Johannes 12:32-33]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Johannes 12:32-33",
-      "explanation": "Und ich, wenn ich von der Erde erhöht bin, will alle zu mir ziehen [ref:Johannes 12:32-33].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -1798,26 +1798,26 @@
       "options": [
         {
           "text": "Aus Furcht, aus der Synagoge ausgeschlossen zu werden",
-          "explanation": "Sie hatten lieb die Ehre bei den Menschen mehr als die Ehre bei Gott [ref:Johannes 12:42-43]."
+          "explanation": ""
         },
         {
           "text": "Weil sie das Gesetz verwarfen und lieber den Römern dienten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Aus Furcht, aus der Synagoge ausgeschlossen zu werden [ref:Johannes 12:42-43]."
+          "explanation": ""
         },
         {
           "text": "Weil sie kein Geld hatten und die Tempelsteuer nicht zahlen konnten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Aus Furcht, aus der Synagoge ausgeschlossen zu werden [ref:Johannes 12:42-43]."
+          "explanation": ""
         },
         {
           "text": "Weil die Römer es verboten hatten und mit Strafe drohten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Aus Furcht, aus der Synagoge ausgeschlossen zu werden [ref:Johannes 12:42-43]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Johannes 12:42-43",
-      "explanation": "Sie hatten lieb die Ehre bei den Menschen mehr als die Ehre bei Gott [ref:Johannes 12:42-43].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -1827,27 +1827,27 @@
       "text": "Welche dienende Handlung vollzog Jesus an Seinen Jüngern vor dem Passahfest?",
       "options": [
         {
-          "text": "Er salbte ihre Häupter",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er wusch den Jüngern die Füße [ref:Johannes 13:1-15]."
+          "text": "Er salbte ihre Häupter mit Öl",
+          "explanation": ""
         },
         {
           "text": "Er wusch den Jüngern die Füße",
-          "explanation": "Jesus stand vom Mahl auf, umgürtete sich mit einem Tuch und wusch seinen Jüngern die Füße [ref:Johannes 13:1-15]."
+          "explanation": ""
         },
         {
-          "text": "Er schenkte ihnen neue Kleider",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er wusch den Jüngern die Füße [ref:Johannes 13:1-15]."
+          "text": "Er reichte ihnen neue Kleider",
+          "explanation": ""
         },
         {
-          "text": "Er verteilte Geld",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er wusch den Jüngern die Füße [ref:Johannes 13:1-15]."
+          "text": "Er verteilte Silber an alle da",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Johannes 13:1-15",
-      "explanation": "Jesus stand vom Mahl auf, umgürtete sich mit einem Tuch und wusch seinen Jüngern die Füße [ref:Johannes 13:1-15].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -1857,27 +1857,27 @@
       "text": "Wie reagierte Simon Petrus zunächst auf die Fußwaschung durch Jesus?",
       "options": [
         {
-          "text": "Er dankte ihm laut und beugte sich demütig vor ihm",
-          "explanation": "Das trifft nicht zu. Richtig ist: Nimmermehr sollst du mir die Füße waschen [ref:Johannes 13:6-8]."
+          "text": "Er dankte ihm mit lauter Stimme und beugte sich demütig vor ihm nieder",
+          "explanation": ""
         },
         {
-          "text": "Er wusch Jesus sofort die Füße und begann mit den Jüngern",
-          "explanation": "Das trifft nicht zu. Richtig ist: Nimmermehr sollst du mir die Füße waschen [ref:Johannes 13:6-8]."
+          "text": "Er wusch alsbald dem Herrn die Füße und begann mit den anderen Jüngern",
+          "explanation": ""
         },
         {
-          "text": "Nimmermehr sollst du mir die Füße waschen",
-          "explanation": "Jesus antwortete: Wenn ich dich nicht wasche, so hast du kein Teil an mir [ref:Johannes 13:6-8]."
+          "text": "Keinesfalls bis in alle Ewigkeit sollst du mir die Füße waschen, Herr!",
+          "explanation": ""
         },
         {
-          "text": "Er verließ den Raum, weil er die Ehre nicht ertragen konnte",
-          "explanation": "Das trifft nicht zu. Richtig ist: Nimmermehr sollst du mir die Füße waschen [ref:Johannes 13:6-8]."
+          "text": "Er verließ den Saal aus Scham, weil er solche Ehre nicht ertragen konnte",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Johannes 13:6-8",
-      "explanation": "Jesus antwortete: Wenn ich dich nicht wasche, so hast du kein Teil an mir [ref:Johannes 13:6-8].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -1888,26 +1888,26 @@
       "options": [
         {
           "text": "Als Zeichen der Feindschaft gegen ihn",
-          "explanation": "Das trifft nicht zu. Richtig ist: Als Zeichen, wer ihn verraten würde [ref:Johannes 13:26-30]."
+          "explanation": ""
         },
         {
           "text": "Als Segen für die bevorstehende Reise",
-          "explanation": "Das trifft nicht zu. Richtig ist: Als Zeichen, wer ihn verraten würde [ref:Johannes 13:26-30]."
+          "explanation": ""
         },
         {
           "text": "Als Teil des Passalamms für alle",
-          "explanation": "Das trifft nicht zu. Richtig ist: Als Zeichen, wer ihn verraten würde [ref:Johannes 13:26-30]."
+          "explanation": ""
         },
         {
           "text": "Als Zeichen, wer ihn verraten würde",
-          "explanation": "Jesus tauchte den Bissen ein und gab ihn Judas; nach dem Bissen fuhr der Satan in ihn [ref:Johannes 13:26-30]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Johannes 13:26-30",
-      "explanation": "Jesus tauchte den Bissen ein und gab ihn Judas; nach dem Bissen fuhr der Satan in ihn [ref:Johannes 13:26-30].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -1918,26 +1918,26 @@
       "options": [
         {
           "text": "Dass ihr einander liebt, wie ich euch geliebt habe",
-          "explanation": "Daran wird jedermann erkennen, dass ihr meine Jünger seid, wenn ihr Liebe untereinander habt [ref:Johannes 13:34-35]."
+          "explanation": ""
         },
         {
           "text": "Dass ihr regelmäßig fastet und die Feste des Herrn haltet",
-          "explanation": "Das trifft nicht zu. Richtig ist: Dass ihr einander liebt, wie ich euch geliebt habe [ref:Johannes 13:34-35]."
+          "explanation": ""
         },
         {
           "text": "Dass ihr die Heiden meidet und euch von ihnen absondert",
-          "explanation": "Das trifft nicht zu. Richtig ist: Dass ihr einander liebt, wie ich euch geliebt habe [ref:Johannes 13:34-35]."
+          "explanation": ""
         },
         {
           "text": "Dass ihr neue Gebetshäuser baut und dort täglich zusammenkommt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Dass ihr einander liebt, wie ich euch geliebt habe [ref:Johannes 13:34-35]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Johannes 13:34-35",
-      "explanation": "Daran wird jedermann erkennen, dass ihr meine Jünger seid, wenn ihr Liebe untereinander habt [ref:Johannes 13:34-35].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -1948,26 +1948,26 @@
       "options": [
         {
           "text": "Dass Petrus sein treuester Jünger wird und ihm bis ans Ende folgt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Dass Petrus ihn dreimal verleugnen wird, ehe der Hahn kräht [ref:Johannes 13:36-38]."
+          "explanation": ""
         },
         {
           "text": "Dass Petrus ihn dreimal verleugnen wird, ehe der Hahn kräht",
-          "explanation": "Jesus sprach: Der Hahn wird nicht krähen, bis du mich dreimal verleugnet hast [ref:Johannes 13:36-38]."
+          "explanation": ""
         },
         {
           "text": "Dass Petrus mit ihm am Kreuz sterben wird, ehe der Hahn kräht",
-          "explanation": "Das trifft nicht zu. Richtig ist: Dass Petrus ihn dreimal verleugnen wird, ehe der Hahn kräht [ref:Johannes 13:36-38]."
+          "explanation": ""
         },
         {
           "text": "Dass Petrus nach Rom fliehen wird, ehe der Hahn kräht",
-          "explanation": "Das trifft nicht zu. Richtig ist: Dass Petrus ihn dreimal verleugnen wird, ehe der Hahn kräht [ref:Johannes 13:36-38]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Johannes 13:36-38",
-      "explanation": "Jesus sprach: Der Hahn wird nicht krähen, bis du mich dreimal verleugnet hast [ref:Johannes 13:36-38].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -1978,26 +1978,26 @@
       "options": [
         {
           "text": "Dort gibt es goldene Paläste",
-          "explanation": "Das trifft nicht zu. Richtig ist: Im Haus des Vaters sind viele Wohnungen [ref:Johannes 14:1-3]."
+          "explanation": ""
         },
         {
           "text": "Dort gibt es keinen Schmerz mehr",
-          "explanation": "Das trifft nicht zu. Richtig ist: Im Haus des Vaters sind viele Wohnungen [ref:Johannes 14:1-3]."
+          "explanation": ""
         },
         {
           "text": "Im Haus des Vaters sind viele Wohnungen",
-          "explanation": "Jesus geht hin, seinen Jüngern eine Stätte zu bereiten, und will wiederkommen [ref:Johannes 14:1-3]."
+          "explanation": ""
         },
         {
           "text": "Dort regieren alle Apostel",
-          "explanation": "Das trifft nicht zu. Richtig ist: Im Haus des Vaters sind viele Wohnungen [ref:Johannes 14:1-3]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Johannes 14:1-3",
-      "explanation": "Jesus geht hin, seinen Jüngern eine Stätte zu bereiten, und will wiederkommen [ref:Johannes 14:1-3].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -2008,26 +2008,26 @@
       "options": [
         {
           "text": "Ich bin das Licht der Welt, wer mir folgt, wird nicht in Finsternis wandeln",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ich bin der Weg, die Wahrheit und das Leben [ref:Johannes 14:6]."
+          "explanation": ""
         },
         {
           "text": "Ich bin der gute Hirte, der sein Leben für die Schafe lässt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ich bin der Weg, die Wahrheit und das Leben [ref:Johannes 14:6]."
+          "explanation": ""
         },
         {
           "text": "Ich bin der König der Juden, der in Jerusalem herrschen wird",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ich bin der Weg, die Wahrheit und das Leben [ref:Johannes 14:6]."
+          "explanation": ""
         },
         {
           "text": "Ich bin der Weg, die Wahrheit und das Leben",
-          "explanation": "Niemand kommt zum Vater als durch mich [ref:Johannes 14:6]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Johannes 14:6",
-      "explanation": "Niemand kommt zum Vater als durch mich [ref:Johannes 14:6].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -2038,26 +2038,26 @@
       "options": [
         {
           "text": "Wer an mich glaubt, wird die Werke auch tun, die ich tue",
-          "explanation": "Er wird auch größere als diese tun, denn ich gehe zum Vater [ref:Johannes 14:12]."
+          "explanation": ""
         },
         {
           "text": "Wer glaubt, wird nie mehr arm sein, sondern alles in Fülle haben",
-          "explanation": "Das trifft nicht zu. Richtig ist: Wer an mich glaubt, wird die Werke auch tun, die ich tue [ref:Johannes 14:12]."
+          "explanation": ""
         },
         {
           "text": "Wer glaubt, wird das Land regieren und über die Völker herrschen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Wer an mich glaubt, wird die Werke auch tun, die ich tue [ref:Johannes 14:12]."
+          "explanation": ""
         },
         {
           "text": "Wer glaubt, wird keine Not erleben und von allem Leid verschont bleiben",
-          "explanation": "Das trifft nicht zu. Richtig ist: Wer an mich glaubt, wird die Werke auch tun, die ich tue [ref:Johannes 14:12]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Johannes 14:12",
-      "explanation": "Er wird auch größere als diese tun, denn ich gehe zum Vater [ref:Johannes 14:12].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -2068,26 +2068,26 @@
       "options": [
         {
           "text": "Einen Engel vom Himmel",
-          "explanation": "Das trifft nicht zu. Richtig ist: Den Geist der Wahrheit [ref:Johannes 14:16-26]."
+          "explanation": ""
         },
         {
           "text": "Den Geist der Wahrheit",
-          "explanation": "Ich will den Vater bitten, und er wird euch einen andern Tröster geben, dass er bei euch bleibe ewiglich [ref:Johannes 14:16-26]."
+          "explanation": ""
         },
         {
           "text": "Einen neuen Propheten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Den Geist der Wahrheit [ref:Johannes 14:16-26]."
+          "explanation": ""
         },
         {
           "text": "Den Jünger Johannes",
-          "explanation": "Das trifft nicht zu. Richtig ist: Den Geist der Wahrheit [ref:Johannes 14:16-26]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Johannes 14:16-26",
-      "explanation": "Ich will den Vater bitten, und er wird euch einen andern Tröster geben, dass er bei euch bleibe ewiglich [ref:Johannes 14:16-26].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -2097,27 +2097,27 @@
       "text": "Welches Vermächtnis hinterließ Jesus Seinen Nachfolgern vor Seinem Leiden?",
       "options": [
         {
-          "text": "Seinen irdischen Besitz",
-          "explanation": "Das trifft nicht zu. Richtig ist: Seinen Frieden [ref:Johannes 14:27]."
+          "text": "Großen irdischen Besitz",
+          "explanation": ""
         },
         {
-          "text": "Eine neue Auslegung der Tora",
-          "explanation": "Das trifft nicht zu. Richtig ist: Seinen Frieden [ref:Johannes 14:27]."
+          "text": "Ein neues Buch der Tora",
+          "explanation": ""
         },
         {
-          "text": "Seinen Frieden",
-          "explanation": "Frieden hinterlasse ich euch, meinen Frieden gebe ich euch; nicht wie die Welt gibt, gebe ich euch [ref:Johannes 14:27]."
+          "text": "Seinen himmlischen Frieden",
+          "explanation": ""
         },
         {
-          "text": "Macht über Roms Feinde",
-          "explanation": "Das trifft nicht zu. Richtig ist: Seinen Frieden [ref:Johannes 14:27]."
+          "text": "Vollmacht über alle Feinde",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Johannes 14:27",
-      "explanation": "Frieden hinterlasse ich euch, meinen Frieden gebe ich euch; nicht wie die Welt gibt, gebe ich euch [ref:Johannes 14:27].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -2128,26 +2128,26 @@
       "options": [
         {
           "text": "Der Hirte und die Herde",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der Weinstock und die Reben [ref:Johannes 15:1-5]."
+          "explanation": ""
         },
         {
           "text": "Der Sämann und der Acker",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der Weinstock und die Reben [ref:Johannes 15:1-5]."
+          "explanation": ""
         },
         {
           "text": "Der Bauherr und der Eckstein",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der Weinstock und die Reben [ref:Johannes 15:1-5]."
+          "explanation": ""
         },
         {
           "text": "Der Weinstock und die Reben",
-          "explanation": "Ich bin der Weinstock, ihr seid die Reben; wer in mir bleibt, der bringt viel Frucht [ref:Johannes 15:1-5]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Johannes 15:1-5",
-      "explanation": "Ich bin der Weinstock, ihr seid die Reben; wer in mir bleibt, der bringt viel Frucht [ref:Johannes 15:1-5].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -2157,27 +2157,27 @@
       "text": "Was geschieht mit Reben, die keine Frucht am Weinstock bringen?",
       "options": [
         {
-          "text": "Der Vater nimmt sie weg, und sie werden verbrannt",
-          "explanation": "Jede Rebe an mir, die nicht Frucht bringt, nimmt der Vater weg [ref:Johannes 15:1-6]."
+          "text": "Man nimmt sie weg, wirft sie ins Feuer und sie brennen",
+          "explanation": ""
         },
         {
-          "text": "Sie werden gegossen und gepflegt, bis sie wieder Frucht tragen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der Vater nimmt sie weg, und sie werden verbrannt [ref:Johannes 15:1-6]."
+          "text": "Man gießt und pflegt sie, bis sie wieder Frucht tragen",
+          "explanation": ""
         },
         {
-          "text": "Sie werden mit Öl gesalbt und mit Mist gedüngt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der Vater nimmt sie weg, und sie werden verbrannt [ref:Johannes 15:1-6]."
+          "text": "Man bindet sie neu auf und düngt sie mit reichem Mist",
+          "explanation": ""
         },
         {
-          "text": "Sie bleiben stehen für das nächste Jahr, ob sie nun Frucht bringen oder nicht",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der Vater nimmt sie weg, und sie werden verbrannt [ref:Johannes 15:1-6]."
+          "text": "Man lässt sie ruhig stehen bis zur nächsten Jahreszeit",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Johannes 15:1-6",
-      "explanation": "Jede Rebe an mir, die nicht Frucht bringt, nimmt der Vater weg [ref:Johannes 15:1-6].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -2188,26 +2188,26 @@
       "options": [
         {
           "text": "Dass jemand viel Geld opfert und es den Armen gibt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Dass jemand sein Leben lässt für seine Freunde [ref:Johannes 15:13]."
+          "explanation": ""
         },
         {
-          "text": "Dass jemand sein Leben lässt für seine Freunde",
-          "explanation": "Niemand hat größere Liebe als die, dass er sein Leben lässt für seine Freunde [ref:Johannes 15:13]."
+          "text": "Dass jemand seine Seele einsetzt für seine Freunde",
+          "explanation": ""
         },
         {
           "text": "Dass jemand alle Gebote hält und nie davon abweicht",
-          "explanation": "Das trifft nicht zu. Richtig ist: Dass jemand sein Leben lässt für seine Freunde [ref:Johannes 15:13]."
+          "explanation": ""
         },
         {
-          "text": "Dass jemand viele Wunder tut und das Volk heilt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Dass jemand sein Leben lässt für seine Freunde [ref:Johannes 15:13]."
+          "text": "Dass jemand große Wunder tut und viele Kranke heilt",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Johannes 15:13",
-      "explanation": "Niemand hat größere Liebe als die, dass er sein Leben lässt für seine Freunde [ref:Johannes 15:13].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -2218,26 +2218,26 @@
       "options": [
         {
           "text": "Die Jünger wählten ihn",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er hat sie zuerst erwählt [ref:Johannes 15:16]."
+          "explanation": ""
         },
         {
           "text": "Ihr Fleiß im Gesetz",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er hat sie zuerst erwählt [ref:Johannes 15:16]."
+          "explanation": ""
         },
         {
           "text": "Er hat sie zuerst erwählt",
-          "explanation": "Ihr habt nicht mich erwählt, sondern ich habe euch erwählt und gesetzt, dass ihr hingeht und Frucht bringt [ref:Johannes 15:16]."
+          "explanation": ""
         },
         {
           "text": "Ihre Herkunft aus Davids Haus",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er hat sie zuerst erwählt [ref:Johannes 15:16]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Johannes 15:16",
-      "explanation": "Ihr habt nicht mich erwählt, sondern ich habe euch erwählt und gesetzt, dass ihr hingeht und Frucht bringt [ref:Johannes 15:16].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -2248,26 +2248,26 @@
       "options": [
         {
           "text": "Weil sie das Gesetz brechen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil sie nicht von der Welt sind [ref:Johannes 15:18-21]."
+          "explanation": ""
         },
         {
           "text": "Weil sie keine Steuern zahlen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil sie nicht von der Welt sind [ref:Johannes 15:18-21]."
+          "explanation": ""
         },
         {
           "text": "Weil sie den Tempel meiden",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil sie nicht von der Welt sind [ref:Johannes 15:18-21]."
+          "explanation": ""
         },
         {
           "text": "Weil sie nicht von der Welt sind",
-          "explanation": "Weil ihr nicht von der Welt seid, sondern ich euch aus der Welt erwählt habe, darum hasst euch die Welt [ref:Johannes 15:18-21]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Johannes 15:18-21",
-      "explanation": "Weil ihr nicht von der Welt seid, sondern ich euch aus der Welt erwählt habe, darum hasst euch die Welt [ref:Johannes 15:18-21].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -2277,27 +2277,27 @@
       "text": "Welches Verhalten der Verfolger sagt Jesus Seinen Aposteln voraus?",
       "options": [
         {
-          "text": "Sie werden euch aus der Synagoge ausstoßen",
-          "explanation": "Es kommt die Stunde, dass jeder, der euch tötet, meint, Gott einen Dienst zu tun [ref:Johannes 16:1-4]."
+          "text": "Sie werden euch aus der Synagoge ausschließen",
+          "explanation": ""
         },
         {
-          "text": "Sie werden euer Geld und eure Güter rauben",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie werden euch aus der Synagoge ausstoßen [ref:Johannes 16:1-4]."
+          "text": "Sie werden euer Geld und all eure Güter rauben",
+          "explanation": ""
         },
         {
-          "text": "Sie werden euch vor den Kaiser nach Rom schicken",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie werden euch aus der Synagoge ausstoßen [ref:Johannes 16:1-4]."
+          "text": "Sie werden euch gebunden vor den Kaiser bringen",
+          "explanation": ""
         },
         {
-          "text": "Sie werden eure Häuser niederbrennen und zerstören",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie werden euch aus der Synagoge ausstoßen [ref:Johannes 16:1-4]."
+          "text": "Sie werden eure Wohnstätten verbrennen im Feuer",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Johannes 16:1-4",
-      "explanation": "Es kommt die Stunde, dass jeder, der euch tötet, meint, Gott einen Dienst zu tun [ref:Johannes 16:1-4].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -2308,26 +2308,26 @@
       "options": [
         {
           "text": "Von Weisheit, Macht und Gold",
-          "explanation": "Das trifft nicht zu. Richtig ist: Von Sünde, von Gerechtigkeit und vom Gericht [ref:Johannes 16:8-11]."
+          "explanation": ""
         },
         {
           "text": "Von Sünde, von Gerechtigkeit und vom Gericht",
-          "explanation": "Wenn der Tröster kommt, wird er die Welt überführen von Sünde, von Gerechtigkeit und vom Gericht [ref:Johannes 16:8-11]."
+          "explanation": ""
         },
         {
           "text": "Von Gesetz, Tempel und Dienst",
-          "explanation": "Das trifft nicht zu. Richtig ist: Von Sünde, von Gerechtigkeit und vom Gericht [ref:Johannes 16:8-11]."
+          "explanation": ""
         },
         {
           "text": "Von römischem Recht und Bürgerpflicht",
-          "explanation": "Das trifft nicht zu. Richtig ist: Von Sünde, von Gerechtigkeit und vom Gericht [ref:Johannes 16:8-11]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Johannes 16:8-11",
-      "explanation": "Wenn der Tröster kommt, wird er die Welt überführen von Sünde, von Gerechtigkeit und vom Gericht [ref:Johannes 16:8-11].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -2337,27 +2337,27 @@
       "text": "In welchen Bereich wird der Geist der Wahrheit die Glaubenden leiten?",
       "options": [
         {
-          "text": "In irdischen Reichtum",
-          "explanation": "Das trifft nicht zu. Richtig ist: In alle Wahrheit [ref:Johannes 16:12-15]."
+          "text": "In großen irdischen Reichtum",
+          "explanation": ""
         },
         {
-          "text": "In die Schriften der Römer",
-          "explanation": "Das trifft nicht zu. Richtig ist: In alle Wahrheit [ref:Johannes 16:12-15]."
+          "text": "In die Gesetze und Satzungen",
+          "explanation": ""
         },
         {
-          "text": "In alle Wahrheit",
-          "explanation": "Wenn der Geist der Wahrheit kommt, wird er euch in alle Wahrheit leiten [ref:Johannes 16:12-15]."
+          "text": "In die ganze göttliche Wahrheit",
+          "explanation": ""
         },
         {
           "text": "In das Ansehen bei den Menschen",
-          "explanation": "Das trifft nicht zu. Richtig ist: In alle Wahrheit [ref:Johannes 16:12-15]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Johannes 16:12-15",
-      "explanation": "Wenn der Geist der Wahrheit kommt, wird er euch in alle Wahrheit leiten [ref:Johannes 16:12-15].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -2368,26 +2368,26 @@
       "options": [
         {
           "text": "Mit einem Sturm auf dem See",
-          "explanation": "Das trifft nicht zu. Richtig ist: Mit einer Frau in Geburtswehen [ref:Johannes 16:20-22]."
+          "explanation": ""
         },
         {
           "text": "Mit einer Saat auf trockenem Acker",
-          "explanation": "Das trifft nicht zu. Richtig ist: Mit einer Frau in Geburtswehen [ref:Johannes 16:20-22]."
+          "explanation": ""
         },
         {
           "text": "Mit dem Warten auf Regen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Mit einer Frau in Geburtswehen [ref:Johannes 16:20-22]."
+          "explanation": ""
         },
         {
           "text": "Mit einer Frau in Geburtswehen",
-          "explanation": "Eine Frau hat Traurigkeit, wenn sie gebiert; wenn sie aber das Kind geboren hat, denkt sie nicht mehr an die Angst [ref:Johannes 16:20-22]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Johannes 16:20-22",
-      "explanation": "Eine Frau hat Traurigkeit, wenn sie gebiert; wenn sie aber das Kind geboren hat, denkt sie nicht mehr an die Angst [ref:Johannes 16:20-22].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -2397,27 +2397,27 @@
       "text": "Welches Siegeswort spricht Jesus am Ende Seiner Abschiedsreden aus?",
       "options": [
         {
-          "text": "Seid getrost, ich habe die Welt überwunden",
-          "explanation": "In der Welt habt ihr Angst; aber seid getrost, ich habe die Welt überwunden [ref:Johannes 16:33]."
+          "text": "Jedoch fasst Mut, ich habe die Welt überwunden!",
+          "explanation": ""
         },
         {
-          "text": "Ich habe den Tempel gereinigt und das Haus meines Vaters bewahrt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Seid getrost, ich habe die Welt überwunden [ref:Johannes 16:33]."
+          "text": "Ich habe den heiligen Tempel meines Vaters bewahrt!",
+          "explanation": ""
         },
         {
-          "text": "Ich habe die Römer besiegt und das Reich Israel wiederhergestellt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Seid getrost, ich habe die Welt überwunden [ref:Johannes 16:33]."
+          "text": "Ich habe die Macht der Feinde für immer gebrochen!",
+          "explanation": ""
         },
         {
-          "text": "Ich habe das Gesetz vollendet und alle Propheten erfüllt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Seid getrost, ich habe die Welt überwunden [ref:Johannes 16:33]."
+          "text": "Ich habe das heilige Gesetz und Propheten erfüllt!",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Johannes 16:33",
-      "explanation": "In der Welt habt ihr Angst; aber seid getrost, ich habe die Welt überwunden [ref:Johannes 16:33].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -2428,26 +2428,26 @@
       "options": [
         {
           "text": "Ein Leben ohne Schmerz und Tod im Himmelreich, das sie schon erwartet und erhofft",
-          "explanation": "Das trifft nicht zu. Richtig ist: Dass sie dich, den allein wahren Gott, und den du gesandt hast, Jesus Christus, erkennen [ref:Johannes 17:1-3]."
+          "explanation": ""
         },
         {
           "text": "Dass sie dich, den allein wahren Gott, und den du gesandt hast, Jesus Christus, erkennen",
-          "explanation": "Das ist aber das ewige Leben, dass sie dich, der du allein wahrer Gott bist, und den du gesandt hast, Jesus Christus, erkennen [ref:Johannes 17:1-3]."
+          "explanation": ""
         },
         {
           "text": "Die endlose Fortdauer der Seele, die dem gläubigen Menschen für immer verheißen ist",
-          "explanation": "Das trifft nicht zu. Richtig ist: Dass sie dich, den allein wahren Gott, und den du gesandt hast, Jesus Christus, erkennen [ref:Johannes 17:1-3]."
+          "explanation": ""
         },
         {
           "text": "Die Befreiung von aller Sünde und Krankheit im kommenden Reich Gottes auf Erden",
-          "explanation": "Das trifft nicht zu. Richtig ist: Dass sie dich, den allein wahren Gott, und den du gesandt hast, Jesus Christus, erkennen [ref:Johannes 17:1-3]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Johannes 17:1-3",
-      "explanation": "Das ist aber das ewige Leben, dass sie dich, der du allein wahrer Gott bist, und den du gesandt hast, Jesus Christus, erkennen [ref:Johannes 17:1-3].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -2457,27 +2457,27 @@
       "text": "Welches Anliegen erbat Jesus vom Vater für die Gemeinschaft Seiner Jünger?",
       "options": [
         {
-          "text": "Dass sie reicher werden als die Welt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Dass sie alle eins seien, wie wir eins sind [ref:Johannes 17:11-23]."
+          "text": "Dass sie reicher werden als alle Völker auf Erden",
+          "explanation": ""
         },
         {
-          "text": "Dass sie keine Verfolgung erleiden",
-          "explanation": "Das trifft nicht zu. Richtig ist: Dass sie alle eins seien, wie wir eins sind [ref:Johannes 17:11-23]."
+          "text": "Dass sie keine irdische Trübsal in der Welt erleiden",
+          "explanation": ""
         },
         {
           "text": "Dass sie alle eins seien, wie wir eins sind",
-          "explanation": "Heiliger Vater, erhalte sie in deinem Namen, dass sie eins seien gleichwie wir [ref:Johannes 17:11-23]."
+          "explanation": ""
         },
         {
-          "text": "Dass sie die Macht Roms brechen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Dass sie alle eins seien, wie wir eins sind [ref:Johannes 17:11-23]."
+          "text": "Dass sie die weltliche Herrschaft für immer brechen",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Johannes 17:11-23",
-      "explanation": "Heiliger Vater, erhalte sie in deinem Namen, dass sie eins seien gleichwie wir [ref:Johannes 17:11-23].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -2488,26 +2488,26 @@
       "options": [
         {
           "text": "Er bittet, dass sie in der Welt Geld verdienen und es zu Wohlstand bringen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er bittet, dass der Vater sie vor dem Bösen bewahrt [ref:Johannes 17:14-16]."
+          "explanation": ""
         },
         {
           "text": "Er bittet, dass sie das Gesetz lernen und es ihr Leben lang halten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er bittet, dass der Vater sie vor dem Bösen bewahrt [ref:Johannes 17:14-16]."
+          "explanation": ""
         },
         {
           "text": "Er bittet, dass der Tempel sie beschützt und vor den Feinden bewahrt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er bittet, dass der Vater sie vor dem Bösen bewahrt [ref:Johannes 17:14-16]."
+          "explanation": ""
         },
         {
           "text": "Er bittet, dass der Vater sie vor dem Bösen bewahrt",
-          "explanation": "Ich bitte nicht, dass du sie aus der Welt nehmest, sondern dass du sie bewahrest vor dem Bösen [ref:Johannes 17:14-16]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Johannes 17:14-16",
-      "explanation": "Ich bitte nicht, dass du sie aus der Welt nehmest, sondern dass du sie bewahrest vor dem Bösen [ref:Johannes 17:14-16].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -2518,26 +2518,26 @@
       "options": [
         {
           "text": "Durch die Wahrheit: Dein Wort ist die Wahrheit",
-          "explanation": "Heilige sie in deiner Wahrheit; dein Wort ist die Wahrheit [ref:Johannes 17:17]."
+          "explanation": ""
         },
         {
           "text": "Durch das Wasser des Teichs Siloah, das alle Unreinheit abwäscht",
-          "explanation": "Das trifft nicht zu. Richtig ist: Durch die Wahrheit: Dein Wort ist die Wahrheit [ref:Johannes 17:17]."
+          "explanation": ""
         },
         {
           "text": "Durch Brandopfer, die sie täglich im Tempel darbringen sollen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Durch die Wahrheit: Dein Wort ist die Wahrheit [ref:Johannes 17:17]."
+          "explanation": ""
         },
         {
           "text": "Durch das Halten des Sabbatgebots und der Reinheitsvorschriften",
-          "explanation": "Das trifft nicht zu. Richtig ist: Durch die Wahrheit: Dein Wort ist die Wahrheit [ref:Johannes 17:17]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Johannes 17:17",
-      "explanation": "Heilige sie in deiner Wahrheit; dein Wort ist die Wahrheit [ref:Johannes 17:17].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -2548,26 +2548,26 @@
       "options": [
         {
           "text": "Nur für die Hohenpriester, die dem Volk den rechten Weg weisen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Für alle, die durch ihr Wort an ihn glauben werden [ref:Johannes 17:20-24]."
+          "explanation": ""
         },
         {
           "text": "Für alle, die durch ihr Wort an ihn glauben werden",
-          "explanation": "Ich bitte nicht allein für sie, sondern auch für die, welche durch ihr Wort an mich glauben werden [ref:Johannes 17:20-24]."
+          "explanation": ""
         },
         {
           "text": "Nur für die Bewohner Jerusalems, die ihn aufgenommen hatten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Für alle, die durch ihr Wort an ihn glauben werden [ref:Johannes 17:20-24]."
+          "explanation": ""
         },
         {
           "text": "Für die römischen Soldaten, die ihn am Kreuz bewachen würden",
-          "explanation": "Das trifft nicht zu. Richtig ist: Für alle, die durch ihr Wort an ihn glauben werden [ref:Johannes 17:20-24]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Johannes 17:20-24",
-      "explanation": "Ich bitte nicht allein für sie, sondern auch für die, welche durch ihr Wort an mich glauben werden [ref:Johannes 17:20-24].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -2577,27 +2577,27 @@
       "text": "Wo befand sich der Garten, in dem Jesus gefangen genommen wurde?",
       "options": [
         {
-          "text": "Ein Garten auf dem Sinai",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ein Garten jenseits des Baches Kidron [ref:Johannes 18:1-2]."
+          "text": "Ein Weinberg auf dem Berg Sinai",
+          "explanation": ""
         },
         {
-          "text": "Der Garten Salomos",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ein Garten jenseits des Baches Kidron [ref:Johannes 18:1-2]."
+          "text": "Der Königsgarten Salomos in Zion",
+          "explanation": ""
         },
         {
-          "text": "Ein Garten jenseits des Baches Kidron",
-          "explanation": "Jesus ging mit seinen Jüngern hinaus über den Bach Kidron; da war ein Garten [ref:Johannes 18:1-2]."
+          "text": "Ein Garten über dem Bach Kidron",
+          "explanation": ""
         },
         {
-          "text": "Der Garten beim Haus des Nikodemus",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ein Garten jenseits des Baches Kidron [ref:Johannes 18:1-2]."
+          "text": "Der Garten beim Hause Nikodemus",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Johannes 18:1-2",
-      "explanation": "Jesus ging mit seinen Jüngern hinaus über den Bach Kidron; da war ein Garten [ref:Johannes 18:1-2].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -2608,26 +2608,26 @@
       "options": [
         {
           "text": "Sie griffen ihn sofort an und schlugen ihn",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie wichen zurück und fielen zu Boden [ref:Johannes 18:4-6]."
+          "explanation": ""
         },
         {
           "text": "Sie riefen die römischen Soldaten zu Hilfe",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie wichen zurück und fielen zu Boden [ref:Johannes 18:4-6]."
+          "explanation": ""
         },
         {
           "text": "Sie flohen in Panik aus dem Garten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie wichen zurück und fielen zu Boden [ref:Johannes 18:4-6]."
+          "explanation": ""
         },
         {
           "text": "Sie wichen zurück und fielen zu Boden",
-          "explanation": "Als Jesus sagte: Ich bin es, wichen sie zurück und fielen zu Boden [ref:Johannes 18:4-6]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Johannes 18:4-6",
-      "explanation": "Als Jesus sagte: Ich bin es, wichen sie zurück und fielen zu Boden [ref:Johannes 18:4-6].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -2638,26 +2638,26 @@
       "options": [
         {
           "text": "Malchus",
-          "explanation": "Simon Petrus zog sein Schwert und schlug dem Knecht des Hohenpriesters, Malchus, das rechte Ohr ab [ref:Johannes 18:10-11]."
+          "explanation": ""
         },
         {
           "text": "Barabbas",
-          "explanation": "Das trifft nicht zu. Richtig ist: Malchus [ref:Johannes 18:10-11]."
+          "explanation": ""
         },
         {
           "text": "Zachäus",
-          "explanation": "Das trifft nicht zu. Richtig ist: Malchus [ref:Johannes 18:10-11]."
+          "explanation": ""
         },
         {
           "text": "Kornelius",
-          "explanation": "Das trifft nicht zu. Richtig ist: Malchus [ref:Johannes 18:10-11]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Johannes 18:10-11",
-      "explanation": "Simon Petrus zog sein Schwert und schlug dem Knecht des Hohenpriesters, Malchus, das rechte Ohr ab [ref:Johannes 18:10-11].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -2667,27 +2667,27 @@
       "text": "Zu wem wurde Jesus nach der Gefangennahme zuerst geführt?",
       "options": [
         {
-          "text": "Zu Pilatus",
-          "explanation": "Das trifft nicht zu. Richtig ist: Zu Hannas [ref:Johannes 18:12-14]."
+          "text": "Zu Pontius Pilatus",
+          "explanation": ""
         },
         {
-          "text": "Zu Hannas",
-          "explanation": "Sie führten ihn zuerst zu Hannas, dem Schwiegervater des Kaiphas [ref:Johannes 18:12-14]."
+          "text": "Zuerst zu Hannas",
+          "explanation": ""
         },
         {
-          "text": "Zum Kaiser",
-          "explanation": "Das trifft nicht zu. Richtig ist: Zu Hannas [ref:Johannes 18:12-14]."
+          "text": "Zum Kaiser nach Rom",
+          "explanation": ""
         },
         {
-          "text": "Ins Gefängnis nach Rom",
-          "explanation": "Das trifft nicht zu. Richtig ist: Zu Hannas [ref:Johannes 18:12-14]."
+          "text": "Zu König Herodes",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Johannes 18:12-14",
-      "explanation": "Sie führten ihn zuerst zu Hannas, dem Schwiegervater des Kaiphas [ref:Johannes 18:12-14].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -2698,26 +2698,26 @@
       "options": [
         {
           "text": "Mein Reich wird die Römer stürzen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Mein Reich ist nicht von dieser Welt [ref:Johannes 18:33-36]."
+          "explanation": ""
         },
         {
           "text": "Mein Reich liegt im Tempelschatz",
-          "explanation": "Das trifft nicht zu. Richtig ist: Mein Reich ist nicht von dieser Welt [ref:Johannes 18:33-36]."
+          "explanation": ""
         },
         {
           "text": "Mein Reich ist nicht von dieser Welt",
-          "explanation": "Jesus antwortete Pilatus: Wäre mein Reich von dieser Welt, würden meine Diener kämpfen [ref:Johannes 18:33-36]."
+          "explanation": ""
         },
         {
           "text": "Mein Reich gehört den Reichen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Mein Reich ist nicht von dieser Welt [ref:Johannes 18:33-36]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Johannes 18:33-36",
-      "explanation": "Jesus antwortete Pilatus: Wäre mein Reich von dieser Welt, würden meine Diener kämpfen [ref:Johannes 18:33-36].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -2728,26 +2728,26 @@
       "options": [
         {
           "text": "Sie gaben ihm ein goldenes Zepter und warfen sich vor ihm nieder",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie flochten eine Krone aus Dornen und legten ihm ein Purpurkleid an [ref:Johannes 19:1-3]."
+          "explanation": ""
         },
         {
           "text": "Sie zogen ihm goldene Schuhe an und führten ihn durch die Stadt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie flochten eine Krone aus Dornen und legten ihm ein Purpurkleid an [ref:Johannes 19:1-3]."
+          "explanation": ""
         },
         {
           "text": "Sie verbrannten seine Kleider und legten ihm ein Bußgewand an",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie flochten eine Krone aus Dornen und legten ihm ein Purpurkleid an [ref:Johannes 19:1-3]."
+          "explanation": ""
         },
         {
           "text": "Sie flochten eine Krone aus Dornen und legten ihm ein Purpurkleid an",
-          "explanation": "Die Soldaten schlugen ihn und riefen: Sei gegrüßt, König der Juden! [ref:Johannes 19:1-3]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Johannes 19:1-3",
-      "explanation": "Die Soldaten schlugen ihn und riefen: Sei gegrüßt, König der Juden! [ref:Johannes 19:1-3].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -2757,27 +2757,27 @@
       "text": "Welche Ausrufeworte sprach Pilatus, als Er Jesus dem Volke vorführte?",
       "options": [
         {
-          "text": "Sehet, welch ein Mensch!",
-          "explanation": "Pilatus führte Jesus mit der Dornenkrone und dem Purpurkleid heraus und sagte: Sehet, welch ein Mensch! [ref:Johannes 19:4-6]."
+          "text": "Seht, welch ein Mensch!",
+          "explanation": ""
         },
         {
-          "text": "Seht euren mächtigen König",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sehet, welch ein Mensch! [ref:Johannes 19:4-6]."
+          "text": "Seht hier euren König!",
+          "explanation": ""
         },
         {
-          "text": "Hier ist der Gesetzesbrecher",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sehet, welch ein Mensch! [ref:Johannes 19:4-6]."
+          "text": "Seht hier euren Richter!",
+          "explanation": ""
         },
         {
-          "text": "Gebt ihm die verdiente Todesstrafe",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sehet, welch ein Mensch! [ref:Johannes 19:4-6]."
+          "text": "Seht diesen Aufrührer!",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Johannes 19:4-6",
-      "explanation": "Pilatus führte Jesus mit der Dornenkrone und dem Purpurkleid heraus und sagte: Sehet, welch ein Mensch! [ref:Johannes 19:4-6].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -2788,26 +2788,26 @@
       "options": [
         {
           "text": "Hebräisch, Ägyptisch und Deutsch",
-          "explanation": "Das trifft nicht zu. Richtig ist: Hebräisch, Griechisch und Lateinisch [ref:Johannes 19:19-20]."
+          "explanation": ""
         },
         {
           "text": "Hebräisch, Griechisch und Lateinisch",
-          "explanation": "Es stand geschrieben in hebräischer, griechischer und lateinischer Sprache: Jesus von Nazareth, der König der Juden [ref:Johannes 19:19-20]."
+          "explanation": ""
         },
         {
           "text": "Aramäisch, Syrisch und Latein",
-          "explanation": "Das trifft nicht zu. Richtig ist: Hebräisch, Griechisch und Lateinisch [ref:Johannes 19:19-20]."
+          "explanation": ""
         },
         {
           "text": "Griechisch, Arabisch und Persisch",
-          "explanation": "Das trifft nicht zu. Richtig ist: Hebräisch, Griechisch und Lateinisch [ref:Johannes 19:19-20]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Johannes 19:19-20",
-      "explanation": "Es stand geschrieben in hebräischer, griechischer und lateinischer Sprache: Jesus von Nazareth, der König der Juden [ref:Johannes 19:19-20].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -2817,27 +2817,27 @@
       "text": "Welchen Auftrag erteilte der sterbende Jesus dem Jünger, den Er liebte?",
       "options": [
         {
-          "text": "Ein Haus für die Jünger zu bauen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Für seine Mutter zu sorgen [ref:Johannes 19:25-27]."
+          "text": "Ein Haus für die Jünger zu erbauen",
+          "explanation": ""
         },
         {
-          "text": "Nach Rom zu gehen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Für seine Mutter zu sorgen [ref:Johannes 19:25-27]."
+          "text": "Sofort als Zeuge nach Rom zu reisen",
+          "explanation": ""
         },
         {
-          "text": "Für seine Mutter zu sorgen",
-          "explanation": "Jesus sprach zu seiner Mutter: Siehe, das ist dein Sohn!, und zu dem Jünger: Siehe, das ist deine Mutter! [ref:Johannes 19:25-27]."
+          "text": "Seine Mutter als die seine zu nehmen",
+          "explanation": ""
         },
         {
-          "text": "Die Worte aufzuschreiben",
-          "explanation": "Das trifft nicht zu. Richtig ist: Für seine Mutter zu sorgen [ref:Johannes 19:25-27]."
+          "text": "Seine Worte in ein Buch zu schreiben",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Johannes 19:25-27",
-      "explanation": "Jesus sprach zu seiner Mutter: Siehe, das ist dein Sohn!, und zu dem Jünger: Siehe, das ist deine Mutter! [ref:Johannes 19:25-27].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -2848,26 +2848,26 @@
       "options": [
         {
           "text": "Es ist nun alles zu Ende",
-          "explanation": "Das trifft nicht zu. Richtig ist: Es ist vollbracht! [ref:Johannes 19:30]."
+          "explanation": ""
         },
         {
           "text": "Vater, vergib ihnen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Es ist vollbracht! [ref:Johannes 19:30]."
+          "explanation": ""
         },
         {
           "text": "Ich komme zu dir",
-          "explanation": "Das trifft nicht zu. Richtig ist: Es ist vollbracht! [ref:Johannes 19:30]."
+          "explanation": ""
         },
         {
           "text": "Es ist vollbracht!",
-          "explanation": "Als Jesus den Essig genommen hatte, sprach er: Es ist vollbracht! und neigte das Haupt und verschied [ref:Johannes 19:30]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Johannes 19:30",
-      "explanation": "Als Jesus den Essig genommen hatte, sprach er: Es ist vollbracht! und neigte das Haupt und verschied [ref:Johannes 19:30].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -2878,26 +2878,26 @@
       "options": [
         {
           "text": "Maria Magdalena",
-          "explanation": "Am ersten Tag der Woche kam Maria Magdalena früh, als es noch finster war, zum Grab [ref:Johannes 20:1-2]."
+          "explanation": ""
         },
         {
           "text": "Petrus und Johannes",
-          "explanation": "Das trifft nicht zu. Richtig ist: Maria Magdalena [ref:Johannes 20:1-2]."
+          "explanation": ""
         },
         {
           "text": "Die Mutter Jesu",
-          "explanation": "Das trifft nicht zu. Richtig ist: Maria Magdalena [ref:Johannes 20:1-2]."
+          "explanation": ""
         },
         {
           "text": "Josef von Arimathäa",
-          "explanation": "Das trifft nicht zu. Richtig ist: Maria Magdalena [ref:Johannes 20:1-2]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Johannes 20:1-2",
-      "explanation": "Am ersten Tag der Woche kam Maria Magdalena früh, als es noch finster war, zum Grab [ref:Johannes 20:1-2].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -2908,26 +2908,26 @@
       "options": [
         {
           "text": "Petrus lief schneller und kam zuerst am leeren Grab an",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der andere Jünger, den Jesus liebte, kam zuerst [ref:Johannes 20:3-6]."
+          "explanation": ""
         },
         {
           "text": "Der andere Jünger, den Jesus liebte, kam zuerst",
-          "explanation": "Die beiden liefen miteinander; der andere Jünger lief schneller als Petrus und kam zuerst zum Grab [ref:Johannes 20:3-6]."
+          "explanation": ""
         },
         {
           "text": "Thomas war zuerst da und sah nur die Leinentücher liegen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der andere Jünger, den Jesus liebte, kam zuerst [ref:Johannes 20:3-6]."
+          "explanation": ""
         },
         {
           "text": "Philippus kam zuerst an und fand das Grab verschlossen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der andere Jünger, den Jesus liebte, kam zuerst [ref:Johannes 20:3-6]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Johannes 20:3-6",
-      "explanation": "Die beiden liefen miteinander; der andere Jünger lief schneller als Petrus und kam zuerst zum Grab [ref:Johannes 20:3-6].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -2937,27 +2937,27 @@
       "text": "Für wen hielt Maria Magdalena den auferstandenen Jesus zunächst im Garten?",
       "options": [
         {
-          "text": "Für einen Engel in weißem Kleid",
-          "explanation": "Das trifft nicht zu. Richtig ist: Für den Gärtner [ref:Johannes 20:14-16]."
+          "text": "Für einen Engel im weißen Kleid",
+          "explanation": ""
         },
         {
-          "text": "Für den Hohenpriester",
-          "explanation": "Das trifft nicht zu. Richtig ist: Für den Gärtner [ref:Johannes 20:14-16]."
+          "text": "Für den Hohenpriester im Garten",
+          "explanation": ""
         },
         {
-          "text": "Für den Gärtner",
-          "explanation": "Maria hielt ihn für den Gärtner, bis er sie bei ihrem Namen rief [ref:Johannes 20:14-16]."
+          "text": "Für den Gärtner an jener Stätte",
+          "explanation": ""
         },
         {
-          "text": "Für den Apostel Petrus",
-          "explanation": "Das trifft nicht zu. Richtig ist: Für den Gärtner [ref:Johannes 20:14-16]."
+          "text": "Für den treuen Jünger Petrus da",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Johannes 20:14-16",
-      "explanation": "Maria hielt ihn für den Gärtner, bis er sie bei ihrem Namen rief [ref:Johannes 20:14-16].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -2968,26 +2968,26 @@
       "options": [
         {
           "text": "Du bist ein großer Erlöser",
-          "explanation": "Das trifft nicht zu. Richtig ist: Mein Herr und mein Gott! [ref:Johannes 20:26-29]."
+          "explanation": ""
         },
         {
           "text": "Ich glaube an die Auferstehung",
-          "explanation": "Das trifft nicht zu. Richtig ist: Mein Herr und mein Gott! [ref:Johannes 20:26-29]."
+          "explanation": ""
         },
         {
           "text": "Du bist der König von Israel",
-          "explanation": "Das trifft nicht zu. Richtig ist: Mein Herr und mein Gott! [ref:Johannes 20:26-29]."
+          "explanation": ""
         },
         {
           "text": "Mein Herr und mein Gott!",
-          "explanation": "Thomas bekannte seinen Glauben, als er den Auferstandenen sah [ref:Johannes 20:26-29]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Johannes 20:26-29",
-      "explanation": "Thomas bekannte seinen Glauben, als er den Auferstandenen sah [ref:Johannes 20:26-29].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -2998,26 +2998,26 @@
       "options": [
         {
           "text": "Damit ihr glaubt, dass Jesus der Christus ist, und durch den Glauben das Leben habt",
-          "explanation": "Diese Zeichen sind aufgeschrieben, damit ihr glaubt, dass Jesus der Christus, der Sohn Gottes ist [ref:Johannes 20:30-31]."
+          "explanation": ""
         },
         {
           "text": "Damit alle Völker den Kaiser ehren und dem Gesetz Moses gehorchen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Damit ihr glaubt, dass Jesus der Christus ist, und durch den Glauben das Leben habt [ref:Johannes 20:30-31]."
+          "explanation": ""
         },
         {
           "text": "Damit der Tempel geehrt wird und das Gesetz Moses für immer erfüllt bleibt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Damit ihr glaubt, dass Jesus der Christus ist, und durch den Glauben das Leben habt [ref:Johannes 20:30-31]."
+          "explanation": ""
         },
         {
           "text": "Damit die Geschichte der Wunder bewahrt wird und nie in Vergessenheit gerät",
-          "explanation": "Das trifft nicht zu. Richtig ist: Damit ihr glaubt, dass Jesus der Christus ist, und durch den Glauben das Leben habt [ref:Johannes 20:30-31]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Johannes 20:30-31",
-      "explanation": "Diese Zeichen sind aufgeschrieben, damit ihr glaubt, dass Jesus der Christus, der Sohn Gottes ist [ref:Johannes 20:30-31].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -3028,26 +3028,26 @@
       "options": [
         {
           "text": "Am Toten Meer",
-          "explanation": "Das trifft nicht zu. Richtig ist: Am See Tiberias [ref:Johannes 21:1-6]."
+          "explanation": ""
         },
         {
           "text": "Am See Tiberias",
-          "explanation": "Danach offenbarte sich Jesus wieder den Jüngern am See Tiberias [ref:Johannes 21:1-6]."
+          "explanation": ""
         },
         {
           "text": "Am Roten Meer",
-          "explanation": "Das trifft nicht zu. Richtig ist: Am See Tiberias [ref:Johannes 21:1-6]."
+          "explanation": ""
         },
         {
           "text": "Am Jordan",
-          "explanation": "Das trifft nicht zu. Richtig ist: Am See Tiberias [ref:Johannes 21:1-6]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Johannes 21:1-6",
-      "explanation": "Danach offenbarte sich Jesus wieder den Jüngern am See Tiberias [ref:Johannes 21:1-6].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -3058,26 +3058,26 @@
       "options": [
         {
           "text": "Einhundert Fische, die genau gezählt in das Netz gingen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Einhundertdreiundfünfzig große Fische [ref:Johannes 21:11]."
+          "explanation": ""
         },
         {
           "text": "Zweihundert Fische, die das Netz fast zerrissen hätten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Einhundertdreiundfünfzig große Fische [ref:Johannes 21:11]."
+          "explanation": ""
         },
         {
           "text": "Einhundertdreiundfünfzig große Fische",
-          "explanation": "Das Netz war voll großer Fische, hundertdreiundfünfzig, und doch zerriss es nicht [ref:Johannes 21:11]."
+          "explanation": ""
         },
         {
           "text": "Siebzig Fische, die für die Jünger zum Frühstück reichten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Einhundertdreiundfünfzig große Fische [ref:Johannes 21:11]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Johannes 21:11",
-      "explanation": "Das Netz war voll großer Fische, hundertdreiundfünfzig, und doch zerriss es nicht [ref:Johannes 21:11].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -3087,27 +3087,27 @@
       "text": "Welche Frage richtete Jesus am See dreimal an Petrus?",
       "options": [
         {
-          "text": "Wirst du ein Haus bauen und die Herde weiden, die ich dir gebe?",
-          "explanation": "Das trifft nicht zu. Richtig ist: Simon, Sohn des Johannes, hast du mich lieb? [ref:Johannes 21:15-17]."
+          "text": "Simon Jona, wirst du meine Jünger sammeln und leiten?",
+          "explanation": ""
         },
         {
-          "text": "Wirst du nach Jerusalem gehen und dort meine Gemeinde sammeln?",
-          "explanation": "Das trifft nicht zu. Richtig ist: Simon, Sohn des Johannes, hast du mich lieb? [ref:Johannes 21:15-17]."
+          "text": "Simon Jona, wirst du dein Leben für meine Herde geben?",
+          "explanation": ""
         },
         {
-          "text": "Wirst du mich wieder verleugnen, wenn die Soldaten kommen?",
-          "explanation": "Das trifft nicht zu. Richtig ist: Simon, Sohn des Johannes, hast du mich lieb? [ref:Johannes 21:15-17]."
+          "text": "Simon Jona, wirst du mich verleugnen in der Bedrängnis?",
+          "explanation": ""
         },
         {
-          "text": "Simon, Sohn des Johannes, hast du mich lieb?",
-          "explanation": "Dreimal fragte Jesus Petrus, ob er ihn liebhabe [ref:Johannes 21:15-17]."
+          "text": "Simon Jona, liebst du mich? Hast du mich wirklich lieb?",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Johannes 21:15-17",
-      "explanation": "Dreimal fragte Jesus Petrus, ob er ihn liebhabe [ref:Johannes 21:15-17].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -3118,26 +3118,26 @@
       "options": [
         {
           "text": "Weide meine Lämmer und meine Schafe",
-          "explanation": "Jesus gab dem wiederhergestellten Petrus den Hirtenauftrag [ref:Johannes 21:15-17]."
+          "explanation": ""
         },
         {
           "text": "Baue ein Heiligtum am See Genezareth",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weide meine Lämmer und meine Schafe [ref:Johannes 21:15-17]."
+          "explanation": ""
         },
         {
           "text": "Sammle Geld für die Apostel und die Armen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weide meine Lämmer und meine Schafe [ref:Johannes 21:15-17]."
+          "explanation": ""
         },
         {
           "text": "Wandere in die Heidenstädte am Meer",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weide meine Lämmer und meine Schafe [ref:Johannes 21:15-17]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Johannes 21:15-17",
-      "explanation": "Jesus gab dem wiederhergestellten Petrus den Hirtenauftrag [ref:Johannes 21:15-17].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -3148,26 +3148,26 @@
       "options": [
         {
           "text": "Alle Römer wurden gläubig, und der Kaiser selbst beugte sich dem Herrn",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Welt würde die Bücher nicht fassen, die man schreiben müsste [ref:Johannes 21:24-25]."
+          "explanation": ""
         },
         {
-          "text": "Die Welt würde die Bücher nicht fassen, die man schreiben müsste",
-          "explanation": "Es sind noch viele andere Dinge, die Jesus tat; wenn sie alle einzeln aufgeschrieben würden, würde die Welt die Bücher nicht fassen [ref:Johannes 21:24-25]."
+          "text": "Die Welt würde die Bücher gar nicht fassen, die zu schreiben wären",
+          "explanation": ""
         },
         {
           "text": "Der Tempel wurde neu geweiht, und das Volk dankte Gott für alle Zeichen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Welt würde die Bücher nicht fassen, die man schreiben müsste [ref:Johannes 21:24-25]."
+          "explanation": ""
         },
         {
           "text": "Die Wunder wurden alle aufgeschrieben, damit niemand daran zweifeln kann",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Welt würde die Bücher nicht fassen, die man schreiben müsste [ref:Johannes 21:24-25]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Johannes 21:24-25",
-      "explanation": "Es sind noch viele andere Dinge, die Jesus tat; wenn sie alle einzeln aufgeschrieben würden, würde die Welt die Bücher nicht fassen [ref:Johannes 21:24-25].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -3178,26 +3178,26 @@
       "options": [
         {
           "text": "Thomas",
-          "explanation": "Thomas antwortete und sprach zu ihm: Mein Herr und mein Gott! [ref:Johannes 20:28]."
+          "explanation": ""
         },
         {
           "text": "Nathanael",
-          "explanation": "Das trifft nicht zu. Richtig ist: Thomas [ref:Johannes 20:28]."
+          "explanation": ""
         },
         {
           "text": "Philippus",
-          "explanation": "Das trifft nicht zu. Richtig ist: Thomas [ref:Johannes 20:28]."
+          "explanation": ""
         },
         {
           "text": "Petrus",
-          "explanation": "Das trifft nicht zu. Richtig ist: Thomas [ref:Johannes 20:28]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Johannes 20:28",
-      "explanation": "Thomas antwortete und sprach zu ihm: Mein Herr und mein Gott! [ref:Johannes 20:28].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -3208,26 +3208,26 @@
       "options": [
         {
           "text": "Andreas, der Jünger",
-          "explanation": "Das trifft nicht zu. Richtig ist: Johannes der Täufer [ref:Johannes 1:29]."
+          "explanation": ""
         },
         {
           "text": "Nikodemus, der Pharisäer",
-          "explanation": "Das trifft nicht zu. Richtig ist: Johannes der Täufer [ref:Johannes 1:29]."
+          "explanation": ""
         },
         {
           "text": "Johannes der Täufer",
-          "explanation": "Am folgenden Tag sieht Johannes Jesus auf sich zukommen und spricht: Siehe, das Lamm Gottes, welches die Sünde der Welt hinwegnimmt ! [ref:Johannes 1:29]."
+          "explanation": ""
         },
         {
           "text": "Simeon, der Greis",
-          "explanation": "Das trifft nicht zu. Richtig ist: Johannes der Täufer [ref:Johannes 1:29]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Johannes 1:29",
-      "explanation": "Am folgenden Tag sieht Johannes Jesus auf sich zukommen und spricht: Siehe, das Lamm Gottes, welches die Sünde der Welt hinwegnimmt ! [ref:Johannes 1:29].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -3238,19 +3238,19 @@
       "options": [
         {
           "text": "Jakobus, der Sohn des Alphäus",
-          "explanation": "Das trifft nicht zu. Richtig sind: Josef von Arimathia; Nikodemus [ref:Johannes 19:38-39]."
+          "explanation": ""
         },
         {
-          "text": "Josef von Arimathia",
-          "explanation": "Danach bat Joseph von Arimathia, {der ein Jünger Jesu war, doch heimlich, aus Furcht vor den Juden,} den Pilatus, dass er den Leib Jesu abnehmen dürfe. Und Pilatus erlaubte es. Da kam er und nahm den Leib Jesu herab. [ref:Johannes 19:38-39]."
+          "text": "Joseph von Arimathia, der Jünger",
+          "explanation": ""
         },
         {
-          "text": "Nikodemus",
-          "explanation": "Danach bat Joseph von Arimathia, {der ein Jünger Jesu war, doch heimlich, aus Furcht vor den Juden,} den Pilatus, dass er den Leib Jesu abnehmen dürfe. Und Pilatus erlaubte es. Da kam er und nahm den Leib Jesu herab. [ref:Johannes 19:38-39]."
+          "text": "Nikodemus, der Ratsherr der Juden",
+          "explanation": ""
         },
         {
-          "text": "Simon von Kyrene",
-          "explanation": "Das trifft nicht zu. Richtig sind: Josef von Arimathia; Nikodemus [ref:Johannes 19:38-39]."
+          "text": "Simon von Kyrene, der Kreuzträger",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -3258,7 +3258,7 @@
         2
       ],
       "bibleReference": "Johannes 19:38-39",
-      "explanation": "Danach bat Joseph von Arimathia, {der ein Jünger Jesu war, doch heimlich, aus Furcht vor den Juden,} den Pilatus, dass er den Leib Jesu abnehmen dürfe. Und Pilatus erlaubte es. Da kam er und nahm den Leib Jesu herab. [ref:Johannes 19:38-39].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -3269,23 +3269,23 @@
       "options": [
         {
           "text": "Ein Blindgeborener wird sehend",
-          "explanation": "Gehört an Stelle 4 der richtigen Reihenfolge [ref:Johannes 2:9; Johannes 4:50; Johannes 6:11; Johannes 9:7; Johannes 11:43]."
+          "explanation": ""
         },
         {
           "text": "Lazarus wird auferweckt",
-          "explanation": "Gehört an Stelle 5 der richtigen Reihenfolge [ref:Johannes 2:9; Johannes 4:50; Johannes 6:11; Johannes 9:7; Johannes 11:43]."
+          "explanation": ""
         },
         {
           "text": "Fünftausend Menschen werden gespeist",
-          "explanation": "Gehört an Stelle 3 der richtigen Reihenfolge [ref:Johannes 2:9; Johannes 4:50; Johannes 6:11; Johannes 9:7; Johannes 11:43]."
+          "explanation": ""
         },
         {
           "text": "Wasser wird in Kana zu Wein",
-          "explanation": "Gehört an Stelle 1 der richtigen Reihenfolge [ref:Johannes 2:9; Johannes 4:50; Johannes 6:11; Johannes 9:7; Johannes 11:43]."
+          "explanation": ""
         },
         {
           "text": "Der Sohn des Beamten wird geheilt",
-          "explanation": "Gehört an Stelle 2 der richtigen Reihenfolge [ref:Johannes 2:9; Johannes 4:50; Johannes 6:11; Johannes 9:7; Johannes 11:43]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -3295,8 +3295,8 @@
         0,
         1
       ],
-      "bibleReference": "Johannes 2:9; Johannes 4:50; Johannes 6:11; Johannes 9:7; Johannes 11:43",
-      "explanation": "Als aber der Speisemeister das Wasser, das zu Wein geworden war, gekostet hatte und er wusste nicht, woher es war; die Diener aber, die das Wasser geschöpft hatten, wussten es, ruft der Speisemeister den Bräutigam [ref:Johannes 2:9; Johannes 4:50; Johannes 6:11; Johannes 9:7; Johannes 11:43].",
+      "bibleReference": "Johannes 2:11",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -3307,19 +3307,19 @@
       "options": [
         {
           "text": "Jesus tritt zu den Jüngern, Thomas fehlt",
-          "explanation": "Gehört an Stelle 3 der richtigen Reihenfolge [ref:Johannes 20:14; Lukas 24:15; Johannes 20:19; Johannes 20:26]."
+          "explanation": ""
         },
         {
           "text": "Jesus erscheint den Jüngern, Thomas ist dabei",
-          "explanation": "Gehört an Stelle 4 der richtigen Reihenfolge [ref:Johannes 20:14; Lukas 24:15; Johannes 20:19; Johannes 20:26]."
+          "explanation": ""
         },
         {
           "text": "Jesus geht mit den Emmausjüngern",
-          "explanation": "Gehört an Stelle 2 der richtigen Reihenfolge [ref:Johannes 20:14; Lukas 24:15; Johannes 20:19; Johannes 20:26]."
+          "explanation": ""
         },
         {
           "text": "Jesus erscheint Maria Magdalena am Grab",
-          "explanation": "Gehört an Stelle 1 der richtigen Reihenfolge [ref:Johannes 20:14; Lukas 24:15; Johannes 20:19; Johannes 20:26]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -3328,8 +3328,8 @@
         0,
         1
       ],
-      "bibleReference": "Johannes 20:14; Lukas 24:15; Johannes 20:19; Johannes 20:26",
-      "explanation": "Und als sie das gesagt hatte, wendet sie sich um und sieht Jesus dastehen und weiß nicht, dass es Jesus ist. [ref:Johannes 20:14; Lukas 24:15; Johannes 20:19; Johannes 20:26].",
+      "bibleReference": "Johannes 20:19",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     }

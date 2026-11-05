@@ -1,0 +1,3779 @@
+{
+  "metadata": {
+    "quizId": "nt_04_johannes_alle_kapitel_en",
+    "title": "John",
+    "subtitle": "John 1:1 – 21:25 (110 questions)",
+    "author": "King James Version (1769)",
+    "version": "2.3.0",
+    "language": "en",
+    "category": "nt",
+    "difficulty": "medium",
+    "tags": [
+      "John",
+      "New Testament",
+      "Gospels",
+      "Gospel",
+      "Messiah",
+      "Incarnation",
+      "King James Version"
+    ],
+    "questionCount": 110,
+    "canonicalBookNumber": 43,
+    "testament": "NT"
+  },
+  "questions": [
+    {
+      "questionId": "joh_001",
+      "type": "single_choice",
+      "text": "What was the Word in the beginning (John 1:1-2)?",
+      "options": [
+        {
+          "text": "It was a created spirit among angels",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The Word was with God, and was God",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "It came into being at the creation",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It was only a thought of the Father",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "John 1:1-2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "joh_002",
+      "type": "single_choice",
+      "text": "What happened unto the Word according to John 1:14?",
+      "options": [
+        {
+          "text": "It remained hidden in heaven as a spirit",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It appeared unto mankind as a holy angel",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The Word was made flesh, and dwelt among us",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "It was given only as a written commandment",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "John 1:14",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "joh_003",
+      "type": "single_choice",
+      "text": "What did John the Baptist say when he saw Jesus coming unto him (John 1:29)?",
+      "options": [
+        {
+          "text": "Behold the King of Israel, which shall deliver his people from bondage.",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Behold the great prophet, which shall come in the spirit and power of Elias.",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Behold the righteous Judge, which shall purge the world with unquenchable fire.",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Behold the Lamb of God, which taketh away the sin of the world.",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "John 1:29",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joh_004",
+      "type": "single_choice",
+      "text": "Which disciple brought his brother Simon Peter to Jesus?",
+      "options": [
+        {
+          "text": "Andrew, Simon Peter's brother",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Philip of the city Bethsaida",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "John, the son of Zebedee",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Nathanael, the faithful man of Cana",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "John 1:40-42",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "joh_005",
+      "type": "single_choice",
+      "text": "Where did Jesus see Nathanael before Philip called him?",
+      "options": [
+        {
+          "text": "At his daily labor at the sea",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "When thou wast under the fig tree",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "At prayer within the temple courts",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "At the receipt of custom in the city",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "John 1:47-49",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "joh_006",
+      "type": "single_choice",
+      "text": "What was the beginning of miracles that Jesus did in Cana of Galilee?",
+      "options": [
+        {
+          "text": "Multiplying five loaves of barley bread",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Healing the mother of the bride in Cana",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Turning the water into wine at the feast",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Calming a sudden tempest on the waters",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "John 2:1-11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "joh_007",
+      "type": "single_choice",
+      "text": "What did Jesus do when he cleansed the temple at Jerusalem?",
+      "options": [
+        {
+          "text": "He paid the tribute money for all the poor of the city",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He called the rulers of the temple to an examination",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He offered up sacrifices and burnt incense on the altar",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He drove them all out of the temple with a scourge of cords",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "John 2:13-17",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joh_008",
+      "type": "single_choice",
+      "text": "Of what temple did Jesus speak when he said, 'Destroy this temple, and in three days I will raise it up'?",
+      "options": [
+        {
+          "text": "He spake of the temple of his body",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Of the stone temple built by Solomon",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Of the second sanctuary in Zion",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Of the tabernacle made by Moses",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "John 2:18-22",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joh_009",
+      "type": "single_choice",
+      "text": "Why did Jesus not commit himself unto many that believed in Jerusalem?",
+      "options": [
+        {
+          "text": "Because he feared the chief priests and the rulers of the council",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because he knew all men, and needed not that any should testify",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Because he was purposed to go into Galilee before the passover",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because they asked of him a sign from heaven before all the people",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "John 2:23-25",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joh_010",
+      "type": "single_choice",
+      "text": "What was the effect of Jesus' first miracle upon his disciples in Cana?",
+      "options": [
+        {
+          "text": "They marvelled and returned each one to his own occupation",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They were filled with fear and fled out of the feast at once",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He manifested forth his glory; and his disciples believed on him",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "They proclaimed him king before all the guests at the marriage",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "John 2:11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joh_011",
+      "type": "single_choice",
+      "text": "Which ruler of the Jews came to Jesus by night to inquire of him?",
+      "options": [
+        {
+          "text": "Joseph of Arimathaea, an honorable counsellor",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Gamaliel, a doctor of the law had in reputation",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Caiaphas, being the high priest that same year",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Nicodemus, a ruler of the Jews, a Pharisee",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "John 3:1-2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "joh_012",
+      "type": "single_choice",
+      "text": "What condition did Jesus declare unto Nicodemus for seeing the kingdom of God?",
+      "options": [
+        {
+          "text": "Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Except a man keep every ordinance of the elders, he cannot inherit the blessing of heaven",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Except a man fast three years in the temple, he cannot receive the grace of the Almighty",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Except a man give all his worldly goods to feed the poor, he cannot see the promised land",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "John 3:3-5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joh_013",
+      "type": "single_choice",
+      "text": "What Old Testament sign did Jesus cite for the lifting up of the Son of man?",
+      "options": [
+        {
+          "text": "Noah saved in the ark of gopher wood",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The serpent lifted up in the wilderness",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Isaac offered for a burnt offering",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The water brought out of the rock",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "John 3:14-15",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "joh_014",
+      "type": "single_choice",
+      "text": "What moved God to give his only begotten Son for the world?",
+      "options": [
+        {
+          "text": "Because mankind offered up many sacrifices in the holy place",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because the holy angels made intercession before his throne",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For God so loved the world, that he gave his only begotten Son",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Because the ancient law of Moses required a holy sin offering",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "John 3:16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "joh_015",
+      "type": "single_choice",
+      "text": "What did John the Baptist say concerning his relation to Christ?",
+      "options": [
+        {
+          "text": "We must reign together as kings upon earth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I must prepare his throne in the wilderness",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He shall be greater in Jerusalem and Judaea",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He must increase, but I must decrease",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "John 3:30",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joh_016",
+      "type": "single_choice",
+      "text": "At what well did Jesus meet the woman of Samaria at the sixth hour?",
+      "options": [
+        {
+          "text": "At Jacob's well near Sychar",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "At the well in Beersheba",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "At the spring near Jericho",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "At the fountain of Bethlehem",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "John 4:5-7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "joh_017",
+      "type": "single_choice",
+      "text": "What water did Jesus offer unto the woman of Samaria in their conversation?",
+      "options": [
+        {
+          "text": "Water mingled with wine from the feast",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Living water springing up into everlasting life",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Pure water drawn out of the holy temple pool",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Cold water brought down from mount Gerizim",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "John 4:10-14",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joh_018",
+      "type": "single_choice",
+      "text": "How did Jesus say that the true worshippers shall worship the Father?",
+      "options": [
+        {
+          "text": "With burnt offerings and sweet incense",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Only upon mount Gerizim in Samaria",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In spirit and in truth",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Only in the temple at Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "John 4:23-24",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "joh_019",
+      "type": "single_choice",
+      "text": "What did Jesus say was his meat when speaking unto his disciples?",
+      "options": [
+        {
+          "text": "The unleavened bread of the feast which he did eat in Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Fasting in prayer, which he had long observed in the wilderness",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The fruits of the land which he gave unto the poor in Capernaum",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To do the will of him that sent me, and to finish his work",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "John 4:34",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joh_020",
+      "type": "single_choice",
+      "text": "How did Jesus heal the nobleman's son at Capernaum?",
+      "options": [
+        {
+          "text": "By his word from afar: 'Thy son liveth'",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "By laying his hands upon the child in his chamber",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By anointing him with holy oil in the nobleman's house",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By fasting three days and making a long prayer for him",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "John 4:46-54",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joh_021",
+      "type": "single_choice",
+      "text": "How long had the man at the pool of Bethesda had his infirmity?",
+      "options": [
+        {
+          "text": "During twelve years",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Thirty and eight years",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "During twenty years",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "During forty years",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "John 5:1-9",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "joh_022",
+      "type": "single_choice",
+      "text": "What accusation did the Jews bring against Jesus after the healing at Bethesda?",
+      "options": [
+        {
+          "text": "He had demanded tribute money for himself from the sick",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He had refused to attend the appointed feast at Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He had broken the sabbath and made himself equal with God",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He had spoken evil words against the elders of the council",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "John 5:16-18",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joh_023",
+      "type": "single_choice",
+      "text": "What hath he that heareth Jesus' word and believeth on him that sent him?",
+      "options": [
+        {
+          "text": "Great earthly possessions and long life",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Honor before the princes of this world",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Mighty power over all his enemies round about",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Everlasting life, and shall not come into condemnation",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "John 5:24",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joh_024",
+      "type": "single_choice",
+      "text": "What did Jesus say concerning the Holy Scriptures?",
+      "options": [
+        {
+          "text": "Search the scriptures; for they are they which testify of me",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "They contain the traditions of the elders of old time only",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They were written for the priests and the rulers of the temple",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They shall pass away when the kingdom is set up in Israel",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "John 5:39-40",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "joh_025",
+      "type": "single_choice",
+      "text": "Who did Jesus say accuseth the unbelieving Jews before the Father?",
+      "options": [
+        {
+          "text": "Elias the great prophet",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Moses, in whom ye trust",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "David the king of Israel",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Samuel the faithful judge",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "John 5:45-47",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "joh_026",
+      "type": "single_choice",
+      "text": "What food was found before Jesus fed the five thousand in the wilderness?",
+      "options": [
+        {
+          "text": "Seven loaves of fine flour and three small fishes",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Three barley cakes and a cruse of sweet honey",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Five barley loaves, and two small fishes",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Twelve loaves of shewbread taken from the temple",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "John 6:8-11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "joh_027",
+      "type": "single_choice",
+      "text": "What 'I am' saying did Jesus declare unto the people after the feeding?",
+      "options": [
+        {
+          "text": "I am the true vine",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I am the good shepherd",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I am the light of the world",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I am the bread of life",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "John 6:35",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "joh_028",
+      "type": "single_choice",
+      "text": "What did Jesus declare concerning the living bread in contrast to the manna?",
+      "options": [
+        {
+          "text": "He is the living bread from heaven: if any man eat, he shall live for ever",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He is the hidden manna which Moses gave unto the fathers in the wilderness",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He that eateth thereof shall never suffer any sickness or bodily hunger",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He that receiveth it shall rule over all the kingdoms of the Gentiles",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "John 6:48-51",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joh_029",
+      "type": "single_choice",
+      "text": "How did many of Jesus' disciples react to his hard saying concerning the bread?",
+      "options": [
+        {
+          "text": "They took up stones to cast at him within the synagogue",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "From that time many of his disciples went back, and walked no more with him",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "They brought him straightway before the chief priests and the rulers",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They asked of him another miraculous sign from heaven to confirm it",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "John 6:60-66",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "joh_030",
+      "type": "single_choice",
+      "text": "What confession did Peter make in the name of the twelve disciples?",
+      "options": [
+        {
+          "text": "Lord, make us rulers over the twelve tribes in thy kingdom",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Lord, show us the Father, and it shall suffice us for ever",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Lord, to whom shall we go? thou hast the words of eternal life",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Lord, we will fight for thee with the sword unto death",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "John 6:68-69",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "joh_031",
+      "type": "single_choice",
+      "text": "Why did Jesus' brethren urge him to go into Judaea to show his works?",
+      "options": [
+        {
+          "text": "Because they rejected the law and kept not the commandments of Moses",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because they refrained from the temple and desired to stay in Nazareth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because they feared the Romans and sought no disturbance in the city",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because neither did his brethren believe in him at that season",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "John 7:3-5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "joh_032",
+      "type": "single_choice",
+      "text": "What feast of the Jews was at hand in the seventh chapter of John?",
+      "options": [
+        {
+          "text": "The Jews' feast of tabernacles was at hand",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The feast of the passover and unleavened bread",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The feast of Pentecost fifty days after harvest",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The feast of the dedication of the temple in winter",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "John 7:2-14",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joh_033",
+      "type": "single_choice",
+      "text": "What promise did Jesus cry on the last day, that great day of the feast?",
+      "options": [
+        {
+          "text": "He that believeth shall be enriched with gold and silver and great abundance",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Out of his belly shall flow rivers of living water, if he believe on him",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He that thirsteth shall receive a field of his own and a well in the land",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He that fasteth shall behold the throne of God and the glory of heaven",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "John 7:37-39",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joh_034",
+      "type": "single_choice",
+      "text": "What did the officers answer the chief priests when asked why they brought him not?",
+      "options": [
+        {
+          "text": "We could not take him in the temple",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He departed out of our hands away",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Never man spake like this man",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The people defended him from us",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "John 7:45-46",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "joh_035",
+      "type": "single_choice",
+      "text": "Which Pharisee defended the law that a man be heard before he is judged?",
+      "options": [
+        {
+          "text": "Joseph of Arimathaea",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Gamaliel, the doctor",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Simon the Pharisee",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Nicodemus, one of them",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "John 7:50-53",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joh_036",
+      "type": "single_choice",
+      "text": "What condition did Jesus set unto the accusers of the woman taken in adultery?",
+      "options": [
+        {
+          "text": "He that is without sin among you, let him first cast a stone at her",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Let the high priest examine her according to the ancient statutes",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Bring two or three witnesses that saw the deed with their own eyes",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Take her unto the governor that he may pronounce judgment on her",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "John 8:3-9",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joh_037",
+      "type": "single_choice",
+      "text": "What did Jesus say unto the woman when her accusers were gone?",
+      "options": [
+        {
+          "text": "Go thy way, and offer a trespass offering in the holy place",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Neither do I condemn thee: go, and sin no more",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Go thy way, and fast three days in sackcloth and in ashes",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Go thy way, for thy righteousness is greater than theirs",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "John 8:10-11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "joh_038",
+      "type": "single_choice",
+      "text": "What title did Jesus proclaim concerning himself in the temple treasury?",
+      "options": [
+        {
+          "text": "I am the door of the sheepfold",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I am the way unto the holy place",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I am the light of the world",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "I am the true vine of the Father",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "John 8:12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "joh_039",
+      "type": "single_choice",
+      "text": "What did Jesus say shall make his disciples free indeed?",
+      "options": [
+        {
+          "text": "Great riches from the treasury",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Deliverance from the Roman yoke",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Keeping the oral ordinances of men",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The truth which ye shall know",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "John 8:31-36",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joh_040",
+      "type": "single_choice",
+      "text": "With what word did Jesus declare his eternal existence before Abraham?",
+      "options": [
+        {
+          "text": "Before Abraham was, I am",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Before Abraham was, I reigned",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Before Abraham was, I was chosen",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Before Abraham was, I made all",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "John 8:56-59",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "joh_041",
+      "type": "single_choice",
+      "text": "How did Jesus heal the man which was blind from his birth?",
+      "options": [
+        {
+          "text": "He washed his eyes with oil, and spake a word of power over him",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He made clay of the spittle, and anointed the eyes with the clay",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He touched his forehead, and said: Receive thy sight, blind man",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He called from afar off, and the eyes were opened immediately",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "John 9:1-7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joh_042",
+      "type": "single_choice",
+      "text": "Unto what pool did Jesus send the blind man to wash?",
+      "options": [
+        {
+          "text": "Unto the pool of Bethesda",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto the lake of Gennesaret",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto the pool of Siloam",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Unto the spring of Jordan",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "John 9:7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "joh_043",
+      "type": "single_choice",
+      "text": "What did the healed blind man answer the Pharisees when questioned concerning Jesus?",
+      "options": [
+        {
+          "text": "He is a breaker of the law, yet he hath made me to see clearly",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He is a prophet of old time, which hath done many mighty works",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He deceiveth the people, but unto me he hath showed great mercy",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "One thing I know, that, whereas I was blind, now I see clearly",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "John 9:24-33",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "joh_044",
+      "type": "single_choice",
+      "text": "What penalty did the Jews threaten against any that confessed Jesus to be Christ?",
+      "options": [
+        {
+          "text": "That he should be put out of the synagogue",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "That he should pay a hundred pieces of silver",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That he should be delivered unto the Romans",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That he should be banished out of the land",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "John 9:22-34",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "joh_045",
+      "type": "single_choice",
+      "text": "What did the man healed of blindness do when Jesus revealed himself as the Son of God?",
+      "options": [
+        {
+          "text": "He asked for another sign to confirm his faith before the council",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He said, Lord, I believe. And he worshipped him with joy",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He departed into the temple to show himself unto the priests",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He went through the city proclaiming his name unto all the people",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "John 9:35-38",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joh_046",
+      "type": "single_choice",
+      "text": "How doth the true shepherd enter into the sheepfold in the parable?",
+      "options": [
+        {
+          "text": "He climbeth up some other way in secret by night",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He breaketh through the stone wall around the sheep",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He that entereth in by the door is the shepherd",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He leapeth over the hedge when the porter openeth",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "John 10:1-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "joh_047",
+      "type": "single_choice",
+      "text": "What 'I am' saying did Jesus use for the entrance unto the sheep?",
+      "options": [
+        {
+          "text": "I am the bread of life",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I am the way to Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I am the light in darkness",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I am the door of the sheep",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "John 10:7-9",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "joh_048",
+      "type": "single_choice",
+      "text": "What difference did Jesus state between the good shepherd and an hireling?",
+      "options": [
+        {
+          "text": "The good shepherd giveth his life for the sheep: the hireling fleeth",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The good shepherd seeketh no hire for his work: the hireling laboureth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The good shepherd watcheth over the flock by night: the hireling sleepeth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The good shepherd feedeth his sheep in pastures: the hireling scattereth",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "John 10:11-15",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "joh_049",
+      "type": "single_choice",
+      "text": "What promise did Jesus give concerning the eternal security of his sheep?",
+      "options": [
+        {
+          "text": "They shall inherit all the earthly goods of the nations",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Neither shall any man pluck them out of my hand",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "They shall be delivered from all earthly persecutions",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They shall sit upon twelve thrones judging the tribes",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "John 10:27-29",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joh_050",
+      "type": "single_choice",
+      "text": "What confession of his unity with the Father did Jesus speak in the temple?",
+      "options": [
+        {
+          "text": "The Father is in heaven and I have dominion upon the earth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The Father hath made me second in authority over all things",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I and my Father are one",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "I serve the Father as a servant in the presence of angels",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "John 10:30-31",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joh_051",
+      "type": "single_choice",
+      "text": "In what town did Lazarus, Mary, and her sister Martha dwell?",
+      "options": [
+        {
+          "text": "In Capernaum of Galilee",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In Nazareth of the hills",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In Cana near the coast",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In the town of Bethany",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "John 11:1-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "joh_052",
+      "type": "single_choice",
+      "text": "What comfort did Jesus speak unto Martha before raising her brother?",
+      "options": [
+        {
+          "text": "I am the resurrection, and the life: he that believeth, though he were dead, yet shall he live",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Thy brother shall sleep in peace until the trumpet of the archangel soundeth on the last day",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Weep not, for Lazarus resteth in the bosom of Abraham with all the righteous of old time",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Thy brother shall be raised up when the Son of man is glorified before the kings of the earth",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "John 11:25-26",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joh_053",
+      "type": "single_choice",
+      "text": "What was Jesus' physical reaction at the grave of his friend Lazarus?",
+      "options": [
+        {
+          "text": "He made a lamentation for him",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Jesus wept before all the Jews",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He rebuked them that were weeping",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He stood without any word or sign",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "John 11:33-36",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "joh_054",
+      "type": "single_choice",
+      "text": "How long had Lazarus lain in the grave when Jesus commanded to take away the stone?",
+      "options": [
+        {
+          "text": "He had been dead two days",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He had been dead three days",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He had been dead four days",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He had been dead seven days",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "John 11:39-44",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "joh_055",
+      "type": "single_choice",
+      "text": "What prophecy did Caiaphas the high priest speak in the council?",
+      "options": [
+        {
+          "text": "It is expedient for us to keep the law, lest the Romans take away our place",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It is expedient for us to obey the king, lest our whole nation be destroyed",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It is expedient for us to hold our peace, lest an uproar be made in the city",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It is expedient for us, that one man should die, that the whole nation perish not",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "John 11:49-52",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "joh_056",
+      "type": "single_choice",
+      "text": "Wherewith did Mary anoint the feet of Jesus at the supper in Bethany?",
+      "options": [
+        {
+          "text": "With a pound of ointment of spikenard, very costly",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "With a cruse of simple olive oil out of her house",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With pure spring water brought from the town well",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With sweet spices taken from the temple storehouse",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "John 12:1-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joh_057",
+      "type": "single_choice",
+      "text": "Who pretended care for the poor when he murmured at the ointment?",
+      "options": [
+        {
+          "text": "Nicodemus, which came by night",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Judas Iscariot, which betrayed him",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Simon Peter, the brother of Andrew",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Thomas, which is called Didymus",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "John 12:4-6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "joh_058",
+      "type": "single_choice",
+      "text": "What similitude did Jesus use concerning fruitfulness through his death?",
+      "options": [
+        {
+          "text": "A vine planted on the hillside that beareth after pruning",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A grain of mustard seed that groweth into a great tree",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A corn of wheat that falleth into the ground and dieth",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A fig tree by the wayside that is dunged and dressed",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "John 12:24",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joh_059",
+      "type": "single_choice",
+      "text": "What did Jesus say would happen if he were lifted up from the earth?",
+      "options": [
+        {
+          "text": "I will call twelve legions of angels to deliver me",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I will establish an earthly kingdom in Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I will destroy the temple and rebuild it with stones",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I, if I be lifted up from the earth, will draw all men unto me",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "John 12:32-33",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "joh_060",
+      "type": "single_choice",
+      "text": "Why did many of the chief rulers not confess Jesus openly?",
+      "options": [
+        {
+          "text": "Lest they should be put out of the synagogue; for they loved the praise of men",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Because they feared the soldiers of Rome, which guarded the gates of the city",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because they waited for a greater sign from heaven before the whole council",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because they were commanded by the high priest to keep silence in all things",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "John 12:42-43",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joh_061",
+      "type": "single_choice",
+      "text": "What humble service did Jesus perform unto his disciples before the passover?",
+      "options": [
+        {
+          "text": "He anointed their heads with oil",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He washed the disciples' feet",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He gave unto them new garments",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He divided money among them all",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "John 13:1-15",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "joh_062",
+      "type": "single_choice",
+      "text": "How did Simon Peter first react to Jesus washing his feet?",
+      "options": [
+        {
+          "text": "He thanked him with a loud voice and bowed himself down to the ground",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He washed the feet of the Lord and then began with the other disciples",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Lord, thou shalt never wash my feet while the world standeth anywhere",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He rose up and departed out of the chamber, not suffering to receive it",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "John 13:6-8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joh_063",
+      "type": "single_choice",
+      "text": "How did Jesus identify his betrayer unto the disciple whom he loved?",
+      "options": [
+        {
+          "text": "He that drinketh out of my cup first at the table",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He that sitteth upon my right hand in the chamber",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He that weareth a scarlet mantle among the twelve",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He it is, to whom I shall give a sop, when I have dipped it",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "John 13:26-30",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joh_064",
+      "type": "single_choice",
+      "text": "What new commandment did Jesus give unto his disciples before his departure?",
+      "options": [
+        {
+          "text": "That ye love one another; as I have loved you, that ye also love one another",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "That ye fast twice in the week and keep all the ordinances of the temple",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That ye offer up burnt offerings in the holy place every morning and evening",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That ye keep silence before the rulers and princes of the Gentile nations",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "John 13:34-35",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joh_065",
+      "type": "single_choice",
+      "text": "What did Jesus foretell concerning Peter in the night of his betrayal?",
+      "options": [
+        {
+          "text": "That Peter should draw his sword and smite the high priest in the garden",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The cock shall not crow, till thou hast denied me thrice",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "That Peter should flee away into the wilderness of Galilee in fear",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That Peter should be bound with chains and led before the Roman Caesar",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "John 13:36-38",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joh_066",
+      "type": "single_choice",
+      "text": "What comfort did Jesus give his disciples concerning his Father's house?",
+      "options": [
+        {
+          "text": "The temple in Jerusalem shall stand for ever against all the heathen",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The house of the Father shall be adorned with gold and costly stones",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In my Father's house are many mansions: I go to prepare a place for you",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The twelve apostles shall possess palaces of cedar within the holy city",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "John 14:1-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joh_067",
+      "type": "single_choice",
+      "text": "What exclusive testimony did Jesus declare unto the disciple Thomas?",
+      "options": [
+        {
+          "text": "I am the light of the world: he that followeth me shall not walk in darkness",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I am the good shepherd: the good shepherd giveth his life for the sheep",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I am the King of the Jews, which shall reign over Jerusalem in peace",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I am the way, the truth, and the life: no man cometh unto the Father, but by me",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "John 14:6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joh_068",
+      "type": "single_choice",
+      "text": "What promise did Jesus give concerning the works of him that believeth on him?",
+      "options": [
+        {
+          "text": "He that believeth on me, the works that I do shall he do also",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He that believeth shall never be poor, but shall have all things in store",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He that believeth shall inherit the earth and rule over the heathen",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He that believeth shall suffer no affliction and be delivered from pain",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "John 14:12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joh_069",
+      "type": "single_choice",
+      "text": "What other Comforter did Jesus promise to pray the Father to send?",
+      "options": [
+        {
+          "text": "A mighty angel from heaven to strengthen them in all their persecutions",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Even the Spirit of truth; whom the world cannot receive",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A great prophet after the order of Moses to lead the twelve tribes",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A new covenant written upon tables of stone by the finger of God",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "John 14:16-26",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "joh_070",
+      "type": "single_choice",
+      "text": "What legacy did Jesus leave unto his followers before his suffering?",
+      "options": [
+        {
+          "text": "Great worldly possessions",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A new book of commandments",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Peace I leave with you, my peace I give",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Power over all earthly foes",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "John 14:27",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "joh_071",
+      "type": "single_choice",
+      "text": "In what parable did Jesus describe the union of life between himself and his own?",
+      "options": [
+        {
+          "text": "The shepherd and the sheepfold",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The sower and the various soils",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The builder and the foundation stone",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I am the vine, ye are the branches",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "John 15:1-5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "joh_072",
+      "type": "single_choice",
+      "text": "What happeneth unto branches that bear no fruit in the vine?",
+      "options": [
+        {
+          "text": "He taketh them away, and they are cast into the fire",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He dresseth them carefully until they bring forth fruit",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He diggeth about them, and dungeth them with much care",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He letteth them remain until the next summer season",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "John 15:1-6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "joh_073",
+      "type": "single_choice",
+      "text": "How did Jesus describe the greatest love that a man can have?",
+      "options": [
+        {
+          "text": "That a man bestow all his goods to feed the poor in the city",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That a man lay down his life for his friends",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "That a man keep every commandment of the law without fault",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That a man work mighty miracles and heal all that are sick",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "John 15:13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "joh_074",
+      "type": "single_choice",
+      "text": "What condition did Jesus state concerning the choosing of his disciples?",
+      "options": [
+        {
+          "text": "They chose him first by their own wisdom and pious understanding",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The chief priests and elders appointed them unto the sacred office",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Ye have not chosen me, but I have chosen you, and ordained you",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "They were chosen by lot from among the multitudes of the people",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "John 15:16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "joh_075",
+      "type": "single_choice",
+      "text": "Why did Jesus say that the world hateth his followers?",
+      "options": [
+        {
+          "text": "Because they break the ordinances and traditions of the elders",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because they refuse to pay tribute unto the Roman governor",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because they refrain from worshipping within the temple courts",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because ye are not of the world, but I have chosen you out of the world",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "John 15:18-21",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "joh_076",
+      "type": "single_choice",
+      "text": "What persecution did Jesus foretell that his apostles should suffer?",
+      "options": [
+        {
+          "text": "They shall put you out of the synagogues",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "They shall spoil your goods and possessions",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They shall deliver you bound unto the king",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They shall burn your houses with much fire",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "John 16:1-4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joh_077",
+      "type": "single_choice",
+      "text": "Of what three things will the Comforter reprove the world when he is come?",
+      "options": [
+        {
+          "text": "Of worldly wisdom, great riches, and earthly dominion",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Of sin, and of righteousness, and of judgment",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Of the temple service, the priesthood, and the council",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Of the Roman laws, civil duties, and the emperor's decrees",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "John 16:8-11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "joh_078",
+      "type": "single_choice",
+      "text": "Into what will the Spirit of truth guide the disciples when he is come?",
+      "options": [
+        {
+          "text": "Into great earthly riches",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Into the laws of the world",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Howbeit he will guide you into all truth",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Into the praise of all men",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "John 16:12-15",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joh_079",
+      "type": "single_choice",
+      "text": "Unto what did Jesus compare the sorrow and coming joy of the disciples?",
+      "options": [
+        {
+          "text": "Unto a sudden storm upon the waters of the lake of Galilee",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto the sowing of seed upon stony ground in time of drought",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto waiting for the latter rain to fall upon the parched fields",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A woman when she is in travail hath sorrow: but her sorrow is turned into joy",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "John 16:20-22",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "joh_080",
+      "type": "single_choice",
+      "text": "What word of victory did Jesus speak at the end of his discourse?",
+      "options": [
+        {
+          "text": "Be of good cheer; I have overcome the world",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "I have purged the temple of my holy Father",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I have broken the power of all our enemies",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I have fulfilled the law and all the prophets",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "John 16:33",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "joh_081",
+      "type": "single_choice",
+      "text": "How did Jesus define life eternal in his high priestly prayer?",
+      "options": [
+        {
+          "text": "An endless rest in the kingdom of heaven with all the holy patriarchs",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That they might know thee the only true God, and Jesus Christ, whom thou hast sent",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The everlasting preservation of the soul from all bodily death and corruption",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Deliverance from all earthly suffering and sorrow in the world to come",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "John 17:1-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joh_082",
+      "type": "single_choice",
+      "text": "What petition did Jesus make unto the Father for the disciples' unity?",
+      "options": [
+        {
+          "text": "That they might be richer than all the kingdoms of the earth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That they might suffer no tribulation in this present world",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That they all may be one; as thou, Father, art in me, and I in thee",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "That they might break the dominion of the heathen round about",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "John 17:11-23",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joh_083",
+      "type": "single_choice",
+      "text": "What did Jesus pray in John 17:15 concerning his disciples in the world?",
+      "options": [
+        {
+          "text": "That thou shouldest take them forthwith out of this present world",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That thou shouldest give them dominion over all the nations of earth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That thou shouldest deliver them from all earthly labor and sorrow",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That thou shouldest keep them from the evil",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "John 17:14-16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joh_084",
+      "type": "single_choice",
+      "text": "Wherewith did Jesus pray that his disciples should be sanctified?",
+      "options": [
+        {
+          "text": "Sanctify them through thy truth: thy word is truth",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Through the blood of bullocks and of goats offered upon the altar",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Through the holy anointing oil kept within the temple sanctuary",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Through long fastings and prayers observed before the presence of God",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "John 17:17",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joh_085",
+      "type": "single_choice",
+      "text": "For whom did Jesus pray in the second part of his high priestly prayer?",
+      "options": [
+        {
+          "text": "Only for the disciples that followed him through Galilee and Judaea",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For them also which shall believe on me through their word in all ages",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "For the chief priests and rulers of the temple that they might repent",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For all the heathen nations of the earth that they might be converted",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "John 17:20-24",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joh_086",
+      "type": "single_choice",
+      "text": "Where was the garden into which Jesus entered with his disciples?",
+      "options": [
+        {
+          "text": "A vineyard upon mount Sinai",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The royal garden of Solomon",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A garden over the brook Cedron",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A garden by Nicodemus' house",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "John 18:1-2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joh_087",
+      "type": "single_choice",
+      "text": "What happened when Jesus said unto the band and officers, 'I am he'?",
+      "options": [
+        {
+          "text": "They laid hands on him forthwith and bound him with chains",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They cried out with a loud voice and fled into the city",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They drew their swords to slay all the disciples that were with him",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They went backward, and fell to the ground",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "John 18:4-6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "joh_088",
+      "type": "single_choice",
+      "text": "Whose right ear did Simon Peter cut off with his sword in the garden?",
+      "options": [
+        {
+          "text": "The servant's name was Malchus",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A Roman soldier of the centurion's band",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "An officer of the temple guard in Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A kinsman of Judas Iscariot from Kerioth",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "John 18:10-11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "joh_089",
+      "type": "single_choice",
+      "text": "Unto whom was Jesus led first after he was bound?",
+      "options": [
+        {
+          "text": "Unto Pontius Pilate",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto Annas first",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Unto the Roman Caesar",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto king Herod first",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "John 18:12-14",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "joh_090",
+      "type": "single_choice",
+      "text": "How did Jesus characterize his kingdom before Pilate?",
+      "options": [
+        {
+          "text": "My kingdom is of this world and shall be set up with the sword",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "My kingdom is confined unto the borders of the land of Israel",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "My kingdom is not of this world",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "My kingdom is subject unto the decrees of the Roman emperor",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "John 18:33-36",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joh_091",
+      "type": "single_choice",
+      "text": "How did the Roman soldiers mock Jesus after he was scourged?",
+      "options": [
+        {
+          "text": "They gave him a golden sceptre and bowed the knee before him",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They put golden shoes on him and led him throughout the city",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They burned his raiment and put upon him a sackcloth of mourning",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They platted a crown of thorns, and put on him a purple robe",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "John 19:1-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joh_092",
+      "type": "single_choice",
+      "text": "What did Pilate say unto the Jews when Jesus came forth wearing the crown of thorns?",
+      "options": [
+        {
+          "text": "Behold the man!",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Behold your King!",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Behold your Judge!",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Behold the rebel!",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "John 19:4-6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "joh_093",
+      "type": "single_choice",
+      "text": "In what three languages was the title on Jesus' cross written?",
+      "options": [
+        {
+          "text": "In Latin, Egyptian, and Syrian",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In Hebrew, and Greek, and Latin",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "In Greek, Persian, and Aramaic",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In Hebrew, Chaldee, and Arabic",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "John 19:19-20",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joh_094",
+      "type": "single_choice",
+      "text": "What charge did the dying Jesus commit unto the disciple whom he loved?",
+      "options": [
+        {
+          "text": "To build an house for the disciples",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To go forthwith as a witness to Rome",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To take his mother unto his own home",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "To write all these sayings in a book",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "John 19:25-27",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "joh_095",
+      "type": "single_choice",
+      "text": "What word did Jesus speak immediately before he bowed his head and gave up the ghost?",
+      "options": [
+        {
+          "text": "Father, forgive them; for they know not what they do",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "My God, my God, why hast thou forsaken me?",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Father, into thy hands I commend my spirit",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It is finished",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "John 19:30",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "joh_096",
+      "type": "single_choice",
+      "text": "Who came first on the first day of the week, early, when it was yet dark, unto the sepulchre?",
+      "options": [
+        {
+          "text": "Mary Magdalene",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Peter and John",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The mother of Jesus",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Joseph of Arimathaea",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "John 20:1-2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "joh_097",
+      "type": "single_choice",
+      "text": "Which disciple did outrun Peter, and came first to the sepulchre?",
+      "options": [
+        {
+          "text": "Peter did outrun the other and came first to the sepulchre",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That other disciple, whom Jesus loved, did outrun Peter",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Thomas came first and saw only the linen clothes lying",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Philip arrived first and found the sepulchre shut up",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "John 20:3-6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joh_098",
+      "type": "single_choice",
+      "text": "Whom did Mary Magdalene suppose Jesus to be when she saw him standing in the garden?",
+      "options": [
+        {
+          "text": "Supposing him to be an angel",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Supposing him the high priest",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Supposing him to be the gardener",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Supposing him to be Simon Peter",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "John 20:14-16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "joh_099",
+      "type": "single_choice",
+      "text": "What confession did Thomas utter when he saw the risen Lord and his wounds?",
+      "options": [
+        {
+          "text": "Thou art the great prophet of Israel",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Thou art the true teacher of righteousness",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Thou art the anointed Son of David",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "My Lord and my God",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "John 20:26-29",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "joh_100",
+      "type": "single_choice",
+      "text": "For what purpose were the signs in the Gospel of John written?",
+      "options": [
+        {
+          "text": "That ye might believe that Jesus is the Christ, and that believing ye might have life",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "That all nations might honor Caesar and obey the ancient law of Moses in all things",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That the temple might be consecrated and the statutes of the elders fulfilled for ever",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That the history of these mighty works might be preserved and never forgotten of men",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "John 20:30-31",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joh_101",
+      "type": "single_choice",
+      "text": "At what sea did Jesus show himself again unto the disciples when they were fishing?",
+      "options": [
+        {
+          "text": "At the lake of Gennesaret",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "At the sea of Tiberias",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "At the Salt Sea in the plain",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "At the river of Jordan",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "John 21:1-6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "joh_102",
+      "type": "single_choice",
+      "text": "How many great fishes were drawn to land in the unbroken net at Jesus' word?",
+      "options": [
+        {
+          "text": "Twelve baskets full of fishes",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Seven hundred fishes of the sea",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "An hundred and fifty and three",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Two hundred little fishes taken",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "John 21:11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "joh_103",
+      "type": "single_choice",
+      "text": "What question did Jesus ask Simon Peter three times at the sea?",
+      "options": [
+        {
+          "text": "Simon, son of Jonas, wilt thou gather my little flock?",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Simon, son of Jonas, wilt thou lay down thy life for me?",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Simon, son of Jonas, wilt thou deny me before all men?",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Simon, son of Jonas, lovest thou me? Lovest thou me?",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "John 21:15-17",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "joh_104",
+      "type": "single_choice",
+      "text": "What pastoral charge did Jesus give unto Peter after each answer?",
+      "options": [
+        {
+          "text": "Feed my lambs; feed my sheep",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Build a new temple at Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Rule over all the other disciples",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Depart into the wilderness and fast",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "John 21:15-17",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joh_105",
+      "type": "single_choice",
+      "text": "With what saying doth the Gospel of John conclude concerning the deeds of Jesus?",
+      "options": [
+        {
+          "text": "All the Romans believed on him, and the emperor himself worshipped God",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Even the world itself could not contain the books that should be written",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The holy temple was consecrated anew, and all the people rejoiced greatly",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Every single sign was written in order, that none should ever doubt of it",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "John 21:24-25",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "joh_106",
+      "type": "single_choice",
+      "text": "Who answered and said unto Jesus: 'My Lord and my God' (John 20:28)?",
+      "options": [
+        {
+          "text": "Thomas",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Nathanael",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Philip",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Peter",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "John 20:28",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "joh_107",
+      "type": "single_choice",
+      "text": "Who said: 'Behold the Lamb of God, which taketh away the sin of the world' (John 1:29)?",
+      "options": [
+        {
+          "text": "Andrew the disciple",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Nicodemus the ruler",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "John the Baptist",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Simeon the devout",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "John 1:29",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "joh_108",
+      "type": "multiple_choice",
+      "text": "Who took away the body of Jesus for burial, according to John 19:38-39?",
+      "options": [
+        {
+          "text": "James the son of Alphaeus",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Joseph of Arimathaea, a disciple",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Nicodemus, which came by night",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Simon the Cyrenian from the field",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1,
+        2
+      ],
+      "bibleReference": "John 19:38-39",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joh_109",
+      "type": "ordering",
+      "text": "Put these signs of Jesus in the Gospel of John into chronological order.",
+      "options": [
+        {
+          "text": "A man blind from his birth receiveth sight",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Lazarus is raised from the dead",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Five thousand men are fed with loaves",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Water is made wine in Cana of Galilee",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The nobleman's son is healed at Capernaum",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3,
+        4,
+        2,
+        0,
+        1
+      ],
+      "bibleReference": "John 2:11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "joh_110",
+      "type": "ordering",
+      "text": "Put these appearances of the risen Christ into chronological order.",
+      "options": [
+        {
+          "text": "Jesus appeareth unto the disciples when Thomas was absent",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Jesus appeareth unto the disciples when Thomas was with them",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Jesus walketh with the two disciples to Emmaus",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Jesus appeareth unto Mary Magdalene at the sepulchre",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3,
+        2,
+        0,
+        1
+      ],
+      "bibleReference": "John 20:19",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    }
+  ]
+}

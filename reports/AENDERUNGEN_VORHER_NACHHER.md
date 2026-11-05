@@ -48,7 +48,8 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
 | `40_matthaeus.json` | 148 | 40 | 0 | 40 | 3 |
 | `41_markus.json` | 80 | 16 | 0 | 16 | 0 |
 | `42_lukas.json` | 126 | 35 | 1 | 34 | 3 |
-| **Gesamt (42 Dateien)** | **3778** | **1661** | **1027** | **1509** | **93** |
+| `43_johannes.json` | 110 | 42 | 2 | 38 | 2 |
+| **Gesamt (43 Dateien)** | **3888** | **1703** | **1029** | **1547** | **95** |
 
 ## 01_1_mose.json – 1. Mose (Genesis) (Schlachter (Revision von 1951))
 
@@ -23543,3 +23544,584 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
   - **Option D (Richtig):**
     - **Vorher:** Er kehrt heim und der Vater läuft ihm entgegen
     - **Nachher:** Er kehrt um und der barmherzige Vater läuft ihm entgegen
+
+## 43_johannes.json – Johannes (Schlachter (Revision von 1951))
+
+### `joh_001` (Johannes 1:1-2)
+- **Frage Vorher:** Welcher Zustand wird dem Wort Gottes im einleitenden Prolog vor Grundlegung der Welt zugeschrieben?
+- **Frage Nachher:** Was wird im Anfang über das Wort bezeugt (Johannes 1:1-2)?
+
+### `joh_002` (Johannes 1:14)
+- **Frage Vorher:** Was geschah nach dem Zeugnis des Johannesevangeliums mit dem ewigen Gotteswort?
+- **Frage Nachher:** Was geschah nach Johannes 1:14 mit dem Wort?
+
+### `joh_003` (Johannes 1:29)
+- **Frage:** Welche Bezeichnung gab Johannes der Täufer Jesus, als Er auf ihn zukam?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Siehe, das ist Gottes Lamm, das der Welt Sünde trägt
+    - **Nachher:** Siehe, das Lamm Gottes, welches die Sünde der Welt hinwegnimmt!
+  - **Option A (Falsch):**
+    - **Vorher:** Siehe, der Herrscher von Juda, der Israel erlösen wird
+    - **Nachher:** Siehe, der verheißene König, der sein Volk Israel befreien wird!
+  - **Option B (Falsch):**
+    - **Vorher:** Siehe, der Prophet der Endzeit, der Elia gleich ist
+    - **Nachher:** Siehe, der Prophet der Endzeit, der mit großem Eifer auftreten wird!
+  - **Option C (Falsch):**
+    - **Vorher:** Siehe, der Richter der Welt, der mit dem Feuer kommt
+    - **Nachher:** Siehe, der heilige Richter, der die ganze Welt mit Feuer reinigen wird!
+
+### `joh_004` (Johannes 1:40-42)
+- **Frage:** Welcher Jünger brachte seinen Bruder Simon Petrus zu Jesus Christus?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Andreas, sein Bruder
+    - **Nachher:** Andreas, der Bruder des Petrus
+  - **Option B (Falsch):**
+    - **Vorher:** Philippus aus Bethsaida
+    - **Nachher:** Philippus aus der Stadt Bethsaida
+  - **Option D (Falsch):**
+    - **Vorher:** Nathanael aus Kana
+    - **Nachher:** Nathanael, der treue Mann aus Kana
+
+### `joh_007` (Johannes 2:13-17)
+- **Frage:** Was tat Jesus bei der Reinigung des jerusalemer Tempels?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Er trieb die Händler mit einer Geißel aus dem Tempel
+    - **Nachher:** Er trieb sie mit einer Peitsche aus Stricken zum Tempel hinaus
+  - **Option A (Falsch):**
+    - **Vorher:** Er zahlte die Tempelsteuer für das Volk und kaufte die Opfertiere frei
+    - **Nachher:** Er entrichtete die Tempelsteuer für alle Armen des Volkes
+  - **Option B (Falsch):**
+    - **Vorher:** Er hielt eine Rede vor dem Hohen Rat und forderte die Priester heraus
+    - **Nachher:** Er forderte die Priester vor dem Hohen Rat zur Umkehr auf
+  - **Option C (Falsch):**
+    - **Vorher:** Er weihte das Haus mit Salböl und opferte dort ein Dankopfer
+    - **Nachher:** Er weihte die Hallen mit heiligem Öl und brachte Opfer dar
+
+### `joh_012` (Johannes 3:3-5)
+- **Frage:** Welche Bedingung nannte Jesus für das Schauen des Reiches Gottes?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Wer nicht aus Wasser und Geist geboren wird, kann nicht in das Reich Gottes kommen
+    - **Nachher:** Wenn jemand nicht aus Wasser und Geist geboren wird, kann er nicht in das Reich Gottes eingehen
+  - **Option B (Falsch):**
+    - **Vorher:** Wer alle Satzungen der Väter genau hält und keine Vorschrift jemals auslässt
+    - **Nachher:** Wer alle Satzungen der Väter genau hält und keine einzige Vorschrift jemals auslässt
+  - **Option C (Falsch):**
+    - **Vorher:** Wer drei Jahre lang im Heiligtum fastet und dort Gott dient und betet
+    - **Nachher:** Wer drei Jahre lang im Heiligtum fastet und dort Tag und Nacht zu Gott fleht und betet
+  - **Option D (Falsch):**
+    - **Vorher:** Wer reichlich den Armen spendet und sein ganzes Vermögen verteilt
+    - **Nachher:** Wer reichlich den Armen spendet und sein ganzes weltliches Vermögen willig verteilt
+
+### `joh_013` (Johannes 3:14-15)
+- **Frage:** Welches alttestamentliche Vorbild wählte Jesus für Seine Erhöhung am Kreuz?
+- **Richtige Antwort (unverändert, Option B):** Die erhöhte Schlange in der Wüste
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Falsch):**
+    - **Vorher:** Das Opfer Isaaks
+    - **Nachher:** Das Opfer Isaaks auf dem Berge
+  - **Option D (Falsch):**
+    - **Vorher:** Das Wasser aus dem Felsen
+    - **Nachher:** Das Quellwasser aus dem Felsen
+
+### `joh_016` (Johannes 4:5-7)
+- **Frage:** An welchem Brunnen begegnete Jesus der samaritanischen Frau mittags?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Am Jakobsbrunnen
+    - **Nachher:** Am Jakobsbrunnen bei Sichar
+  - **Option B (Falsch):**
+    - **Vorher:** Am Brunnen Abrahams bei Beerscheba
+    - **Nachher:** Am Brunnen bei Beerscheba
+  - **Option C (Falsch):**
+    - **Vorher:** Am Brunnen bei Jericho
+    - **Nachher:** Am Brunnen nahe bei Jericho
+
+### `joh_021` (Johannes 5:1-9)
+- **Frage:** Wie lange war der Kranke am Teich Bethesda schon krank?
+- **Richtige Antwort (unverändert, Option B):** Achtunddreißig Jahre
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Zwölf Jahre
+    - **Nachher:** Seit zwölf Jahren
+  - **Option C (Falsch):**
+    - **Vorher:** Zwanzig Jahre
+    - **Nachher:** Seit zwanzig Jahren
+  - **Option D (Falsch):**
+    - **Vorher:** Vierzig Jahre
+    - **Nachher:** Seit vierzig Jahren
+
+### `joh_023` (Johannes 5:24)
+- **Frage:** Welche Verheißung gibt Jesus dem, der Sein Wort hört und glaubt?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Er hat das ewige Leben und kommt nicht ins Gericht
+    - **Nachher:** Ewiges Leben und kommt nicht ins Gericht
+  - **Option A (Falsch):**
+    - **Vorher:** Er wird reich und mächtig und herrscht im Reich Gottes
+    - **Nachher:** Großen irdischen Besitz und langes Leben
+  - **Option B (Falsch):**
+    - **Vorher:** Er bleibt von allem Leid frei und hat nie mehr Not
+    - **Nachher:** Ansehen vor den Fürsten dieser Welt
+  - **Option C (Falsch):**
+    - **Vorher:** Er wird Richter im Tempel und spricht Recht über das Volk
+    - **Nachher:** Große Macht über alle seine Feinde
+
+### `joh_025` (Johannes 5:45-47)
+- **Frage:** Wer wird nach den Worten Jesu die ungläubigen Juden anklagen?
+- **Richtige Antwort (unverändert, Option B):** Mose, auf den sie hoffen
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Elia
+    - **Nachher:** Elia, der große Prophet
+  - **Option C (Falsch):**
+    - **Vorher:** David
+    - **Nachher:** David, der König Israels
+  - **Option D (Falsch):**
+    - **Vorher:** Die Engel des Gerichts
+    - **Nachher:** Samuel, der treue Richter
+
+### `joh_034` (Johannes 7:45-46)
+- **Frage:** Was antworteten die Tempeldiener den Hohenpriestern nach ihrem Auftrag?
+- **Richtige Antwort (unverändert, Option C):** Nie hat ein Mensch so geredet wie dieser
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Wir haben ihn im Volk nicht gefunden
+    - **Nachher:** Wir konnten ihn im Tempel nicht greifen
+  - **Option B (Falsch):**
+    - **Vorher:** Er ist vor unseren Schwertern geflohen
+    - **Nachher:** Er entwich aus unseren Händen hinweg
+  - **Option D (Falsch):**
+    - **Vorher:** Das Volk beschützt ihn
+    - **Nachher:** Das Volk stellte sich schützend vor ihn
+
+### `joh_035` (Johannes 7:50-53)
+- **Frage:** Welcher Pharisäer verteidigte das Recht Jesu auf ein ordentliches Verhör?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Nikodemus
+    - **Nachher:** Nikodemus, einer von ihnen
+  - **Option A (Falsch):**
+    - **Vorher:** Josef von Arimathäa
+    - **Nachher:** Josef von Arimathia
+  - **Option B (Falsch):**
+    - **Vorher:** Gamaliel
+    - **Nachher:** Gamaliel, der Lehrer
+
+### `joh_037` (Johannes 8:10-11)
+- **Frage:** Welches Wort sprach Jesus zu der beschuldigten Frau nach dem Fortgehen der Männer?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** So verurteile ich dich auch nicht; geh hin und sündige hinfort nicht mehr
+    - **Nachher:** So verurteile ich dich auch nicht; gehe hin und sündige nicht mehr!
+  - **Option A (Falsch):**
+    - **Vorher:** Geh hin und bring ein Sühnopfer im Heiligtum für deine Schuld dar
+    - **Nachher:** Geh hin und bringe ein Schuldopfer im Heiligtum für deine Sünde dar
+  - **Option C (Falsch):**
+    - **Vorher:** Geh hin und faste drei Tage lang in Sack und Asche, damit dir vergeben werde
+    - **Nachher:** Geh hin und faste drei Tage lang in Sack und Asche vor dem Angesicht Gottes
+  - **Option D (Falsch):**
+    - **Vorher:** Geh hin, du bist gerecht, und niemand soll dich jemals mehr anklagen
+    - **Nachher:** Geh hin in Frieden, denn deine Gerechtigkeit ist größer als die ihre
+
+### `joh_040` (Johannes 8:56-59)
+- **Frage:** Mit welchem Wort bezeugte Jesus seine Ewigkeit vor Abraham?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Ehe Abraham wurde, bin ich
+    - **Nachher:** Ehe Abraham gewesen ist, bin ich
+  - **Option B (Falsch):**
+    - **Vorher:** Ehe Abraham war, war ich König
+    - **Nachher:** Ehe Abraham war, regierte ich ewig
+  - **Option C (Falsch):**
+    - **Vorher:** Ehe Abraham war, wurde ich Erbe
+    - **Nachher:** Ehe Abraham war, wurde ich erwählt
+  - **Option D (Falsch):**
+    - **Vorher:** Ehe Abraham war, schuf ich alles
+    - **Nachher:** Ehe Abraham war, erschuf ich alles
+
+### `joh_041` (Johannes 9:1-7)
+- **Frage:** Welches Mittel gebrauchte Jesus bei der Heilung des Geburtsblinden?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Er machte einen Teig aus Speichel und Erde und strich ihn auf die Augen
+    - **Nachher:** Er machte Schlammteig mit Speichel und strich ihn auf seine Augen
+  - **Option A (Falsch):**
+    - **Vorher:** Er wusch seine Augen mit Öl und sprach ein Wort darüber aus
+    - **Nachher:** Er wusch seine Augen mit Öl und sprach ein mächtiges Wort darüber aus
+  - **Option C (Falsch):**
+    - **Vorher:** Er rührte nur seine Stirn an und sprach: Sei geheilt, du Blinder
+    - **Nachher:** Er berührte nur seine Stirn und sprach: Sei nun sehend, du Blinder!
+  - **Option D (Falsch):**
+    - **Vorher:** Er sprach ein Wort aus der Ferne, und die Augen wurden sogleich offen
+    - **Nachher:** Er rief ihm aus der Ferne zu, und seine Augen taten sich alsbald auf
+
+### `joh_043` (Johannes 9:24-33)
+- **Frage:** Wie antwortete der Geheilte auf die Fragen der Pharisäer nach Jesu Wesen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Eins weiß ich: Ich war blind und bin nun sehend
+    - **Nachher:** Eins weiß ich gewiss: dass ich blind war und jetzt sehend bin!
+  - **Option A (Falsch):**
+    - **Vorher:** Er ist ein Gesetzesbrecher, doch er hat mich sehend gemacht
+    - **Nachher:** Er ist ein Gesetzesübertreter, doch er hat mich sehend gemacht
+  - **Option B (Falsch):**
+    - **Vorher:** Er ist ein ungelehrter Mann, der aber Wunder tun kann
+    - **Nachher:** Er ist ein Prophet der Vorzeit, der mächtige Wundertaten vollbringt
+  - **Option C (Falsch):**
+    - **Vorher:** Er verführt das ganze Volk, aber mir hat er geholfen
+    - **Nachher:** Er verführt das ganze Volk, aber mir hat er Barmherzigkeit erwiesen
+
+### `joh_048` (Johannes 10:11-15)
+- **Frage:** Welcher wesentliche Unterschied unterscheidet den Guten Hirten vom Mietling?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Der gute Hirte lässt sein Leben für die Schafe; der Mietling flieht
+    - **Nachher:** Der edle Hirte lässt sein Leben für die Schafe; der Mietling flieht
+  - **Option B (Falsch):**
+    - **Vorher:** Der Hirte fordert hohen Lohn für seinen Dienst; der Mietling arbeitet umsonst
+    - **Nachher:** Der Hirte fordert keinen Lohn für seinen Dienst; der Mietling flieht
+  - **Option C (Falsch):**
+    - **Vorher:** Der Hirte hat tausend Schafe in der Herde; der Mietling nur wenige
+    - **Nachher:** Der Hirte behütet seine Schafe in der Nacht; der Mietling schläft
+  - **Option D (Falsch):**
+    - **Vorher:** Der Hirte schläft in der Nacht bei den Schafen; der Mietling wacht
+    - **Nachher:** Der Hirte weidet tausend Schafe auf der Aue; der Mietling verliert sie
+
+### `joh_053` (Johannes 11:33-36)
+- **Frage:** Wie reagierte Jesus leiblich an der Grabstätte Seines verstorbenen Freundes?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Jesus weinte
+    - **Nachher:** Jesus weinte vor aller Menge
+  - **Option A (Falsch):**
+    - **Vorher:** Er sang ein Klagelied
+    - **Nachher:** Er stimmte ein Klagelied an
+  - **Option C (Falsch):**
+    - **Vorher:** Er schalt die weinenden Frauen
+    - **Nachher:** Er wies die Weinenden zurecht
+  - **Option D (Falsch):**
+    - **Vorher:** Er blieb völlig regungslos
+    - **Nachher:** Er blieb ohne jede Regung da
+
+### `joh_054` (Johannes 11:39-44)
+- **Frage:** Wie lange lag Lazarus schon im Grab, als Jesus befahl, den Stein wegzunehmen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Er lag bereits vier Tage im Grab
+    - **Nachher:** Er lag schon vier Tage im Grab
+  - **Option A (Falsch):**
+    - **Vorher:** Er lag bereits zwei Tage im Grab, und der Verwesungsgeruch war noch nicht da
+    - **Nachher:** Er lag schon zwei Tage im Grab
+  - **Option B (Falsch):**
+    - **Vorher:** Er lag bereits drei Tage im Grab, wie Jesus zuvor angekündigt hatte
+    - **Nachher:** Er lag schon drei Tage im Grab
+  - **Option D (Falsch):**
+    - **Vorher:** Er lag bereits sieben Tage im Grab, und die Trauerzeit war vorüber
+    - **Nachher:** Er lag schon sieben Tage im Grab
+
+### `joh_055` (Johannes 11:49-52)
+- **Frage:** Welche prophetische Aussage machte der Hohepriester Kaiphas im Hohen Rat?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Es ist besser, dass ein Mensch für das Volk sterbe
+    - **Nachher:** Es ist vorteilhafter, dass ein Mensch stirbt, als dass die ganze Nation untergeht
+  - **Option A (Falsch):**
+    - **Vorher:** Es ist besser, das Gesetz zu halten, als das Volk zu verderben
+    - **Nachher:** Es ist besser, das heilige Gesetz zu bewahren, als dass die Nation verderbe
+  - **Option B (Falsch):**
+    - **Vorher:** Wir müssen Jesus als König ehren, sonst kommt der Zorn über uns
+    - **Nachher:** Es ist besser, den Römern zu gehorchen, als dass unser Land eingenommen wird
+  - **Option C (Falsch):**
+    - **Vorher:** Die Römer werden uns alle töten, wenn wir ihn gewähren lassen
+    - **Nachher:** Es ist besser, den Tempel zu schützen, als dass die Priesterschaft vertrieben wird
+
+### `joh_056` (Johannes 12:1-3)
+- **Frage:** Womit salbte Maria die Füße Jesu beim Gastmahl in Bethanien?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Mit einem Pfund echten, kostbaren Nardenöls
+    - **Nachher:** Mit einem Pfund echter, köstlicher Nardensalbe
+  - **Option B (Falsch):**
+    - **Vorher:** Mit einfachem Olivenöl, das sie aus ihrem eigenen Haus brachte
+    - **Nachher:** Mit einem Krug einfachen Olivenöls aus dem Hause
+  - **Option C (Falsch):**
+    - **Vorher:** Mit reinem Wasser aus dem Brunnen, das sie in einem Krug trug
+    - **Nachher:** Mit reinem Quellwasser aus dem Brunnen des Ortes
+  - **Option D (Falsch):**
+    - **Vorher:** Mit Duftstoffen aus dem Tempel, die sie dort gekauft hatte
+    - **Nachher:** Mit duftenden Gewürzen aus den Vorräten des Tempels
+
+### `joh_057` (Johannes 12:4-6)
+- **Frage:** Wer heuchelte Sorge um die Armen, als er die Salbung kritisierte?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Judas Ischariot, der Verräter
+    - **Nachher:** Judas Ischariot, der ihn verriet
+  - **Option A (Falsch):**
+    - **Vorher:** Nikodemus, der Pharisäer, der heimlich zu Jesus gekommen war
+    - **Nachher:** Nikodemus, der zu ihm bei Nacht kam
+  - **Option C (Falsch):**
+    - **Vorher:** Simon Petrus, der Fischer, der den Beutel der Jünger trug
+    - **Nachher:** Simon Petrus, der Bruder des Andreas
+  - **Option D (Falsch):**
+    - **Vorher:** Thomas, der Zwilling, der Zweifel an der Salbung äußerte
+    - **Nachher:** Thomas, der der Zwilling genannt wird
+
+### `joh_061` (Johannes 13:1-15)
+- **Frage:** Welche dienende Handlung vollzog Jesus an Seinen Jüngern vor dem Passahfest?
+- **Richtige Antwort (unverändert, Option B):** Er wusch den Jüngern die Füße
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Er salbte ihre Häupter
+    - **Nachher:** Er salbte ihre Häupter mit Öl
+  - **Option C (Falsch):**
+    - **Vorher:** Er schenkte ihnen neue Kleider
+    - **Nachher:** Er reichte ihnen neue Kleider
+  - **Option D (Falsch):**
+    - **Vorher:** Er verteilte Geld
+    - **Nachher:** Er verteilte Silber an alle da
+
+### `joh_062` (Johannes 13:6-8)
+- **Frage:** Wie reagierte Simon Petrus zunächst auf die Fußwaschung durch Jesus?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Nimmermehr sollst du mir die Füße waschen
+    - **Nachher:** Keinesfalls bis in alle Ewigkeit sollst du mir die Füße waschen, Herr!
+  - **Option A (Falsch):**
+    - **Vorher:** Er dankte ihm laut und beugte sich demütig vor ihm
+    - **Nachher:** Er dankte ihm mit lauter Stimme und beugte sich demütig vor ihm nieder
+  - **Option B (Falsch):**
+    - **Vorher:** Er wusch Jesus sofort die Füße und begann mit den Jüngern
+    - **Nachher:** Er wusch alsbald dem Herrn die Füße und begann mit den anderen Jüngern
+  - **Option D (Falsch):**
+    - **Vorher:** Er verließ den Raum, weil er die Ehre nicht ertragen konnte
+    - **Nachher:** Er verließ den Saal aus Scham, weil er solche Ehre nicht ertragen konnte
+
+### `joh_070` (Johannes 14:27)
+- **Frage:** Welches Vermächtnis hinterließ Jesus Seinen Nachfolgern vor Seinem Leiden?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Seinen Frieden
+    - **Nachher:** Seinen himmlischen Frieden
+  - **Option A (Falsch):**
+    - **Vorher:** Seinen irdischen Besitz
+    - **Nachher:** Großen irdischen Besitz
+  - **Option B (Falsch):**
+    - **Vorher:** Eine neue Auslegung der Tora
+    - **Nachher:** Ein neues Buch der Tora
+  - **Option D (Falsch):**
+    - **Vorher:** Macht über Roms Feinde
+    - **Nachher:** Vollmacht über alle Feinde
+
+### `joh_072` (Johannes 15:1-6)
+- **Frage:** Was geschieht mit Reben, die keine Frucht am Weinstock bringen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Der Vater nimmt sie weg, und sie werden verbrannt
+    - **Nachher:** Man nimmt sie weg, wirft sie ins Feuer und sie brennen
+  - **Option B (Falsch):**
+    - **Vorher:** Sie werden gegossen und gepflegt, bis sie wieder Frucht tragen
+    - **Nachher:** Man gießt und pflegt sie, bis sie wieder Frucht tragen
+  - **Option C (Falsch):**
+    - **Vorher:** Sie werden mit Öl gesalbt und mit Mist gedüngt
+    - **Nachher:** Man bindet sie neu auf und düngt sie mit reichem Mist
+  - **Option D (Falsch):**
+    - **Vorher:** Sie bleiben stehen für das nächste Jahr, ob sie nun Frucht bringen oder nicht
+    - **Nachher:** Man lässt sie ruhig stehen bis zur nächsten Jahreszeit
+
+### `joh_073` (Johannes 15:13)
+- **Frage:** Woran offenbart sich nach den Worten Jesu die größte menschliche Liebe?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Dass jemand sein Leben lässt für seine Freunde
+    - **Nachher:** Dass jemand seine Seele einsetzt für seine Freunde
+  - **Option D (Falsch):**
+    - **Vorher:** Dass jemand viele Wunder tut und das Volk heilt
+    - **Nachher:** Dass jemand große Wunder tut und viele Kranke heilt
+
+### `joh_076` (Johannes 16:1-4)
+- **Frage:** Welches Verhalten der Verfolger sagt Jesus Seinen Aposteln voraus?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Sie werden euch aus der Synagoge ausstoßen
+    - **Nachher:** Sie werden euch aus der Synagoge ausschließen
+  - **Option B (Falsch):**
+    - **Vorher:** Sie werden euer Geld und eure Güter rauben
+    - **Nachher:** Sie werden euer Geld und all eure Güter rauben
+  - **Option C (Falsch):**
+    - **Vorher:** Sie werden euch vor den Kaiser nach Rom schicken
+    - **Nachher:** Sie werden euch gebunden vor den Kaiser bringen
+  - **Option D (Falsch):**
+    - **Vorher:** Sie werden eure Häuser niederbrennen und zerstören
+    - **Nachher:** Sie werden eure Wohnstätten verbrennen im Feuer
+
+### `joh_078` (Johannes 16:12-15)
+- **Frage:** In welchen Bereich wird der Geist der Wahrheit die Glaubenden leiten?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** In alle Wahrheit
+    - **Nachher:** In die ganze göttliche Wahrheit
+  - **Option A (Falsch):**
+    - **Vorher:** In irdischen Reichtum
+    - **Nachher:** In großen irdischen Reichtum
+  - **Option B (Falsch):**
+    - **Vorher:** In die Schriften der Römer
+    - **Nachher:** In die Gesetze und Satzungen
+
+### `joh_080` (Johannes 16:33)
+- **Frage:** Welches Siegeswort spricht Jesus am Ende Seiner Abschiedsreden aus?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Seid getrost, ich habe die Welt überwunden
+    - **Nachher:** Jedoch fasst Mut, ich habe die Welt überwunden!
+  - **Option B (Falsch):**
+    - **Vorher:** Ich habe den Tempel gereinigt und das Haus meines Vaters bewahrt
+    - **Nachher:** Ich habe den heiligen Tempel meines Vaters bewahrt!
+  - **Option C (Falsch):**
+    - **Vorher:** Ich habe die Römer besiegt und das Reich Israel wiederhergestellt
+    - **Nachher:** Ich habe die Macht der Feinde für immer gebrochen!
+  - **Option D (Falsch):**
+    - **Vorher:** Ich habe das Gesetz vollendet und alle Propheten erfüllt
+    - **Nachher:** Ich habe das heilige Gesetz und Propheten erfüllt!
+
+### `joh_082` (Johannes 17:11-23)
+- **Frage:** Welches Anliegen erbat Jesus vom Vater für die Gemeinschaft Seiner Jünger?
+- **Richtige Antwort (unverändert, Option C):** Dass sie alle eins seien, wie wir eins sind
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Dass sie reicher werden als die Welt
+    - **Nachher:** Dass sie reicher werden als alle Völker auf Erden
+  - **Option B (Falsch):**
+    - **Vorher:** Dass sie keine Verfolgung erleiden
+    - **Nachher:** Dass sie keine irdische Trübsal in der Welt erleiden
+  - **Option D (Falsch):**
+    - **Vorher:** Dass sie die Macht Roms brechen
+    - **Nachher:** Dass sie die weltliche Herrschaft für immer brechen
+
+### `joh_086` (Johannes 18:1-2)
+- **Frage:** Wo befand sich der Garten, in dem Jesus gefangen genommen wurde?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Ein Garten jenseits des Baches Kidron
+    - **Nachher:** Ein Garten über dem Bach Kidron
+  - **Option A (Falsch):**
+    - **Vorher:** Ein Garten auf dem Sinai
+    - **Nachher:** Ein Weinberg auf dem Berg Sinai
+  - **Option B (Falsch):**
+    - **Vorher:** Der Garten Salomos
+    - **Nachher:** Der Königsgarten Salomos in Zion
+  - **Option D (Falsch):**
+    - **Vorher:** Der Garten beim Haus des Nikodemus
+    - **Nachher:** Der Garten beim Hause Nikodemus
+
+### `joh_089` (Johannes 18:12-14)
+- **Frage:** Zu wem wurde Jesus nach der Gefangennahme zuerst geführt?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Zu Hannas
+    - **Nachher:** Zuerst zu Hannas
+  - **Option A (Falsch):**
+    - **Vorher:** Zu Pilatus
+    - **Nachher:** Zu Pontius Pilatus
+  - **Option C (Falsch):**
+    - **Vorher:** Zum Kaiser
+    - **Nachher:** Zum Kaiser nach Rom
+  - **Option D (Falsch):**
+    - **Vorher:** Ins Gefängnis nach Rom
+    - **Nachher:** Zu König Herodes
+
+### `joh_092` (Johannes 19:4-6)
+- **Frage:** Welche Ausrufeworte sprach Pilatus, als Er Jesus dem Volke vorführte?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Sehet, welch ein Mensch!
+    - **Nachher:** Seht, welch ein Mensch!
+  - **Option B (Falsch):**
+    - **Vorher:** Seht euren mächtigen König
+    - **Nachher:** Seht hier euren König!
+  - **Option C (Falsch):**
+    - **Vorher:** Hier ist der Gesetzesbrecher
+    - **Nachher:** Seht hier euren Richter!
+  - **Option D (Falsch):**
+    - **Vorher:** Gebt ihm die verdiente Todesstrafe
+    - **Nachher:** Seht diesen Aufrührer!
+
+### `joh_094` (Johannes 19:25-27)
+- **Frage:** Welchen Auftrag erteilte der sterbende Jesus dem Jünger, den Er liebte?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Für seine Mutter zu sorgen
+    - **Nachher:** Seine Mutter als die seine zu nehmen
+  - **Option A (Falsch):**
+    - **Vorher:** Ein Haus für die Jünger zu bauen
+    - **Nachher:** Ein Haus für die Jünger zu erbauen
+  - **Option B (Falsch):**
+    - **Vorher:** Nach Rom zu gehen
+    - **Nachher:** Sofort als Zeuge nach Rom zu reisen
+  - **Option D (Falsch):**
+    - **Vorher:** Die Worte aufzuschreiben
+    - **Nachher:** Seine Worte in ein Buch zu schreiben
+
+### `joh_098` (Johannes 20:14-16)
+- **Frage:** Für wen hielt Maria Magdalena den auferstandenen Jesus zunächst im Garten?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Für den Gärtner
+    - **Nachher:** Für den Gärtner an jener Stätte
+  - **Option A (Falsch):**
+    - **Vorher:** Für einen Engel in weißem Kleid
+    - **Nachher:** Für einen Engel im weißen Kleid
+  - **Option B (Falsch):**
+    - **Vorher:** Für den Hohenpriester
+    - **Nachher:** Für den Hohenpriester im Garten
+  - **Option D (Falsch):**
+    - **Vorher:** Für den Apostel Petrus
+    - **Nachher:** Für den treuen Jünger Petrus da
+
+### `joh_103` (Johannes 21:15-17)
+- **Frage:** Welche Frage richtete Jesus am See dreimal an Petrus?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Simon, Sohn des Johannes, hast du mich lieb?
+    - **Nachher:** Simon Jona, liebst du mich? Hast du mich wirklich lieb?
+  - **Option A (Falsch):**
+    - **Vorher:** Wirst du ein Haus bauen und die Herde weiden, die ich dir gebe?
+    - **Nachher:** Simon Jona, wirst du meine Jünger sammeln und leiten?
+  - **Option B (Falsch):**
+    - **Vorher:** Wirst du nach Jerusalem gehen und dort meine Gemeinde sammeln?
+    - **Nachher:** Simon Jona, wirst du dein Leben für meine Herde geben?
+  - **Option C (Falsch):**
+    - **Vorher:** Wirst du mich wieder verleugnen, wenn die Soldaten kommen?
+    - **Nachher:** Simon Jona, wirst du mich verleugnen in der Bedrängnis?
+
+### `joh_105` (Johannes 21:24-25)
+- **Frage:** Womit beschließt der Evangelist Johannes sein Zeugnis über das Wirken Jesu?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Die Welt würde die Bücher nicht fassen, die man schreiben müsste
+    - **Nachher:** Die Welt würde die Bücher gar nicht fassen, die zu schreiben wären
+
+### `joh_108` (Johannes 19:38-39)
+- **Frage:** Wer bestattete nach Johannes 19:38-39 den Leib Jesu?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Josef von Arimathia
+    - **Nachher:** Joseph von Arimathia, der Jünger
+  - **Option C (Richtig):**
+    - **Vorher:** Nikodemus
+    - **Nachher:** Nikodemus, der Ratsherr der Juden
+  - **Option D (Falsch):**
+    - **Vorher:** Simon von Kyrene
+    - **Nachher:** Simon von Kyrene, der Kreuzträger
+
+### `joh_109` (Johannes 2:11)
+- **Bibelstelle Vorher:** `Johannes 2:9; Johannes 4:50; Johannes 6:11; Johannes 9:7; Johannes 11:43` -> **Nachher:** `Johannes 2:11`
+- **Frage:** Bringe diese Zeichen Jesu im Johannesevangelium in die richtige Reihenfolge.
+
+### `joh_110` (Johannes 20:19)
+- **Bibelstelle Vorher:** `Johannes 20:14; Lukas 24:15; Johannes 20:19; Johannes 20:26` -> **Nachher:** `Johannes 20:19`
+- **Frage:** Bringe diese Erscheinungen des Auferstandenen in die richtige Reihenfolge.

@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-11-05T21:14:32Z",
+  "lastUpdated": "2026-11-05T21:32:05Z",
   "language": "en",
   "categories": [
     {
@@ -854,6 +854,28 @@
       ],
       "sizeBytes": 116634,
       "downloadUrl": "./en/42_lukas.json"
+    },
+    {
+      "quizId": "nt_04_johannes_alle_kapitel_en",
+      "category": "nt",
+      "title": "John",
+      "subtitle": "John 1:1 – 21:25 (110 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 110,
+      "difficulty": "medium",
+      "tags": [
+        "John",
+        "New Testament",
+        "Gospels",
+        "Gospel",
+        "Messiah",
+        "Incarnation",
+        "King James Version"
+      ],
+      "sizeBytes": 105946,
+      "downloadUrl": "./en/43_johannes.json"
     }
   ]
 }

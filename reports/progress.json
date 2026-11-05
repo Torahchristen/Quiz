@@ -1,7 +1,7 @@
 {
   "branch": "review-and-english",
   "totalFiles": 66,
-  "completedCount": 42,
+  "completedCount": 43,
   "completedFiles": [
     "01_1_mose.json",
     "02_2_mose.json",
@@ -44,10 +44,10 @@
     "39_maleachi.json",
     "40_matthaeus.json",
     "41_markus.json",
-    "42_lukas.json"
+    "42_lukas.json",
+    "43_johannes.json"
   ],
   "pendingFiles": [
-    "43_johannes.json",
     "44_apostelgeschichte.json",
     "45_roemer.json",
     "46_1_korinther.json",
@@ -366,6 +366,13 @@
       "explanationsReviewedEn": 0,
       "reportPath": "reports/42_lukas.md",
       "enPath": "en/42_lukas.json"
+    },
+    "43_johannes.json": {
+      "questionsCount": 110,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/43_johannes.md",
+      "enPath": "en/43_johannes.json"
     }
   }
 }
