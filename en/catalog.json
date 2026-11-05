@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-11-05T19:20:12Z",
+  "lastUpdated": "2026-11-05T19:38:06Z",
   "language": "en",
   "categories": [
     {
@@ -485,6 +485,25 @@
       ],
       "sizeBytes": 189411,
       "downloadUrl": "./en/23_jesaja.json"
+    },
+    {
+      "quizId": "bibel_24_jeremia_en",
+      "category": "propheten",
+      "title": "Jeremiah",
+      "subtitle": "Jeremiah 1:1 – 52:34 (157 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "1.0.0",
+      "questionCount": 157,
+      "difficulty": "medium",
+      "tags": [
+        "Jeremiah",
+        "OT",
+        "prophets",
+        "KJV"
+      ],
+      "sizeBytes": 154479,
+      "downloadUrl": "./en/24_jeremia.json"
     }
   ]
 }

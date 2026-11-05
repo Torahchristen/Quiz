@@ -29,7 +29,8 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
 | `21_prediger.json` | 40 | 19 | 6 | 19 | 1 |
 | `22_hohelied.json` | 26 | 14 | 2 | 14 | 1 |
 | `23_jesaja.json` | 196 | 58 | 1 | 57 | 2 |
-| **Gesamt (23 Dateien)** | **2806** | **1362** | **947** | **1224** | **54** |
+| `24_jeremia.json` | 157 | 24 | 3 | 24 | 0 |
+| **Gesamt (24 Dateien)** | **2963** | **1386** | **950** | **1248** | **54** |
 
 ## 01_1_mose.json – 1. Mose (Genesis) (Schlachter (Revision von 1951))
 
@@ -19308,3 +19309,313 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
   - **Option C (Falsch):**
     - **Vorher:** Amos
     - **Nachher:** Der Prophet Daniel
+
+## 24_jeremia.json – Jeremia (Luther 1912)
+
+### `jer_001` (Jeremia 1:1)
+- **Frage:** Aus welchem Ort im Land Benjamin stammte Jeremia nach Jeremia 1:1?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Anathoth
+    - **Nachher:** Zu Anathoth
+  - **Option A (Falsch):**
+    - **Vorher:** Nob
+    - **Nachher:** Im Orte Nob
+  - **Option B (Falsch):**
+    - **Vorher:** Silo
+    - **Nachher:** Im Orte Silo
+  - **Option C (Falsch):**
+    - **Vorher:** Gibea
+    - **Nachher:** Im Orte Gibea
+
+### `jer_006` (Jeremia 19:10-11)
+- **Frage:** Was tat Jeremia mit dem Krug im Tal Ben-Hinnom (Jeremia 19:10-11)?
+- **Richtige Antwort (unverändert, Option D):** Er zerbrach ihn vor den Ältesten
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Falsch):**
+    - **Vorher:** Er vergrub ihn
+    - **Nachher:** Er vergrub ihn in der Erde
+
+### `jer_011` (Jeremia 28:10-11)
+- **Frage:** Was tat Hananja mit dem Joch Jeremias (Jeremia 28:10)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Er zerbrach es
+    - **Nachher:** Er zerbrach es vor dem Volk
+  - **Option A (Falsch):**
+    - **Vorher:** Er trug es selbst
+    - **Nachher:** Er trug es selbst umher
+  - **Option C (Falsch):**
+    - **Vorher:** Er verbrannte es
+    - **Nachher:** Er verbrannte es im Feuer
+
+### `jer_020` (Jeremia 44:15-19)
+- **Frage:** Wem brachten die Frauen in Ägypten nach Jeremia 44:17-19 Opfer?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Der Himmelskönigin
+    - **Nachher:** Der Himmelskönigin allein
+  - **Option A (Falsch):**
+    - **Vorher:** Dem Baal und den Götzen der Kanaaniter
+    - **Nachher:** Den Gestirnen des Himmels
+  - **Option B (Falsch):**
+    - **Vorher:** Dem Moloch und den Göttern der Ammoniter
+    - **Nachher:** Den Götzenbildern Babels
+  - **Option C (Falsch):**
+    - **Vorher:** Der Astarte und den Göttern der Sidonier
+    - **Nachher:** Dem Sonnengott der Heiden
+
+### `jer_038` (Jeremia 6:30)
+- **Frage:** Als was wird das Volk in Jeremia 6:30 bezeichnet?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Als verworfenes Silber
+    - **Nachher:** Als ganz verworfenes Silber
+  - **Option A (Falsch):**
+    - **Vorher:** Als gereinigtes Gold, das im Feuer bewährt wurde
+    - **Nachher:** Als unreines und wertloses Erz
+  - **Option B (Falsch):**
+    - **Vorher:** Als zerschlagene Bronze, die man wegwirft
+    - **Nachher:** Als dürres und welkes Holz
+  - **Option C (Falsch):**
+    - **Vorher:** Als schwaches Eisen, das im Feuer zerbricht
+    - **Nachher:** Als zerbrochenes Tongeschirr
+
+### `jer_043` (Jeremia 8:8)
+- **Frage:** Was wirft Jeremia 8:8 den Schriftgelehrten vor?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Was sie setzen, ist eitel Lüge
+    - **Nachher:** Dass der Lügengriffel der Schreiber das Gesetz zur Lüge macht
+  - **Option A (Falsch):**
+    - **Vorher:** Dass sie das Gesetz zu viel auslegen und es dadurch verwirren
+    - **Nachher:** Dass sie das Gesetz des HERRN verfälschen und böse Lügen lehren
+  - **Option C (Falsch):**
+    - **Vorher:** Dass sie schweigen und das Volk nicht belehren
+    - **Nachher:** Dass sie die Gebote Gottes vergessen und fremden Götzen dienen
+  - **Option D (Falsch):**
+    - **Vorher:** Dass sie zu jung sind und die Schrift noch nicht verstehen
+    - **Nachher:** Dass sie das Wort des HERRN verachten und den Propheten wehren
+
+### `jer_059` (Jeremia 14:1-3)
+- **Frage:** Welche Not war der Anlass für Jeremias Gebet in Jeremia 14:1-3?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Eine große Dürre
+    - **Nachher:** Die teure Zeit
+  - **Option A (Falsch):**
+    - **Vorher:** Ein Krieg
+    - **Nachher:** Eine schwere Pest
+  - **Option C (Falsch):**
+    - **Vorher:** Eine Seuche
+    - **Nachher:** Ein hartes Schwert
+  - **Option D (Falsch):**
+    - **Vorher:** Ein Erdbeben
+    - **Nachher:** Der große Hunger
+
+### `jer_072` (Jeremia 18:18)
+- **Frage:** Welchen Anschlag schmiedeten die Widersacher nach Jeremia 18:18?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Ihn mit der Zunge zu schlagen
+    - **Nachher:** Ihn mit der Zunge zu schlagen und nicht zu hören
+  - **Option A (Falsch):**
+    - **Vorher:** Ihn zu vergiften und heimlich zu beseitigen
+    - **Nachher:** Ihn heimlich durch Gift und Verrat zu beseitigen
+  - **Option C (Falsch):**
+    - **Vorher:** Ihn zu vertreiben und aus der Stadt zu treiben
+    - **Nachher:** Ihn gewaltsam aus den Mauern der Stadt zu treiben
+  - **Option D (Falsch):**
+    - **Vorher:** Ihn zu bestechen und zum Schweigen zu bringen
+    - **Nachher:** Ihn durch vieles Geld zum ewigen Schweigen bringen
+
+### `jer_077` (Jeremia 21:2)
+- **Frage:** Was erhoffte Zedekia nach Jeremia 21:2?
+- **Richtige Antwort (unverändert, Option C):** Dass der HERR Wunder tue und Nebukadnezar abziehe
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Dass Jeremia schweigt
+    - **Nachher:** Dass der Prophet Jeremia für immer verstumme
+  - **Option B (Falsch):**
+    - **Vorher:** Dass der Feind sich zurückzieht, weil der König Tribut zahlt
+    - **Nachher:** Dass Nebukadnezar nach Zahlung von Tribut abziehe
+  - **Option D (Falsch):**
+    - **Vorher:** Dass er flieht
+    - **Nachher:** Dass Pharaos Heer heranziehe und die Feinde schlage
+
+### `jer_081` (Jeremia 22:19)
+- **Frage:** Welches Ende kündigt Jeremia 22:19 dem König Jojakim an?
+- **Richtige Antwort (unverändert, Option C):** Er wird wie ein Esel begraben, fortgeschleift und vor die Tore Jerusalems geworfen
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Er stirbt im Exil, fern von seinem Volk und seiner Heimat, und wird dort ehrenvoll bestattet
+    - **Nachher:** Er stirbt in Babel in Gefangenschaft, fern von seinem Volk, und wird bestattet
+
+### `jer_088` (Jeremia 25:3)
+- **Frage:** Wie viele Jahre hatte Jeremia bis zum vierten Jahr Jojakims vergeblich gepredigt (Jeremia 25:3)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Dreiundzwanzig Jahre
+    - **Nachher:** Dreiundzwanzig Jahre lang
+  - **Option A (Falsch):**
+    - **Vorher:** Zehn Jahre
+    - **Nachher:** Seit genau zehn Jahren
+  - **Option C (Falsch):**
+    - **Vorher:** Vierzig Jahre
+    - **Nachher:** Seit etwa vierzig Jahren
+  - **Option D (Falsch):**
+    - **Vorher:** Sieben Jahre
+    - **Nachher:** Seit ungefähr sieben Jahren
+
+### `jer_091` (Jeremia 26:18)
+- **Frage:** An welchen Propheten erinnerten die Ältesten in Jeremia 26:18?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** An Micha von Moreschet
+    - **Nachher:** An Micha von Moreschet, der unter Hiskia weissagte
+
+### `jer_093` (Jeremia 27:6)
+- **Frage:** Wie nennt der HERR Nebukadnezar in Jeremia 27:6?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Seinen Knecht
+    - **Nachher:** Seinen Knecht Nebukadnezar
+  - **Option A (Falsch):**
+    - **Vorher:** Seinen Hirten
+    - **Nachher:** Seinen Hirten auf Erden
+  - **Option B (Falsch):**
+    - **Vorher:** Seinen Gesalbten
+    - **Nachher:** Seinen Gesalbten im Land
+
+### `jer_094` (Jeremia 27:18)
+- **Frage:** Was sollten die Propheten nach Jeremia 27:18 tun, wenn sie wirklich das Wort des HERRN hätten?
+- **Richtige Antwort (unverändert, Option A):** Fürbitte tun, dass die Geräte im Haus des HERRN nicht auch nach Babel kommen
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Falsch):**
+    - **Vorher:** Ins Exil ziehen, damit die Geräte nicht gestohlen und verschleppt werden
+    - **Nachher:** In die Gefangenschaft ziehen, damit die heiligen Geräte nicht weggenommen werden
+
+### `jer_095` (Jeremia 28:3)
+- **Frage:** Was verkündete Hananja nach Jeremia 28:3?
+- **Richtige Antwort (unverändert, Option B):** Binnen zwei Jahren will der HERR alle Geräte und Jechonja aus Babel zurückbringen
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Falsch):**
+    - **Vorher:** Das Exil dauere siebzig Jahre, und danach kehre alles zurück in das Land
+    - **Nachher:** Die babylonische Gefangenschaft dauere siebzig Jahre und dann kehre alles zurück
+
+### `jer_096` (Jeremia 28:13)
+- **Frage:** Was kündigt Jeremia nach Jeremia 28:13 dem Hananja an?
+- **Richtige Antwort (unverändert, Option A):** Du hast hölzerne Joche zerbrochen; nun wirst du eiserne an ihrer Statt machen
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Falsch):**
+    - **Vorher:** Du wirst ins Exil ziehen und dort noch Jahre als Prophet bleiben
+    - **Nachher:** Du wirst gefangen nach Babel ziehen und dort noch viele Jahre weissagen
+
+### `jer_097` (Jeremia 29:11)
+- **Frage:** Was verheißt der HERR in Jeremia 29:11?
+- **Richtige Antwort (unverändert, Option C):** Gedanken des Friedens und nicht des Leides, dass er euch gebe das Ende, des ihr wartet
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Frieden ohne jede Bedingung und ein Ende des Exils in wenigen Tagen
+    - **Nachher:** Frieden ohne jede Bedingung und ein schnelles Ende aller Gefangenschaft
+
+### `jer_100` (Jeremia 30:9)
+- **Frage:** Wem werden die Befreiten nach Jeremia 30:9 dienen?
+- **Richtige Antwort (unverändert, Option B):** Dem HERRN, ihrem Gott, und ihrem König David, den er ihnen erwecken will
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Falsch):**
+    - **Vorher:** Den Fürsten und Ältesten, die ihnen nach dem Exil Recht sprechen werden
+    - **Nachher:** Den Fürsten und Ältesten, die ihnen nach der Gefangenschaft Recht sprechen
+
+### `jer_102` (Jeremia 31:3)
+- **Frage Vorher:** Mit welcher Liebe hat der HERR sein Volk nach Jeremia 31:3 geliebt?
+- **Frage Nachher:** Wie hat der HERR sein Volk nach Jeremia 31:3 geliebt?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Mit ewiger Liebe
+    - **Nachher:** Er hat es je und je geliebt
+  - **Option A (Falsch):**
+    - **Vorher:** Mit zeitlicher Liebe
+    - **Nachher:** Er hat es von ferne verlassen
+  - **Option B (Falsch):**
+    - **Vorher:** Mit väterlicher Liebe
+    - **Nachher:** Er hat es aus Zorn verworfen
+  - **Option C (Falsch):**
+    - **Vorher:** Mit einer Liebe des Gesetzes
+    - **Nachher:** Er hat es für kurze Zeit getragen
+
+### `jer_107` (Jeremia 33:16)
+- **Frage Vorher:** Wie wird Jerusalem nach Jeremia 33:16 in der Heilszeit heißen?
+- **Frage Nachher:** Wie wird Jerusalem nach Jeremia 33:16 in der Heilszeit genannt werden?
+- **Richtige Antwort (unverändert, Option A):** Der HERR unsere Gerechtigkeit
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Die Stadt des Friedens, in der kein Krieg mehr sein wird
+    - **Nachher:** Die treue Stadt der Gerechten
+  - **Option C (Falsch):**
+    - **Vorher:** Die Stadt des Königs, in der Davids Haus herrscht
+    - **Nachher:** Die ewige Stadt des Friedens
+  - **Option D (Falsch):**
+    - **Vorher:** Zion, der heilige Berg, den der HERR erwählt hat
+    - **Nachher:** Der heilige Berg des Tempels
+
+### `jer_108` (Jeremia 33:20-21)
+- **Frage Vorher:** Mit welcher Ordnung vergleicht der HERR seinen Bund mit David (Jeremia 33:20-21)?
+- **Frage Nachher:** Mit welchem Bund vergleicht der HERR seinen Bund mit David (Jeremia 33:20-21)?
+- **Richtige Antwort (unverändert, Option B):** Mit seinem Bund mit Tag und Nacht
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Mit dem Lauf der Sterne am Himmel, die nie ihren Platz verlassen
+    - **Nachher:** Mit dem Lauf der Gestirne am Himmel
+  - **Option C (Falsch):**
+    - **Vorher:** Mit den Jahreszeiten, die zu ihrer Zeit kommen
+    - **Nachher:** Mit der festen Ordnung der Gezeiten
+  - **Option D (Falsch):**
+    - **Vorher:** Mit den Ordnungen des Meeres, das seine Grenzen kennt
+    - **Nachher:** Mit den ehernen Grenzen des Meeres
+
+### `jer_111` (Jeremia 34:17)
+- **Frage:** Welche »Freilassung« verkündet der HERR in Jeremia 34:17?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Ich rufe euch die Freiheit aus unter Schwert, Pest und Hunger
+    - **Nachher:** Freilassung ins Schwert, in die Pestilenz und in den Hunger
+  - **Option B (Falsch):**
+    - **Vorher:** Die Freiheit vom Exil, sodass sie heimkehren dürfen
+    - **Nachher:** Freilassung aus der babylonischen Gefangenschaft nach Hause
+  - **Option C (Falsch):**
+    - **Vorher:** Die Freiheit vom Gesetz, sodass sie nicht mehr gestraft werden
+    - **Nachher:** Freilassung von den schweren Lasten und Abgaben des Königs
+  - **Option D (Falsch):**
+    - **Vorher:** Die Freiheit der Knechte, sodass sie nicht mehr dienen müssen
+    - **Nachher:** Freilassung aller hebräischen Knechte und Mägde für immer
+
+### `jer_124` (Jeremia 40:5-6)
+- **Frage:** Wen setzte der König von Babel als Statthalter ein (Jeremia 40:5)?
+- **Richtige Antwort (unverändert, Option A):** Gedalja, den Sohn Ahikams
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Ismael, den Sohn Netanjas, aus königlichem Geschlecht
+    - **Nachher:** Ismael, den Sohn Netanjas
+  - **Option C (Falsch):**
+    - **Vorher:** Johanan, den Sohn Kareachs, den Heerführer
+    - **Nachher:** Johanan, den Sohn Kareachs
+  - **Option D (Falsch):**
+    - **Vorher:** Jeremia, den Priester aus Anathoth
+    - **Nachher:** Paschhur, den Sohn Immers
+
+### `jer_138` (Jeremia 46:2)
+- **Frage:** Wo wurde das Heer Pharao Nechos nach Jeremia 46:2 geschlagen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Am Euphrat bei Karkemis
+    - **Nachher:** Am Fluss Euphrat bei Karkemis
+  - **Option A (Falsch):**
+    - **Vorher:** Am Nil bei Memphis, wo das Heer Ägyptens lagerte
+    - **Nachher:** Am Strom Ägyptens bei Memphis
+  - **Option B (Falsch):**
+    - **Vorher:** Am Jordan bei Jericho, als es durch das Land zog
+    - **Nachher:** Am Jordan gegenüber von Jericho
+  - **Option D (Falsch):**
+    - **Vorher:** Am Tigris bei Ninive, wo einst Assur herrschte
+    - **Nachher:** Am Fluss Hiddekel bei Ninive

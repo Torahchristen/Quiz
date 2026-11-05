@@ -1,0 +1,5361 @@
+{
+  "metadata": {
+    "quizId": "bibel_24_jeremia_en",
+    "title": "Jeremiah",
+    "subtitle": "Jeremiah 1:1 – 52:34 (157 questions)",
+    "author": "King James Version (1769)",
+    "version": "1.0.0",
+    "language": "en",
+    "category": "propheten",
+    "difficulty": "medium",
+    "tags": [
+      "Jeremiah",
+      "OT",
+      "prophets",
+      "KJV"
+    ],
+    "questionCount": 157,
+    "canonicalBookNumber": 24,
+    "testament": "OT"
+  },
+  "questions": [
+    {
+      "questionId": "jer_001",
+      "type": "single_choice",
+      "text": "From what city in the land of Benjamin was Jeremiah according to Jeremiah 1:1?",
+      "options": [
+        {
+          "text": "In the city of Nob in Benjamin",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In the city of Shiloh in Ephraim",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In the city of Gibeah in Benjamin",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Of Anathoth in the land of Benjamin",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Jeremiah 1:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_002",
+      "type": "single_choice",
+      "text": "What plea did Jeremiah make at his calling in Jeremiah 1:6?",
+      "options": [
+        {
+          "text": "I am too old and can travel no more in the cities",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I am a stranger and know not the speech of people",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I am no priest and have not served in the temple",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Ah, Lord GOD! I cannot speak: for I am a child",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Jeremiah 1:6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_003",
+      "type": "single_choice",
+      "text": "What two visions did Jeremiah see at his calling (Jeremiah 1:11-13)?",
+      "options": [
+        {
+          "text": "A lofty cedar tree and a fruitful palm",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A swift eagle and a roaring young lion",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A green fig tree and a flourishing vine",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A rod of an almond tree and a seething pot",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Jeremiah 1:11-13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "jer_004",
+      "type": "single_choice",
+      "text": "What did Jeremiah do with the linen girdle by Euphrates (Jeremiah 13:1-7)?",
+      "options": [
+        {
+          "text": "He cast it into the swelling waters of the river",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He burned it openly with fire in the holy court",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He gave it unto the king of Judah for an ornament",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He hid it there in a hole of the rock by the bank",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Jeremiah 13:1-7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_005",
+      "type": "single_choice",
+      "text": "What lesson did Jeremiah learn at the potter's house (Jeremiah 18:1-6)?",
+      "options": [
+        {
+          "text": "That the clay is too stiff to be fashioned into a vessel",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That the potter casteth away the marred clay forever",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That the vessels of brass are more durable than of clay",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As the clay in potter's hand, so is Israel in my hand",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Jeremiah 18:1-6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "jer_006",
+      "type": "single_choice",
+      "text": "What did Jeremiah do with the potter's earthen bottle in the valley of Hinnom (Jeremiah 19:10-11)?",
+      "options": [
+        {
+          "text": "He filled it with clean water from the pool",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He set it up within the court of the temple",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He hid it secretly deep within the ground",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He brake the bottle in the sight of the men",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Jeremiah 19:10-11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_007",
+      "type": "single_choice",
+      "text": "What did Pashur the priest do unto Jeremiah (Jeremiah 20:1-2)?",
+      "options": [
+        {
+          "text": "He banished him into the remote wilderness of Edom",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He commanded him to be slain by the sword of guard",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He delivered him over unto the heathen princes of Assur",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He smote Jeremiah the prophet, and put him in stocks",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Jeremiah 20:1-2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_008",
+      "type": "single_choice",
+      "text": "What did the two baskets of figs represent in Jeremiah 24?",
+      "options": [
+        {
+          "text": "The rich merchants of Judah and the poor husbandmen",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The priests of the temple and the false lying prophets",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The kings of Egypt and the mighty princes of Babylon",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Good figs for the captives, naughty for Zedekiah's men",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Jeremiah 24:1-10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_009",
+      "type": "single_choice",
+      "text": "How long should the nations serve the king of Babylon (Jeremiah 25:11)?",
+      "options": [
+        {
+          "text": "Forty years",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Fifty years",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A hundred years",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Seventy years",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Jeremiah 25:11-12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "jer_010",
+      "type": "single_choice",
+      "text": "What was Jeremiah commanded to put upon his neck in Jeremiah 27:2?",
+      "options": [
+        {
+          "text": "A heavy chain of iron and brass",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A sackcloth of mourning and ashes",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A linen girdle that was marred",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Bonds and yokes upon his neck",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Jeremiah 27:1-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_011",
+      "type": "single_choice",
+      "text": "What did the false prophet Hananiah do with Jeremiah's yoke (Jeremiah 28:10)?",
+      "options": [
+        {
+          "text": "He bare it upon his own shoulders",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He presented it unto king Zedekiah",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He burned it in the holy temple fire",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Took yoke from his neck, and brake it",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Jeremiah 28:10-11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jer_012",
+      "type": "single_choice",
+      "text": "What counsel did Jeremiah send unto the captives in Babylon (Jeremiah 29:5-7)?",
+      "options": [
+        {
+          "text": "Rebel against the king of Babylon and take up arms",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Fast continually and refuse to labour in that land",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Flee away into Egypt and dwell in secret villages",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Build houses, plant gardens, seek peace of the city",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Jeremiah 29:5-7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_013",
+      "type": "single_choice",
+      "text": "What doth the LORD promise in the new covenant (Jeremiah 31:33)?",
+      "options": [
+        {
+          "text": "To build a new temple of gold upon mount Zion",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To restore the ancient kingdom of king Solomon",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To give them the land of Canaan for an inheritance",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Put law in inward parts, and write it in hearts",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Jeremiah 31:31-34",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_014",
+      "type": "single_choice",
+      "text": "Why did Jeremiah buy the field of Hanameel in Anathoth (Jeremiah 32:6-15)?",
+      "options": [
+        {
+          "text": "To enrich his kinsmen before the siege of Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To build a fortified retreat for himself and Baruch",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To pay off the debt of the priests of the sanctuary",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For a sign that houses and fields shall be possessed",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Jeremiah 32:6-15",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_015",
+      "type": "single_choice",
+      "text": "What did the LORD commend concerning the Rechabites in Jeremiah 35?",
+      "options": [
+        {
+          "text": "Their great abundance of flocks in the plains",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Their building of fortified cities in the desert",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Their obedience to the commandment of their father",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Their daily burnt offerings in the house of God",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Jeremiah 35:12-16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_016",
+      "type": "single_choice",
+      "text": "What did king Jehoiakim do with the roll of Jeremiah's words (Jeremiah 36:23)?",
+      "options": [
+        {
+          "text": "He commanded it to be preserved in the king's library",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He tore it in pieces and gave it to the dogs of city",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He sent it unto the king of Babylon as a token of peace",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He cut it with penknife, and cast it into the fire",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Jeremiah 36:20-25",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_017",
+      "type": "single_choice",
+      "text": "Whither did the princes cast Jeremiah in Jeremiah 38:6?",
+      "options": [
+        {
+          "text": "Into the prison house of king Zedekiah",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Into the pit of lions in royal court",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Into the dry cistern of the watchmen",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Into the dungeon of Malchiah in mire",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Jeremiah 38:4-6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jer_018",
+      "type": "single_choice",
+      "text": "Who drew up Jeremiah out of the dungeon with cords and cast clouts (Jeremiah 38:7-13)?",
+      "options": [
+        {
+          "text": "Baruch the scribe, the son of Neriah",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Gedaliah the son of Ahikam the governor",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Jonathan the royal scribe of the temple",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Ebed-melech the Ethiopian, an eunuch",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Jeremiah 38:7-13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jer_019",
+      "type": "single_choice",
+      "text": "What did Johanan and the captains do after the murder of Gedaliah (Jeremiah 43:1-7)?",
+      "options": [
+        {
+          "text": "They submitted unto the king of Babylon and remained in Mizpah",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They fled into the land of the children of Ammon for safety",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They went into the land of Egypt, taking Jeremiah with them",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "They rebuilt the walls of Jerusalem and fortified the towers",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Jeremiah 43:1-7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_020",
+      "type": "single_choice",
+      "text": "Unto whom did the women in Egypt burn incense and pour drink offerings (Jeremiah 44:17-19)?",
+      "options": [
+        {
+          "text": "Unto Baal and the strange gods of Canaan",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto Molech and the gods of the Ammonites",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto Ashtaroth and the idols of the Zidon",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto the queen of heaven with drink offerings",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Jeremiah 44:15-19",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jer_021",
+      "type": "single_choice",
+      "text": "What did the LORD promise unto Baruch in Jeremiah 45:5?",
+      "options": [
+        {
+          "text": "Thy life will I give thee for a prey in all places",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Great riches of gold and silver in the land of Egypt",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "High authority and honour in the kingdom of Babylon",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A peaceful dwelling in the city of Jerusalem always",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Jeremiah 45:1-5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_022",
+      "type": "single_choice",
+      "text": "What was Seraiah commanded to do with the book of Babylon (Jeremiah 51:63)?",
+      "options": [
+        {
+          "text": "Read it before the king of Babylon and burn it with fire",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Bind a stone to it, and cast it into midst of Euphrates",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Bury it secretly within the foundations of the palace",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Deliver it unto the elders of the captivity in Chaldea",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jeremiah 51:59-64",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jer_023",
+      "type": "single_choice",
+      "text": "What did the Chaldeans do unto the pillars of brass in the temple (Jeremiah 52:17)?",
+      "options": [
+        {
+          "text": "They left them standing in the ruined house as a memorial",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They melted them on mount Zion to make weapons for war",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They brake the pillars of brass, and carried brass to Babel",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "They dedicated them unto the temple of their idol in Babylon",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Jeremiah 52:17-23",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jer_024",
+      "type": "single_choice",
+      "text": "What doth the LORD remember concerning Israel in Jeremiah 2:2?",
+      "options": [
+        {
+          "text": "The costly burnt offerings they sacrificed in the desert",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The kindness of thy youth, the love of thine espousals",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The mighty battles they fought against the heathen kings",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The golden treasures they brought out of the land of Egypt",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jeremiah 2:2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_025",
+      "type": "single_choice",
+      "text": "What two evils hath the Lord's people committed according to Jeremiah 2:13?",
+      "options": [
+        {
+          "text": "They have broken the holy sabbath and served strange idols",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They have forgotten the written law and rejected the priests",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Forsaken fountain of living waters, hewed broken cisterns",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "They have made a covenant with Egypt and allied with Assur",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Jeremiah 2:13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_026",
+      "type": "single_choice",
+      "text": "What doth the Lord GOD declare concerning Israel's cleansing in Jeremiah 2:22?",
+      "options": [
+        {
+          "text": "Though washed with nitre and soap, iniquity is marked",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The blood of bullocks shall cleanse away all thy guilt",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Repentance without fasting shall not be heard in Zion",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Thy sins are forgotten as soon as thou bringest gifts",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Jeremiah 2:22",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jer_027",
+      "type": "single_choice",
+      "text": "What did the LORD say unto Jeremiah concerning Israel and Judah (Jeremiah 3:11)?",
+      "options": [
+        {
+          "text": "Both have remained equally faithful unto the holy covenant",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Backsliding Israel hath justified herself more than Judah",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Treacherous Judah is more righteous than backsliding Israel",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Neither shall ever find mercy or return from captivity",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jeremiah 3:11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_028",
+      "type": "single_choice",
+      "text": "What doth the LORD promise to give unto His people in Jeremiah 3:15?",
+      "options": [
+        {
+          "text": "Mighty kings to conquer the nations with sword",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Wealthy princes to enrich the land with gold",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Pastors according to mine heart, to feed you",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Scribes to multiply the laws and ordinances",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Jeremiah 3:15",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_029",
+      "type": "single_choice",
+      "text": "What shall be said of the ark of the covenant in that day (Jeremiah 3:16)?",
+      "options": [
+        {
+          "text": "It shall be overlaid with pure gold and brought to Zion",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It shall be placed in a glorious new temple built on high",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It shall lead the host of Israel to victory over heathen",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Neither shall it come to mind, neither shall they remember",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Jeremiah 3:16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_030",
+      "type": "single_choice",
+      "text": "What doth the LORD require of the men of Judah in Jeremiah 4:3-4?",
+      "options": [
+        {
+          "text": "Break up your fallow ground: circumcise yourselves to LORD",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Build high towers of stone and prepare the shields of war",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Bring many sacrifices of sheep and bullocks to the altar",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Flee into the secret mountains until the fury be past",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Jeremiah 4:3-4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jer_031",
+      "type": "single_choice",
+      "text": "From which quarter doth Jeremiah 4:6 announce evil and great destruction?",
+      "options": [
+        {
+          "text": "From the south",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "From the north",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "From the east",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "From the west",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jeremiah 4:6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jer_032",
+      "type": "single_choice",
+      "text": "What did Jeremiah behold in his solemn vision in Jeremiah 4:23?",
+      "options": [
+        {
+          "text": "The cities flourishing with inhabitants and full of joy",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The armies of Babylon fleeing before the hosts of Israel",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The earth without form and void, and heavens without light",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The temple in Zion exalted above all the hills of earth",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Jeremiah 4:23",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_033",
+      "type": "single_choice",
+      "text": "For what was Jeremiah commanded to search the streets of Jerusalem (Jeremiah 5:1)?",
+      "options": [
+        {
+          "text": "For a prince who was willing to lead the army in battle",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For a wealthy merchant who would pay ransom for the city",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For a priest who offered sacrifices according to the law",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "If ye can find a man that executeth judgment, seeketh truth",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Jeremiah 5:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_034",
+      "type": "single_choice",
+      "text": "How did the great men of the people behave according to Jeremiah 5:5?",
+      "options": [
+        {
+          "text": "They have altogether broken the yoke, and burst the bonds",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "They have repented in dust and ashes before the sanctuary",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They have brought rich offerings to atone for their sins",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They have sought the word of the LORD from the prophet",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Jeremiah 5:5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "jer_035",
+      "type": "single_choice",
+      "text": "What awful condition doth Jeremiah 5:31 disclose concerning the leaders?",
+      "options": [
+        {
+          "text": "The prophets fast, the priests pray, but the people refuse",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Prophets prophesy falsely, priests bear rule, people love it",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The prophets are slain, the priests fled, and the city burns",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The prophets weep in secret, while the priests keep silence",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jeremiah 5:31",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "jer_036",
+      "type": "single_choice",
+      "text": "What false comfort did the prophets and priests give in Jeremiah 6:14?",
+      "options": [
+        {
+          "text": "Saying: Peace, peace; when there is no peace",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Saying: Fear the enemy, for judgment is near",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Saying: Offer sacrifices, and God will repent",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Saying: Flee to Egypt, and find safety there",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Jeremiah 6:14",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_037",
+      "type": "single_choice",
+      "text": "What counsel doth the LORD give unto the people in Jeremiah 6:16?",
+      "options": [
+        {
+          "text": "Seek after new inventions and copy the customs of nations",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Make a covenant with the princes of Babylon for safety",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Ask for the old paths, where is the good way, and walk",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Build fortified walls around the temple and wait in hope",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Jeremiah 6:16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "jer_038",
+      "type": "single_choice",
+      "text": "What shall the ungodly people be called according to Jeremiah 6:30?",
+      "options": [
+        {
+          "text": "Pure gold that was tried in the fierce furnace",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Broken brass that is cast away and despised of men",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Feeble iron that is easily shattered by the hammer",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Reprobate silver, because the LORD hath rejected",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Jeremiah 6:30",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jer_039",
+      "type": "single_choice",
+      "text": "What deceitful slogan did the worshippers cry in Jeremiah 7:4?",
+      "options": [
+        {
+          "text": "The temple of the LORD, The temple of the LORD are these",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The holy city of Zion can never be taken by any enemy",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The covenant of David is an everlasting rock for Judah",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The altar of burnt offering shall atone for every sin",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Jeremiah 7:4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jer_040",
+      "type": "single_choice",
+      "text": "Unto which ruined sanctuary did the LORD send them in Jeremiah 7:12?",
+      "options": [
+        {
+          "text": "Unto Bethel",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto Shiloh",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Unto Gilgal",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto Shechem",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jeremiah 7:12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jer_041",
+      "type": "single_choice",
+      "text": "What abominable sin is rebuked in Jeremiah 7:31?",
+      "options": [
+        {
+          "text": "That they offered swine's flesh upon the altar in Zion",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That they worshipped the sun and stars upon the rooftops",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That they burned sons and daughters in fire in Tophet",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "That they consulted with familiar spirits and wizards",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Jeremiah 7:31",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_042",
+      "type": "single_choice",
+      "text": "What fowls know their appointed times, unlike Israel (Jeremiah 8:7)?",
+      "options": [
+        {
+          "text": "The stork, the turtle, the crane, and the swallow",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The eagle, the raven, the hawk, and the sparrow",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The owl, the pelican, the vulture, and the dove",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The partridge, the quail, the cormorant, and kite",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Jeremiah 8:7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "jer_043",
+      "type": "single_choice",
+      "text": "What doth Jeremiah 8:8 charge against the false scribes?",
+      "options": [
+        {
+          "text": "That they expound the law too much and confuse hearers",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Lo, certainly in vain: the pen of the scribes is vain",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "That they conceal the statutes and teach not the people",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That they are too young and understand not the scripture",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jeremiah 8:8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_044",
+      "type": "single_choice",
+      "text": "What sorrowful cry is uttered in Jeremiah 8:22?",
+      "options": [
+        {
+          "text": "Where is the king of Judah, where is our deliverer?",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Why hath the LORD forsaken Zion in the day of storm?",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Is there no balm in Gilead; is there no physician?",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "How long shall the enemy prevail against our towers?",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Jeremiah 8:22",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_045",
+      "type": "single_choice",
+      "text": "What doth Jeremiah wish for in Jeremiah 9:1?",
+      "options": [
+        {
+          "text": "Oh that my head were waters, mine eyes fountain of tears",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Oh that I had a chariot of fire to ascend into heaven",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Oh that I were a mighty captain to destroy the Chaldeans",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Oh that I had lived in the ancient days of king David",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Jeremiah 9:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "jer_046",
+      "type": "single_choice",
+      "text": "Wherein alone may a man glory according to Jeremiah 9:24?",
+      "options": [
+        {
+          "text": "In his mighty wisdom, his worldly wealth, and his strength",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That he understandeth and knoweth me: I am the LORD of hosts",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "In his ancient pedigree and his royal heritage from David",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In his many sacrifices and his diligence in the temple",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jeremiah 9:24",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "jer_047",
+      "type": "single_choice",
+      "text": "What doth the LORD declare concerning the house of Israel in Jeremiah 9:26?",
+      "options": [
+        {
+          "text": "It is righteous in the flesh, but uncircumcised in deed",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It is circumcised in body and faithful in the spirit",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "All the house of Israel are uncircumcised in heart",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "It is observant outwardly, but rejecteth the covenant",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Jeremiah 9:26",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jer_048",
+      "type": "single_choice",
+      "text": "How doth Jeremiah 10:5 deride the wooden idols?",
+      "options": [
+        {
+          "text": "Upright as palm tree, but speak not: must needs be borne",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Too small to defend their worshippers in the day of wrath",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Overlaid with silver and gold, yet utterly without breath",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Nameless and despised by all the nations of the heathen",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Jeremiah 10:5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_049",
+      "type": "single_choice",
+      "text": "How is the LORD praised in contrast to dead idols in Jeremiah 10:10?",
+      "options": [
+        {
+          "text": "The true God, the living God, an everlasting king",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The most high and almighty One above all strange gods",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The supreme God of gods and sovereign Lord of lords",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The covenant God of the fathers and of all Israel",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Jeremiah 10:10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_050",
+      "type": "single_choice",
+      "text": "What doth Jeremiah confess in Jeremiah 10:23?",
+      "options": [
+        {
+          "text": "Man can order his own life and choose his paths by his own will",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The way of man is not in himself: not in man to direct his steps",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Man is free to do whatever seemeth good in his own understanding",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The way of the righteous is made plain by the wisdom of ancients",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jeremiah 10:23",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_051",
+      "type": "single_choice",
+      "text": "What curse is pronounced in Jeremiah 11:3?",
+      "options": [
+        {
+          "text": "Cursed be he that offereth no sacrifice upon the holy altar",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Cursed be he that forsaketh the promised land of his fathers",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Cursed be the man that obeyeth not words of this covenant",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Cursed be he that neglecteth to teach the statutes of law",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Jeremiah 11:3-4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_052",
+      "type": "single_choice",
+      "text": "Whereunto doth Jeremiah compare himself in Jeremiah 11:19?",
+      "options": [
+        {
+          "text": "Unto a lion that devoureth his prey and feareth no beast",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto an hart that fleeth swiftly before the armed hunters",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto a captive bird that is taken in the snare of fowler",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Like a lamb or an ox that is brought to the slaughter",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Jeremiah 11:19",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_053",
+      "type": "single_choice",
+      "text": "Who sought Jeremiah's life according to Jeremiah 11:21?",
+      "options": [
+        {
+          "text": "The men of Anathoth",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The priests of Zion",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The princes of king",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The prophets of Baal",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Jeremiah 11:21",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jer_054",
+      "type": "single_choice",
+      "text": "What question doth Jeremiah plead with the LORD in Jeremiah 12:1?",
+      "options": [
+        {
+          "text": "Why art thou silent while the ungodly destroy the holy city?",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Wherefore doth the way of the wicked prosper and flourish?",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Why hast thou forgotten the covenant made with our fathers?",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "How long shall the heathen triumph over the heritage of God?",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jeremiah 12:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "jer_055",
+      "type": "single_choice",
+      "text": "What parable doth the LORD address unto Jeremiah in Jeremiah 12:5?",
+      "options": [
+        {
+          "text": "If thou art afraid of the small stream, how cross the sea?",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "If footmen wearied thee, how canst thou contend with horses?",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "If thou canst not bear the wood, how carry iron yoke?",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "If the dog barketh at thee, how wilt thou face the lion?",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jeremiah 12:5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jer_056",
+      "type": "single_choice",
+      "text": "Under what condition shall the evil neighbours be built up (Jeremiah 12:16)?",
+      "options": [
+        {
+          "text": "If they pay a heavy annual tribute of silver to Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "If they depart out of their lands and dwell in wilderness",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "If they learn the ways of my people, to swear by my name",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "If they forsake their kings and appoint judges from Judah",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Jeremiah 12:16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "jer_057",
+      "type": "single_choice",
+      "text": "What did the marred girdle signify according to Jeremiah 13:9?",
+      "options": [
+        {
+          "text": "That the priests should be stripped of their holy vestments",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That the king of Judah should lose his royal golden crown",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "After this manner will I mar the great pride of Jerusalem",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "That the covenant with David should be dissolved forever",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Jeremiah 13:9",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jer_058",
+      "type": "single_choice",
+      "text": "What proverb doth Jeremiah quote in Jeremiah 13:23?",
+      "options": [
+        {
+          "text": "Can the Ethiopian change his skin, or the leopard his spots?",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Can the wild ass of the desert be tamed by the bridle of man?",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Can the dry thistle yield sweet figs or the brier good grapes?",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Can the raven cleanse its black feathers in the pure fountain?",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Jeremiah 13:23",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_059",
+      "type": "single_choice",
+      "text": "What calamity was the occasion of Jeremiah's prayer in Jeremiah 14:1-3?",
+      "options": [
+        {
+          "text": "A grievous war",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A great dearth",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A deadly plague",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A great tremor",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jeremiah 14:1-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jer_060",
+      "type": "single_choice",
+      "text": "What did the LORD command Jeremiah concerning his prayer in Jeremiah 14:11-12?",
+      "options": [
+        {
+          "text": "Offer many bullocks upon the altar that their sin be covered",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Gather all the elders in the temple to plead for the harvest",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Pray not for this people: when they fast, I hear not their cry",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Go down unto the king's house and declare immediate safety",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Jeremiah 14:11-12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "jer_061",
+      "type": "single_choice",
+      "text": "What did the false prophets prophesy during the dearth (Jeremiah 14:13)?",
+      "options": [
+        {
+          "text": "Ye shall not see sword, neither famine; I give assured peace",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The enemy from the north is turned back, and rain shall fall",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Offer a double sacrifice, and the drought shall depart today",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Flee into the fortified towers, for the siege is at the gate",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Jeremiah 14:13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_062",
+      "type": "single_choice",
+      "text": "Which two intercessors does the LORD name in Jeremiah 15:1?",
+      "options": [
+        {
+          "text": "Abraham and Isaac",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Moses and Samuel",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Elijah and Elisha",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "David and Solomon",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jeremiah 15:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jer_063",
+      "type": "single_choice",
+      "text": "How did Jeremiah experience the words of the LORD (Jeremiah 15:16)?",
+      "options": [
+        {
+          "text": "As a heavy burden that weighed down his troubled soul",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As a burning fire that consumed his bones with anguish",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As food: the joy and rejoicing of mine heart unto me",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "As a sharp two-edged sword piercing through his spirit",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Jeremiah 15:16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_064",
+      "type": "single_choice",
+      "text": "What did the LORD promise to make Jeremiah unto this people (Jeremiah 15:20)?",
+      "options": [
+        {
+          "text": "A fenced brasen wall: they shall fight, but not prevail",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A prince of peace to lead the elders in the right way",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A judge over the kings of the earth with a royal rod",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A priest in the sanctuary to offer blood for the sins",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Jeremiah 15:20",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_065",
+      "type": "single_choice",
+      "text": "What sign was commanded unto Jeremiah in Jeremiah 16:2?",
+      "options": [
+        {
+          "text": "Thou shalt not drink wine nor eat any pleasant bread",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Thou shalt not take thee a wife, nor have sons here",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Thou shalt not enter into the courts of the palace",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Thou shalt not wear any sandals upon thy feet today",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jeremiah 16:2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "jer_066",
+      "type": "single_choice",
+      "text": "What promise of restoration is given in Jeremiah 16:14-15?",
+      "options": [
+        {
+          "text": "Men shall no more remember the ancient covenant of Abraham",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Men shall swear only by the gold of the temple of Solomon",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Not: out of Egypt, but: that brought up from land of north",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Men shall say: Blessed be the king that conquered Babylon",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Jeremiah 16:14-15",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "jer_067",
+      "type": "single_choice",
+      "text": "Whom doth the LORD send to search out the sinners in Jeremiah 16:16?",
+      "options": [
+        {
+          "text": "For many fishers and many hunters to hunt them",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "For many swift horsemen and valiant archers",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For holy angels with flaming swords from heaven",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For lions and fierce leopards out of the forest",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Jeremiah 16:16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jer_068",
+      "type": "single_choice",
+      "text": "Wherewith is the sin of Judah written according to Jeremiah 17:1?",
+      "options": [
+        {
+          "text": "With the finger of a man upon the crumbling dust of earth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With a pen of iron and point of diamond upon their heart",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "With blood of sacrifices upon the golden horns of altar",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With black ink upon the rolled parchment of the scribes",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jeremiah 17:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jer_069",
+      "type": "single_choice",
+      "text": "What contrast doth Jeremiah 17:5-7 set forth?",
+      "options": [
+        {
+          "text": "Blessed is the rich in goods, cursed is the needy in land",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Cursed is the ignorant, blessed is the wise in judgment",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Cursed be man that trusteth in man; blessed in the LORD",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Cursed is the warrior, blessed is the peaceful merchant",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Jeremiah 17:5-7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_070",
+      "type": "single_choice",
+      "text": "How doth Jeremiah 17:9 describe the human heart?",
+      "options": [
+        {
+          "text": "Pure and undefiled, seeking after righteousness always",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Weak and ignorant, easily turned by every word of man",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A fountain of wisdom that guideth man in the right path",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Deceitful above all things, and desperately wicked",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Jeremiah 17:9-10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_071",
+      "type": "single_choice",
+      "text": "How did the people answer the warning of the potter (Jeremiah 18:12)?",
+      "options": [
+        {
+          "text": "There is no hope: but we will walk after our own devices",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "We will repent and turn from all our strange idols today",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "We will bring sacrifices unto the temple and fast seven days",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Speak no more in the name of the LORD, lest thou die by us",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Jeremiah 18:12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_072",
+      "type": "single_choice",
+      "text": "What device did Jeremiah's adversaries devise in Jeremiah 18:18?",
+      "options": [
+        {
+          "text": "To deliver him into the hands of the Chaldeans at the gate",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Come, and let us smite him with tongue, not heed his words",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "To cast him secretly into the deep waters of the pool",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To banish him from the borders of Judah into the desert",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jeremiah 18:18",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jer_073",
+      "type": "single_choice",
+      "text": "Whom was Jeremiah commanded to take with him to the valley (Jeremiah 19:1)?",
+      "options": [
+        {
+          "text": "The young princes of the royal house of king David",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The captains of the host and the armed men of war",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The ancients of the people, and ancients of priests",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The common husbandmen and the poor of the city",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Jeremiah 19:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_074",
+      "type": "single_choice",
+      "text": "What judgment doth the LORD pronounce in Jeremiah 19:12-13?",
+      "options": [
+        {
+          "text": "To make the city of Jerusalem as the garden of Eden",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To preserve the palaces while destroying the common huts",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To deliver the houses into the hands of friendly kings",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To make this city and the houses as defiled Tophet",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Jeremiah 19:12-13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_075",
+      "type": "single_choice",
+      "text": "What name did Jeremiah give unto Pashur in Jeremiah 20:3?",
+      "options": [
+        {
+          "text": "Magor-missabib (Fear and terror round about)",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Ichabod (The glory is departed from Zion)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Lo-ammi (Ye are not my people any more)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Shear-jashub (The remnant shall return)",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Jeremiah 20:3-4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_076",
+      "type": "single_choice",
+      "text": "How doth Jeremiah 20:9 describe the word of the LORD in his heart?",
+      "options": [
+        {
+          "text": "As a gentle dew refreshing his soul in the morning hour",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As a burning fire shut up in my bones, weary to forbear",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "As an heavy rock pressing down his spirit unto the earth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As a sweet song of praise heard in the courts of temple",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jeremiah 20:9",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_077",
+      "type": "single_choice",
+      "text": "What did king Zedekiah hope for in Jeremiah 21:2?",
+      "options": [
+        {
+          "text": "That Jeremiah should hold his peace in the court",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That the Chaldeans should retire upon tribute paid",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That the LORD deal wondrously, that the king depart",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "That the army of Egypt should arrive without delay",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Jeremiah 21:2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jer_078",
+      "type": "single_choice",
+      "text": "What did the LORD answer Zedekiah in Jeremiah 21:5?",
+      "options": [
+        {
+          "text": "I will defend this city for David my servant's sake",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I will smite the host of Babylon with a deadly pestilence",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I will turn away the chariots of the enemy from the walls",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I myself will fight against you with an outstretched hand",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Jeremiah 21:5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "jer_079",
+      "type": "single_choice",
+      "text": "What two ways doth the LORD set before the people in Jeremiah 21:8?",
+      "options": [
+        {
+          "text": "The way of life, and the way of death",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The way of wisdom, and way of folly",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The way of peace, and way of battle",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The way of riches, and way of poverty",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Jeremiah 21:8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_080",
+      "type": "single_choice",
+      "text": "What is prophesied concerning Shallum (Jehoahaz) in Jeremiah 22:11-12?",
+      "options": [
+        {
+          "text": "He shall return in peace and sit upon the throne of David",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Die in the place whither captive: see this land no more",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He shall be slain with the sword in the land of Babylon",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He shall escape into Egypt and live out his days in quiet",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jeremiah 22:11-12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "jer_081",
+      "type": "single_choice",
+      "text": "What end did Jeremiah foretell for king Jehoiakim (Jeremiah 22:19)?",
+      "options": [
+        {
+          "text": "Die in a strange land, far from his home, buried honourably",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Buried with great lamentation and mourned of all the people",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Buried with the burial of an ass, cast forth beyond gates",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Slain in valiant battle and laid in the sepulchre of kings",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Jeremiah 22:19",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_082",
+      "type": "single_choice",
+      "text": "What did the LORD declare concerning Coniah (Jehoiachin) in Jeremiah 22:30?",
+      "options": [
+        {
+          "text": "He shall reign for forty years in majesty and great honour",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "His sons shall rule over the heathen nations from Babylon",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He shall be delivered from prison and restore the sanctuary",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Write this man childless: no seed shall sit on David's throne",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Jeremiah 22:30",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jer_083",
+      "type": "single_choice",
+      "text": "By what name shall the righteous Branch of David be called (Jeremiah 23:6)?",
+      "options": [
+        {
+          "text": "THE LORD OUR RIGHTEOUSNESS",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "THE PRINCE OF ETERNAL PEACE",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "THE REDEEMER OF ALL ISRAEL",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "THE EVERLASTING COUNSELLOR",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Jeremiah 23:6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jer_084",
+      "type": "single_choice",
+      "text": "What question doth the LORD ask concerning dreams and His word (Jeremiah 23:28)?",
+      "options": [
+        {
+          "text": "What hath the gold to do with the corrupt dross?",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "What is the chaff to the wheat? saith the LORD",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "What hath the light to do with the dark shadow?",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "What hath the stone to do with the soft clay?",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jeremiah 23:28",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "jer_085",
+      "type": "single_choice",
+      "text": "Whereunto doth the LORD compare His word in Jeremiah 23:29?",
+      "options": [
+        {
+          "text": "Unto a sharp two-edged sword that pierceth through the soul",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto a mighty wind that sweepeth away the towers of pride",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Like as a fire, and like a hammer that breaketh the rock",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Unto an overflowing river that drowneth all the valleys",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Jeremiah 23:29",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "jer_086",
+      "type": "single_choice",
+      "text": "Whom do the good figs represent according to Jeremiah 24:5?",
+      "options": [
+        {
+          "text": "The priests who remained ministering in the temple",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The false prophets who promised peace unto the king",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The princes who stayed with king Zedekiah in city",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The captives of Judah, whom I sent away for good",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Jeremiah 24:5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "jer_087",
+      "type": "single_choice",
+      "text": "What gracious promise is given unto the good figs in Jeremiah 24:7?",
+      "options": [
+        {
+          "text": "I will give them an heart to know me, that I am the LORD",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "I will enrich them with silver and gold in a foreign realm",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I will build them an earthly palace beyond the great sea",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I will restore their ancient armies to vanquish Babylon",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Jeremiah 24:7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "jer_088",
+      "type": "single_choice",
+      "text": "How many years had Jeremiah spoken the word of the LORD in vain (Jeremiah 25:3)?",
+      "options": [
+        {
+          "text": "For ten years",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Three and twenty years",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "For forty years",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For seven years",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jeremiah 25:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "jer_089",
+      "type": "single_choice",
+      "text": "What was Jeremiah commanded to cause all nations to drink (Jeremiah 25:15)?",
+      "options": [
+        {
+          "text": "The water of affliction from the spring of Kidron",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The bitter cup of wormwood and water of deadly gall",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The wine cup of this fury from the hand of the LORD",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The golden chalice of the king of Babylon's feasts",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Jeremiah 25:15",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_090",
+      "type": "single_choice",
+      "text": "What sentence did the priests and prophets demand against Jeremiah (Jeremiah 26:11)?",
+      "options": [
+        {
+          "text": "This man is worthy to die; for he prophesied against city",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "This man should be cast out of the congregation of Israel",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "This man should be beaten with forty stripes and imprisoned",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "This man should be banished into the wilderness of Arabia",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Jeremiah 26:11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_091",
+      "type": "single_choice",
+      "text": "Which ancient prophet did the elders recall to defend Jeremiah (Jeremiah 26:18)?",
+      "options": [
+        {
+          "text": "Isaiah, who prophesied in the days of good king Hezekiah",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Micah the Morasthite, who spoke in days of king Hezekiah",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Amos, who prophesied under Jeroboam the king of Israel",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Hosea, who warned the people in the days of king Uzziah",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jeremiah 26:18",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jer_092",
+      "type": "single_choice",
+      "text": "Which prophet did Jehoiakim pursue into Egypt and slay with the sword (Jeremiah 26:20-23)?",
+      "options": [
+        {
+          "text": "Zephaniah the son of Cushi from mount Ephraim",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Urijah the son of Shemaiah of Kirjath-jearim",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Habakkuk the prophet from the valley of Judah",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Hanani the seer who rebuked the king of Judah",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jeremiah 26:20-23",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "jer_093",
+      "type": "single_choice",
+      "text": "What title doth the LORD give unto Nebuchadnezzar in Jeremiah 27:6?",
+      "options": [
+        {
+          "text": "His shepherd on earth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "His anointed in land",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "His minister of wrath",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Nebuchadnezzar my servant",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Jeremiah 27:6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jer_094",
+      "type": "single_choice",
+      "text": "What should true prophets do according to Jeremiah 27:18?",
+      "options": [
+        {
+          "text": "Make intercession that the vessels go not to Babylon",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Summon the nation to war that the temple be preserved",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Offer sacrifices and fast that the city be delivered",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Go with the captives that the holy vessels be guarded",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Jeremiah 27:18",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jer_095",
+      "type": "single_choice",
+      "text": "What false message did Hananiah proclaim in Jeremiah 28:3?",
+      "options": [
+        {
+          "text": "Babylon shall destroy the land and carry all away captive",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Within two years the vessels and Jeconiah shall return",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The captivity shall endure seventy years, then all return",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The temple shall fall and its golden vessels be broken",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jeremiah 28:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jer_096",
+      "type": "single_choice",
+      "text": "What did Jeremiah answer Hananiah in Jeremiah 28:13?",
+      "options": [
+        {
+          "text": "Thou hast broken yokes of wood; thou shalt make iron yokes",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Thou shalt die in this year, because thou hast spoken lies",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Thou shalt go into captivity and dwell there for many years",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Thou shalt remain a prophet and speak peace unto the people",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Jeremiah 28:13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_097",
+      "type": "single_choice",
+      "text": "What thoughts doth the LORD think toward His people in Jeremiah 29:11?",
+      "options": [
+        {
+          "text": "Thoughts of judgment and anger that they may turn from sin",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Peace without condition and an end of captivity in few days",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Thoughts of peace, and not of evil, to give an expected end",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A new kingdom on earth as soon as they return from Babylon",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Jeremiah 29:11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_098",
+      "type": "single_choice",
+      "text": "What judgment befell the false prophets Ahab and Zedekiah (Jeremiah 29:22)?",
+      "options": [
+        {
+          "text": "The king of Babylon banished them to the borders of Egypt",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The king of Babylon commanded them to be stoned by people",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The king of Babylon led them in iron fetters unto Riblah",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The king of Babylon roasted them in the fire for lies",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Jeremiah 29:22",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jer_099",
+      "type": "single_choice",
+      "text": "How doth Jeremiah 30:7 describe that great day?",
+      "options": [
+        {
+          "text": "The time of Jacob's trouble; but he shall be saved out of it",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A time of perpetual peace wherein no enemy can ever approach",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A day of fierce battle from which there is no hope of escape",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A season of grievous famine through which none can survive",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Jeremiah 30:7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jer_100",
+      "type": "single_choice",
+      "text": "Whom shall the delivered people serve according to Jeremiah 30:9?",
+      "options": [
+        {
+          "text": "The king of Babylon, who released them and gave them possessions",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Serve the LORD their God, and David their king, raised up to them",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The priests, who shall rebuild the temple and administer justice",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The princes and elders, who shall govern them after the captivity",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jeremiah 30:9",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jer_101",
+      "type": "single_choice",
+      "text": "What does the LORD promise in Jeremiah 30:17?",
+      "options": [
+        {
+          "text": "Vengeance on the enemies and complete healing for the whole nation",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Great prosperity for all and a long peaceful life in the land",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I will restore health unto thee, and I will heal thee of thy wounds",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A new fertile country and a holy temple that shall never be shaken",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Jeremiah 30:17",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_102",
+      "type": "single_choice",
+      "text": "With what love has the LORD loved his people according to Jeremiah 31:3?",
+      "options": [
+        {
+          "text": "With an earthly love",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With a fatherly love",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With a temporal love",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With an everlasting love",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Jeremiah 31:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jer_103",
+      "type": "single_choice",
+      "text": "Who weeps in Ramah according to Jeremiah 31:15?",
+      "options": [
+        {
+          "text": "Rahel weeping for her children",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Leah weeping for all her sons",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Hannah weeping for young Samuel",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Sarah weeping for little Isaac",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Jeremiah 31:15",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_104",
+      "type": "single_choice",
+      "text": "What does Jeremiah confess in his prayer in Jeremiah 32:17?",
+      "options": [
+        {
+          "text": "The LORD is a strict judge who will surely punish every transgression",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Thou hast made the heaven and the earth, and nothing is too hard for thee",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The LORD is far off and no longer hears the bitter cry of his own people",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The LORD has forsaken his sanctuary and given the city over to the enemy",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jeremiah 32:17",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_105",
+      "type": "single_choice",
+      "text": "What did Jeremiah's purchase of the field signify according to Jeremiah 32:15?",
+      "options": [
+        {
+          "text": "The holy city shall fall soon, and all its inhabitants shall be taken captive",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The prophet purposed to retire and quietly cultivate the land of his fathers",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Houses and fields and vineyards shall be possessed again in this land",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The Chaldeans shall depart quickly, and the desolate land shall be inhabited",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Jeremiah 32:15",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "jer_106",
+      "type": "single_choice",
+      "text": "What invitation does the LORD give Jeremiah in the court of the prison (Jeremiah 33:3)?",
+      "options": [
+        {
+          "text": "Be silent and wait until the enemy enters the city, and keep quiet in prison",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Flee away and hide thyself until the judgment has passed, and pray no longer",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Pray no more for this wicked people, but wait in silence for the judgment",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Call unto me, and I will answer thee, and shew thee great and mighty things",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Jeremiah 33:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_107",
+      "type": "single_choice",
+      "text": "What shall Jerusalem be called in the days of restoration (Jeremiah 33:16)?",
+      "options": [
+        {
+          "text": "The LORD our righteousness",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The faithful city of peace",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The holy mountain of God",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The eternal throne of David",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Jeremiah 33:16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jer_108",
+      "type": "single_choice",
+      "text": "With what covenant does the LORD compare his covenant with David (Jeremiah 33:20-21)?",
+      "options": [
+        {
+          "text": "With the course of the stars in heaven",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With his covenant of the day and night",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "With the fixed decree of the seasons",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With the perpetual bound of the sea",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jeremiah 33:20-21",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jer_109",
+      "type": "single_choice",
+      "text": "What did Jeremiah prophesy unto Zedekiah in Jeremiah 34:3?",
+      "options": [
+        {
+          "text": "He should die in Jerusalem and be honorably buried among his royal ancestors",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He should escape out of the city by night and find safe refuge in Egypt",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He should be delivered into the hand of the king of Babylon and go thither",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He should be delivered from the siege and retain his royal throne in peace",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Jeremiah 34:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jer_110",
+      "type": "single_choice",
+      "text": "What breach of covenant did the princes commit according to Jeremiah 34:11?",
+      "options": [
+        {
+          "text": "They broke the Sabbath and laboured openly on the holy days of the LORD",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They slew the messengers of the king and cast out the prophets of God",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They caused their freed servants and handmaids to return into subjection",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "They withheld their firstfruits and tithes from the house of the LORD",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Jeremiah 34:11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "jer_111",
+      "type": "single_choice",
+      "text": "What »liberty« does the LORD proclaim in Jeremiah 34:17?",
+      "options": [
+        {
+          "text": "A liberty to the sword, to pestilence, and to famine",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A liberty from Babylonian captivity unto their homeland",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A liberty from the royal taxes and burdens of the king",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A liberty for all Hebrew bondmen to dwell wherever they list",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Jeremiah 34:17",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_112",
+      "type": "single_choice",
+      "text": "What rule of life had Jonadab commanded his sons (Jeremiah 35:6-7)?",
+      "options": [
+        {
+          "text": "Drink no wine, build no house, sow no seed, nor plant any vineyard",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Dwell only in the temple, eat only unleavened bread, and touch no wine",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Dwell only in walled cities, cultivate large fields, and plant vineyards",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Dwell only in houses of stone, labour not in fields, and drink no water",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Jeremiah 35:6-7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_113",
+      "type": "single_choice",
+      "text": "What does the LORD promise unto the Rechabites in Jeremiah 35:19?",
+      "options": [
+        {
+          "text": "They shall never lack an inheritance of land to possess",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Jonadab shall not want a man to stand before him for ever",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "They shall never lack long life and earthly prosperity",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They shall never lack great riches to sustain their tents",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jeremiah 35:19",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_114",
+      "type": "single_choice",
+      "text": "Where and when did Baruch read the words of Jeremiah (Jeremiah 36:9-10)?",
+      "options": [
+        {
+          "text": "In the royal palace before the princes, on a feast day in the first month",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In the public marketplace before the elders, on a Sabbath in the tenth month",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In the house of the LORD before all the people, on a fast day in the ninth month",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "In the street of the city before the priests, on a holy assembly in the seventh month",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Jeremiah 36:9-10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "jer_115",
+      "type": "single_choice",
+      "text": "What happened after Jehoiakim burned the roll (Jeremiah 36:32)?",
+      "options": [
+        {
+          "text": "Jeremiah held his peace and refused to declare any further words of prophecy",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Baruch fled into Egypt and left Jeremiah alone in the court of the prison",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Jeremiah was put in chains, and all his previous prophecies were forgotten",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Jeremiah took another roll, and Baruch wrote all the words therein again",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Jeremiah 36:32",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_116",
+      "type": "single_choice",
+      "text": "Why did the Chaldeans depart from Jerusalem according to Jeremiah 37:5?",
+      "options": [
+        {
+          "text": "Because Pharaoh's army was come forth out of Egypt",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Because they made a covenant of peace with Judah",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because a grievous plague broke out in their camp",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because they had to fetch reinforcements from Babylon",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Jeremiah 37:5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jer_117",
+      "type": "single_choice",
+      "text": "What accusation was brought against Jeremiah at the gate of Benjamin (Jeremiah 37:13-14)?",
+      "options": [
+        {
+          "text": "Thou art a false prophet and leadest all the people astray",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Thou stirrest up rebellion and betrayest the royal palace",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Thou fallest away to the Chaldeans to fight against Judah",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Thou hast secretly stolen the dedicated silver of the house",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Jeremiah 37:13-14",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "jer_118",
+      "type": "single_choice",
+      "text": "What did Jeremiah answer King Zedekiah secretly in Jeremiah 37:17?",
+      "options": [
+        {
+          "text": "Thou shalt be preserved, and the holy city shall not fall",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "God hath forgotten thee, and no man shall bring deliverance",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Thou shalt be delivered into the hand of the king of Babylon",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "There is no word from the LORD for thee in this present hour",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Jeremiah 37:17",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jer_119",
+      "type": "single_choice",
+      "text": "What counsel did Jeremiah give Zedekiah in Jeremiah 38:17?",
+      "options": [
+        {
+          "text": "Continue resisting the enemy, and the city shall be wonderfully delivered",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Flee swiftly unto Egypt with thy household, and thy life shall be spared",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Wait for assistance from Egypt, and the royal city shall stand in safety",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Go forth unto the king of Babylon's princes, and thy soul shall surely live",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Jeremiah 38:17",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jer_120",
+      "type": "single_choice",
+      "text": "In what year of Zedekiah was Jerusalem broken up (Jeremiah 39:2)?",
+      "options": [
+        {
+          "text": "In the eleventh year, in the fourth month, the ninth day",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "In the first year, in the first month, on the first day",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In the fifth year, in the fifth month, on the fifth day",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In the twentieth year, in the tenth month, the tenth day",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Jeremiah 39:2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "jer_121",
+      "type": "single_choice",
+      "text": "What judgment did the king of Babylon execute upon Zedekiah in Riblah (Jeremiah 39:6-7)?",
+      "options": [
+        {
+          "text": "He exiled him to Babylon and left his sons and nobles unharmed in his house",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He slew his sons before his eyes, put out his eyes, and bound him in chains",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He had him stoned before all the people and suffered his sons to escape",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He deposed him from the throne and set all his princes and officers free",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jeremiah 39:6-7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jer_122",
+      "type": "single_choice",
+      "text": "What does the LORD promise Ebed-melech in Jeremiah 39:18?",
+      "options": [
+        {
+          "text": "Riches and honor for his faithfulness, and a house in the city he delivered",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A long life and quiet peace in the land of Judah, where he should dwell safe",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I will surely deliver thee, and thy life shall be for a prey unto thee",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A high office at the royal court of Babylon, where he might aid the captives",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Jeremiah 39:18",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "jer_123",
+      "type": "single_choice",
+      "text": "What did Nebuzaradan say unto Jeremiah in Jeremiah 40:2-3?",
+      "options": [
+        {
+          "text": "The gods of Babylon were mightier than the God of Israel and conquered him",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The princes of Judah provoked Babylon by allying themselves with Egypt",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The LORD hath brought this evil upon you because ye sinned against the LORD",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Jeremiah was a traitor who delivered his people into the hand of the enemy",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Jeremiah 40:2-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "jer_124",
+      "type": "single_choice",
+      "text": "Whom did Jeremiah choose to dwell with at Mizpah (Jeremiah 40:5-6)?",
+      "options": [
+        {
+          "text": "Gedaliah the son of Ahikam, the governor",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Ishmael the son of Nethaniah, of the seed",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Johanan the son of Kareah, the commander",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Pashur the son of Immer, the chief priest",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Jeremiah 40:5-6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jer_125",
+      "type": "single_choice",
+      "text": "Of what did Johanan warn Gedaliah according to Jeremiah 40:14?",
+      "options": [
+        {
+          "text": "Of a rebellion of the captains against the Babylonian appointed governor",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That Baalis king of the Ammonites had sent Ishmael to take his life",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Of a severe famine that should lay waste the whole remnant in the land",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Of an army out of Egypt that would soon march against Mizpah in battle",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jeremiah 40:14",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "jer_126",
+      "type": "single_choice",
+      "text": "What treachery did Ishmael commit according to Jeremiah 41:1-3?",
+      "options": [
+        {
+          "text": "He stole the treasures of Mizpah and fled unto the king of the Ammonites",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He betrayed the remnant to the Chaldeans and delivered the captains up",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He ate bread with Gedaliah and smote him with the sword and slew him",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He burned the houses of Mizpah and fled secretly away into Egypt",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Jeremiah 41:1-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "jer_127",
+      "type": "single_choice",
+      "text": "What did Ishmael do with the men of Shechem, Shiloh, and Samaria (Jeremiah 41:7)?",
+      "options": [
+        {
+          "text": "He took them all captive and carried them away to the king of Ammon",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He dismissed them in peace and suffered them to go into their homes",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He sold them for bondmen unto the nations round about their borders",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He slew them and cast them into the midst of the pit with his men",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Jeremiah 41:7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jer_128",
+      "type": "single_choice",
+      "text": "Who rescued the captives from Ishmael at Gibeon (Jeremiah 41:11-13)?",
+      "options": [
+        {
+          "text": "Johanan the son of Kareah and all the captains of the forces",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Jeremiah the prophet and all the priests that were at Mizpah",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Zedekiah the royal prince and the remnant of the royal guard",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Baruch the scribe and the Levites that ministered in the land",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Jeremiah 41:11-13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_129",
+      "type": "single_choice",
+      "text": "What promise did the people make to Jeremiah in Jeremiah 42:6?",
+      "options": [
+        {
+          "text": "We will go down into Egypt and dwell there in peace, whatever may happen",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Whether it be good, or evil, we will obey the voice of the LORD our God",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "We will remain in the land of Judah if the LORD give us an easy task",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "We will fast and mourn until the LORD sends down an angel to deliver us",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jeremiah 42:6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_130",
+      "type": "single_choice",
+      "text": "What did the LORD answer after ten days (Jeremiah 42:10)?",
+      "options": [
+        {
+          "text": "Go down into Egypt, and there ye shall dwell safely and find quietness",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Go down unto Babylon, and there ye shall serve the king and have peace",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "If ye abide in this land, then will I build you, and not pull you down",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Flee across Jordan into Moab, and there find a sure refuge for you all",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Jeremiah 42:10-11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_131",
+      "type": "single_choice",
+      "text": "What does the LORD threaten against those who go into Egypt (Jeremiah 42:16)?",
+      "options": [
+        {
+          "text": "The sword which ye feared shall overtake you there in Egypt",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A great plague shall consume you there and blot out your name",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The ancient bondage of your fathers shall return upon you all",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "No punishment shall come upon you, for ye shall dwell in quiet",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Jeremiah 42:16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_132",
+      "type": "single_choice",
+      "text": "What sign was Jeremiah commanded to perform in Tahpanhes (Jeremiah 43:9)?",
+      "options": [
+        {
+          "text": "Build an altar and offer a burnt offering unto the LORD before the people",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Hide great stones in the clay in the brickkiln at Pharaoh's royal entry",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Put a heavy wooden yoke upon his neck and break it before Pharaoh the king",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Bury a sealed book in the ground and dig it up again in the presence of all",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jeremiah 43:9",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jer_133",
+      "type": "single_choice",
+      "text": "What does the LORD declare concerning Egypt in Jeremiah 43:12?",
+      "options": [
+        {
+          "text": "I will kindle a fire in the houses of the gods of Egypt",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "I will spare Egypt, and all her ancient temples shall stand",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Egypt shall smite Babylon, and her gods shall reign on high",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The gods of Egypt shall flee away and leave the people free",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Jeremiah 43:12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_134",
+      "type": "single_choice",
+      "text": "What excuse did the Jews in Egypt make according to Jeremiah 44:18?",
+      "options": [
+        {
+          "text": "We knew not that this thing was forbidden by the ancient law of Moses",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "We were compelled by the Egyptians to burn incense to their idols",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Since we left off to burn incense to the queen of heaven, we wanted all",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The kings of Judah commanded it of old, and we could not turn aside",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Jeremiah 44:18",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_135",
+      "type": "single_choice",
+      "text": "What sign does the LORD give in Jeremiah 44:30?",
+      "options": [
+        {
+          "text": "A mighty earthquake shall utterly destroy Egypt like Sodom and Gomorrah",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A great darkness shall cover Egypt at noon so that none can walk abroad",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A grievous swarm of locusts shall eat every green herb throughout Egypt",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Pharaoh-hophra shall be given into the hand of them that seek his life",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Jeremiah 44:30",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_136",
+      "type": "single_choice",
+      "text": "What lament did Baruch speak according to Jeremiah 45:3?",
+      "options": [
+        {
+          "text": "Woe is me now! for the LORD hath added grief to my sorrow; I find no rest",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "I am too faint for this service and cannot write down any more prophecies",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I will flee into the wilderness and hide myself lest the princes slay me",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I am a stranger in this land, and there is no friend to stand by my side",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Jeremiah 45:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "jer_137",
+      "type": "single_choice",
+      "text": "What did the LORD say unto Baruch in Jeremiah 45:5?",
+      "options": [
+        {
+          "text": "Seek honour among the princes of Judah, and thou shalt be exalted on high",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Seekest thou great things for thyself? seek them not; thy life is a prey",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Depart from this land and dwell in Babylon, and thou shalt live in peace",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Write no more what the prophet speaks, but keep quiet before the council",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jeremiah 45:5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_138",
+      "type": "single_choice",
+      "text": "Where was the army of Pharaoh-necho smitten (Jeremiah 46:2)?",
+      "options": [
+        {
+          "text": "By the river of Egypt near Memphis",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By the waters of Jordan near Jericho",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By the river Euphrates in Carchemish",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "By the river Hiddekel near Nineveh",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Jeremiah 46:2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jer_139",
+      "type": "single_choice",
+      "text": "What word does Jeremiah address to Egypt in Jeremiah 46:11?",
+      "options": [
+        {
+          "text": "Thou shalt conquer all thy foes if thou fetch balm out of the land of Gilead",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Thou shalt recover of thy deadly wound if thou seek the physicians of Gilead",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Thou shalt be healed of thy sickness if thou multiply remedies and medicines",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Go up into Gilead, and take balm; in vain shalt thou use medicines, for no cure",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Jeremiah 46:11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "jer_140",
+      "type": "single_choice",
+      "text": "What comfort does the LORD give his people in Jeremiah 46:27-28?",
+      "options": [
+        {
+          "text": "Fear not, O my servant Jacob; I will not make a full end, but correct thee in measure",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Fear not, O my servant Jacob; thou shalt never be chastened nor troubled any more",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Fear not, O my servant Jacob; I will leave thee to dwell among the nations in peace",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Fear not, O my servant Jacob; I will utterly destroy thee and create a new seed",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Jeremiah 46:27-28",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jer_141",
+      "type": "single_choice",
+      "text": "Whence do waters rise up to overflow the Philistines (Jeremiah 47:2)?",
+      "options": [
+        {
+          "text": "Out of the south, like a desert whirlwind",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Out of the north, like an overflowing flood",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Out of the west, like great waves of the sea",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Out of the east, like a rushing mountain pool",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jeremiah 47:2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_142",
+      "type": "single_choice",
+      "text": "How do the fathers react to the rushing chariots according to Jeremiah 47:3?",
+      "options": [
+        {
+          "text": "They march out boldly into the battle and defend their children with the sword",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They take up their little children into their arms and flee into the mountains",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The fathers shall not look back to their children for feebleness of their hands",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "They bow down before the altar of God and pray earnestly for their households",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Jeremiah 47:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "jer_143",
+      "type": "single_choice",
+      "text": "What plea is addressed to the sword of the LORD in Jeremiah 47:6?",
+      "options": [
+        {
+          "text": "When wilt thou arise against the proud enemies who oppress our fathers?",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "When wilt thou break the bows of the mighty heathen that compass our land?",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "When wilt thou return unto thy holy habitation after judging the wicked?",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "How long ere thou be quiet? put up thyself into thy scabbard, and be still",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Jeremiah 47:6-7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "jer_144",
+      "type": "single_choice",
+      "text": "With what imagery does Jeremiah 48:11 describe the security of Moab?",
+      "options": [
+        {
+          "text": "He hath settled on his lees, and hath not been emptied from vessel to vessel",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He was like a green tree planted by the waters that never ceaseth from fruit",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He was like a high rock in the midst of the sea that no tempest can shake",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He was like a bird resting quietly in her safe nest that no fowler disquiets",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Jeremiah 48:11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_145",
+      "type": "single_choice",
+      "text": "Of whom shall Moab be ashamed according to Jeremiah 48:13?",
+      "options": [
+        {
+          "text": "Baal",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Chemosh",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Molech",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Dagon",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jeremiah 48:13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jer_146",
+      "type": "single_choice",
+      "text": "With what promise does the prophecy against Moab conclude (Jeremiah 48:47)?",
+      "options": [
+        {
+          "text": "Moab shall be forgotten forever and never be mentioned again",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Yet will I bring again the captivity of Moab in the latter days",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Moab shall rule over the children of Israel at the end of days",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Moab shall be utterly destroyed, and her land never restored",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jeremiah 48:47",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_147",
+      "type": "single_choice",
+      "text": "What does the LORD lay to the charge of the Ammonites in Jeremiah 49:1?",
+      "options": [
+        {
+          "text": "They destroyed the holy sanctuary at Jerusalem and took the vessels",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They besieged the holy city of Jerusalem and carried the seed away",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They mocked the remnant of the people and exalted their idols on high",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Their king Malcham inherited Gad, and his people dwelt in his cities",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Jeremiah 49:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_148",
+      "type": "single_choice",
+      "text": "How does Jeremiah 49:10 describe the judgment upon Edom?",
+      "options": [
+        {
+          "text": "Edom shall be spared, and his secret hiding places shall remain safe",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I have made Esau bare, and uncovered his secret places to all men",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Edom shall be subdued, yet shall his people dwell securely in rocks",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Edom shall be carried away, yet shall his strong fortresses remain",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jeremiah 49:10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_149",
+      "type": "single_choice",
+      "text": "What does the LORD announce concerning Elam in Jeremiah 49:35?",
+      "options": [
+        {
+          "text": "Elam shall prevail and bend her strong bow against the heathen",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Behold, I will break the bow of Elam, the chief of their might",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Elam shall flee away into the wilderness and cast her bow down",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Elam shall be wonderfully delivered and remain mighty forever",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jeremiah 49:35",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "jer_150",
+      "type": "single_choice",
+      "text": "What tidings concerning Babylon are proclaimed in Jeremiah 50:2?",
+      "options": [
+        {
+          "text": "Babylon is created, Bel is exalted on high, and Merodach praised",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Babylon has conquered, Bel standeth sure, and Merodach is crowned",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Babylon is taken, Bel is confounded, and Merodach broken in pieces",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Babylon standeth firm, Bel is mighty, and Merodach shall rule all",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Jeremiah 50:2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jer_151",
+      "type": "single_choice",
+      "text": "How shall Israel and Judah return according to Jeremiah 50:4-5?",
+      "options": [
+        {
+          "text": "With shouts of battle, seeking the enemy and demanding vengeance",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Laden with rich spoil, praising the king and asking for the way",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With singing and joy, thanking the LORD and marching unto Zion",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Going and weeping, seeking the LORD and asking the way to Zion",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Jeremiah 50:4-5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "jer_152",
+      "type": "single_choice",
+      "text": "What does Jeremiah 50:34 testify concerning Israel's Redeemer?",
+      "options": [
+        {
+          "text": "Their Redeemer is strong; the LORD of hosts is his name; he shall plead their cause",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Their Redeemer is far off, and no longer heareth the supplication of his people",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Their Redeemer is faint and unable to plead their righteous cause against Babel",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Their Redeemer is an earthly king and cannot deliver his chosen from captivity",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Jeremiah 50:34",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "jer_153",
+      "type": "single_choice",
+      "text": "What has Babylon been in the hand of the LORD (Jeremiah 51:7)?",
+      "options": [
+        {
+          "text": "A sharp twoedged sword that pierced all the nations",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A golden cup that made all the earth drunken with wine",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A mighty hammer of iron that broke the whole earth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "An iron rod of chastisement that smote every province",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jeremiah 51:7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jer_154",
+      "type": "single_choice",
+      "text": "What does the LORD say unto his instrument in Jeremiah 51:20?",
+      "options": [
+        {
+          "text": "Thou art my buckler; with thee will I protect the poor and needy from destruction",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Thou art my city; with thee will I gather the scattered remnant of all nations",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Thou art my battle axe and weapons of war; with thee will I break the nations",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Thou art my chosen servant; with thee will I bless all the families of the earth",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Jeremiah 51:20",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "jer_155",
+      "type": "single_choice",
+      "text": "What did Nebuzaradan do with the temple (Jeremiah 52:13-14)?",
+      "options": [
+        {
+          "text": "He spoiled only the sacred vessels of gold and left the temple standing",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He burned the house of the LORD, the king's house, and all the houses",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He left the house of the LORD untouched and brake down only the city walls",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He changed the house of the LORD and carried its timbers away to Babylon",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jeremiah 52:13-14",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_156",
+      "type": "single_choice",
+      "text": "What grace did Jehoiachin receive according to Jeremiah 52:31-34?",
+      "options": [
+        {
+          "text": "Evil-merodach lifted up his head, spake kindly, and gave him a continual diet",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He was released from prison, returned home, and reigned over Judah once again",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He was crowned king of Judah and given an army to liberate the holy sanctuary",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He was slain secretly in prison, and all his sons were carried into bondage",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Jeremiah 52:31-34",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jer_157",
+      "type": "single_choice",
+      "text": "Who said at his calling: »Ah, Lord GOD! behold, I cannot speak: for I am a child« (Jeremiah 1:6)?",
+      "options": [
+        {
+          "text": "Jeremiah",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Isaiah",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Hosea",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Daniel",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Jeremiah 1:6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    }
+  ]
+}
