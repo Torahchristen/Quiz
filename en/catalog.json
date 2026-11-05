@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-11-05T19:52:46Z",
+  "lastUpdated": "2026-11-05T19:56:58Z",
   "language": "en",
   "categories": [
     {
@@ -543,6 +543,25 @@
       ],
       "sizeBytes": 136984,
       "downloadUrl": "./en/26_hesekiel.json"
+    },
+    {
+      "quizId": "bibel_27_daniel_en",
+      "category": "propheten",
+      "title": "Daniel",
+      "subtitle": "Daniel 1:1 – 12:13 (37 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "1.0.0",
+      "questionCount": 37,
+      "difficulty": "medium",
+      "tags": [
+        "Daniel",
+        "OT",
+        "prophets",
+        "KJV"
+      ],
+      "sizeBytes": 37053,
+      "downloadUrl": "./en/27_daniel.json"
     }
   ]
 }

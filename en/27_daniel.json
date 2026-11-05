@@ -1,0 +1,1296 @@
+{
+  "metadata": {
+    "quizId": "bibel_27_daniel_en",
+    "title": "Daniel",
+    "subtitle": "Daniel 1:1 – 12:13 (37 questions)",
+    "description": "Questions on the Book of Daniel according to the King James Version (1769).",
+    "author": "King James Version (1769)",
+    "version": "1.0.0",
+    "language": "en",
+    "category": "propheten",
+    "difficulty": "medium",
+    "tags": [
+      "Daniel",
+      "OT",
+      "prophets",
+      "KJV"
+    ],
+    "questionCount": 37,
+    "canonicalBookNumber": 27,
+    "testament": "OT"
+  },
+  "questions": [
+    {
+      "questionId": "dan_001",
+      "type": "single_choice",
+      "text": "What purpose did Daniel lay in his heart at the king's court (Daniel 1:8)?",
+      "options": [
+        {
+          "text": "He would not learn the tongue and learning of the Chaldeans",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He would not defile himself with the king's meat nor with his wine",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He would not bow down himself before the princes of the palace",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He would not dwell in the royal house, but in a tent outside",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Daniel 1:8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "dan_002",
+      "type": "single_choice",
+      "text": "Of what substances was the great image composed in Nebuchadnezzar's dream (Daniel 2:32-33)?",
+      "options": [
+        {
+          "text": "Head of brass, breast of iron, belly of gold, thighs of silver, feet of clay",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Head of silver, breast of gold, belly of brass, thighs of iron, feet of clay",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Head of gold, breast of silver, belly of brass, legs of iron, feet of clay",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Head of gold, breast of brass, belly of silver, legs of iron, feet of clay",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Daniel 2:32-33",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "dan_003",
+      "type": "single_choice",
+      "text": "What became of the stone that smote the great image (Daniel 2:35)?",
+      "options": [
+        {
+          "text": "It became a great mountain, and filled the whole earth",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "It brake into many pieces and sank into depths of sea",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It was brought unto Jerusalem and preserved in temple",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It melted away completely before the heat of Chaldeans",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Daniel 2:35",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "dan_004",
+      "type": "single_choice",
+      "text": "Who walked with the three men in the midst of the burning furnace (Daniel 3:25)?",
+      "options": [
+        {
+          "text": "A fourth man, whose form was like the Son of God",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "An holy angel that extinguished all fiery flames",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The prophet Daniel, who entered in to save them",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The king of Babylon, who repented of his fury",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Daniel 3:25",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "dan_005",
+      "type": "single_choice",
+      "text": "What did the dream of the tree foretell unto King Nebuchadnezzar (Daniel 4:25)?",
+      "options": [
+        {
+          "text": "He should conquer all kingdoms from east unto west and dwell in peace",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They shall drive him from men, his dwelling with beasts, eating grass",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He should perish by the sword of his own captains and be forgotten",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "His royal palace should be burnt with fire and his crown cast down",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Daniel 4:25",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "dan_006",
+      "type": "single_choice",
+      "text": "What writing appeared upon the plaster of the wall at Belshazzar's feast (Daniel 5:25)?",
+      "options": [
+        {
+          "text": "Kadosh, kadosh, kadosh, adonai",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Eli, eli, lama sabachthani",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "MENE, MENE, TEKEL, UPHARSIN",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Ichabod, ichabod, maranatha",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Daniel 5:25",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "dan_007",
+      "type": "single_choice",
+      "text": "Why was Daniel cast into the den of lions according to Daniel 6:10-16?",
+      "options": [
+        {
+          "text": "Because he refused to worship the golden image set up in Babylon",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because he spoke evil words against the royal majesty of Darius",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because he hid the holy vessels of the temple in his secret chamber",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because he prayed to his God three times a day against royal decree",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Daniel 6:10-16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "dan_008",
+      "type": "single_choice",
+      "text": "How was the fourth beast described in Daniel's night vision (Daniel 7:7)?",
+      "options": [
+        {
+          "text": "Dreadful and terrible, and strong exceedingly, with great iron teeth",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Like a raging winged lion having a human heart and roaring aloud",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Like an huge bear devouring much flesh in the desolate wilderness",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Like a leopard having four heads and great dominion over all beasts",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Daniel 7:7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "dan_009",
+      "type": "single_choice",
+      "text": "Who came with the clouds of heaven unto the Ancient of days in Daniel 7:13?",
+      "options": [
+        {
+          "text": "A glorious company of holy angels with silver trumpets",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "One like the Son of man, unto whom dominion was given",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The prophet Elijah, returning in a swift fiery chariot",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "King David of Israel, restored in great royal splendour",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Daniel 7:13-14",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "dan_010",
+      "type": "single_choice",
+      "text": "Which angel appeared unto Daniel to explain the vision of seventy weeks (Daniel 9:21)?",
+      "options": [
+        {
+          "text": "The archangel Uriel",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The archangel Raphael",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The man Gabriel",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The archangel Michael",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Daniel 9:21",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "dan_011",
+      "type": "single_choice",
+      "text": "Who came to help the heavenly messenger against the prince of Persia (Daniel 10:13)?",
+      "options": [
+        {
+          "text": "A mighty legion of cherubim with swords",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The angel Gabriel, flying swiftly to him",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The prophet Elijah in a chariot of fire",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Michael, one of the chief princes",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Daniel 10:13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "dan_013",
+      "type": "single_choice",
+      "text": "How did Daniel and his companions appear at the end of ten days (Daniel 1:15)?",
+      "options": [
+        {
+          "text": "Faint and pale in countenance compared to all other children",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Fairer and fatter in flesh than all children eating king's meat",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Entirely unchanged and just like all the other royal children",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Feeble and sickly in body through their refusal of royal meat",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Daniel 1:15",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "dan_014",
+      "type": "single_choice",
+      "text": "What blessing did Daniel speak when the secret was revealed (Daniel 2:20-21)?",
+      "options": [
+        {
+          "text": "Holy, holy is the God of heaven; He shall overthrow all heathen foes",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Great is the wisdom of the Chaldeans; peace be unto the royal house",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Blessed be God for ever: He removeth kings, and setteth up kings",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Praise the LORD upon the harp; He delivereth His saints from death",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Daniel 2:20-22",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "dan_015",
+      "type": "single_choice",
+      "text": "What did Shadrach, Meshach, and Abed-nego answer the king (Daniel 3:17-18)?",
+      "options": [
+        {
+          "text": "Grant us thirty days to consider, that we may consult our elders",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "We will bow down this once, but our hearts remain faithful to God",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The burning fiery furnace cannot hurt us because of our righteousness",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Our God is able to deliver us; but if not, we will not serve thy gods",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Daniel 3:16-18",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "dan_017",
+      "type": "single_choice",
+      "text": "What vision foretold the humiliation of Nebuchadnezzar (Daniel 4:7-14)?",
+      "options": [
+        {
+          "text": "A mighty ship of Tyre broken by an east wind in the midst of seas",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A great tree reaching unto heaven, whose leaves were fair, hewn down",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A golden chariot overthrown and burned with fire in the desert",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A great image of four metals crushed into fine dust by a stone",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Daniel 4:7-14",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "dan_018",
+      "type": "single_choice",
+      "text": "What did Nebuchadnezzar do when his understanding returned (Daniel 4:34)?",
+      "options": [
+        {
+          "text": "He built a new golden palace and doubled his royal standing army",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He assembled all astrologers and rewarded them with gifts of gold",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He lifted his eyes to heaven, and blessed and praised the most High",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He commanded all images of strange gods to be broken in pieces",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Daniel 4:34",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "dan_019",
+      "type": "single_choice",
+      "text": "What sacrilege did Belshazzar commit at his great feast (Daniel 5:2-4)?",
+      "options": [
+        {
+          "text": "He burned sacred incense before the carved images of the Chaldeans",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He proclaimed himself to be an immortal god in the sight of all",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He cast down the altar of sacrifice and mocked the prophets of God",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He drank wine with his lords out of golden vessels from the temple",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Daniel 5:1-4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "dan_020",
+      "type": "single_choice",
+      "text": "What is the interpretation of the words written on the wall (Daniel 5:26-28)?",
+      "options": [
+        {
+          "text": "God hath numbered thy kingdom; thou art weighed; it is divided",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Thy reign shall be prolonged; thy enemies shall fall before thee",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A great famine cometh; prepare bread and wine for seven years",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Peace be unto the king; Babylon shall stand firm unto all ages",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Daniel 5:25-28",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "dan_022",
+      "type": "single_choice",
+      "text": "What royal decree did King Darius make after Daniel's deliverance (Daniel 6:26-27)?",
+      "options": [
+        {
+          "text": "Daniel was exalted to be chief governor over all royal provinces",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "All lions in the dens throughout the realm should be destroyed",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Men should tremble and fear before the living God of Daniel",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "No man in all the kingdom should offer sacrifice unto any idol",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Daniel 6:26-27",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "dan_023",
+      "type": "single_choice",
+      "text": "Which four beasts did Daniel see come up from the sea (Daniel 7:3-7)?",
+      "options": [
+        {
+          "text": "A lion, a wolf, an eagle, and a dragon with fiery breath",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A bull, an hart, a serpent, and a monster with iron horns",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A ram, an he goat, a camel, and a beast with brass claws",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A lion, a bear, a leopard, and a diverse beast with ten horns",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Daniel 7:3-7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "dan_024",
+      "type": "single_choice",
+      "text": "Which two beasts did Daniel behold by the river of Ulai (Daniel 8:3-8)?",
+      "options": [
+        {
+          "text": "A ram having two high horns, and an he goat coming from the west",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A lion with eagle's wings, and a bear having three ribs in teeth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A leopard with four heads, and a dreadful beast with iron teeth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A bull with silver horns, and an eagle flying over all rivers",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Daniel 8:3-8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "dan_025",
+      "type": "single_choice",
+      "text": "What did the little horn do according to Daniel 8:10-12?",
+      "options": [
+        {
+          "text": "It made peace with the saints and restored the altar of the LORD",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It magnified itself, took away daily sacrifice, cast down truth",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "It built a great temple unto the gods of Greece throughout Asia",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It divided the royal realm equally among the four winds of earth",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Daniel 8:10-12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "dan_026",
+      "type": "single_choice",
+      "text": "How long until the sanctuary should be cleansed according to Daniel 8:14?",
+      "options": [
+        {
+          "text": "Unto twelve hundred and sixty days",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto seventy weeks of years",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto two thousand and three hundred days",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Unto forty days and forty nights",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Daniel 8:14",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "dan_027",
+      "type": "single_choice",
+      "text": "Where did Daniel understand the number of years of Jerusalem's desolation (Daniel 9:2)?",
+      "options": [
+        {
+          "text": "From the prophecies of the prophet Isaiah",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "From the ancient holy psalms of King David",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "From the visions of Ezekiel by river Chebar",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "From the books of Jeremiah for seventy years",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Daniel 9:2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "dan_028",
+      "type": "single_choice",
+      "text": "How many weeks are determined upon Daniel's people and holy city (Daniel 9:24)?",
+      "options": [
+        {
+          "text": "Exactly seventy weeks",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Exactly seven weeks",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Exactly twelve weeks",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Seven hundred weeks",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Daniel 9:24",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "dan_029",
+      "type": "single_choice",
+      "text": "What was the appearance of the man seen by the river Hiddekel (Daniel 10:5-6)?",
+      "options": [
+        {
+          "text": "A warrior in glittering armor having a drawn sword in hand",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Clothed in linen, girded with fine gold, body like a beryl",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "An ancient prophet having a snow white beard and wooden staff",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A glorious cherub of heaven having six fiery wings of light",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Daniel 10:5-6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "dan_031",
+      "type": "single_choice",
+      "text": "What kings are foretold at the beginning of the prophecy in Daniel 11:2?",
+      "options": [
+        {
+          "text": "Seven judges in Israel, followed by a royal king over people",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Three kings in Egypt, followed by a fourth with a great host",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Twelve kings of Rome, followed by a mighty emperor over realm",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Three kings in Persia, followed by a fourth far richer than all",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Daniel 11:2-4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "dan_032",
+      "type": "single_choice",
+      "text": "Between which two powers does the conflict rage in Daniel 11:5-6?",
+      "options": [
+        {
+          "text": "The king of the south and the king of the north",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The king of the east and the king of the west",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The prince of Persia and the prince of Grecia",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The realm of Babylon and the empire of Egypt",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Daniel 11:5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "dan_033",
+      "type": "single_choice",
+      "text": "What transgression shall arms commit according to Daniel 11:31?",
+      "options": [
+        {
+          "text": "They shall burn the gates of Jerusalem and carry away the people",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They shall pollute the sanctuary and place the abomination desolate",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "They shall crown a false high priest and change the holy sabbaths",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They shall break in pieces the golden ark and cast it into river",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Daniel 11:31",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "dan_034",
+      "type": "single_choice",
+      "text": "Who shall stand up for the children of Daniel's people (Daniel 12:1)?",
+      "options": [
+        {
+          "text": "Gabriel, the holy messenger of God",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "David, the anointed king of Israel",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Michael, the great prince that standeth",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Elijah, the zealous prophet of fire",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Daniel 12:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "dan_035",
+      "type": "single_choice",
+      "text": "What is promised unto them that sleep in the dust and to the wise (Daniel 12:2-3)?",
+      "options": [
+        {
+          "text": "They shall possess all kingdoms of the world and reign on earth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Their names shall be recorded in the golden book of the kings",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They shall build the holy temple in Jerusalem with pure gold",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Many shall awake to life; they that be wise shall shine as stars",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Daniel 12:2-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "dan_036",
+      "type": "single_choice",
+      "text": "With what words does the Book of Daniel conclude (Daniel 12:13)?",
+      "options": [
+        {
+          "text": "Go thy way till the end be: for thou shalt rest, and stand in thy lot",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Weep not, Daniel, for thy people shall be delivered out of captivity",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Seal up the book until the day when the Ancient of days shall appear",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Blessed is he that waiteth, and cometh to the thousand days",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Daniel 12:13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "dan_037",
+      "type": "multiple_choice",
+      "text": "What are the Babylonian names of the three friends of Daniel in Daniel 3:12?",
+      "options": [
+        {
+          "text": "Shadrach",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Meshach",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Belshazzar",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Abed-nego",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        3
+      ],
+      "bibleReference": "Daniel 3:12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "dan_038",
+      "type": "single_choice",
+      "text": "Who said unto Nebuchadnezzar: \"Our God whom we serve is able to deliver us... but if not... we will not serve thy gods\" (Daniel 3:17-18)?",
+      "options": [
+        {
+          "text": "Shadrach, Meshach, and Abed-nego",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Daniel, Hananiah, and Azariah",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The wise men and astrologers of Babylon",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The princes and captains of the provinces",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Daniel 3:17-18",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "dan_039",
+      "type": "ordering",
+      "text": "Order the parts of the image in Nebuchadnezzar's dream from top to bottom.",
+      "options": [
+        {
+          "text": "Feet part of iron and part of clay",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Legs of iron",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Breast and arms of silver",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Belly and thighs of brass",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Head of fine gold",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        4,
+        2,
+        3,
+        1,
+        0
+      ],
+      "bibleReference": "Daniel 2:32-33",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "dan_040",
+      "type": "ordering",
+      "text": "Order the four beasts of Daniel's vision in the sequence in which they appeared.",
+      "options": [
+        {
+          "text": "The dreadful beast with ten horns",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The lion with eagle's wings",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The bear with three ribs in its mouth",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The leopard with four wings",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3,
+        0
+      ],
+      "bibleReference": "Daniel 7:4-7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "dan_041",
+      "type": "single_choice",
+      "text": "Whither were the open windows in Daniel's chamber directed when he prayed (Daniel 6:10)?",
+      "options": [
+        {
+          "text": "Toward the desert in the east, whence he awaited aid",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Toward Jerusalem, in which direction he prayed to God",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Toward the palace of the king, unto whom he was loyal",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Toward the river Euphrates, where he sought quietness",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Daniel 6:10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    }
+  ]
+}

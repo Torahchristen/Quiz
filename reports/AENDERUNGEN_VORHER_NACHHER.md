@@ -32,7 +32,8 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
 | `24_jeremia.json` | 157 | 24 | 3 | 24 | 0 |
 | `25_klagelieder.json` | 18 | 8 | 0 | 8 | 0 |
 | `26_hesekiel.json` | 139 | 22 | 2 | 18 | 4 |
-| **Gesamt (26 Dateien)** | **3120** | **1416** | **952** | **1274** | **58** |
+| `27_daniel.json` | 37 | 9 | 2 | 7 | 1 |
+| **Gesamt (27 Dateien)** | **3157** | **1425** | **954** | **1281** | **59** |
 
 ## 01_1_mose.json – 1. Mose (Genesis) (Schlachter (Revision von 1951))
 
@@ -20018,3 +20019,112 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
 ### `hes_147` (Hesekiel 23:12-16)
 - **Bibelstelle Vorher:** `Hesekiel 23:12; Hesekiel 23:14-16` -> **Nachher:** `Hesekiel 23:12-16`
 - **Frage:** Mit wem buhlte Oholiba (Jerusalem) nach Hesekiel 23:12-16 in ihrer Hurerei?
+
+## 27_daniel.json – Daniel (Luther 1912)
+
+### `dan_007` (Daniel 6:10-16)
+- **Frage Vorher:** Warum wurde Daniel in die Löwengrube geworfen (Daniel 6:11-17)?
+- **Frage Nachher:** Warum wurde Daniel in die Löwengrube geworfen (Daniel 6:10-16)?
+
+### `dan_013` (Daniel 1:15)
+- **Frage:** Wie sahen Daniel und seine Gefährten nach zehn Tagen aus (Daniel 1:15)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Schöner und wohlgenährter als alle, die von der Speise des Königs aßen
+    - **Nachher:** Schöner und wohlgenährter als alle Knaben, die vom Hofe aßen
+  - **Option A (Falsch):**
+    - **Vorher:** Abgemagert und bleich, sodass der Aufseher sie strafen wollte
+    - **Nachher:** Abgemagert und bleich im Vergleich zu allen anderen Knaben
+  - **Option C (Falsch):**
+    - **Vorher:** Genau wie die anderen Jünglinge am Hof
+    - **Nachher:** Völlig unverändert und genau gleich wie alle Knaben am Hofe
+  - **Option D (Falsch):**
+    - **Vorher:** Fiebrig und schwach, doch genesen durch Gebet
+    - **Nachher:** Fiebrig und elend vor Schwäche durch den Verzicht auf Fleisch
+
+### `dan_018` (Daniel 4:34)
+- **Bibelstelle Vorher:** `Daniel 4:31-34` -> **Nachher:** `Daniel 4:34`
+- **Frage Vorher:** Was tat Nebukadnezar, als sein Verstand zurückkehrte (Daniel 4:31)?
+- **Frage Nachher:** Was tat Nebukadnezar, als sein Verstand zurückkehrte (Daniel 4:34)?
+
+### `dan_022` (Daniel 6:26-27)
+- **Frage:** Welchen Erlass gab Darius nach Daniels Rettung (Daniel 6:26-27)?
+- **Richtige Antwort (unverändert, Option C):** Man solle den Gott Daniels fürchten, denn er ist der lebendige Gott
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Alle Löwen im Reich sollten getötet werden
+    - **Nachher:** Alle Löwen im ganzen Königreiche sollten auf Befehl getötet werden
+  - **Option D (Falsch):**
+    - **Vorher:** Niemand dürfe künftig Götzen opfern
+    - **Nachher:** Niemand im ganzen Reiche dürfe künftig fremden Göttern noch opfern
+
+### `dan_027` (Daniel 9:2)
+- **Frage:** Woraus erkannte Daniel nach Daniel 9:2 die Dauer der Verwüstung Jerusalems?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Aus den Schriften Jeremias: siebzig Jahre
+    - **Nachher:** Aus den Büchern Jeremias über siebzig Jahre
+  - **Option A (Falsch):**
+    - **Vorher:** Aus den Weissagungen Jesajas über Kyrus
+    - **Nachher:** Aus den Weissagungen des Propheten Jesaja
+  - **Option B (Falsch):**
+    - **Vorher:** Aus den Psalmen Davids
+    - **Nachher:** Aus den alten Psalmen des Königs David
+  - **Option C (Falsch):**
+    - **Vorher:** Aus den Gesichten Hesekiels am Kebar
+    - **Nachher:** Aus den Gesichten Hesekiels am Wasser Chebar
+
+### `dan_028` (Daniel 9:24)
+- **Frage:** Wie viele Wochen sind nach Daniel 9:24 über Daniels Volk bestimmt?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Siebzig Wochen
+    - **Nachher:** Genau siebzig Wochen
+  - **Option B (Falsch):**
+    - **Vorher:** Sieben Wochen
+    - **Nachher:** Genau sieben Wochen
+  - **Option C (Falsch):**
+    - **Vorher:** Zwölf Wochen
+    - **Nachher:** Genau zwölf Wochen
+
+### `dan_029` (Daniel 10:5-6)
+- **Frage:** Wie sah der Mann am Tigris aus (Daniel 10:5-6)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** In Leinwand gekleidet, mit goldenem Gürtel, sein Leib wie ein Türkis
+    - **Nachher:** In Leinwand gekleidet, mit goldenem Gürtel und Leib wie Türkis
+  - **Option A (Falsch):**
+    - **Vorher:** Ein Krieger in glänzender Eisenrüstung mit gezogenem Schwert
+    - **Nachher:** Ein Krieger in glänzender Rüstung mit einem gezogenen Schwert
+  - **Option C (Falsch):**
+    - **Vorher:** Ein greiser Prophet mit schneeweißem Bart und Akazienstab
+    - **Nachher:** Ein greiser Prophet mit weißem Barte und einem Stabe aus Holz
+  - **Option D (Falsch):**
+    - **Vorher:** Ein Cherub mit sechs feurigen Flügeln
+    - **Nachher:** Ein leuchtender Cherub des Himmels mit sechs feurigen Flügeln
+
+### `dan_031` (Daniel 11:2-4)
+- **Frage:** Welche Könige nennt Daniel 11:2 zu Beginn der Weissagung?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Drei Könige in Persien, dann ein vierter mit größerem Reichtum
+    - **Nachher:** Drei Könige in Persien, gefolgt von einem vierten mit vielem Reichtum
+  - **Option A (Falsch):**
+    - **Vorher:** Sieben Richter Israels vor Saul
+    - **Nachher:** Sieben Richter in Israel, gefolgt von einem Könige über das Volk
+  - **Option B (Falsch):**
+    - **Vorher:** Drei Könige in Ägypten, dann ein vierter mit größerem Heer
+    - **Nachher:** Drei Könige in Ägypten, gefolgt von einem vierten mit großem Heer
+  - **Option C (Falsch):**
+    - **Vorher:** Zwölf Könige Roms, beginnend mit Cäsar
+    - **Nachher:** Zwölf Könige der Römer, gefolgt von einem mächtigen Kaiser Roms
+
+### `dan_040` (Daniel 7:4-7)
+- **Frage:** Bringe die vier Tiere aus Daniels Traumgesicht in der Reihenfolge, in der sie auftreten.
+- **Richtige Antwort (unverändert, Option A):** Das schreckliche Tier mit zehn Hörnern
+- **Richtige Antwort (unverändert, Option B):** Der Löwe mit Adlerflügeln
+- **Richtige Antwort (unverändert, Option C):** Der Bär mit drei Zähnen im Maul
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Der Panther mit vier Flügeln
+    - **Nachher:** Der Parder mit vier Flügeln
