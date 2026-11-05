@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-11-05T20:58:31Z",
+  "lastUpdated": "2026-11-05T21:14:32Z",
   "language": "en",
   "categories": [
     {
@@ -833,6 +833,27 @@
       ],
       "sizeBytes": 76638,
       "downloadUrl": "./en/41_markus.json"
+    },
+    {
+      "quizId": "nt_03_lukas_alle_kapitel_en",
+      "category": "nt",
+      "title": "Luke",
+      "subtitle": "Luke 1:1 – 24:53 (126 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 126,
+      "difficulty": "medium",
+      "tags": [
+        "Luke",
+        "New Testament",
+        "Gospels",
+        "Gospel",
+        "Messiah",
+        "King James Version"
+      ],
+      "sizeBytes": 116634,
+      "downloadUrl": "./en/42_lukas.json"
     }
   ]
 }

@@ -47,7 +47,8 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
 | `39_maleachi.json` | 20 | 5 | 0 | 5 | 0 |
 | `40_matthaeus.json` | 148 | 40 | 0 | 40 | 3 |
 | `41_markus.json` | 80 | 16 | 0 | 16 | 0 |
-| **Gesamt (41 Dateien)** | **3652** | **1626** | **1026** | **1475** | **90** |
+| `42_lukas.json` | 126 | 35 | 1 | 34 | 3 |
+| **Gesamt (42 Dateien)** | **3778** | **1661** | **1027** | **1509** | **93** |
 
 ## 01_1_mose.json – 1. Mose (Genesis) (Schlachter (Revision von 1951))
 
@@ -23076,3 +23077,469 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
   - **Option C (Falsch):**
     - **Vorher:** Fordert von den Heiden Tempelgeld
     - **Nachher:** Geht zu den Heidenvölkern und fordert reiches Tempelgeld für Rom
+
+## 42_lukas.json – Lukas (Schlachter (Revision von 1951))
+
+### `lk_001` (Lukas 1:1-4)
+- **Frage:** An wen adressierte Lukas sein Evangelium im einleitenden Vorwort?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** An Theophilus
+    - **Nachher:** An den edlen Theophilus
+  - **Option C (Falsch):**
+    - **Vorher:** An den Hohen Rat in Jerusalem
+    - **Nachher:** An die Ältesten in Jerusalem
+
+### `lk_005` (Lukas 1:46-55)
+- **Frage Vorher:** Wie heißt der Lobgesang, den Maria beim Besuch bei Elisabeth anstimmte?
+- **Frage Nachher:** Welchen Lobgesang stimmte Maria beim Besuch bei Elisabeth an?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Das Magnifikat: Meine Seele erhebt den Herrn
+    - **Nachher:** Meine Seele erhebt den Herrn!
+  - **Option A (Falsch):**
+    - **Vorher:** Das Benediktus des Zacharias: Gelobt sei der Herr, der Gott Israels
+    - **Nachher:** Gelobt sei der Herr, der Gott Israels!
+  - **Option C (Falsch):**
+    - **Vorher:** Das Gebet des alten Simeon: Herr, nun lässt du deinen Diener in Frieden fahren
+    - **Nachher:** Herr, nun lässt du deinen Diener in Frieden fahren!
+  - **Option D (Falsch):**
+    - **Vorher:** Der Lobgesang der Engel: Ehre sei Gott in der Höhe
+    - **Nachher:** Ehre sei Gott in der Höhe und Friede auf Erden!
+
+### `lk_009` (Lukas 2:25-32)
+- **Frage:** Welcher gerechte Mann im Tempel lobte Gott beim Erblicken des Kindes?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Simeon
+    - **Nachher:** Der fromme Greis Simeon
+  - **Option A (Falsch):**
+    - **Vorher:** Nikodemus
+    - **Nachher:** Der Pharisäer Nikodemus
+  - **Option D (Falsch):**
+    - **Vorher:** Gamaliel
+    - **Nachher:** Der Schriftgelehrte Gamaliel
+
+### `lk_013` (Lukas 3:16)
+- **Frage:** Womit wird der nachfolgende Messias laut Johannes der Täufer taufen?
+- **Richtige Antwort (unverändert, Option B):** Mit dem Heiligen Geist und mit Feuer
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Mit dem Wasser des Jordan, das die Sünden abwäscht und reinigt
+    - **Nachher:** Mit reinem Wasser des Jordan zur Buße
+  - **Option C (Falsch):**
+    - **Vorher:** Mit kostbarem Salböl, das ihn zum König über das Volk macht
+    - **Nachher:** Mit heiligem Salböl aus dem Heiligtum
+  - **Option D (Falsch):**
+    - **Vorher:** Mit dem Licht der Wahrheit, das die Herzen der Gläubigen erleuchtet
+    - **Nachher:** Mit brennendem Schwefel des Gerichts
+
+### `lk_016` (Lukas 4:1-13)
+- **Frage:** Womit wehrte Jesus die Versuchungen des Teufels in der Wüste ab?
+- **Richtige Antwort (unverändert, Option A):** Mit Worten der Heiligen Schrift
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Falsch):**
+    - **Vorher:** Mit Schweigen
+    - **Nachher:** Mit beharrlichem Schweigen
+
+### `lk_021` (Lukas 5:1-7)
+- **Frage:** An welchem Gewässer ereignete sich der reiche Fischfang des Petrus?
+- **Richtige Antwort (unverändert, Option B):** Am See Genezareth
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Falsch):**
+    - **Vorher:** Am Jordan bei der Taufstelle
+    - **Nachher:** Am Fluss Jordan
+
+### `lk_025` (Lukas 5:36-39)
+- **Frage:** Welches Bild gebraucht Jesus für das Einfüllen von neuem Wein?
+- **Richtige Antwort (unverändert, Option B):** In neue Schläuche
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Falsch):**
+    - **Vorher:** In hölzerne Fässer im Keller
+    - **Nachher:** In hölzerne Fässer
+  - **Option D (Falsch):**
+    - **Vorher:** In kaltes Brunnenwasser
+    - **Nachher:** In steinerne Krüge
+
+### `lk_027` (Lukas 6:6-11)
+- **Frage:** Was heilte Jesus am Sabbat in der Synagoge vor den Augen der Gegner?
+- **Richtige Antwort (unverändert, Option D):** Den Mann mit der verdorrten rechten Hand
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Einen Blinden am Stadttor, den er mit Speichel und Erde berührte
+    - **Nachher:** Einen Blinden durch Speichel und Erde
+  - **Option B (Falsch):**
+    - **Vorher:** Einen Gelähmten auf der Bahre, den vier Männer durchs Dach herabließen
+    - **Nachher:** Einen Gelähmten auf seiner Bahre
+  - **Option C (Falsch):**
+    - **Vorher:** Einen Taubstummen, dem er die Finger in die Ohren legte
+    - **Nachher:** Einen Taubstummen durch Berührung
+
+### `lk_028` (Lukas 6:12-13)
+- **Frage:** Was tat Jesus in der Nacht, bevor Er Seine zwölf Apostel erwählte?
+- **Richtige Antwort (unverändert, Option A):** Er verbrachte die Nacht im Gebet zu Gott
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Er fastete im Tempel
+    - **Nachher:** Er fastete und betete allein im Tempel
+  - **Option D (Falsch):**
+    - **Vorher:** Er wanderte zum See
+    - **Nachher:** Er wanderte schweigend am See Genezareth
+
+### `lk_032` (Lukas 7:11-17)
+- **Frage:** In welcher Stadt erweckte Jesus den einzigen Sohn einer Witwe?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** In Nain
+    - **Nachher:** In der Stadt Nain
+  - **Option B (Falsch):**
+    - **Vorher:** In Bethanien
+    - **Nachher:** In Bethanien am Ölberg
+  - **Option C (Falsch):**
+    - **Vorher:** In Kapernaum
+    - **Nachher:** In der Stadt Kapernaum
+  - **Option D (Falsch):**
+    - **Vorher:** In Jericho
+    - **Nachher:** In der Stadt Jericho
+
+### `lk_035` (Lukas 7:40-43)
+- **Frage:** Welches Gleichnis erzählte Jesus Simon dem Pharisäer über Vergebung?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Vom Gläubiger mit den zwei Schuldnern
+    - **Nachher:** Vom Gläubiger, der zwei Schuldner hatte
+  - **Option A (Falsch):**
+    - **Vorher:** Vom Sämann auf dem Acker, dessen Saat auf verschiedenen Boden fiel
+    - **Nachher:** Vom Sämann, der Samen auf den Acker säte
+  - **Option B (Falsch):**
+    - **Vorher:** Vom verlorenen Schaf, das der Hirte in der Wüste suchte
+    - **Nachher:** Vom verlorenen Schaf, das der Hirte suchte
+  - **Option C (Falsch):**
+    - **Vorher:** Vom barmherzigen Vater, der seinen Sohn mit offenen Armen empfing
+    - **Nachher:** Vom barmherzigen Vater, der den Sohn aufnahm
+
+### `lk_039` (Lukas 8:40-56)
+- **Bibelstelle Vorher:** `Lukas 8:40-42; 8:49-56` -> **Nachher:** `Lukas 8:40-56`
+- **Frage:** Wie alt war die Tochter des Jairus, die Jesus vom Tode auferweckte?
+
+### `lk_048` (Lukas 10:30-37)
+- **Frage:** Wer half dem Überfallenen im Gleichnis nach Priester und Levit?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Ein Samariter
+    - **Nachher:** Ein barmherziger Samariter
+  - **Option B (Falsch):**
+    - **Vorher:** Ein reicher Kaufmann
+    - **Nachher:** Ein reicher Kaufmann der Stadt
+  - **Option C (Falsch):**
+    - **Vorher:** Ein römischer Hauptmann
+    - **Nachher:** Ein römischer Kriegshauptmann
+  - **Option D (Falsch):**
+    - **Vorher:** Ein Pharisäer
+    - **Nachher:** Ein vornehmer Pharisäer
+
+### `lk_056` (Lukas 12:1-3)
+- **Frage:** Vor welchem Sauerteig der Pharisäer warnte Jesus Seine Jünger?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Vor der Heuchelei
+    - **Nachher:** Vor der Heuchelei der Pharisäer
+  - **Option B (Falsch):**
+    - **Vorher:** Vor ihrem Geiz bei den Steuern
+    - **Nachher:** Vor ihrem Geiz bei den Tempelsteuern
+
+### `lk_068` (Lukas 14:15-24)
+- **Frage:** Wer wurde zum Festmahl geladen, nachdem die Erstgeladenen absagten?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Die Armen, Krüppel, Lahmen und Blinden
+    - **Nachher:** Die Armen, Krüppel, Blinden und Lahmen
+  - **Option B (Falsch):**
+    - **Vorher:** Die reichen Kaufleute der Stadt, die auf den Märkten Handel trieben
+    - **Nachher:** Die Kaufleute der Stadt auf den Märkten
+  - **Option C (Falsch):**
+    - **Vorher:** Die römischen Offiziere der Besatzung, die in der Burg wohnten
+    - **Nachher:** Die römischen Offiziere aus der Festung
+  - **Option D (Falsch):**
+    - **Vorher:** Die Priester des Tempels, die den Dienst im Heiligtum versahen
+    - **Nachher:** Die angesehenen Ratsherren des Landes
+
+### `lk_071` (Lukas 15:3-7)
+- **Frage:** Wie reagiert der Hirte im Gleichnis bei dem Fund des verlorenen Schafes?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Er legt es voll Freude auf seine Schultern
+    - **Nachher:** Mehr Freude über einen bußfertigen Sünder
+  - **Option A (Falsch):**
+    - **Vorher:** Er treibt es mit Schlägen zurück in die Herde und bindet es fest
+    - **Nachher:** Große Ehre für Gerechte, die das Gesetz halten
+  - **Option B (Falsch):**
+    - **Vorher:** Er verkauft es dem Nachbarn auf dem Markt und kehrt zu den neunundneunzig zurück
+    - **Nachher:** Reiche Belohnung für treue Knechte im Himmel
+  - **Option C (Falsch):**
+    - **Vorher:** Er sperrt es dreißig Tage im Pferch ein, damit es nicht wieder davonläuft
+    - **Nachher:** Hohen Lohn bei der Auferstehung der Gerechten
+
+### `lk_079` (Lukas 16:19-31)
+- **Frage:** Wo befand sich die Seele des armen Lazarus nach seinem Sterben?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** In Abrahams Schoß
+    - **Nachher:** In Abrahams Schoß getragen
+  - **Option A (Falsch):**
+    - **Vorher:** In der Qual des Totenreichs
+    - **Nachher:** Auf den heiligen Berg Zion
+  - **Option B (Falsch):**
+    - **Vorher:** Im Todesschlaf ohne Bewusstsein
+    - **Nachher:** In den Garten Eden des Herrn
+  - **Option C (Falsch):**
+    - **Vorher:** Auf dem Thron der Könige
+    - **Nachher:** In das herrliche Paradies
+
+### `lk_080` (Lukas 16:27-31)
+- **Frage:** Auf wen verwies Abraham den reichen Mann zur Rettung seiner Brüder?
+- **Richtige Antwort (unverändert, Option A):** Auf Mose und die Propheten
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Auf die Hohenpriester
+    - **Nachher:** Auf die Priester im Tempel
+  - **Option C (Falsch):**
+    - **Vorher:** Auf die Pharisäerschulen
+    - **Nachher:** Auf die Schriftgelehrten
+  - **Option D (Falsch):**
+    - **Vorher:** Auf die Zöllner
+    - **Nachher:** Auf die himmlischen Boten
+
+### `lk_082` (Lukas 17:11-19)
+- **Frage:** Wie viele der zehn geheilten Aussätzigen kehrten um, um zu danken?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Ein einziger, ein Samariter
+    - **Nachher:** Ein einziger kehrte um, und das war ein Samariter
+  - **Option A (Falsch):**
+    - **Vorher:** Alle zehn, die dem Priester gehorchten und dankbar waren
+    - **Nachher:** Alle zehn kehrten um und dankten Jesus mit lauter Stimme
+  - **Option B (Falsch):**
+    - **Vorher:** Fünf der Männer, nämlich die Juden unter ihnen
+    - **Nachher:** Fünf Männer kehrten um, die anderen gingen zu ihren Familien
+  - **Option D (Falsch):**
+    - **Vorher:** Keiner, denn sie liefen alle zu den Priestern und sagten nichts
+    - **Nachher:** Drei Männer kehrten um, darunter zwei Priester aus Jerusalem
+
+### `lk_092` (Lukas 19:3-5)
+- **Frage:** Auf welchen Baum stieg Zachäus, um den vorbeiziehenden Jesus zu sehen?
+- **Richtige Antwort (unverändert, Option A):** Auf einen Maulbeerfeigenbaum
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Auf eine hohe Zeder
+    - **Nachher:** Auf die hohe Mauer der Stadt
+  - **Option C (Falsch):**
+    - **Vorher:** Auf einen Ölbaum
+    - **Nachher:** Auf das flache Dach des Hauses
+  - **Option D (Falsch):**
+    - **Vorher:** Auf einen Feigenbaum im Garten
+    - **Nachher:** Auf einen hohen Olivenbaum
+
+### `lk_094` (Lukas 19:11-13)
+- **Frage:** Wie viele Minen vertraute der edle Mann seinen zehn Knechten an?
+- **Richtige Antwort (unverändert, Option C):** Jedem eine Mine
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Jedem fünf Minen
+    - **Nachher:** Jedem zehn Minen
+  - **Option B (Falsch):**
+    - **Vorher:** Jedem zehn Talente
+    - **Nachher:** Jedem fünf Minen
+  - **Option D (Falsch):**
+    - **Vorher:** Allen zusammen eine Mine
+    - **Nachher:** Jedem zwei Minen
+
+### `lk_095` (Lukas 19:41-44)
+- **Frage:** Was tat Jesus, als Er beim Hinabsteigen vom Ölberg Jerusalem erblickte?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Er weinte über die Stadt
+    - **Nachher:** Er weinte über die Stadt Jerusalem
+  - **Option A (Falsch):**
+    - **Vorher:** Er sang ein Jubellied
+    - **Nachher:** Er stimmte einen Lobpreis an
+  - **Option B (Falsch):**
+    - **Vorher:** Er verfluchte die Tore
+    - **Nachher:** Er segnete die Mauern der Stadt
+  - **Option C (Falsch):**
+    - **Vorher:** Er forderte die Römer zum Kampf heraus
+    - **Nachher:** Er schwieg und senkte das Haupt
+
+### `lk_098` (Lukas 20:20-26)
+- **Frage:** Welche Münze ließ Sich Jesus zeigen bei der Fangfrage nach der Steuer?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Einen Denar
+    - **Nachher:** Einen römischen Denar
+  - **Option B (Falsch):**
+    - **Vorher:** Eine Kupfermünze
+    - **Nachher:** Eine silberne Münze
+
+### `lk_104` (Lukas 21:29-31)
+- **Frage:** An welchem Baum verdeutlicht Jesus das Nahen des Sommers im Gleichnis?
+- **Richtige Antwort (unverändert, Option A):** Am Feigenbaum und allen Bäumen
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** An der Zeder des Berges
+    - **Nachher:** Am Zedernbaum auf den Bergen
+  - **Option C (Falsch):**
+    - **Vorher:** Am Ölbaum im Garten
+    - **Nachher:** Am Ölbaum auf dem Ölberg
+  - **Option D (Falsch):**
+    - **Vorher:** Am Weinstock am Hang
+    - **Nachher:** Am Weinstock in den Weinbergen
+
+### `lk_106` (Lukas 22:3-6)
+- **Frage:** Welcher Apostel verhandelte mit den Hohenpriestern über den Verrat Jesu?
+- **Richtige Antwort (unverändert, Option C):** Judas Ischariot, einer der Zwölf
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Simon Petrus, einer der Zwölf, der den Hohenpriestern den Weg zeigte
+    - **Nachher:** Simon Petrus, einer der Zwölf
+  - **Option B (Falsch):**
+    - **Vorher:** Thomas, einer der Zwölf, der mit den Hohenpriestern verhandelte
+    - **Nachher:** Thomas, genannt Didymus
+  - **Option D (Falsch):**
+    - **Vorher:** Philippus, einer der Zwölf, der den Hohenpriestern den Ort verriet
+    - **Nachher:** Philippus, einer der zwölf Apostel
+
+### `lk_107` (Lukas 22:7-13)
+- **Frage:** Welches Zeichen wies den Jüngern den Weg zum Raum für das Passahmahl?
+- **Richtige Antwort (unverändert, Option D):** Ein Mann, der einen Wasserkrug trägt
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Ein Licht im Fenster
+    - **Nachher:** Ein helles Licht im obern Fenster
+  - **Option B (Falsch):**
+    - **Vorher:** Ein weißes Lamm vor der Tür
+    - **Nachher:** Ein weißes Lamm an der Haustür
+
+### `lk_112` (Lukas 23:18-25)
+- **Frage:** Welchen Gefangenen forderte das Volk von Pilatus freizulassen?
+- **Richtige Antwort (unverändert, Option A):** Barabbas, einen Aufrührer und Mörder
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Simon von Kyrene, einen Fremden, der vom Feld kam
+    - **Nachher:** Simon von Kyrene, einen Mann vom Felde
+  - **Option C (Falsch):**
+    - **Vorher:** Josef von Arimathäa, einen angesehenen Ratsherrn, der auf das Reich wartete
+    - **Nachher:** Josef von Arimathäa, einen Ratsherrn
+  - **Option D (Falsch):**
+    - **Vorher:** Nikodemus, einen Pharisäer und Lehrer des Gesetzes
+    - **Nachher:** Nikodemus, einen vornehmen Pharisäer
+
+### `lk_113` (Lukas 23:26)
+- **Frage:** Wer wurde gezwungen, das Kreuz Jesu nachzuführen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Simon von Kyrene, der vom Feld kam
+    - **Nachher:** Simon von Kyrene, der vom Felde kam
+  - **Option A (Falsch):**
+    - **Vorher:** Johannes, den Jünger, den er lieb hatte, der ihm folgte
+    - **Nachher:** Johannes, der Jünger, den Jesus liebhatte
+  - **Option C (Falsch):**
+    - **Vorher:** Josef von Arimathäa, den Ratsherrn, der Jesus begraben wollte
+    - **Nachher:** Josef von Arimathäa, der edle Ratsherr
+  - **Option D (Falsch):**
+    - **Vorher:** Petrus, den Fischer, der ihm zuvor das Schwert gezogen hatte
+    - **Nachher:** Simon Petrus, der ihm von ferne nachfolgte
+
+### `lk_114` (Lukas 23:39-43)
+- **Frage:** Was rief der bußfertige Übeltäter am Kreuz zu Jesus im Sterben?
+- **Richtige Antwort (unverändert, Option C):** Jesus, gedenke an mich, wenn du in dein Reich kommst
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Vergib den Soldaten
+    - **Nachher:** Vergib ihnen, denn sie wissen nicht, was sie tun
+  - **Option D (Falsch):**
+    - **Vorher:** Steig vom Kreuz herab
+    - **Nachher:** Steig nun herab vom Kreuz und rette dich selbst
+
+### `lk_118` (Lukas 24:28-35)
+- **Frage:** Wobei erkannten die beiden Emmausjünger den auferstandenen Herrn?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Beim Brotbrechen
+    - **Nachher:** Am Brechen des Brotes am Tisch
+  - **Option D (Falsch):**
+    - **Vorher:** Beim Beten des Vaterunsers
+    - **Nachher:** Beim gemeinsamen Abendgebet
+
+### `lk_121` (Lukas 1:38)
+- **Frage:** Wer sagte zum Engel: „Siehe, ich bin die Magd des Herrn! Mir geschehe nach deinem Wort!“ (Lukas 1:38)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Maria
+    - **Nachher:** Die Jungfrau Maria
+  - **Option B (Falsch):**
+    - **Vorher:** Martha
+    - **Nachher:** Die Dienerin Martha
+  - **Option C (Falsch):**
+    - **Vorher:** Elisabeth
+    - **Nachher:** Die betagte Elisabeth
+  - **Option D (Falsch):**
+    - **Vorher:** Hanna
+    - **Nachher:** Die Prophetin Hanna
+
+### `lk_122` (Lukas 2:29)
+- **Frage:** Wer sprach nach der Darstellung Jesu im Tempel: „Nun entlässt du deinen Diener in Frieden nach deinem Wort“ (Lukas 2:29)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Simeon
+    - **Nachher:** Der gerechte Greis Simeon
+  - **Option A (Falsch):**
+    - **Vorher:** Nikodemus
+    - **Nachher:** Der Ratsherr Nikodemus
+  - **Option C (Falsch):**
+    - **Vorher:** Zacharias
+    - **Nachher:** Der Priester Zacharias
+  - **Option D (Falsch):**
+    - **Vorher:** Josef
+    - **Nachher:** Der gerechte Mann Josef
+
+### `lk_124` (Lukas 10:31-32)
+- **Frage:** Wer ging nach Lukas 10:31-32 an dem überfallenen Mann vorüber, ohne ihm zu helfen?
+- **Richtige Antwort (unverändert, Option A):** Ein Priester
+- **Richtige Antwort (unverändert, Option D):** Ein Levit
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Der Wirt der Herberge
+    - **Nachher:** Ein Herbergswirt
+
+### `lk_125` (Lukas 1:38)
+- **Bibelstelle Vorher:** `Lukas 1:38; Lukas 2:7; Lukas 2:16; Matthäus 2:11; Matthäus 2:14` -> **Nachher:** `Lukas 1:38`
+- **Frage:** Bringe diese Ereignisse der Weihnachtsgeschichte in die richtige Reihenfolge.
+- **Richtige Antwort (unverändert, Option A):** Josef flieht mit Maria und dem Kind nach Ägypten
+- **Richtige Antwort (unverändert, Option B):** Die Hirten finden das Kind in der Krippe
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Die Weisen beten das Kind an
+    - **Nachher:** Die Weisen aus dem Morgenland beten das Kind an
+  - **Option D (Richtig):**
+    - **Vorher:** Jesus wird in Bethlehem geboren
+    - **Nachher:** Jesus wird zu Bethlehem in einer Krippe geboren
+  - **Option E (Richtig):**
+    - **Vorher:** Der Engel kündigt Maria die Geburt an
+    - **Nachher:** Der Engel kündigt Maria die Geburt des Heilands an
+
+### `lk_126` (Lukas 15:11-24)
+- **Bibelstelle Vorher:** `Lukas 15:12; Lukas 15:15; Lukas 15:20; Lukas 15:23` -> **Nachher:** `Lukas 15:11-24`
+- **Frage:** Bringe die Stationen im Gleichnis vom verlorenen Sohn nach Lukas 15 in die richtige Reihenfolge.
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Der Vater feiert ein Fest mit dem gemästeten Kalb
+    - **Nachher:** Der Vater feiert ein großes Fest mit dem gemästeten Kalb
+  - **Option B (Richtig):**
+    - **Vorher:** Er hütet in der Fremde die Schweine
+    - **Nachher:** Er hütet in der Ferne die Säue und leidet großen Mangel
+  - **Option C (Richtig):**
+    - **Vorher:** Der jüngere Sohn lässt sich sein Erbteil auszahlen
+    - **Nachher:** Der jüngere Sohn fordert das Erbteil und zieht in die Fremde
+  - **Option D (Richtig):**
+    - **Vorher:** Er kehrt heim und der Vater läuft ihm entgegen
+    - **Nachher:** Er kehrt um und der barmherzige Vater läuft ihm entgegen

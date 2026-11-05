@@ -1,0 +1,4322 @@
+{
+  "metadata": {
+    "quizId": "nt_03_lukas_alle_kapitel_en",
+    "title": "Luke",
+    "subtitle": "Luke 1:1 – 24:53 (126 questions)",
+    "author": "King James Version (1769)",
+    "version": "2.3.0",
+    "language": "en",
+    "category": "nt",
+    "difficulty": "medium",
+    "tags": [
+      "Luke",
+      "New Testament",
+      "Gospels",
+      "Gospel",
+      "Messiah",
+      "King James Version"
+    ],
+    "questionCount": 126,
+    "canonicalBookNumber": 42,
+    "testament": "NT"
+  },
+  "questions": [
+    {
+      "questionId": "lk_001",
+      "type": "single_choice",
+      "text": "Unto whom did Luke address his Gospel in the opening preface?",
+      "options": [
+        {
+          "text": "Unto the church in Rome",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto most excellent Theophilus",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Unto the elders at Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto the apostles in Galilee",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Luke 1:1-4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_002",
+      "type": "single_choice",
+      "text": "What office fell to the priest Zacharias when the angel of the Lord appeared?",
+      "options": [
+        {
+          "text": "Pouring the drink offering upon the altar",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Bearing the ark of the covenant before the people",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Burning incense when he went into the temple",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Cleansing the sacred table of shewbread",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Luke 1:8-12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_003",
+      "type": "single_choice",
+      "text": "What sign was given unto Zacharias because he believed not the angel's words?",
+      "options": [
+        {
+          "text": "He was made deaf for seven years and heard nothing",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He was smitten with blindness until the child was born",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "His right hand was withered so he could not sacrifice",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He was dumb, and not able to speak, until the day",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Luke 1:18-20",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_004",
+      "type": "single_choice",
+      "text": "In what month of Elisabeth's conception was Gabriel sent unto Mary?",
+      "options": [
+        {
+          "text": "In the sixth month of Elisabeth's conception",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "In the third month after Zacharias' course",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In the ninth month before the birth of John",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In the first month after fasting in the temple",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Luke 1:26-28",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_005",
+      "type": "single_choice",
+      "text": "What song of praise did Mary speak when visiting Elisabeth?",
+      "options": [
+        {
+          "text": "Blessed be the Lord God of Israel!",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "My soul doth magnify the Lord!",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Lord, now lettest thou thy servant depart in peace!",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Glory to God in the highest, and on earth peace!",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Luke 1:46-55",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_006",
+      "type": "single_choice",
+      "text": "Which Roman emperor made a decree that all the world should be taxed?",
+      "options": [
+        {
+          "text": "Caesar Tiberius",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Caesar Claudius",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Caesar Augustus",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Caesar Nero",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Luke 2:1-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_007",
+      "type": "single_choice",
+      "text": "Unto what group of people was the birth of the Saviour first announced?",
+      "options": [
+        {
+          "text": "Unto the chief priests in the temple",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto the wise men from the east",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto the scribes at Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto shepherds abiding in the field",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Luke 2:8-11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_008",
+      "type": "single_choice",
+      "text": "What sign did the angel give the shepherds to find the child?",
+      "options": [
+        {
+          "text": "The babe wrapped in swaddling clothes, lying in a manger",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A shining star resting over the house of the young child",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A golden tent at the border of Bethlehem for his resting",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A spotless lamb keeping watch before the door of the inn",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Luke 2:12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_009",
+      "type": "single_choice",
+      "text": "Which just and devout man in the temple blessed God upon beholding the child?",
+      "options": [
+        {
+          "text": "The Pharisee Nicodemus",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The just and devout Simeon",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The high priest Eli",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The doctor of law Gamaliel",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Luke 2:25-32",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_010",
+      "type": "single_choice",
+      "text": "How old was Jesus when He sat in the temple among the doctors?",
+      "options": [
+        {
+          "text": "Seven years old",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Ten years old",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Twelve years old",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Thirteen years old",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Luke 2:41-47",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "lk_011",
+      "type": "single_choice",
+      "text": "In which year of the reign of Tiberius Caesar did John begin his ministry?",
+      "options": [
+        {
+          "text": "In the fifth year of the reign of Caesar Augustus",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In the tenth year of the reign of Tiberius Caesar",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In the twentieth year of the reign of Tiberius",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In the fifteenth year of the reign of Tiberius Caesar",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Luke 3:1-2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_012",
+      "type": "single_choice",
+      "text": "Which prophet is quoted by Luke concerning the voice crying in the wilderness?",
+      "options": [
+        {
+          "text": "Esaias",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Jeremias",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Ezekiel",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Daniel",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Luke 3:4-6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "lk_013",
+      "type": "single_choice",
+      "text": "With what did John the Baptist proclaim the mightier One after him would baptize?",
+      "options": [
+        {
+          "text": "With water of Jordan unto repentance",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With the Holy Ghost and with fire",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "With holy anointing oil of sanctuary",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With burning brimstone of judgment",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Luke 3:16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_014",
+      "type": "single_choice",
+      "text": "Why did Herod the tetrarch shut up John the Baptist in prison?",
+      "options": [
+        {
+          "text": "Because he refused to pay the Roman tribute money",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because he stirred up an insurrection in the city",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For Herodias his brother Philip's wife, and all evils",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Because he baptized Roman soldiers in the river",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Luke 3:19-20",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_015",
+      "type": "single_choice",
+      "text": "About how old was Jesus when He began to be about His public ministry?",
+      "options": [
+        {
+          "text": "About twenty years of age",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "About forty years of age",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "About twenty-five years of age",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "About thirty years of age",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Luke 3:23",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "lk_016",
+      "type": "single_choice",
+      "text": "With what did Jesus resist the temptations of the devil in the wilderness?",
+      "options": [
+        {
+          "text": "With the written word of God",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "With calling legions of angels",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With threatening of judgment",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With steadfast, holy silence",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Luke 4:1-13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "lk_017",
+      "type": "single_choice",
+      "text": "From which prophet's book did Jesus read in the synagogue at Nazareth?",
+      "options": [
+        {
+          "text": "The book of the prophet Jeremiah",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The book of the prophet Esaias",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The book of the prophet Ezekiel",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The book of the prophet Daniel",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Luke 4:16-19",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "lk_018",
+      "type": "single_choice",
+      "text": "How did the people of Nazareth react to Jesus' words in the synagogue?",
+      "options": [
+        {
+          "text": "They received him with great joy and honour",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They asked him to perform many mighty miracles",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They were filled with wrath, and thrust him out of city",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "They brought all their sick to be healed at once",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Luke 4:28-30",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "lk_019",
+      "type": "single_choice",
+      "text": "What miracle did Jesus perform in Simon Peter's house at Capernaum?",
+      "options": [
+        {
+          "text": "He healed Simon's son of a palsy and ate bread there",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He multiplied the loaves for all the house and neighbours",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He cast out a legion of devils from a man in the house",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He healed Simon's wife's mother of a great fever",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Luke 4:38-39",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_020",
+      "type": "single_choice",
+      "text": "Why did Jesus suffer not the devils to speak when coming out of many?",
+      "options": [
+        {
+          "text": "Because they knew that he was Christ",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Because they blasphemed God with loud cries",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because the people were afraid of their words",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because it was not lawful on the sabbath day",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Luke 4:41",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_021",
+      "type": "single_choice",
+      "text": "At which body of water did the miraculous draught of fishes take place?",
+      "options": [
+        {
+          "text": "At the Red sea",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "At the lake of Gennesaret",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "At the river Jordan",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "At the Salt sea",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Luke 5:1-7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "lk_022",
+      "type": "single_choice",
+      "text": "How did Peter react when he saw the multitude of fishes they had enclosed?",
+      "options": [
+        {
+          "text": "He called the merchants of the market to sell and divide the great catch",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He asked of Jesus an earthly reward for himself and his partners",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He fell down at Jesus' knees, saying: Depart from me; for I am a sinful man",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He numbered all the great fishes and divided them equally among the ships",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Luke 5:8-9",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_023",
+      "type": "single_choice",
+      "text": "How did the men bring the man sick of the palsy unto Jesus through the crowd?",
+      "options": [
+        {
+          "text": "Through the front gate by force",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Through a secret cellar chamber",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Through an open side window",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Through the tiling upon the couch",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Luke 5:18-20",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "lk_024",
+      "type": "single_choice",
+      "text": "Whom did Jesus see sitting at the receipt of custom and call as a disciple?",
+      "options": [
+        {
+          "text": "Levi, a publican at the receipt of custom",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Zacchaeus, the chief among the publicans",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Simon, a Pharisee of high estate and wealth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Nicodemus, a ruler of the council of elders",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Luke 5:27-28",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_025",
+      "type": "single_choice",
+      "text": "What similitude did Jesus use for putting new wine into vessels?",
+      "options": [
+        {
+          "text": "Into old earthen pitchers",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Into new bottles",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Into wooden casks",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Into stone waterpots",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Luke 5:36-39",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "lk_026",
+      "type": "single_choice",
+      "text": "How did Jesus answer when the Pharisees accused His disciples on the sabbath?",
+      "options": [
+        {
+          "text": "By commanding that the sabbath laws be set aside entirely for all time",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By denying that his disciples had plucked or eaten the ears of corn",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By recalling what David did, when he did eat the shewbread",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "By calling down fire from heaven upon the murmuring Pharisees",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Luke 6:1-5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_027",
+      "type": "single_choice",
+      "text": "What did Jesus heal on the sabbath day in the synagogue before His accusers?",
+      "options": [
+        {
+          "text": "A blind man with spittle and clay",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A man taken with palsy on a couch",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A deaf man by touching of his ears",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A man whose right hand was withered",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Luke 6:6-11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "lk_028",
+      "type": "single_choice",
+      "text": "What did Jesus do in the night before He chose His twelve apostles?",
+      "options": [
+        {
+          "text": "He continued all night in prayer to God",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He fasted and prayed alone in the temple",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He wrote their names upon a holy scroll",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He walked in silence by the sea of Galilee",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Luke 6:12-13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_029",
+      "type": "single_choice",
+      "text": "What promise did Jesus speak unto the poor in the Beatitudes?",
+      "options": [
+        {
+          "text": "For they shall inherit the whole earth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For yours is the kingdom of God",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Ye shall be delivered from all taxation",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Ye shall have a long life and many goods",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Luke 6:20-23",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "lk_030",
+      "type": "single_choice",
+      "text": "Upon what did the wise man build his house in the parable of Jesus?",
+      "options": [
+        {
+          "text": "Upon clay ground which he smoothed with care",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Upon sea sand which he bound with rocks",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Upon a rock, having digged deep",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Upon wooden pillars fastened in the river",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Luke 6:47-49",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_031",
+      "type": "single_choice",
+      "text": "What testimony of faith did the centurion at Capernaum send unto Jesus?",
+      "options": [
+        {
+          "text": "I have given much gold unto the holy temple",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Come down into my house and heal my servant",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I have fasted three days and nights for him",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Say in a word, and my servant shall be healed",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Luke 7:1-10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "lk_032",
+      "type": "single_choice",
+      "text": "In what city did Jesus raise from the dead the only son of a widow?",
+      "options": [
+        {
+          "text": "In the city of Nain",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "In Bethany near mount Olivet",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In the city of Capernaum",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In the city of Jericho",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Luke 7:11-17",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "lk_033",
+      "type": "single_choice",
+      "text": "What question did John the Baptist send his disciples to ask of Jesus?",
+      "options": [
+        {
+          "text": "When wilt thou deliver me from prison that I may serve thee again?",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Art thou he that should come? or look we for another?",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Why do not thy disciples fast as do the disciples of John?",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "When wilt thou drive out the Romans and set up the kingdom?",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Luke 7:18-23",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_034",
+      "type": "single_choice",
+      "text": "With what did the woman which was a sinner wash and anoint the feet of Jesus?",
+      "options": [
+        {
+          "text": "With olive oil, her tears, and the hairs of her head",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With cold water, her tears, and her costly veil",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With ointment, her tears, and the hairs of her head",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "With spices from the temple, her tears, and her veil",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Luke 7:36-50",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "lk_035",
+      "type": "single_choice",
+      "text": "What parable did Jesus speak unto Simon the Pharisee concerning forgiveness?",
+      "options": [
+        {
+          "text": "Of a sower who cast seed upon various ground",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Of a shepherd seeking one lost sheep in desert",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Of a loving father welcoming home his prodigal son",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Of a certain creditor which had two debtors",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Luke 7:40-43",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_036",
+      "type": "single_choice",
+      "text": "Which women ministered unto Jesus and His disciples of their substance?",
+      "options": [
+        {
+          "text": "Mary Magdalene, Joanna, and Susanna",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Martha, Mary, and their mother Salome",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Elisabeth, Anna, and the wife of Zebedee",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Rebekah, Rachel, and Miriam of Judah",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Luke 8:1-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_037",
+      "type": "single_choice",
+      "text": "What is signified by the good ground in the parable of the sower?",
+      "options": [
+        {
+          "text": "The rich who give much alms and show forth their charity publicly",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They which in an honest and good heart hear, keep, and bring forth fruit",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The scribes in the sanctuary who expound and teach the word carefully",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The Pharisees with their traditions who strictly observe the whole law",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Luke 8:11-15",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_038",
+      "type": "single_choice",
+      "text": "What was the name of the unclean spirits in the country of the Gadarenes?",
+      "options": [
+        {
+          "text": "Beelzebub, for the chief of the devils had entered into him",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Belial, for the lord of the deep had taken possession of him",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Legion, because many devils were entered into him",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Satan, for the adversary had bound him and vexed him sore",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Luke 8:26-30",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "lk_039",
+      "type": "single_choice",
+      "text": "How old was the only daughter of Jairus whom Jesus raised from the dead?",
+      "options": [
+        {
+          "text": "Seven years old",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Ten years old",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Thirteen years old",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Twelve years of age",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Luke 8:40-56",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_040",
+      "type": "single_choice",
+      "text": "What healed the woman having an issue of blood twelve years in the press?",
+      "options": [
+        {
+          "text": "Touching the border of his garment in faith",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The long prayers of the disciples standing round",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The laying on of his hands upon her head",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Washing in the pool of Siloam as commanded",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Luke 8:43-48",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "lk_041",
+      "type": "single_choice",
+      "text": "What power did Jesus give unto the twelve apostles when He sent them forth?",
+      "options": [
+        {
+          "text": "Power over Roman soldiers and all the rulers of the province",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Power and authority over all devils, and to cure diseases",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Power to gather tribute and govern the treasury of the realm",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Power to build synagogues and keep the people in good order",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Luke 9:1-6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_042",
+      "type": "single_choice",
+      "text": "Who was it said by some that Jesus was, causing Herod the tetrarch perplexity?",
+      "options": [
+        {
+          "text": "That Elias had appeared again to gather the people of Israel",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That he was the king of the Jews who would fight against Rome",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That John the Baptist was risen from the dead",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "That he was the high priest of the new covenant in the temple",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Luke 9:7-9",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_043",
+      "type": "single_choice",
+      "text": "How many baskets full of fragments remained after the feeding of the five thousand?",
+      "options": [
+        {
+          "text": "Seven baskets",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Three baskets",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "No baskets at all",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Twelve baskets",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Luke 9:12-17",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "lk_044",
+      "type": "single_choice",
+      "text": "What confession did Peter make when Jesus asked whom the disciples said He was?",
+      "options": [
+        {
+          "text": "The Christ of God",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "One of the old prophets risen",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Elias the prophet appeared",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The great master of Israel",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Luke 9:18-20",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_045",
+      "type": "single_choice",
+      "text": "Which prophets appeared in glory and spake with Jesus of His decease?",
+      "options": [
+        {
+          "text": "Abraham and Isaac",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Moses and Elias",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "David and Solomon",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Samuel and Daniel",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Luke 9:28-31",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "lk_046",
+      "type": "single_choice",
+      "text": "How many other disciples did the Lord appoint and send two and two before Him?",
+      "options": [
+        {
+          "text": "Fifty",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "An hundred",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Seventy",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Twelve",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Luke 10:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "lk_047",
+      "type": "single_choice",
+      "text": "What did Jesus say He beheld fall from heaven as lightning when the seventy returned?",
+      "options": [
+        {
+          "text": "A star falling as lightning from heaven and burning",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A host of angels descending as lightning from heaven",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A flame of fire falling as lightning upon the earth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Satan as lightning fall from heaven",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Luke 10:17-18",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_048",
+      "type": "single_choice",
+      "text": "Who had compassion and helped the wounded man after the priest and Levite passed by?",
+      "options": [
+        {
+          "text": "A certain Samaritan",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A wealthy merchant",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A Roman centurion",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A ruler of Pharisees",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Luke 10:30-37",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "lk_049",
+      "type": "single_choice",
+      "text": "Where did Mary sit while her sister Martha was cumbered about much serving?",
+      "options": [
+        {
+          "text": "In the kitchen preparing the food for all the guests",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "At Jesus' feet, and heard his word",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Before the house with the company who waited",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In the garden binding up flowers for the table",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Luke 10:38-42",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_050",
+      "type": "single_choice",
+      "text": "What did Jesus answer Martha concerning Mary's choice?",
+      "options": [
+        {
+          "text": "Martha hath right; help her at once and serve the company",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Both sisters do the same thing, for both serve the Lord",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Mary hath chosen that good part, which shall not be taken away",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Labour cometh before prayer, for service is better than hearing",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Luke 10:41-42",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_051",
+      "type": "single_choice",
+      "text": "What petition did one of His disciples make unto Jesus when He ceased praying?",
+      "options": [
+        {
+          "text": "Teach us to do signs",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Show us the way to God",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Give us power over Rome",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Lord, teach us to pray",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Luke 11:1-4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_052",
+      "type": "single_choice",
+      "text": "With what truth did Jesus answer those who said He cast out devils through Beelzebub?",
+      "options": [
+        {
+          "text": "Every kingdom divided against itself is brought to desolation",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Beelzebub existeth not, being only an imagination of the mind",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Devils obey only the priests who conjure them in God's name",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Devils fear no ruler whatsoever, not even their own prince",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Luke 11:14-20",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "lk_053",
+      "type": "single_choice",
+      "text": "What sign did Jesus say should be given unto this evil generation?",
+      "options": [
+        {
+          "text": "The darkening of the sun at midday",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The sign of Jonas the prophet",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The parting of the sea as with Moses",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Chariots of fire appearing in heaven",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Luke 11:29-32",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "lk_054",
+      "type": "single_choice",
+      "text": "What did Jesus call the light of the body in His teaching?",
+      "options": [
+        {
+          "text": "The heart",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The mind",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The eye",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The spirit",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Luke 11:34-36",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "lk_055",
+      "type": "single_choice",
+      "text": "What did Jesus reprove concerning the Pharisees' washing before meat?",
+      "options": [
+        {
+          "text": "They ate without prayer, neither giving thanks unto God",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They gave no bread unto the poor and shut up their doors",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They refused unleavened bread and ate only leavened cakes",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They make clean the outside, but their inward part is full of ravening",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Luke 11:37-41",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_056",
+      "type": "single_choice",
+      "text": "Against what leaven of the Pharisees did Jesus warn His disciples first of all?",
+      "options": [
+        {
+          "text": "The leaven of hypocrisy",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Their covetousness of gold",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Their friendship with Rome",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Their ignorance of the law",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Luke 12:1-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "lk_057",
+      "type": "single_choice",
+      "text": "Why did God call the rich man who pulled down his barns a fool?",
+      "options": [
+        {
+          "text": "Because he built his barns too narrow and the wheat spoiled",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because this night his soul should be required of him",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Because he sold not his corn at a high price and lost gain",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because he gave no bread unto the poor and hardened his heart",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Luke 12:16-21",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_058",
+      "type": "single_choice",
+      "text": "Which birds did Jesus tell His disciples to consider, that neither sow nor reap?",
+      "options": [
+        {
+          "text": "The eagles",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The sparrows",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The ravens",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The doves",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Luke 12:22-24",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "lk_059",
+      "type": "single_choice",
+      "text": "What did Jesus say concerning the heart in relation to earthly and heavenly treasure?",
+      "options": [
+        {
+          "text": "Gold in the hand maketh the heart joyful and strong",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A divided heart can gather treasures both here and above",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The heart of man careth only for that which perisheth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For where your treasure is, there will your heart be also",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Luke 12:33-34",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "lk_060",
+      "type": "single_choice",
+      "text": "What shall happen unto that servant which knew his lord's will and prepared not himself?",
+      "options": [
+        {
+          "text": "He shall be beaten with many stripes",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He shall be beaten with few stripes",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He shall be cast into outer darkness",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He shall be pardoned for his neglect",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Luke 12:47-48",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_061",
+      "type": "single_choice",
+      "text": "Which two calamities did Jesus mention as warnings unto all except they repent?",
+      "options": [
+        {
+          "text": "The famine in Samaria and the pestilence in the valley of Jordan",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The fall of the tower in Siloam and the Galileans whose blood Pilate mingled",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The burning of the temple gates and the earthquake in the wilderness",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The destruction of Sodom and the drowning of Pharaoh's host in the sea",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Luke 13:1-5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "lk_062",
+      "type": "single_choice",
+      "text": "For how many years had the woman in the synagogue a spirit of infirmity and was bowed together?",
+      "options": [
+        {
+          "text": "Seven years",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Twelve years",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Eighteen years",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Thirty years",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Luke 13:10-17",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "lk_063",
+      "type": "single_choice",
+      "text": "Unto what did Jesus liken the kingdom of God in Luke 13:20-21?",
+      "options": [
+        {
+          "text": "Unto a grain of mustard seed, which a man sowed in his garden",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto a spark of fire in the straw, kindling a great blaze",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto the dew of Hermon, that covereth all the mountain hills",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto leaven, which a woman took and hid in three measures of meal",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Luke 13:20-21",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_064",
+      "type": "single_choice",
+      "text": "Through what did Jesus command the people to strive to enter in?",
+      "options": [
+        {
+          "text": "At the strait gate",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Through the wide door",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Over the high wall",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Into the broad path",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Luke 13:23-30",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "lk_065",
+      "type": "single_choice",
+      "text": "What animal did Jesus call King Herod when told that Herod would kill Him?",
+      "options": [
+        {
+          "text": "A wolf",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A fox",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A lion",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A serpent",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Luke 13:31-33",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_066",
+      "type": "single_choice",
+      "text": "What disease had the man whom Jesus healed on the sabbath in the Pharisee's house?",
+      "options": [
+        {
+          "text": "The palsy",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The leprosy",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The dropsy",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A fever",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Luke 14:1-6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "lk_067",
+      "type": "single_choice",
+      "text": "What room or place did Jesus advise a guest to take when bidden to a wedding feast?",
+      "options": [
+        {
+          "text": "The highest room",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The chief seat",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The middle table",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The lowest room",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Luke 14:7-11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "lk_068",
+      "type": "single_choice",
+      "text": "Whom did the master of the house command his servant to bring in to the great supper?",
+      "options": [
+        {
+          "text": "The poor, and the maimed, and the halt, and the blind",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The wealthy merchants trading in markets of the city",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The Roman centurions garrisoned within the castle",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The honourable rulers and elders throughout the land",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Luke 14:15-24",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "lk_069",
+      "type": "single_choice",
+      "text": "What work did Jesus use as an example of sitting down first and counting the cost?",
+      "options": [
+        {
+          "text": "Building a city wall",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Intending to build a tower",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Digging a great well",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Planting a new vineyard",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Luke 14:28-30",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "lk_070",
+      "type": "single_choice",
+      "text": "What did Jesus say concerning salt that hath lost his savour?",
+      "options": [
+        {
+          "text": "It can be salted again by fire and renewed unto good use",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It is kept within the storehouse against the winter days",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It is neither fit for the land, nor yet for the dunghill; but cast out",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "It is used for the building of walls and laid into the stones",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Luke 14:34-35",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "lk_071",
+      "type": "single_choice",
+      "text": "How did the shepherd react in the parable upon finding his lost sheep?",
+      "options": [
+        {
+          "text": "He beat it back into the fold with many stripes and bound it",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He sold it in the market and returned unto the ninety and nine",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He shut it up thirty days that it might not wander anymore",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He layeth it on his shoulders, rejoicing",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Luke 15:3-7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "lk_072",
+      "type": "single_choice",
+      "text": "How many pieces of silver had the woman in the parable before she lost one piece?",
+      "options": [
+        {
+          "text": "Ten pieces of silver",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Five pieces of silver",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Twenty pieces of silver",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "An hundred pieces of silver",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Luke 15:8-10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "lk_073",
+      "type": "single_choice",
+      "text": "With what did the prodigal son fain have filled his belly in the far country?",
+      "options": [
+        {
+          "text": "With dry barley bread of his master",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With the husks that the swine did eat",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "With scraps from the rich men's tables",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With wild fruit gathered in the woods",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Luke 15:14-16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_074",
+      "type": "single_choice",
+      "text": "What gifts did the father command the servants to bring forth for the returned son?",
+      "options": [
+        {
+          "text": "A house, a field, and much money to begin his life anew",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A flock of an hundred sheep to replace all that was lost",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The best robe, a ring on his hand, shoes, and the fatted calf",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Armour against his enemies that he might defend his portion",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Luke 15:22-24",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "lk_075",
+      "type": "single_choice",
+      "text": "How did the elder brother react when he heard music and dancing for the younger son?",
+      "options": [
+        {
+          "text": "He ran with haste and embraced his brother with joy",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He gave back his entire portion of goods unto his father",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He left the house of his father for ever in great sorrow",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He was angry, and would not go in",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Luke 15:25-32",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "lk_076",
+      "type": "single_choice",
+      "text": "Why did the lord commend the unjust steward after he was accused of wasting his goods?",
+      "options": [
+        {
+          "text": "Because he had done wisely",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Because he repaid all the money",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because he punished the debtors",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because he gave the lord a gift",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Luke 16:1-8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_077",
+      "type": "single_choice",
+      "text": "What principle did Jesus declare concerning faithfulness in small and great things?",
+      "options": [
+        {
+          "text": "He that is faithful in great things may stumble in that which is least",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He that is faithful in that which is least is faithful also in much",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Faithfulness is measured only by the abundance of gold and goods",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He that maketh a fault shall forfeit his inheritance for ever",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Luke 16:10-12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "lk_078",
+      "type": "single_choice",
+      "text": "What two masters did Jesus say no servant can serve together?",
+      "options": [
+        {
+          "text": "Serving the priests and the Romans",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Serving in temple and in the field",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Ye cannot serve God and mammon",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Serving the kindred and the city",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Luke 16:13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "lk_079",
+      "type": "single_choice",
+      "text": "Where was the soul of the beggar Lazarus carried by the angels after he died?",
+      "options": [
+        {
+          "text": "Unto the holy mount of Zion",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Into the garden of paradise",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Into the glory of heaven",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Into Abraham's bosom",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Luke 16:19-31",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "lk_080",
+      "type": "single_choice",
+      "text": "Unto whom did Abraham refer the rich man that his five brethren might hear them?",
+      "options": [
+        {
+          "text": "They have Moses and the prophets",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Unto the high priests in temple",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto the scribes and Pharisees",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto the messengers of heaven",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Luke 16:27-31",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "lk_081",
+      "type": "single_choice",
+      "text": "What could faith as a grain of mustard seed do unto a sycamine tree?",
+      "options": [
+        {
+          "text": "Remove the temple unto a mountain and lay the stones anew",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Say unto this sycamine tree, Be thou plucked up and planted in the sea",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Drive out the Roman legions and deliver all the captive people",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Dry up the deep sea that men might pass through upon dry ground",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Luke 17:5-6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "lk_082",
+      "type": "single_choice",
+      "text": "How many of the ten cleansed lepers turned back to glorify God and give thanks?",
+      "options": [
+        {
+          "text": "All ten turned back, glorifying God with a loud voice",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Five of the men returned, being Jews of the country",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "One only, and he was a Samaritan",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "None of them returned, for all ran unto the priests",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Luke 17:11-19",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_083",
+      "type": "single_choice",
+      "text": "What did Jesus answer the Pharisees when demanded when the kingdom of God should come?",
+      "options": [
+        {
+          "text": "It cometh with great outward signs",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It shall be set up in royal Rome",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It beginneth after a thousand years",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The kingdom of God is within you",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Luke 17:20-21",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_084",
+      "type": "single_choice",
+      "text": "Whom did Jesus say to remember in the day when the Son of man is revealed?",
+      "options": [
+        {
+          "text": "Remember Lot's wife",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Remember Noah's wife",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Remember Solomon's wife",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Remember Hosea's wife",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Luke 17:31-33",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "lk_085",
+      "type": "single_choice",
+      "text": "Where did Jesus say the eagles will be gathered together?",
+      "options": [
+        {
+          "text": "Upon the peaks of Sinai where the vultures build their high nests",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Wheresoever the body is, thither will the eagles be gathered together",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Over the gates of Jerusalem where the ravens fly in circles",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In the caves by the Salt sea where the birds of prey abide",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Luke 17:37",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "lk_086",
+      "type": "single_choice",
+      "text": "Why did the unjust judge finally avenge the widow of her adversary?",
+      "options": [
+        {
+          "text": "Because he suddenly feared God in his heart",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because the disciples gave him much money",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because this widow troubleth me, lest she weary me",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Because the Roman governor commanded him",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Luke 18:1-8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_087",
+      "type": "single_choice",
+      "text": "How did the proud Pharisee pray within himself in the temple before God?",
+      "options": [
+        {
+          "text": "He confessed his sins and pleaded for mercy",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He pleaded for mercy upon all the people",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He read with many tears out of the Psalms",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He trusted in himself that he was righteous",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Luke 18:9-14",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "lk_088",
+      "type": "single_choice",
+      "text": "What humble prayer did the publican make standing afar off in the temple?",
+      "options": [
+        {
+          "text": "God be merciful to me a sinner",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "I have brought costly sacrifices",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I will build a great synagogue",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I have done many righteous works",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Luke 18:13-14",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_089",
+      "type": "single_choice",
+      "text": "Unto what beast did Jesus liken the difficulty of a rich man entering God's kingdom?",
+      "options": [
+        {
+          "text": "A lion before a narrow city gate",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A camel going through a needle's eye",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "An ox passing through a narrow lane",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "An ass upon a perilous bridge",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Luke 18:24-27",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_090",
+      "type": "single_choice",
+      "text": "What cry did the blind man by the wayside near Jericho continually cry unto Jesus?",
+      "options": [
+        {
+          "text": "Master, give me bread, for I am a poor and hungry man!",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Show me the way to the temple, for I am blind and lost!",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Jesus, thou Son of David, have mercy on me!",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Forgive me my sins, for I am weak and afflicted with grief!",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Luke 18:35-43",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "lk_091",
+      "type": "single_choice",
+      "text": "What office and condition did Zacchaeus have in the city of Jericho?",
+      "options": [
+        {
+          "text": "He was a poor beggar at the gate living of common alms",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He was a priest in the temple living of the holy tithes",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He was a Roman centurion in the city commanding soldiers",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He was the chief among the publicans, and he was rich",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Luke 19:1-2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_092",
+      "type": "single_choice",
+      "text": "Into what tree did Zacchaeus climb up to see Jesus as He passed by?",
+      "options": [
+        {
+          "text": "He climbed up into a sycomore tree",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He climbed upon the wall of the city",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He went up to the flat housetop",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He climbed upon a tall olive tree",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Luke 19:3-5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "lk_093",
+      "type": "single_choice",
+      "text": "What vow did Zacchaeus make unto the Lord after receiving Him joyfully into his house?",
+      "options": [
+        {
+          "text": "To give away all his goods at once and live as a poor beggar",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To give half of goods to poor, and restore fourfold if taken falsely",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "To depart into wilderness and fast as a hermit in solitude",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To give his house unto the temple and dwell among the priests",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Luke 19:8-10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "lk_094",
+      "type": "single_choice",
+      "text": "How many pounds did the nobleman deliver unto his ten servants?",
+      "options": [
+        {
+          "text": "Ten pounds each",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Five pounds each",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "One pound each",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Two pounds each",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Luke 19:11-13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "lk_095",
+      "type": "single_choice",
+      "text": "What did Jesus do when He came near and beheld the city of Jerusalem?",
+      "options": [
+        {
+          "text": "He sang a psalm of praise",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He blessed the holy walls",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He kept silence on the way",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He wept over the city of Zion",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Luke 19:41-44",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "lk_096",
+      "type": "single_choice",
+      "text": "What counter question did Jesus ask the chief priests concerning His authority?",
+      "options": [
+        {
+          "text": "The baptism of John, was it from heaven, or of men?",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Was the sacrifice of Solomon accepted from heaven or of men?",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Which commandment is the first of all, and who gave it to Moses?",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Who commanded the building of the temple, and who finished it?",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Luke 20:1-8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_097",
+      "type": "single_choice",
+      "text": "What did the wicked husbandmen do unto the beloved son of the lord of the vineyard?",
+      "options": [
+        {
+          "text": "They received him with great joy and delivered the vineyard",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They cast him out of the vineyard, and killed him",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "They paid him the full fruits of the season and made peace",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They bound him and sent him unto Rome for Caesar to judge",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Luke 20:9-16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_098",
+      "type": "single_choice",
+      "text": "What coin did Jesus ask them to shew Him when they sought to entangle Him in talk?",
+      "options": [
+        {
+          "text": "A gold shekel of the temple",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A piece of silver money",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A Roman tribute penny",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Thirty pieces of silver",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Luke 20:20-26",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "lk_099",
+      "type": "single_choice",
+      "text": "Which sect among the Jews denied that there is any resurrection?",
+      "options": [
+        {
+          "text": "The Pharisees",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The Herodians",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The Essenes",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The Sadducees",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Luke 20:27-40",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "lk_100",
+      "type": "single_choice",
+      "text": "How did Jesus confound the scribes concerning David's words in the Psalms?",
+      "options": [
+        {
+          "text": "David therefore calleth him Lord, how is he then his son?",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "David named him only a servant of the Lord in the psalm",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "David called him an angel coming down with great glory",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "David prophesied that he should reign as earthly king",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Luke 20:41-44",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_101",
+      "type": "single_choice",
+      "text": "What did the poor widow cast into the treasury of the temple?",
+      "options": [
+        {
+          "text": "One silver denarius",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Two mites of brass",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Ten pieces of silver",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A golden half-shekel",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Luke 21:1-4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "lk_102",
+      "type": "single_choice",
+      "text": "What signs did Jesus foretell before the destruction of the temple?",
+      "options": [
+        {
+          "text": "The parting of the Jordan, falling of stars, and opening of tombs",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The drying up of the Euphrates and the fall of the walls of Rome",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Wars, commotions, great earthquakes, famines, and pestilences",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A rain of fire on the mount of Olives and darkness for forty days",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Luke 21:5-11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "lk_103",
+      "type": "single_choice",
+      "text": "Until when did Jesus say Jerusalem shall be trodden down of the Gentiles?",
+      "options": [
+        {
+          "text": "Until the sanctuary is rebuilt",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Until seventy weeks are accomplished",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Until all the tribes return from exile",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Until the times of the Gentiles be fulfilled",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Luke 21:20-24",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "lk_104",
+      "type": "single_choice",
+      "text": "By which tree did Jesus illustrate the approach of summer in His parable?",
+      "options": [
+        {
+          "text": "The fig tree, and all the trees",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The cedar tree upon the mountains",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The olive tree upon mount Olivet",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The fruitful vine in the vineyard",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Luke 21:29-31",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "lk_105",
+      "type": "single_choice",
+      "text": "Where did Jesus abide at night when teaching in the temple by day?",
+      "options": [
+        {
+          "text": "In the city of Capernaum",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In the mount of Olives",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "In the palace of Pilate",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In the town of Nazareth",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Luke 21:37-38",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "lk_106",
+      "type": "single_choice",
+      "text": "Which apostle communed with the chief priests how he might betray Jesus unto them?",
+      "options": [
+        {
+          "text": "Simon Peter, one of the twelve",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Thomas, called Didymus",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Judas Iscariot, one of the twelve",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Philip, one of the twelve apostles",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Luke 22:3-6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "lk_107",
+      "type": "single_choice",
+      "text": "What sign guided Peter and John unto the guestchamber for the passover?",
+      "options": [
+        {
+          "text": "A burning light in an upper chamber",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A spotless lamb bound at the door",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "An open guestchamber with carpets",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A man bearing a pitcher of water",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Luke 22:7-13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_108",
+      "type": "single_choice",
+      "text": "What strife arose among the disciples at the last supper?",
+      "options": [
+        {
+          "text": "Which of them should be accounted the greatest",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Who should bear the bag of money for the feast",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Who should sit on the right hand of the Master",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Which of them should draw the sword first",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Luke 22:24-27",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_109",
+      "type": "single_choice",
+      "text": "How often did Jesus foretell that Peter should deny Him before the cock crowed?",
+      "options": [
+        {
+          "text": "Once before the night watch",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Thrice this day before cock crow",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Seven times before morning",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Twice before sunrise",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Luke 22:31-34",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "lk_110",
+      "type": "single_choice",
+      "text": "What happened unto Jesus as He prayed in agony in the mount of Olives?",
+      "options": [
+        {
+          "text": "He was smitten with sudden blindness and fell upon the rocky earth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Legions of holy angels surrounded him and bore him up on wings",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "His sweat was as it were great drops of blood falling to ground",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The stars were darkened and thick blackness covered the mount",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Luke 22:43-44",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_111",
+      "type": "single_choice",
+      "text": "Unto whom did Pilate send Jesus when he heard that He was of Galilee?",
+      "options": [
+        {
+          "text": "Unto Caesar at Rome",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto the ruler of Tyre",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto the council of Athens",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto Herod the tetrarch",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Luke 23:6-12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "lk_112",
+      "type": "single_choice",
+      "text": "Which prisoner did the multitude cry out for Pilate to release unto them?",
+      "options": [
+        {
+          "text": "Barabbas, cast into prison for murder",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Simon of Cyrene, coming out of country",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Joseph of Arimathaea, a counsellor",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Nicodemus, a ruler of the Pharisees",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Luke 23:18-25",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_113",
+      "type": "single_choice",
+      "text": "Whom did the soldiers compel to bear the cross after Jesus?",
+      "options": [
+        {
+          "text": "John, the disciple whom Jesus loved",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Simon of Cyrene, coming out of field",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Joseph of Arimathaea, the counsellor",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Simon Peter, following afar off",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Luke 23:26",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "lk_114",
+      "type": "single_choice",
+      "text": "What did the repentant malefactor say unto Jesus on the cross?",
+      "options": [
+        {
+          "text": "If thou be Christ, save thyself and us here",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Father, forgive them; for they know not what they do",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Lord, remember me when thou comest into thy kingdom",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Save thyself now and come down from the cross",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Luke 23:39-43",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_115",
+      "type": "single_choice",
+      "text": "Who begged the body of Jesus from Pilate and laid It in a sepulchre?",
+      "options": [
+        {
+          "text": "Nicodemus and the holy women from Galilee",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Peter and John, the two foremost apostles",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The Roman centurion who kept watch at cross",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Joseph of Arimathaea, a counsellor",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Luke 23:50-56",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "lk_116",
+      "type": "single_choice",
+      "text": "Who stood by the women at the sepulchre early in the morning?",
+      "options": [
+        {
+          "text": "Two men stood by them in shining garments",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The Roman soldiers keeping watch with spears",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Peter and John standing alone at the cave",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The gardener of the place with his tools",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Luke 24:1-8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_117",
+      "type": "single_choice",
+      "text": "Unto which village were two disciples walking when the risen Jesus drew near?",
+      "options": [
+        {
+          "text": "Unto Jericho",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto Emmaus",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Unto Nazareth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto Capernaum",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Luke 24:13-16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "lk_118",
+      "type": "single_choice",
+      "text": "In what action did the two disciples at Emmaus recognize the risen Lord?",
+      "options": [
+        {
+          "text": "When beholding the wounds in hands",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "When he called them by their names",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In the breaking of bread at table",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "When he blessed the evening cup",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Luke 24:28-35",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "lk_119",
+      "type": "single_choice",
+      "text": "What did Jesus eat before the apostles to show His bodily resurrection?",
+      "options": [
+        {
+          "text": "Unleavened bread and fish from fire by the sea",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Figs from the tree and a cup of wine from table",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Flesh of the lamb and water from the deep well",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A piece of a broiled fish, and of an honeycomb",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Luke 24:36-43",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_120",
+      "type": "single_choice",
+      "text": "From what place was Jesus parted from them and carried up into heaven?",
+      "options": [
+        {
+          "text": "As far as to Bethany by the mount",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "From the high summit of Mount Sinai",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Before the great portal of the temple",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By the shore of the sea of Galilee",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Luke 24:50-53",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "lk_121",
+      "type": "single_choice",
+      "text": "Who said unto the angel: 'Behold the handmaid of the Lord; be it unto me according to thy word' (Luke 1:38)?",
+      "options": [
+        {
+          "text": "The virgin Mary",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Martha of Bethany",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Elisabeth the wife",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Anna the prophetess",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Luke 1:38",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "lk_122",
+      "type": "single_choice",
+      "text": "Who said in the temple: 'Lord, now lettest thou thy servant depart in peace, according to thy word' (Luke 2:29)?",
+      "options": [
+        {
+          "text": "The ruler Nicodemus",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The just man Simeon",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The priest Zacharias",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Joseph of Nazareth",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Luke 2:29",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_123",
+      "type": "single_choice",
+      "text": "Who said unto Jesus on the cross: 'Lord, remember me when thou comest into thy kingdom' (Luke 23:42)?",
+      "options": [
+        {
+          "text": "Barabbas the prisoner released",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Joseph of Arimathaea the ruler",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "One of the malefactors crucified with him",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The Roman centurion under the cross",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Luke 23:42",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "lk_124",
+      "type": "multiple_choice",
+      "text": "According to Luke 10:31-32, who passed by on the other side and helped not the wounded man?",
+      "options": [
+        {
+          "text": "A priest",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The host",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A Samaritan",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A Levite",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0,
+        3
+      ],
+      "bibleReference": "Luke 10:31-32",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "lk_125",
+      "type": "ordering",
+      "text": "Put these events of the nativity story in the correct chronological order.",
+      "options": [
+        {
+          "text": "Joseph fleeth with Mary and the young child into Egypt",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The shepherds find the babe lying in a manger",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The wise men from the east fall down and worship him",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Jesus is born in Bethlehem and laid in a manger",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The angel Gabriel announces the holy birth unto Mary",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        4,
+        3,
+        1,
+        2,
+        0
+      ],
+      "bibleReference": "Luke 1:38",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "lk_126",
+      "type": "ordering",
+      "text": "Put the events in the parable of the prodigal son (Luke 15) in the correct chronological order.",
+      "options": [
+        {
+          "text": "The father maketh a feast and killeth the fatted calf",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He feedeth swine in the far country and is in want",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The younger son claimeth his portion of goods and departeth",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He ariseth to return and the father runneth to meet him",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2,
+        1,
+        3,
+        0
+      ],
+      "bibleReference": "Luke 15:11-24",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    }
+  ]
+}
