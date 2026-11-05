@@ -41,7 +41,8 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
 | `33_micha.json` | 21 | 21 | 17 | 21 | 2 |
 | `34_nahum.json` | 16 | 16 | 11 | 16 | 4 |
 | `35_habakuk.json` | 18 | 10 | 0 | 10 | 4 |
-| **Gesamt (35 Dateien)** | **3330** | **1529** | **1023** | **1382** | **79** |
+| `36_zephanja.json` | 18 | 10 | 1 | 8 | 5 |
+| **Gesamt (36 Dateien)** | **3348** | **1539** | **1024** | **1390** | **84** |
 
 ## 01_1_mose.json – 1. Mose (Genesis) (Schlachter (Revision von 1951))
 
@@ -21751,3 +21752,135 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
   - **Option D (Falsch):**
     - **Vorher:** Die Hütten der Moabiter und die Zelte der Edomiter
     - **Nachher:** Die Hütten der Moabiter und die Gezelte der Edomiter
+
+## 36_zephanja.json – Zephanja (Luther 1912)
+
+### `zef_001` (Zephanja 1:3)
+- **Bibelstelle Vorher:** `Zephanja 1:2-3` -> **Nachher:** `Zephanja 1:3`
+- **Frage:** Was kündigt Zephanja 1:3 zu Beginn an?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Ich will Menschen und Vieh, Vögel und Fische wegnehmen und die Menschen ausrotten aus dem Land
+    - **Nachher:** Ich will Menschen und Vieh, Vögel und Fische wegnehmen und alles ausreuten
+  - **Option A (Falsch):**
+    - **Vorher:** Ich will ein Volk erwählen und die Menschen aus allen Nationen zu mir sammeln
+    - **Nachher:** Ich will ein Volk erwählen und die Menschen aus allen Heidenvölkern sammeln
+  - **Option C (Falsch):**
+    - **Vorher:** Ich will die Feinde verderben, die mein Volk verfolgen, und sie ganz ausrotten
+    - **Nachher:** Ich will die Feinde verderben, die mein Volk bedrängen, und sie vertilgen
+  - **Option D (Falsch):**
+    - **Vorher:** Ich will die Erde erneuern und Menschen und Vieh in Frieden darauf wohnen lassen
+    - **Nachher:** Ich will die ganze Erde erneuern und Menschen und Vieh in Frieden setzen
+
+### `zef_002` (Zephanja 1:4-5)
+- **Frage:** Welche Kulte prangert Zephanja 1:4-5 an?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Den Rest des Baal, die Anbetung des Himmelsheeres auf den Dächern und den Schwur bei Milkom
+    - **Nachher:** Das Übrige von Baal, Anbeter des Himmelsheers auf Dächern und Schwörer bei Milkom
+  - **Option A (Falsch):**
+    - **Vorher:** Die Verehrung der Schlange, die Anbetung des Mondes und den Schwur beim Götzenbild
+    - **Nachher:** Die Bildnisse der Schlange, die Anbeter des Mondes und die Schwörer bei Götzen
+  - **Option B (Falsch):**
+    - **Vorher:** Den Kult der Aschera in den Hainen, die Opfer an den Höhen und den Schwur bei Moloch
+    - **Nachher:** Die Haine der Aschera, die Opferpriester der Höhen und die Schwörer bei Moloch
+  - **Option D (Falsch):**
+    - **Vorher:** Die Opfer an den Höhen von Bethel, den Sonnendienst auf den Dächern und den Schwur bei Baal
+    - **Nachher:** Die Altäre von Bethel, die Sonnenanbeter auf Zinnen und die Schwörer bei Götzen
+
+### `zef_004` (Zephanja 2:3)
+- **Bibelstelle Vorher:** `Zephanja 2:1-3` -> **Nachher:** `Zephanja 2:3`
+- **Frage:** Welchen Rat gibt Zephanja 2:3?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Sucht den HERRN, Gerechtigkeit und Demut, damit ihr am Tag des Zorns geborgen werdet
+    - **Nachher:** Suchet den HERRN, Gerechtigkeit und Demut, auf dass ihr am Tag des Zorns verborgen werdet
+  - **Option B (Falsch):**
+    - **Vorher:** Fliehet in die Berge und verbergt euch dort, damit ihr am Tag des Zorns lebt
+    - **Nachher:** Fliehet auf die hohen Berge in feste Klüfte, auf dass ihr am Tag des Zorns erhalten werdet
+  - **Option C (Falsch):**
+    - **Vorher:** Bringt Opfer dar, damit ihr am Tag des Zorns nicht zugrunde geht
+    - **Nachher:** Bringet eure Opfer dar vor den heiligen Altar, auf dass ihr am Tag des Zorns verschont werdet
+  - **Option D (Falsch):**
+    - **Vorher:** Rüstet euch zum Krieg, damit ihr am Tag des Zorns standhalten könnt
+    - **Nachher:** Rüstet euch mit Schild und Schwert zum lauten Kampf, auf dass ihr am Tag des Zorns siegen möget
+
+### `zef_005` (Zephanja 2:9)
+- **Bibelstelle Vorher:** `Zephanja 2:4-9` -> **Nachher:** `Zephanja 2:9`
+- **Frage:** Was geschieht mit Moab und Ammon (Zephanja 2:9)?
+
+### `zef_006` (Zephanja 2:13-14)
+- **Frage:** Wie wird das Ende Ninives nach Zephanja 2:13-14?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Öde, dürr wie eine Wüste; allerlei Tiere lagern sich darin
+    - **Nachher:** Sie wird zur Wüste und dürre wie Steppe, darin nisten Tiere
+  - **Option A (Falsch):**
+    - **Vorher:** Es wird zur Grabstätte der Könige Assurs und ihrer Götter
+    - **Nachher:** Sie wird durch ein Erdbeben zerstört und ganz im Meer versinken
+  - **Option B (Falsch):**
+    - **Vorher:** Es wird erobert und neu besiedelt von Menschen aus allen Völkern
+    - **Nachher:** Sie wird von den Königen belagert und mit Feuer ganz verbrannt
+  - **Option D (Falsch):**
+    - **Vorher:** Es wird zum Heiligtum, zu dem die Völker kommen und den HERRN anbeten
+    - **Nachher:** Sie wird zur Zuflucht der Heiden und Frieden den Völkern bringen
+
+### `zef_007` (Zephanja 3:3)
+- **Bibelstelle Vorher:** `Zephanja 3:1-4` -> **Nachher:** `Zephanja 3:3`
+- **Frage:** Wie urteilt Zephanja 3:3 über die Führer Jerusalems?
+
+### `zef_008` (Zephanja 3:12)
+- **Bibelstelle Vorher:** `Zephanja 3:12-13` -> **Nachher:** `Zephanja 3:12`
+- **Frage:** Was lässt der HERR nach Zephanja 3:12 übrig?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Ein armes, geringes Volk, das auf den Namen des HERRN traut
+    - **Nachher:** Ein armes und geringes Volk, das auf des HERRN Namen trauet
+  - **Option B (Falsch):**
+    - **Vorher:** Ein starkes Heer, das auf die Macht seiner Waffen vertraut
+    - **Nachher:** Ein starkes und mächtiges Volk, das den Tempel wieder aufbaut
+  - **Option C (Falsch):**
+    - **Vorher:** Ein reiches Volk, das auf seine Güter und seinen Besitz traut
+    - **Nachher:** Ein gelehrtes Volk von Priestern, das das Gesetz treu bewahrt
+  - **Option D (Falsch):**
+    - **Vorher:** Ein weises Volk, das auf die Klugheit seiner Lehrer vertraut
+    - **Nachher:** Ein streitbares Heer von Helden, das alle Feinde unterwirft
+
+### `zef_015` (Zephanja 2:5)
+- **Frage:** Welches Volk wohnt nach Zephanja 2:5 am Meer hinab und wird gestraft?
+- **Richtige Antwort (unverändert, Option B):** Die Krether, das Land der Philister
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Falsch):**
+    - **Vorher:** Die Midianiter, das Land am Roten Meer
+    - **Nachher:** Die Midianiter, das Land am Meere
+
+### `zef_016` (Zephanja 3:5)
+- **Frage Vorher:** Was tut der HERR nach Zephanja 3:5 mitten in der Stadt jeden Morgen?
+- **Frage Nachher:** Was tut der HERR nach Zephanja 3:5 alle Morgen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Er lässt seine Rechte öffentlich lehren und lässt nicht ab
+    - **Nachher:** Er lässt seine Rechte öffentlich lehren und lässt davon nicht ab
+  - **Option A (Falsch):**
+    - **Vorher:** Er nimmt die Opfer der Frommen an und segnet sie reichlich
+    - **Nachher:** Er nimmt die Opfer der Gerechten gnädig an und segnet ihr Land
+  - **Option B (Falsch):**
+    - **Vorher:** Er prüft die Herzen der Menschen und straft die Bösen heimlich
+    - **Nachher:** Er prüft die Herzen der Menschen und straft die Bosheit geheim
+  - **Option D (Falsch):**
+    - **Vorher:** Er sendet Boten aus, die das Volk warnen und zur Umkehr rufen
+    - **Nachher:** Er sendet seine Boten aus und ruft die Völker zur rechten Buße
+
+### `zef_017` (Zephanja 3:9)
+- **Frage:** Was will der HERR nach Zephanja 3:9 den Völkern geben?
+- **Richtige Antwort (unverändert, Option D):** Reine Lippen, damit sie alle den Namen des HERRN anrufen
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Ein neues Herz, damit sie alle das Gesetz Moses halten
+    - **Nachher:** Ein neues Herz, damit sie alle das Gesetz treu bewahren
+  - **Option B (Falsch):**
+    - **Vorher:** Ein neues Land, damit sie alle in Frieden wohnen
+    - **Nachher:** Ein neues Land, damit sie alle in sicherem Frieden ruhen
+  - **Option C (Falsch):**
+    - **Vorher:** Die Sprache Israels, damit sie alle Zion verstehen
+    - **Nachher:** Ein neues Recht, damit sie alle den Dienst Zions verstehen

@@ -1,7 +1,7 @@
 {
   "branch": "review-and-english",
   "totalFiles": 66,
-  "completedCount": 35,
+  "completedCount": 36,
   "completedFiles": [
     "01_1_mose.json",
     "02_2_mose.json",
@@ -37,10 +37,10 @@
     "32_jona.json",
     "33_micha.json",
     "34_nahum.json",
-    "35_habakuk.json"
+    "35_habakuk.json",
+    "36_zephanja.json"
   ],
   "pendingFiles": [
-    "36_zephanja.json",
     "37_haggai.json",
     "38_sacharja.json",
     "39_maleachi.json",
@@ -317,6 +317,13 @@
       "explanationsReviewedEn": 0,
       "reportPath": "reports/35_habakuk.md",
       "enPath": "en/35_habakuk.json"
+    },
+    "36_zephanja.json": {
+      "questionsCount": 18,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/36_zephanja.md",
+      "enPath": "en/36_zephanja.json"
     }
   }
 }
