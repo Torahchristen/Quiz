@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-11-05T20:32:21Z",
+  "lastUpdated": "2026-11-05T20:38:23Z",
   "language": "en",
   "categories": [
     {
@@ -752,6 +752,25 @@
       ],
       "sizeBytes": 12648,
       "downloadUrl": "./en/37_haggai.json"
+    },
+    {
+      "quizId": "bibel_38_sacharja_en",
+      "category": "prophets",
+      "title": "Zechariah",
+      "subtitle": "Zechariah 1:1 – 14:21 (42 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 42,
+      "difficulty": "medium",
+      "tags": [
+        "Zechariah",
+        "OT",
+        "prophets",
+        "King James Version"
+      ],
+      "sizeBytes": 38159,
+      "downloadUrl": "./en/38_sacharja.json"
     }
   ]
 }

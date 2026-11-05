@@ -43,7 +43,8 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
 | `35_habakuk.json` | 18 | 10 | 0 | 10 | 4 |
 | `36_zephanja.json` | 18 | 10 | 1 | 8 | 5 |
 | `37_haggai.json` | 14 | 7 | 0 | 5 | 3 |
-| **Gesamt (37 Dateien)** | **3362** | **1546** | **1024** | **1395** | **87** |
+| `38_sacharja.json` | 42 | 19 | 2 | 19 | 0 |
+| **Gesamt (38 Dateien)** | **3404** | **1565** | **1026** | **1414** | **87** |
 
 ## 01_1_mose.json – 1. Mose (Genesis) (Schlachter (Revision von 1951))
 
@@ -21961,3 +21962,240 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
   - **Option C (Falsch):**
     - **Vorher:** Den Fürsten Serubbabel und Josua
     - **Nachher:** Den Fürsten Serubabel und Josua
+
+## 38_sacharja.json – Sacharja (Luther 1912)
+
+### `sach_001` (Sacharja 1:3)
+- **Frage:** Mit welchem Aufruf beginnt die Botschaft Sacharjas (Sacharja 1:3)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Kehrt euch zu mir, so will ich mich zu euch kehren
+    - **Nachher:** Kehret euch zu mir, so will ich mich zu euch kehren, spricht der HERR
+  - **Option C (Falsch):**
+    - **Vorher:** Fürchtet euch nicht vor den Feinden, so will ich mich zu euch kehren
+    - **Nachher:** Fürchtet euch nicht vor Feinden, so will ich mich zu euch kehren in Gnade
+  - **Option D (Falsch):**
+    - **Vorher:** Haltet die Feiertage, so will ich mich zu euch kehren und bei euch wohnen
+    - **Nachher:** Haltet die Feste, so will ich mich zu euch kehren und bei euch wohnen
+
+### `sach_004` (Sacharja 2:4-5)
+- **Frage:** Warum soll Jerusalem nach Sacharja 2:4-5 ohne Mauern bewohnt werden?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Wegen der großen Menge an Menschen und Vieh, und der HERR ist eine feurige Mauer ringsum
+    - **Nachher:** Vor der großen Menge Menschen und Viehs, und der HERR ist eine feurige Mauer umher
+  - **Option D (Falsch):**
+    - **Vorher:** Weil die Stadt zu klein ist und die Mauern die Menge der Menschen nicht fassen würden
+    - **Nachher:** Weil der Engel mit der Messschnur geboten hat, die Stadt völlig offen zu lassen
+
+### `sach_005` (Sacharja 2:8)
+- **Frage:** Wie beschreibt Sacharja 2:8 Gottes Fürsorge für sein Volk?
+- **Richtige Antwort (unverändert, Option B):** Wer euch antastet, der tastet seinen Augapfel an
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Wer euch hilft, dem helfe ich auch, und wer euch segnet, den segne ich
+    - **Nachher:** Wer euch segnet, den segnet der HERR auf ewig
+  - **Option C (Falsch):**
+    - **Vorher:** Wer euch verlässt, den verlasse ich, und wer euch hasst, den strafe ich
+    - **Nachher:** Wer euch schmäht, den wird der HERR bald strafen
+  - **Option D (Falsch):**
+    - **Vorher:** Wer euch hasst, den strafe ich, und wer euch verachtet, den verwerfe ich
+    - **Nachher:** Wer euch verlässt, den wird der HERR verwerfen
+
+### `sach_007` (Sacharja 3:1-2)
+- **Frage Vorher:** Wer trat im Gesicht von Josua auf, um ihn zu verklagen (Sacharja 3:1-2)?
+- **Frage Nachher:** Wer trat im Gesicht von Josua auf, um ihm zu widerstehen (Sacharja 3:1-2)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Der Satan, der zu seiner Rechten stand
+    - **Nachher:** Der Satan, der zu seiner Rechten stand, auf dass er ihm widerstünde
+  - **Option A (Falsch):**
+    - **Vorher:** Der Engel des Todes, der zu seiner Linken stand und ihn bedrohte
+    - **Nachher:** Der Engel des Todes, der zu seiner Linken stand, um ihn zu schrecken
+  - **Option B (Falsch):**
+    - **Vorher:** Ein falscher Prophet, der zu seiner Rechten stand und ihn beschuldigte
+    - **Nachher:** Ein falscher Prophet, der zu seiner Rechten stand, um ihn anzuklagen
+  - **Option C (Falsch):**
+    - **Vorher:** Der Fürst von Juda, der gegenüber stand und seinen Platz forderte
+    - **Nachher:** Ein Fürst der Heiden, der vor ihm herging, um sein Recht zu fordern
+
+### `sach_008` (Sacharja 3:4-5)
+- **Frage:** Was geschah nach Sacharja 3:4 mit Josuas unreinen Kleidern?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Sie wurden ihm ausgezogen, seine Sünde wurde genommen, und er erhielt Feierkleider
+    - **Nachher:** Sie wurden von ihm getan, seine Sünde ward genommen und er ward mit Feierkleidern angetan
+  - **Option B (Falsch):**
+    - **Vorher:** Sie wurden im Wasser gewaschen, und er erhielt reine Priestergewänder
+    - **Nachher:** Sie wurden mit heiligem Wasser gereinigt und mit wohlriechendem Öl im Hause gesalbt
+  - **Option C (Falsch):**
+    - **Vorher:** Sie wurden verbrannt, seine Sünde blieb, und er erhielt den Mantel der Buße
+    - **Nachher:** Sie wurden im Feuer verbrannt, und er musste sieben Tage lang im Vorhof Buße tun
+  - **Option D (Falsch):**
+    - **Vorher:** Sie blieben ihm, seine Sünde wurde nicht genommen, und er erhielt einen Turban
+    - **Nachher:** Sie wurden den Priestern übergeben, die sie im Heiligtum als Zeugnis aufbewahrten
+
+### `sach_009` (Sacharja 3:8-9)
+- **Frage:** Welche Ankündigung macht der HERR in Sacharja 3:8?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Ich will meinen Knecht Zemach (Spross) kommen lassen
+    - **Nachher:** Ich will meinen Knecht ZWEIG kommen lassen
+  - **Option A (Falsch):**
+    - **Vorher:** Ich will einen König erwecken, der auf Davids Thron sitzen soll
+    - **Nachher:** Ich will meinen Engel zur Rettung Zions senden
+  - **Option C (Falsch):**
+    - **Vorher:** Ich will den Tempel zerstören, damit das Volk umkehre und neu beginne
+    - **Nachher:** Ich will einen neuen König auf den Thron setzen
+  - **Option D (Falsch):**
+    - **Vorher:** Ich will Josua absetzen, damit ein neuer Hoherpriester über das Haus herrsche
+    - **Nachher:** Ich will mein Volk aus aller Völker Hand erlösen
+
+### `sach_011` (Sacharja 4:10)
+- **Frage:** Was fragt der HERR in Sacharja 4:10 die Entmutigten?
+- **Richtige Antwort (unverändert, Option D):** Wer ist, der diese geringen Tage verachte?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Wer ist, der das Gesetz hält, wenn der Anfang gering erscheint?
+    - **Nachher:** Wer ist, der das Gesetz treu hält?
+  - **Option B (Falsch):**
+    - **Vorher:** Wer ist, der den Tempel baut, wenn die Tage geringe sind?
+    - **Nachher:** Wer ist, der den Tempel aufbaut?
+  - **Option C (Falsch):**
+    - **Vorher:** Wer ist, der für Frieden sorgt, wenn die Zeiten gering erscheinen?
+    - **Nachher:** Wer ist, der nach Weisheit strebt?
+
+### `sach_014` (Sacharja 5:7-8)
+- **Frage:** Was sah Sacharja im Epha nach Sacharja 5:7-8?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Eine Frau, von der der Engel sagte: Das ist die Gottlosigkeit
+    - **Nachher:** Ein Weib, von dem der Engel sprach: Das ist die Gottlosigkeit im ganzen Land
+  - **Option A (Falsch):**
+    - **Vorher:** Einen Schwarm Vögel, von dem der Engel sagte: Das ist das Verderben des Landes
+    - **Nachher:** Einen Mann, von dem der Engel sagte: Das ist der Götzendienst aller Heiden
+  - **Option B (Falsch):**
+    - **Vorher:** Einen Schatz aus Silber und Gold, von dem der Engel sagte: Das ist das Erbe des Volkes
+    - **Nachher:** Ein Tier, von dem der Engel sagte: Das ist die Zerstörung des Heiligtums
+  - **Option D (Falsch):**
+    - **Vorher:** Ein verhülltes Kind, von dem der Engel sagte: Das ist der künftige Retter
+    - **Nachher:** Einen Götzen, von dem der Engel sagte: Das ist die Verführung der Völker
+
+### `sach_016` (Sacharja 6:1)
+- **Frage:** Woher kommen die vier Wagen nach Sacharja 6:1?
+- **Richtige Antwort (unverändert, Option A):** Zwischen zwei ehernen Bergen hervor
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Aus dem Meer hervor, wo die vier Winde über das Wasser fahren
+    - **Nachher:** Aus den Fluten des großen Meeres hervor
+  - **Option C (Falsch):**
+    - **Vorher:** Vom Himmel herab, wo die vier Engel vor dem HERRN stehen
+    - **Nachher:** Aus den Toren des himmlischen Heiligtums
+  - **Option D (Falsch):**
+    - **Vorher:** Aus dem Tal Josaphat hervor, wo der HERR die Völker richtet
+    - **Nachher:** Aus dem weiten Tal des Gerichts hervor
+
+### `sach_018` (Sacharja 6:12-13)
+- **Frage Vorher:** Was wird dem Mann namens Zemach nach Sacharja 6:12-13 verheißen?
+- **Frage Nachher:** Was wird dem Mann namens Zweig nach Sacharja 6:12-13 verheißen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Er baut den Tempel des HERRN, herrscht auf seinem Thron und ist Priester auf seinem Thron
+    - **Nachher:** Er baut den Tempel des HERRN, herrscht auf seinem Thron und ist Priester auf dem Thron
+  - **Option B (Falsch):**
+    - **Vorher:** Er sammelt das Volk aus den Völkern, richtet das Heiligtum auf und führt Krieg gegen Feinde
+    - **Nachher:** Er sammelt das Volk aus den Völkern, richtet das Heiligtum auf und führt den Streit
+  - **Option D (Falsch):**
+    - **Vorher:** Er verwaltet das Land, dient im Heiligtum als Priester und herrscht über alle Städte Judas
+    - **Nachher:** Er verwaltet das Land, dient im Heiligtum als Priester und herrscht über alle Städte
+
+### `sach_019` (Sacharja 7:3)
+- **Frage:** Welche Frage stellten die Gesandten nach Sacharja 7:3?
+- **Richtige Antwort (unverändert, Option D):** Muss ich auch noch weinen im fünften Monat und mich enthalten, wie ich es so viele Jahre getan habe?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Dürfen wir den Tempel weiterbauen und die Opfer darbringen, wie es einst vor dem Exil geschah?
+    - **Nachher:** Dürfen wir den Tempel weiterbauen und Opfer bringen, wie es einst vor der Wegführung geschah?
+
+### `sach_023` (Sacharja 8:4-5)
+- **Frage:** Welches Friedensbild zeichnet Sacharja 8:4-5?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Alte Männer und Frauen wohnen in den Gassen, und die Gassen sind voll Knaben und Mädchen, die spielen
+    - **Nachher:** Alte Männer und Weiber wohnen in den Gassen, und die Gassen sind voll Knaben und Mädchen
+
+### `sach_024` (Sacharja 8:23)
+- **Frage:** Was werden zehn Männer nach Sacharja 8:23 tun?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Einen Juden beim Zipfel ergreifen und sagen: Wir wollen mit euch gehen, denn Gott ist mit euch
+    - **Nachher:** Einen jüdischen Mann am Zipfel ergreifen und sagen: Wir wollen mit euch gehen, denn Gott ist hier
+
+### `sach_026` (Sacharja 9:10)
+- **Frage:** Wie weit reicht die Herrschaft des Königs nach Sacharja 9:10?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Von einem Meer bis ans andere und vom Strom bis an der Welt Ende
+    - **Nachher:** Er wird die Wagen aus Ephraim und die Rosse aus Jerusalem ausrotten
+  - **Option A (Falsch):**
+    - **Vorher:** Von Dan bis Beerseba und von den Bergen Judas bis an das Ende des Landes
+    - **Nachher:** Er wird die Wagen in Ephraim und die Rosse zu Jerusalem mehren
+  - **Option B (Falsch):**
+    - **Vorher:** Vom Jordan bis zum Mittelmeer und vom Libanon bis zur Wüste
+    - **Nachher:** Er wird die Rosse und Wagen der Heiden für sein eigenes Heer nehmen
+  - **Option D (Falsch):**
+    - **Vorher:** Von Ägypten bis Babel und vom Nil bis zum Euphrat
+    - **Nachher:** Er wird die Heere aller Völker versammeln und mit ihnen einherziehen
+
+### `sach_028` (Sacharja 10:2)
+- **Frage:** Warum gingen die Menschen nach Sacharja 10:2 in der Irre?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Weil die Götzen Eitles reden und die Wahrsager Lüge sehen und kein Hirte da ist
+    - **Nachher:** Weil die Götzen eitel reden und die Wahrsager Lüge sehen und kein Hirte da ist
+
+### `sach_029` (Sacharja 10:4)
+- **Frage:** Was geht nach Sacharja 10:4 aus Juda hervor?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Ecksteine, Nägel, Streitbogen und alle Herrscher
+    - **Nachher:** Der Eckstein, der Nagel und der Streitbogen im Land
+  - **Option A (Falsch):**
+    - **Vorher:** Nur Priester, die den Tempel versorgen und das Volk lehren sollen
+    - **Nachher:** Der Priester, der König und der Prophet mit Vollmacht
+  - **Option C (Falsch):**
+    - **Vorher:** Nur Propheten, die dem Volk das Wort des HERRN verkünden werden
+    - **Nachher:** Der Richter, der König und der Heerführer im Streit
+  - **Option D (Falsch):**
+    - **Vorher:** Nur Könige, die über die Völker herrschen und Tribut empfangen
+    - **Nachher:** Der Hirte, der Bauleute Meister und der Prophet Gottes
+
+### `sach_033` (Sacharja 11:15-16)
+- **Frage:** Was kündigt der HERR in Sacharja 11:15-16 an?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Er lässt einen törichten Hirten erstehen, der die Herde nicht beachtet
+    - **Nachher:** Er will einen törichten Hirten aufrichten, der das Verlorene nicht versorgt
+
+### `sach_036` (Sacharja 12:10)
+- **Frage:** Womit wird die Klage um den Durchbohrten verglichen (Sacharja 12:10)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Mit der Klage um ein einziges Kind und der Betrübnis um den Erstgeborenen
+    - **Nachher:** Mit der Klage um ein einziges Kind und der Betrübnis um einen ersten Sohn
+
+### `sach_038` (Sacharja 13:7)
+- **Frage:** Welches Wort aus Sacharja 13:7 bezog Jesus auf sich?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Schlage den Hirten, so wird die Herde sich zerstreuen
+    - **Nachher:** Schlage den Hirten, so werden sich die Schafe der Herde zerstreuen
+  - **Option A (Falsch):**
+    - **Vorher:** Der Hirte wird die Wölfe vertreiben, und die Herde wird in Frieden weiden
+    - **Nachher:** Der Hirte wird gekrönt, und die Schafe weiden in sicherem Frieden
+  - **Option B (Falsch):**
+    - **Vorher:** Der Hirte wird sein Volk sammeln, und die Herde wird zusammenbleiben
+    - **Nachher:** Der Hirte wird errettet, und die Schafe sammeln sich in der Hürde
+  - **Option D (Falsch):**
+    - **Vorher:** Der Hirte wird zurückkehren, und die Herde wird ihn wieder erkennen
+    - **Nachher:** Der Hirte zieht in die Fremde, und die Schafe folgen seinen Tritten
