@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-11-05T20:02:17Z",
+  "lastUpdated": "2026-11-05T20:08:28Z",
   "language": "en",
   "categories": [
     {
@@ -600,6 +600,25 @@
       ],
       "sizeBytes": 18294,
       "downloadUrl": "./en/29_joel.json"
+    },
+    {
+      "quizId": "bibel_30_amos_en",
+      "category": "propheten",
+      "title": "Amos",
+      "subtitle": "Amos 1:1 – 9:15 (27 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "1.0.0",
+      "questionCount": 27,
+      "difficulty": "medium",
+      "tags": [
+        "Amos",
+        "OT",
+        "prophets",
+        "KJV"
+      ],
+      "sizeBytes": 27203,
+      "downloadUrl": "./en/30_amos.json"
     }
   ]
 }

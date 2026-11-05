@@ -35,7 +35,8 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
 | `27_daniel.json` | 37 | 9 | 2 | 7 | 1 |
 | `28_hosea.json` | 43 | 2 | 0 | 2 | 0 |
 | `29_joel.json` | 18 | 1 | 1 | 0 | 1 |
-| **Gesamt (29 Dateien)** | **3218** | **1428** | **955** | **1283** | **60** |
+| `30_amos.json` | 27 | 24 | 18 | 22 | 2 |
+| **Gesamt (30 Dateien)** | **3245** | **1452** | **973** | **1305** | **62** |
 
 ## 01_1_mose.json – 1. Mose (Genesis) (Schlachter (Revision von 1951))
 
@@ -20169,3 +20170,345 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
 - **Bibelstelle Vorher:** `Joel 3:2.12` -> **Nachher:** `Joel 3:2`
 - **Frage Vorher:** Wo versammelt der HERR die Heiden zum Gericht (Joel 3:2.12)?
 - **Frage Nachher:** Wo versammelt der HERR die Heiden zum Gericht (Joel 3:2)?
+
+## 30_amos.json – Amos (Luther 1912)
+
+### `am_001` (Amos 1:1)
+- **Frage Vorher:** Was war Amos nach Amos 1:1 von Beruf?
+- **Frage Nachher:** Was war Amos nach Amos 1:1, bevor er über Israel weissagte?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Ein Hirte aus Tekoa
+    - **Nachher:** Ein Hirte aus Thekoa
+
+### `am_003` (Amos 1:13)
+- **Frage Vorher:** Welches Verbrechen wird den Ammonitern in Amos 1:13 vorgeworfen?
+- **Frage Nachher:** Welcher Frevel wird den Kindern Ammon in Amos 1:13 zur Last gelegt?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Sie zerrissen die Schwangeren in Gilead, um ihre Grenze zu erweitern
+    - **Nachher:** Sie zerrissen die Schwangeren in Gilead, damit sie ihre Grenze weiter machten
+  - **Option A (Falsch):**
+    - **Vorher:** Sie verbrannten die Ernten und raubten das Vieh der Israeliten
+    - **Nachher:** Sie verbrannten die reifen Ernten und raubten das Vieh der Israeliten
+  - **Option B (Falsch):**
+    - **Vorher:** Sie raubten den Tempelschatz und plünderten die Städte Judas
+    - **Nachher:** Sie raubten den kostbaren Tempelschatz und plünderten die Städte Judas
+  - **Option C (Falsch):**
+    - **Vorher:** Sie versklavten die Kinder Judas und verkauften sie an Edom
+    - **Nachher:** Sie versklavten die kleinen Kinder Judas und verkauften sie nach Edom
+
+### `am_004` (Amos 2:1)
+- **Frage:** Wofür wird Moab in Amos 2:1 gerichtet?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Weil sie die Gebeine des Königs von Edom zu Asche verbrannten
+    - **Nachher:** Weil sie die Gebeine des Königs zu Edom zu Asche verbrannten
+  - **Option B (Falsch):**
+    - **Vorher:** Weil sie Israel angriffen und das ganze Land verwüsteten und plünderten
+    - **Nachher:** Weil sie das Volk Israel angriffen und das ganze Land verwüsteten
+  - **Option C (Falsch):**
+    - **Vorher:** Weil sie Götzen verehrten und ihre Kinder dem Moloch opferten
+    - **Nachher:** Weil sie heidnische Götzen verehrten und ihre Kinder opferten
+
+### `am_005` (Amos 2:6)
+- **Frage Vorher:** Welche Schandtat klagt Amos 2:6 an Israel an?
+- **Frage Nachher:** Welchen Frevel klagt der HERR in Amos 2:6 an Israel an?
+- **Richtige Antwort (unverändert, Option B):** Sie verkaufen die Gerechten um Geld und die Armen um ein Paar Schuhe
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Falsch):**
+    - **Vorher:** Sie brechen den Sabbat und arbeiten an den Feiertagen des HERRN
+    - **Nachher:** Sie brechen den Sabbat und arbeiten an den heiligen Feiertagen
+
+### `am_007` (Amos 3:2)
+- **Frage:** Welche Folge hat Israels Erwählung nach Amos 3:2?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Gott sucht es umso mehr heim in all seiner Missetat
+    - **Nachher:** Gott will es heimsuchen in all seiner Missetat
+  - **Option A (Falsch):**
+    - **Vorher:** Gott macht es reich und segnet alle seine Werke
+    - **Nachher:** Gott will es reich machen und segnen alle seine Werke
+  - **Option B (Falsch):**
+    - **Vorher:** Gott schont es für immer und vergibt ihm seine Schuld
+    - **Nachher:** Gott will es schonen und vergeben alle seine Schuld
+  - **Option C (Falsch):**
+    - **Vorher:** Gott gibt ihm weitere Länder und stärkt seine Macht
+    - **Nachher:** Gott will ihm Frieden geben vor allen seinen Feinden
+
+### `am_008` (Amos 3:8)
+- **Frage:** Warum kann Amos nach Amos 3:8 nicht schweigen?
+- **Richtige Antwort (unverändert, Option A):** Der Herr HERR redet; wer sollte nicht weissagen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Das Volk verlangt es von ihm und lässt ihm keine Ruhe
+    - **Nachher:** Das Volk verlangt es von ihm und lässt keine Ruhe
+  - **Option C (Falsch):**
+    - **Vorher:** Der König befiehlt es ihm und bestimmt die Worte
+    - **Nachher:** Der König befiehlt es ihm und bestimmt seine Rede
+  - **Option D (Falsch):**
+    - **Vorher:** Er will berühmt werden und seinen Namen unter den Propheten
+    - **Nachher:** Er will sich einen großen Namen im Lande machen
+
+### `am_009` (Amos 3:14-15)
+- **Frage Vorher:** Was kündigt Amos 3:14-15 an?
+- **Frage Nachher:** Was kündigt Amos 3:14-15 über die Bauwerke und Altäre an?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Die Altäre von Bethel und die elfenbeinernen Häuser gehen unter
+    - **Nachher:** Die Altäre zu Beth-El und die elfenbeinernen Häuser werden untergehen
+  - **Option C (Falsch):**
+    - **Vorher:** Die Tempel werden neu geweiht, und die Altäre werden erneuert
+    - **Nachher:** Ein neues Heiligtum wird gebaut, und das Königtum wird befestigt
+  - **Option D (Falsch):**
+    - **Vorher:** Die Paläste bleiben unversehrt, und das Volk wird beschützt
+    - **Nachher:** Die Nachbarvölker schließen Frieden, und der Krieg nimmt ein Ende
+
+### `am_010` (Amos 4:1)
+- **Frage Vorher:** Wie nennt Amos 4:1 die Frauen auf dem Berg Samaria?
+- **Frage Nachher:** Wie nennt Amos 4:1 die Vornehmen auf dem Berge Samarias?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Fette Kühe, die den Dürftigen Unrecht tun und sagen: Bringe her, lass uns saufen
+    - **Nachher:** Fette Kühe, die den Dürftigen Unrecht tun und fordern: Bringt her!
+  - **Option A (Falsch):**
+    - **Vorher:** Stolze Töchter Zions, die mit Schmuck einhergehen und sich ihrer Pracht rühmen
+    - **Nachher:** Stolze Töchter Zions, die mit Schmuck einhergehen und sich rühmen
+  - **Option B (Falsch):**
+    - **Vorher:** Satte Schafe im Pferch, die sich in ihrer Fülle rühmen und nichts tun
+    - **Nachher:** Satte Schafe im Pferch, die sich in Fülle rühmen und nichts tun
+  - **Option D (Falsch):**
+    - **Vorher:** Verwöhnte Kinder der Reichen, die nichts für die Armen tun und nur an sich denken
+    - **Nachher:** Verwöhnte Edelfrauen, die nichts für die Notleidenden tun wollen
+
+### `am_011` (Amos 4:6-11)
+- **Frage Vorher:** Welcher Satz kehrt in Amos 4:6-11 wieder?
+- **Frage Nachher:** Welcher Satz kehrt in Amos 4:6-11 wiederholt als Anklage wieder?
+
+### `am_012` (Amos 4:12)
+- **Frage Vorher:** Welcher Ruf ergeht am Ende von Amos 4?
+- **Frage Nachher:** Welcher Ruf ergeht in Amos 4:12 an das Volk?
+- **Richtige Antwort (unverändert, Option A):** Schicke dich, Israel, und begegne deinem Gott
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Fliehe, Israel, vor deinem Gott, denn sein Zorn ist nahe
+    - **Nachher:** Fliehe, o Israel, denn des HERRN Zorn ist nahe
+  - **Option C (Falsch):**
+    - **Vorher:** Baue, Israel, deinen Tempel neu, denn der HERR kommt
+    - **Nachher:** Kehre um, o Israel, und suche deinen HERRN Gott
+  - **Option D (Falsch):**
+    - **Vorher:** Opfere, Israel, deinem Gott reichlich, denn er ist gnädig
+    - **Nachher:** Opfere, o Israel, denn dein Schöpfer ist heilig
+
+### `am_013` (Amos 5:4-5)
+- **Frage Vorher:** Was ruft der HERR dem Haus Israel in Amos 5:4 zu?
+- **Frage Nachher:** Was ruft der HERR dem Hause Israel in Amos 5:4 zu?
+
+### `am_014` (Amos 5:18-20)
+- **Frage:** Wie ist der Tag des HERRN für die, die ihn begehren (Amos 5:18)?
+- **Richtige Antwort (unverändert, Option C):** Finsternis und nicht Licht
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Ein Tag des Gerichts über die Heiden
+    - **Nachher:** Freude und nicht Traurigkeit
+  - **Option D (Falsch):**
+    - **Vorher:** Ein Tag der Ernte
+    - **Nachher:** Friede und nicht Verderben
+
+### `am_016` (Amos 6:1)
+- **Frage Vorher:** Über wen spricht Amos 6:1 ein Wehe?
+- **Frage Nachher:** Über wen spricht Amos 6:1 ein Wehe aus?
+- **Richtige Antwort (unverändert, Option A):** Über die Stolzen zu Zion und die Sicheren auf dem Berg Samaria
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Über die Priester von Bethel, die nur ihren Vorteil sehen
+    - **Nachher:** Über die Priester zu Beth-El, die nach eigenem Vorteil trachten
+  - **Option C (Falsch):**
+    - **Vorher:** Über die Hirten von Tekoa, die ihre Herden vernachlässigen
+    - **Nachher:** Über die Hirten zu Thekoa, die ihre Schafe im Stich gelassen
+  - **Option D (Falsch):**
+    - **Vorher:** Über die Händler am Tor, die falsche Maße benutzen
+    - **Nachher:** Über die Händler am Tor, die mit unrechtem Gewichte betrügen
+
+### `am_017` (Amos 6:4-6)
+- **Frage Vorher:** Woran zeigt sich nach Amos 6:4 der Luxus der Oberschicht?
+- **Frage Nachher:** Woran zeigt sich nach Amos 6:4 das Schlemmen der Pranger?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Sie schlafen auf elfenbeinernen Lagern und essen Lämmer und gemästete Kälber
+    - **Nachher:** Sie schlafen auf elfenbeinernen Lagern und essen gemästete Kälber
+  - **Option A (Falsch):**
+    - **Vorher:** Sie bauen sich Paläste aus Zedernholz und decken sie mit Gold und Edelsteinen
+    - **Nachher:** Sie bauen Paläste aus Zedernholz und schmücken sie mit Silber
+  - **Option C (Falsch):**
+    - **Vorher:** Sie tragen Purpur und Gold und prunken damit vor dem Volk auf den Straßen
+    - **Nachher:** Sie tragen Kleider aus feiner Seide und prangen mit Edelsteinen
+  - **Option D (Falsch):**
+    - **Vorher:** Sie feiern Feste im Tempel und opfern dort reichlich, um gesehen zu werden
+    - **Nachher:** Sie trinken täglich köstlichen Wein und feiern auf allen Gassen
+
+### `am_018` (Amos 6:7)
+- **Frage Vorher:** Welches Schicksal kündigt Amos 6:7 den Schlemmern an?
+- **Frage Nachher:** Was kündigt Amos 6:7 den Schlemmern und Prangern an?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Sie sollen vornan unter den Gefangenen weggeführt werden
+    - **Nachher:** Sie sollen vornan gehen unter denen, die gefangen weggeführt werden
+  - **Option A (Falsch):**
+    - **Vorher:** Sie sollen Tribut zahlen und dem fremden König dienen müssen
+    - **Nachher:** Sie sollen Tribut zahlen und dem fremden König für immer dienen
+  - **Option B (Falsch):**
+    - **Vorher:** Sie sollen im Palast bleiben und weiter schlemmen dürfen
+    - **Nachher:** Sie sollen in ihren Häusern bleiben und ihre Güter behalten
+  - **Option D (Falsch):**
+    - **Vorher:** Sie sollen arm werden und all ihr Gut und Haus verlieren
+    - **Nachher:** Sie sollen als Knechte dienen und keine eigenen Güter mehr besitzen
+
+### `am_019` (Amos 7:2)
+- **Bibelstelle Vorher:** `Amos 7:2-6` -> **Nachher:** `Amos 7:2`
+- **Frage Vorher:** Wie bat Amos in Amos 7:2 um Verschonung?
+- **Frage Nachher:** Wie bat Amos in Amos 7:2 um Verschonung für das Volk?
+- **Richtige Antwort (unverändert, Option D):** Ach Herr HERR, sei gnädig! Wer will Jakob wieder aufhelfen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Herr, sende einen Retter, der Jakob aufhilft!
+    - **Nachher:** Ach Herr HERR, sende doch einen Retter, der Jakob aufhilft!
+  - **Option B (Falsch):**
+    - **Vorher:** Herr, strafe die Feinde, die Jakob bedrängen!
+    - **Nachher:** Ach Herr HERR, strafe die Feinde, die Jakob hart bedrängen!
+  - **Option C (Falsch):**
+    - **Vorher:** Herr, nimm mich an Stelle des Volkes, damit es lebe!
+    - **Nachher:** Ach Herr HERR, nimm doch mein Leben, damit dein Volk lebe!
+
+### `am_020` (Amos 7:7-8)
+- **Bibelstelle Vorher:** `Amos 7:7-9` -> **Nachher:** `Amos 7:7-8`
+- **Frage Vorher:** Was hielt der HERR nach Amos 7:7 in der Hand?
+- **Frage Nachher:** Was hielt der Herr nach Amos 7:7 in seiner Hand?
+- **Richtige Antwort (unverändert, Option A):** Eine Bleischnur, mit der er die Mauer maß
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Ein Schwert, mit dem er die Mauer niederriss
+    - **Nachher:** Ein Richtschwert, mit dem er Feinde schlug
+  - **Option C (Falsch):**
+    - **Vorher:** Eine Waage, mit der er die Gerechten wog
+    - **Nachher:** Eine eherne Waage, mit der er Frevel wog
+  - **Option D (Falsch):**
+    - **Vorher:** Einen Hirtenstab, mit dem er die Herde zählte
+    - **Nachher:** Einen Hirtenstab, womit er Schafe zählte
+
+### `am_021` (Amos 7:14-15)
+- **Frage:** Was antwortete Amos dem Priester Amazja (Amos 7:14)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Ich bin kein Prophet noch eines Propheten Sohn, sondern ein Hirt, der Maulbeeren abliest
+    - **Nachher:** Ich bin kein Prophet, auch keines Propheten Sohn, sondern ein Hirt, der Maulbeeren abliest
+  - **Option A (Falsch):**
+    - **Vorher:** Ich bin ein Priester des HERRN und diene im Heiligtum von Bethel seit meiner Jugend
+    - **Nachher:** Ich bin ein Priester des HERRN und diene im Heiligtum zu Beth-El seit meiner Jugend
+  - **Option C (Falsch):**
+    - **Vorher:** Ich bin ein Schreiber des Königs und rede nur in seinem Auftrag zu dem Volk
+    - **Nachher:** Ich bin ein Schreiber des Königs und rede nur nach seinem Willen zu dem ganzen Volk
+  - **Option D (Falsch):**
+    - **Vorher:** Ich bin ein Prophet aus Juda und komme in eigener Sache nach Bethel
+    - **Nachher:** Ich bin ein Prophet aus Juda und komme in eigenem Auftrag herauf nach Beth-El
+
+### `am_022` (Amos 8:1-2)
+- **Frage Vorher:** Was bedeutet der Korb mit reifem Obst (Amos 8:2)?
+- **Frage Nachher:** Was bedeutet das Gesicht von dem Korb mit reifem Obst (Amos 8:2)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Das Ende ist über das Volk Israel gekommen
+    - **Nachher:** Das Ende ist gekommen über mein Volk Israel
+  - **Option A (Falsch):**
+    - **Vorher:** Der Sommer ist nahe, und die Ernte beginnt bald
+    - **Nachher:** Eine reiche Erntezeit bricht bald für ganz Israel an
+  - **Option B (Falsch):**
+    - **Vorher:** Eine reiche Ernte steht bevor, und die Speicher füllen sich
+    - **Nachher:** Die Zeit der Umkehr ist da, und das Volk tut nun Buße
+  - **Option D (Falsch):**
+    - **Vorher:** Das Opfer ist bereitet, und das Fest kann beginnen
+    - **Nachher:** Der Zorn des HERRN wird noch viele Jahre verziehen
+
+### `am_023` (Amos 8:5)
+- **Frage Vorher:** Welche Betrügereien prangert Amos 8:5 an?
+- **Frage Nachher:** Welchen Betrug planen die Händler nach Amos 8:5?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Sie verringern das Maß, steigern den Preis und fälschen die Waage
+    - **Nachher:** Sie wollen das Maß verringern, den Preis steigern und die Waage fälschen
+  - **Option A (Falsch):**
+    - **Vorher:** Sie leihen gegen Zins und nehmen Pfänder von den Armen
+    - **Nachher:** Sie wollen Zins nehmen und fremdes Silber unrechtmäßig einbehalten
+  - **Option B (Falsch):**
+    - **Vorher:** Sie verkaufen am Sabbat Vieh und treiben Handel auf dem Markt
+    - **Nachher:** Sie wollen fremdes Vieh stehlen und heimlich auf dem Markt verkaufen
+  - **Option C (Falsch):**
+    - **Vorher:** Sie zahlen keinen Zehnten und betrügen den Tempel
+    - **Nachher:** Sie wollen den Zehnten vorenthalten und die Tempeldiener berauben
+
+### `am_024` (Amos 8:11-12)
+- **Frage Vorher:** Welche Not wird in Amos 8:11 angekündigt?
+- **Frage Nachher:** Welcher Hunger wird in Amos 8:11 angekündigt?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Ein Hunger nach dem Wort des HERRN, zu hören
+    - **Nachher:** Nicht nach Brot, sondern nach dem Wort des HERRN, zu hören
+  - **Option B (Falsch):**
+    - **Vorher:** Ein Hunger nach Brot und Wasser, der das Land verzehrt
+    - **Nachher:** Ein Hunger nach Brot und Früchten, der das ganze Land ergreift
+  - **Option C (Falsch):**
+    - **Vorher:** Ein Durst nach Wasser, der Mensch und Vieh dahinrafft
+    - **Nachher:** Ein schwerer Durst nach Wasser, der Mensch und Vieh dahinrafft
+  - **Option D (Falsch):**
+    - **Vorher:** Eine Dürre im Land, die alle Quellen austrocknet
+    - **Nachher:** Eine große Dürre im Lande, die alle Brunnen gänzlich austrocknet
+
+### `am_025` (Amos 9:2-3)
+- **Frage Vorher:** Was zeigt Amos 9:2 über das Gericht des HERRN?
+- **Frage Nachher:** Was bezeugt Amos 9:2 über das Gericht des Herrn?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Niemand entkommt ihm, weder in der Hölle noch im Himmel
+    - **Nachher:** Ob sie sich in die Hölle vergrüben, soll sie seine Hand von dort holen
+  - **Option A (Falsch):**
+    - **Vorher:** Nur die Gottlosen werden erreicht, die Frommen entkommen
+    - **Nachher:** Wer sich im Heiligtum birgt, der soll vor dem Gerichte verschont bleiben
+  - **Option C (Falsch):**
+    - **Vorher:** Es gilt nur für Samaria, das übrige Land bleibt verschont
+    - **Nachher:** Wer auf hohe Berge flieht, wird sicher sein vor den Boten des Gerichts
+  - **Option D (Falsch):**
+    - **Vorher:** Es kommt erst nach vielen Jahren, wenn niemand mehr daran denkt
+    - **Nachher:** Nur wer in Samaria bleibt, wird von der Hand des Feindes getroffen werden
+
+### `am_026` (Amos 9:11)
+- **Frage:** Was verheißt der HERR in Amos 9:11?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Die zerfallene Hütte Davids wieder aufzurichten
+    - **Nachher:** Die zerfallene Hütte Davids wieder aufzurichten und zu bauen
+  - **Option A (Falsch):**
+    - **Vorher:** Das Land zu teilen und jedem sein Erbe zurückzugeben
+    - **Nachher:** Einen neuen Tempel aus behauenen Steinen wieder zu erbauen
+  - **Option B (Falsch):**
+    - **Vorher:** Einen neuen Tempel zu bauen und das Volk zu sammeln
+    - **Nachher:** Das ganze Land unter den zwölf Stämmen neu zu verteilen
+  - **Option D (Falsch):**
+    - **Vorher:** Einen neuen Bund zu stiften und das Gesetz zu erneuern
+    - **Nachher:** Einen ewigen Bund des Friedens mit seinem Volk zu schließen
+
+### `am_027` (Amos 9:14-15)
+- **Frage Vorher:** Womit schließt das Buch Amos (Amos 9:14)?
+- **Frage Nachher:** Womit schließt die Verheißung in Amos 9:14?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Mit der Wende des Gefängnisses Israels, dass sie die wüsten Städte bauen und Weinberge pflanzen
+    - **Nachher:** Mit der Wende des Gefängnisses, dass sie wüste Städte bauen und bewohnen
+  - **Option A (Falsch):**
+    - **Vorher:** Mit der Zerstörung des Tempels und der Verbannung des gesamten Volkes in ein fernes Land
+    - **Nachher:** Mit der Zerstörung des Heiligtums und der Verbannung des Volkes in ferne Länder
+  - **Option B (Falsch):**
+    - **Vorher:** Mit dem Gericht über Edom und alle Nachbarvölker, die Israel immer wieder bedrängt haben
+    - **Nachher:** Mit dem Strafgericht über alle Nachbarvölker, die Israel hart bedrängt hatten
+  - **Option C (Falsch):**
+    - **Vorher:** Mit dem Aufruf zur Buße und der ernsten Mahnung zur Umkehr an das ganze Volk Israel
+    - **Nachher:** Mit dem Aufruf zur Buße und der ernsten Mahnung an das abtrünnige Haus Israel
