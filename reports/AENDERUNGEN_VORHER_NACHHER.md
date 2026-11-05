@@ -46,7 +46,8 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
 | `38_sacharja.json` | 42 | 19 | 2 | 19 | 0 |
 | `39_maleachi.json` | 20 | 5 | 0 | 5 | 0 |
 | `40_matthaeus.json` | 148 | 40 | 0 | 40 | 3 |
-| **Gesamt (40 Dateien)** | **3572** | **1610** | **1026** | **1459** | **90** |
+| `41_markus.json` | 80 | 16 | 0 | 16 | 0 |
+| **Gesamt (41 Dateien)** | **3652** | **1626** | **1026** | **1475** | **90** |
 
 ## 01_1_mose.json – 1. Mose (Genesis) (Schlachter (Revision von 1951))
 
@@ -22847,3 +22848,231 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
   - **Option F (Richtig):**
     - **Vorher:** Jesus steht von den Toten auf
     - **Nachher:** Die Auferstehung von den Toten
+
+## 41_markus.json – Markus (Schlachter (Revision von 1951))
+
+### `mk_007` (Markus 2:5)
+- **Frage:** Was rief Jesus dem Gelähmten vor Seiner leiblichen Heilung zu?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Sohn, deine Sünden sind dir vergeben
+    - **Nachher:** Kind, deine Sünden sind dir vergeben
+
+### `mk_008` (Markus 2:14)
+- **Frage:** Welchen Beruf übte Levi aus, als Jesus ihn in Seine Nachfolge rief?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Zöllner
+    - **Nachher:** Er war ein Zöllner
+  - **Option B (Falsch):**
+    - **Vorher:** Fischer am See Genezareth
+    - **Nachher:** Fischer auf dem See
+  - **Option C (Falsch):**
+    - **Vorher:** Zimmermann in Nazareth
+    - **Nachher:** Schreiber am Tempel
+  - **Option D (Falsch):**
+    - **Vorher:** Priester am Tempel
+    - **Nachher:** Zimmermann im Land
+
+### `mk_018` (Markus 4:26-29)
+- **Frage:** Welches Gleichnis beschreibt das unbemerkte Wachstum des Reiches Gottes?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Die Saat, die von selbst wächst
+    - **Nachher:** Die von selbst wachsende Saat auf dem Acker
+  - **Option A (Falsch):**
+    - **Vorher:** Der verborgene Schatz im Acker
+    - **Nachher:** Das Gleichnis vom Unkraut auf dem Weizenfeld
+  - **Option B (Falsch):**
+    - **Vorher:** Die kostbare Perle des Kaufmanns
+    - **Nachher:** Das Gleichnis vom verlorenen Schaf im Gebirge
+  - **Option D (Falsch):**
+    - **Vorher:** Das Netz im See
+    - **Nachher:** Das Gleichnis vom kleinen Senfkorn im Garten
+
+### `mk_020` (Markus 4:35-41)
+- **Frage:** Welche Worte sprach Jesus, um den wütenden Seesturm zu stillen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Schweig und verstumme!
+    - **Nachher:** Schweig, verstumme!
+  - **Option B (Falsch):**
+    - **Vorher:** Wind, weiche!
+    - **Nachher:** Sei still, du Meer!
+  - **Option C (Falsch):**
+    - **Vorher:** Flut, lege dich nieder!
+    - **Nachher:** Wind, lege dich nun!
+  - **Option D (Falsch):**
+    - **Vorher:** Wellen, kehrt um!
+    - **Nachher:** Wellen, weichet nun!
+
+### `mk_021` (Markus 5:1-5)
+- **Frage:** Wo hatte der Besessene im Gebiet der Gerasener seinen Aufenthalt?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** In den Grabhöhlen
+    - **Nachher:** In den Totengräbern
+  - **Option A (Falsch):**
+    - **Vorher:** In den Wäldern am Fels
+    - **Nachher:** In einer Felsenhöhle
+  - **Option C (Falsch):**
+    - **Vorher:** Am Meeresstrand
+    - **Nachher:** Im tiefen Waldgebüsch
+  - **Option D (Falsch):**
+    - **Vorher:** Am Stadttor
+    - **Nachher:** Auf den hohen Bergen
+
+### `mk_026` (Markus 6:1-6)
+- **Frage:** Warum wunderte Sich Jesus bei Seinem Besuch in Seiner Heimatstadt Nazareth?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Über ihren Unglauben
+    - **Nachher:** Über ihren großen und verstockten Unglauben
+  - **Option A (Falsch):**
+    - **Vorher:** Dass sie ihm ein Ehrenmahl bereiteten
+    - **Nachher:** Dass sie ihm ein großes Ehrenmahl bereiteten
+  - **Option B (Falsch):**
+    - **Vorher:** Dass die Pharisäer ihn anklagten
+    - **Nachher:** Dass die Pharisäer ihn vor Gericht anklagten
+  - **Option D (Falsch):**
+    - **Vorher:** Dass alle Kranken geheilt wurden
+    - **Nachher:** Dass alle Kranken der ganzen Stadt genasen
+
+### `mk_033` (Markus 7:20-23)
+- **Frage:** Woher kommen nach der Lehre Jesu die Dinge, die den Menschen verunreinigen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Aus dem Herzen des Menschen
+    - **Nachher:** Aus dem unreinen Herzen des Menschen
+  - **Option C (Falsch):**
+    - **Vorher:** Von heidnischer Kleidung
+    - **Nachher:** Von heidnischer Kleidung und Tracht
+  - **Option D (Falsch):**
+    - **Vorher:** Vom Staub der Straße
+    - **Nachher:** Vom Straßenstaub an den nackten Füßen
+
+### `mk_038` (Markus 8:22-26)
+- **Frage:** Wie vollzog Sich die Heilung des Blinden bei Bethsaida?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Schrittweise, durch zweimaliges Handauflegen
+    - **Nachher:** Schrittweise, durch zweimaliges Berühren
+  - **Option A (Falsch):**
+    - **Vorher:** Sofort nach dem Waschen im Teich Siloah
+    - **Nachher:** Durch ein einmaliges Wort aus der Ferne
+  - **Option B (Falsch):**
+    - **Vorher:** Allein durch ein Wort aus der Ferne
+    - **Nachher:** Durch Waschen im Teich Siloah am Sabbat
+  - **Option D (Falsch):**
+    - **Vorher:** Nach dreitägigem Fasten
+    - **Nachher:** Durch Salben mit wohlriechendem Öl im Haus
+
+### `mk_039` (Markus 8:27-30)
+- **Frage:** Welches Bekenntnis legte Petrus bei Cäsarea Philippi ab?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Du bist der Christus
+    - **Nachher:** Du bist der verheißene Christus
+  - **Option A (Falsch):**
+    - **Vorher:** Du bist Elia
+    - **Nachher:** Du bist ein großer Prophet
+
+### `mk_054` (Markus 11:20-21)
+- **Frage:** Was stellten die Jünger am nächsten Morgen am verfluchten Feigenbaum fest?
+- **Richtige Antwort (unverändert, Option C):** Er war von den Wurzeln an verdorrt
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Er trug reiche Feigen
+    - **Nachher:** Er trug nun reiche süße Früchte
+  - **Option B (Falsch):**
+    - **Vorher:** Er war von Soldaten umgehauen worden
+    - **Nachher:** Er war von Soldaten umgehauen
+  - **Option D (Falsch):**
+    - **Vorher:** Er hatte alle Blätter verloren, trieb aber neu
+    - **Nachher:** Er trieb viele neue grüne Zweige
+
+### `mk_056` (Markus 12:1-8)
+- **Frage:** Was taten die bösen Weingärtner mit dem geliebten Sohn des Weinbergbesitzers?
+- **Richtige Antwort (unverändert, Option A):** Sie töteten ihn und warfen ihn aus dem Weinberg hinaus
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Sie nahmen ihn ehrerbietig auf
+    - **Nachher:** Sie ehrten ihn und gaben ihm alle Früchte des Weinbergs
+  - **Option C (Falsch):**
+    - **Vorher:** Sie banden ihn und schickten ihn ins Nachbarland
+    - **Nachher:** Sie nahmen ihn gefangen und brachten ihn vor die Richter
+  - **Option D (Falsch):**
+    - **Vorher:** Sie forderten Lösegeld und ließen ihn frei
+    - **Nachher:** Sie flohen vor ihm und verließen das Land für immerdar
+
+### `mk_072` (Markus 15:21)
+- **Frage:** Wer wurde gezwungen, Jesus das Kreuz zur Hinrichtungsstätte zu tragen?
+- **Richtige Antwort (unverändert, Option A):** Simon von Kyrene
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Falsch):**
+    - **Vorher:** Nikodemus
+    - **Nachher:** Nikodemus der Ratsherr
+
+### `mk_074` (Markus 15:37-38)
+- **Frage:** Was geschah im Tempel unmittelbar beim Verscheiden Jesu am Kreuz?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Der Vorhang im Tempel zerriss von oben bis unten in zwei Stücke
+    - **Nachher:** Der Vorhang im Tempel riss entzwei von oben bis unten
+  - **Option A (Falsch):**
+    - **Vorher:** Die Tempelmauern stürzten ein, und die Priester flohen aus dem Heiligtum
+    - **Nachher:** Die Tempelmauern stürzten mit großem Getöse ein
+  - **Option B (Falsch):**
+    - **Vorher:** Das Räucherfass fiel vom Altar, und der Weihrauch verlöschte im Feuer
+    - **Nachher:** Das goldene Räucherfass fiel vor dem Altar nieder
+  - **Option D (Falsch):**
+    - **Vorher:** Eine schwarze Wolke hüllte die Lade ein, und das Licht des Leuchters erlosch
+    - **Nachher:** Eine dichte Wolke hüllte die Bundeslade ganz ein
+
+### `mk_075` (Markus 15:42-46)
+- **Frage:** Wer bat Pilatus um den Leichnam Jesu für das Begräbnis?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Josef von Arimathäa
+    - **Nachher:** Joseph von Arimathia
+  - **Option A (Falsch):**
+    - **Vorher:** Simon Petrus
+    - **Nachher:** Der Apostel Simon Petrus
+  - **Option B (Falsch):**
+    - **Vorher:** Johannes
+    - **Nachher:** Der Jünger Johannes
+  - **Option C (Falsch):**
+    - **Vorher:** Nikodemus
+    - **Nachher:** Der Ratsherr Nikodemus
+
+### `mk_078` (Markus 16:6-7)
+- **Frage:** Welche Botschaft verkündete der Jüngling den Frauen über Jesus?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Er ist auferstanden, er ist nicht hier; sehet die Stätte, wo sie ihn hinlegten
+    - **Nachher:** Er ist auferstanden, er ist nicht hier; seht den Ort seiner Liegestatt
+  - **Option A (Falsch):**
+    - **Vorher:** Sucht seinen Leichnam im Garten, denn er ist noch nicht weit gekommen
+    - **Nachher:** Sucht seinen Leichnam in der Stadt, denn er ist noch nicht weit fort
+  - **Option B (Falsch):**
+    - **Vorher:** Geht nach Jerusalem und trauert mit den Jüngern um euren Meister
+    - **Nachher:** Geht nach Jerusalem hinein und trauert dort mit den Jüngern um ihn
+  - **Option D (Falsch):**
+    - **Vorher:** Schweigt vor aller Welt, denn niemand soll von diesem Ort erfahren
+    - **Nachher:** Schweigt vor aller Welt und redet mit niemand über das leere Grab
+
+### `mk_079` (Markus 16:14-16)
+- **Frage:** Welcher Auftrag erging am Schluss an die elf Apostel beim Mahl?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Geht hin in alle Welt und predigt das Evangelium aller Kreatur
+    - **Nachher:** Geht hin in alle Welt und verkündigt das Evangelium der Schöpfung
+  - **Option A (Falsch):**
+    - **Vorher:** Bleibt in Jerusalem und gründet eine Schule des Gesetzes
+    - **Nachher:** Bleibt in Jerusalem und gründet eine Schule für das heilige Gesetz
+  - **Option B (Falsch):**
+    - **Vorher:** Baut ein neues Heiligtum auf Zion
+    - **Nachher:** Zieht durch das Land und erbaut ein neues Heiligtum auf dem Zion
+  - **Option C (Falsch):**
+    - **Vorher:** Fordert von den Heiden Tempelgeld
+    - **Nachher:** Geht zu den Heidenvölkern und fordert reiches Tempelgeld für Rom
