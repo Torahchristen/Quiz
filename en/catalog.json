@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-11-05T20:08:28Z",
+  "lastUpdated": "2026-11-05T20:10:38Z",
   "language": "en",
   "categories": [
     {
@@ -619,6 +619,25 @@
       ],
       "sizeBytes": 27203,
       "downloadUrl": "./en/30_amos.json"
+    },
+    {
+      "quizId": "bibel_31_obadja_en",
+      "category": "propheten",
+      "title": "Obadiah",
+      "subtitle": "Obadiah 1:1–21 (10 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "1.0.0",
+      "questionCount": 10,
+      "difficulty": "medium",
+      "tags": [
+        "Obadiah",
+        "OT",
+        "prophets",
+        "KJV"
+      ],
+      "sizeBytes": 10291,
+      "downloadUrl": "./en/31_obadja.json"
     }
   ]
 }

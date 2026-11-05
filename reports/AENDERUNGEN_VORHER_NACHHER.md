@@ -36,7 +36,8 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
 | `28_hosea.json` | 43 | 2 | 0 | 2 | 0 |
 | `29_joel.json` | 18 | 1 | 1 | 0 | 1 |
 | `30_amos.json` | 27 | 24 | 18 | 22 | 2 |
-| **Gesamt (30 Dateien)** | **3245** | **1452** | **973** | **1305** | **62** |
+| `31_obadja.json` | 10 | 10 | 7 | 10 | 0 |
+| **Gesamt (31 Dateien)** | **3255** | **1462** | **980** | **1315** | **62** |
 
 ## 01_1_mose.json – 1. Mose (Genesis) (Schlachter (Revision von 1951))
 
@@ -20512,3 +20513,162 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
   - **Option C (Falsch):**
     - **Vorher:** Mit dem Aufruf zur Buße und der ernsten Mahnung zur Umkehr an das ganze Volk Israel
     - **Nachher:** Mit dem Aufruf zur Buße und der ernsten Mahnung an das abtrünnige Haus Israel
+
+## 31_obadja.json – Obadja (Luther 1912)
+
+### `ob_001` (Obadja 1:1)
+- **Frage Vorher:** Welches Brudervolk wird im Buch Obadja gerichtet?
+- **Frage Nachher:** Über welches Volk ergeht das Gesicht Obadjas in Obadja 1:1?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Edom
+    - **Nachher:** Über Edom
+  - **Option A (Falsch):**
+    - **Vorher:** Moab
+    - **Nachher:** Über Moab
+  - **Option C (Falsch):**
+    - **Vorher:** Ammon
+    - **Nachher:** Über Ammon
+  - **Option D (Falsch):**
+    - **Vorher:** Philistäa
+    - **Nachher:** Über Aram
+
+### `ob_002` (Obadja 1:4)
+- **Frage:** Wie beschreibt Obadja 1:4 den Hochmut Edoms?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Wenn du dein Nest hoch wie ein Adler bautest, will ich dich herunterstürzen
+    - **Nachher:** Wenn du gleich in die Höhe führest wie ein Adler, will ich dich herunterstürzen
+  - **Option A (Falsch):**
+    - **Vorher:** Du bist stärker als alle Völker, darum stürze ich dich herab
+    - **Nachher:** Wenn du auch mächtiger wärest als alle Völker, will ich dich doch herunterstürzen
+  - **Option B (Falsch):**
+    - **Vorher:** Du wohnst sicher hinter mächtigen Mauern, darum stürze ich dich herab
+    - **Nachher:** Wenn du auch sicher auf hohen Felsen thronest, will ich dich doch herunterstürzen
+  - **Option D (Falsch):**
+    - **Vorher:** Du bist reicher als Israel, darum stürze ich dich herab
+    - **Nachher:** Wenn du auch reicher wärest als alle Könige, will ich dich doch herunterstürzen
+
+### `ob_003` (Obadja 1:17-21)
+- **Frage Vorher:** Welche Verheißung gibt Obadja 1:17-21?
+- **Frage Nachher:** Welche Verheißung gibt Obadja 1:17.21 für den Berg Zion?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Auf dem Berg Zion wird Errettung sein, und das Reich wird des HERRN sein
+    - **Nachher:** Auf dem Berge Zion wird eine Errettung sein, und das Reich wird des HERRN sein
+  - **Option A (Falsch):**
+    - **Vorher:** Der Tempel wird neu gebaut werden, und das Königtum gehört dem HERRN
+    - **Nachher:** Auf dem heiligen Berge Morija wird Friede sein, und das Reich gehört dem HERRN
+  - **Option B (Falsch):**
+    - **Vorher:** Edom wird Israel dienen müssen, und das Reich gehört allein dem HERRN
+    - **Nachher:** Im ganzen Lande Kanaan wird Sicherheit sein, und das Reich gehört dem HERRN
+  - **Option C (Falsch):**
+    - **Vorher:** Das Land wird wieder fruchtbar werden, und das Reich gehört dem HERRN
+    - **Nachher:** Unter allen Völkern der Erde wird Buße sein, und das Reich gehört dem HERRN
+
+### `ob_004` (Obadja 1:3)
+- **Frage:** Wo wohnte Edom nach Obadja 1:3 in seinem Hochmut?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** In den Klüften der Felsen, in hohen Schlössern
+    - **Nachher:** In der Felsen Klüften, in seinen hohen Schlössern
+  - **Option B (Falsch):**
+    - **Vorher:** In den Zelten der Wüste, an Brunnen und Weiden
+    - **Nachher:** In den Zelten der Wüste, an den frischen Quellen
+  - **Option C (Falsch):**
+    - **Vorher:** Auf den Inseln des Meeres, in Häusern aus Zedernholz
+    - **Nachher:** Auf den Inseln im Meere, in Palästen aus Zedern
+  - **Option D (Falsch):**
+    - **Vorher:** In den Tälern am Jordan, in ummauerten Städten
+    - **Nachher:** In den Tälern am Jordan, in befestigten Städten
+
+### `ob_005` (Obadja 1:7)
+- **Frage Vorher:** Was geschieht nach Obadja 1:7 mit den Bundesgenossen Edoms?
+- **Frage Nachher:** Was kündigt Obadja 1:7 über die Bundesgenossen Edoms an?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Sie stoßen Edom zum Land hinaus und verraten es, ehe es das merkt
+    - **Nachher:** Sie stoßen es zum Lande hinaus und verraten es, ehe es das merkt
+  - **Option B (Falsch):**
+    - **Vorher:** Sie schicken ihm Brot und Wein und stärken seine Festungen
+    - **Nachher:** Sie senden ihm reiche Hilfe und verteidigen alle seine Festungen
+  - **Option C (Falsch):**
+    - **Vorher:** Sie ziehen sich schweigend zurück und lassen Edom in Ruhe
+    - **Nachher:** Sie ziehen sich friedlich zurück und schließen einen neuen Bund
+  - **Option D (Falsch):**
+    - **Vorher:** Sie halten ihm bis zuletzt die Treue und kämpfen an seiner Seite
+    - **Nachher:** Sie halten ihm unverbrüchlich die Treue und kämpfen an seiner Hand
+
+### `ob_006` (Obadja 1:11-12)
+- **Frage Vorher:** Was wirft Obadja 1:11-12 Edom für den Tag von Jerusalems Unglück vor?
+- **Frage Nachher:** Was wirft Obadja 1:11-12 Edom zur Zeit des Unglücks seines Bruders vor?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Es stand dabei wie einer der Fremden und freute sich am Elend seines Bruders
+    - **Nachher:** Es stand dabei wie die Fremden und freute sich über den Jammer seines Bruders
+  - **Option A (Falsch):**
+    - **Vorher:** Es sandte Hilfe an Jerusalem, doch sie kam zu spät und richtete nichts aus
+    - **Nachher:** Es sandte Gesandte nach Jerusalem, doch sie kamen zu spät und halfen nicht
+  - **Option C (Falsch):**
+    - **Vorher:** Es nahm die Flüchtlinge Judas auf und verbarg sie in seinen Städten
+    - **Nachher:** Es nahm die Flüchtigen Judas gefangen und lieferte sie an fremde Könige aus
+  - **Option D (Falsch):**
+    - **Vorher:** Es hielt sich schweigend fern und trauerte mit dem Volk der Juden
+    - **Nachher:** Es hielt sich heimlich verborgen und trauerte mit dem betrübten Volke Juda
+
+### `ob_007` (Obadja 1:15)
+- **Frage:** Was ist nach Obadja 1:15 nahe über alle Heiden?
+- **Richtige Antwort (unverändert, Option C):** Der Tag des HERRN
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Das Jubeljahr des HERRN
+    - **Nachher:** Das Gericht des Königs
+  - **Option B (Falsch):**
+    - **Vorher:** Das Laubhüttenfest der Völker
+    - **Nachher:** Das Heil aller Völker
+  - **Option D (Falsch):**
+    - **Vorher:** Das große Sühnefest der Heiden
+    - **Nachher:** Der Bund des Friedens
+
+### `ob_008` (Obadja 1:15)
+- **Frage Vorher:** Nach welchem Grundsatz wird Edom nach Obadja 1:15 gerichtet?
+- **Frage Nachher:** Welcher Grundsatz des Gerichts wird in Obadja 1:15 ausgesprochen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Wie du getan hast, soll dir wieder geschehen
+    - **Nachher:** Wie du getan hast, soll dir wieder auf deinen eigenen Kopf kommen
+  - **Option A (Falsch):**
+    - **Vorher:** Wer sich selbst richtet, wird von keinem anderen gerichtet
+    - **Nachher:** Wer sich selbst richtet, der wird von keinem fremden Richter gerichtet
+  - **Option B (Falsch):**
+    - **Vorher:** Wie die Väter gesündigt haben, so sollen die Söhne büßen
+    - **Nachher:** Wie die Väter gesündigt haben, so müssen die Kinder dafür Buße tun
+  - **Option C (Falsch):**
+    - **Vorher:** Was du gesät hast, wirst du siebenfältig wieder ernten
+    - **Nachher:** Was ein Mensch sät in dieser Welt, das wird er siebenfältig ernten
+
+### `ob_009` (Obadja 1:18)
+- **Frage Vorher:** Womit werden nach Obadja 1:18 das Haus Jakob, das Haus Joseph und das Haus Esau verglichen?
+- **Frage Nachher:** Womit werden nach Obadja 1:18 das Haus Jakob, Joseph und Esau verglichen?
+- **Richtige Antwort (unverändert, Option A):** Jakob ein Feuer, Joseph eine Flamme, Esau Stroh
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Falsch):**
+    - **Vorher:** Jakob ein Fels, Joseph eine Burg, Esau Sand
+    - **Nachher:** Jakob ein Fels, Joseph eine Burg, Esau Staub
+
+### `ob_010` (Obadja 1:21)
+- **Frage Vorher:** Wem gehört am Ende nach Obadja 1:21 das Königreich?
+- **Frage Nachher:** Wessen wird das Königreich am Ende nach Obadja 1:21 sein?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Dem HERRN allein
+    - **Nachher:** Es wird des HERRN sein
+  - **Option A (Falsch):**
+    - **Vorher:** Dem Haus Joseph, das Ephraim besitzt
+    - **Nachher:** Es wird des Hauses Joseph
+  - **Option C (Falsch):**
+    - **Vorher:** Dem Haus Jakob, das Esau besiegt hat
+    - **Nachher:** Es wird des Hauses Jakob
+  - **Option D (Falsch):**
+    - **Vorher:** Den Philistern, die im Tiefland wohnen
+    - **Nachher:** Es wird der Kinder Israel
