@@ -1,7 +1,7 @@
 {
   "branch": "review-and-english",
   "totalFiles": 66,
-  "completedCount": 25,
+  "completedCount": 26,
   "completedFiles": [
     "01_1_mose.json",
     "02_2_mose.json",
@@ -27,10 +27,10 @@
     "22_hohelied.json",
     "23_jesaja.json",
     "24_jeremia.json",
-    "25_klagelieder.json"
+    "25_klagelieder.json",
+    "26_hesekiel.json"
   ],
   "pendingFiles": [
-    "26_hesekiel.json",
     "27_daniel.json",
     "28_hosea.json",
     "29_joel.json",
@@ -247,6 +247,13 @@
       "explanationsReviewedEn": 0,
       "reportPath": "reports/25_klagelieder.md",
       "enPath": "en/25_klagelieder.json"
+    },
+    "26_hesekiel.json": {
+      "questionsCount": 139,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/26_hesekiel.md",
+      "enPath": "en/26_hesekiel.json"
     }
   }
 }

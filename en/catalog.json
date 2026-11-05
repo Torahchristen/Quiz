@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-11-05T19:40:45Z",
+  "lastUpdated": "2026-11-05T19:52:46Z",
   "language": "en",
   "categories": [
     {
@@ -524,6 +524,25 @@
       ],
       "sizeBytes": 19219,
       "downloadUrl": "./en/25_klagelieder.json"
+    },
+    {
+      "quizId": "bibel_26_hesekiel_en",
+      "category": "propheten",
+      "title": "Ezekiel",
+      "subtitle": "Ezekiel 1:1 – 48:35 (139 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "1.0.0",
+      "questionCount": 139,
+      "difficulty": "medium",
+      "tags": [
+        "Ezekiel",
+        "OT",
+        "prophets",
+        "KJV"
+      ],
+      "sizeBytes": 136984,
+      "downloadUrl": "./en/26_hesekiel.json"
     }
   ]
 }

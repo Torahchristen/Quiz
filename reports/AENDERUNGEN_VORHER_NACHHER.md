@@ -31,7 +31,8 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
 | `23_jesaja.json` | 196 | 58 | 1 | 57 | 2 |
 | `24_jeremia.json` | 157 | 24 | 3 | 24 | 0 |
 | `25_klagelieder.json` | 18 | 8 | 0 | 8 | 0 |
-| **Gesamt (25 Dateien)** | **2981** | **1394** | **950** | **1256** | **54** |
+| `26_hesekiel.json` | 139 | 22 | 2 | 18 | 4 |
+| **Gesamt (26 Dateien)** | **3120** | **1416** | **952** | **1274** | **58** |
 
 ## 01_1_mose.json – 1. Mose (Genesis) (Schlachter (Revision von 1951))
 
@@ -19731,3 +19732,289 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
   - **Option D (Falsch):**
     - **Vorher:** Schneller als die Rosse in der Ebene
     - **Nachher:** Schneller als die Rosse in dem Streite
+
+## 26_hesekiel.json – Hesekiel (Luther 1912)
+
+### `hes_001` (Hesekiel 1:1-3)
+- **Frage:** Wo befand sich Hesekiel, als er die erste Vision sah (Hesekiel 1:1-3)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Unter den Gefangenen am Wasser Kebar im Land der Chaldäer
+    - **Nachher:** Unter den Gefangenen am Wasser Chebar im Lande Chaldäa
+  - **Option A (Falsch):**
+    - **Vorher:** Bei den Gefangenen am Fluss Euphrat in der Stadt Babel, mitten unter den Chaldäern
+    - **Nachher:** Unter den Gefangenen am Euphrat in der Stadt Babel
+  - **Option B (Falsch):**
+    - **Vorher:** Bei den Verbannten am Fluss Ulai in der Stadt Susa, im Reich der Perser
+    - **Nachher:** Unter den Gefangenen am Strome Ulai in der Burg Susa
+  - **Option C (Falsch):**
+    - **Vorher:** Bei den Gefangenen am Tigris nahe der Stadt Ninive, im Land der Assyrer
+    - **Nachher:** Unter den Gefangenen am Tigris nahe der Stadt Ninive
+
+### `hes_005` (Hesekiel 4:4-5)
+- **Frage:** Wie viele Tage lag Hesekiel auf der linken Seite für die Missetat Israels (Hesekiel 4:5)?
+- **Richtige Antwort (unverändert, Option C):** Dreihundertneunzig Tage
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Vierzig Tage
+    - **Nachher:** Genau vierzig Tage
+  - **Option B (Falsch):**
+    - **Vorher:** Siebzig Tage
+    - **Nachher:** Genau siebzig Tage
+  - **Option D (Falsch):**
+    - **Vorher:** Hundertzwanzig Tage
+    - **Nachher:** Einhundertzwanzig Tage
+
+### `hes_006` (Hesekiel 4:12-15)
+- **Frage:** Worauf durfte Hesekiel nach Hesekiel 4:15 sein Brot backen?
+- **Richtige Antwort (unverändert, Option D):** Auf Kuhmist anstelle von Menschenmist
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Auf Holzkohle, damit das Brot rein bleibe und nicht verunreinigt werde
+    - **Nachher:** Auf reinem Holz anstelle von Menschenmist
+  - **Option B (Falsch):**
+    - **Vorher:** Auf Menschenmist, wie es der HERR ursprünglich befohlen hatte
+    - **Nachher:** Auf Holzkohle anstelle von Menschenmist
+  - **Option C (Falsch):**
+    - **Vorher:** Auf heißen Steinen, wie es die Hirten in der Wüste tun
+    - **Nachher:** Auf dürrem Stroh anstelle von Menschenmist
+
+### `hes_011` (Hesekiel 18:4)
+- **Frage:** Was gilt nach Hesekiel 18:4 für die Seele, die sündigt?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Sie stirbt
+    - **Nachher:** Sie soll sterben
+  - **Option A (Falsch):**
+    - **Vorher:** Sie wird bestraft samt den Kindern
+    - **Nachher:** Sie wird ausgestoßen
+  - **Option B (Falsch):**
+    - **Vorher:** Sie wird vergessen
+    - **Nachher:** Sie wird verbannt
+  - **Option D (Falsch):**
+    - **Vorher:** Sie wird verbannt
+    - **Nachher:** Sie wird vergessen
+
+### `hes_019` (Hesekiel 48:35)
+- **Frage:** Wie heißt die Stadt nach Hesekiel 48:35?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Der HERR ist daselbst
+    - **Nachher:** Hier ist der HERR
+  - **Option A (Falsch):**
+    - **Vorher:** Neues Jerusalem
+    - **Nachher:** Die Stadt des HERRN
+  - **Option B (Falsch):**
+    - **Vorher:** Zion
+    - **Nachher:** Das neue Jerusalem
+  - **Option C (Falsch):**
+    - **Vorher:** Salem
+    - **Nachher:** Zion, die heilige Stadt
+
+### `hes_041` (Hesekiel 11:13)
+- **Frage:** Was geschah mit Pelatja, während Hesekiel weissagte (Hesekiel 11:13)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Er starb
+    - **Nachher:** Er starb auf der Stelle
+  - **Option A (Falsch):**
+    - **Vorher:** Er wurde krank
+    - **Nachher:** Er fiel in Ohnmacht
+  - **Option B (Falsch):**
+    - **Vorher:** Er floh
+    - **Nachher:** Er floh aus der Stadt
+  - **Option D (Falsch):**
+    - **Vorher:** Er bekehrte sich
+    - **Nachher:** Er tat Buße vor Gott
+
+### `hes_060` (Hesekiel 6:7)
+- **Bibelstelle Vorher:** `Hesekiel 6:7; 11:12` -> **Nachher:** `Hesekiel 6:7`
+- **Frage:** Welchen Zweck nennt der HERR immer wieder für seine Taten (Hesekiel 6:7)?
+
+### `hes_061` (Hesekiel 17:3-12)
+- **Bibelstelle Vorher:** `Hesekiel 17:3.12` -> **Nachher:** `Hesekiel 17:3-12`
+- **Frage:** Wen stellt der große Adler in Hesekiel 17:3-12 dar?
+
+### `hes_067` (Hesekiel 19:4-9)
+- **Bibelstelle Vorher:** `Hesekiel 19:4.9` -> **Nachher:** `Hesekiel 19:4-9`
+- **Frage Vorher:** Wohin wurden die beiden jungen Löwen geführt (Hesekiel 19:4.9)?
+- **Frage Nachher:** Wohin wurden die beiden jungen Löwen geführt (Hesekiel 19:4-9)?
+
+### `hes_071` (Hesekiel 20:35)
+- **Frage:** Wohin will der HERR sein Volk nach Hesekiel 20:35 bringen, um mit ihm zu rechten?
+- **Richtige Antwort (unverändert, Option D):** In die Wüste der Völker
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Nach Babel
+    - **Nachher:** In das Land Babel
+  - **Option B (Falsch):**
+    - **Vorher:** Nach Jerusalem
+    - **Nachher:** Nach Jerusalem hin
+
+### `hes_072` (Hesekiel 21:9-10)
+- **Frage Vorher:** Mit welchem Bild kündigt Hesekiel 21:14-15 das Gericht an?
+- **Frage Nachher:** Mit welchem Bild kündigt Hesekiel 21:9-10 das Gericht an?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Ein Schwert, scharf und geschliffen, damit es schlachte und blitze
+    - **Nachher:** Ein Schwert, geschärft und gefegt, damit es schlachte und blinke
+  - **Option B (Falsch):**
+    - **Vorher:** Ein Sturm vom Meer, der alle Mauern niederreißt und die Türme der Stadt einstürzen lässt
+    - **Nachher:** Ein Feuer, das von Mitternacht her alle Bäume im Wald verzehrt
+  - **Option C (Falsch):**
+    - **Vorher:** Eine Flut, die das ganze Land überschwemmt und alles Leben unter sich begräbt
+    - **Nachher:** Ein Bogen, gespannt und gerichtet, der tödliche Pfeile abschießt
+  - **Option D (Falsch):**
+    - **Vorher:** Ein Feuer vom Himmel, das alle Städte des Landes verzehrt und nichts übrig lässt
+    - **Nachher:** Ein Hammer, der Felsen zerschmettert und Mauern niederreißt
+
+### `hes_088` (Hesekiel 26:4-5, 14)
+- **Frage:** Was wird aus Tyrus nach Hesekiel 26:4?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Ein bloßer Fels
+    - **Nachher:** Ein ganz bloßer Fels
+  - **Option B (Falsch):**
+    - **Vorher:** Eine Handelsstadt
+    - **Nachher:** Eine öde Ruinenstätte
+  - **Option C (Falsch):**
+    - **Vorher:** Eine Hafenstadt unter Babel
+    - **Nachher:** Ein Riff tief im Meere
+  - **Option D (Falsch):**
+    - **Vorher:** Eine Festung
+    - **Nachher:** Ein kahler Sandhaufen
+
+### `hes_096` (Hesekiel 29:6-7)
+- **Frage:** Als was erwies sich Ägypten dem Haus Israel nach Hesekiel 29:6?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Als ein Rohrstab
+    - **Nachher:** Als ein schwacher Rohrstab
+  - **Option B (Falsch):**
+    - **Vorher:** Als ein starker Schild
+    - **Nachher:** Als eine feste Schutzburg
+  - **Option C (Falsch):**
+    - **Vorher:** Als ein treuer Freund
+    - **Nachher:** Als ein schützender Schild
+  - **Option D (Falsch):**
+    - **Vorher:** Als ein Fels
+    - **Nachher:** Als ein unerschütterter Fels
+
+### `hes_110` (Hesekiel 34:23)
+- **Frage:** Wen setzt der HERR nach Hesekiel 34:23 als einzigen Hirten ein?
+- **Richtige Antwort (unverändert, Option C):** Seinen Knecht David
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Einen Priester
+    - **Nachher:** Einen treuen Priester
+  - **Option D (Falsch):**
+    - **Vorher:** Einen Engel
+    - **Nachher:** Einen Engel des Himmels
+
+### `hes_120` (Hesekiel 39:4)
+- **Frage:** Wo wird das Heer Gogs nach Hesekiel 39:4 fallen?
+- **Richtige Antwort (unverändert, Option A):** Auf den Bergen Israels
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** In der Wüste, wo die Raben ihn fressen werden
+    - **Nachher:** In der Wüste am Meere
+  - **Option C (Falsch):**
+    - **Vorher:** Am Meer, wo die Wellen ihn begraben werden
+    - **Nachher:** Im weiten Tale Josaphat
+  - **Option D (Falsch):**
+    - **Vorher:** In Babel, wo sein Reich zerfällt
+    - **Nachher:** Vor den Toren Babels
+
+### `hes_123` (Hesekiel 40:1)
+- **Frage:** In welchem Jahr der Gefangenschaft empfing Hesekiel die Vision vom neuen Tempel (Hesekiel 40:1)?
+- **Richtige Antwort (unverändert, Option D):** Im fünfundzwanzigsten Jahr
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Im vierzigsten Jahr
+    - **Nachher:** Im vierzigsten Jahr danach
+  - **Option B (Falsch):**
+    - **Vorher:** Im ersten Jahr
+    - **Nachher:** Im vierzehnten Jahr danach
+  - **Option C (Falsch):**
+    - **Vorher:** Im zwölften Jahr
+    - **Nachher:** Im dreißigsten Jahr danach
+
+### `hes_131` (Hesekiel 42:20)
+- **Frage:** Wie groß war der Bezirk, den die Mauer nach Hesekiel 42:20 umgab?
+- **Richtige Antwort (unverändert, Option D):** Auf jeder Seite fünfhundert Ruten
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Auf jeder Seite hundert Ruten, sodass der Bezirk schmal war
+    - **Nachher:** Auf jeder Seite hundert Ruten
+  - **Option B (Falsch):**
+    - **Vorher:** Auf jeder Seite tausend Ellen, sodass der Bezirk weit war
+    - **Nachher:** Auf jeder Seite tausend Ellen
+  - **Option C (Falsch):**
+    - **Vorher:** Auf jeder Seite zweihundert Ruten, sodass der Bezirk quadratisch war
+    - **Nachher:** Auf jeder Seite dreihundert Ruten
+
+### `hes_132` (Hesekiel 43:1-2)
+- **Frage:** Aus welcher Richtung kam die Herrlichkeit Gottes nach Hesekiel 43:2?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Von Morgen
+    - **Nachher:** Aus der Richtung von Morgen
+  - **Option B (Falsch):**
+    - **Vorher:** Von Mitternacht
+    - **Nachher:** Aus der Richtung von Mitternacht
+  - **Option C (Falsch):**
+    - **Vorher:** Vom Süden
+    - **Nachher:** Aus der Richtung vom Mittag
+  - **Option D (Falsch):**
+    - **Vorher:** Vom Westen
+    - **Nachher:** Aus der Richtung vom Abend
+
+### `hes_140` (Hesekiel 45:21)
+- **Frage:** Welches Fest soll nach Hesekiel 45:21 am vierzehnten Tag des ersten Monats gefeiert werden?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Das Passa
+    - **Nachher:** Das Passahfest des HERRN
+  - **Option B (Falsch):**
+    - **Vorher:** Das Laubhüttenfest
+    - **Nachher:** Das heilige Laubhüttenfest
+  - **Option C (Falsch):**
+    - **Vorher:** Das Wochenfest
+    - **Nachher:** Das freudige Wochenfest
+  - **Option D (Falsch):**
+    - **Vorher:** Das Fest der Posaunen
+    - **Nachher:** Das große Fest der Posaunen
+
+### `hes_141` (Hesekiel 46:1)
+- **Frage:** Wann soll das Tor am inneren Vorhof nach Hesekiel 46:1 geöffnet werden?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Am Sabbat und am Neumond
+    - **Nachher:** Am Sabbat und am Neumonde
+  - **Option A (Falsch):**
+    - **Vorher:** Jeden Morgen
+    - **Nachher:** An jedem Morgen der Werktage
+  - **Option C (Falsch):**
+    - **Vorher:** Nur am Passa
+    - **Nachher:** An allen Tagen des Passah
+  - **Option D (Falsch):**
+    - **Vorher:** Nur am Versöhnungstag
+    - **Nachher:** Allein am großen Versöhnungstag
+
+### `hes_146` (Hesekiel 48:31)
+- **Frage:** Wie werden die Tore der Stadt nach Hesekiel 48:31 benannt?
+- **Richtige Antwort (unverändert, Option C):** Nach den Namen der Stämme Israels
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Nach den Himmelsrichtungen
+    - **Nachher:** Nach den vier Himmelsrichtungen
+  - **Option B (Falsch):**
+    - **Vorher:** Nach den Propheten
+    - **Nachher:** Nach den großen Propheten Gottes
+  - **Option D (Falsch):**
+    - **Vorher:** Nach den Priestern
+    - **Nachher:** Nach den Geschlechtern der Priester
+
+### `hes_147` (Hesekiel 23:12-16)
+- **Bibelstelle Vorher:** `Hesekiel 23:12; Hesekiel 23:14-16` -> **Nachher:** `Hesekiel 23:12-16`
+- **Frage:** Mit wem buhlte Oholiba (Jerusalem) nach Hesekiel 23:12-16 in ihrer Hurerei?

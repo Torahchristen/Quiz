@@ -1,0 +1,4750 @@
+{
+  "metadata": {
+    "quizId": "bibel_26_hesekiel_en",
+    "title": "Ezekiel",
+    "subtitle": "Ezekiel 1:1 – 48:35 (139 questions)",
+    "description": "Questions on the Book of Ezekiel according to the King James Version (1769).",
+    "author": "King James Version (1769)",
+    "version": "1.0.0",
+    "language": "en",
+    "category": "propheten",
+    "difficulty": "medium",
+    "tags": [
+      "Ezekiel",
+      "OT",
+      "prophets",
+      "KJV"
+    ],
+    "questionCount": 139,
+    "canonicalBookNumber": 26,
+    "testament": "OT"
+  },
+  "questions": [
+    {
+      "questionId": "hes_001",
+      "type": "single_choice",
+      "text": "Where was Ezekiel when he saw visions of God (Ezekiel 1:1-3)?",
+      "options": [
+        {
+          "text": "Among the captives by the river Euphrates at Babylon",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Among the captives by the river Ulai at Shushan palace",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Among the captives by the river Tigris near Nineveh",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Among the captives by the river Chebar in Chaldea",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Ezekiel 1:1-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_002",
+      "type": "single_choice",
+      "text": "What faces did the four living creatures have (Ezekiel 1:10)?",
+      "options": [
+        {
+          "text": "The face of a man, lion, hart, and eagle",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The face of a man, lion, leopard, and hawk",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The face of a man, bear, ox, and dove",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The face of a man, lion, ox, and eagle",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Ezekiel 1:10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hes_003",
+      "type": "single_choice",
+      "text": "What was Ezekiel commanded to eat at his calling (Ezekiel 2:9-3:3)?",
+      "options": [
+        {
+          "text": "A bowl of milk and honey to give him strength",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A fresh cake of barley bread before the people",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A piece of consecrated meat from off the altar",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A roll of a book full of lamentations and woe",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Ezekiel 3:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_004",
+      "type": "single_choice",
+      "text": "What was Ezekiel commanded to pourtray upon a tile (Ezekiel 4:1-3)?",
+      "options": [
+        {
+          "text": "The measurements and courts of the holy temple",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The foundation plan of the new house of God",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The borders and territory of the twelve tribes",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The city of Jerusalem and the siege against it",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Ezekiel 4:1-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_005",
+      "type": "single_choice",
+      "text": "How many days was Ezekiel to lie on his left side for the house of Israel (Ezekiel 4:5)?",
+      "options": [
+        {
+          "text": "Exactly forty days thereof",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Exactly seventy days thereof",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Three hundred and ninety days",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "One hundred and twenty days",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Ezekiel 4:4-5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hes_006",
+      "type": "single_choice",
+      "text": "What fuel was Ezekiel granted to prepare his bread with (Ezekiel 4:15)?",
+      "options": [
+        {
+          "text": "Upon clean wood instead of man's dung",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Upon charcoal instead of man's dung",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Upon dry straw instead of man's dung",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With cow's dung instead of man's dung",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Ezekiel 4:12-15",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_007",
+      "type": "single_choice",
+      "text": "What was Ezekiel to do with the three parts of his hair (Ezekiel 5:1-2)?",
+      "options": [
+        {
+          "text": "Commit all three to the priests in the holy sanctuary",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Offer all three on the holy altar for a burnt offering",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Bury all three in secret beneath the earth of the land",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Burn one in fire, smite one with a knife, scatter one",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Ezekiel 5:1-4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_008",
+      "type": "single_choice",
+      "text": "What abomination did Ezekiel see portrayed upon the chamber wall (Ezekiel 8:10-11)?",
+      "options": [
+        {
+          "text": "Women weeping for Tammuz and priests making sacrifice",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Five and twenty men worshipping the sun toward the east",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Seventy ancients with censers before idols and beasts",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A strange carved image set up within the inner court",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Ezekiel 8:10-11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hes_010",
+      "type": "single_choice",
+      "text": "Where did the glory of the LORD go up from the midst of the city (Ezekiel 11:23)?",
+      "options": [
+        {
+          "text": "Unto the south land of Hebron where the fathers slept",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Back into the holy of holies above the golden ark",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Into the solitary desert where the tabernacle had stood",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto the mountain which is on the east side of the city",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Ezekiel 11:22-23",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_011",
+      "type": "single_choice",
+      "text": "What is declared concerning the soul that sinneth (Ezekiel 18:4)?",
+      "options": [
+        {
+          "text": "It shall be punished",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It shall be banished",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It shall surely die",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "It shall be forsaken",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Ezekiel 18:4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hes_012",
+      "type": "single_choice",
+      "text": "How is the king of Tyrus described in the lamentation (Ezekiel 28:12-14)?",
+      "options": [
+        {
+          "text": "As a strong cedar upon Lebanon that was cut down by strangers",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As a mighty prince who conquered the nations round about him",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As a merchant vessel richly adorned that ruled over the seas",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As the anointed cherub that covereth, full of wisdom in Eden",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Ezekiel 28:12-14",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hes_013",
+      "type": "single_choice",
+      "text": "What shall happen if the watchman blow not the trumpet when the sword cometh (Ezekiel 33:6)?",
+      "options": [
+        {
+          "text": "The watchman shall flee into a far country and find no peace",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The blood of the people shall fall only upon their own heads",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "His blood will the LORD require at the hand of the watchman",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The watchman shall be excused because the people were blind",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Ezekiel 33:6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_014",
+      "type": "single_choice",
+      "text": "What does the Lord GOD promise concerning His flock in Ezekiel 34:11?",
+      "options": [
+        {
+          "text": "He will appoint new princes of Judah to govern the flock",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He will deliver the flock into the hand of faithful prophets",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He will leave the straying sheep to their own destruction",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I, even I, will both search my sheep, and seek them out",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Ezekiel 34:11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_015",
+      "type": "single_choice",
+      "text": "What happened in the valley of dry bones when Ezekiel prophesied (Ezekiel 37:7-10)?",
+      "options": [
+        {
+          "text": "The bones were dissolved into fine dust and blown into the wind",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A consuming fire came down from heaven and burnt all the bones",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The bones came together, were covered with flesh, and lived",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A great earthquake opened the earth and buried them out of sight",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Ezekiel 37:7-10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_016",
+      "type": "single_choice",
+      "text": "What did the joining of the two sticks signify in Ezekiel 37:16-22?",
+      "options": [
+        {
+          "text": "Judah and the children of Israel shall become one nation",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The two rival priestly houses shall minister at one altar",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The temple and the royal palace shall be built side by side",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The two kingdoms shall serve the same foreign emperor",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Ezekiel 37:15-22",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_017",
+      "type": "single_choice",
+      "text": "Who is named as the enemy from the land of Magog in Ezekiel 38:2?",
+      "options": [
+        {
+          "text": "Nebuchadnezzar, king of Babylon",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Pharaoh, the great dragon of Egypt",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Gog, the chief prince of Meshech and Tubal",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Sanballat, the governor of Samaria",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Ezekiel 38:2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hes_018",
+      "type": "single_choice",
+      "text": "What issued out from under the threshold of the house eastward (Ezekiel 47:1)?",
+      "options": [
+        {
+          "text": "A pillar of smoke that filled all the temple court",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A burning fire that consumed the whole mountain",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A stream of waters that became a river deep to swim in",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A fountain of sweet oil that healed the whole earth",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Ezekiel 47:1-12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_019",
+      "type": "single_choice",
+      "text": "What shall be the name of the city from that day forward (Ezekiel 48:35)?",
+      "options": [
+        {
+          "text": "The city of the LORD",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The new Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Zion, the holy place",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The LORD is there",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Ezekiel 48:35",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hes_021",
+      "type": "single_choice",
+      "text": "Unto whom did the LORD send the prophet Ezekiel (Ezekiel 2:3-5)?",
+      "options": [
+        {
+          "text": "Unto the heathen rulers of Chaldea that worshipped strange idols",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto the priests of the sanctuary who had broken the covenant",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto the poor of the flock who mourned in the desolate land",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto the children of Israel, to a rebellious nation that rebelled",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Ezekiel 2:3-5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hes_022",
+      "type": "single_choice",
+      "text": "What was written upon the roll that was spread before Ezekiel (Ezekiel 2:10)?",
+      "options": [
+        {
+          "text": "Psalms of thanksgiving and praise unto the God of Israel",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The commandments and judgments written on tables of stone",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Lamentations, and mourning, and woe, written within and without",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Promises of peace and great prosperity for the royal house",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Ezekiel 2:10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_023",
+      "type": "single_choice",
+      "text": "How did the roll taste in Ezekiel's mouth (Ezekiel 3:3)?",
+      "options": [
+        {
+          "text": "As bitter as wormwood",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As sour as wild grapes",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As tasteless as dry bread",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As honey for sweetness",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Ezekiel 3:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hes_024",
+      "type": "single_choice",
+      "text": "How did the LORD make the prophet strong against the people (Ezekiel 3:8-9)?",
+      "options": [
+        {
+          "text": "He gave him an armed company of soldiers to protect him",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He made his voice as loud as the sound of a great trumpet",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He made his forehead strong as an adamant harder than flint",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He clothed him in royal apparel before all the assemblies",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Ezekiel 3:8-9",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_025",
+      "type": "single_choice",
+      "text": "What duty was laid upon Ezekiel as a watchman unto Israel (Ezekiel 3:17-19)?",
+      "options": [
+        {
+          "text": "To keep the gates of the sanctuary shut by day and by night",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To pray continually for the preservation of the royal palace",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To lead the army of Israel into battle against the Chaldeans",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To give the wicked warning from God, lest their blood be on him",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Ezekiel 3:17-19",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_027",
+      "type": "single_choice",
+      "text": "What did the LORD charge against Jerusalem in Ezekiel 5:6?",
+      "options": [
+        {
+          "text": "She had made an unholy league with the princes of the Gentiles",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "She changed His judgments into wickedness more than the nations",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "She ceased from offering the daily morning and evening sacrifice",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "She suffered the heathen to enter unworthily into the temple",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Ezekiel 5:6-7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_028",
+      "type": "single_choice",
+      "text": "Against what was Ezekiel commanded to prophesy in Ezekiel 6:2-3?",
+      "options": [
+        {
+          "text": "Toward the mountains of Israel",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Toward the plains of Chaldea",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Toward the mighty walls of Tyre",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Toward the broad river of Egypt",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Ezekiel 6:2-4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hes_029",
+      "type": "single_choice",
+      "text": "What shall they that escape remember among the nations (Ezekiel 6:9)?",
+      "options": [
+        {
+          "text": "The royal glory of the kings who sat upon the throne of David",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The solemn feasts and songs that they once kept at Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They shall remember the LORD and lothe themselves for their evils",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The fertile fields and rich vineyards of their fathers' land",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Ezekiel 6:9",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_030",
+      "type": "single_choice",
+      "text": "What gestures was Ezekiel commanded to make in Ezekiel 6:11?",
+      "options": [
+        {
+          "text": "Rend his garments and cast ashes upon his head in mourning",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Smite with his hand, stamp with his foot, and say, Alas!",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Lift up his hands toward heaven and blow upon the trumpet",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Bow down his face unto the earth and weep before the people",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Ezekiel 6:11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_031",
+      "type": "single_choice",
+      "text": "What did the Lord GOD declare unto the land of Israel in Ezekiel 7:2-3?",
+      "options": [
+        {
+          "text": "An end, the end is come upon the four corners of the land",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A year of peace and abundance is proclaimed to the cities",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A great deliverance is prepared from all their oppressors",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The sanctuary shall be enlarged and filled with rich gifts",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Ezekiel 7:2-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_032",
+      "type": "single_choice",
+      "text": "What shall be done with their silver and gold in the day of wrath (Ezekiel 7:19)?",
+      "options": [
+        {
+          "text": "They shall bury it deep in the earth to hide it from foes",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The princes shall hoard it in storehouses for the famine",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They shall cast it in the streets, for it cannot deliver",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "They shall consecrate it unto the sanctuary as an offering",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Ezekiel 7:19",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_033",
+      "type": "single_choice",
+      "text": "What shall they seek in vain according to Ezekiel 7:26?",
+      "options": [
+        {
+          "text": "A vision of the prophet, law from priest, counsel from ancients",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Mercy from the Chaldeans, bread from Egypt, peace from the sea",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Gold from their allies, weapons from Asshur, refuge in walls",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Rain from heaven, water in the cisterns, wheat in the valleys",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Ezekiel 7:26",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_034",
+      "type": "single_choice",
+      "text": "Who stood before the chambers of imagery in Ezekiel 8:11?",
+      "options": [
+        {
+          "text": "Twelve chief rulers of the royal household of King Zedekiah",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Seventy men of the ancients of Israel, with Jaazaniah in midst",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Twenty-four chief priests clad in their holy garments of linen",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Ten false prophets who had deceived the daughters of Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Ezekiel 8:10-12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hes_035",
+      "type": "single_choice",
+      "text": "What were the five and twenty men doing before the temple (Ezekiel 8:16)?",
+      "options": [
+        {
+          "text": "Burning strange incense on an altar dedicated to Baal of Peor",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Backs toward temple, worshipping the sun toward the east",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Pouring out drink offerings unto the queen of heaven by night",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Lamenting the captivity of their princes with loud weeping",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Ezekiel 8:14-16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_037",
+      "type": "single_choice",
+      "text": "Upon whom was the man with the writer's inkhorn to set a mark (Ezekiel 9:4)?",
+      "options": [
+        {
+          "text": "Upon all the sons of Aaron that were faithful in the temple",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Upon men that sigh and cry for all the abominations done",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Upon every prince and noble who gave alms unto the afflicted",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Upon all the young children who were innocent of transgression",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Ezekiel 9:4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_038",
+      "type": "single_choice",
+      "text": "What was the man clothed with linen commanded to do in Ezekiel 10:2?",
+      "options": [
+        {
+          "text": "Take coals of fire from between the cherubims and scatter them",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Pour out holy oil upon the altar and purify the sanctuary",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Sound a silver trumpet over the court to summon the princes",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Measure the foundations of the threshold with a line of flax",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Ezekiel 10:2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_039",
+      "type": "single_choice",
+      "text": "What did the glory of the LORD do in Ezekiel 10:18?",
+      "options": [
+        {
+          "text": "Departed from off the threshold and stood over the cherubims",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Descended like a cloud and filled the inner court of temple",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Ascended straight into heaven and vanished from human sight",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Rested upon the golden mercy seat between the two cherubims",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Ezekiel 10:18",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_040",
+      "type": "single_choice",
+      "text": "What saying did the princes of Jerusalem speak in Ezekiel 11:3?",
+      "options": [
+        {
+          "text": "The sword is far away; let us feast and rejoice in the land",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It is not near; let us build houses: this is caldron, we flesh",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The LORD hath forsaken the earth; our gods will deliver us",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The temple shall stand forever; no heathen foe can enter here",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Ezekiel 11:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hes_041",
+      "type": "single_choice",
+      "text": "What came to pass when Ezekiel prophesied in Ezekiel 11:13?",
+      "options": [
+        {
+          "text": "He fell into a swoon",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He fled out of the city",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Pelatiah died on the spot",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He repented before God",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Ezekiel 11:13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hes_042",
+      "type": "single_choice",
+      "text": "What does the LORD promise unto His people in Ezekiel 11:19?",
+      "options": [
+        {
+          "text": "Victorious chariots and horses to overcome the proud Chaldeans",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Immunity from pestilence and wealth of silver in their borders",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A royal line of kings that shall reign in peace unto all ages",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "One heart and new spirit, taking away the stony heart of flesh",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Ezekiel 11:19-20",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_043",
+      "type": "single_choice",
+      "text": "What sign was Ezekiel commanded to perform in Ezekiel 12:3-7?",
+      "options": [
+        {
+          "text": "Fast forty days in sackcloth and lie prostrate upon the dust",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Prepare stuff for removing and dig through the wall in sight",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Shave his head and cast the hair into the four winds of earth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Set an iron pan between himself and the walls of the city",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Ezekiel 12:3-7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_044",
+      "type": "single_choice",
+      "text": "What is prophesied concerning King Zedekiah in Ezekiel 12:13?",
+      "options": [
+        {
+          "text": "He shall escape into Egypt and return with a great multitude",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He shall be brought to Babylon, yet shall not see it, and die",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He shall be slain with the sword before the gates of Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He shall deliver his soul by repenting before the Lord GOD",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Ezekiel 12:13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hes_045",
+      "type": "single_choice",
+      "text": "What proverb in the land of Israel did the Lord GOD rebuke (Ezekiel 12:22)?",
+      "options": [
+        {
+          "text": "The days are prolonged, and every vision faileth",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The fathers have eaten sour grapes, children's teeth set on edge",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The temple of the LORD is a sure fortress in the day of battle",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Tomorrow we shall be delivered by the princes of the south",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Ezekiel 12:22-28",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_046",
+      "type": "single_choice",
+      "text": "Unto what does Ezekiel 13:4 liken the false prophets of Israel?",
+      "options": [
+        {
+          "text": "Unto raging wolves that devour the innocent sheep of the flock",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto foxes in the deserts that tear down and ruin the vineyard",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Unto blind guides that stumble headlong into deep pits of miry clay",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto greedy dogs that can never have enough in their appetites",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Ezekiel 13:4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hes_047",
+      "type": "single_choice",
+      "text": "How does Ezekiel 13:10 describe the work of the false prophets?",
+      "options": [
+        {
+          "text": "They built up a wall and daubed it with untempered morter, crying Peace",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "They cast heavy yokes upon the necks of the people without mercy",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They sold false dreams for silver and deceived the simple souls",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They planted bitter thorns in the vineyard and called them grapes",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Ezekiel 13:10-15",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hes_048",
+      "type": "single_choice",
+      "text": "What did the Lord GOD rebuke the false prophetesses for (Ezekiel 13:18)?",
+      "options": [
+        {
+          "text": "Sewing pillows to armholes and kerchiefs to hunt souls",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Offering sweet cakes unto the queen of heaven in the streets",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Refusing to mourn for the slain and dancing in times of wrath",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Selling unholy potions to the simple women of the villages",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Ezekiel 13:18-20",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hes_049",
+      "type": "single_choice",
+      "text": "Why would the LORD not be enquired of by the elders (Ezekiel 14:3)?",
+      "options": [
+        {
+          "text": "They brought unholy animals for burnt sacrifices to the temple",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They set up idols in their heart and stumblingblock of iniquity",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "They conspired with foreign kings to overthrow the royal crown",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They oppressed the widow and the fatherless in the city gates",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Ezekiel 14:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hes_050",
+      "type": "single_choice",
+      "text": "Which three righteous men are named together in Ezekiel 14:14?",
+      "options": [
+        {
+          "text": "Abraham, Isaac, and Jacob",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Moses, Aaron, and Samuel",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Noah, Daniel, and Job",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Elijah, Elisha, and Isaiah",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Ezekiel 14:14",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hes_051",
+      "type": "single_choice",
+      "text": "What are the four sore judgments named in Ezekiel 14:21?",
+      "options": [
+        {
+          "text": "The sword, famine, noisome beast, and pestilence",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Fire, brimstone, great earthquake, and tempest",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Drought, locusts, caterpillar, and mildew in crops",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Captivity, spoiling, shame, and bitter reproach",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Ezekiel 14:21",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hes_052",
+      "type": "single_choice",
+      "text": "What is asked concerning the wood of the vine tree (Ezekiel 15:2-3)?",
+      "options": [
+        {
+          "text": "Shall wood be taken of it for any work, even to hang a vessel thereon?",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Can it be carved into images of gold and silver for the palaces?",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Will it withstand the mighty tempests that blow through the forest?",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Is it prized above the tall cedars that grow upon the mount of Lebanon?",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Ezekiel 15:2-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_053",
+      "type": "single_choice",
+      "text": "What is the burned vine branch meet for according to Ezekiel 15:4-5?",
+      "options": [
+        {
+          "text": "For building strong walls and rafters for the house",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For no work at all; it is cast into fire for fuel",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "For holy fire upon the golden altar in the temple",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For fuel to bake the shewbread before the Lord GOD",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Ezekiel 15:4-5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_054",
+      "type": "single_choice",
+      "text": "What does the parable of the vine tree signify for Jerusalem (Ezekiel 15:6)?",
+      "options": [
+        {
+          "text": "Jerusalem shall flourish and yield abundance of sweet wine",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As vine wood to fire, so will God give Jerusalem to be devoured",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The city shall be exalted above all the kingdoms of the earth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The remnant of the city shall be spared from the burning flame",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Ezekiel 15:6-8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hes_055",
+      "type": "single_choice",
+      "text": "What nativity does the Lord GOD declare unto Jerusalem in Ezekiel 16:3?",
+      "options": [
+        {
+          "text": "Of Egypt, where her father was a Pharaoh and her mother a Hebrewess",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Of the land of Canaan; her father was an Amorite and mother an Hittite",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Of Babylon, where her father was a Chaldean and mother a Sidonian",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Of Moab, where her father was a Moabite and mother an Ammonitess",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Ezekiel 16:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_056",
+      "type": "single_choice",
+      "text": "What did the LORD say unto the infant polluted in her own blood (Ezekiel 16:6)?",
+      "options": [
+        {
+          "text": "Live!",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Reign!",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Prosper!",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Serve!",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Ezekiel 16:6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hes_057",
+      "type": "single_choice",
+      "text": "Which sisters are attributed unto Jerusalem in Ezekiel 16:46?",
+      "options": [
+        {
+          "text": "Tyre at the left hand and Sidon at the right hand",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Samaria at the left hand and Sodom at the right hand",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Nineveh at the north and Babylon at the east side",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Moab at the left hand and Ammon at the right hand",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Ezekiel 16:46",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hes_058",
+      "type": "single_choice",
+      "text": "What does the LORD promise unto Jerusalem in Ezekiel 16:60?",
+      "options": [
+        {
+          "text": "Vengeance upon the nations and an everlasting victory over heathen foes",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He will remember His covenant in youth and establish an everlasting covenant",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A new fertile land and an unbroken league of peace with all the Gentiles",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A royal dynasty of kings and a new perpetual law throughout generations",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Ezekiel 16:60",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hes_060",
+      "type": "single_choice",
+      "text": "What great purpose does the LORD repeat for all His deeds (Ezekiel 6:7)?",
+      "options": [
+        {
+          "text": "And ye shall know that I am the LORD",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "That they may possess riches and gold",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That they may triumph over all foes",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That they may gain wisdom and glory",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Ezekiel 6:7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_061",
+      "type": "single_choice",
+      "text": "Who is represented by the great eagle in Ezekiel 17:3-12?",
+      "options": [
+        {
+          "text": "The king of Babylon, who took the king of Judah and princes",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The king of Egypt, who made Judah tributary and led men away",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The king of Assyria, who destroyed Samaria and scattered all",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The high priest, who abandoned the temple and fled in fear",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Ezekiel 17:3-12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hes_062",
+      "type": "single_choice",
+      "text": "What trespass of Zedekiah is condemned in Ezekiel 17:15?",
+      "options": [
+        {
+          "text": "He built high places in the valley of Hinnom for strange idols",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He took away the sacred vessels from the inner court of temple",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He rebelled against Babylon by sending ambassadors into Egypt",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He refused to hear the priests and slew the holy prophets of God",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Ezekiel 17:15-18",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hes_063",
+      "type": "single_choice",
+      "text": "What does the Lord GOD promise at the end of the cedar parable (Ezekiel 17:22)?",
+      "options": [
+        {
+          "text": "To send a mighty storm that shall pluck up the roots of all trees",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To build a strong tower upon Mount Zion out of the tall cedars",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To burn the cedar tree in fire and plant an olive branch in field",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To crop off a young twig from cedar and plant it on a high mountain",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Ezekiel 17:22-24",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hes_064",
+      "type": "single_choice",
+      "text": "What proverb concerning Israel is rebuked in Ezekiel 18:2?",
+      "options": [
+        {
+          "text": "The fathers have eaten sour grapes, and children's teeth are set on edge",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The temple of the LORD shall stand when all kingdoms fall to ruin",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In the multitude of people is the king's honour and sure fortress",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Better is a little with righteousness than great revenues without right",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Ezekiel 18:2-4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_065",
+      "type": "single_choice",
+      "text": "What does the Lord GOD declare concerning the death of the wicked (Ezekiel 18:23)?",
+      "options": [
+        {
+          "text": "He delighteth in their destruction to manifest His holy justice",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He hath no pleasure that the wicked die, but that he return and live",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He closeth His ear against every prayer when their calamity cometh",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He hath determined their ruin from ancient days without repentance",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Ezekiel 18:23",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_066",
+      "type": "single_choice",
+      "text": "Unto what is the mother of the princes likened in Ezekiel 19:2?",
+      "options": [
+        {
+          "text": "Unto a barren fig tree planted by the wayside in the drought",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto a mother eagle that hovereth over her nest upon the rocks",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto a lioness that nourished her whelps among young lions",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Unto a fruitful vine that spread her pleasant boughs over hills",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Ezekiel 19:2-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_067",
+      "type": "single_choice",
+      "text": "Whither were the two young lions carried away (Ezekiel 19:4-9)?",
+      "options": [
+        {
+          "text": "Both in heavy chains to Babylon, where they served the king",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Both in an iron cage to Asshur, where they perished in prison",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "One unto the island of Tyre, the other into desolate wilderness",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "One in chains to Egypt, the other in holds to the king of Babylon",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Ezekiel 19:4-9",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hes_068",
+      "type": "single_choice",
+      "text": "Unto what is the mother likened at the end of the lamentation (Ezekiel 19:10)?",
+      "options": [
+        {
+          "text": "Like a vine planted by waters, fruitful and full of branches",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Like an olive tree that withers in the scorching summer heat",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Like a tall cedar of Lebanon that is broken by a whirlwind",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Like a bruised reed that is cast into deep waters of the sea",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Ezekiel 19:10-13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hes_069",
+      "type": "single_choice",
+      "text": "What sign did the LORD give His people in Ezekiel 20:12?",
+      "options": [
+        {
+          "text": "The golden ark of covenant in the holy of holies",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "His sabbaths, to be a sign between Him and them",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The pillar of cloud by day and fire by night",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The stone tables of the law written by God",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Ezekiel 20:12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_070",
+      "type": "single_choice",
+      "text": "Why did the LORD not destroy the rebellious people in the wilderness (Ezekiel 20:14)?",
+      "options": [
+        {
+          "text": "Because the elders offered costly burnt offerings and wept sore",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because Moses fasted forty days and prayed with great crying",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For His name's sake, that it should not be polluted before heathen",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Because the children of Israel repented and returned to the law",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Ezekiel 20:14",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hes_071",
+      "type": "single_choice",
+      "text": "Whither will the LORD bring His people to plead with them face to face (Ezekiel 20:35)?",
+      "options": [
+        {
+          "text": "Into the land of Babylon",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto the city of Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Into the valley of Jehoshaphat",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Into the wilderness of the people",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Ezekiel 20:35",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hes_072",
+      "type": "single_choice",
+      "text": "With what image does Ezekiel 21:9-10 announce the coming judgment?",
+      "options": [
+        {
+          "text": "A sword, sharpened and furbished, that it may slaughter and glitter",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A raging fire out of the north that devours all trees of the forest",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A strong bow bent and aimed, shooting swift deadly arrows of fury",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A heavy iron hammer that smiteth the rock and breaketh all towers down",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Ezekiel 21:9-10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_073",
+      "type": "single_choice",
+      "text": "What did the king of Babylon do at the parting of the way (Ezekiel 21:21)?",
+      "options": [
+        {
+          "text": "He offered royal gifts and swore an oath to the gods of Egypt",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He used divination: made arrows bright, consulted images, looked in liver",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He sent ambassadors unto Tyre to ask counsel of the merchant princes",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He divided his armies into three companies to march upon all fronts",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Ezekiel 21:21",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hes_074",
+      "type": "single_choice",
+      "text": "What is commanded concerning the diadem and crown in Ezekiel 21:26?",
+      "options": [
+        {
+          "text": "They shall be preserved in the treasury of the king of Babylon",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They shall be placed upon the head of a faithful son of David",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Remove the diadem, take off the crown: exalt low and abase high",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "They shall be melted in the furnace and formed into idols of gold",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Ezekiel 21:26-27",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_075",
+      "type": "single_choice",
+      "text": "How is Jerusalem named in Ezekiel 22:2-4?",
+      "options": [
+        {
+          "text": "The rebellious house",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The desolate vineyard",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The unfaithful daughter",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The bloody city",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Ezekiel 22:2-4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hes_076",
+      "type": "single_choice",
+      "text": "With what image does Ezekiel 22:18 describe the house of Israel?",
+      "options": [
+        {
+          "text": "As dross of brass, tin, iron, and lead in the midst of the furnace",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "As chaff that the wind driveth away from the threshingfloor in storm",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As wild thorns in a pleasant field that choke the tender wheat",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As broken potsherds cast upon a dunghill outside the city gates",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Ezekiel 22:18-22",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hes_077",
+      "type": "single_choice",
+      "text": "What did the LORD seek in vain among the people in Ezekiel 22:30?",
+      "options": [
+        {
+          "text": "A faithful king to lead the hosts of Judah into holy battle",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A man to make up the hedge and stand in the gap before Him",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A wise prophet who would turn the children from idolatry",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A righteous judge to execute true judgment in the gates",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Ezekiel 22:30",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_078",
+      "type": "single_choice",
+      "text": "Who are the two sisters represented in Ezekiel 23:4?",
+      "options": [
+        {
+          "text": "Tyre and Sidon, representing the pride of the great merchant ships",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Moab and Ammon, representing the ancient nations of the desert",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Aholah the elder for Samaria, and Aholibah her sister for Jerusalem",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Babylon and Nineveh, representing the imperial oppressors of world",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Ezekiel 23:4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hes_080",
+      "type": "single_choice",
+      "text": "What cup must Aholibah drink according to Ezekiel 23:32?",
+      "options": [
+        {
+          "text": "Thy sister's cup deep and large, to be laughed to scorn and had in derision",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The golden cup of royal wine that is poured out before foreign princes",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The bitter cup of gall and wormwood that brings heavy sleep and darkness",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The cup of sacred blessings that was consecrated in the holy sanctuary",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Ezekiel 23:32-33",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hes_081",
+      "type": "single_choice",
+      "text": "What date was Ezekiel commanded to write down in Ezekiel 24:1-2?",
+      "options": [
+        {
+          "text": "The day when King Jehoiachin was carried away captive into Babylon",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The very day on which the king of Babylon set himself against Jerusalem",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The day when the false prophets were exposed before the whole assembly",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The day when the glory of the LORD departed from the holy threshold",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Ezekiel 24:1-2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hes_082",
+      "type": "single_choice",
+      "text": "What bereavement came upon Ezekiel as a sign unto Israel (Ezekiel 24:16)?",
+      "options": [
+        {
+          "text": "The death of his father Buzi the priest; he was forbidden to mourn",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The sudden captivity of his sons; he was commanded to keep silence",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The death of his wife, desire of his eyes; he was forbidden to weep",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The burning of his ancestral house; he was not allowed to cry out",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Ezekiel 24:15-18",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_083",
+      "type": "single_choice",
+      "text": "What was the people commanded to do in like manner as Ezekiel (Ezekiel 24:22)?",
+      "options": [
+        {
+          "text": "Put on sackcloth and lie in the dust seven days and seven nights",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Fast from morning until evening and bring sacrifices of sorrow",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Rend their clothes and shave their heads in bitter lamentation",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Ye shall not cover your lips, nor eat the bread of men in mourning",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Ezekiel 24:22-24",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_084",
+      "type": "single_choice",
+      "text": "Why did the Lord GOD declare judgment against the Ammonites (Ezekiel 25:3)?",
+      "options": [
+        {
+          "text": "Because they said Aha! against His sanctuary and desolate land of Israel",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Because they refused to sell grain to the captive children of Judah",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because they made an alliance with the king of Egypt against Babylon",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because they worshipped strange idols upon the borders of the desert",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Ezekiel 25:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_085",
+      "type": "single_choice",
+      "text": "What does the Lord GOD charge against Edom in Ezekiel 25:12?",
+      "options": [
+        {
+          "text": "That Edom joined with the Philistines to spoil the southern cities",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That Edom dealt against Judah by taking vengeance and greatly offended",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "That Edom blocked the passage of the fleeing remnant into the desert",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That Edom boasted of its ancient wisdom and exalted its princes high",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Ezekiel 25:12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_086",
+      "type": "single_choice",
+      "text": "What judgment does the LORD pronounce upon the Philistines (Ezekiel 25:16)?",
+      "options": [
+        {
+          "text": "He will send a plague upon their cattle and dry up their sweet wells",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He will overthrow their five royal cities and make them heaps of dust",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He will stretch out His hand upon them and cut off the Cherethims",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He will make them tributary unto the children of Judah forevermore",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Ezekiel 25:16-17",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hes_087",
+      "type": "single_choice",
+      "text": "What boast did Tyrus utter against Jerusalem in Ezekiel 26:2?",
+      "options": [
+        {
+          "text": "The kingdom of David is fallen; our gods have proved greater in power",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Jerusalem is overthrown; her gold shall be brought into our treasury",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The mountain of Zion is desolate; the glory of its temple is departed",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Aha, she is broken that was gates of people: I shall be replenished",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Ezekiel 26:2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_088",
+      "type": "single_choice",
+      "text": "What will the Lord GOD make of Tyrus according to Ezekiel 26:4?",
+      "options": [
+        {
+          "text": "Like the top of a bare rock",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A desolate heap of ruins",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A sunken reef in the sea",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A barren waste in the sand",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Ezekiel 26:4-5, 14",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hes_089",
+      "type": "single_choice",
+      "text": "Who is brought against Tyrus from the north in Ezekiel 26:7?",
+      "options": [
+        {
+          "text": "Pharaoh Necho, king of Egypt, with horses and countless chariots",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Nebuchadrezzar king of Babylon, a king of kings, from the north",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Cyrus, king of Persia, with a mighty host of Medes and Persians",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Sennacherib, king of Assyria, with all the captains of his host",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Ezekiel 26:7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hes_090",
+      "type": "single_choice",
+      "text": "How is Tyrus portrayed in the lamentation of Ezekiel 27:3?",
+      "options": [
+        {
+          "text": "As an invincible fortress set high upon a rock above the ocean waves",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As a proud queen sitting upon an ivory throne adorned with pearls",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As a merchant ship situate at entry of sea, saying: I am perfect beauty",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "As a fruitful vineyard on the sea coast yielding choice purple grapes",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Ezekiel 27:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hes_091",
+      "type": "single_choice",
+      "text": "What merchandise did Judah and Israel trade in the market of Tyrus (Ezekiel 27:17)?",
+      "options": [
+        {
+          "text": "Gold of Ophir, precious stones, purple raiment, and cedar wood",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Horses, mules, fine linen of Egypt, and shields of burnished brass",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Silver, iron, tin, lead, and vessels of costly workmanship of stone",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Wheat of Minnith, and Pannag, and honey, and oil, and balm",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Ezekiel 27:17",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_092",
+      "type": "single_choice",
+      "text": "How does the ship of Tyrus come to its end in Ezekiel 27:26?",
+      "options": [
+        {
+          "text": "The east wind hath broken thee in the midst of the seas",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A fierce fire from the haven consumed its decks and oars",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The rowers mutinied and cast the merchandise overboard",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It struck upon a hidden reef of rock and vanished away",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Ezekiel 27:26-27",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_093",
+      "type": "single_choice",
+      "text": "What pride does the Lord GOD rebuke in the prince of Tyrus (Ezekiel 28:2)?",
+      "options": [
+        {
+          "text": "I have gathered more gold and silver than all kings of the earth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I am a God, I sit in the seat of God, in the midst of the seas",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "My wisdom hath conquered every nation and my fleet rules ocean",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "No enemy shall ever scale my walls or destroy my royal palaces",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Ezekiel 28:2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hes_094",
+      "type": "single_choice",
+      "text": "How is the king of Tyrus depicted in Ezekiel 28:14?",
+      "options": [
+        {
+          "text": "As a swift leopard with wings that leaped across great waters",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As a majestic palm tree standing by the rivers of paradise",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As the anointed cherub that covereth, on holy mountain of God",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "As a roaring lion that ruled over the beasts of the wilderness",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Ezekiel 28:14",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hes_095",
+      "type": "single_choice",
+      "text": "Unto what does the Lord GOD liken Pharaoh king of Egypt in Ezekiel 29:3?",
+      "options": [
+        {
+          "text": "Unto a tall reed on the banks of Nile that is broken by tempest",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto a soaring falcon that watcheth for its prey above mountains",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto an ox that is led without understanding unto the slaughter",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The great dragon lying in midst of rivers: My river is mine own",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Ezekiel 29:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hes_096",
+      "type": "single_choice",
+      "text": "What had Egypt been unto the house of Israel according to Ezekiel 29:6?",
+      "options": [
+        {
+          "text": "As a fragile staff of reed",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "As a strong buckler and shield",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As a sure and mighty refuge",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As an unmovable wall of rock",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Ezekiel 29:6-7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hes_097",
+      "type": "single_choice",
+      "text": "What state is foretold for the restored kingdom of Egypt (Ezekiel 29:14-15)?",
+      "options": [
+        {
+          "text": "It shall be the chief of all nations and rule over the east",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It shall be a base kingdom; it shall be the basest of kingdoms",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "It shall be completely uninhabited, a desolation for all ages",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It shall be divided equally among the princes of the south",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Ezekiel 29:14-15",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hes_098",
+      "type": "single_choice",
+      "text": "How is the coming day described in Ezekiel 30:3?",
+      "options": [
+        {
+          "text": "The day of salvation and light for all the humble of heart",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The day of the great harvest, when all barns shall be filled",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The day is near, a cloudy day; it shall be time of the heathen",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The day of pleasant singing and peace throughout every border",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Ezekiel 30:2-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_099",
+      "type": "single_choice",
+      "text": "What judgment does the LORD pronounce against Noph in Ezekiel 30:13?",
+      "options": [
+        {
+          "text": "Its fountains shall be dried up and its gardens become sand",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Its mighty walls shall be cast down and its gates burnt with fire",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Its merchants shall flee into foreign lands and weep for gold",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I will destroy idols out of Noph, and no more prince in Egypt",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Ezekiel 30:13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_100",
+      "type": "single_choice",
+      "text": "What does the LORD say concerning the arm of Pharaoh (Ezekiel 30:21)?",
+      "options": [
+        {
+          "text": "I have broken the arm of Pharaoh; it shall not be bound up",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "I will strengthen his right arm to execute judgment on Moab",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "His arm shall be withered like dry grass before the furnace",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "His arm shall hold the sceptre over all kingdoms of Africa",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Ezekiel 30:21-22",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hes_101",
+      "type": "single_choice",
+      "text": "Unto what is the Assyrian likened in Ezekiel 31:3?",
+      "options": [
+        {
+          "text": "Unto a great oak of Bashan with deep and unmovable roots",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto a cedar in Lebanon with fair branches and high stature",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Unto an olive tree whose branches spread across the valley",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto a fruitful fig tree yielding abundant sweet fruit in due time",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Ezekiel 31:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_102",
+      "type": "single_choice",
+      "text": "Why was the great cedar delivered unto the hand of the mighty (Ezekiel 31:10)?",
+      "options": [
+        {
+          "text": "Because worms had devoured its bark and withered its greenery",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because lightning from heaven had struck its topmost branch down",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because he lifted up himself in height and his heart was proud",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Because he gave shade unto strange beasts that God had forbidden",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Ezekiel 31:10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_103",
+      "type": "single_choice",
+      "text": "What was the effect of the cedar's fall in Ezekiel 31:16?",
+      "options": [
+        {
+          "text": "The whole forest rejoiced and all trees clapped their hands",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The kings of the earth gathered its wood for their royal ships",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A great drought fell upon the waters of Lebanon for seven years",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I made the nations to shake at the sound of his fall into pit",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Ezekiel 31:16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hes_104",
+      "type": "single_choice",
+      "text": "What does the Lord GOD declare unto Pharaoh in Ezekiel 32:3?",
+      "options": [
+        {
+          "text": "I will spread out my net over thee; they shall bring thee up",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "I will set a royal crown of gold upon thy head before the world",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I will send sweet rain upon thy land and bless all thy harvests",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I will make thy border strong against the proud armies of Asshur",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Ezekiel 32:3-4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hes_105",
+      "type": "single_choice",
+      "text": "Who is described as lying in the pit with her graves round about (Ezekiel 32:22)?",
+      "options": [
+        {
+          "text": "The princes of Tyre and the seafaring merchants of the west",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Asshur and all her company, all of them slain, fallen by sword",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The ancient kings of Canaan who fought Joshua in the valleys",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The rebellious house of Israel that perished in the wilderness",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Ezekiel 32:22-30",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hes_106",
+      "type": "single_choice",
+      "text": "Over what shall Pharaoh be comforted when he sees them in the pit (Ezekiel 32:31)?",
+      "options": [
+        {
+          "text": "Over the treasures of silver and gold that were buried with him",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Over his sons and daughters who escaped into a distant country",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Over all his multitude, even Pharaoh and his army slain by sword",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Over the remembrance of his mighty deeds and glorious monuments",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Ezekiel 32:31",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hes_107",
+      "type": "single_choice",
+      "text": "What solemn oath does the Lord GOD swear in Ezekiel 33:11?",
+      "options": [
+        {
+          "text": "As I live, I am a God of fury and will show no mercy to the wicked",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As I live, I will punish every transgressor and none shall escape",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As I live, I will forgive all sins without repentance of the soul",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I have no pleasure in death of wicked; but that he turn and live",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Ezekiel 33:11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hes_108",
+      "type": "single_choice",
+      "text": "How did the people receive Ezekiel's words according to Ezekiel 33:31?",
+      "options": [
+        {
+          "text": "They hear thy words, but they will not do them",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "They heard them and immediately repented of sin",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They mocked at the prophet and cast him in prison",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They trembled with fear and fled out of the city",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Ezekiel 33:31-32",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_109",
+      "type": "single_choice",
+      "text": "What woe does the Lord GOD pronounce in Ezekiel 34:2?",
+      "options": [
+        {
+          "text": "Woe to the kings of the earth that usurp the throne",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Woe be to the shepherds of Israel that feed themselves!",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Woe to the priests of the altar that take holy gifts",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Woe to the prophets of deceit that speak vain visions",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Ezekiel 34:2-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_110",
+      "type": "single_choice",
+      "text": "Whom will the LORD set up as one shepherd over His flock (Ezekiel 34:23)?",
+      "options": [
+        {
+          "text": "A faithful priest of God",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A mighty prince of Levi",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Even his servant David",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "An angel from heaven",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Ezekiel 34:23",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hes_111",
+      "type": "single_choice",
+      "text": "Against what mountain was Ezekiel commanded to set his face in Ezekiel 35:2?",
+      "options": [
+        {
+          "text": "Against Mount Hermon in the north",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Against Mount Carmel by the sea",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Against Mount Sinai in desert",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Against Mount Seir in Edom",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Ezekiel 35:2-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hes_112",
+      "type": "single_choice",
+      "text": "What attitude did Edom have toward the children of Israel (Ezekiel 35:5)?",
+      "options": [
+        {
+          "text": "A perpetual hatred, shedding blood by force of sword in calamity",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A quiet envy, refusing to buy merchandise from the sons of Jacob",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A false friendship, pretending peace while taking secret counsel",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A bitter mockery, laughing at their holy worship in the temple",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Ezekiel 35:5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_113",
+      "type": "single_choice",
+      "text": "What boast did Edom make in Ezekiel 35:10?",
+      "options": [
+        {
+          "text": "Our princes shall rule over all the coasts of the Great Sea",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "These two nations and these two countries shall be mine, possess it",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The temple of Jerusalem shall be given to our priests forever",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "No foreign empire shall ever set foot upon the cliffs of Seir",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Ezekiel 35:10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_114",
+      "type": "single_choice",
+      "text": "What does the LORD promise unto the mountains of Israel in Ezekiel 36:8?",
+      "options": [
+        {
+          "text": "They shall be enriched with silver and precious stones of Ophir",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Their heights shall be fortified with invincible iron battlements",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Ye shall shoot forth your branches, and yield fruit to my people",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "They shall smoke with holy incense before the throne of God",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Ezekiel 36:8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hes_115",
+      "type": "single_choice",
+      "text": "How will the LORD sprinkle and cleanse His people in Ezekiel 36:25?",
+      "options": [
+        {
+          "text": "With the blood of spotless bulls and rams upon the holy altar",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With sweet and precious oil of anointing from the tabernacle",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With fine flour of wheat mixed with holy salt before the LORD",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I will sprinkle clean water upon you, and ye shall be clean",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Ezekiel 36:25",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hes_116",
+      "type": "single_choice",
+      "text": "What does the LORD promise to give His people in Ezekiel 36:26?",
+      "options": [
+        {
+          "text": "A new heart and new spirit, taking away the stony heart of flesh",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Victory over all earthly monarchs and an everlasting crown of gold",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Immunity from all diseases, pestilence, and famine in their land",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "An earthly paradise flowing with milk and honey without any work",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Ezekiel 36:26-27",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_119",
+      "type": "single_choice",
+      "text": "What design does Gog form in his mind according to Ezekiel 38:11?",
+      "options": [
+        {
+          "text": "To build a mighty navy and lay siege to the great island of Tyre",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To conquer the royal house of Pharaoh and seize all the gold of Egypt",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To send gifts of friendship unto the kings of the far north country",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I will go to the land of unwalled villages, to take a spoil and prey",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Ezekiel 38:11-12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hes_120",
+      "type": "single_choice",
+      "text": "Where shall the host of Gog fall according to Ezekiel 39:4?",
+      "options": [
+        {
+          "text": "Upon the mountains of Israel",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "In the wilderness by the sea",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In the valley of Jehoshaphat",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Before the gates of Babylon",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Ezekiel 39:4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hes_121",
+      "type": "single_choice",
+      "text": "How long shall the cities of Israel burn the weapons for fuel (Ezekiel 39:9)?",
+      "options": [
+        {
+          "text": "Three years and six months",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Seven years they burn them",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Twelve years without ceasing",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Forty days in solemn memory",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Ezekiel 39:9-10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hes_122",
+      "type": "single_choice",
+      "text": "How long shall the house of Israel be burying the slain to cleanse the land (Ezekiel 39:12)?",
+      "options": [
+        {
+          "text": "Three months shall they bury",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Forty days shall they bury",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Seven months shall they bury",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "One full year shall they bury",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Ezekiel 39:12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hes_123",
+      "type": "single_choice",
+      "text": "In what year of their captivity did Ezekiel see the vision of the temple (Ezekiel 40:1)?",
+      "options": [
+        {
+          "text": "In the fortieth year thereof",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In the fourteenth year thereof",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In the thirtieth year thereof",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In the five and twentieth year",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Ezekiel 40:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hes_124",
+      "type": "single_choice",
+      "text": "What was the appearance of the man who guided Ezekiel in Ezekiel 40:3?",
+      "options": [
+        {
+          "text": "Like appearance of brass, with line of flax and measuring reed",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Clothed in fine white linen, with a golden crown upon his head",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Like a burning flame of fire, with a silver trumpet in his hand",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Like an ancient priest, with holy incense and oil in a golden bowl",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Ezekiel 40:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_125",
+      "type": "single_choice",
+      "text": "What was the length of the measuring reed in Ezekiel 40:5?",
+      "options": [
+        {
+          "text": "Three cubits, each cubit being a hand breadth shorter than common",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Six cubits long by the cubit and an hand breadth in the man's hand",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Ten cubits, each cubit being a hand breadth longer than common",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Twelve cubits, each cubit being exactly the common length of man",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Ezekiel 40:5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hes_126",
+      "type": "single_choice",
+      "text": "Which priests had charge of the altar according to Ezekiel 40:46?",
+      "options": [
+        {
+          "text": "The sons of Phinehas among the sons of Eleazar",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The sons of Gershon among the families of Levi",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The sons of Zadok among the sons of Levi",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The sons of Ithamar among the houses of Aaron",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Ezekiel 41:18-19",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hes_127",
+      "type": "single_choice",
+      "text": "What was the breadth of the posts of the temple in Ezekiel 41:1?",
+      "options": [
+        {
+          "text": "Three cubits broad on the one side and three on the other",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Four cubits broad on the one side and four on the other",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Ten cubits broad on the one side and ten on the other",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Six cubits broad on the one side, and six on the other",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Ezekiel 41:22",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_128",
+      "type": "single_choice",
+      "text": "What figures were carved upon the temple walls in Ezekiel 41:18-19?",
+      "options": [
+        {
+          "text": "Cherubims and palm trees, every cherub having two faces",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Lions and oxen, with golden eagles spreading wings above",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Pomegranates and lilies, with golden chains of work round about",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Grape clusters and olive boughs, with figures of holy angels",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Ezekiel 41:4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hes_129",
+      "type": "single_choice",
+      "text": "What was the altar of wood called in Ezekiel 41:22?",
+      "options": [
+        {
+          "text": "The golden hearth of incense before the veil",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "This is the table that is before the LORD",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The holy memorial altar of the covenant",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The consecrated place of burnt offerings",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Ezekiel 42:13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_130",
+      "type": "single_choice",
+      "text": "What were the priests to do in the holy chambers of Ezekiel 42:13?",
+      "options": [
+        {
+          "text": "Anoint the sacred vessels with oil before bringing into temple",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Cast the sacred lots to determine the courses of the sanctuary",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Eat the most holy things and lay the offerings and sin offering",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Wash their garments seven times in pure water before sunset",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Ezekiel 42:14",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_131",
+      "type": "single_choice",
+      "text": "What was the measure of the wall around the sanctuary in Ezekiel 42:20?",
+      "options": [
+        {
+          "text": "A hundred reeds on every side",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A thousand cubits on each side",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Three hundred reeds on every side",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Five hundred reeds on every side",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Ezekiel 42:20",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hes_132",
+      "type": "single_choice",
+      "text": "From what direction did the glory of the God of Israel come (Ezekiel 43:2)?",
+      "options": [
+        {
+          "text": "From the way of the east",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "From the way of the north",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "From the way of the south",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "From the way of the west",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Ezekiel 43:1-2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hes_133",
+      "type": "single_choice",
+      "text": "What did the voice of the LORD declare concerning the temple in Ezekiel 43:7?",
+      "options": [
+        {
+          "text": "This is the house of prayer for all nations under the sun",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The place of my throne, where I will dwell in midst of Israel forever",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The mountain of my holiness, which shall never be touched by hand",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The sanctuary of my glory, which shall outshine all the stars",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Ezekiel 43:7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_134",
+      "type": "single_choice",
+      "text": "How many days were they to purge and purify the altar in Ezekiel 43:26?",
+      "options": [
+        {
+          "text": "Three days were they to purge",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Forty days were they to purge",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Seven days shall they purge",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Twelve days were they to purge",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Ezekiel 43:26-27",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hes_135",
+      "type": "single_choice",
+      "text": "Why was the east gate of the outer sanctuary to be shut (Ezekiel 44:2)?",
+      "options": [
+        {
+          "text": "Lest any stranger or foreigner should pollute the holy court",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Until the prince should enter in to offer his burnt sacrifice",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because the foundation of the gate was shaken by an earthquake",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because the LORD, the God of Israel, hath entered in by it",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Ezekiel 44:2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_136",
+      "type": "single_choice",
+      "text": "Who was permitted to come near unto the LORD to minister unto Him (Ezekiel 44:15)?",
+      "options": [
+        {
+          "text": "The priests the Levites, the sons of Zadok",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "All the sons of Levi who remained in the land",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The elders of the people from all twelve tribes",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The prophets who prophesied truth in Israel",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Ezekiel 44:15",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_137",
+      "type": "single_choice",
+      "text": "What garments were the priests to wear in the inner court (Ezekiel 44:17)?",
+      "options": [
+        {
+          "text": "Garments of pure blue wool, embroidered with fine golden thread",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Clothed with linen garments; no wool shall come upon them",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Garments of sackcloth and haircloth during the solemn assemblies",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Robes of purple and fine silk adorned with precious onyx stones",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Ezekiel 44:17-18",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_138",
+      "type": "single_choice",
+      "text": "What portion was to be offered as an holy oblation unto the LORD (Ezekiel 45:1)?",
+      "options": [
+        {
+          "text": "A portion of ten thousand reeds in length and five thousand broad",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A square portion of twelve thousand cubits on every quarter",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "An holy portion: length of five and twenty thousand, breadth ten thousand",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A round portion surrounding the whole mountain of the temple",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Ezekiel 45:1-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hes_139",
+      "type": "single_choice",
+      "text": "What does the Lord GOD command the princes of Israel in Ezekiel 45:9?",
+      "options": [
+        {
+          "text": "Build strong walls and prepare great store of spears and shields",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Collect a rich tribute from all the foreign nations round about",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Make an holy alliance with the faithful governors of the north",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Remove violence and spoil, and execute judgment and justice",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Ezekiel 45:9-10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hes_140",
+      "type": "single_choice",
+      "text": "What feast is to be kept on the fourteenth day of the first month (Ezekiel 45:21)?",
+      "options": [
+        {
+          "text": "The feast of the passover",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The feast of tabernacles",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The joyful feast of weeks",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The sacred feast of trumpets",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Ezekiel 45:21",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hes_141",
+      "type": "single_choice",
+      "text": "When shall the gate of the inner court that looketh toward the east be opened (Ezekiel 46:1)?",
+      "options": [
+        {
+          "text": "On every morning of the week",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "On the sabbath and new moon",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "On all the days of passover",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Only on the day of atonement",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Ezekiel 46:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hes_142",
+      "type": "single_choice",
+      "text": "What rule governed entering and leaving by the gates in solemn feasts (Ezekiel 46:9)?",
+      "options": [
+        {
+          "text": "Every man must go out by the same gate wherein he entered in",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The prince alone shall enter by the east and go out by the west",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He that entereth by north gate goeth out by south, and vice versa",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "All people must enter by the south and leave through the north",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Ezekiel 46:9",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hes_143",
+      "type": "single_choice",
+      "text": "What was the purpose of the places in the corners of the court (Ezekiel 46:24)?",
+      "options": [
+        {
+          "text": "To wash the sacred vestments of the priests before the sacrifice",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To store the wheat, oil, and wine brought as tithes by people",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To keep the wood and holy fire prepared for the burnt offering",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Where the ministers of the house shall boil sacrifice of people",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Ezekiel 46:24",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hes_144",
+      "type": "single_choice",
+      "text": "How did the depth of the waters increase as measured in Ezekiel 47:3-5?",
+      "options": [
+        {
+          "text": "To ankles, to knees, to loins, then a river that could not be passed",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "To knees, to thighs, to shoulders, then overflowing all the land",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To ankles, to breast, to chin, then a raging sea without an harbor",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To calves, to waist, to head, then sweeping away all living trees",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Ezekiel 47:3-5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hes_145",
+      "type": "single_choice",
+      "text": "How shall the strangers that sojourn among them be treated (Ezekiel 47:22)?",
+      "options": [
+        {
+          "text": "As hired servants without rights, possessing no land of their own",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As born in country among children of Israel; shall have inheritance",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "As tributary subjects who must pay a double tithe unto the priests",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As dwellers in the outer cities who may not approach the temple",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Ezekiel 47:22",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hes_146",
+      "type": "single_choice",
+      "text": "How shall the gates of the city be named according to Ezekiel 48:31?",
+      "options": [
+        {
+          "text": "After the four quarters of heaven",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "After the holy prophets of God",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "After the names of the tribes of Israel",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "After the families of the priests",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Ezekiel 48:31",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hes_147",
+      "type": "single_choice",
+      "text": "With whom did Aholibah (Jerusalem) dote in her whoredoms (Ezekiel 23:12-16)?",
+      "options": [
+        {
+          "text": "Upon the Egyptians and Philistines, sending ambassadors unto them",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Upon the Moabites and Ammonites, worshipping their strange idols",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Upon the Assyrians and Chaldeans, seeing men pourtrayed on wall",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Upon the Syrians and Phoenicians, whose merchant ships enticed her",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Ezekiel 23:12-16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    }
+  ]
+}
