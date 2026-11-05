@@ -45,7 +45,8 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
 | `37_haggai.json` | 14 | 7 | 0 | 5 | 3 |
 | `38_sacharja.json` | 42 | 19 | 2 | 19 | 0 |
 | `39_maleachi.json` | 20 | 5 | 0 | 5 | 0 |
-| **Gesamt (39 Dateien)** | **3424** | **1570** | **1026** | **1419** | **87** |
+| `40_matthaeus.json` | 148 | 40 | 0 | 40 | 3 |
+| **Gesamt (40 Dateien)** | **3572** | **1610** | **1026** | **1459** | **90** |
 
 ## 01_1_mose.json – 1. Mose (Genesis) (Schlachter (Revision von 1951))
 
@@ -22256,3 +22257,593 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
   - **Option C (Falsch):**
     - **Vorher:** Ich bin der HERR und vergesse die Sünden der Väter nie
     - **Nachher:** Ich bin der HERR und vergesse die Missetat der Väter nicht
+
+## 40_matthaeus.json – Matthäus (Schlachter (Revision von 1951))
+
+### `mt_003` (Matthäus 1:21)
+- **Frage:** Welchen Grund nannte der Engel im Traum für den verheißenen Namen Jesus?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Er wird sein Volk selig machen von ihren Sünden
+    - **Nachher:** Er wird sein Volk von ihren Sünden retten
+  - **Option A (Falsch):**
+    - **Vorher:** Er wird die Römer aus dem Land vertreiben
+    - **Nachher:** Er wird die Römer aus dem Lande vertreiben
+  - **Option B (Falsch):**
+    - **Vorher:** Er wird den Tempel wieder aufbauen
+    - **Nachher:** Er wird den heiligen Tempel wieder aufbauen
+  - **Option C (Falsch):**
+    - **Vorher:** Er wird über alle Heidenvölker herrschen
+    - **Nachher:** Er wird mächtig über alle Heiden herrschen
+
+### `mt_004` (Matthäus 1:22-23)
+- **Frage:** Welchen alttestamentlichen Namen prophezeite Jesaja für den von der Jungfrau geborenen Sohn?
+- **Richtige Antwort (unverändert, Option A):** Immanuel, das heißt »Gott mit uns«
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Falsch):**
+    - **Vorher:** Wunderbarer Ratgeber
+    - **Nachher:** Jahwe-Zidkenu, der Herr der Gerechtigkeit
+  - **Option D (Falsch):**
+    - **Vorher:** Jahwe Zebaoth, der Herr der Heerscharen
+    - **Nachher:** Wunderbar-Rat, der ewige Friedefürst
+
+### `mt_008` (Matthäus 2:13-15)
+- **Frage:** Wohin floh Joseph mit dem Kind und seiner Mutter vor der Nachstellung des Herodes?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Nach Ägypten
+    - **Nachher:** Hinab nach Ägypten
+  - **Option B (Falsch):**
+    - **Vorher:** In die Festung Jericho
+    - **Nachher:** Nach Mesopotamien
+  - **Option C (Falsch):**
+    - **Vorher:** In die Berge Samarias
+    - **Nachher:** In die Wüste Sinai
+  - **Option D (Falsch):**
+    - **Vorher:** Auf die Insel Zypern
+    - **Nachher:** Nach Rom in Italien
+
+### `mt_012` (Matthäus 3:7-9)
+- **Frage:** Wie bezeichnete Johannes der Täufer die Pharisäer und Sadduzäer, die zu seiner Taufe kamen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Otterngezücht
+    - **Nachher:** Ihr Schlangenbrut
+  - **Option B (Falsch):**
+    - **Vorher:** Treue Verwalter des Gesetzes
+    - **Nachher:** Kinder des Teufels
+  - **Option C (Falsch):**
+    - **Vorher:** Söhne Abrahams
+    - **Nachher:** Verblendete Sünder
+  - **Option D (Falsch):**
+    - **Vorher:** Hirten des Volkes
+    - **Nachher:** Gottlose Heuchler
+
+### `mt_015` (Matthäus 3:17)
+- **Frage:** Was rief die Stimme aus dem Himmel bei der Taufe Jesu über Ihn aus?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Dies ist mein lieber Sohn, an dem ich Wohlgefallen habe
+    - **Nachher:** Dies ist mein geliebter Sohn, an dem ich Wohlgefallen habe
+  - **Option A (Falsch):**
+    - **Vorher:** Dies ist ein großer Prophet, auf den ihr hören sollt
+    - **Nachher:** Dies ist mein gerechter Knecht, auf dem mein Geist ruht
+  - **Option B (Falsch):**
+    - **Vorher:** Dies ist der kommende König Israels, der auf Davids Thron sitzen wird
+    - **Nachher:** Dies ist der König Israels, der auf dem Throne sitzt
+  - **Option C (Falsch):**
+    - **Vorher:** Dies ist der neue Hohepriester, der für das Volk eintreten soll
+    - **Nachher:** Dies ist der große Prophet, der zu den Völkern redet
+
+### `mt_020` (Matthäus 4:18-20)
+- **Frage:** Welche zwei Brüder rief Jesus am See von Galiläa als erste in Seine Nachfolge?
+- **Richtige Antwort (unverändert, Option A):** Simon Petrus und sein Bruder Andreas
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Jakobus und Johannes, die Söhne des Zebedäus, die gerade ihre Netze flickten
+    - **Nachher:** Jakobus und sein Bruder Johannes
+  - **Option C (Falsch):**
+    - **Vorher:** Philippus und Bartholomäus, die gerade unter einem Feigenbaum saßen
+    - **Nachher:** Philippus und sein Freund Nathanael
+  - **Option D (Falsch):**
+    - **Vorher:** Thomas und Matthäus, die gerade am Zoll und am Ufer arbeiteten
+    - **Nachher:** Thomas und der Zöllner Matthäus
+
+### `mt_021` (Matthäus 5:5)
+- **Frage:** Was wird den Sanftmütigen in den Seligpreisungen der Bergpredigt verheißen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Sie werden das Erdreich besitzen
+    - **Nachher:** Sie werden das Land erben
+  - **Option A (Falsch):**
+    - **Vorher:** Ihnen gehört das Himmelreich
+    - **Nachher:** Sie werden ewig regieren
+  - **Option C (Falsch):**
+    - **Vorher:** Sie werden Barmherzigkeit erlangen
+    - **Nachher:** Sie werden satt werden
+  - **Option D (Falsch):**
+    - **Vorher:** Sie werden Gottes Kinder heißen
+    - **Nachher:** Sie werden Gott schauen
+
+### `mt_024` (Matthäus 5:23-24)
+- **Frage:** Welcher Schritt muss laut Jesus vor dem Darbringen einer Gabe am Altar geschehen?
+- **Richtige Antwort (unverändert, Option A):** Sich zuerst mit dem Bruder versöhnen
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Drei Tage fasten
+    - **Nachher:** Drei Tage vor dem Altar fasten
+  - **Option C (Falsch):**
+    - **Vorher:** Die Hände in Quellwasser waschen
+    - **Nachher:** Die Hände in reinem Wasser waschen
+  - **Option D (Falsch):**
+    - **Vorher:** Den Schriftgelehrten die Sünden beichten
+    - **Nachher:** Den Hohenpriestern die Sünde beichten
+
+### `mt_027` (Matthäus 6:6)
+- **Frage:** Wo soll der Gläubige nach der Lehre Jesu beten, um Heuchelei zu meiden?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** In der Kammer bei verschlossener Tür
+    - **Nachher:** Im Kämmerlein bei geschlossener Tür
+  - **Option A (Falsch):**
+    - **Vorher:** An den Straßenecken, wo die Leute ihn hören und sehen können
+    - **Nachher:** An den Straßenecken vor allen Leuten
+  - **Option B (Falsch):**
+    - **Vorher:** Nur im Tempelvorhof, wo die Priester über sein Gebet wachen
+    - **Nachher:** Im Tempelvorhof vor vielen Priestern
+  - **Option C (Falsch):**
+    - **Vorher:** Auf dem Marktplatz, wo die Menge seine Frömmigkeit bemerkt
+    - **Nachher:** Auf dem Marktplatz vor großer Menge
+
+### `mt_031` (Matthäus 7:3-5)
+- **Frage:** Welches Bild gebraucht Jesus für jemanden, der den Fehler des Bruders richtet?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Der Balken im eigenen Auge
+    - **Nachher:** Der große Balken im eigenen Auge
+  - **Option A (Falsch):**
+    - **Vorher:** Ein blinder Bettler am Weg
+    - **Nachher:** Ein blinder Bettler am Straßenrand
+  - **Option B (Falsch):**
+    - **Vorher:** Ein tauber Mensch
+    - **Nachher:** Ein tauber Mann vor den Richtern
+  - **Option C (Falsch):**
+    - **Vorher:** Ein Mann, der auf Felsen stolpert
+    - **Nachher:** Ein Mann, der auf Steinen stolpert
+
+### `mt_034` (Matthäus 7:15-20)
+- **Frage:** Woran lassen sich falsche Propheten nach den Worten Jesu erkennen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** An ihren Früchten
+    - **Nachher:** An ihren guten Früchten
+  - **Option B (Falsch):**
+    - **Vorher:** An ihren Wundern und Zeichen
+    - **Nachher:** An Wundern und Zeichen
+  - **Option D (Falsch):**
+    - **Vorher:** An der großen Schar ihrer Anhänger
+    - **Nachher:** An der Schar der Jünger
+
+### `mt_039` (Matthäus 8:23-27)
+- **Frage:** Mit welchem Rufen weckten die verängstigten Jünger Jesus im Seesturm?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Herr, hilf uns, wir kommen um!
+    - **Nachher:** Herr, rette uns, wir gehen zugrunde!
+  - **Option A (Falsch):**
+    - **Vorher:** Meister, hilf uns beim Fischen
+    - **Nachher:** Meister, wach auf und steuere das Schiff!
+  - **Option B (Falsch):**
+    - **Vorher:** Gebiete den Wellen zu weichen
+    - **Nachher:** Herr, gebiete den Winden und den Wellen!
+  - **Option C (Falsch):**
+    - **Vorher:** Lenke das Schiff ans Ufer
+    - **Nachher:** Lehrer, siehst du nicht, wie wir leiden!
+
+### `mt_040` (Matthäus 8:28-34)
+- **Frage:** Wohin fuhren die Dämonen aus den Besessenen im Gadarenerland?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** In eine Herde Säue
+    - **Nachher:** In eine Herde von Säuen
+  - **Option C (Falsch):**
+    - **Vorher:** In die Wüste
+    - **Nachher:** In die öde Wüstengegend
+
+### `mt_042` (Matthäus 9:9)
+- **Frage:** Welchen Beruf übte Matthäus aus, als Jesus ihn in die Nachfolge berief?
+- **Richtige Antwort (unverändert, Option C):** Zöllner
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Falsch):**
+    - **Vorher:** Schreiber im Tempel
+    - **Nachher:** Schreiber
+
+### `mt_046` (Matthäus 10:5-6)
+- **Frage:** Zu wem sollten die zwölf Apostel bei ihrer ersten Aussendung gesandt werden?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Zu den verlorenen Schafen des Hauses Israel
+    - **Nachher:** Zu den verlorenen Schafen Israels
+  - **Option A (Falsch):**
+    - **Vorher:** Zu allen Heidenvölkern
+    - **Nachher:** Auf den Weg der Heidenvölker
+  - **Option B (Falsch):**
+    - **Vorher:** Allein zu den Samaritern
+    - **Nachher:** In eine Stadt der Samariter
+  - **Option D (Falsch):**
+    - **Vorher:** Zu den Schriftgelehrten in Jerusalem
+    - **Nachher:** Zu den Schriftgelehrten der Stadt
+
+### `mt_047` (Matthäus 10:16)
+- **Frage:** Welches Verhalten befahl Jesus Seinen Jüngern unter feindseligen Menschen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Klug wie die Schlangen und ohne Falsch wie die Tauben
+    - **Nachher:** Klug wie die Schlangen und arglos wie die Tauben
+  - **Option A (Falsch):**
+    - **Vorher:** Mit dem Schwert für das Reich Gottes kämpfen und streiten
+    - **Nachher:** Mit dem Schwert kämpfen und für das Reich streiten
+  - **Option B (Falsch):**
+    - **Vorher:** Sich in die Wüstenhöhlen zurückziehen und dort verbergen
+    - **Nachher:** Sich in Höhlen verbergen und vor Feinden fliehen
+  - **Option C (Falsch):**
+    - **Vorher:** Sich den Sitten der Heiden anpassen und ihnen folgen
+    - **Nachher:** Sich den fremden Heiden anpassen und nachgeben
+
+### `mt_054` (Matthäus 11:25-26)
+- **Frage:** Wem hat der Vater die Geheimnisse des Reiches geoffenbart?
+- **Richtige Antwort (unverändert, Option C):** Den Unmündigen
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Den Hohenpriestern
+    - **Nachher:** Den Weisen und Klugen
+  - **Option B (Falsch):**
+    - **Vorher:** Den griechischen Philosophen
+    - **Nachher:** Den Hohenpriestern
+  - **Option D (Falsch):**
+    - **Vorher:** Den gelehrten Schriftgelehrten
+    - **Nachher:** Den Schriftgelehrten
+
+### `mt_061` (Matthäus 13:3-23)
+- **Bibelstelle Vorher:** `Matthäus 13:3-8; 13:18-23` -> **Nachher:** `Matthäus 13:3-23`
+- **Frage:** Welcher Ackerboden brachte im Gleichnis vom Sämann Frucht hervor?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Das gute Land
+    - **Nachher:** Das gute Erdreich
+  - **Option C (Falsch):**
+    - **Vorher:** Der Weg am Rand des Feldes
+    - **Nachher:** Der Weg am Acker
+  - **Option D (Falsch):**
+    - **Vorher:** Der Boden unter den Dornen
+    - **Nachher:** Das Land der Dornen
+
+### `mt_062` (Matthäus 13:38-39)
+- **Frage:** Wer säte nach der Auslegung Jesu das Unkraut unter den Weizen?
+- **Richtige Antwort (unverändert, Option C):** Der Teufel, der Feind
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Die nachlässigen Knechte des Hauses
+    - **Nachher:** Die nachlässigen Knechte
+  - **Option B (Falsch):**
+    - **Vorher:** Die unbußfertigen Menschen
+    - **Nachher:** Die unbußfertigen Sünder
+
+### `mt_064` (Matthäus 13:54-58)
+- **Frage:** Warum wirkte Jesus in Seiner Heimatstadt Nazareth nur wenige Wundertaten?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Wegen ihres Unglaubens
+    - **Nachher:** Wegen ihres großen Unglaubens
+  - **Option B (Falsch):**
+    - **Vorher:** Weil die Pharisäer ihn hinderten
+    - **Nachher:** Wegen des Widerstands der Priester
+  - **Option C (Falsch):**
+    - **Vorher:** Weil er keine Zeit für Kranke hatte
+    - **Nachher:** Weil keine Kranken zu ihm kamen
+  - **Option D (Falsch):**
+    - **Vorher:** Weil das Gesetz es im Elternhaus verbot
+    - **Nachher:** Weil das Gesetz es dort verbot
+
+### `mt_065` (Matthäus 13:31-32)
+- **Frage:** Womit vergleicht Jesus das Wachsen des Himmelreichs im Gleichnis?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Mit einem Senfkorn
+    - **Nachher:** Mit einem kleinen Senfkorn
+  - **Option A (Falsch):**
+    - **Vorher:** Mit einer mächtigen Zeder
+    - **Nachher:** Mit einer großen Zeder
+  - **Option C (Falsch):**
+    - **Vorher:** Mit einem Weinstock im Tal
+    - **Nachher:** Mit einem edlen Weinstock
+  - **Option D (Falsch):**
+    - **Vorher:** Mit einem Funken, der das Feld entzündet
+    - **Nachher:** Mit einem funkelnden Licht
+
+### `mt_066` (Matthäus 14:6-11)
+- **Frage:** Welcher Anlass führte zur Enthauptung Johannes des Täufers im Gefängnis?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Der unbedachte Schwur des Herodes
+    - **Nachher:** Der unbedachte Eid des Herodes
+  - **Option A (Falsch):**
+    - **Vorher:** Ein Aufruhr unter den Jüngern des Täufers
+    - **Nachher:** Ein Aufruhr unter den Gefangenen
+  - **Option B (Falsch):**
+    - **Vorher:** Ein Fluchtversuch des Täufers
+    - **Nachher:** Ein Fluchtversuch des Gefangenen
+  - **Option D (Falsch):**
+    - **Vorher:** Ein Befehl des Kaisers
+    - **Nachher:** Ein strenger Befehl des Kaisers
+
+### `mt_068` (Matthäus 14:20)
+- **Frage:** Wie viele Körbe voll Brocken blieben nach der Speisung der Fünftausend übrig?
+- **Richtige Antwort (unverändert, Option A):** Zwölf Körbe voll
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Falsch):**
+    - **Vorher:** Kein Korb
+    - **Nachher:** Fünf Körbe voll
+
+### `mt_083` (Matthäus 17:14-21)
+- **Frage:** Warum konnten die Jünger den mondsüchtigen Knaben nicht heilen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Wegen ihres Unglaubens
+    - **Nachher:** Weil sie zu wenig Glauben hatten
+  - **Option A (Falsch):**
+    - **Vorher:** Weil sie das Gebet vergessen hatten
+    - **Nachher:** Weil sie nicht nüchtern geblieben waren
+  - **Option B (Falsch):**
+    - **Vorher:** Weil der Vater des Knaben gesündigt hatte
+    - **Nachher:** Weil der Vater zu wenig gebetet hatte
+  - **Option C (Falsch):**
+    - **Vorher:** Weil die Pharisäer im Weg standen
+    - **Nachher:** Weil die Schriftgelehrten spotteten
+
+### `mt_088` (Matthäus 18:21-22)
+- **Frage:** Wie oft soll man nach den Worten Jesu dem sündigenden Bruder vergeben?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Siebzigmal siebenmal
+    - **Nachher:** Bis zu siebzigmal siebenmal
+  - **Option B (Falsch):**
+    - **Vorher:** Siebenmal am Tag
+    - **Nachher:** Bis zu siebenmal an einem Tag
+  - **Option C (Falsch):**
+    - **Vorher:** Dreimal im Leben
+    - **Nachher:** Bis zu dreimal im ganzen Leben
+  - **Option D (Falsch):**
+    - **Vorher:** Nur wenn der Priester zustimmt
+    - **Nachher:** Bis zu zehnmal nach dem Gesetz
+
+### `mt_096` (Matthäus 20:1-16)
+- **Frage:** Welchen Lohn erhielten alle Arbeiter im Weinberg im Gleichnis?
+- **Richtige Antwort (unverändert, Option A):** Einen Denar für den Tag
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Verschiedene Münzen je nach Stunden
+    - **Nachher:** Zwei Denare für den Tag
+  - **Option C (Falsch):**
+    - **Vorher:** Den Letzten die Hälfte
+    - **Nachher:** Einen halben Denar Lohn
+  - **Option D (Falsch):**
+    - **Vorher:** Den Ersten das Doppelte
+    - **Nachher:** Drei Denare für den Tag
+
+### `mt_099` (Matthäus 20:28)
+- **Frage:** Wozu ist der Menschensohn nach Seinen Worten in die Welt gekommen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Um zu dienen und sein Leben als Lösegeld für viele zu geben
+    - **Nachher:** Um zu dienen und seine Seele zu geben als Bezahlung anstatt vieler
+  - **Option A (Falsch):**
+    - **Vorher:** Um sich bedienen zu lassen und als König über Israel zu herrschen
+    - **Nachher:** Um sich bedienen zu lassen und über ganz Israel mächtig zu herrschen
+  - **Option B (Falsch):**
+    - **Vorher:** Um das Gesetz neu auf Tafeln zu schreiben und ein neues Volk zu sammeln
+    - **Nachher:** Um das Gesetz neu zu schreiben und ein großes irdisches Volk zu leiten
+  - **Option C (Falsch):**
+    - **Vorher:** Um das Römerreich gewaltsam zu stürzen und das Königreich Davids aufzurichten
+    - **Nachher:** Um die Römer zu verjagen und ein ewiges irdisches Reich aufzurichten
+
+### `mt_102` (Matthäus 21:12-13)
+- **Frage:** Welches Handeln vollzog Jesus kurz nach Seinem Einzug im Tempel?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Er trieb die Händler und Wechsler aus dem Tempel
+    - **Nachher:** Er trieb alle Verkäufer, Käufer und Wechsler hinaus
+  - **Option A (Falsch):**
+    - **Vorher:** Er brachte ein Brandopfer dar und betete im Tempel für das Volk
+    - **Nachher:** Er brachte ein Brandopfer dar und betete für das Volk
+  - **Option B (Falsch):**
+    - **Vorher:** Er hielt eine Rede vor dem Rat und forderte die Priester heraus
+    - **Nachher:** Er hielt eine Rede vor dem Hohen Rat und den Ältesten
+  - **Option D (Falsch):**
+    - **Vorher:** Er schmückte das Heiligtum mit Palmzweigen und Blumen
+    - **Nachher:** Er schmückte das Heiligtum mit Zweigen und mit Blumen
+
+### `mt_113` (Matthäus 23:23)
+- **Frage:** Welcher Tadel trifft die Pharisäer bezüglich des Zehnten und des Wesentlichen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Sie verzehnten Minze, Dill und Kümmel, lassen aber Recht, Barmherzigkeit und Treue beiseite
+    - **Nachher:** Sie verzehnten Minze, Anis und Kümmel und lassen Gericht, Erbarmen und Glauben aus
+  - **Option A (Falsch):**
+    - **Vorher:** Sie vergaßen die Gaben für den Opferkasten, die das Gesetz von allen Gläubigen fordert
+    - **Nachher:** Sie bringen große Brandopfer dar, verweigern aber dem Tempel das vorgeschriebene Geld
+  - **Option C (Falsch):**
+    - **Vorher:** Sie opferten unreine Tiere und verachteten alle Reinheitsvorschriften des Gesetzes
+    - **Nachher:** Sie beten stundenlang an Straßenecken, verachten jedoch die Armen und Notleidenden ganz
+  - **Option D (Falsch):**
+    - **Vorher:** Sie forderten den Zehnten auch von den Armen und Witwen im ganzen Land Israel
+    - **Nachher:** Sie fasten zweimal in der Woche, halten aber die Feiertage vor dem Volk nicht heilig ein
+
+### `mt_114` (Matthäus 23:27-28)
+- **Frage:** Welches Bild verwendet Jesus für die verlogene Äußerlichkeit der Schriftgelehrten?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Getünchte Gräber, außen schön und innen voller Totengebeine
+    - **Nachher:** Getünchte Gräber, auswendig schön, inwendig voll Totengebeine
+  - **Option A (Falsch):**
+    - **Vorher:** Zerbrochene Krüge am Brunnen, außen glänzend und innen leer
+    - **Nachher:** Verwelkte Bäume, die kein Wasser haben und keine Frucht bringen
+  - **Option B (Falsch):**
+    - **Vorher:** Dürre Bäume an der Straße, die weder Schatten noch Frucht bieten
+    - **Nachher:** Zerbrochene Gefäße, die kein edles Öl mehr in sich fassen können
+  - **Option D (Falsch):**
+    - **Vorher:** Verrostete Schwerter in der Scheide, außen prächtig und innen stumpf
+    - **Nachher:** Trübe Brunnen, aus denen kein Mensch mehr reines Wasser schöpft
+
+### `mt_117` (Matthäus 24:4-8)
+- **Frage:** Welcher Vorbote gehört nach den Worten Jesu zum Anfang der Wehen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Kriege, Hungersnöte und Erdbeben
+    - **Nachher:** Kriege, Kriegsgeschrei, Hungersnöte und Erdbeben
+  - **Option A (Falsch):**
+    - **Vorher:** Der Verfall des Geldes, der Handel und die Not der Händler
+    - **Nachher:** Der Verfall des Geldes und der Ruin der Händler
+  - **Option C (Falsch):**
+    - **Vorher:** Allgemeiner Wohlstand, Frieden und die Ruhe der Völker
+    - **Nachher:** Allgemeiner Wohlstand und der Reichtum der Völker
+  - **Option D (Falsch):**
+    - **Vorher:** Wolkenlose Himmel, Dürre und das Ausbleiben des Regens
+    - **Nachher:** Wolkenlose Himmel und das Ausbleiben des Regens
+
+### `mt_118` (Matthäus 24:27-30)
+- **Frage:** Wie wird die Ankunft des Menschensohnes für alle Menschen erscheinen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Wie der Blitz, der von Osten ausgeht und bis nach Westen scheint
+    - **Nachher:** Wie der Blitz, der vom Osten ausfährt und bis zum Westen scheint
+  - **Option A (Falsch):**
+    - **Vorher:** Heimlich und unbemerkt, nur im Verborgenen der Herzen der Gläubigen
+    - **Nachher:** Heimlich und verborgen, nur in den stillen Herzen der Gläubigen
+  - **Option B (Falsch):**
+    - **Vorher:** Nur für die Priester in Jerusalem sichtbar, die ihn erwarten
+    - **Nachher:** Nur für die Hohenpriester im Heiligtum zu Jerusalem erkennbar
+  - **Option D (Falsch):**
+    - **Vorher:** In Gestalt eines Wanderers, den niemand erkennt und der unter ihnen ist
+    - **Nachher:** In Gestalt eines fremden Wanderers, den die Menschen nicht sehen
+
+### `mt_127` (Matthäus 26:14-16)
+- **Frage:** Welchen Preis vereinbarte Judas Ischariot für den Verrat?
+- **Richtige Antwort (unverändert, Option D):** Dreißig Silberlinge
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Ein Landgut vor der Stadt
+    - **Nachher:** Zwanzig Silberlinge
+  - **Option C (Falsch):**
+    - **Vorher:** Zehn Purpurgewänder der Priester
+    - **Nachher:** Hundert Silberlinge
+
+### `mt_129` (Matthäus 26:36-44)
+- **Frage:** Was betete Jesus im Seelenkampf in Gethsemane?
+- **Richtige Antwort (unverändert, Option B):** Nicht wie ich will, sondern wie du willst
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Sende Engel zur Vernichtung meiner Feinde
+    - **Nachher:** Sende Engel zum Schutz vor den Feinden
+  - **Option C (Falsch):**
+    - **Vorher:** Lass mich sofort zurückkehren
+    - **Nachher:** Lass diesen Kelch ohne Leiden vergehen
+  - **Option D (Falsch):**
+    - **Vorher:** Klage über den Verrat
+    - **Nachher:** Nimm mich sogleich zu dir in den Himmel
+
+### `mt_134` (Matthäus 27:50-54)
+- **Frage:** Welches Zeichen begleitete den Tod Jesu im Tempel?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Der Vorhang im Tempel zerriss von oben bis unten in zwei Stücke
+    - **Nachher:** Der Vorhang im Tempel riss von oben bis unten entzwei
+  - **Option A (Falsch):**
+    - **Vorher:** Die Tempelsteine stürzten ein, und die Mauern der Stadt barsten
+    - **Nachher:** Der Brandopferaltar zerbrach in viele kleine Trümmer
+  - **Option B (Falsch):**
+    - **Vorher:** Eine Feuersäule erschien über dem Tempel und erleuchtete die Nacht
+    - **Nachher:** Die sieben goldenen Leuchter stürzten zu Boden nieder
+  - **Option D (Falsch):**
+    - **Vorher:** Die Bundeslade versank im Boden des Allerheiligsten unter dem Vorhang
+    - **Nachher:** Die Mauern des Heiligtums stürzten mit lautem Getöse ein
+
+### `mt_138` (Matthäus 28:9-10)
+- **Frage:** Welchen Ruf richtete der auferstandene Jesus an die Frauen auf dem Wege?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Seid gegrüßt!
+    - **Nachher:** Freuet euch!
+  - **Option A (Falsch):**
+    - **Vorher:** Friede sei mit euch!
+    - **Nachher:** Fürchtet euch!
+  - **Option B (Falsch):**
+    - **Vorher:** Fürchtet die Hohenpriester nicht!
+    - **Nachher:** Gehet hin!
+  - **Option D (Falsch):**
+    - **Vorher:** Eilt nach Jerusalem!
+    - **Nachher:** Friede sei!
+
+### `mt_140` (Matthäus 28:18-20)
+- **Frage:** Welchen Befehl erteilte der auferstandene Jesus den Aposteln in Galiläa?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Geht hin und macht alle Völker zu Jüngern
+    - **Nachher:** Macht alle Völker zu Jüngern
+  - **Option B (Falsch):**
+    - **Vorher:** Predigt nur in Judäa
+    - **Nachher:** Predigt das Wort nur in Judäa
+  - **Option C (Falsch):**
+    - **Vorher:** Richtet die Heiden mit dem Schwert
+    - **Nachher:** Richtet die Heiden im Kriege
+  - **Option D (Falsch):**
+    - **Vorher:** Baut ein neues Heiligtum
+    - **Nachher:** Baut ein neues großes Haus
+
+### `mt_144` (Matthäus 16:16)
+- **Frage:** Wer antwortete Jesus: „Du bist der Christus, der Sohn des lebendigen Gottes!“ (Matthäus 16:16)?
+- **Richtige Antwort (unverändert, Option A):** Simon Petrus
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Andreas
+    - **Nachher:** Johannes
+  - **Option D (Falsch):**
+    - **Vorher:** Johannes
+    - **Nachher:** Andreas
+
+### `mt_147` (Matthäus 4:1-11)
+- **Bibelstelle Vorher:** `Matthäus 4:3; Matthäus 4:5-6; Matthäus 4:8-9` -> **Nachher:** `Matthäus 4:1-11`
+- **Frage:** Bringe die drei Versuchungen Jesu nach Matthäus 4 in die richtige Reihenfolge.
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Alle Reiche der Welt gegen Anbetung erhalten
+    - **Nachher:** Die Reiche der Welt gegen Anbetung empfangen
+  - **Option B (Richtig):**
+    - **Vorher:** Sich von der Zinne des Tempels stürzen
+    - **Nachher:** Sich von der hohen Zinne des Tempels stürzen
+  - **Option C (Richtig):**
+    - **Vorher:** Steine zu Brot machen
+    - **Nachher:** Befehlen, dass Steine zu Broten werden sollen
+
+### `mt_148` (Matthäus 26:26)
+- **Bibelstelle Vorher:** `Matthäus 26:26; Matthäus 26:36; Matthäus 26:47; Matthäus 27:11; Matthäus 27:35; Matthäus 28:6` -> **Nachher:** `Matthäus 26:26`
+- **Frage:** Bringe diese Ereignisse der Leidensgeschichte Jesu in die richtige Reihenfolge.
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Das letzte Abendmahl
+    - **Nachher:** Das Passahmahl mit den Jüngern
+  - **Option B (Richtig):**
+    - **Vorher:** Jesus wird gekreuzigt
+    - **Nachher:** Die Kreuzigung auf Golgatha
+  - **Option C (Richtig):**
+    - **Vorher:** Judas verrät Jesus mit einem Kuss
+    - **Nachher:** Der Verrat durch den Judaskuss
+  - **Option D (Richtig):**
+    - **Vorher:** Das Gebet in Gethsemane
+    - **Nachher:** Das Gebet im Garten Gethsemane
+  - **Option E (Richtig):**
+    - **Vorher:** Jesus steht vor Pilatus
+    - **Nachher:** Das Verhör vor Pontius Pilatus
+  - **Option F (Richtig):**
+    - **Vorher:** Jesus steht von den Toten auf
+    - **Nachher:** Die Auferstehung von den Toten

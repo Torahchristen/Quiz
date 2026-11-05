@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-11-05T20:41:12Z",
+  "lastUpdated": "2026-11-05T20:54:17Z",
   "language": "en",
   "categories": [
     {
@@ -790,6 +790,28 @@
       ],
       "sizeBytes": 18170,
       "downloadUrl": "./en/39_maleachi.json"
+    },
+    {
+      "quizId": "nt_01_matthaeus_alle_kapitel_en",
+      "category": "nt",
+      "title": "Matthew",
+      "subtitle": "Matthew 1:1 – 28:20 (148 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 148,
+      "difficulty": "medium",
+      "tags": [
+        "Matthew",
+        "New Testament",
+        "Gospels",
+        "Gospel",
+        "Sermon on the Mount",
+        "Messiah",
+        "King James Version"
+      ],
+      "sizeBytes": 139657,
+      "downloadUrl": "./en/40_matthaeus.json"
     }
   ]
 }
