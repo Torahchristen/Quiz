@@ -49,7 +49,8 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
 | `41_markus.json` | 80 | 16 | 0 | 16 | 0 |
 | `42_lukas.json` | 126 | 35 | 1 | 34 | 3 |
 | `43_johannes.json` | 110 | 42 | 2 | 38 | 2 |
-| **Gesamt (43 Dateien)** | **3888** | **1703** | **1029** | **1547** | **95** |
+| `44_apostelgeschichte.json` | 145 | 26 | 0 | 19 | 8 |
+| **Gesamt (44 Dateien)** | **4033** | **1729** | **1029** | **1566** | **103** |
 
 ## 01_1_mose.json – 1. Mose (Genesis) (Schlachter (Revision von 1951))
 
@@ -24125,3 +24126,326 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
 ### `joh_110` (Johannes 20:19)
 - **Bibelstelle Vorher:** `Johannes 20:14; Lukas 24:15; Johannes 20:19; Johannes 20:26` -> **Nachher:** `Johannes 20:19`
 - **Frage:** Bringe diese Erscheinungen des Auferstandenen in die richtige Reihenfolge.
+
+## 44_apostelgeschichte.json – Apostelgeschichte (Schlachter (Revision von 1951))
+
+### `apg_005` (Apostelgeschichte 1:24-26)
+- **Frage:** Durch welches Verfahren wurde Matthias unter die elf Apostel gezählt?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Durch das Los
+    - **Nachher:** Durch das Werfen des Loses
+  - **Option C (Falsch):**
+    - **Vorher:** Durch ein Zeichen des Geistes
+    - **Nachher:** Durch ein Zeichen des Himmels
+  - **Option D (Falsch):**
+    - **Vorher:** Durch einen Beschluss aus Rom
+    - **Nachher:** Durch den Beschluss aller da
+
+### `apg_022` (Apostelgeschichte 5:4-5)
+- **Frage:** Welches Schicksal traf Hananias unmittelbar nach der Überführung durch Petrus?
+- **Richtige Antwort (unverändert, Option C):** Er fiel nieder und verschied
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Er erblindete
+    - **Nachher:** Er erblindete vor aller Menge
+  - **Option B (Falsch):**
+    - **Vorher:** Er floh in die Wüste
+    - **Nachher:** Er floh sogleich in die Wüste
+  - **Option D (Falsch):**
+    - **Vorher:** Er wurde vom Rat eingesperrt
+    - **Nachher:** Er wurde alsbald eingesperrt
+
+### `apg_024` (Apostelgeschichte 5:17-20)
+- **Frage:** Wer befreite die gefangenen Apostel nachts aus dem öffentlichen Gefängnis?
+- **Richtige Antwort (unverändert, Option A):** Ein Engel des Herrn
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Ein römischer Wächter
+    - **Nachher:** Ein römischer Soldat
+  - **Option C (Falsch):**
+    - **Vorher:** Ein Erdbeben
+    - **Nachher:** Ein starkes Erdbeben
+  - **Option D (Falsch):**
+    - **Vorher:** Ein gläubiger Aufseher
+    - **Nachher:** Ein gläubiger Diener
+
+### `apg_028` (Apostelgeschichte 6:8)
+- **Frage:** Welcher unter den sieben gewählten Diakonen zeichnete sich durch Wunder aus?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Stephanus
+    - **Nachher:** Stephanus, voll Gnade
+  - **Option B (Falsch):**
+    - **Vorher:** Nikolaus
+    - **Nachher:** Nikolaus von Antiochia
+  - **Option C (Falsch):**
+    - **Vorher:** Timon
+    - **Nachher:** Timon, einer der Sieben
+  - **Option D (Falsch):**
+    - **Vorher:** Parmenas
+    - **Nachher:** Parmenas aus Jerusalem
+
+### `apg_033` (Apostelgeschichte 7:9)
+- **Frage:** Welcher Sohn Jakobs wurde von seinen Brüdern aus Neid nach Ägypten verkauft?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Josef
+    - **Nachher:** Joseph, von Brüdern beneidet
+  - **Option A (Falsch):**
+    - **Vorher:** Ruben, der Erstgeborene
+    - **Nachher:** Ruben, der erstgeborene Sohn
+  - **Option C (Falsch):**
+    - **Vorher:** Benjamin, der Jüngste
+    - **Nachher:** Benjamin, der jüngste Bruder
+  - **Option D (Falsch):**
+    - **Vorher:** Juda
+    - **Nachher:** Juda, der vierte Sohn Jakobs
+
+### `apg_045` (Apostelgeschichte 9:36-41)
+- **Frage:** Welche gläubige Frau in Joppe (Tabitha) erweckte Petrus durch Gebet vom Tode?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Tabita, die auch Dorkas heißt
+    - **Nachher:** Tabita, die Dorkas genannt wird
+  - **Option C (Falsch):**
+    - **Vorher:** Rhode, die Magd
+    - **Nachher:** Rhode, die junge Magd im Hause
+  - **Option D (Falsch):**
+    - **Vorher:** Drusilla, die Edelfrau
+    - **Nachher:** Drusilla, die Edelfrau aus Rom
+
+### `apg_048` (Apostelgeschichte 10:19)
+- **Bibelstelle Vorher:** `Apostelgeschichte 10:7-8; 10:19` -> **Nachher:** `Apostelgeschichte 10:19`
+- **Frage:** Wie viele Männer schickte Kornelius nach Joppe, um Petrus zu sich zu rufen?
+
+### `apg_063` (Apostelgeschichte 13:7-12)
+- **Bibelstelle Vorher:** `Apostelgeschichte 13:7; 13:12` -> **Nachher:** `Apostelgeschichte 13:7-12`
+- **Frage:** Welcher römische Statthalter auf Zypern kam durch das Wunder zum Glauben?
+
+### `apg_070` (Apostelgeschichte 14:26-27)
+- **Frage:** An welchem Ort berichteten die Heimgekehrten von der Öffnung der Glaubenstür?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** In Antiochia in Syrien
+    - **Nachher:** In der großen Gemeinde Antiochia
+  - **Option A (Falsch):**
+    - **Vorher:** In Jerusalem, der Mutterstadt
+    - **Nachher:** In der heiligen Stadt Jerusalem
+  - **Option B (Falsch):**
+    - **Vorher:** In Tarsus, der Heimatstadt des Paulus
+    - **Nachher:** In der Hafenstadt Tarsus in Asien
+  - **Option D (Falsch):**
+    - **Vorher:** In Ephesus in Kleinasien
+    - **Nachher:** In der Provinzstadt Ephesus dort
+
+### `apg_073` (Apostelgeschichte 15:28-29)
+- **Bibelstelle Vorher:** `Apostelgeschichte 15:20; 15:28-29` -> **Nachher:** `Apostelgeschichte 15:28-29`
+- **Frage:** Welche Enthaltungen wurden den gläubigen Heiden im Aposteldekret auferlegt?
+
+### `apg_076` (Apostelgeschichte 16:1-3)
+- **Frage:** Welcher junge Jünger mit jüdischer Mutter und griechischem Vater schloss sich Paulus an?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Timotheus
+    - **Nachher:** Timotheus aus Lystra
+  - **Option B (Falsch):**
+    - **Vorher:** Titus
+    - **Nachher:** Titus, der junge Grieche
+  - **Option C (Falsch):**
+    - **Vorher:** Lukas
+    - **Nachher:** Lukas, der treue Gehilfe
+  - **Option D (Falsch):**
+    - **Vorher:** Silas
+    - **Nachher:** Silas, der edle Prophet
+
+### `apg_079` (Apostelgeschichte 16:25-26)
+- **Frage:** Welches Wunder befreite Paulus und Silas aus dem Gefängnis in Philippi?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Ein großes Erdbeben
+    - **Nachher:** Ein plötzlich großes Erdbeben
+  - **Option A (Falsch):**
+    - **Vorher:** Ein loderndes Feuer
+    - **Nachher:** Ein hell loderndes Feuer
+  - **Option B (Falsch):**
+    - **Vorher:** Ein blendendes Licht
+    - **Nachher:** Ein stark blendendes Licht
+  - **Option C (Falsch):**
+    - **Vorher:** Ein Engel mit gezücktem Schwert
+    - **Nachher:** Ein Engel, der sie befreite
+
+### `apg_083` (Apostelgeschichte 17:19-22)
+- **Bibelstelle Vorher:** `Apostelgeschichte 17:19; 17:22` -> **Nachher:** `Apostelgeschichte 17:19-22`
+- **Frage:** Auf welchem Felsenhügel hielt Paulus Seine bekannte Rede vor den Athenern?
+
+### `apg_088` (Apostelgeschichte 18:12-16)
+- **Frage:** Welcher römische Prokonsul von Achaia wies die Anklage der Juden ab?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Gallio
+    - **Nachher:** Gallio, der Prokonsul
+  - **Option B (Falsch):**
+    - **Vorher:** Felix
+    - **Nachher:** Felix, der Statthalter
+  - **Option C (Falsch):**
+    - **Vorher:** Sergius Paulus
+    - **Nachher:** Sergius, der Prokonsul
+  - **Option D (Falsch):**
+    - **Vorher:** Festus
+    - **Nachher:** Festus, der Statthalter
+
+### `apg_099` (Apostelgeschichte 20:29-30)
+- **Frage:** Vor welcher Gefahr warnte Paulus die Ältesten von Ephesus?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Vor reißenden Wölfen, die die Herde nicht verschonen werden
+    - **Nachher:** Vor räuberischen Wölfen, die die Herde nicht schonen
+  - **Option A (Falsch):**
+    - **Vorher:** Vor der Verarmung der Gemeinde, die kein Geld mehr für die Armen hatte
+    - **Nachher:** Vor der großen Verarmung der Brüder in der Gemeinde
+  - **Option B (Falsch):**
+    - **Vorher:** Vor dem Verfall des Gemeindehauses, das nicht mehr instand gehalten wurde
+    - **Nachher:** Vor dem Zerfall des Hauses, das nicht bewahrt wurde
+  - **Option C (Falsch):**
+    - **Vorher:** Vor der Flucht der Ältesten nach Rom, die dort Zuflucht suchen würden
+    - **Nachher:** Vor der Flucht der Ältesten nach Rom in der Trübsal
+
+### `apg_100` (Apostelgeschichte 20:35)
+- **Frage:** Welcher Spruch Jesu wurde von Paulus den Ältesten ins Gedächtnis gerufen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Geben ist seliger als Nehmen
+    - **Nachher:** Glückseliger ist es vielmehr, zu geben als zu nehmen
+  - **Option B (Falsch):**
+    - **Vorher:** Liebe besiegt den Hass
+    - **Nachher:** Die Liebe allein überwindet alle Feindschaft der Welt
+  - **Option C (Falsch):**
+    - **Vorher:** Fasten stärkt den Geist
+    - **Nachher:** Das Fasten im Gebet stärkt den Geist aller Gläubigen
+  - **Option D (Falsch):**
+    - **Vorher:** Die Sanftmütigen erben das Land
+    - **Nachher:** Die Sanftmütigen erben das verheißene Land der Väter
+
+### `apg_101` (Apostelgeschichte 21:10-11)
+- **Frage:** Welcher Prophet bindet sich mit dem Gürtel des Paulus und weissagte Fesselung?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Agabus
+    - **Nachher:** Agabus aus Judäa
+  - **Option A (Falsch):**
+    - **Vorher:** Silas
+    - **Nachher:** Silas, der Prophet
+  - **Option C (Falsch):**
+    - **Vorher:** Judas
+    - **Nachher:** Judas, der Zeuge
+  - **Option D (Falsch):**
+    - **Vorher:** Barnabas
+    - **Nachher:** Barnabas der Levite
+
+### `apg_105` (Apostelgeschichte 23:26)
+- **Bibelstelle Vorher:** `Apostelgeschichte 21:31-33; 23:26` -> **Nachher:** `Apostelgeschichte 23:26`
+- **Frage:** Welcher römische Oberst rettete Paulus vor der wütenden Volksmenge?
+
+### `apg_112` (Apostelgeschichte 23:6-8)
+- **Frage:** Welches Streitthema spaltete den Hohen Rat in Pharisäer und Sadduzäer?
+- **Richtige Antwort (unverändert, Option A):** Die Auferstehung der Toten
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Die Bezahlung der Steuern
+    - **Nachher:** Die Bezahlung von Steuern
+  - **Option C (Falsch):**
+    - **Vorher:** Die Beschneidung der Heiden
+    - **Nachher:** Das Opferdienst im Tempel
+  - **Option D (Falsch):**
+    - **Vorher:** Der Tempelbau
+    - **Nachher:** Der Neubau des Heiligtums
+
+### `apg_115` (Apostelgeschichte 23:24-35)
+- **Frage:** Welcher Statthalter empfing den Begleitbrief des Lysias und übernahm Paulus?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Felix
+    - **Nachher:** Felix, der Statthalter
+  - **Option A (Falsch):**
+    - **Vorher:** Festus
+    - **Nachher:** Festus, der Statthalter
+  - **Option B (Falsch):**
+    - **Vorher:** Pilatus
+    - **Nachher:** Pilatus, der Statthalter
+  - **Option C (Falsch):**
+    - **Vorher:** Quirinius
+    - **Nachher:** Gallio, der Prokonsul
+
+### `apg_123` (Apostelgeschichte 25:13-22)
+- **Bibelstelle Vorher:** `Apostelgeschichte 25:13; 25:22` -> **Nachher:** `Apostelgeschichte 25:13-22`
+- **Frage:** Welcher König besuchte Cäsarea und wollte die Sache des Paulus hören?
+
+### `apg_127` (Apostelgeschichte 26:14)
+- **Frage:** Welches alttestamentliche Bild gebrauchte die Himmelsstimme bei der Berufung?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Es wird dir schwer, wider den Stachel zu löcken
+    - **Nachher:** Es wird dir schwer werden, gegen den Stachel auszuschlagen
+  - **Option A (Falsch):**
+    - **Vorher:** Es wird dir schwer, gegen die Felsen zu rennen
+    - **Nachher:** Es wird dir schwer werden, gegen die Felsen zu rennen
+  - **Option B (Falsch):**
+    - **Vorher:** Es wird dir schwer, gegen das Feuer zu kämpfen
+    - **Nachher:** Es wird dir schwer werden, gegen das Feuer zu kämpfen
+  - **Option C (Falsch):**
+    - **Vorher:** Es wird dir schwer, gegen die Wellen zu schwimmen
+    - **Nachher:** Es wird dir schwer werden, gegen die Wellen zu schwimmen
+
+### `apg_128` (Apostelgeschichte 26:24)
+- **Frage:** Welchen Vorwurf rief Festus dazwischen, als Paulus Seine Rede beendete?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Paulus, du bist von Sinnen; die große Gelehrsamkeit macht dich rasend
+    - **Nachher:** Paulus, du bist von Sinnen! Das viele Studieren bringt dich um den Verstand!
+  - **Option B (Falsch):**
+    - **Vorher:** Paulus, du lügst vor dem König, und deine Rede ist wertlos
+    - **Nachher:** Paulus, du hast das heilige Gesetz übertreten und die Väter verleugnet!
+  - **Option C (Falsch):**
+    - **Vorher:** Paulus, du schweigst aus Furcht, und niemand glaubt dir
+    - **Nachher:** Paulus, du redest große Worte, doch deine Weisheit ist von dieser Welt!
+  - **Option D (Falsch):**
+    - **Vorher:** Paulus, du schändest den Kaiser, und das wird dich teuer zu stehen kommen
+    - **Nachher:** Paulus, du bist ein Aufrührer und verführst das Volk gegen den Kaiser!
+
+### `apg_135` (Apostelgeschichte 27:37-44)
+- **Bibelstelle Vorher:** `Apostelgeschichte 27:37; 27:44` -> **Nachher:** `Apostelgeschichte 27:37-44`
+- **Frage:** Wie viele Personen befanden sich insgesamt an Bord des gestrandeten Schiffes?
+
+### `apg_136` (Apostelgeschichte 28:1)
+- **Frage:** Auf welcher Insel strandete die Schiffsmannschaft nach dem Schiffbruch?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Auf Malta
+    - **Nachher:** Auf Zypern
+  - **Option C (Falsch):**
+    - **Vorher:** Auf Zypern
+    - **Nachher:** Auf Rhodos
+  - **Option D (Falsch):**
+    - **Vorher:** Auf Rhodos
+    - **Nachher:** Auf Melite
+
+### `apg_145` (Apostelgeschichte 1:8)
+- **Bibelstelle Vorher:** `Apostelgeschichte 2:4; Apostelgeschichte 7:59; Apostelgeschichte 9:18; Apostelgeschichte 10:44; Apostelgeschichte 15:6` -> **Nachher:** `Apostelgeschichte 1:8`
+- **Frage:** Bringe diese Ereignisse der Apostelgeschichte in die richtige Reihenfolge.
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Stephanus wird gesteinigt
+    - **Nachher:** Stephanus wird vor der Stadt gesteinigt
+  - **Option B (Richtig):**
+    - **Vorher:** Der Heilige Geist kommt an Pfingsten
+    - **Nachher:** Der Heilige Geist wird an Pfingsten gesandt
+  - **Option C (Richtig):**
+    - **Vorher:** Das Apostelkonzil berät in Jerusalem
+    - **Nachher:** Das Apostelkonzil versammelt sich in Zion
+  - **Option D (Richtig):**
+    - **Vorher:** Der Heilige Geist fällt auf Kornelius und sein Haus
+    - **Nachher:** Der Geist fällt auf Kornelius und sein Haus
+  - **Option E (Richtig):**
+    - **Vorher:** Saulus wird in Damaskus getauft
+    - **Nachher:** Saulus wird in der Stadt Damaskus getauft

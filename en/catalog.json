@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-11-05T21:32:05Z",
+  "lastUpdated": "2026-11-05T21:40:45Z",
   "language": "en",
   "categories": [
     {
@@ -876,6 +876,29 @@
       ],
       "sizeBytes": 105946,
       "downloadUrl": "./en/43_johannes.json"
+    },
+    {
+      "quizId": "nt_05_apostelgeschichte_alle_kapitel_en",
+      "category": "nt",
+      "title": "Acts",
+      "subtitle": "Acts 1:1 – 28:31 (145 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 145,
+      "difficulty": "medium",
+      "tags": [
+        "Acts",
+        "New Testament",
+        "Early Church",
+        "Apostles",
+        "Holy Spirit",
+        "Paul",
+        "Peter",
+        "King James Version"
+      ],
+      "sizeBytes": 136023,
+      "downloadUrl": "./en/44_apostelgeschichte.json"
     }
   ]
 }
