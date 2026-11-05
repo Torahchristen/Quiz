@@ -33,7 +33,8 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
 | `25_klagelieder.json` | 18 | 8 | 0 | 8 | 0 |
 | `26_hesekiel.json` | 139 | 22 | 2 | 18 | 4 |
 | `27_daniel.json` | 37 | 9 | 2 | 7 | 1 |
-| **Gesamt (27 Dateien)** | **3157** | **1425** | **954** | **1281** | **59** |
+| `28_hosea.json` | 43 | 2 | 0 | 2 | 0 |
+| **Gesamt (28 Dateien)** | **3200** | **1427** | **954** | **1283** | **59** |
 
 ## 01_1_mose.json – 1. Mose (Genesis) (Schlachter (Revision von 1951))
 
@@ -20128,3 +20129,35 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
   - **Option D (Richtig):**
     - **Vorher:** Der Panther mit vier Flügeln
     - **Nachher:** Der Parder mit vier Flügeln
+
+## 28_hosea.json – Hosea (Luther 1912)
+
+### `hos_008` (Hosea 3:2)
+- **Frage:** Für welchen Preis erwarb Hosea nach Hosea 3:2 seine Frau zurück?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Für fünfzehn Silberlinge und ein Chomer und ein Letech Gerste
+    - **Nachher:** Für fünfzehn Silberlinge und anderthalb Scheffel Gerste
+  - **Option B (Falsch):**
+    - **Vorher:** Für dreißig Silberlinge und ein Chomer Weizen
+    - **Nachher:** Für dreißig Silberlinge und zwei volle Scheffel Weizen
+  - **Option C (Falsch):**
+    - **Vorher:** Für hundert Schekel Gold und ein Chomer und ein Letech Gerste
+    - **Nachher:** Für fünfzig Silberlinge und drei volle Scheffel Spelt
+  - **Option D (Falsch):**
+    - **Vorher:** Für zehn Schafe, einen Ochsen und fünfzehn Silberlinge
+    - **Nachher:** Für zehn Silberlinge und einen halben Scheffel Gerste
+
+### `hos_029` (Hosea 10:1)
+- **Frage:** Wie verhält sich nach Hosea 10:1 Israels Wohlstand zu seinen Altären?
+- **Richtige Antwort (unverändert, Option B):** Je mehr Früchte es hatte, desto mehr Altäre machte es
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Je mehr Früchte, desto mehr Opfer für den HERRN
+    - **Nachher:** Je mehr Früchte es trug, desto mehr Opfer für den HERRN
+  - **Option C (Falsch):**
+    - **Vorher:** Je weniger Früchte, desto mehr Altäre
+    - **Nachher:** Je weniger Früchte es trug, desto mehr Altäre baute es
+  - **Option D (Falsch):**
+    - **Vorher:** Es baute keine Altäre
+    - **Nachher:** Je reicher das Land ward, desto weniger Altäre baute es

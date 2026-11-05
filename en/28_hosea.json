@@ -1,0 +1,1486 @@
+{
+  "metadata": {
+    "quizId": "bibel_28_hosea_en",
+    "title": "Hosea",
+    "subtitle": "Hosea 1:1 – 14:9 (43 questions)",
+    "description": "Questions on the Book of Hosea according to the King James Version (1769).",
+    "author": "King James Version (1769)",
+    "version": "1.0.0",
+    "language": "en",
+    "category": "propheten",
+    "difficulty": "medium",
+    "tags": [
+      "Hosea",
+      "OT",
+      "prophets",
+      "KJV"
+    ],
+    "questionCount": 43,
+    "canonicalBookNumber": 28,
+    "testament": "OT"
+  },
+  "questions": [
+    {
+      "questionId": "hos_001",
+      "type": "single_choice",
+      "text": "What command did the LORD give unto Hosea at the beginning (Hosea 1:2)?",
+      "options": [
+        {
+          "text": "To offer a sacrifice in the holy temple at Jerusalem for the sins of people",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Go, take unto thee a wife of whoredoms, for the land hath departed from God",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "To build an altar on Mount Carmel and call upon the prophets of strange gods",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To proclaim war against the king of Assyria and muster all the tribes of land",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hosea 1:2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hos_002",
+      "type": "single_choice",
+      "text": "What does the name Lo-ruhamah signify in Hosea 1:6?",
+      "options": [
+        {
+          "text": "I will be your God and show great mercy unto you for ever",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I will bless you abundantly and never chastise your house",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I will no more have mercy upon the house of Israel",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "I will bring you up out of Egypt and make you a great nation",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Hosea 1:6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hos_003",
+      "type": "single_choice",
+      "text": "What name was given to Hosea's third child and what does it mean (Hosea 1:8-9)?",
+      "options": [
+        {
+          "text": "Immanuel: God with us, for the LORD will never leave His children",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Lo-ruhamah: I will no more have mercy upon the rebellious people",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Jezreel: God soweth, for the LORD will scatter His chosen seed",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Lo-ammi: Call his name Lo-ammi, for ye are not my people",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Hosea 1:8-9",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hos_004",
+      "type": "single_choice",
+      "text": "What promise follows the word Lo-ammi in Hosea 1:10?",
+      "options": [
+        {
+          "text": "Where it was said: Ye are not my people, there it shall be said: Sons of God",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The children of Israel shall be scattered among all nations and humiliated",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The princes of Israel shall serve the king of Asshur and pay yearly tribute",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The people shall pay the sacred tithe and be blessed in the fertile land",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Hosea 1:10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hos_005",
+      "type": "single_choice",
+      "text": "What ignorance of Israel is rebuked in Hosea 2:8?",
+      "options": [
+        {
+          "text": "She would not keep the commandments of the covenant made at Sinai",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "She did not know that I gave her corn, and wine, and oil",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "She refused to bring the firstfruits of her harvest to the altar",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "She forgot the ancient songs of praise that David composed",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hosea 2:8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hos_006",
+      "type": "single_choice",
+      "text": "How will the LORD win back His unfaithful bride in Hosea 2:14?",
+      "options": [
+        {
+          "text": "He will send fierce judgment and famine to break her stony heart",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He will command the priests to sanctify her with oil in the temple",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I will allure her, and bring her into the wilderness, and speak kindly",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He will cause all the nations round about to mock her in her misery",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Hosea 2:14-15",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hos_007",
+      "type": "single_choice",
+      "text": "What shall Israel call the LORD in that day according to Hosea 2:16?",
+      "options": [
+        {
+          "text": "Thou shalt call me my Master, and no more my Friend",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Thou shalt call me my King, and no more my Shepherd",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Thou shalt call me my Judge, and no more my Lawgiver",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Thou shalt call me Ishi; and shalt call me no more Baali",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Hosea 2:16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hos_008",
+      "type": "single_choice",
+      "text": "For what price did Hosea buy back his wife in Hosea 3:2?",
+      "options": [
+        {
+          "text": "For fifteen pieces of silver, and an homer and half homer of barley",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "For thirty pieces of silver, and two full homers of choice wheat",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For fifty pieces of silver, and three full homers of pure spelt",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For ten pieces of silver, and an half homer of unthreshed wheat",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Hosea 3:2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hos_009",
+      "type": "single_choice",
+      "text": "What condition is foretold for the children of Israel in Hosea 3:4?",
+      "options": [
+        {
+          "text": "They shall dwell as captives in Egypt and serve strange gods day and night",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Israel shall abide many days without king, prince, sacrifice, image, ephod",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "They shall be ruled by a foreign prince who will take away all their cattle",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They shall wander in the desert forty years until that generation perish",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hosea 3:4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hos_010",
+      "type": "single_choice",
+      "text": "Whom shall the children of Israel seek in the latter days (Hosea 3:5)?",
+      "options": [
+        {
+          "text": "The wise prophets of old and the high priest of the sanctuary",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The ancient laws of Moses and the sacred covenant of their fathers",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The LORD their God, and David their king, in fear and trembling",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The lost inheritance of their tribes in the holy mountain of Zion",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Hosea 3:5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hos_011",
+      "type": "single_choice",
+      "text": "What does the LORD find lacking in the land according to Hosea 4:1?",
+      "options": [
+        {
+          "text": "Silver, gold, and costly garments among the princes of the realm",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Sacrifices, tithes, and incense on the high places of the hills",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Fortified cities and valiant warriors to defend the borders",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "No truth, nor mercy, nor knowledge of God in the land",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Hosea 4:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hos_012",
+      "type": "single_choice",
+      "text": "Why are the priests rejected by the LORD in Hosea 4:6?",
+      "options": [
+        {
+          "text": "Because thou hast rejected knowledge and forgotten the law of God",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Because they offered blind and lame beasts upon the holy altar",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because they took gifts of gold from the heathen kings around them",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because they refused to wear the consecrated garments of linen",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Hosea 4:6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hos_013",
+      "type": "single_choice",
+      "text": "What caused the people to err according to Hosea 4:12?",
+      "options": [
+        {
+          "text": "The cunning words of the foreign merchant princes from Tyre",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The spirit of whoredoms caused them to err from their God",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The heavy burdens laid upon them by the ungodly taxgatherers",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The fear of the armies of Assyria that invaded their cities",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hosea 4:12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hos_014",
+      "type": "single_choice",
+      "text": "What happens when they go with flocks and herds to seek the LORD (Hosea 5:6)?",
+      "options": [
+        {
+          "text": "Their sacrifices are accepted with great joy upon the altar",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The fire of heaven consumes their offerings in the sight of all",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They shall not find him; he hath withdrawn himself from them",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The priests rejoice and proclaim a solemn feast throughout land",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Hosea 5:6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hos_015",
+      "type": "single_choice",
+      "text": "Unto whom did Ephraim send when he saw his sickness (Hosea 5:13)?",
+      "options": [
+        {
+          "text": "Unto the wise physicians of Egypt that dwelt by the Nile",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto the priests of Bethel to inquire of the golden calves",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto the prophets of Jerusalem to pray for healing and peace",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto the Assyrian, and sent to king Jareb: yet could he not heal",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Hosea 5:13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hos_016",
+      "type": "single_choice",
+      "text": "Until when will the LORD return unto His place in Hosea 5:15?",
+      "options": [
+        {
+          "text": "Till they acknowledge their offence, and seek my face in affliction",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Till all their cities be overthrown and the land become wilderness",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Till seventy years of captivity be accomplished in foreign realm",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Till a righteous king of the house of David reign in Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Hosea 5:15",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hos_017",
+      "type": "single_choice",
+      "text": "What confidence is expressed in the call to repentance in Hosea 6:1-2?",
+      "options": [
+        {
+          "text": "The LORD will destroy all our enemies and exalt our royal throne",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He hath torn, and he will heal; in the third day he will raise us up",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Our righteousness shall shine as the sun and all nations praise us",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The famine shall cease immediately and sweet wine flow in abundance",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hosea 6:1-2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hos_018",
+      "type": "single_choice",
+      "text": "Unto what is the goodness of Ephraim and Judah likened in Hosea 6:4?",
+      "options": [
+        {
+          "text": "Unto an oak tree whose leaves wither before the winter cold",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto a broken cistern that can hold no water for the thirsty",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As a morning cloud, and as the early dew it goeth away",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Unto a fading flower that falls to the earth in the drought",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Hosea 6:4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hos_019",
+      "type": "single_choice",
+      "text": "What does the LORD desire according to Hosea 6:6?",
+      "options": [
+        {
+          "text": "Costly burnt offerings of thousands of rams upon the altar",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Splendid sanctuaries of cedar and gold throughout the borders",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Fasting and weeping in sackcloth before the eyes of princes",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For I desired mercy, and not sacrifice; knowledge of God",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Hosea 6:6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hos_020",
+      "type": "single_choice",
+      "text": "Unto what is Ephraim likened in Hosea 7:8?",
+      "options": [
+        {
+          "text": "A cake not turned, mixing himself among the people",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A dry leaf blown about by every wind in the desert",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "An unfaithful servant who squanders his master's goods",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A wild ass of the wilderness that snuffeth up the wind",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Hosea 7:8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hos_021",
+      "type": "single_choice",
+      "text": "Unto what is Ephraim likened in Hosea 7:11?",
+      "options": [
+        {
+          "text": "Unto an eagle that soareth high above the mountain tops",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Like a silly dove without heart: they call to Egypt, go to Assyria",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Unto a roaring lion seeking prey in the forests of Lebanon",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto a swift deer that fleeth before the huntsmen in fields",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hosea 7:11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hos_022",
+      "type": "single_choice",
+      "text": "Unto what is the turning of the people compared in Hosea 7:16?",
+      "options": [
+        {
+          "text": "Unto an unfaithful messenger that runneth into the desert",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto a broken jar that can hold no wine for the feast",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They return, but not to the most High: they are like a deceitful bow",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Unto a shadow that declineth and leaveth only cold darkness",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Hosea 7:4-6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hos_023",
+      "type": "single_choice",
+      "text": "What proverb concerning judgment is declared in Hosea 8:7?",
+      "options": [
+        {
+          "text": "He that diggeth a pit shall fall headlong into the same",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He that soweth righteousness shall reap life everlasting",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The fathers have eaten sour grapes and the children suffer",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For they have sown the wind, and they shall reap the whirlwind",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Hosea 8:7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hos_024",
+      "type": "single_choice",
+      "text": "How is Israel described among the Gentiles in Hosea 8:8?",
+      "options": [
+        {
+          "text": "As a vessel wherein is no pleasure, swallowed up by foes",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "As a proud crown of gold that was cast down into dust",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As a mighty host that fled without a battle before sword",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As a noble vine whose pleasant branches were consumed",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Hosea 8:5-6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hos_025",
+      "type": "single_choice",
+      "text": "How did Israel regard the great things of God's law (Hosea 8:12)?",
+      "options": [
+        {
+          "text": "As a joyful light and sure guide for their daily paths",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As a strange thing, though I have written great things of law",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "As an heavy yoke that none of the fathers could endure",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As an holy treasure to be kept secret from all Gentiles",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hosea 8:12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hos_026",
+      "type": "single_choice",
+      "text": "How did the LORD find Israel in ancient days according to Hosea 9:10?",
+      "options": [
+        {
+          "text": "As a blooming rose in the garden of royal delights",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As an olive tree full of pleasant boughs upon mountain",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I found Israel like grapes in the wilderness, as firstripe fig",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "As an eagle's young that hovered safely beneath wings",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Hosea 9:10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hos_027",
+      "type": "single_choice",
+      "text": "What shall happen unto the glory of Ephraim in Hosea 9:11?",
+      "options": [
+        {
+          "text": "It shall be preserved in the heavenly books of memorial",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It shall shine like the brightness of the sun at midday",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It shall be sold unto foreign merchantmen for much gold",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Their glory shall fly away like a bird, from birth and womb",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Hosea 9:11-14",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hos_028",
+      "type": "single_choice",
+      "text": "Unto what lot does the Lord GOD consign the people in Hosea 9:17?",
+      "options": [
+        {
+          "text": "They shall be wanderers among the nations, cast away by God",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "They shall be made tributary servants to the king of Asshur",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They shall dwell safely in walled cities and see no famine",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They shall perish in the desert and their name be forgotten",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Hosea 9:17",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hos_029",
+      "type": "single_choice",
+      "text": "How did Israel's altars multiply according to Hosea 10:1?",
+      "options": [
+        {
+          "text": "The more fruit it bare, the more sacrifices it gave unto God",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "According to the multitude of fruit it increased the altars",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The less fruit it bare, the more altars of stone it built up",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "According to the wealth of the land it made fewer altars there",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hosea 10:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hos_030",
+      "type": "single_choice",
+      "text": "What shall they say to the mountains and hills in Hosea 10:8?",
+      "options": [
+        {
+          "text": "Deliver us from the wrath of the foe, and hills: Guard us!",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Give us water from thy rocks, and to the hills: Shelter us!",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They shall say to mountains, Cover us; and to hills, Fall on us",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Hear the lamentation of our souls, and to hills: Weep for us!",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Hosea 10:8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hos_031",
+      "type": "single_choice",
+      "text": "What does the LORD command His people to do in Hosea 10:12?",
+      "options": [
+        {
+          "text": "Offer burnt offerings and fast seven days in sackcloth and ashes",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Build fortified towers against the coming armies of Assyria",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Bring the firstborn of your cattle unto the priests at Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Sow in righteousness, reap in mercy; break up your fallow ground",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Hosea 10:12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hos_032",
+      "type": "single_choice",
+      "text": "Which verse of Hosea is quoted in the Gospel of Matthew (Hosea 11:1)?",
+      "options": [
+        {
+          "text": "When Israel was a child, then I loved him, called my son from Egypt",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Out of Bethlehem shall come forth a ruler over my people Israel",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A voice was heard in Ramah, lamentation and bitter weeping for all",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The virgin shall conceive and bear a son, called Immanuel by God",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Hosea 11:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hos_033",
+      "type": "single_choice",
+      "text": "How does Hosea 11:3 describe the loving care of the LORD for Ephraim?",
+      "options": [
+        {
+          "text": "He gave him silver and gold and made his kings mighty over realms",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I taught Ephraim to go, taking them by their arms; but they knew not",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He fought their battles with a drawn sword and gave them the spoil",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He built them high walled cities and kept off all foreign enemies",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hosea 11:3-4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hos_034",
+      "type": "single_choice",
+      "text": "What tender cry breaks from the heart of the LORD in Hosea 11:8?",
+      "options": [
+        {
+          "text": "I will utterly consume thee, Ephraim, and make an end of thy name",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Thy iniquity is written with a pen of iron and cannot be pardoned",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "How shall I give thee up, Ephraim? mine heart is turned within me",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Return unto me with weeping, or I will blot thee out of my book",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Hosea 11:8-9",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hos_035",
+      "type": "single_choice",
+      "text": "What event in Jacob's life is recalled in Hosea 12:4?",
+      "options": [
+        {
+          "text": "He fled from the face of Esau and slept on a stone in Bethel",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He served Laban fourteen years for Rachel and kept his sheep",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He blessed the two sons of Joseph with his hands crossed over",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Yea, he had power over the angel, and prevailed: he wept and prayed",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Hosea 12:4-5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hos_036",
+      "type": "single_choice",
+      "text": "What admonition is given in Hosea 12:6?",
+      "options": [
+        {
+          "text": "Turn thou to thy God: keep mercy and judgment, wait on God continually",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Offer the daily sacrifice of morning and evening with holy reverence",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Trust not in the princes of Asshur, nor seek help from royal Egypt",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Prepare horses and chariots for battle, but pray with loud crying",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Hosea 12:6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hos_037",
+      "type": "single_choice",
+      "text": "What boast does Ephraim make in Hosea 12:8?",
+      "options": [
+        {
+          "text": "Our armies have conquered the south, and no nation can withstand us",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Yet I am become rich, found substance: they shall find none iniquity",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The temple of God is in our midst, and we shall never be moved down",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "We have made peace with the kings of east, and none shall make afraid",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hosea 12:8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hos_038",
+      "type": "single_choice",
+      "text": "What does the LORD testify concerning Himself in Hosea 13:4?",
+      "options": [
+        {
+          "text": "I am the Creator of heaven and earth, who established the mountains",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I am the God of Abraham, Isaac, and Jacob throughout all generations",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I am the LORD thy God from land of Egypt; no saviour beside me",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "I am a consuming fire that executeth fierce wrath on all the wicked",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Hosea 13:4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hos_039",
+      "type": "single_choice",
+      "text": "What cry unto death and the grave is proclaimed in Hosea 13:14?",
+      "options": [
+        {
+          "text": "Where is thy victory, O grave? where is thy sting, O fierce death?",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The grave shall consume all kings, and death swallow up all nations",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I will make a covenant with death, that it touch not my chosen ones",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "O death, I will be thy plagues; O grave, I will be thy destruction",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Hosea 13:14",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hos_040",
+      "type": "single_choice",
+      "text": "What effect did Israel's pasture and prosperity have (Hosea 13:6)?",
+      "options": [
+        {
+          "text": "They were filled, and their heart was exalted; therefore forgot me",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "They built altars of thanksgiving and praised the name of the LORD",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They shared their bread with the poor and cared for the fatherless",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They remembered the ancient covenant and walked humbly before God",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Hosea 13:6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hos_041",
+      "type": "single_choice",
+      "text": "What should the penitent take with them according to Hosea 14:2?",
+      "options": [
+        {
+          "text": "Costly burnt offerings of rams, as commanded in the holy law",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Take with you words, and turn to LORD: so will we render calves of lips",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Silver and gold to enrich the sanctuary and support holy priests",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Firstfruits of the vintage to appease the anger of the Almighty",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hosea 14:2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hos_042",
+      "type": "single_choice",
+      "text": "What gracious promise does the LORD give in Hosea 14:4?",
+      "options": [
+        {
+          "text": "I will chastise them in measure until they seek my holy face",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I will lead them into Babylon and speak comfortable words there",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I will heal their backsliding, I will love them freely and turn wrath",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "I will cause them to wait seven seasons until they cry for aid",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Hosea 14:4-5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hos_043",
+      "type": "single_choice",
+      "text": "With what declaration does the Book of Hosea conclude (Hosea 14:9)?",
+      "options": [
+        {
+          "text": "The LORD shall come with ten thousands of saints to judge earth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The LORD is King for ever, and all the Gentiles shall serve Him",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The remnant of Jacob shall possess the gate of their proud foes",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The ways of the LORD are right, and the just shall walk in them",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Hosea 14:9",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    }
+  ]
+}
