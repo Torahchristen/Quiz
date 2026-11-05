@@ -28,7 +28,8 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
 | `20_sprueche.json` | 92 | 41 | 3 | 41 | 0 |
 | `21_prediger.json` | 40 | 19 | 6 | 19 | 1 |
 | `22_hohelied.json` | 26 | 14 | 2 | 14 | 1 |
-| **Gesamt (22 Dateien)** | **2610** | **1304** | **946** | **1167** | **52** |
+| `23_jesaja.json` | 196 | 58 | 1 | 57 | 2 |
+| **Gesamt (23 Dateien)** | **2806** | **1362** | **947** | **1224** | **54** |
 
 ## 01_1_mose.json – 1. Mose (Genesis) (Schlachter (Revision von 1951))
 
@@ -18424,3 +18425,886 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
   - **Option D (Falsch):**
     - **Vorher:** Der Frühling bleibt ewig in unserem Weinberg ohne Regen und Schnee
     - **Nachher:** Der Frühling bleibt ewig in dem Weinberg
+
+## 23_jesaja.json – Jesaja (Luther 1912)
+
+### `jes_001` (Jesaja 1:18)
+- **Frage:** Was verheißt der HERR in Jesaja 1:18 dem, der sich zu ihm kehrt?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Rote Sünden werden schneeweiß
+    - **Nachher:** Blutrote Sünden werden schneeweiß
+  - **Option B (Falsch):**
+    - **Vorher:** Er muss zuvor ein Stieropfer bringen
+    - **Nachher:** Ein Stieropfer wird noch gefordert
+  - **Option C (Falsch):**
+    - **Vorher:** Sein Besitz fällt an die Priester
+    - **Nachher:** Der Besitz fällt an fremde Priester
+
+### `jes_002` (Jesaja 2:2-4)
+- **Frage:** Was werden die Völker nach Jesaja 2:4 mit ihren Schwertern tun?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Zu Pflugscharen schmieden
+    - **Nachher:** Zu Pflugscharen machen
+  - **Option C (Falsch):**
+    - **Vorher:** Als Beute teilen
+    - **Nachher:** Unter den Völkern teilen
+  - **Option D (Falsch):**
+    - **Vorher:** Vergraben
+    - **Nachher:** Im Erdboden vergraben
+
+### `jes_005` (Jesaja 8:1-4)
+- **Frage:** Welchen Namen sollte Jesajas Sohn nach Jesaja 8:3 tragen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Maher-Schalal-Hasch-Bas
+    - **Nachher:** Raubebald, Eilebeute
+  - **Option A (Falsch):**
+    - **Vorher:** Schear-Jaschub, der Rest wird umkehren
+    - **Nachher:** Schear-Jasub (Ein Rest kehrt um)
+  - **Option B (Falsch):**
+    - **Vorher:** Immanuel, Gott mit uns
+    - **Nachher:** Immanuel (Gott ist mit uns)
+  - **Option C (Falsch):**
+    - **Vorher:** Eljakim, Gott richtet auf
+    - **Nachher:** Eljakim (Gott richtet auf)
+
+### `jes_006` (Jesaja 9:6)
+- **Frage:** Welche Namen trägt das verheißene Kind nach Jesaja 9:6?
+- **Richtige Antwort (unverändert, Option A):** Wunderbar, Rat, Held, Ewig-Vater, Friedefürst
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Hoherpriester, Richter, König, Heiland
+    - **Nachher:** Hoherpriester, Herrscher, König, Heiland
+  - **Option C (Falsch):**
+    - **Vorher:** Löwe, Fels, Hirte, Licht
+    - **Nachher:** Erlöser, Schöpfer, Friedefürst, Wundertäter
+  - **Option D (Falsch):**
+    - **Vorher:** Sohn Davids, Starker, Weiser, Retter
+    - **Nachher:** Sohn Davids, Starker Gott, Weiser, Retter
+
+### `jes_007` (Jesaja 11:6-9)
+- **Frage:** Welches Bild des Friedens zeichnet Jesaja 11:6?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Der Wolf wohnt bei dem Lamm und der Pardel bei dem Böcklein
+    - **Nachher:** Wölfe wohnen bei Lämmern und Parder bei Böcken
+  - **Option A (Falsch):**
+    - **Vorher:** Der Löwe weidet bei dem Rind und der Bär bei dem Kalb
+    - **Nachher:** Der Wolf wohnt beim Schaf und der Löwe frisst Stroh
+  - **Option C (Falsch):**
+    - **Vorher:** Der Pardel schläft bei dem Löwen und der Wolf beim Esel
+    - **Nachher:** Der Wolf meidet das Lamm und der Pardel das Kalb
+  - **Option D (Falsch):**
+    - **Vorher:** Das Lamm weidet mit dem Wolf und der Löwe frisst Gras
+    - **Nachher:** Die wilden Tiere fliehen in die ferne Wüste
+
+### `jes_008` (Jesaja 14:13-14)
+- **Frage:** Welche Gesinnung führte den König von Babel nach Jesaja 14:13-14 zum Fall?
+- **Richtige Antwort (unverändert, Option C):** Er wollte dem Allerhöchsten gleich sein
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Er wollte seinen Thron über die Sterne Gottes erheben
+    - **Nachher:** Er wollte alle Schätze der Welt besitzen
+  - **Option B (Falsch):**
+    - **Vorher:** Er wollte die Götter Babels über Zion setzen
+    - **Nachher:** Er wollte das Volk Israel ganz vernichten
+  - **Option D (Falsch):**
+    - **Vorher:** Er wollte sich den Tempelschatz Gottes aneignen
+    - **Nachher:** Er wollte ewiges Leben auf Erden erlangen
+
+### `jes_011` (Jesaja 35:1-2)
+- **Frage:** Was geschieht nach Jesaja 35:1 mit der Wüste?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Sie wird jubeln und blühen wie die Lilie
+    - **Nachher:** Sie wird fröhlich stehen und blühen wie Lilien
+  - **Option A (Falsch):**
+    - **Vorher:** Sie wird sich in einen blühenden Garten verwandeln wie Eden
+    - **Nachher:** Sie wird verlassen und für immer verödet bleiben
+  - **Option C (Falsch):**
+    - **Vorher:** Sie wird jubeln und das Meer wird über sie fließen
+    - **Nachher:** Sie wird zu einem großen See mit vielen Fischen
+  - **Option D (Falsch):**
+    - **Vorher:** Sie wird in ein weites Weideland für Herden verwandelt
+    - **Nachher:** Sie wird von wilden Tieren bewohnt und gefürchtet
+
+### `jes_013` (Jesaja 38:7-8)
+- **Frage:** Welches Zeichen gab der HERR dem Hiskia für seine Genesung (Jesaja 38:8)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Der Schatten ging auf dem Sonnenzeiger zehn Striche zurück
+    - **Nachher:** Der Schatten ging am Zeiger zehn Striche zurück
+  - **Option A (Falsch):**
+    - **Vorher:** Die Sonne stand still über dem Tal Hinnom, einen Tag lang
+    - **Nachher:** Das Sonnenlicht verfinsterte sich drei Stunden
+  - **Option B (Falsch):**
+    - **Vorher:** Das Wasser im Teich Siloah wurde plötzlich zu Blut
+    - **Nachher:** Ein Regenbogen erschien über dem ganzen Tempel
+  - **Option C (Falsch):**
+    - **Vorher:** Ein Engel des HERRN verfinsterte die Sonne zur Mittagszeit
+    - **Nachher:** Der Regen hörte für vierzig volle Tage auf
+
+### `jes_017` (Jesaja 42:1-3)
+- **Frage:** Was tut der Knecht Gottes nach Jesaja 42:3 mit dem zerstoßenen Rohr?
+- **Richtige Antwort (unverändert, Option D):** Er zerbricht es nicht
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Er weist es aus dem Land
+    - **Nachher:** Er weist es aus dem Lande
+  - **Option C (Falsch):**
+    - **Vorher:** Er verbrennt es
+    - **Nachher:** Er verbrennt es mit Feuer
+
+### `jes_018` (Jesaja 45:1-4)
+- **Frage:** Welchen Fürsten nennt Jesaja 45:1 den Gesalbten des HERRN?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Kyrus
+    - **Nachher:** König Kores von Persien
+  - **Option B (Falsch):**
+    - **Vorher:** Darius
+    - **Nachher:** König Darius der Meder
+  - **Option C (Falsch):**
+    - **Vorher:** Artaxerxes
+    - **Nachher:** König Xerxes von Elam
+  - **Option D (Falsch):**
+    - **Vorher:** Nebukadnezar
+    - **Nachher:** König Sanherib von Assur
+
+### `jes_020` (Jesaja 53:4-6)
+- **Frage:** Warum wurde der Knecht nach Jesaja 53:5 verwundet?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Um unserer Missetat willen
+    - **Nachher:** Um unsrer Missetat willen
+  - **Option B (Falsch):**
+    - **Vorher:** Als Vorbild für die Propheten
+    - **Nachher:** Als Vorbild für Propheten
+  - **Option D (Falsch):**
+    - **Vorher:** Wegen Verrats
+    - **Nachher:** Wegen Verrats der Priester
+
+### `jes_023` (Jesaja 58:6-7)
+- **Frage:** Worin besteht das Fasten, das dem HERRN gefällt (Jesaja 58:6-7)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Die Fesseln der Gottlosigkeit zu lösen und dem Hungrigen das Brot zu brechen
+    - **Nachher:** Gebundene loszulassen und Brot zu brechen
+  - **Option A (Falsch):**
+    - **Vorher:** Den Altar zu erneuern und dem HERRN reichlich Opfer darzubringen
+    - **Nachher:** Tagelang zu schweigen und Asche zu streuen
+  - **Option C (Falsch):**
+    - **Vorher:** Sich in Sack und Asche zu kleiden und sieben Tage lang zu klagen
+    - **Nachher:** Alle Opfer im Tempel treu darzubringen
+  - **Option D (Falsch):**
+    - **Vorher:** Den Tempel zu schmücken und dem Priester den Zehnten zu geben
+    - **Nachher:** Sich in Säcke zu kleiden und laut zu weinen
+
+### `jes_025` (Jesaja 61:1-3)
+- **Frage:** Welchen Auftrag nennt Jesaja 61:1, den Jesus später in Nazareth las?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Den Armen das Evangelium zu predigen
+    - **Nachher:** Den Elenden gute Botschaft treu zu predigen
+  - **Option A (Falsch):**
+    - **Vorher:** Alle Reiche zu unterwerfen
+    - **Nachher:** Das Reich David durch Krieg wieder aufzurichten
+  - **Option B (Falsch):**
+    - **Vorher:** Einen Palast zu bauen
+    - **Nachher:** Den heidnischen Völkern ihr Gericht anzusagen
+  - **Option C (Falsch):**
+    - **Vorher:** Die Satzungen streng zu hüten
+    - **Nachher:** Ein neues Priestergeschlecht im Tempel zu weihen
+
+### `jes_027` (Jesaja 66:1-2)
+- **Frage:** Wie beschreibt der HERR in Jesaja 66:1 sein Verhältnis zu menschlichen Tempeln?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Der Himmel ist mein Stuhl und die Erde meiner Füße Schemel
+    - **Nachher:** Der Himmel ist mein Stuhl und die Erde meine Fußbank
+  - **Option A (Falsch):**
+    - **Vorher:** Der Himmel ist mein Thron, aber der Tempel ist mein Wohnort
+    - **Nachher:** Die Erde ist mein Haus und der Himmel ist mein Zelt
+  - **Option C (Falsch):**
+    - **Vorher:** Die Erde ist mein Haus und der Himmel mein Dach
+    - **Nachher:** Der Tempel ist mein Thron und Zion ist meine Wohnung
+  - **Option D (Falsch):**
+    - **Vorher:** Der Himmel ist mein Stuhl und der Tempel meiner Füße Schemel
+    - **Nachher:** Die Wolken sind mein Wagen und Berge sind mein Sitz
+
+### `jes_030` (Jesaja 1:14)
+- **Frage:** Wie urteilt Gott in Jesaja 1:14 über die Feste seines unbußfertigen Volks?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Seine Seele ist ihnen feind; sie sind ihm eine Last
+    - **Nachher:** Seine Seele ist ihnen feind; er ist ihrer müde
+  - **Option A (Falsch):**
+    - **Vorher:** Sie sind ihm ein lieblicher Geruch und eine Freude
+    - **Nachher:** Er nimmt sie gnädig an und freut sich daran
+  - **Option C (Falsch):**
+    - **Vorher:** Sie genügen ihm nicht; er fordert mehr Opfer
+    - **Nachher:** Er verlangt noch viel mehr Opfer zu Festen
+  - **Option D (Falsch):**
+    - **Vorher:** Seine Seele freut sich über sie, sie sind ihm ein Wohlgefallen
+    - **Nachher:** Er beachtet sie überhaupt nicht mehr im Tempel
+
+### `jes_032` (Jesaja 2:22)
+- **Frage:** Wovon rät Jesaja 2:22 ab?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Sich auf Menschen zu verlassen, die nur einen Odem in der Nase haben
+    - **Nachher:** Vor dem Menschen mit Odem in der Nase
+  - **Option A (Falsch):**
+    - **Vorher:** Sich auf Rosse und Wagen zu verlassen, die nur einen Tag leben
+    - **Nachher:** Vor dem Götzendienst der Völker
+  - **Option B (Falsch):**
+    - **Vorher:** Sich auf Fürsten zu verlassen, die einmal sterben werden
+    - **Nachher:** Vor dem Bündnis mit Ägypten
+  - **Option C (Falsch):**
+    - **Vorher:** Sich auf Reichtum und Besitz zu verlassen, die bald vergehen
+    - **Nachher:** Vor dem Reichtum der Paläste
+
+### `jes_033` (Jesaja 3:4)
+- **Frage:** Was kündigt Jesaja 3:4 für Jerusalem an?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Knaben zu Fürsten und Mutwillige zu Herrschern
+    - **Nachher:** Jünglinge zu Fürsten und Kindische zu Herrschern
+  - **Option B (Falsch):**
+    - **Vorher:** Weise Männer zu Richtern und Willkür unter den Armen
+    - **Nachher:** Erfahrene Richter und weise Älteste
+  - **Option C (Falsch):**
+    - **Vorher:** Fremde zu Fürsten und Ägypter zu Herrschern
+    - **Nachher:** Fremde Könige und heidnische Heerführer
+  - **Option D (Falsch):**
+    - **Vorher:** Greise zu Herrschern, doch das Volk bleibt ohne Rat
+    - **Nachher:** Priester aus dem Stamm Levi und Schriftgelehrte
+
+### `jes_034` (Jesaja 3:6)
+- **Frage:** Was sagt Jesaja 3:6 über die Suche nach einem Führer?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Man sagt: Du hast ein Kleid, sei unser Herrscher
+    - **Nachher:** Man spricht: Du hast Kleider, sei unser Fürst
+  - **Option A (Falsch):**
+    - **Vorher:** Man sagt: Du bist reich, sei du unser Fürst
+    - **Nachher:** Man spricht: Du hast Silber, kaufe uns frei
+  - **Option C (Falsch):**
+    - **Vorher:** Man sagt: Du bist stark, sei du unser Hauptmann
+    - **Nachher:** Man spricht: Du bist weise, führe unser Heer
+  - **Option D (Falsch):**
+    - **Vorher:** Man sagt: Du bist klug, sei du unser Richter
+    - **Nachher:** Man spricht: Du bist gerecht, richte das Volk
+
+### `jes_036` (Jesaja 4:1)
+- **Frage:** Was geschieht nach Jesaja 4:1 mit den Frauen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Sieben Frauen ergreifen einen Mann: Lass uns nur nach deinem Namen heißen
+    - **Nachher:** Sieben Weiber zu einem Mann: Lass uns deinen Namen tragen
+  - **Option B (Falsch):**
+    - **Vorher:** Sieben Frauen ergreifen einen Mann und bitten: Gib uns nur Brot
+    - **Nachher:** Sieben Könige verbündet: Lasst uns gemeinsam kämpfen
+  - **Option C (Falsch):**
+    - **Vorher:** Zehn Frauen ergreifen einen Mann und sprechen: Beschütze uns doch
+    - **Nachher:** Sieben Priester am Altar: Höre unser Gebet für das Volk
+  - **Option D (Falsch):**
+    - **Vorher:** Sieben Männer ergreifen eine Frau und sagen: Gib uns dein Haus
+    - **Nachher:** Sieben Propheten rufen: Kehrt um von euren bösen Wegen
+
+### `jes_037` (Jesaja 4:2)
+- **Frage:** Was wird der Spross des HERRN nach Jesaja 4:2 sein?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Eine liebliche Zierde und Ehre für die Entronnenen Israels
+    - **Nachher:** Des HERRN Zweig wird lieb und wert sein
+  - **Option A (Falsch):**
+    - **Vorher:** Ein mächtiger Richter über die Völker und die Frucht des Gerichts
+    - **Nachher:** Eine unbezwingbare Mauer um das Heiligtum
+  - **Option C (Falsch):**
+    - **Vorher:** Ein feuriger Retter für die Entronnenen und die Frucht des Zorns
+    - **Nachher:** Ein reiches Erbe von Gold aus fremden Ländern
+  - **Option D (Falsch):**
+    - **Vorher:** Ein scharfes Schwert für Juda und die Frucht des Krieges
+    - **Nachher:** Ein mächtiges Heer zur Befreiung der Gefangenen
+
+### `jes_038` (Jesaja 4:5)
+- **Frage:** Was schafft der HERR nach Jesaja 4:5 über dem Berg Zion?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Eine Wolke bei Tage und ein feuriger Glanz bei Nacht
+    - **Nachher:** Wolke und Rauch des Tags und Feuerglanz des Nachts
+  - **Option A (Falsch):**
+    - **Vorher:** Eine feste Mauer bei Tage und ein Engelsheer bei Nacht
+    - **Nachher:** Eine eherne Mauer und ein tiefer Graben
+  - **Option B (Falsch):**
+    - **Vorher:** Eine Feuersäule bei Tage und eine Wolke bei Nacht
+    - **Nachher:** Ein Heer von Engeln mit scharfen Schwertern
+  - **Option D (Falsch):**
+    - **Vorher:** Eine Wolke bei Tage und ein Heer von Rossen bei Nacht
+    - **Nachher:** Ein beständiger Strom von lebendigem Wasser
+
+### `jes_039` (Jesaja 5:2)
+- **Frage:** Was erwartete der Weinbergbesitzer nach Jesaja 5:2?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Gute Trauben, aber er brachte schlechte
+    - **Nachher:** Gute Trauben, aber er brachte nur Herlinge
+  - **Option B (Falsch):**
+    - **Vorher:** Er erwartete süße Trauben, aber er brachte Disteln
+    - **Nachher:** Edlen Wein, aber der Weinberg vertrocknete
+  - **Option C (Falsch):**
+    - **Vorher:** Er erwartete gute Frucht, aber der Weinberg blieb leer
+    - **Nachher:** Feigen und Äpfel, aber er trug nur Dornen
+  - **Option D (Falsch):**
+    - **Vorher:** Er erwartete Wein, aber er brachte nur Dornen
+    - **Nachher:** Eine reiche Ernte, aber Räuber stahlen alles
+
+### `jes_040` (Jesaja 5:7)
+- **Frage:** Wer ist nach Jesaja 5:7 der Weinberg des HERRN?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Das Haus Israel
+    - **Nachher:** Das Haus Israel und Männer Judas
+  - **Option C (Falsch):**
+    - **Vorher:** Die Priesterkammern
+    - **Nachher:** Die Priesterkammern zu Jerusalem
+  - **Option D (Falsch):**
+    - **Vorher:** Die Oasen Seirs
+    - **Nachher:** Die fernen Oasen im Lande Seir
+
+### `jes_041` (Jesaja 5:20)
+- **Frage:** Welches Wehe spricht Jesaja 5:20 aus?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Über die, die Böses gut und Gutes böse nennen
+    - **Nachher:** Über die, die Böses gut und Gutes böse heißen
+  - **Option A (Falsch):**
+    - **Vorher:** Über die, die Gutes tun und Böses vermeiden
+    - **Nachher:** Über die, die den Zehnten nicht treu entrichten
+  - **Option B (Falsch):**
+    - **Vorher:** Über die, die den Armen geben und den Reichen schmeicheln
+    - **Nachher:** Über die, die mit Feinden heimlich Verträge machen
+  - **Option D (Falsch):**
+    - **Vorher:** Über die, die Recht sprechen und dem König schmeicheln
+    - **Nachher:** Über die, die den heiligen Sabbat stets schänden
+
+### `jes_042` (Jesaja 6:1)
+- **Frage:** In welchem Jahr sah Jesaja den HERRN auf seinem Thron (Jesaja 6:1)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Im Todesjahr des Königs Ussia
+    - **Nachher:** Im Todesjahr des Königs Usia
+  - **Option A (Falsch):**
+    - **Vorher:** Im Todesjahr des Königs Josia
+    - **Nachher:** Im ersten Regierungsjahr des Königs David
+  - **Option B (Falsch):**
+    - **Vorher:** Im Todesjahr Hiskias
+    - **Nachher:** Im Todesjahr des frommen Königs Hiskia
+  - **Option C (Falsch):**
+    - **Vorher:** Im Todesjahr Davids
+    - **Nachher:** Im siebenten Regierungsjahr Salomos
+
+### `jes_050` (Jesaja 10:5)
+- **Frage:** Wie nennt der HERR den König von Assyrien in Jesaja 10:5?
+- **Richtige Antwort (unverändert, Option D):** Rute und Stecken seines Zorns
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Schutzengel des Heiligtums
+    - **Nachher:** Treuer Schutzengel des Heiligtums
+  - **Option B (Falsch):**
+    - **Vorher:** Bundesgenosse
+    - **Nachher:** Treuer Bundesgenosse des HERRN
+  - **Option C (Falsch):**
+    - **Vorher:** Berater der Könige
+    - **Nachher:** Oberster Berater fremder Könige
+
+### `jes_052` (Jesaja 10:21)
+- **Frage:** Was verheißt Jesaja 10:21 dem Rest Israels?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Ein Rest wird sich bekehren zu dem starken Gott
+    - **Nachher:** Die Übrigen werden umkehren zum starken Gott
+  - **Option A (Falsch):**
+    - **Vorher:** Ein Rest wird in Assur wohnen und dem König dienen
+    - **Nachher:** Die Übrigen werden in Assur wohnen und dienen
+  - **Option C (Falsch):**
+    - **Vorher:** Ein Rest wird nach Ägypten ziehen und dort bleiben
+    - **Nachher:** Die Übrigen werden nach Ägypten hinabziehen
+  - **Option D (Falsch):**
+    - **Vorher:** Ein Rest wird nicht umkehren, sondern vergehen
+    - **Nachher:** Die Übrigen werden im fremden Lande vergehen
+
+### `jes_058` (Jesaja 13:1)
+- **Frage:** Welcher Stadt gilt die Last in Jesaja 13:1?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Babel
+    - **Nachher:** Über Babel
+  - **Option A (Falsch):**
+    - **Vorher:** Edom
+    - **Nachher:** Über Edom
+  - **Option B (Falsch):**
+    - **Vorher:** Tarsis
+    - **Nachher:** Über Tarsis
+  - **Option C (Falsch):**
+    - **Vorher:** Damaskus
+    - **Nachher:** Über Moab
+
+### `jes_063` (Jesaja 15:1)
+- **Frage:** Was geschah nach Jesaja 15:1 mit Ar und Kir in Moab?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Sie wurden in einer Nacht zerstört
+    - **Nachher:** Sie wurden in einer Nacht ganz zerstört
+  - **Option B (Falsch):**
+    - **Vorher:** Sie wurden belagert
+    - **Nachher:** Sie wurden viele Jahre lang belagert
+  - **Option C (Falsch):**
+    - **Vorher:** Sie wurden vom Erdbeben verschont
+    - **Nachher:** Sie wurden von Erdbeben heimgesucht
+  - **Option D (Falsch):**
+    - **Vorher:** Sie wurden eingenommen und besetzt
+    - **Nachher:** Sie wurden kampflos Feinden übergeben
+
+### `jes_065` (Jesaja 15:5)
+- **Frage:** Wie reagiert der Prophet selbst auf den Untergang Moabs (Jesaja 15:5)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Sein Herz schreit über Moab
+    - **Nachher:** Sein Herz brummt über Moab wie eine Harfe
+  - **Option A (Falsch):**
+    - **Vorher:** Mein Herz seufzt über Moab, aber ich freue mich über seinen Fall
+    - **Nachher:** Sein Herz freut sich über den Fall Moabs
+  - **Option B (Falsch):**
+    - **Vorher:** Mein Herz ruft zu Moab, dass es sich zu Juda wende
+    - **Nachher:** Sein Herz ruft zu Moab um Umkehr zum HERRN
+  - **Option D (Falsch):**
+    - **Vorher:** Mein Herz jubelt über Moab, denn es ist gerettet
+    - **Nachher:** Sein Herz verflucht Moab für alle Zeiten
+
+### `jes_071` (Jesaja 17:7)
+- **Frage:** Worauf blickt der Mensch nach Jesaja 17:7 an jenem Tag?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Auf seinen Schöpfer
+    - **Nachher:** Auf den, der ihn gemacht hat
+  - **Option B (Falsch):**
+    - **Vorher:** Auf seine Altäre
+    - **Nachher:** Auf seine ehernen Waffen
+  - **Option C (Falsch):**
+    - **Vorher:** Auf seine Reichtümer
+    - **Nachher:** Auf die Götzen von Holz
+  - **Option D (Falsch):**
+    - **Vorher:** Auf seine Feinde
+    - **Nachher:** Auf den König von Ägypten
+
+### `jes_074` (Jesaja 18:7)
+- **Frage:** Was wird nach Jesaja 18:7 dem HERRN zum Berg Zion gebracht?
+- **Richtige Antwort (unverändert, Option D):** Ein Geschenk von einem Volk, hochgewachsen und glatt
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Ein Geschenk des Volkes, hochgewachsen und stark, aus dem Land jenseits des Stroms
+    - **Nachher:** Ein Tribut von den Königen, die am Meere wohnen
+  - **Option B (Falsch):**
+    - **Vorher:** Ein Tribut des Volkes, mächtig und fremd, aus dem Land der Ströme
+    - **Nachher:** Eine Gabe von den Priestern, die in Zion dienen
+  - **Option C (Falsch):**
+    - **Vorher:** Eine Gabe der Völker, gerüstet und kampfbereit
+    - **Nachher:** Ein Opfer von Heiden, die sich bekehrt haben
+
+### `jes_075` (Jesaja 19:1)
+- **Frage:** Wie kommt der HERR nach Jesaja 19:1 nach Ägypten?
+- **Richtige Antwort (unverändert, Option A):** Auf einer schnellen Wolke
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Mit einem Heer
+    - **Nachher:** Mit einem gewaltigen Heer
+  - **Option C (Falsch):**
+    - **Vorher:** Im Sturm auf dem Meer
+    - **Nachher:** Im Sturm über dem Meere
+  - **Option D (Falsch):**
+    - **Vorher:** Auf einem Streitwagen
+    - **Nachher:** Auf einem feurigen Wagen
+
+### `jes_078` (Jesaja 20:1)
+- **Frage:** Welcher König sandte nach Jesaja 20:1 den Tartan nach Aschdod?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Sargon
+    - **Nachher:** König Sargon von Assyrien
+  - **Option A (Falsch):**
+    - **Vorher:** Sanherib
+    - **Nachher:** König Sanherib von Assyrien
+  - **Option B (Falsch):**
+    - **Vorher:** Tiglat-Pileser
+    - **Nachher:** König Salmanassar von Assyrien
+  - **Option C (Falsch):**
+    - **Vorher:** Salmanassar
+    - **Nachher:** König Tiglat-Pileser von Assur
+
+### `jes_079` (Jesaja 20:2-3)
+- **Frage:** Welches Zeichen musste Jesaja nach Jesaja 20:2-3 drei Jahre tragen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Er ging nackt und barfuß
+    - **Nachher:** Er ging nackt und barfuß umher
+  - **Option B (Falsch):**
+    - **Vorher:** Er trug Trauerkleider
+    - **Nachher:** Er trug ein härenes Trauerkleid
+  - **Option C (Falsch):**
+    - **Vorher:** Er schwieg
+    - **Nachher:** Er schwieg drei ganze Jahre lang
+  - **Option D (Falsch):**
+    - **Vorher:** Er fastete
+    - **Nachher:** Er fastete Tag und Nacht im Tempel
+
+### `jes_086` (Jesaja 23:1)
+- **Frage:** Wer soll nach Jesaja 23:1 heulen, weil Tyrus zerstört ist?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Die Tarsisschiffe
+    - **Nachher:** Die Tharsisschiffe
+  - **Option A (Falsch):**
+    - **Vorher:** Die Karawanen
+    - **Nachher:** Die fernen Karawanen
+  - **Option B (Falsch):**
+    - **Vorher:** Die Hirten
+    - **Nachher:** Die Fischer des Meeres
+  - **Option C (Falsch):**
+    - **Vorher:** Die Priester
+    - **Nachher:** Die Priester des Landes
+
+### `jes_087` (Jesaja 23:9)
+- **Frage:** Warum beschloss der HERR den Fall von Tyrus (Jesaja 23:9)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Um den Stolz aller Pracht zu entweihen
+    - **Nachher:** Um die Pracht aller Hoffart zu schwächen
+  - **Option B (Falsch):**
+    - **Vorher:** Um die Hungernden zu speisen
+    - **Nachher:** Um die Hungernden aller Völker zu speisen
+  - **Option C (Falsch):**
+    - **Vorher:** Um Assur zu belohnen
+    - **Nachher:** Um das Königtum Assurs reich zu belohnen
+  - **Option D (Falsch):**
+    - **Vorher:** Um das Handelsmonopol zu brechen
+    - **Nachher:** Um das Handelsmonopol des Meeres zu brechen
+
+### `jes_088` (Jesaja 23:15-18)
+- **Frage:** Wie lange wird Tyrus nach Jesaja 23:15 vergessen sein?
+- **Richtige Antwort (unverändert, Option B):** Siebzig Jahre
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Siebenmal sieben Jahre
+    - **Nachher:** Vierzig Jahre
+  - **Option D (Falsch):**
+    - **Vorher:** Zehn Jahre
+    - **Nachher:** Fünfzig Jahre
+
+### `jes_096` (Jesaja 26:3-4)
+- **Frage:** Was verheißt Jesaja 26:3 dem, dessen Sinn auf Gott gerichtet ist?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Sicherer Friede
+    - **Nachher:** Beständigen Frieden
+  - **Option A (Falsch):**
+    - **Vorher:** Reichtum
+    - **Nachher:** Großen Reichtum
+  - **Option D (Falsch):**
+    - **Vorher:** Ruhm bei den Völkern
+    - **Nachher:** Irdischen Ruhm
+
+### `jes_106` (Jesaja 30:7)
+- **Frage:** Wie urteilt Jesaja 30:7 über die Hilfe Ägyptens?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Sie ist nichtig und vergeblich
+    - **Nachher:** Sie ist nichtig und ganz vergeblich
+  - **Option B (Falsch):**
+    - **Vorher:** Sie ist stark
+    - **Nachher:** Sie ist mächtig und stets verlässlich
+  - **Option C (Falsch):**
+    - **Vorher:** Sie ist unbezahlbar
+    - **Nachher:** Sie ist unbezahlbar und unentbehrlich
+  - **Option D (Falsch):**
+    - **Vorher:** Sie ist von Gott gewollt
+    - **Nachher:** Sie ist vom HERRN ausdrücklich gewollt
+
+### `jes_107` (Jesaja 30:15)
+- **Frage:** Worin hätte nach Jesaja 30:15 Israels Stärke gelegen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Im Stillesein und Hoffen
+    - **Nachher:** Im Stillesein und festen Hoffen
+  - **Option A (Falsch):**
+    - **Vorher:** Im Kampf und in der Macht
+    - **Nachher:** Im Kampf und in der Heeresmacht
+  - **Option C (Falsch):**
+    - **Vorher:** Im Handel
+    - **Nachher:** Im Handel und im großen Bündnis
+  - **Option D (Falsch):**
+    - **Vorher:** Im Opfer
+    - **Nachher:** Im Opfern und im lauten Beten
+
+### `jes_110` (Jesaja 31:4)
+- **Frage:** Womit vergleicht sich der HERR in Jesaja 31:4?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Mit einem Löwen, der sich nicht fürchtet
+    - **Nachher:** Mit einem Löwen, der sich vor der Hirten Menge nicht fürchtet
+  - **Option B (Falsch):**
+    - **Vorher:** Mit einem Adler, der über seiner Beute kreist und sich nicht stören lässt
+    - **Nachher:** Mit einem Adler, der über seiner Beute kreist und nicht flieht
+  - **Option C (Falsch):**
+    - **Vorher:** Mit einem Hirten, der seine Herde sammelt und sich nicht fürchtet
+    - **Nachher:** Mit einem Hirten, der seine Herde vor allen Feinden beschützt
+  - **Option D (Falsch):**
+    - **Vorher:** Mit einem Bären, der seine Jungen schützt und sich nicht fürchtet
+    - **Nachher:** Mit einem Bären, der seine Jungen vor jeder Gefahr verteidigt
+
+### `jes_118` (Jesaja 34:5-6)
+- **Frage:** Über welches Volk hält der HERR nach Jesaja 34:5-6 ein Schlachten in Bozra?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Edom
+    - **Nachher:** Auf Edom
+  - **Option B (Falsch):**
+    - **Vorher:** Moab
+    - **Nachher:** Auf Moab
+  - **Option C (Falsch):**
+    - **Vorher:** Ammon
+    - **Nachher:** Auf Ammon
+  - **Option D (Falsch):**
+    - **Vorher:** Philistäa
+    - **Nachher:** Auf Tyrus
+
+### `jes_123` (Jesaja 36:1)
+- **Frage:** Wer zog nach Jesaja 36:1 im 14. Jahr Hiskias gegen die festen Städte Judas?
+- **Richtige Antwort (unverändert, Option B):** Sanherib, der König von Assyrien
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Nebukadnezar, der König von Babel, mit seinem Heer
+    - **Nachher:** Nebukadnezar, der König von Babel
+  - **Option C (Falsch):**
+    - **Vorher:** Sargon, der König von Assyrien, mit seinen Streitwagen
+    - **Nachher:** Pharao Necho, der König von Ägypten
+  - **Option D (Falsch):**
+    - **Vorher:** Pharao Necho, der König von Ägypten, mit seiner Streitmacht
+    - **Nachher:** Salmanassar, der König von Assyrien
+
+### `jes_142` (Jesaja 44:28)
+- **Frage:** Welchen König nennt Jesaja 44:28 vor seiner Geburt mit Namen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Kyrus
+    - **Nachher:** König Kores von Persien
+  - **Option B (Falsch):**
+    - **Vorher:** Darius
+    - **Nachher:** König Darius der Meder
+  - **Option C (Falsch):**
+    - **Vorher:** Nebukadnezar
+    - **Nachher:** König Xerxes von Elam
+  - **Option D (Falsch):**
+    - **Vorher:** Xerxes
+    - **Nachher:** König Sanherib von Assur
+
+### `jes_167` (Jesaja 54:10)
+- **Frage:** Wie beständig ist die Gnade des HERRN nach Jesaja 54:10?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Berge mögen weichen, aber seine Gnade weicht nicht
+    - **Nachher:** Berge weichen wohl, doch seine Gnade nicht
+  - **Option A (Falsch):**
+    - **Vorher:** Wie die Sterne am Himmel, die immer am selben Ort stehen
+    - **Nachher:** Ein neuer Bund aus reinem Golde
+  - **Option B (Falsch):**
+    - **Vorher:** Wie die Jahre der Zeit, die nie stillstehen
+    - **Nachher:** Das Königtum Davids herrscht auf Erden
+  - **Option D (Falsch):**
+    - **Vorher:** Wie der Tempel in Zion, der nie zerstört wird
+    - **Nachher:** Die Feinde werden für tausend Jahre gebunden
+
+### `jes_169` (Jesaja 55:8-9)
+- **Frage:** Wie verhalten sich die Gedanken Gottes nach Jesaja 55:8-9 zu denen der Menschen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** So viel höher als der Himmel über der Erde
+    - **Nachher:** So viel der Himmel höher ist denn die Erde
+  - **Option B (Falsch):**
+    - **Vorher:** So viel breiter als die Wege der Menschen, wie das Meer breiter ist als ein Bach
+    - **Nachher:** So viel das weite Meer tiefer ist denn Bäche
+  - **Option C (Falsch):**
+    - **Vorher:** So viel länger als die Gedanken der Menschen, wie der Tag länger ist als die Nacht
+    - **Nachher:** So viel der lichte Tag länger ist denn Nacht
+  - **Option D (Falsch):**
+    - **Vorher:** So viel tiefer als die Erde, wie das Meer tiefer ist als ein Brunnen
+    - **Nachher:** So viel das hohe Gebirge höher ist denn Täler
+
+### `jes_170` (Jesaja 55:10-11)
+- **Frage:** Womit vergleicht der HERR in Jesaja 55:10-11 sein Wort?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Mit Regen und Schnee, die die Erde feuchten, sodass sie Frucht bringt
+    - **Nachher:** Mit Regen und Schnee, die die Erde befeuchten
+  - **Option A (Falsch):**
+    - **Vorher:** Mit einem scharfen Schwert, das nie leer zurückkommt
+    - **Nachher:** Mit einem Schwert, das alle Feinde niederstreckt
+  - **Option C (Falsch):**
+    - **Vorher:** Mit einem Hammer, der Felsen zerschmettert und nie vergeht
+    - **Nachher:** Mit einem Hammer, der feste Felsen zerschlägt
+  - **Option D (Falsch):**
+    - **Vorher:** Mit einem Licht, das die Finsternis vertreibt und nie erlischt
+    - **Nachher:** Mit einem Licht, das jede finstere Nacht erhellt
+
+### `jes_173` (Jesaja 56:10-11)
+- **Frage:** Als was beschimpft Jesaja 56:10 die blinden Wächter Israels?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Als stumme Hunde, die nicht bellen können
+    - **Nachher:** Als stumme Hunde, die nicht strafen können
+  - **Option B (Falsch):**
+    - **Vorher:** Als schlafende Hirten, die ihre Herde nicht sehen und verlieren
+    - **Nachher:** Als blinde Führer, die in die Grube fallen
+  - **Option C (Falsch):**
+    - **Vorher:** Als reißende Wölfe, die die Herde zerstreuen und verschlingen
+    - **Nachher:** Als faule Hirten, die ihre Herde zerstreuen
+  - **Option D (Falsch):**
+    - **Vorher:** Als blinde Führer, die ins Verderben leiten und straucheln
+    - **Nachher:** Als taube Wächter, die den Feind nicht hören
+
+### `jes_177` (Jesaja 58:8-9)
+- **Frage:** Was folgt nach Jesaja 58:8-9 auf das rechte Fasten?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Dein Licht bricht hervor wie die Morgenröte, und der HERR antwortet: Hier bin ich
+    - **Nachher:** Dein Licht bricht hervor und der HERR spricht: Hier bin ich
+  - **Option B (Falsch):**
+    - **Vorher:** Reichtum und Ehre, und der HERR segnet alle Werke deiner Hände im Land
+    - **Nachher:** Großer Reichtum fällt dir zu und Feinde weichen
+  - **Option C (Falsch):**
+    - **Vorher:** Sieg über alle Feinde ringsum, und der HERR gibt dir Ruhe vor allen Völkern
+    - **Nachher:** Deine Tage werden verlängert und dein Name geehrt
+  - **Option D (Falsch):**
+    - **Vorher:** Ein langes Leben im Land, und der HERR schenkt dir viele Kinder und Enkel
+    - **Nachher:** Der Tempel wird herrlicher gebaut als je zuvor
+
+### `jes_179` (Jesaja 59:1-2)
+- **Frage Vorher:** Warum erhört Gott nach Jesaja 59:1-2 sein Volk nicht, obwohl seine Hand nicht zu kurz ist?
+- **Frage Nachher:** Warum erhört Gott nach Jesaja 59:1-2 sein Volk NICHT, obwohl seine Hand nicht zu kurz ist?
+
+### `jes_183` (Jesaja 60:19-20)
+- **Frage:** Was tritt nach Jesaja 60:19 an die Stelle von Sonne und Mond?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Der HERR als ewiges Licht
+    - **Nachher:** Der HERR selbst als ewiges Licht
+  - **Option A (Falsch):**
+    - **Vorher:** Ein neues Gestirn
+    - **Nachher:** Ein neu geschaffenes Gestirn
+  - **Option B (Falsch):**
+    - **Vorher:** Die Fackeln des Tempels
+    - **Nachher:** Die goldenen Fackeln des Tempels
+  - **Option D (Falsch):**
+    - **Vorher:** Ein Feuer
+    - **Nachher:** Ein feuriger Pfeiler bei der Nacht
+
+### `jes_186` (Jesaja 62:4)
+- **Frage:** Welche neuen Namen erhält Zion nach Jesaja 62:4 statt »Verlassene« und »Wüste«?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Meine Lust und Vermählte
+    - **Nachher:** Meine Lust an ihr und Liebes Weib
+  - **Option A (Falsch):**
+    - **Vorher:** Königin und Fürstin
+    - **Nachher:** Die Schöne und die Hochgeachtete
+  - **Option C (Falsch):**
+    - **Vorher:** Siegerin und Beschützerin
+    - **Nachher:** Die Gesegnete und die Reine Stadt
+  - **Option D (Falsch):**
+    - **Vorher:** Gerechte und Heilige
+    - **Nachher:** Die Königin und die Reiche Stadt
+
+### `jes_191` (Jesaja 63:10)
+- **Frage:** Warum wurde der HERR nach Jesaja 63:10 zum Feind seines Volks?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Weil sie widerspenstig waren und seinen heiligen Geist betrübten
+    - **Nachher:** Weil sie seinen heiligen Geist erbitterten und entrüsteten
+  - **Option A (Falsch):**
+    - **Vorher:** Weil sie nicht mehr opferten und die Feste vernachlässigten
+    - **Nachher:** Weil sie fremde Könige um Hilfe baten und Gold sandten
+  - **Option B (Falsch):**
+    - **Vorher:** Weil sie unrein waren und den Sabbat immer wieder brachen
+    - **Nachher:** Weil sie den Zehnten nicht treu in sein Haus brachten
+  - **Option D (Falsch):**
+    - **Vorher:** Weil sie fremden Göttern dienten und ihn vergessen hatten
+    - **Nachher:** Weil sie den Bund der Väter ganz vergessen hatten
+
+### `jes_193` (Jesaja 64:6)
+- **Bibelstelle Vorher:** `Jesaja 64:5` -> **Nachher:** `Jesaja 64:6`
+- **Frage:** Wie bekennt das Volk seine Sünde in Jesaja 64:5?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Wir sind allesamt unrein, und all unsere Gerechtigkeit ist wie ein beflecktes Kleid
+    - **Nachher:** Wir sind alle unrein, und Gerechtigkeit ist wie ein unflätig Kleid
+  - **Option A (Falsch):**
+    - **Vorher:** Wir sind rein vor dir, denn wir haben deine Gebote gehalten
+    - **Nachher:** Wir sind ein heiliges Volk und unsere Werke sind rein
+  - **Option B (Falsch):**
+    - **Vorher:** Wir sind gerecht, und unsere Werke sind wie ein reines Kleid
+    - **Nachher:** Wir haben gesündigt, doch sind wir wie ein gewaschenes Kleid
+  - **Option C (Falsch):**
+    - **Vorher:** Wir haben gesündigt, aber auch gebüßt, und sind wie ein gewaschenes Kleid
+    - **Nachher:** Wir haben das Gesetz treu gehalten und stehen ohne Tadel
+
+### `jes_194` (Jesaja 64:8)
+- **Bibelstelle Vorher:** `Jesaja 64:7` -> **Nachher:** `Jesaja 64:8`
+- **Frage:** Mit welchem Bild unterwirft sich das Volk in Jesaja 64:7 dem HERRN?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Wir sind Ton, du bist unser Töpfer
+    - **Nachher:** Wir sind der Ton, du bist unser Töpfer
+  - **Option A (Falsch):**
+    - **Vorher:** Wir sind Schafe, du bist unser Hirte
+    - **Nachher:** Wir sind Schafe, du bist der gute Hirte
+  - **Option C (Falsch):**
+    - **Vorher:** Wir sind Reben, du bist der Weinstock
+    - **Nachher:** Wir sind Reben, du bist der rechte Weinstock
+  - **Option D (Falsch):**
+    - **Vorher:** Wir sind Kinder, du bist unser Vater
+    - **Nachher:** Wir sind das Haus, du bist der weise Bauherr
+
+### `jes_198` (Jesaja 66:23-24)
+- **Frage:** Was zeigt Jesaja 66:23-24 am Ende des Buches?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Alles Fleisch betet an; der Wurm der Abtrünnigen stirbt nicht und ihr Feuer verlischt nicht
+    - **Nachher:** Alles Fleisch betet an; ihr Wurm stirbt nicht und Feuer lischt nicht
+  - **Option A (Falsch):**
+    - **Vorher:** Nur die Heiden beten an, das Volk Israel aber wird verworfen und vergessen werden
+    - **Nachher:** Ein neues Jerusalem steigt herab und kein Tod ist mehr
+  - **Option B (Falsch):**
+    - **Vorher:** Alle Völker schweigen vor dem HERRN, und kein Lob wird mehr im Heiligtum gesungen
+    - **Nachher:** Das Volk kehrt heim und David regiert für alle Zeiten
+  - **Option C (Falsch):**
+    - **Vorher:** Jerusalem wird zerstört, und die Erde wird danach neu geschaffen und neu bevölkert
+    - **Nachher:** Alle Feinde werden bekehrt und bringen Geschenke dar
+
+### `jes_199` (Jesaja 6:8)
+- **Frage:** Wer antwortete auf die Frage „Wen soll ich senden?“ mit den Worten „Hier bin ich; sende mich!“ (Jesaja 6:8)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Jesaja
+    - **Nachher:** Der Prophet Jesaja
+  - **Option A (Falsch):**
+    - **Vorher:** Hesekiel
+    - **Nachher:** Der Prophet Hesekiel
+  - **Option B (Falsch):**
+    - **Vorher:** Jeremia
+    - **Nachher:** Der Prophet Jeremia
+  - **Option C (Falsch):**
+    - **Vorher:** Amos
+    - **Nachher:** Der Prophet Daniel

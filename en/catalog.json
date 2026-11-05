@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-11-04T22:17:09Z",
+  "lastUpdated": "2026-11-05T19:20:12Z",
   "language": "en",
   "categories": [
     {
@@ -466,6 +466,25 @@
       ],
       "sizeBytes": 24640,
       "downloadUrl": "./en/22_hohelied.json"
+    },
+    {
+      "quizId": "bibel_23_jesaja_en",
+      "category": "propheten",
+      "title": "Isaiah",
+      "subtitle": "Isaiah 1:1 – 66:24 (196 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "1.0.0",
+      "questionCount": 196,
+      "difficulty": "medium",
+      "tags": [
+        "Isaiah",
+        "OT",
+        "prophets",
+        "KJV"
+      ],
+      "sizeBytes": 189411,
+      "downloadUrl": "./en/23_jesaja.json"
     }
   ]
 }
