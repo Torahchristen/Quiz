@@ -1,0 +1,568 @@
+{
+  "metadata": {
+    "quizId": "bibel_34_nahum_en",
+    "title": "Nahum",
+    "subtitle": "Nahum 1:1 – 3:19 (16 questions)",
+    "description": "Questions on the Book of Nahum according to the King James Version (1769).",
+    "author": "King James Version (1769)",
+    "version": "1.0.0",
+    "language": "en",
+    "category": "propheten",
+    "difficulty": "medium",
+    "tags": [
+      "Nahum",
+      "OT",
+      "prophets",
+      "KJV"
+    ],
+    "questionCount": 16,
+    "canonicalBookNumber": 34,
+    "testament": "OT"
+  },
+  "questions": [
+    {
+      "questionId": "nah_001",
+      "type": "single_choice",
+      "text": "How does Nahum 1:2-3 declare the nature of the LORD?",
+      "options": [
+        {
+          "text": "As a gentle shepherd, long-suffering and without wrath toward sinners",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As a jealous God, and a revenger; slow to anger, and great in power",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "As a distant Creator, taking no regard of the wickedness of nations",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As a hidden judge, who watcheth only over the boundaries of Nineveh",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Nahum 1:2-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "nah_002",
+      "type": "single_choice",
+      "text": "What comfort does Nahum 1:7 declare for the day of trouble?",
+      "options": [
+        {
+          "text": "The LORD sendeth heavenly messengers and granteth continual peace",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The LORD delivereth from every peril and rooteth out all adversaries",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The LORD is good, a strong hold, and knoweth them that trust in him",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The LORD overthroweth all foes and maketh his heritage dwell in wealth",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Nahum 1:7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "nah_003",
+      "type": "single_choice",
+      "text": "What good tidings are proclaimed in Nahum 1:15?",
+      "options": [
+        {
+          "text": "The great victory over Assyria, cried by a swift horseman in Judah",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The end of heavy captivity, sung by holy priests upon Zion's bulwarks",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The sudden fall of Nineveh, proclaimed from watchtowers with trumpets",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The feet of him upon the mountains that bringeth tidings and peace",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Nahum 1:15",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "nah_004",
+      "type": "single_choice",
+      "text": "How does Nahum 2:4 describe the raging of the chariots?",
+      "options": [
+        {
+          "text": "They rage in streets, seem like torches, and run like the lightnings",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "They charge over high ramparts, their wheels rattling against gates",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They carry burning brands and cast boiling pitch into open houses",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They gather before gates, cutting off all fleeing citizens in haste",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Nahum 2:4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "nah_005",
+      "type": "single_choice",
+      "text": "What does Nahum 2:7 prophesy concerning the queen and her maids?",
+      "options": [
+        {
+          "text": "She shall be preserved and received peacefully by neighbouring kings",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "She shall be led away captive, and her maids lead her as with doves",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "She shall escape unto high mountains, and all her warriors follow her",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "She shall be set upon a throne, and her maidens sing joyful canticles",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Nahum 2:7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "nah_006",
+      "type": "single_choice",
+      "text": "To what animal does Nahum 2:12 liken the former power of Nineveh?",
+      "options": [
+        {
+          "text": "A wild ox that breaketh down fences and treadeth down green fields",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A proud eagle that soareth high in the heavens and taketh the prey",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A lion that did tear in pieces for his whelps, and filled his dens",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A ravening wolf that spoileth the helpless flocks in darkest night",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Nahum 2:12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "nah_007",
+      "type": "single_choice",
+      "text": "What name is given to Nineveh in Nahum 3:1?",
+      "options": [
+        {
+          "text": "Sinful city, full of snares and deceitful craft",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Idolatrous city, full of images and abominations",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Haughty city, full of gold and vanishing glory",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Bloody city! it is all full of lies and robbery",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Nahum 3:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "nah_008",
+      "type": "single_choice",
+      "text": "What city is held up to Nineveh as a warning in Nahum 3:8?",
+      "options": [
+        {
+          "text": "Populous No, that was situate among the waters",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Tyre, the fenced fortress standing by the sea",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Babylon, the proud kingdom beside the Euphrates",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Sidon, the wealthy merchant city upon the coast",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Nahum 3:8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "nah_009",
+      "type": "single_choice",
+      "text": "With what lament unto the king of Assyria does Nahum 3:18 conclude?",
+      "options": [
+        {
+          "text": "Thy palace shall be built again, and thy messengers return in peace",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Thy shepherds slumber, thy people is scattered, and no man gathereth",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Thy host goeth forth victorious, and thy nobles bear rule for ever",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Thy fortress endureth the tempest, and thy servants keep the gates",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Nahum 3:18",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "nah_010",
+      "type": "single_choice",
+      "text": "From what place was the prophet Nahum according to Nahum 1:1?",
+      "options": [
+        {
+          "text": "The Elkoshite",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "From Tekoa",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "From Anathoth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "From Moresheth",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Nahum 1:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "nah_011",
+      "type": "single_choice",
+      "text": "How does Nahum 1:6 describe the indignation and fury of the LORD?",
+      "options": [
+        {
+          "text": "His wrath bloweth as a whirlwind, and tall cedars bow to the earth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "His wrath breaketh as great hailstones, and groves are consumed away",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "His fury is poured out like fire, and rocks are thrown down by him",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "His fury rusheth as an overflowing torrent, and valleys are dried up",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Nahum 1:6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "nah_012",
+      "type": "single_choice",
+      "text": "What does the LORD promise unto Judah in Nahum 1:13?",
+      "options": [
+        {
+          "text": "To overlay the yoke with gold as a solemn token of chastisement",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To humble Judah once more and punish her before the proud heathen",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To double the heavy burden and make fast the iron bonds upon them",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To break his yoke from off thee, and burst thy bonds in sunder",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Nahum 1:13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "nah_013",
+      "type": "single_choice",
+      "text": "What command is proclaimed concerning Nineveh's treasures in Nahum 2:9?",
+      "options": [
+        {
+          "text": "Take the spoil of silver and gold: there is none end of the store",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Divide the silver and gold: for the poor and fatherless wait for it",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Number the silver and gold: for the king demandeth an exact account",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Keep the silver and gold: for fierce adversaries are at the portals",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Nahum 2:9",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "nah_014",
+      "type": "single_choice",
+      "text": "With what figure does Nahum 3:4 describe the city of Nineveh?",
+      "options": [
+        {
+          "text": "A cruel serpent that benumbed the nations with her deadly venom",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A wellfavoured harlot, selling nations through her witchcrafts",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A stately queen that bought the rulers of the earth with her gold",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A fierce lioness that tore the weak in pieces without any pity",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Nahum 3:4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "nah_015",
+      "type": "single_choice",
+      "text": "To what does Nahum 3:12 liken all the strongholds of Nineveh?",
+      "options": [
+        {
+          "text": "Olive trees whose branches break in the tempest and are burned with fire",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Vine branches whose pleasant clusters the strong east wind throweth down",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Fig trees with firstripe figs, which shaken fall into mouth of eater",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Date palms whose withered fruit drop upon the barren sand in great heat",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Nahum 3:12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "nah_016",
+      "type": "single_choice",
+      "text": "To what insects are Nineveh's people and captains likened in Nahum 3:15-17?",
+      "options": [
+        {
+          "text": "Unto poisonous serpents and venomous scorpions",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto flying ravens and vultures in the valley",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto fierce hornets and bees around the wall",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto cankerworms, locusts, and grasshoppers",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Nahum 3:15-17",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    }
+  ]
+}

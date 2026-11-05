@@ -39,7 +39,8 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
 | `31_obadja.json` | 10 | 10 | 7 | 10 | 0 |
 | `32_jona.json` | 20 | 20 | 15 | 20 | 7 |
 | `33_micha.json` | 21 | 21 | 17 | 21 | 2 |
-| **Gesamt (33 Dateien)** | **3296** | **1503** | **1012** | **1356** | **71** |
+| `34_nahum.json` | 16 | 16 | 11 | 16 | 4 |
+| **Gesamt (34 Dateien)** | **3312** | **1519** | **1023** | **1372** | **75** |
 
 ## 01_1_mose.json – 1. Mose (Genesis) (Schlachter (Revision von 1951))
 
@@ -21347,3 +21348,262 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
   - **Option D (Falsch):**
     - **Vorher:** Der HERR wird uns erlösen aus Babel und uns in das Land unserer Väter zurückführen
     - **Nachher:** Der HERR wird sein Volk erlösen und sie heimholen aus allen Landen
+
+## 34_nahum.json – Nahum (Luther 1912)
+
+### `nah_001` (Nahum 1:2-3)
+- **Frage Vorher:** Wie offenbart sich der HERR in Nahum 1:2-3?
+- **Frage Nachher:** Wie bezeugt Nahum 1:2-3 den HERRN?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Als eifriger Gott und Rächer, geduldig und von großer Kraft
+    - **Nachher:** Als eifriger Gott und Rächer, der geduldig und von großer Kraft ist
+  - **Option A (Falsch):**
+    - **Vorher:** Als milder Hirte, langmütig und ohne Zorn gegen die Sünder
+    - **Nachher:** Als barmherziger Vater, der den Sündern allezeit gnädig vergibt
+  - **Option C (Falsch):**
+    - **Vorher:** Als ferner Schöpfer, der sich nicht um die Völker kümmert
+    - **Nachher:** Als ferner Weltschöpfer, der nicht auf die Frevel der Völker achtet
+  - **Option D (Falsch):**
+    - **Vorher:** Als Gott der Heiden, der allein über Ninive und Assur wacht
+    - **Nachher:** Als verborgener Richter, der allein über Assur und Ninive wacht
+
+### `nah_002` (Nahum 1:7)
+- **Frage Vorher:** Welchen Trost nennt Nahum 1:7?
+- **Frage Nachher:** Welchen Trost nennt Nahum 1:7 für die Zeit der Not?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Der HERR ist gütig und eine Feste zur Zeit der Not und kennt die, die auf ihn trauen
+    - **Nachher:** Der HERR ist gütig und eine Feste und kennt die, die auf ihn trauen
+  - **Option A (Falsch):**
+    - **Vorher:** Der HERR sendet Boten zur Zeit der Not und schenkt Frieden dem Land
+    - **Nachher:** Der HERR sendet himmlische Boten und schenkt dauerhaften Frieden
+  - **Option B (Falsch):**
+    - **Vorher:** Der HERR rettet vor jeder Gefahr und bewahrt alle Menschen ohne Unterschied
+    - **Nachher:** Der HERR rettet vor jeder Gefahr und tilgt alle Sünder ohne Verzug
+  - **Option D (Falsch):**
+    - **Vorher:** Der HERR zerstört zur Zeit der Not die Feinde und lässt sein Volk ruhen
+    - **Nachher:** Der HERR schlägt alle Feinde und lässt sein Erbe in Reichtum wohnen
+
+### `nah_003` (Nahum 1:15)
+- **Frage Vorher:** Welche frohe Botschaft verkündet Nahum 1:15 (Hebr. 1:15)?
+- **Frage Nachher:** Welche Botschaft verkündet Nahum 1:15 (Hebr. 2:1)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Die Füße eines Freudenboten auf den Bergen, der Frieden verkündigt
+    - **Nachher:** Die Füße eines guten Boten auf den Bergen, der Frieden verkündigt
+  - **Option A (Falsch):**
+    - **Vorher:** Der Sieg über Assur, den ein Bote auf den Bergen ausruft
+    - **Nachher:** Der große Sieg über Assur, den ein schneller Reiter im Lande ausruft
+  - **Option B (Falsch):**
+    - **Vorher:** Das Ende der Gefangenschaft, das ein Herold auf den Mauern verkündet
+    - **Nachher:** Das selige Ende der Gefangenschaft, das die Priester auf Zions Mauern rühmen
+  - **Option C (Falsch):**
+    - **Vorher:** Der Fall Ninives, den ein Wächter vom Turm her meldet
+    - **Nachher:** Der jähe Fall Ninives, den ein Wächter mit lautem Posaunenschall meldet
+
+### `nah_004` (Nahum 2:4)
+- **Bibelstelle Vorher:** `Nahum 2:3-4` -> **Nachher:** `Nahum 2:4`
+- **Frage Vorher:** Wie schildert Nahum 2:4 den Angriff?
+- **Frage Nachher:** Wie schildert Nahum 2:4 den Ansturm der Wagen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Die Wagen rollen auf den Gassen, sie glänzen wie Fackeln und fahren einher wie Blitze
+    - **Nachher:** Sie rollen auf den Gassen, glänzen wie Fackeln und fahren wie Blitze
+  - **Option B (Falsch):**
+    - **Vorher:** Die Reiter stürmen über die Mauern, ihre Rüstungen blitzen wie Feuer in der Sonne
+    - **Nachher:** Sie stürmen über die Wälle, ihre Räder donnern und zerschlagen Tore
+  - **Option C (Falsch):**
+    - **Vorher:** Die Schiffe belagern die Stadt vom Fluss her und werfen Brandfackeln in die Gassen
+    - **Nachher:** Sie bringen Brandfackeln heran und schleudern flüssiges Pech in Häuser
+  - **Option D (Falsch):**
+    - **Vorher:** Die Boten rennen durch die Straßen und rufen die Bewohner zur Flucht aus der Stadt
+    - **Nachher:** Sie sammeln sich vor den Toren und schneiden den Bürgern jede Flucht ab
+
+### `nah_005` (Nahum 2:7)
+- **Frage Vorher:** Was wird mit Ninives Königin geschehen (Nahum 2:7)?
+- **Frage Nachher:** Was wird nach Nahum 2:7 mit Ninives Königin geschehen?
+- **Richtige Antwort (unverändert, Option B):** Sie wird gefangen weggeführt, und ihre Jungfrauen seufzen wie Tauben
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Sie wird gerettet und von den Völkern in Frieden entlassen
+    - **Nachher:** Sie wird beschützt und von den fremden Fürsten friedlich empfangen
+  - **Option C (Falsch):**
+    - **Vorher:** Sie flieht in die Berge, und ihre Jungfrauen folgen ihr nach
+    - **Nachher:** Sie flieht in das Gebirge, und ihre tapferen Krieger folgen ihr nach
+  - **Option D (Falsch):**
+    - **Vorher:** Sie wird gekrönt, und ihre Jungfrauen jubeln wie Lerchen
+    - **Nachher:** Sie wird auf den Thron gesetzt, und ihre Mägde singen Freudenlieder
+
+### `nah_006` (Nahum 2:12)
+- **Bibelstelle Vorher:** `Nahum 2:11-13` -> **Nachher:** `Nahum 2:12`
+- **Frage Vorher:** Mit welchem Bild beschreibt Nahum 2:12 die Macht Ninives?
+- **Frage Nachher:** Mit welchem Tier beschreibt Nahum 2:12 die einstige Macht Ninives?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Mit einem Löwen, der für seine Jungen raubte und seine Höhlen füllte
+    - **Nachher:** Mit einem Löwen, der für seine Jungen raubte und Höhlen füllte
+  - **Option A (Falsch):**
+    - **Vorher:** Mit einem Stier, der Mauern einrennt und alles Land zerstampft
+    - **Nachher:** Mit einem wilden Stier, der alle Zäune einrennt und Felder zertritt
+  - **Option B (Falsch):**
+    - **Vorher:** Mit einem Adler, der über den Bergen kreist und seine Beute sucht
+    - **Nachher:** Mit einem stolzen Adler, der hoch am Himmel kreist und Beute schlägt
+  - **Option D (Falsch):**
+    - **Vorher:** Mit einem Wolf in der Nacht, der die Herden reißt und verschleppt
+    - **Nachher:** Mit einem hungrigen Wolf, der des Nachts alle wehrlosen Herden reißt
+
+### `nah_007` (Nahum 3:1)
+- **Frage:** Wie nennt Nahum 3:1 die Stadt Ninive?
+- **Richtige Antwort (unverändert, Option D):** Mörderische Stadt, voll Lügen und Räuberei
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Stadt der Feinde, voll Ränke und Verderben
+    - **Nachher:** Stadt der Sünder, voll Ränke und böser Tücke
+  - **Option B (Falsch):**
+    - **Vorher:** Stadt der Götzen, voll Bildern und Opfern
+    - **Nachher:** Stadt der Götzen, voll Bildern und Freveltat
+  - **Option C (Falsch):**
+    - **Vorher:** Stadt des Stolzes, voll Gold und Macht
+    - **Nachher:** Stadt des Hochmuts, voll Gold und falscher Ehre
+
+### `nah_008` (Nahum 3:8)
+- **Bibelstelle Vorher:** `Nahum 3:8-10` -> **Nachher:** `Nahum 3:8`
+- **Frage Vorher:** Welche Stadt hält Nahum 3:8 Ninive als Beispiel vor?
+- **Frage Nachher:** Welche Stadt hält Nahum 3:8 Ninive als warnendes Beispiel vor?
+- **Richtige Antwort (unverändert, Option A):** No-Amon, das an den Wassern lag
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Tyrus, das am Meer lag, mit seinen Mauern
+    - **Nachher:** Tyrus, das feste Kastell am Meere
+  - **Option C (Falsch):**
+    - **Vorher:** Babel, das am Euphrat lag, mit seinen Toren
+    - **Nachher:** Babel, das stolze Reich am Euphrat
+  - **Option D (Falsch):**
+    - **Vorher:** Sodom, das am Salzmeer lag, mit seinen Sünden
+    - **Nachher:** Sidon, die reiche Stadt am Strande
+
+### `nah_009` (Nahum 3:18)
+- **Bibelstelle Vorher:** `Nahum 3:18-19` -> **Nachher:** `Nahum 3:18`
+- **Frage Vorher:** Mit welchem Urteil schließt das Buch Nahum (Nahum 3:18)?
+- **Frage Nachher:** Mit welcher Klage an den König von Assur schließt Nahum 3:18?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Deine Hirten schlafen; dein Volk ist auf den Bergen zerstreut, und niemand sammelt es
+    - **Nachher:** Deine Hirten schlafen; dein Volk ist zerstreut, und niemand sammelt es
+  - **Option A (Falsch):**
+    - **Vorher:** Dein Reich wird wieder aufgebaut, und dein Volk kehrt aus der Zerstreuung heim
+    - **Nachher:** Dein Palast wird neu erbaut, und deine Boten eilen fröhlich heim
+  - **Option C (Falsch):**
+    - **Vorher:** Dein König findet Gnade, und dein Volk wird auf den Bergen gesammelt
+    - **Nachher:** Dein Heer zieht siegreich aus, und deine Fürsten herrschen auf ewig
+  - **Option D (Falsch):**
+    - **Vorher:** Deine Mauern bleiben bestehen, und dein Volk wohnt sicher in den Städten
+    - **Nachher:** Deine Festung trotzt dem Sturm, und deine Knechte bewachen die Tore
+
+### `nah_010` (Nahum 1:1)
+- **Frage:** Woher stammte der Prophet Nahum nach Nahum 1:1?
+- **Richtige Antwort (unverändert, Option A):** Von Elkos
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Von Tekoa
+    - **Nachher:** Von Thekoa
+
+### `nah_011` (Nahum 1:6)
+- **Frage:** Wie beschreibt Nahum 1:6 den Zorn des HERRN?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Sein Zorn brennt wie Feuer, und die Felsen zerspringen vor ihm
+    - **Nachher:** Sein Zorn brennt wie Feuer, und Felsen zerspringen vor ihm
+  - **Option A (Falsch):**
+    - **Vorher:** Sein Zorn weht wie ein Sturm, und die Zedern brechen vor ihm
+    - **Nachher:** Sein Zorn weht wie ein Sturmwind, und die Zedern fallen nieder
+  - **Option B (Falsch):**
+    - **Vorher:** Sein Zorn bricht wie Hagel herein, und die Wälder zerbersten vor ihm
+    - **Nachher:** Sein Zorn bricht wie Hagel herein, und die Haine zerbersten ganz
+  - **Option D (Falsch):**
+    - **Vorher:** Sein Zorn fließt wie ein Strom, und die Berge versinken vor ihm
+    - **Nachher:** Sein Zorn fließt wie ein Sturzbach, und die Gründe vergehen gar
+
+### `nah_012` (Nahum 1:13)
+- **Frage Vorher:** Was verheißt der HERR nach Nahum 1:13 dem Volk Juda?
+- **Frage Nachher:** Was verheißt der HERR in Nahum 1:13 dem Volk Juda?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Er will das Joch zerbrechen und die Bande zerreißen
+    - **Nachher:** Er will sein Joch zerbrechen und die schweren Bande zerreißen
+  - **Option A (Falsch):**
+    - **Vorher:** Er will das Joch vergolden und zum Zeichen weihen
+    - **Nachher:** Er will das Joch vergolden und zum Zeichen der Zucht aufrichten
+  - **Option B (Falsch):**
+    - **Vorher:** Er will Juda noch einmal demütigen und strafen
+    - **Nachher:** Er will Juda noch einmal hart demütigen und vor Feinden strafen
+  - **Option C (Falsch):**
+    - **Vorher:** Er will das Joch verdoppeln und die Bande verstärken
+    - **Nachher:** Er will das Joch verdoppeln und die Ketten des Volkes verstärken
+
+### `nah_013` (Nahum 2:9)
+- **Frage Vorher:** Was wird nach Nahum 2:9 über die Schätze Ninives ausgerufen?
+- **Frage Nachher:** Was wird in Nahum 2:9 über die Schätze Ninives ausgerufen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Raubt Silber, raubt Gold, denn der Schätze ist kein Ende
+    - **Nachher:** Raubet Silber, raubet Gold, denn der Schätze ist kein Ende
+  - **Option B (Falsch):**
+    - **Vorher:** Teilt Silber, teilt Gold, denn die Armen sollen es haben
+    - **Nachher:** Teilet Silber, teilet Gold, denn die Notleidenden warten schon
+  - **Option C (Falsch):**
+    - **Vorher:** Zählt Silber, zählt Gold, denn der König fordert Rechenschaft
+    - **Nachher:** Zählet Silber, zählet Gold, denn der König fordert die Abgaben
+  - **Option D (Falsch):**
+    - **Vorher:** Verbergt Silber, verbergt Gold, denn der Feind steht vor den Toren
+    - **Nachher:** Schützet Silber, schützet Gold, denn die Feinde brechen heran
+
+### `nah_014` (Nahum 3:4)
+- **Frage:** Mit welchem Bild beschreibt Nahum 3:4 die Stadt Ninive?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Als Hure, die mit Zauberei ganze Völker zu Knechten machte
+    - **Nachher:** Als schöne Hure, die mit Zauberei Land und Leute knechtete
+  - **Option A (Falsch):**
+    - **Vorher:** Als Schlange, die mit ihrem Gift ganze Völker lähmte
+    - **Nachher:** Als Schlange, die mit finsterem Gifte die Völker im Tal lähmte
+  - **Option C (Falsch):**
+    - **Vorher:** Als Königin, die mit ihrem Gold ganze Völker kaufte
+    - **Nachher:** Als Königin, die mit vielem Golde die Fürsten der Erde kaufte
+  - **Option D (Falsch):**
+    - **Vorher:** Als Hirtin, die mit List die Herden anderer Völker raubte
+    - **Nachher:** Als Löwin, die mit großer Grausamkeit die schwachen Becher fing
+
+### `nah_015` (Nahum 3:12)
+- **Frage:** Womit vergleicht Nahum 3:12 die festen Städte Ninives?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Mit Feigenbäumen, deren reife Feigen dem in den Mund fallen, der sie essen will
+    - **Nachher:** Mit Feigenbäumen, deren reife Feigen geschüttelt dem ins Maul fallen
+  - **Option A (Falsch):**
+    - **Vorher:** Mit Ölbäumen, deren Zweige im Sturm brechen und im Feuer verbrennen
+    - **Nachher:** Mit Ölbäumen, deren Äste im Ungewitter brechen und verbrannt werden
+  - **Option B (Falsch):**
+    - **Vorher:** Mit Weinstöcken, deren Trauben der Wind abschüttelt und über das Land verstreut
+    - **Nachher:** Mit Weinstöcken, deren Trauben der Wind abreißt und am Boden verdirbt
+  - **Option D (Falsch):**
+    - **Vorher:** Mit Dattelpalmen, deren Früchte in der Hitze aufspringen und verderben
+    - **Nachher:** Mit Dattelpalmen, deren dürre Früchte in der Hitze herab auf Sand fallen
+
+### `nah_016` (Nahum 3:15-17)
+- **Frage Vorher:** Mit welchen Tieren vergleicht Nahum 3:15-17 Ninives Volk und seine Hauptleute?
+- **Frage Nachher:** Mit welchem Ungeziefer vergleicht Nahum 3:15-17 das Volk und die Hauptleute?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Mit Käfern und Heuschrecken
+    - **Nachher:** Mit unzähligen Käfern und Heuschrecken
+  - **Option A (Falsch):**
+    - **Vorher:** Mit Schakalen und Hyänen
+    - **Nachher:** Mit giftigen Schlangen und Skorpionen
+  - **Option B (Falsch):**
+    - **Vorher:** Mit Skorpionen und Schlangen
+    - **Nachher:** Mit fliegenden Raben und Geiern im Tal
+  - **Option C (Falsch):**
+    - **Vorher:** Mit Raben und Geiern
+    - **Nachher:** Mit wilden Wespen und Hornissen am Wall
