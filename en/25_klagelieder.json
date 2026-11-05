@@ -1,0 +1,637 @@
+{
+  "metadata": {
+    "quizId": "bibel_25_klagelieder_en",
+    "title": "Lamentations",
+    "subtitle": "Lamentations 1:1 – 5:22 (18 questions)",
+    "description": "Questions on the Book of Lamentations according to the King James Version (1769).",
+    "author": "King James Version (1769)",
+    "version": "1.0.0",
+    "language": "en",
+    "category": "propheten",
+    "difficulty": "medium",
+    "tags": [
+      "Lamentations",
+      "OT",
+      "poetry",
+      "prophets",
+      "KJV"
+    ],
+    "questionCount": 18,
+    "canonicalBookNumber": 25,
+    "testament": "OT"
+  },
+  "questions": [
+    {
+      "questionId": "klag_001",
+      "type": "single_choice",
+      "text": "How does the Book of Lamentations begin (Lamentations 1:1)?",
+      "options": [
+        {
+          "text": "With lamentation over the burning of the temple and the spoiling of holy vessels",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "How doth the city sit solitary, that was full of people! she is become as a widow",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "With mourning over the captivity of the king's sons and the end of the royal line",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With crying over the grievous famine in the land and the bitter death of the cattle",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lamentations 1:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "klag_002",
+      "type": "single_choice",
+      "text": "What comfort is declared in the midst of affliction in Lamentations 3:22-23?",
+      "options": [
+        {
+          "text": "The walls of Zion shall be built again, and the fierce heathen shall retreat afar",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It is of the LORD's mercies that we are not consumed; they are new every morning",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The judgment of the holy God shall never fall again, for he hath forgiven all iniquity",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The former royal glory shall return without repentance, for the LORD will not forget",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lamentations 3:22-23",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "klag_003",
+      "type": "single_choice",
+      "text": "What prayer does the people make at the end of the book (Lamentations 5:21)?",
+      "options": [
+        {
+          "text": "Turn thou us unto thee, O LORD, and we shall be turned; renew our days as of old",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Restore the sacred treasures of the temple and let the priests minister at altar",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Smite all our adversaries with the sword and destroy them that have afflicted us",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Establish the kingdom of our fathers again and set a son of David upon the throne",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Lamentations 5:21",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "kla_005",
+      "type": "single_choice",
+      "text": "What cry does the city direct unto all that pass by (Lamentations 1:12)?",
+      "options": [
+        {
+          "text": "Help us to build the broken gates again; for our affliction is grievous",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Pass by in haste and look not upon us; for the sorrow of Zion is great",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Behold, and see if there be any sorrow like unto my sorrow done unto me",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Make a peace with the princes of Babylon; for our wound cannot be healed",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Lamentations 1:12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "kla_006",
+      "type": "single_choice",
+      "text": "How does Lamentations 2:1 describe the anger of the Lord upon Zion?",
+      "options": [
+        {
+          "text": "The Lord hath broken down the gates of Jerusalem and carried the sons away",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The Lord hath forsaken his holy altar and cast off his sacred sanctuary",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The Lord hath cast down from heaven unto the earth the beauty of Israel",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The Lord hath made the princes of Judah flee away like harts without food",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Lamentations 2:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "kla_007",
+      "type": "single_choice",
+      "text": "What does the writer lament concerning the young children in Lamentations 2:11?",
+      "options": [
+        {
+          "text": "That they were led away into cruel captivity in a foreign land",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That they grew up without any faithful teacher or understanding",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That the young children and sucklings swoon in the city streets",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "That they remained fatherless without any helper to succour them",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Lamentations 2:11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "kla_008",
+      "type": "single_choice",
+      "text": "What is the daughter of Zion commanded to do in Lamentations 2:19?",
+      "options": [
+        {
+          "text": "Arise in the night, and pour out thine heart like water before the Lord",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Rest quietly until the morning dawn, until the Lord heareth thy petition",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Guard the walls by night and defend the royal gates against every enemy",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Treat with the adversaries and bring rich presents that they may depart",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Lamentations 2:19",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "kla_010",
+      "type": "single_choice",
+      "text": "What is declared to be good according to Lamentations 3:26-27?",
+      "options": [
+        {
+          "text": "To bring tithes faithfully and offer all sacrifices according to the law",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To dwell within the sanctuary and never depart from the holy courts of God",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To search the scriptures continually and teach the commandments to children",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To quietly wait for salvation of the LORD, and bear the yoke in his youth",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Lamentations 3:26-27",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "kla_011",
+      "type": "single_choice",
+      "text": "With what imagery does Lamentations 4 begin its lamentation?",
+      "options": [
+        {
+          "text": "The gold is become dim, and the stones of the sanctuary are poured out",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The swords are broken, and the shields of the mighty are cast in Kidron",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The fruitful vines are trodden down, and the grapes of the land are sour",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The tents of the enemy stand round about, and the watchmen have all fled",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Lamentations 4:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "kla_012",
+      "type": "single_choice",
+      "text": "What distress of the women is recorded in Lamentations 4:10?",
+      "options": [
+        {
+          "text": "Pitiful women sold all their jewels for bread to nourish their little ones",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Pitiful women left their children at the temple that they might find bread",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Pitiful women fled with their children over the mountains to heathen lands",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The hands of the pitiful women have sodden their own children to eat them",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Lamentations 4:10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "kla_013",
+      "type": "single_choice",
+      "text": "How is the captive king designated in Lamentations 4:20?",
+      "options": [
+        {
+          "text": "The shield and buckler of the people",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The breath, the anointed of the LORD",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The mighty lion of the tribe of Judah",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The faithful shepherd of the heritage",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lamentations 4:20",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "kla_014",
+      "type": "single_choice",
+      "text": "What confession does the congregation make in Lamentations 5:19?",
+      "options": [
+        {
+          "text": "Our fathers have sinned, and are not; and therefore no hope is left for us",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The heathen nations shall rebuild our walls and restore the gates of Zion",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "We will offer burnt offerings as soon as the king of Babylon granteth peace",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Thou, O LORD, remainest for ever; thy throne from generation to generation",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Lamentations 5:19",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "kla_015",
+      "type": "single_choice",
+      "text": "What happened to the friends of the weeping city (Lamentations 1:2)?",
+      "options": [
+        {
+          "text": "They dealt treacherously with her and are become her enemies",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "They remained faithful to her and brought bread into her home",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They held their peace and waited to see who would win battle",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They fled into foreign lands and returned not until the fall",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Lamentations 1:2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "kla_016",
+      "type": "single_choice",
+      "text": "What does the soul of the afflicted declare in Lamentations 3:24?",
+      "options": [
+        {
+          "text": "The LORD is my rock; therefore will I not be moved",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The LORD is my portion; therefore will I hope in him",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The LORD is my light; therefore will I not be faint",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The LORD is my shepherd; therefore will I not fear",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lamentations 3:24",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "kla_017",
+      "type": "single_choice",
+      "text": "How does the Lord deal with the children of men (Lamentations 3:31-32)?",
+      "options": [
+        {
+          "text": "He afflicteth willingly and casteth off the sons of men for ever",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He causeth sorrow without a cause and hath no mercy upon the sad",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Though he cause grief, yet will he have compassion in his mercy",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He spareth all the children of men and executeth no judgment now",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Lamentations 3:31-32",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "kla_018",
+      "type": "single_choice",
+      "text": "To what self-examination does Lamentations 3:40 call?",
+      "options": [
+        {
+          "text": "Search out the transgressions of our fathers and bear all their guilt",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Search the book of the law and submit ourselves unto the earthly king",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Examine the devices of our adversaries and prepare for a great battle",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Let us search and try our ways, and turn again unto the LORD our God",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Lamentations 3:40",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "kla_019",
+      "type": "single_choice",
+      "text": "With what does Lamentations 4:6 compare the punishment of the daughter of my people?",
+      "options": [
+        {
+          "text": "It is greater than the punishment of the sin of Sodom",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "It is greater than the punishment of the sin of Babel",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It is equal unto the punishment of the sin of Gomorrah",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It is greater than the punishment of the sin of Nineveh",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Lamentations 4:6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "kla_020",
+      "type": "single_choice",
+      "text": "With what does Lamentations 4:19 compare the persecutors of the people?",
+      "options": [
+        {
+          "text": "More numerous than the locusts in the field",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Swifter than the eagles of the holy heaven",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "More fierce than the young lions in forest",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Swifter than the swift horses of the battle",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lamentations 4:19",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    }
+  ]
+}

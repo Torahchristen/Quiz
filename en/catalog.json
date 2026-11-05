@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-11-05T19:38:06Z",
+  "lastUpdated": "2026-11-05T19:40:45Z",
   "language": "en",
   "categories": [
     {
@@ -504,6 +504,26 @@
       ],
       "sizeBytes": 154479,
       "downloadUrl": "./en/24_jeremia.json"
+    },
+    {
+      "quizId": "bibel_25_klagelieder_en",
+      "category": "propheten",
+      "title": "Lamentations",
+      "subtitle": "Lamentations 1:1 – 5:22 (18 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "1.0.0",
+      "questionCount": 18,
+      "difficulty": "medium",
+      "tags": [
+        "Lamentations",
+        "OT",
+        "poetry",
+        "prophets",
+        "KJV"
+      ],
+      "sizeBytes": 19219,
+      "downloadUrl": "./en/25_klagelieder.json"
     }
   ]
 }

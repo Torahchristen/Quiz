@@ -30,7 +30,8 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
 | `22_hohelied.json` | 26 | 14 | 2 | 14 | 1 |
 | `23_jesaja.json` | 196 | 58 | 1 | 57 | 2 |
 | `24_jeremia.json` | 157 | 24 | 3 | 24 | 0 |
-| **Gesamt (24 Dateien)** | **2963** | **1386** | **950** | **1248** | **54** |
+| `25_klagelieder.json` | 18 | 8 | 0 | 8 | 0 |
+| **Gesamt (25 Dateien)** | **2981** | **1394** | **950** | **1256** | **54** |
 
 ## 01_1_mose.json – 1. Mose (Genesis) (Schlachter (Revision von 1951))
 
@@ -19619,3 +19620,114 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
   - **Option D (Falsch):**
     - **Vorher:** Am Tigris bei Ninive, wo einst Assur herrschte
     - **Nachher:** Am Fluss Hiddekel bei Ninive
+
+## 25_klagelieder.json – Klagelieder (Luther 1912)
+
+### `klag_001` (Klagelieder 1:1)
+- **Frage:** Womit beginnt das Buch der Klagelieder (Klagelieder 1:1)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Mit der Klage über die einsame Stadt, die voll Volks war und nun wie eine Witwe ist
+    - **Nachher:** Wie die Stadt so wüst liegt, die voll Volks war und nun wie eine Witwe ist
+
+### `kla_007` (Klagelieder 2:11)
+- **Frage:** Was beklagt der Dichter in Klagelieder 2:11 über die Kinder der Stadt?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Dass die Säuglinge auf den Gassen verschmachteten
+    - **Nachher:** Dass die jungen Kinder und Säuglinge auf den Gassen verschmachten
+  - **Option A (Falsch):**
+    - **Vorher:** Dass sie in die Gefangenschaft geführt wurden
+    - **Nachher:** Dass sie gefangen in das ferne babylonische Land geführt wurden
+  - **Option B (Falsch):**
+    - **Vorher:** Dass sie ohne Lehrer aufwachsen
+    - **Nachher:** Dass sie ohne alle treuen Lehrer und ohne Unterricht aufwachsen
+  - **Option D (Falsch):**
+    - **Vorher:** Dass sie ohne Eltern bleiben
+    - **Nachher:** Dass sie als Waisen ohne Eltern und ohne jeden Beistand blieben
+
+### `kla_012` (Klagelieder 4:10)
+- **Frage:** Welche Not der Frauen schildert Klagelieder 4:10?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Barmherzige Frauen mussten ihre eigenen Kinder kochen, um zu essen
+    - **Nachher:** Barmherzige Frauen mussten ihre Kinder selbst kochen, dass sie ihnen zur Speise würden
+  - **Option A (Falsch):**
+    - **Vorher:** Barmherzige Frauen verkauften ihren Schmuck für Brot, um ihre Kinder zu ernähren
+    - **Nachher:** Barmherzige Frauen verkauften allen ihren Schmuck für Brot, um die Kinder zu nähren
+  - **Option B (Falsch):**
+    - **Vorher:** Barmherzige Frauen ließen ihre Kinder am Tempel zurück, damit sie dort versorgt würden
+    - **Nachher:** Barmherzige Frauen ließen ihre Kinder am Heiligtum zurück, damit sie versorgt würden
+  - **Option C (Falsch):**
+    - **Vorher:** Barmherzige Frauen flohen mit ihren Kindern über die Berge in das Land der Feinde
+    - **Nachher:** Barmherzige Frauen flohen mit ihren Kindern über die Berge in das Land der Heiden
+
+### `kla_013` (Klagelieder 4:20)
+- **Frage:** Wie wird der gefangene König in Klagelieder 4:20 genannt?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Der Gesalbte des HERRN, der unser Trost war
+    - **Nachher:** Der Gesalbte des HERRN, der unser Odem war
+  - **Option D (Falsch):**
+    - **Vorher:** Der Hirte der Herde, der sie auf die Weide führte
+    - **Nachher:** Der Hirte der Herde, der treu auf Weide führte
+
+### `kla_015` (Klagelieder 1:2)
+- **Frage:** Was geschieht nach Klagelieder 1:2 mit den Freunden der weinenden Stadt?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Sie werden ihr untreu und selbst zu ihren Feinden
+    - **Nachher:** Sie sind ihr untreu und ihre Feinde geworden
+  - **Option B (Falsch):**
+    - **Vorher:** Sie bleiben ihr treu und bringen ihr Trost und Brot
+    - **Nachher:** Sie halten treue Wacht und trösten sie am Tor
+  - **Option C (Falsch):**
+    - **Vorher:** Sie schweigen und warten ab, wer den Kampf gewinnt
+    - **Nachher:** Sie schweigen still und warten auf den König
+  - **Option D (Falsch):**
+    - **Vorher:** Sie fliehen aus dem Land und kehren erst nach dem Fall zurück
+    - **Nachher:** Sie fliehen eilig fort und kehren nie zurück
+
+### `kla_018` (Klagelieder 3:40)
+- **Frage:** Zu welcher Selbstprüfung ruft Klagelieder 3:40 auf?
+- **Richtige Antwort (unverändert, Option D):** Unser Wesen erforschen und prüfen und uns zum HERRN bekehren
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Unsere Väter erforschen und ihre Schuld büßen
+    - **Nachher:** Die Missetat der Väter erforschen und ihre schwere Schuld büßen
+  - **Option B (Falsch):**
+    - **Vorher:** Das Gesetz erforschen und zählen und uns dem König unterwerfen
+    - **Nachher:** Das Gesetz erforschen und zählen und uns dem Könige unterwerfen
+  - **Option C (Falsch):**
+    - **Vorher:** Unsere Feinde prüfen und uns zum Krieg rüsten
+    - **Nachher:** Die Anschläge der Feinde prüfen und uns zum großen Kriege rüsten
+
+### `kla_019` (Klagelieder 4:6)
+- **Frage:** Womit vergleicht Klagelieder 4:6 die Missetat der Tochter des Volkes?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Sie ist größer als die Sünde Sodoms
+    - **Nachher:** Sie ist größer denn die Sünde Sodoms
+  - **Option B (Falsch):**
+    - **Vorher:** Sie ist größer als die Sünde Babels
+    - **Nachher:** Sie ist größer denn die Sünde Babels
+  - **Option C (Falsch):**
+    - **Vorher:** Sie ist ebenso groß wie die Sünde Gomorras
+    - **Nachher:** Sie ist so groß wie die Sünde Moabs
+  - **Option D (Falsch):**
+    - **Vorher:** Sie ist größer als die Sünde Ninives
+    - **Nachher:** Sie ist größer denn die Sünde Edoms
+
+### `kla_020` (Klagelieder 4:19)
+- **Frage:** Womit vergleicht Klagelieder 4:19 die Verfolger des Volkes?
+- **Richtige Antwort (unverändert, Option B):** Schneller als die Adler unter dem Himmel
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Zahlreicher als die Heuschrecken im Land
+    - **Nachher:** Zahlreicher als Heuschrecken im Lande
+  - **Option C (Falsch):**
+    - **Vorher:** Wilder als die Löwen im Dickicht
+    - **Nachher:** Grimmiger als die Löwen in der Wildnis
+  - **Option D (Falsch):**
+    - **Vorher:** Schneller als die Rosse in der Ebene
+    - **Nachher:** Schneller als die Rosse in dem Streite
