@@ -37,7 +37,8 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
 | `29_joel.json` | 18 | 1 | 1 | 0 | 1 |
 | `30_amos.json` | 27 | 24 | 18 | 22 | 2 |
 | `31_obadja.json` | 10 | 10 | 7 | 10 | 0 |
-| **Gesamt (31 Dateien)** | **3255** | **1462** | **980** | **1315** | **62** |
+| `32_jona.json` | 20 | 20 | 15 | 20 | 7 |
+| **Gesamt (32 Dateien)** | **3275** | **1482** | **995** | **1335** | **69** |
 
 ## 01_1_mose.json – 1. Mose (Genesis) (Schlachter (Revision von 1951))
 
@@ -20672,3 +20673,331 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
   - **Option D (Falsch):**
     - **Vorher:** Den Philistern, die im Tiefland wohnen
     - **Nachher:** Es wird der Kinder Israel
+
+## 32_jona.json – Jona (Luther 1912)
+
+### `jon_001` (Jona 1:3)
+- **Bibelstelle Vorher:** `Jona 1:1-3` -> **Nachher:** `Jona 1:3`
+- **Frage Vorher:** Wohin wollte Jona fliehen (Jona 1:3)?
+- **Frage Nachher:** Wohin wollte Jona vor dem HERRN fliehen (Jona 1:3)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Nach Tarsis, wobei er von Joppe aus per Schiff fuhr
+    - **Nachher:** Gen Tharsis, auf einem Schiffe von Japho
+  - **Option A (Falsch):**
+    - **Vorher:** Nach Ninive, auf einem Schiff von Joppe aus
+    - **Nachher:** Gen Ninive, auf einem Schiffe von Japho
+  - **Option C (Falsch):**
+    - **Vorher:** Nach Ägypten, auf einem Schiff von Joppe aus
+    - **Nachher:** Gen Ägypten, auf einem Schiffe von Japho
+  - **Option D (Falsch):**
+    - **Vorher:** Nach Babel, auf einem Schiff von Joppe aus
+    - **Nachher:** Gen Babylon, auf einem Schiffe von Japho
+
+### `jon_002` (Jona 1:5)
+- **Bibelstelle Vorher:** `Jona 1:5-7` -> **Nachher:** `Jona 1:5`
+- **Frage Vorher:** Was taten die Seeleute im Sturm (Jona 1:5-7)?
+- **Frage Nachher:** Was taten die Schiffsleute im Ungewitter (Jona 1:5)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Jeder schrie zu seinem Gott, sie warfen das Gerät ins Meer und warfen Lose
+    - **Nachher:** Sie schrien zu ihren Göttern und warfen das Gerät in das Meer
+  - **Option A (Falsch):**
+    - **Vorher:** Sie ruderten mit aller Kraft dem Ufer zu und riefen dabei ihre Götter an
+    - **Nachher:** Sie ruderten mit aller Kraft und riefen ihre Götter um Beistand an
+  - **Option B (Falsch):**
+    - **Vorher:** Sie beteten zum HERRN und fasteten drei Tage lang, bis der Sturm nachließ
+    - **Nachher:** Sie beteten zu dem HERRN und fasteten, bis das Ungewitter sich legte
+  - **Option D (Falsch):**
+    - **Vorher:** Sie weckten den Kapitän und warfen das Segel samt dem Mast ins Meer
+    - **Nachher:** Sie weckten den Schiffsherrn und warfen das Segel samt dem Mast hinab
+
+### `jon_003` (Jona 1:15-16)
+- **Frage Vorher:** Was geschah, als Jona ins Meer geworfen wurde (Jona 1:15-16)?
+- **Frage Nachher:** Was geschah, als sie Jona ins Meer warfen (Jona 1:15-16)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Das Meer hörte auf zu toben, und die Männer fürchteten den HERRN sehr
+    - **Nachher:** Das Meer stand still von seinem Wüten, und sie fürchteten den HERRN
+  - **Option A (Falsch):**
+    - **Vorher:** Die Männer fischten Jona heraus, und der Sturm legte sich nicht
+    - **Nachher:** Das Schiff sank sofort, und die Männer schwammen mühsam an das Ufer
+  - **Option B (Falsch):**
+    - **Vorher:** Der Sturm wurde stärker, und die Männer fürchteten sich noch mehr
+    - **Nachher:** Das Ungewitter nahm zu, und die Männer fürchteten sich noch viel mehr
+  - **Option C (Falsch):**
+    - **Vorher:** Das Schiff sank, und die Männer retteten sich ans Ufer
+    - **Nachher:** Die Schiffsleute fischten ihn heraus, und das Ungewitter legte sich
+
+### `jon_004` (Jona 1:17)
+- **Frage Vorher:** Wie lange war Jona im Leib des Fisches (Jona 1:17)?
+- **Frage Nachher:** Wie lange war Jona im Leibe des Fisches (Jona 1:17)?
+- **Richtige Antwort (unverändert, Option A):** Drei Tage und drei Nächte
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Falsch):**
+    - **Vorher:** Vierzig Tage und vierzig Nächte
+    - **Nachher:** Zwanzig Tage und zwanzig Nächte
+  - **Option D (Falsch):**
+    - **Vorher:** Einen Tag und eine Nacht
+    - **Nachher:** Einen Tag und eine ganze Nacht
+
+### `jon_005` (Jona 2:6)
+- **Bibelstelle Vorher:** `Jona 2:4-7` -> **Nachher:** `Jona 2:6`
+- **Frage Vorher:** Wie beschreibt Jona seine Todesgefahr (Jona 2:6)?
+- **Frage Nachher:** Wie beschreibt Jona seine Not im Leibe des Fisches (Jona 2:6)?
+- **Richtige Antwort (unverändert, Option B):** Ich sank hinunter zu der Berge Gründen; die Erde hatte mich verriegelt
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Ich irrte durch die Wüste, und der Sand bedeckte mich ganz und gar
+    - **Nachher:** Ich irrte durch die Wüste, und der glühende Sand bedeckte mich ganz
+  - **Option C (Falsch):**
+    - **Vorher:** Ich wurde von Flammen umgeben, und das Feuer verzehrte mich fast ganz
+    - **Nachher:** Ich war von Flammen umgeben, und das Feuer verzehrte mich schier ganz
+  - **Option D (Falsch):**
+    - **Vorher:** Ich fiel in eine tiefe Grube, und der Fels versperrte mir den Ausgang
+    - **Nachher:** Ich fiel in eine finstere Grube, und der Fels versperrte mir das Leben
+
+### `jon_006` (Jona 2:9)
+- **Frage Vorher:** Womit schließt Jona sein Gebet (Jona 2:9)?
+- **Frage Nachher:** Womit schließt Jona sein Gebet im Leibe des Fisches (Jona 2:9)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Hilfe ist bei dem HERRN
+    - **Nachher:** Die Hilfe ist des HERRN allein
+  - **Option A (Falsch):**
+    - **Vorher:** Ich will dir Opfer bringen
+    - **Nachher:** Ich will dir ewige Opfer bringen
+  - **Option D (Falsch):**
+    - **Vorher:** Der HERR hat mich gestraft
+    - **Nachher:** Der HERR hat mich hart gestraft
+
+### `jon_007` (Jona 3:4)
+- **Frage Vorher:** Welche Botschaft rief Jona in Ninive aus (Jona 3:4)?
+- **Frage Nachher:** Was predigte Jona in Ninive nach Jona 3:4?
+- **Richtige Antwort (unverändert, Option D):** Es sind noch vierzig Tage, so wird Ninive untergehen
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Ninive wird bald fallen, und seine Mauern werden zerstört werden
+    - **Nachher:** Ninive wird fallen, und die Feinde werden es verbrennen
+  - **Option B (Falsch):**
+    - **Vorher:** Tut Buße, sonst kommt der Tod über euch alle
+    - **Nachher:** Tut Buße und weint, sonst kommt der Tod über euch alle
+  - **Option C (Falsch):**
+    - **Vorher:** Der HERR ist ein Gott der Gnade, kehrt um und lebt
+    - **Nachher:** Der HERR ist voll Gnade, kehrt alle um von euren Wegen
+
+### `jon_008` (Jona 3:6)
+- **Bibelstelle Vorher:** `Jona 3:6-8` -> **Nachher:** `Jona 3:6`
+- **Frage Vorher:** Wie reagierte der König von Ninive (Jona 3:6)?
+- **Frage Nachher:** Wie reagierte der König von Ninive nach Jona 3:6?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Er stand vom Thron auf, legte den Purpur ab und setzte sich in Sack und Asche
+    - **Nachher:** Er stand auf von seinem Thron, legte den Purpur ab und hüllte einen Sack um
+  - **Option B (Falsch):**
+    - **Vorher:** Er ließ Jona verhaften und ins Gefängnis werfen, weil er Unruhe stiftete
+    - **Nachher:** Er ließ den Propheten greifen und ins Gefängnis werfen wegen seiner bösen Rede
+  - **Option C (Falsch):**
+    - **Vorher:** Er ignorierte die Botschaft und lachte darüber
+    - **Nachher:** Er spottete über die fremde Botschaft und ließ seine Götzenbilder verherrlichen
+  - **Option D (Falsch):**
+    - **Vorher:** Er rüstete das Heer und zog gegen Jona zu Felde
+    - **Nachher:** Er sammelte sein ganzes Kriegsheer und rüstete sich zum Kampfe vor den Toren
+
+### `jon_009` (Jona 3:10)
+- **Frage Vorher:** Wie reagierte Gott auf die Umkehr der Niniviten (Jona 3:10)?
+- **Frage Nachher:** Wie antwortete Gott auf die Umkehr der Menschen zu Ninive (Jona 3:10)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Es reute ihn des Übels, und er tat es nicht
+    - **Nachher:** Es reute ihn des Übels, das er geredet hatte ihnen zu tun, und tat's nicht
+  - **Option A (Falsch):**
+    - **Vorher:** Er strafte sie dennoch, weil sie zu spät umgekehrt waren
+    - **Nachher:** Er strafte sie dennoch, weil ihre Missetat zuvor gar zu groß gewesen war
+  - **Option C (Falsch):**
+    - **Vorher:** Er schwieg und ließ sie ohne Antwort
+    - **Nachher:** Er schwieg und ließ sie ohne Gnade in Angst und großer Furcht vergehen
+  - **Option D (Falsch):**
+    - **Vorher:** Er verlangte noch größere Opfer, bevor er vergab
+    - **Nachher:** Er forderte noch größere Opfer vom Volke, ehe er ihnen gnädig vergab
+
+### `jon_010` (Jona 4:2)
+- **Bibelstelle Vorher:** `Jona 4:1-3` -> **Nachher:** `Jona 4:2`
+- **Frage:** Warum zürnte Jona über die Verschonung Ninives (Jona 4:2)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Weil er wusste, dass Gott gnädig, barmherzig, langmütig und von großer Güte ist
+    - **Nachher:** Weil er wusste, dass Gott gnädig, barmherzig und von großer Güte ist
+  - **Option A (Falsch):**
+    - **Vorher:** Weil er sich geirrt hatte und seine Weissagung über Ninive nicht eintraf
+    - **Nachher:** Weil er sich zutiefst geschämt hatte, dass seine Weissagung nicht eintraf
+  - **Option B (Falsch):**
+    - **Vorher:** Weil er verspottet wurde und sein Ansehen unter den Propheten verloren hatte
+    - **Nachher:** Weil er fürchtete, sein hohes Ansehen unter allen Propheten zu verlieren
+  - **Option D (Falsch):**
+    - **Vorher:** Weil er nicht belohnt wurde und sein Lohn für den Dienst in Ninive ausblieb
+    - **Nachher:** Weil er meinte, die Mühe und der weite Weg seien gänzlich umsonst gewesen
+
+### `jon_011` (Jona 4:6-8)
+- **Frage Vorher:** Was bereitete Gott für Jona vor der Stadt (Jona 4:6-8)?
+- **Frage Nachher:** Was verschaffte Gott für Jona bei der Stadt (Jona 4:6-8)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Einen Rizinus, der Schatten gab, dann einen Wurm und einen dürren Ostwind
+    - **Nachher:** Einen Rizinus als Schatten, danach einen Wurm und einen dürren Ostwind
+  - **Option A (Falsch):**
+    - **Vorher:** Eine Quelle, die kühles Wasser spendete und ihn bei der Hitze erquickte
+    - **Nachher:** Eine kühle Wasserquelle, die ihn labte, und danach einen frischen Regenwind
+  - **Option B (Falsch):**
+    - **Vorher:** Eine Höhle im Felsen, die ihn vor der glühenden Sonne gut schützte
+    - **Nachher:** Eine Felsenhöhle gegen die Sonnenglut und danach eine Wolke am Himmel herauf
+  - **Option C (Falsch):**
+    - **Vorher:** Eine Hütte aus Zweigen, in der er in aller Ruhe schlafen konnte
+    - **Nachher:** Eine Hütte aus Zypressenzweigen und danach einen Baum mit vielen Früchten
+
+### `jon_012` (Jona 4:11)
+- **Bibelstelle Vorher:** `Jona 4:10-11` -> **Nachher:** `Jona 4:11`
+- **Frage:** Mit welcher Frage schließt das Buch Jona (Jona 4:11)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Sollte mich nicht jammern Ninives, der großen Stadt mit mehr als hundertzwanzigtausend Menschen?
+    - **Nachher:** Sollte mich nicht jammern Ninives, der großen Stadt mit mehr als 120.000 Menschen?
+  - **Option B (Falsch):**
+    - **Vorher:** Soll ich Ninive verschonen, obwohl es so böse ist und Jona darüber so zornig geworden ist?
+    - **Nachher:** Warum willst du hadern mit deinem Schöpfer, Jona, und zürnen über sein Erbarmen?
+  - **Option C (Falsch):**
+    - **Vorher:** Warum hast du mich zürnen lassen, Jona, und die Stadt nicht untergehen sehen dürfen?
+    - **Nachher:** Glaubst du denn, dass dein Zorn recht sei über diese große Stadt und ihre Mauern?
+  - **Option D (Falsch):**
+    - **Vorher:** Wer ist wie der HERR, der alle Schuld vergibt und die Sünde nicht mehr ansieht und vergisst?
+    - **Nachher:** Willst du mein Richter sein, Jona, und mir wehren zu erretten, was verloren ist?
+
+### `jon_013` (Jona 1:3)
+- **Bibelstelle Vorher:** `Jona 1:3; Jona 1:7; Jona 1:15; Jona 2:1; Jona 4:7` -> **Nachher:** `Jona 1:3`
+- **Frage:** Bringe diese Ereignisse aus dem Buch Jona in die richtige Reihenfolge.
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Jona betet im Leib des Fisches
+    - **Nachher:** Jona betet im Leibe des großen Fisches
+  - **Option B (Richtig):**
+    - **Vorher:** Im Sturm fällt das Los auf Jona
+    - **Nachher:** Im Ungewitter fällt das Los auf Jona
+  - **Option C (Richtig):**
+    - **Vorher:** Jona besteigt in Joppe das Schiff nach Tarsis
+    - **Nachher:** Jona besteigt das Schiff gen Tharsis
+  - **Option D (Richtig):**
+    - **Vorher:** Der Rizinus über Jona verdorrt
+    - **Nachher:** Der Rizinus verdorrt durch den Wurm
+  - **Option E (Richtig):**
+    - **Vorher:** Die Seeleute werfen Jona ins Meer
+    - **Nachher:** Die Schiffsleute werfen Jona ins Meer
+
+### `jon_014` (Jona 1:9)
+- **Frage Vorher:** Wie stellt sich Jona den Seeleuten nach Jona 1:9 vor?
+- **Frage Nachher:** Wie stellt sich Jona den Schiffsleuten nach Jona 1:9 vor?
+- **Richtige Antwort (unverändert, Option A):** Ich bin ein Hebräer und fürchte den HERRN, den Gott des Himmels
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Ich bin ein Aramäer und diene dem Gott des Sturms und der Winde
+    - **Nachher:** Ich bin ein Aramäer und diene dem ewigen Gott des Himmels und Meeres
+  - **Option C (Falsch):**
+    - **Vorher:** Ich bin ein Phönizier und fürchte Baal, den Herrn des Meeres
+    - **Nachher:** Ich bin ein Phönizier und fürchte den HERRN, den Schöpfer der Erde
+  - **Option D (Falsch):**
+    - **Vorher:** Ich bin ein Händler aus Joppe und diene dem Gott der Fahrenden
+    - **Nachher:** Ich bin ein Händler aus Japho und diene dem HERRN auf allen Wegen
+
+### `jon_015` (Jona 1:5)
+- **Frage Vorher:** Wie reagierte Jona nach Jona 1:5 auf den gewaltigen Sturm?
+- **Frage Nachher:** Wo war Jona nach Jona 1:5 während des Ungewitters?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Er lag unten im Schiff und schlief
+    - **Nachher:** Er war hinunter in das Schiff gestiegen, lag und schlief
+  - **Option A (Falsch):**
+    - **Vorher:** Er betete laut und rief seinen Gott um Hilfe an
+    - **Nachher:** Er stand am Vorderteil und sah auf das tobende Meer hinab
+  - **Option C (Falsch):**
+    - **Vorher:** Er half den Seeleuten, das Gerät ins Meer zu werfen
+    - **Nachher:** Er half den Schiffsleuten, das schwere Gerät auszuwerfen
+  - **Option D (Falsch):**
+    - **Vorher:** Er stand am Mast und warnte die Mannschaft vor dem Sturm
+    - **Nachher:** Er kniete bei dem Schiffsherrn und betete um Vergebung an
+
+### `jon_016` (Jona 1:12)
+- **Frage Vorher:** Welchen Rat gab Jona den Seeleuten nach Jona 1:12, damit das Meer still werde?
+- **Frage Nachher:** Welchen Rat gab Jona den Schiffsleuten nach Jona 1:12?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Sie sollten ihn nehmen und ins Meer werfen
+    - **Nachher:** Nehmt mich und werft mich ins Meer, so wird das Meer still werden
+  - **Option A (Falsch):**
+    - **Vorher:** Sie sollten umkehren und mit aller Kraft ans Land rudern
+    - **Nachher:** Sie sollten umkehren und mit aller Macht ans trockene Land rudern
+  - **Option B (Falsch):**
+    - **Vorher:** Sie sollten die Segel bergen und das Schiff leichter machen
+    - **Nachher:** Sie sollten die Segel rasch einziehen und das ganze Schiff leeren
+  - **Option D (Falsch):**
+    - **Vorher:** Sie sollten ein Opfer darbringen und gemeinsam fasten
+    - **Nachher:** Sie sollten ein Dankopfer bringen und gemeinsam zu Gott rufen
+
+### `jon_017` (Jona 2:7)
+- **Frage Vorher:** Wohin gelangte Jonas Gebet nach Jona 2:7?
+- **Frage Nachher:** Wohin kam Jonas Gebet nach Jona 2:7?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Zu dem HERRN in seinen heiligen Tempel
+    - **Nachher:** Zu dem HERRN hinein in seinen heiligen Tempel
+  - **Option A (Falsch):**
+    - **Vorher:** Zu den Gipfeln der Berge über dem Meer
+    - **Nachher:** Zu den fernen Höhen der Berge über dem Meere
+  - **Option B (Falsch):**
+    - **Vorher:** Zu den Ohren der Seeleute auf dem Schiff
+    - **Nachher:** Zu den Ohren der Schiffsleute auf dem Schiffe
+  - **Option C (Falsch):**
+    - **Vorher:** Zu den Tiefen des Meeres unter dem Schiff
+    - **Nachher:** Zu den tiefen Abgründen unter den Meeresfluten
+
+### `jon_018` (Jona 3:3)
+- **Frage:** Wie groß war die Stadt Ninive nach Jona 3:3?
+- **Richtige Antwort (unverändert, Option A):** Drei Tagereisen groß
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Falsch):**
+    - **Vorher:** Eine Tagereise groß
+    - **Nachher:** Zehn Tagereisen groß
+  - **Option D (Falsch):**
+    - **Vorher:** Vierzig Tagereisen groß
+    - **Nachher:** Fünf Tagereisen groß
+
+### `jon_019` (Jona 3:7-8)
+- **Frage:** Was ließ der König von Ninive nach Jona 3:7-8 für Mensch und Vieh ausrufen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Beide sollten nichts essen und trinken und Säcke um sich hüllen
+    - **Nachher:** Beide sollten keine Nahrung nehmen und Säcke um sich hüllen vor Gott
+  - **Option A (Falsch):**
+    - **Vorher:** Das Vieh sollte aus der Stadt auf die Weiden getrieben werden
+    - **Nachher:** Das Vieh sollte sogleich aus den Toren auf grüne Weiden getrieben werden
+  - **Option C (Falsch):**
+    - **Vorher:** Das Vieh sollte geschlachtet und den Göttern der Stadt geopfert werden
+    - **Nachher:** Das Vieh sollte feierlich geschmückt und den Stadtgöttern dargebracht werden
+  - **Option D (Falsch):**
+    - **Vorher:** Das Vieh sollte mit Gold und Purpur geschmückt werden
+    - **Nachher:** Beide sollten Wein trinken und ein großes Freudengeschrei anstimmen im Tor
+
+### `jon_020` (Jona 4:5)
+- **Frage Vorher:** Was tat Jona nach Jona 4:5 außerhalb der Stadt?
+- **Frage Nachher:** Was tat Jona nach Jona 4:5 morgenwärts von der Stadt?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Er machte sich eine Hütte und wartete im Schatten ab, was der Stadt widerfahren würde
+    - **Nachher:** Er machte sich eine Hütte und saß im Schatten, bis er sähe, was geschähe
+  - **Option A (Falsch):**
+    - **Vorher:** Er baute einen Altar und dankte dem HERRN für die Rettung der ganzen Stadt
+    - **Nachher:** Er baute einen Altar aus Steinen und dankte für die Errettung der Bürger
+  - **Option B (Falsch):**
+    - **Vorher:** Er zog weiter und floh zum zweiten Mal in Richtung Tarsis am Meer
+    - **Nachher:** Er zog traurig weiter und wanderte gen Tharsis, um dem HERRN zu entfliehen
+  - **Option D (Falsch):**
+    - **Vorher:** Er kehrte um und predigte noch weitere vierzig Tage in den Straßen
+    - **Nachher:** Er ging durch alle Straßen und rief das Volk erneut zu ernster Buße auf

@@ -21,270 +21,306 @@
     {
       "questionId": "jon_001",
       "type": "single_choice",
-      "text": "Wohin wollte Jona fliehen (Jona 1:3)?",
+      "text": "Wohin wollte Jona vor dem HERRN fliehen (Jona 1:3)?",
       "options": [
         {
-          "text": "Nach Ninive, auf einem Schiff von Joppe aus",
-          "explanation": "Das trifft nicht zu. Richtig ist: Nach Tarsis, wobei er von Joppe aus per Schiff fuhr [ref:Jona 1:1-3]."
+          "text": "Gen Ninive, auf einem Schiffe von Japho",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Nach Tarsis, wobei er von Joppe aus per Schiff fuhr",
-          "explanation": "Aber Jona machte sich auf und floh vor dem HERRN und wollte gen Tharsis und kam hinab gen Japho. Und da er ein Schiff fand, trat er hinein [ref:Jona 1:1-3]."
+          "text": "Gen Tharsis, auf einem Schiffe von Japho",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Nach Ägypten, auf einem Schiff von Joppe aus",
-          "explanation": "Das trifft nicht zu. Richtig ist: Nach Tarsis, wobei er von Joppe aus per Schiff fuhr [ref:Jona 1:1-3]."
+          "text": "Gen Ägypten, auf einem Schiffe von Japho",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Nach Babel, auf einem Schiff von Joppe aus",
-          "explanation": "Das trifft nicht zu. Richtig ist: Nach Tarsis, wobei er von Joppe aus per Schiff fuhr [ref:Jona 1:1-3]."
+          "text": "Gen Babylon, auf einem Schiffe von Japho",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         1
       ],
-      "bibleReference": "Jona 1:1-3",
-      "explanation": "Aber Jona machte sich auf und floh vor dem HERRN und wollte gen Tharsis und kam hinab gen Japho. Und da er ein Schiff fand, trat er hinein [ref:Jona 1:1-3].",
+      "bibleReference": "Jona 1:3",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "jon_002",
       "type": "single_choice",
-      "text": "Was taten die Seeleute im Sturm (Jona 1:5-7)?",
+      "text": "Was taten die Schiffsleute im Ungewitter (Jona 1:5)?",
       "options": [
         {
-          "text": "Sie ruderten mit aller Kraft dem Ufer zu und riefen dabei ihre Götter an",
-          "explanation": "Das trifft nicht zu. Richtig ist: Jeder schrie zu seinem Gott, sie warfen das Gerät ins Meer und warfen Lose [ref:Jona 1:5-7]."
+          "text": "Sie ruderten mit aller Kraft und riefen ihre Götter um Beistand an",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Sie beteten zum HERRN und fasteten drei Tage lang, bis der Sturm nachließ",
-          "explanation": "Das trifft nicht zu. Richtig ist: Jeder schrie zu seinem Gott, sie warfen das Gerät ins Meer und warfen Lose [ref:Jona 1:5-7]."
+          "text": "Sie beteten zu dem HERRN und fasteten, bis das Ungewitter sich legte",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Jeder schrie zu seinem Gott, sie warfen das Gerät ins Meer und warfen Lose",
-          "explanation": "Die Schiffsleute fürchteten sich und schrien, ein jeglicher zu seinem Gott, und warfen das Gerät ins Meer. Und sie losten [ref:Jona 1:5-7]."
+          "text": "Sie schrien zu ihren Göttern und warfen das Gerät in das Meer",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Sie weckten den Kapitän und warfen das Segel samt dem Mast ins Meer",
-          "explanation": "Das trifft nicht zu. Richtig ist: Jeder schrie zu seinem Gott, sie warfen das Gerät ins Meer und warfen Lose [ref:Jona 1:5-7]."
+          "text": "Sie weckten den Schiffsherrn und warfen das Segel samt dem Mast hinab",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         2
       ],
-      "bibleReference": "Jona 1:5-7",
-      "explanation": "Die Schiffsleute fürchteten sich und schrien, ein jeglicher zu seinem Gott, und warfen das Gerät ins Meer. Und sie losten [ref:Jona 1:5-7].",
+      "bibleReference": "Jona 1:5",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "jon_003",
       "type": "single_choice",
-      "text": "Was geschah, als Jona ins Meer geworfen wurde (Jona 1:15-16)?",
+      "text": "Was geschah, als sie Jona ins Meer warfen (Jona 1:15-16)?",
       "options": [
         {
-          "text": "Die Männer fischten Jona heraus, und der Sturm legte sich nicht",
-          "explanation": "Das trifft nicht zu. Richtig ist: Das Meer hörte auf zu toben, und die Männer fürchteten den HERRN sehr [ref:Jona 1:15-16]."
+          "text": "Das Schiff sank sofort, und die Männer schwammen mühsam an das Ufer",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Der Sturm wurde stärker, und die Männer fürchteten sich noch mehr",
-          "explanation": "Das trifft nicht zu. Richtig ist: Das Meer hörte auf zu toben, und die Männer fürchteten den HERRN sehr [ref:Jona 1:15-16]."
+          "text": "Das Ungewitter nahm zu, und die Männer fürchteten sich noch viel mehr",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Das Schiff sank, und die Männer retteten sich ans Ufer",
-          "explanation": "Das trifft nicht zu. Richtig ist: Das Meer hörte auf zu toben, und die Männer fürchteten den HERRN sehr [ref:Jona 1:15-16]."
+          "text": "Die Schiffsleute fischten ihn heraus, und das Ungewitter legte sich",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Das Meer hörte auf zu toben, und die Männer fürchteten den HERRN sehr",
-          "explanation": "Und sie nahmen Jona und warfen ihn ins Meer; da stand das Meer still von seinem Wüten. Und die Leute fürchteten den HERRN sehr [ref:Jona 1:15-16]."
+          "text": "Das Meer stand still von seinem Wüten, und sie fürchteten den HERRN",
+          "explanation": "",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Jona 1:15-16",
-      "explanation": "Und sie nahmen Jona und warfen ihn ins Meer; da stand das Meer still von seinem Wüten. Und die Leute fürchteten den HERRN sehr [ref:Jona 1:15-16].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "jon_004",
       "type": "single_choice",
-      "text": "Wie lange war Jona im Leib des Fisches (Jona 1:17)?",
+      "text": "Wie lange war Jona im Leibe des Fisches (Jona 1:17)?",
       "options": [
         {
           "text": "Drei Tage und drei Nächte",
-          "explanation": "Der HERR verschaffte einen großen Fisch, Jona zu verschlingen. Und Jona war im Leibe des Fisches drei Tage und drei Nächte [ref:Jona 1:17]."
+          "explanation": "",
+          "isCorrect": true
         },
         {
           "text": "Sieben Tage und sieben Nächte",
-          "explanation": "Das trifft nicht zu. Richtig ist: Drei Tage und drei Nächte [ref:Jona 1:17]."
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Vierzig Tage und vierzig Nächte",
-          "explanation": "Das trifft nicht zu. Richtig ist: Drei Tage und drei Nächte [ref:Jona 1:17]."
+          "text": "Zwanzig Tage und zwanzig Nächte",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Einen Tag und eine Nacht",
-          "explanation": "Das trifft nicht zu. Richtig ist: Drei Tage und drei Nächte [ref:Jona 1:17]."
+          "text": "Einen Tag und eine ganze Nacht",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Jona 1:17",
-      "explanation": "Der HERR verschaffte einen großen Fisch, Jona zu verschlingen. Und Jona war im Leibe des Fisches drei Tage und drei Nächte [ref:Jona 1:17].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "jon_005",
       "type": "single_choice",
-      "text": "Wie beschreibt Jona seine Todesgefahr (Jona 2:6)?",
+      "text": "Wie beschreibt Jona seine Not im Leibe des Fisches (Jona 2:6)?",
       "options": [
         {
-          "text": "Ich irrte durch die Wüste, und der Sand bedeckte mich ganz und gar",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ich sank hinunter zu der Berge Gründen; die Erde hatte mich verriegelt [ref:Jona 2:4-7]."
+          "text": "Ich irrte durch die Wüste, und der glühende Sand bedeckte mich ganz",
+          "explanation": "",
+          "isCorrect": false
         },
         {
           "text": "Ich sank hinunter zu der Berge Gründen; die Erde hatte mich verriegelt",
-          "explanation": "Ich sank hinunter zu der Berge Gründen, die Erde hatte mich verriegelt ewiglich; aber du hast mein Leben aus dem Verderben geführt, HERR, mein Gott [ref:Jona 2:4-7]."
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Ich wurde von Flammen umgeben, und das Feuer verzehrte mich fast ganz",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ich sank hinunter zu der Berge Gründen; die Erde hatte mich verriegelt [ref:Jona 2:4-7]."
+          "text": "Ich war von Flammen umgeben, und das Feuer verzehrte mich schier ganz",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Ich fiel in eine tiefe Grube, und der Fels versperrte mir den Ausgang",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ich sank hinunter zu der Berge Gründen; die Erde hatte mich verriegelt [ref:Jona 2:4-7]."
+          "text": "Ich fiel in eine finstere Grube, und der Fels versperrte mir das Leben",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         1
       ],
-      "bibleReference": "Jona 2:4-7",
-      "explanation": "Ich sank hinunter zu der Berge Gründen, die Erde hatte mich verriegelt ewiglich; aber du hast mein Leben aus dem Verderben geführt, HERR, mein Gott [ref:Jona 2:4-7].",
+      "bibleReference": "Jona 2:6",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "jon_006",
       "type": "single_choice",
-      "text": "Womit schließt Jona sein Gebet (Jona 2:9)?",
+      "text": "Womit schließt Jona sein Gebet im Leibe des Fisches (Jona 2:9)?",
       "options": [
         {
-          "text": "Ich will dir Opfer bringen",
-          "explanation": "Das steht so nicht an dieser Stelle [ref:Jona 2:9]."
+          "text": "Ich will dir ewige Opfer bringen",
+          "explanation": "",
+          "isCorrect": false
         },
         {
           "text": "Gelobt sei der Name des HERRN",
-          "explanation": "Das steht so nicht an dieser Stelle [ref:Jona 2:9]."
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Hilfe ist bei dem HERRN",
-          "explanation": "Ich aber will mit Dank dir opfern. Meine Gelübde will ich bezahlen; denn die Hilfe ist bei dem HERRN [ref:Jona 2:9]."
+          "text": "Die Hilfe ist des HERRN allein",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Der HERR hat mich gestraft",
-          "explanation": "Das steht so nicht an dieser Stelle [ref:Jona 2:9]."
+          "text": "Der HERR hat mich hart gestraft",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Jona 2:9",
-      "explanation": "Ich aber will mit Dank dir opfern. Meine Gelübde will ich bezahlen; denn die Hilfe ist bei dem HERRN [ref:Jona 2:9].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "jon_007",
       "type": "single_choice",
-      "text": "Welche Botschaft rief Jona in Ninive aus (Jona 3:4)?",
+      "text": "Was predigte Jona in Ninive nach Jona 3:4?",
       "options": [
         {
-          "text": "Ninive wird bald fallen, und seine Mauern werden zerstört werden",
-          "explanation": "Das trifft nicht zu. Richtig ist: Es sind noch vierzig Tage, so wird Ninive untergehen [ref:Jona 3:4]."
+          "text": "Ninive wird fallen, und die Feinde werden es verbrennen",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Tut Buße, sonst kommt der Tod über euch alle",
-          "explanation": "Das trifft nicht zu. Richtig ist: Es sind noch vierzig Tage, so wird Ninive untergehen [ref:Jona 3:4]."
+          "text": "Tut Buße und weint, sonst kommt der Tod über euch alle",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Der HERR ist ein Gott der Gnade, kehrt um und lebt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Es sind noch vierzig Tage, so wird Ninive untergehen [ref:Jona 3:4]."
+          "text": "Der HERR ist voll Gnade, kehrt alle um von euren Wegen",
+          "explanation": "",
+          "isCorrect": false
         },
         {
           "text": "Es sind noch vierzig Tage, so wird Ninive untergehen",
-          "explanation": "Und Jona predigte und sprach: Es sind noch vierzig Tage, so wird Ninive untergehen [ref:Jona 3:4]."
+          "explanation": "",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Jona 3:4",
-      "explanation": "Und Jona predigte und sprach: Es sind noch vierzig Tage, so wird Ninive untergehen [ref:Jona 3:4].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "jon_008",
       "type": "single_choice",
-      "text": "Wie reagierte der König von Ninive (Jona 3:6)?",
+      "text": "Wie reagierte der König von Ninive nach Jona 3:6?",
       "options": [
         {
-          "text": "Er stand vom Thron auf, legte den Purpur ab und setzte sich in Sack und Asche",
-          "explanation": "Da das vor den König zu Ninive kam, stand er auf von seinem Thron und legte seinen Purpur ab und hüllte einen Sack um sich und setzte sich in die Asche [ref:Jona 3:6-8]."
+          "text": "Er stand auf von seinem Thron, legte den Purpur ab und hüllte einen Sack um",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Er ließ Jona verhaften und ins Gefängnis werfen, weil er Unruhe stiftete",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er stand vom Thron auf, legte den Purpur ab und setzte sich in Sack und Asche [ref:Jona 3:6-8]."
+          "text": "Er ließ den Propheten greifen und ins Gefängnis werfen wegen seiner bösen Rede",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Er ignorierte die Botschaft und lachte darüber",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er stand vom Thron auf, legte den Purpur ab und setzte sich in Sack und Asche [ref:Jona 3:6-8]."
+          "text": "Er spottete über die fremde Botschaft und ließ seine Götzenbilder verherrlichen",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Er rüstete das Heer und zog gegen Jona zu Felde",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er stand vom Thron auf, legte den Purpur ab und setzte sich in Sack und Asche [ref:Jona 3:6-8]."
+          "text": "Er sammelte sein ganzes Kriegsheer und rüstete sich zum Kampfe vor den Toren",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         0
       ],
-      "bibleReference": "Jona 3:6-8",
-      "explanation": "Da das vor den König zu Ninive kam, stand er auf von seinem Thron und legte seinen Purpur ab und hüllte einen Sack um sich und setzte sich in die Asche [ref:Jona 3:6-8].",
+      "bibleReference": "Jona 3:6",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "jon_009",
       "type": "single_choice",
-      "text": "Wie reagierte Gott auf die Umkehr der Niniviten (Jona 3:10)?",
+      "text": "Wie antwortete Gott auf die Umkehr der Menschen zu Ninive (Jona 3:10)?",
       "options": [
         {
-          "text": "Er strafte sie dennoch, weil sie zu spät umgekehrt waren",
-          "explanation": "Das trifft nicht zu. Richtig ist: Es reute ihn des Übels, und er tat es nicht [ref:Jona 3:10]."
+          "text": "Er strafte sie dennoch, weil ihre Missetat zuvor gar zu groß gewesen war",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Es reute ihn des Übels, und er tat es nicht",
-          "explanation": "Da aber Gott sah ihre Werke, dass sie sich bekehrten von ihrem bösen Wege, reute ihn des Übels, das er geredet hatte, und tat es nicht [ref:Jona 3:10]."
+          "text": "Es reute ihn des Übels, das er geredet hatte ihnen zu tun, und tat's nicht",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Er schwieg und ließ sie ohne Antwort",
-          "explanation": "Das trifft nicht zu. Richtig ist: Es reute ihn des Übels, und er tat es nicht [ref:Jona 3:10]."
+          "text": "Er schwieg und ließ sie ohne Gnade in Angst und großer Furcht vergehen",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Er verlangte noch größere Opfer, bevor er vergab",
-          "explanation": "Das trifft nicht zu. Richtig ist: Es reute ihn des Übels, und er tat es nicht [ref:Jona 3:10]."
+          "text": "Er forderte noch größere Opfer vom Volke, ehe er ihnen gnädig vergab",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Jona 3:10",
-      "explanation": "Da aber Gott sah ihre Werke, dass sie sich bekehrten von ihrem bösen Wege, reute ihn des Übels, das er geredet hatte, und tat es nicht [ref:Jona 3:10].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -294,57 +330,65 @@
       "text": "Warum zürnte Jona über die Verschonung Ninives (Jona 4:2)?",
       "options": [
         {
-          "text": "Weil er sich geirrt hatte und seine Weissagung über Ninive nicht eintraf",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil er wusste, dass Gott gnädig, barmherzig, langmütig und von großer Güte ist [ref:Jona 4:1-3]."
+          "text": "Weil er sich zutiefst geschämt hatte, dass seine Weissagung nicht eintraf",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Weil er verspottet wurde und sein Ansehen unter den Propheten verloren hatte",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil er wusste, dass Gott gnädig, barmherzig, langmütig und von großer Güte ist [ref:Jona 4:1-3]."
+          "text": "Weil er fürchtete, sein hohes Ansehen unter allen Propheten zu verlieren",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Weil er wusste, dass Gott gnädig, barmherzig, langmütig und von großer Güte ist",
-          "explanation": "Ach HERR, das ist es, was ich sagte; denn ich weiß, dass du gnädig, barmherzig, langmütig und von großer Güte bist und lässt dich des Übels reuen [ref:Jona 4:1-3]."
+          "text": "Weil er wusste, dass Gott gnädig, barmherzig und von großer Güte ist",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Weil er nicht belohnt wurde und sein Lohn für den Dienst in Ninive ausblieb",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil er wusste, dass Gott gnädig, barmherzig, langmütig und von großer Güte ist [ref:Jona 4:1-3]."
+          "text": "Weil er meinte, die Mühe und der weite Weg seien gänzlich umsonst gewesen",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         2
       ],
-      "bibleReference": "Jona 4:1-3",
-      "explanation": "Ach HERR, das ist es, was ich sagte; denn ich weiß, dass du gnädig, barmherzig, langmütig und von großer Güte bist und lässt dich des Übels reuen [ref:Jona 4:1-3].",
+      "bibleReference": "Jona 4:2",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "jon_011",
       "type": "single_choice",
-      "text": "Was bereitete Gott für Jona vor der Stadt (Jona 4:6-8)?",
+      "text": "Was verschaffte Gott für Jona bei der Stadt (Jona 4:6-8)?",
       "options": [
         {
-          "text": "Eine Quelle, die kühles Wasser spendete und ihn bei der Hitze erquickte",
-          "explanation": "Das trifft nicht zu. Richtig ist: Einen Rizinus, der Schatten gab, dann einen Wurm und einen dürren Ostwind [ref:Jona 4:6-8]."
+          "text": "Eine kühle Wasserquelle, die ihn labte, und danach einen frischen Regenwind",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Eine Höhle im Felsen, die ihn vor der glühenden Sonne gut schützte",
-          "explanation": "Das trifft nicht zu. Richtig ist: Einen Rizinus, der Schatten gab, dann einen Wurm und einen dürren Ostwind [ref:Jona 4:6-8]."
+          "text": "Eine Felsenhöhle gegen die Sonnenglut und danach eine Wolke am Himmel herauf",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Eine Hütte aus Zweigen, in der er in aller Ruhe schlafen konnte",
-          "explanation": "Das trifft nicht zu. Richtig ist: Einen Rizinus, der Schatten gab, dann einen Wurm und einen dürren Ostwind [ref:Jona 4:6-8]."
+          "text": "Eine Hütte aus Zypressenzweigen und danach einen Baum mit vielen Früchten",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Einen Rizinus, der Schatten gab, dann einen Wurm und einen dürren Ostwind",
-          "explanation": "Gott der HERR verschaffte einen Rizinus, der wuchs über Jona. Aber Gott verschaffte einen Wurm; der stach den Rizinus, dass er verdorrte. Und danach einen dürren Ostwind [ref:Jona 4:6-8]."
+          "text": "Einen Rizinus als Schatten, danach einen Wurm und einen dürren Ostwind",
+          "explanation": "",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Jona 4:6-8",
-      "explanation": "Gott der HERR verschaffte einen Rizinus, der wuchs über Jona. Aber Gott verschaffte einen Wurm; der stach den Rizinus, dass er verdorrte. Und danach einen dürren Ostwind [ref:Jona 4:6-8].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -354,27 +398,31 @@
       "text": "Mit welcher Frage schließt das Buch Jona (Jona 4:11)?",
       "options": [
         {
-          "text": "Sollte mich nicht jammern Ninives, der großen Stadt mit mehr als hundertzwanzigtausend Menschen?",
-          "explanation": "Und mich sollte nicht jammern Ninives, solcher großen Stadt, in welcher mehr denn hundertzwanzigtausend Menschen sind, die nicht wissen Unterschied, was rechts oder links ist, dazu auch viele Tiere? [ref:Jona 4:10-11]."
+          "text": "Sollte mich nicht jammern Ninives, der großen Stadt mit mehr als 120.000 Menschen?",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Soll ich Ninive verschonen, obwohl es so böse ist und Jona darüber so zornig geworden ist?",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sollte mich nicht jammern Ninives, der großen Stadt mit mehr als hundertzwanzigtausend Menschen? [ref:Jona 4:10-11]."
+          "text": "Warum willst du hadern mit deinem Schöpfer, Jona, und zürnen über sein Erbarmen?",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Warum hast du mich zürnen lassen, Jona, und die Stadt nicht untergehen sehen dürfen?",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sollte mich nicht jammern Ninives, der großen Stadt mit mehr als hundertzwanzigtausend Menschen? [ref:Jona 4:10-11]."
+          "text": "Glaubst du denn, dass dein Zorn recht sei über diese große Stadt und ihre Mauern?",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Wer ist wie der HERR, der alle Schuld vergibt und die Sünde nicht mehr ansieht und vergisst?",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sollte mich nicht jammern Ninives, der großen Stadt mit mehr als hundertzwanzigtausend Menschen? [ref:Jona 4:10-11]."
+          "text": "Willst du mein Richter sein, Jona, und mir wehren zu erretten, was verloren ist?",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         0
       ],
-      "bibleReference": "Jona 4:10-11",
-      "explanation": "Und mich sollte nicht jammern Ninives, solcher großen Stadt, in welcher mehr denn hundertzwanzigtausend Menschen sind, die nicht wissen Unterschied, was rechts oder links ist, dazu auch viele Tiere? [ref:Jona 4:10-11].",
+      "bibleReference": "Jona 4:11",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -384,24 +432,24 @@
       "text": "Bringe diese Ereignisse aus dem Buch Jona in die richtige Reihenfolge.",
       "options": [
         {
-          "text": "Jona betet im Leib des Fisches",
-          "explanation": "Danach betete er im Leib des Fisches [ref:Jona 2:1]."
+          "text": "Jona betet im Leibe des großen Fisches",
+          "explanation": ""
         },
         {
-          "text": "Im Sturm fällt das Los auf Jona",
-          "explanation": "Danach traf ihn im Sturm das Los [ref:Jona 1:7]."
+          "text": "Im Ungewitter fällt das Los auf Jona",
+          "explanation": ""
         },
         {
-          "text": "Jona besteigt in Joppe das Schiff nach Tarsis",
-          "explanation": "Zuerst floh Jona vor dem HERRN [ref:Jona 1:3]."
+          "text": "Jona besteigt das Schiff gen Tharsis",
+          "explanation": ""
         },
         {
-          "text": "Der Rizinus über Jona verdorrt",
-          "explanation": "Zuletzt verdorrte der Rizinus durch den Wurm [ref:Jona 4:7]."
+          "text": "Der Rizinus verdorrt durch den Wurm",
+          "explanation": ""
         },
         {
-          "text": "Die Seeleute werfen Jona ins Meer",
-          "explanation": "Dann warfen ihn die Seeleute ins Meer [ref:Jona 1:15]."
+          "text": "Die Schiffsleute werfen Jona ins Meer",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
@@ -411,128 +459,144 @@
         0,
         3
       ],
-      "bibleReference": "Jona 1:3; Jona 1:7; Jona 1:15; Jona 2:1; Jona 4:7",
-      "explanation": "Jona floh nach Tarsis und bestieg in Joppe ein Schiff [ref:Jona 1:3]. Im Sturm traf das Los ihn [ref:Jona 1:7]. Die Seeleute warfen ihn ins Meer [ref:Jona 1:15]. Im Leib des Fisches betete er [ref:Jona 2:1]. Zuletzt verdorrte der Rizinus [ref:Jona 4:7].",
+      "bibleReference": "Jona 1:3",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "jon_014",
       "type": "single_choice",
-      "text": "Wie stellt sich Jona den Seeleuten nach Jona 1:9 vor?",
+      "text": "Wie stellt sich Jona den Schiffsleuten nach Jona 1:9 vor?",
       "options": [
         {
           "text": "Ich bin ein Hebräer und fürchte den HERRN, den Gott des Himmels",
-          "explanation": "Er sprach zu ihnen: Ich bin ein Hebräer und fürchte den HERRN, den Gott des Himmels, welcher gemacht hat das Meer und das Trockene. [ref:Jona 1:9]."
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Ich bin ein Aramäer und diene dem Gott des Sturms und der Winde",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ich bin ein Hebräer und fürchte den HERRN, den Gott des Himmels [ref:Jona 1:9]."
+          "text": "Ich bin ein Aramäer und diene dem ewigen Gott des Himmels und Meeres",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Ich bin ein Phönizier und fürchte Baal, den Herrn des Meeres",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ich bin ein Hebräer und fürchte den HERRN, den Gott des Himmels [ref:Jona 1:9]."
+          "text": "Ich bin ein Phönizier und fürchte den HERRN, den Schöpfer der Erde",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Ich bin ein Händler aus Joppe und diene dem Gott der Fahrenden",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ich bin ein Hebräer und fürchte den HERRN, den Gott des Himmels [ref:Jona 1:9]."
+          "text": "Ich bin ein Händler aus Japho und diene dem HERRN auf allen Wegen",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Jona 1:9",
-      "explanation": "Er sprach zu ihnen: Ich bin ein Hebräer und fürchte den HERRN, den Gott des Himmels, welcher gemacht hat das Meer und das Trockene. [ref:Jona 1:9].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "jon_015",
       "type": "single_choice",
-      "text": "Wie reagierte Jona nach Jona 1:5 auf den gewaltigen Sturm?",
+      "text": "Wo war Jona nach Jona 1:5 während des Ungewitters?",
       "options": [
         {
-          "text": "Er betete laut und rief seinen Gott um Hilfe an",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er lag unten im Schiff und schlief [ref:Jona 1:5]."
+          "text": "Er stand am Vorderteil und sah auf das tobende Meer hinab",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Er lag unten im Schiff und schlief",
-          "explanation": "Und die Schiffsleute fürchteten sich und schrieen, ein jeglicher zu seinem Gott, und warfen das Gerät, das im Schiff war, ins Meer, daß es leichter würde. Aber Jona war hinunter in das Schiff gestiegen, lag und schlief. [ref:Jona 1:5]."
+          "text": "Er war hinunter in das Schiff gestiegen, lag und schlief",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Er half den Seeleuten, das Gerät ins Meer zu werfen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er lag unten im Schiff und schlief [ref:Jona 1:5]."
+          "text": "Er half den Schiffsleuten, das schwere Gerät auszuwerfen",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Er stand am Mast und warnte die Mannschaft vor dem Sturm",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er lag unten im Schiff und schlief [ref:Jona 1:5]."
+          "text": "Er kniete bei dem Schiffsherrn und betete um Vergebung an",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Jona 1:5",
-      "explanation": "Und die Schiffsleute fürchteten sich und schrieen, ein jeglicher zu seinem Gott, und warfen das Gerät, das im Schiff war, ins Meer, daß es leichter würde. Aber Jona war hinunter in das Schiff gestiegen, lag und schlief. [ref:Jona 1:5].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "jon_016",
       "type": "single_choice",
-      "text": "Welchen Rat gab Jona den Seeleuten nach Jona 1:12, damit das Meer still werde?",
+      "text": "Welchen Rat gab Jona den Schiffsleuten nach Jona 1:12?",
       "options": [
         {
-          "text": "Sie sollten umkehren und mit aller Kraft ans Land rudern",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie sollten ihn nehmen und ins Meer werfen [ref:Jona 1:12]."
+          "text": "Sie sollten umkehren und mit aller Macht ans trockene Land rudern",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Sie sollten die Segel bergen und das Schiff leichter machen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie sollten ihn nehmen und ins Meer werfen [ref:Jona 1:12]."
+          "text": "Sie sollten die Segel rasch einziehen und das ganze Schiff leeren",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Sie sollten ihn nehmen und ins Meer werfen",
-          "explanation": "Er sprach zu ihnen: Nehmt mich und werft mich ins Meer, so wird euch das Meer still werden. Denn ich weiß, daß solch groß Ungewitter über euch kommt um meinetwillen. [ref:Jona 1:12]."
+          "text": "Nehmt mich und werft mich ins Meer, so wird das Meer still werden",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Sie sollten ein Opfer darbringen und gemeinsam fasten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie sollten ihn nehmen und ins Meer werfen [ref:Jona 1:12]."
+          "text": "Sie sollten ein Dankopfer bringen und gemeinsam zu Gott rufen",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Jona 1:12",
-      "explanation": "Er sprach zu ihnen: Nehmt mich und werft mich ins Meer, so wird euch das Meer still werden. Denn ich weiß, daß solch groß Ungewitter über euch kommt um meinetwillen. [ref:Jona 1:12].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "jon_017",
       "type": "single_choice",
-      "text": "Wohin gelangte Jonas Gebet nach Jona 2:7?",
+      "text": "Wohin kam Jonas Gebet nach Jona 2:7?",
       "options": [
         {
-          "text": "Zu den Gipfeln der Berge über dem Meer",
-          "explanation": "Das trifft nicht zu. Richtig ist: Zu dem HERRN in seinen heiligen Tempel [ref:Jona 2:7]."
+          "text": "Zu den fernen Höhen der Berge über dem Meere",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Zu den Ohren der Seeleute auf dem Schiff",
-          "explanation": "Das trifft nicht zu. Richtig ist: Zu dem HERRN in seinen heiligen Tempel [ref:Jona 2:7]."
+          "text": "Zu den Ohren der Schiffsleute auf dem Schiffe",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Zu den Tiefen des Meeres unter dem Schiff",
-          "explanation": "Das trifft nicht zu. Richtig ist: Zu dem HERRN in seinen heiligen Tempel [ref:Jona 2:7]."
+          "text": "Zu den tiefen Abgründen unter den Meeresfluten",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Zu dem HERRN in seinen heiligen Tempel",
-          "explanation": "Da meine Seele bei mir verzagte, gedachte ich an den HERRN; und mein Gebet kam zu dir in deinen heiligen Tempel. [ref:Jona 2:7]."
+          "text": "Zu dem HERRN hinein in seinen heiligen Tempel",
+          "explanation": "",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Jona 2:7",
-      "explanation": "Da meine Seele bei mir verzagte, gedachte ich an den HERRN; und mein Gebet kam zu dir in deinen heiligen Tempel. [ref:Jona 2:7].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -543,26 +607,30 @@
       "options": [
         {
           "text": "Drei Tagereisen groß",
-          "explanation": "Da machte sich Jona auf und ging hin gen Ninive, wie der HERR gesagt hatte. Ninive aber war eine große Stadt vor Gott, drei Tagereisen groß. [ref:Jona 3:3]."
+          "explanation": "",
+          "isCorrect": true
         },
         {
           "text": "Sieben Tagereisen groß",
-          "explanation": "Das trifft nicht zu. Richtig ist: Drei Tagereisen groß [ref:Jona 3:3]."
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Eine Tagereise groß",
-          "explanation": "Das trifft nicht zu. Richtig ist: Drei Tagereisen groß [ref:Jona 3:3]."
+          "text": "Zehn Tagereisen groß",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Vierzig Tagereisen groß",
-          "explanation": "Das trifft nicht zu. Richtig ist: Drei Tagereisen groß [ref:Jona 3:3]."
+          "text": "Fünf Tagereisen groß",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Jona 3:3",
-      "explanation": "Da machte sich Jona auf und ging hin gen Ninive, wie der HERR gesagt hatte. Ninive aber war eine große Stadt vor Gott, drei Tagereisen groß. [ref:Jona 3:3].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -572,57 +640,65 @@
       "text": "Was ließ der König von Ninive nach Jona 3:7-8 für Mensch und Vieh ausrufen?",
       "options": [
         {
-          "text": "Das Vieh sollte aus der Stadt auf die Weiden getrieben werden",
-          "explanation": "Das trifft nicht zu. Richtig ist: Beide sollten nichts essen und trinken und Säcke um sich hüllen [ref:Jona 3:7-8]."
+          "text": "Das Vieh sollte sogleich aus den Toren auf grüne Weiden getrieben werden",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Beide sollten nichts essen und trinken und Säcke um sich hüllen",
-          "explanation": "und ließ ausrufen und sagen zu Ninive nach Befehl des Königs und seiner Gewaltigen also: Es sollen weder Mensch noch Vieh, weder Ochsen noch Schafe Nahrung nehmen, und man soll sie nicht weiden noch sie Wasser trinken lassen; [ref:Jona 3:7-8]."
+          "text": "Beide sollten keine Nahrung nehmen und Säcke um sich hüllen vor Gott",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Das Vieh sollte geschlachtet und den Göttern der Stadt geopfert werden",
-          "explanation": "Das trifft nicht zu. Richtig ist: Beide sollten nichts essen und trinken und Säcke um sich hüllen [ref:Jona 3:7-8]."
+          "text": "Das Vieh sollte feierlich geschmückt und den Stadtgöttern dargebracht werden",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Das Vieh sollte mit Gold und Purpur geschmückt werden",
-          "explanation": "Das trifft nicht zu. Richtig ist: Beide sollten nichts essen und trinken und Säcke um sich hüllen [ref:Jona 3:7-8]."
+          "text": "Beide sollten Wein trinken und ein großes Freudengeschrei anstimmen im Tor",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Jona 3:7-8",
-      "explanation": "und ließ ausrufen und sagen zu Ninive nach Befehl des Königs und seiner Gewaltigen also: Es sollen weder Mensch noch Vieh, weder Ochsen noch Schafe Nahrung nehmen, und man soll sie nicht weiden noch sie Wasser trinken lassen; [ref:Jona 3:7-8].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "jon_020",
       "type": "single_choice",
-      "text": "Was tat Jona nach Jona 4:5 außerhalb der Stadt?",
+      "text": "Was tat Jona nach Jona 4:5 morgenwärts von der Stadt?",
       "options": [
         {
-          "text": "Er baute einen Altar und dankte dem HERRN für die Rettung der ganzen Stadt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er machte sich eine Hütte und wartete im Schatten ab, was der Stadt widerfahren würde [ref:Jona 4:5]."
+          "text": "Er baute einen Altar aus Steinen und dankte für die Errettung der Bürger",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Er zog weiter und floh zum zweiten Mal in Richtung Tarsis am Meer",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er machte sich eine Hütte und wartete im Schatten ab, was der Stadt widerfahren würde [ref:Jona 4:5]."
+          "text": "Er zog traurig weiter und wanderte gen Tharsis, um dem HERRN zu entfliehen",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Er machte sich eine Hütte und wartete im Schatten ab, was der Stadt widerfahren würde",
-          "explanation": "Und Jona ging zur Stadt hinaus und setzte sich morgenwärts von der Stadt und machte sich daselbst eine Hütte; darunter setzte er sich in den Schatten, bis er sähe, was der Stadt widerfahren würde. [ref:Jona 4:5]."
+          "text": "Er machte sich eine Hütte und saß im Schatten, bis er sähe, was geschähe",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Er kehrte um und predigte noch weitere vierzig Tage in den Straßen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er machte sich eine Hütte und wartete im Schatten ab, was der Stadt widerfahren würde [ref:Jona 4:5]."
+          "text": "Er ging durch alle Straßen und rief das Volk erneut zu ernster Buße auf",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Jona 4:5",
-      "explanation": "Und Jona ging zur Stadt hinaus und setzte sich morgenwärts von der Stadt und machte sich daselbst eine Hütte; darunter setzte er sich in den Schatten, bis er sähe, was der Stadt widerfahren würde. [ref:Jona 4:5].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     }

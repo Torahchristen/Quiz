@@ -1,0 +1,713 @@
+{
+  "metadata": {
+    "quizId": "bibel_32_jona_en",
+    "title": "Jonah",
+    "subtitle": "Jonah 1:1 – 4:11 (20 questions)",
+    "description": "Questions on the Book of Jonah according to the King James Version (1769).",
+    "author": "King James Version (1769)",
+    "version": "1.0.0",
+    "language": "en",
+    "category": "propheten",
+    "difficulty": "medium",
+    "tags": [
+      "Jonah",
+      "OT",
+      "prophets",
+      "KJV"
+    ],
+    "questionCount": 20,
+    "canonicalBookNumber": 32,
+    "testament": "OT"
+  },
+  "questions": [
+    {
+      "questionId": "jon_001",
+      "type": "single_choice",
+      "text": "Whither did Jonah seek to flee from the presence of the LORD (Jonah 1:3)?",
+      "options": [
+        {
+          "text": "Unto Nineveh, on a ship from Joppa",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto Tarshish, on a ship from Joppa",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Unto Egypt, on a ship from Joppa",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto Babylon, on a ship from Joppa",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jonah 1:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jon_002",
+      "type": "single_choice",
+      "text": "What did the mariners do during the tempest (Jonah 1:5)?",
+      "options": [
+        {
+          "text": "They rowed hard toward land and called upon their gods for deliverance",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They prayed unto the LORD and fasted until the tempest was appeased",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They cried every man unto his god, and cast the wares into the sea",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "They awoke the shipmaster and cut down the sail together with the mast",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Jonah 1:5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jon_003",
+      "type": "single_choice",
+      "text": "What happened when they cast Jonah forth into the sea (Jonah 1:15-16)?",
+      "options": [
+        {
+          "text": "The ship sank at once, and the men swam with great peril to the land",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The tempest increased exceedingly, and the men were yet more afraid",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The mariners took him up again, and the wind ceased from blowing",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The sea ceased from her raging, and the men feared the LORD greatly",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Jonah 1:15-16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jon_004",
+      "type": "single_choice",
+      "text": "How long was Jonah in the belly of the fish (Jonah 1:17)?",
+      "options": [
+        {
+          "text": "Three days and three nights",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Seven days and seven nights",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Twenty days and twenty nights",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "One whole day and a night",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Jonah 1:17",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "jon_005",
+      "type": "single_choice",
+      "text": "How does Jonah describe his affliction in the fish's belly (Jonah 2:6)?",
+      "options": [
+        {
+          "text": "I wandered in the wilderness, and burning sand covered me completely",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I went down to the bottoms of the mountains; the earth was about me",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "I was compassed with flames, and fire consumed me almost to the death",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I fell into a darksome pit, and the rock shut out all breath of life",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jonah 2:6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jon_006",
+      "type": "single_choice",
+      "text": "With what words does Jonah conclude his prayer (Jonah 2:9)?",
+      "options": [
+        {
+          "text": "I will offer costly sacrifices",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Blessed be the name of the LORD",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Salvation is of the LORD alone",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The LORD hath afflicted me sore",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Jonah 2:9",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jon_007",
+      "type": "single_choice",
+      "text": "What proclamation did Jonah cry in Nineveh (Jonah 3:4)?",
+      "options": [
+        {
+          "text": "Nineveh shall fall, and adversaries shall burn her high towers",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Repent and weep, or sudden death shall come upon you all",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The LORD is full of grace, turn ye every one from evil ways",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Yet forty days, and Nineveh shall be overthrown",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Jonah 3:4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "jon_008",
+      "type": "single_choice",
+      "text": "How did the king of Nineveh react to the word (Jonah 3:6)?",
+      "options": [
+        {
+          "text": "He arose from his throne, laid his robe from him, and sat in ashes",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He caused the prophet to be bound and cast into prison for evil words",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He mocked the strange message and commanded his idols to be praised",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He gathered all his host of war and prepared for battle at the gates",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Jonah 3:6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jon_009",
+      "type": "single_choice",
+      "text": "How did God respond to the turning of the people of Nineveh (Jonah 3:10)?",
+      "options": [
+        {
+          "text": "He punished them nevertheless, because their iniquity was exceeding great",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "God repented of the evil, that he had said he would do, and did it not",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He kept silence and suffered them to perish in anguish and great fear",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He demanded greater oblations from the people before he granted pardon",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jonah 3:10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jon_010",
+      "type": "single_choice",
+      "text": "Why was Jonah displeased at the sparing of Nineveh (Jonah 4:2)?",
+      "options": [
+        {
+          "text": "Because he was ashamed that his prophecy concerning Nineveh came not to pass",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because he feared to lose his reputation and honour among all holy prophets",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because he knew that God is gracious, merciful, and of great kindness",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Because he deemed all his long journey and weary labor to have been in vain",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Jonah 4:2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jon_011",
+      "type": "single_choice",
+      "text": "What did God prepare for Jonah beside the city (Jonah 4:6-8)?",
+      "options": [
+        {
+          "text": "A spring of cool water to refresh him, and a gentle wind out of the west",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A cave in the rocks against the burning heat, and a dark cloud in heaven",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A booth of cypress boughs, and a fruitful tree yielding pleasant shadow",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A gourd to be a shadow, and then a worm and a vehement east wind",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Jonah 4:6-8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jon_012",
+      "type": "single_choice",
+      "text": "With what question does the Book of Jonah conclude (Jonah 4:11)?",
+      "options": [
+        {
+          "text": "Should not I spare Nineveh, that great city of more than 120,000 persons?",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Why wilt thou contend with thy Maker, Jonah, and be angry at his mercy?",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Thinkest thou that thine anger is just concerning this great heathen city?",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Wilt thou be my judge, Jonah, and forbid me to save that which was lost?",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Jonah 4:11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "jon_013",
+      "type": "ordering",
+      "text": "Put these events from the Book of Jonah in the correct chronological order.",
+      "options": [
+        {
+          "text": "Jonah prayeth in the belly of the fish",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "In the tempest the lot falleth on Jonah",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Jonah taketh ship at Joppa for Tarshish",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The gourd withereth away by the worm",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The mariners cast Jonah into the sea",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2,
+        1,
+        4,
+        0,
+        3
+      ],
+      "bibleReference": "Jonah 1:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jon_014",
+      "type": "single_choice",
+      "text": "How did Jonah identify himself to the mariners (Jonah 1:9)?",
+      "options": [
+        {
+          "text": "I am an Hebrew; and I fear the LORD, the God of heaven",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "I am a Syrian, serving the everlasting Maker of heaven",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I am a Phoenician, fearing the LORD who created earth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I am a trader from Joppa, following the LORD on the sea",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Jonah 1:9",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jon_015",
+      "type": "single_choice",
+      "text": "Where was Jonah during the great tempest (Jonah 1:5)?",
+      "options": [
+        {
+          "text": "He stood upon the deck and looked out on the foaming sea",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He was gone down into the sides of the ship, and slept",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He helped the mariners to lighten the vessel of its wares",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He knelt before the shipmaster and prayed for deliverance",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jonah 1:5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jon_016",
+      "type": "single_choice",
+      "text": "What counsel did Jonah give to the mariners (Jonah 1:12)?",
+      "options": [
+        {
+          "text": "They should turn back and row hard to bring the ship to land",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They should furl all sails quickly and cast out the rudder",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Take me up, and cast me into the sea; so shall it be calm",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "They should offer a solemn sacrifice and call upon his God",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Jonah 1:12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jon_017",
+      "type": "single_choice",
+      "text": "Whither did Jonah's prayer come according to Jonah 2:7?",
+      "options": [
+        {
+          "text": "Unto the high mountain tops towering over the deep",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto the ears of the mariners upon the tossed vessel",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto the deep depths beneath the waters of the ocean",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto the LORD, into his holy temple in the heavens",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Jonah 2:7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "jon_018",
+      "type": "single_choice",
+      "text": "How large was the city of Nineveh according to Jonah 3:3?",
+      "options": [
+        {
+          "text": "An exceeding great city of three days' journey",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "An exceeding great city of seven days' journey",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "An exceeding great city of ten days' journey",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "An exceeding great city of five days' journey",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Jonah 3:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "jon_019",
+      "type": "single_choice",
+      "text": "What decree did the king of Nineveh publish for man and beast (Jonah 3:7-8)?",
+      "options": [
+        {
+          "text": "The cattle should be driven forth out of the city gates into pastures",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Let neither taste any thing, nor drink water, but be covered in sackcloth",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The beasts should be adorned and offered in sacrifice to ancient gods",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Both should drink wine and raise a joyful shout in the market places",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jonah 3:7-8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "jon_020",
+      "type": "single_choice",
+      "text": "What did Jonah do on the east side of the city (Jonah 4:5)?",
+      "options": [
+        {
+          "text": "He built an altar of stones and praised God for saving the citizens",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He departed in sorrow and journeyed toward Tarshish to flee again",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He made him a booth, and sat under it in shadow, to see what became",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He walked through all the streets, crying once more unto repentance",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Jonah 4:5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    }
+  ]
+}

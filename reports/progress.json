@@ -1,7 +1,7 @@
 {
   "branch": "review-and-english",
   "totalFiles": 66,
-  "completedCount": 31,
+  "completedCount": 32,
   "completedFiles": [
     "01_1_mose.json",
     "02_2_mose.json",
@@ -33,10 +33,10 @@
     "28_hosea.json",
     "29_joel.json",
     "30_amos.json",
-    "31_obadja.json"
+    "31_obadja.json",
+    "32_jona.json"
   ],
   "pendingFiles": [
-    "32_jona.json",
     "33_micha.json",
     "34_nahum.json",
     "35_habakuk.json",
@@ -289,6 +289,13 @@
       "explanationsReviewedEn": 0,
       "reportPath": "reports/31_obadja.md",
       "enPath": "en/31_obadja.json"
+    },
+    "32_jona.json": {
+      "questionsCount": 20,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/32_jona.md",
+      "enPath": "en/32_jona.json"
     }
   }
 }
