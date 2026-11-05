@@ -44,7 +44,8 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
 | `36_zephanja.json` | 18 | 10 | 1 | 8 | 5 |
 | `37_haggai.json` | 14 | 7 | 0 | 5 | 3 |
 | `38_sacharja.json` | 42 | 19 | 2 | 19 | 0 |
-| **Gesamt (38 Dateien)** | **3404** | **1565** | **1026** | **1414** | **87** |
+| `39_maleachi.json` | 20 | 5 | 0 | 5 | 0 |
+| **Gesamt (39 Dateien)** | **3424** | **1570** | **1026** | **1419** | **87** |
 
 ## 01_1_mose.json – 1. Mose (Genesis) (Schlachter (Revision von 1951))
 
@@ -22199,3 +22200,59 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
   - **Option D (Falsch):**
     - **Vorher:** Der Hirte wird zurückkehren, und die Herde wird ihn wieder erkennen
     - **Nachher:** Der Hirte zieht in die Fremde, und die Schafe folgen seinen Tritten
+
+## 39_maleachi.json – Maleachi (Luther 1912)
+
+### `mal_002` (Maleachi 1:7-8)
+- **Frage:** Welche Entweihung wirft der HERR den Priestern in Maleachi 1:7-8 vor?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Sie opferten Blindes, Lahmes und Krankes
+    - **Nachher:** Sie opferten ein Blindes, ein Lahmes oder Krankes auf dem Altar
+
+### `mal_012` (Maleachi 4:5-6)
+- **Frage:** Mit welcher Ankündigung schließt das Alte Testament (Maleachi 4:5-6)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Der Prophet Elia wird gesandt, bevor der große und schreckliche Tag des HERRN kommt
+    - **Nachher:** Der Prophet Elia wird gesandt, ehe der große Tag des HERRN kommt
+  - **Option B (Falsch):**
+    - **Vorher:** Der Messias wird erscheinen, bevor der große und schreckliche Tag des HERRN kommt
+    - **Nachher:** Ein neuer Tempel wird erbaut, ehe der große und schwere Tag kommt
+  - **Option C (Falsch):**
+    - **Vorher:** Der Tempel wird neu gebaut, bevor der große und schreckliche Tag des HERRN kommt
+    - **Nachher:** Ein König aus Juda wird aufstehen, ehe das Gericht heraufzieht
+  - **Option D (Falsch):**
+    - **Vorher:** Das Gericht ist nahe, und der große und schreckliche Tag des HERRN bricht an
+    - **Nachher:** Alle Völker werden sich beugen, ehe das Ende aller Zeiten naht
+
+### `mal_014` (Maleachi 1:14)
+- **Frage:** Wen verflucht der HERR nach Maleachi 1:14?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Den Betrüger, der ein Gelübde tut und dem Herrn dann ein untüchtiges Tier opfert
+    - **Nachher:** Den Betrüger, der ein Gelübde tut und dem HERRN dann ein untüchtiges opfert
+
+### `mal_017` (Maleachi 3:5)
+- **Frage:** Wider wen will der HERR nach Maleachi 3:5 ein schneller Zeuge sein?
+- **Richtige Antwort (unverändert, Option D):** Wider die, die Witwen und Waisen Unrecht tun
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Wider die Zauberer und Ehebrecher
+    - **Nachher:** Wider die Zauberer, Ehebrecher und Meineidigen
+
+### `mal_018` (Maleachi 3:6)
+- **Frage:** Was sagt der HERR nach Maleachi 3:6 über sich selbst?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Ich bin der HERR und wandle mich nicht
+    - **Nachher:** Ich bin der HERR und wandle mich nicht in Ewigkeit
+  - **Option A (Falsch):**
+    - **Vorher:** Ich bin der HERR und ziehe mich von euch zurück
+    - **Nachher:** Ich bin der HERR und ziehe mich von meinem Volk zurück
+  - **Option B (Falsch):**
+    - **Vorher:** Ich bin der HERR und ändere meinen Bund mit jedem Geschlecht
+    - **Nachher:** Ich bin der HERR und ändere den Bund mit den Geschlechtern
+  - **Option C (Falsch):**
+    - **Vorher:** Ich bin der HERR und vergesse die Sünden der Väter nie
+    - **Nachher:** Ich bin der HERR und vergesse die Missetat der Väter nicht
