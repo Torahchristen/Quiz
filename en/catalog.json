@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-11-05T20:16:08Z",
+  "lastUpdated": "2026-11-05T20:18:58Z",
   "language": "en",
   "categories": [
     {
@@ -657,6 +657,25 @@
       ],
       "sizeBytes": 20435,
       "downloadUrl": "./en/32_jona.json"
+    },
+    {
+      "quizId": "bibel_33_micha_en",
+      "category": "propheten",
+      "title": "Micah",
+      "subtitle": "Micah 1:1 – 7:20 (21 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "1.0.0",
+      "questionCount": 21,
+      "difficulty": "medium",
+      "tags": [
+        "Micah",
+        "OT",
+        "prophets",
+        "KJV"
+      ],
+      "sizeBytes": 21924,
+      "downloadUrl": "./en/33_micha.json"
     }
   ]
 }

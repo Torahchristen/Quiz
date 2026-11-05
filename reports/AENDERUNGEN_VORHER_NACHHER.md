@@ -38,7 +38,8 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
 | `30_amos.json` | 27 | 24 | 18 | 22 | 2 |
 | `31_obadja.json` | 10 | 10 | 7 | 10 | 0 |
 | `32_jona.json` | 20 | 20 | 15 | 20 | 7 |
-| **Gesamt (32 Dateien)** | **3275** | **1482** | **995** | **1335** | **69** |
+| `33_micha.json` | 21 | 21 | 17 | 21 | 2 |
+| **Gesamt (33 Dateien)** | **3296** | **1503** | **1012** | **1356** | **71** |
 
 ## 01_1_mose.json – 1. Mose (Genesis) (Schlachter (Revision von 1951))
 
@@ -21001,3 +21002,348 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
   - **Option D (Falsch):**
     - **Vorher:** Er kehrte um und predigte noch weitere vierzig Tage in den Straßen
     - **Nachher:** Er ging durch alle Straßen und rief das Volk erneut zu ernster Buße auf
+
+## 33_micha.json – Micha (Luther 1912)
+
+### `mi_001` (Micha 1:3-4)
+- **Frage Vorher:** Wie schildert Micha 1:3-4 das Kommen des HERRN zum Gericht?
+- **Frage Nachher:** Wie schildert Micha 1:3-4 das Kommen des HERRN?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Der HERR geht aus von seinem Ort, fährt herab und tritt auf die Höhen; die Berge zerschmelzen
+    - **Nachher:** Der HERR tritt auf die Höhen im Lande, dass die Berge unter ihm schmelzen
+  - **Option A (Falsch):**
+    - **Vorher:** Der HERR kommt in einer Wolke und spricht zum Volk von den Bergen herab, während alle zuhören
+    - **Nachher:** Der HERR kommt in einer Wolke und redet von den Bergen herab zu allem Volk
+  - **Option C (Falsch):**
+    - **Vorher:** Der HERR sendet Engel mit dem Schwert, die das Land verwüsten und die Städte zerstören
+    - **Nachher:** Der HERR sendet seine Engel aus, die das Land verwüsten und die Städte strafen
+  - **Option D (Falsch):**
+    - **Vorher:** Der HERR erscheint in einem Feuerwagen und fährt über die Berge, bis das Land bebt
+    - **Nachher:** Der HERR erscheint auf feurigem Wagen und erschüttert die Fundamente der Erde
+
+### `mi_002` (Micha 1:5)
+- **Frage Vorher:** Was nennt Micha 1:5 als Ursache des Gerichts?
+- **Frage Nachher:** Was nennt Micha 1:5 als die Übertretung Jakobs und die Höhen Judas?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Die Übertretung Jakobs, nämlich Samaria, und die Höhen Judas, nämlich Jerusalem
+    - **Nachher:** Samaria als Übertretung Jakobs und Jerusalem als Höhen Judas
+  - **Option A (Falsch):**
+    - **Vorher:** Der Ungehorsam der Nachbarvölker und ihre Götzen, die auch Israel verführen
+    - **Nachher:** Das Volk der Nachbarn und ihre fremden Götzenaltäre auf den Bergen
+  - **Option B (Falsch):**
+    - **Vorher:** Die Zerstörung des Tempels und das Ausbleiben der Opfer an den Festtagen
+    - **Nachher:** Der Tempelraub der Fremden und das Aufhören aller heiligen Opfer
+  - **Option D (Falsch):**
+    - **Vorher:** Die Verachtung der Priester und der Gebote, die das Volk lange missachtete
+    - **Nachher:** Die Missachtung der Priester und das Brechen der Gebote im Land
+
+### `mi_003` (Micha 1:9)
+- **Frage Vorher:** Wie weit reicht nach Micha 1:9 die unheilbare Plage?
+- **Frage Nachher:** Wie weit reicht nach Micha 1:9 die Plage?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Bis nach Juda, bis an das Tor meines Volks, bis nach Jerusalem
+    - **Nachher:** Bis gen Juda, bis an meines Volkes Tor, bis Jerusalem
+  - **Option A (Falsch):**
+    - **Vorher:** Bis an die Grenze Edoms und bis in die Wüste, bis zum Rand des Landes
+    - **Nachher:** Bis an die Grenzen von Edom und in die weite Wüste hinaus
+  - **Option B (Falsch):**
+    - **Vorher:** Bis nach Ägypten und bis an den Nil, wo das Volk einst gewohnt hatte
+    - **Nachher:** Bis in das ferne Ägypten und an die tiefen Wasser des Stroms
+  - **Option C (Falsch):**
+    - **Vorher:** Bis zum Jordan und bis zum Toten Meer, die Grenze des Gebiets
+    - **Nachher:** Bis an den Jordan und an die Ufer des weiten Salzmeeres
+
+### `mi_004` (Micha 2:1-2)
+- **Frage Vorher:** Welche Gewalttat der Mächtigen verurteilt Micha 2:1-2?
+- **Frage Nachher:** Welche Missetat verurteilt Micha 2:1-2?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Sie ersinnen auf ihrem Lager Unheil und rauben früh am Morgen Äcker und Häuser
+    - **Nachher:** Sie trachten auf ihrem Lager nach Schaden und reißen Äcker an sich
+  - **Option B (Falsch):**
+    - **Vorher:** Sie verweigern den Zehnten und betrügen den Tempel um die Gaben der Frommen
+    - **Nachher:** Sie verweigern den Zehnten und betrügen den Tempel um die Zehnten
+  - **Option C (Falsch):**
+    - **Vorher:** Sie opfern auf den Höhen und beten Götzen an, statt dem HERRN zu dienen
+    - **Nachher:** Sie opfern auf den Höhen und verehren stumme Götzen aus Holz und Erz
+  - **Option D (Falsch):**
+    - **Vorher:** Sie verkaufen Sklaven und rauben die Waisen aus, die niemanden haben, der sie schützt
+    - **Nachher:** Sie verkaufen Sklaven an Heiden und verstoßen die Waisen aus dem Tor
+
+### `mi_005` (Micha 2:6)
+- **Frage Vorher:** Was sagten die falschen Führer zu Micha nach Micha 2:6?
+- **Frage Nachher:** Was sagen sie nach Micha 2:6 zu den weissagenden Propheten?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Predigt nicht! solche Predigt trifft uns nicht
+    - **Nachher:** Predigt nicht! Denn solche Predigt trifft uns ja nicht
+  - **Option A (Falsch):**
+    - **Vorher:** Predigt mehr von Frieden, denn solche Predigt hilft uns
+    - **Nachher:** Predigt mehr von ewigem Frieden, denn das erfreut uns
+  - **Option C (Falsch):**
+    - **Vorher:** Predigt nur im Tempel, nicht auf den Gassen
+    - **Nachher:** Predigt nur im Tempel, aber schweigt auf unseren Gassen
+  - **Option D (Falsch):**
+    - **Vorher:** Predigt den Königen, nicht dem Volk
+    - **Nachher:** Predigt vor den Fürsten, aber lasst das Volk in Ruhe
+
+### `mi_006` (Micha 2:12-13)
+- **Frage Vorher:** Welche Verheißung gibt Micha 2:12-13?
+- **Frage Nachher:** Welche Verheißung gibt Micha 2:13 für den Auszug des Restes?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Ein Durchbrecher zieht vor ihnen her, ihr König geht voran und der HERR an der Spitze
+    - **Nachher:** Ein Durchbrecher zieht vor ihnen her, und der HERR geht vornean
+  - **Option A (Falsch):**
+    - **Vorher:** Ein Engel befreit sie aus der Gefangenschaft und führt sie wieder heim ins Land
+    - **Nachher:** Ein Engel des Himmels führt sie aus der Knechtschaft wieder heim
+  - **Option B (Falsch):**
+    - **Vorher:** Ein Hirte sammelt sie im Tal und treibt sie gemeinsam hinauf nach Zion
+    - **Nachher:** Ein treuer Hirte weidet sie und bringt sie sicher auf den Zion
+  - **Option D (Falsch):**
+    - **Vorher:** Ein Prophet führt sie nach Zion und baut ihnen dort ein sicheres Haus
+    - **Nachher:** Ein weiser Prophet leitet sie und baut ihnen ein festes Heiligtum
+
+### `mi_007` (Micha 3:2-3)
+- **Frage Vorher:** Mit welchem Bild prangert Micha 3:2-3 die Unterdrücker an?
+- **Frage Nachher:** Mit welchem Bild klagt Micha 3:2-3 die Fürsten des Hauses Israel an?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Sie schinden ihnen die Haut ab, zerbrechen die Gebeine und zerlegen sie wie in einem Topf
+    - **Nachher:** Sie schinden ihnen die Haut ab und zerlegen sie wie in einen Topf
+  - **Option A (Falsch):**
+    - **Vorher:** Sie sperren sie in Gruben und lassen sie dort verhungern und im Dunkeln zurück
+    - **Nachher:** Sie werfen die Notleidenden in Gruben und lassen sie schmachten
+  - **Option B (Falsch):**
+    - **Vorher:** Sie fressen die Ernte auf den Feldern und lassen den Armen nichts mehr übrig
+    - **Nachher:** Sie fressen die Ernten ab und lassen den Armen gar nichts übrig
+  - **Option C (Falsch):**
+    - **Vorher:** Sie schlagen sie mit Ruten und nehmen ihnen zuletzt auch das Brot weg
+    - **Nachher:** Sie schlagen die Gerechten mit Ruten und rauben ihr letztes Gut
+
+### `mi_008` (Micha 3:5)
+- **Frage:** Wie entlarvt Micha 3:5 die falschen Propheten?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Sie predigen Frieden, wo man ihnen zu fressen gibt, und erklären Krieg, wo man nichts gibt
+    - **Nachher:** Sie predigen Frieden, wo man ihnen gibt; sonst rüsten sie zum Krieg
+  - **Option B (Falsch):**
+    - **Vorher:** Sie weissagen nur bei Nacht und verbergen sich am Tag, damit niemand sie erkennt
+    - **Nachher:** Sie weissagen heimlich bei Nacht und verbergen sich vor dem Tage
+  - **Option C (Falsch):**
+    - **Vorher:** Sie verkünden stets Unheil und drohen jedem mit dem Gericht, der sie nicht ehrt
+    - **Nachher:** Sie verkünden lauter Unheil und drohen jedem, der sie nicht ehrt
+  - **Option D (Falsch):**
+    - **Vorher:** Sie schweigen vor dem König und reden nur zum Volk, wo es sie nichts kostet
+    - **Nachher:** Sie schweigen vor dem König und schmeicheln den Reichen um Lohn
+
+### `mi_009` (Micha 3:12)
+- **Frage Vorher:** Welches Wort Michas rettete später Jeremia das Leben (Micha 3:12)?
+- **Frage Nachher:** Welches Gerichtswort spricht Micha 3:12 über Zion und Jerusalem?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Zion wird wie ein Acker gepflügt werden, und Jerusalem wird zum Steinhaufen
+    - **Nachher:** Zion wird wie ein Acker gepflügt, und Jerusalem wird zum Steinhaufen
+  - **Option A (Falsch):**
+    - **Vorher:** Jerusalem wird ewig bestehen, und der Tempel bleibt für immer unversehrt
+    - **Nachher:** Zion wird ewig stehen, und der Tempel wird niemals angetastet werden
+  - **Option C (Falsch):**
+    - **Vorher:** Der Tempel wird neu gebaut werden, und die Stadt wird wieder groß und herrlich
+    - **Nachher:** Der Tempel wird neu gebaut, und die Stadt wird über die Heiden herrschen
+  - **Option D (Falsch):**
+    - **Vorher:** Juda wird Babel besiegen, und Zion wird über alle Völker herrschen
+    - **Nachher:** Zion wird von Engeln beschirmt, und kein Feind wird je einziehen dürfen
+
+### `mi_010` (Micha 4:1-2)
+- **Frage:** Was schaut Micha 4:1 für die letzten Tage?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Der Berg des Hauses des HERRN steht fest, höher als alle Berge, und die Völker laufen dazu
+    - **Nachher:** Der Berg des Hauses des HERRN wird fest stehen, höher als alle Hügel
+  - **Option A (Falsch):**
+    - **Vorher:** Die Völker meiden Zion, und der Berg des Hauses des HERRN bleibt öde und leer
+    - **Nachher:** Die Völker werden Zion meiden, und der Tempelberg wird ganz verlassen
+  - **Option B (Falsch):**
+    - **Vorher:** Der Tempelberg wird eingeebnet, und die Stadt geht mit allen Häusern unter
+    - **Nachher:** Der Berg des HERRN wird versinken, und das Volk flieht in alle Länder
+  - **Option D (Falsch):**
+    - **Vorher:** Der Tempel wird auf einen anderen Berg verlegt, und der alte wird verlassen
+    - **Nachher:** Ein irdischer König baut eine eherne Feste auf den Bergen von Ephraim
+
+### `mi_011` (Micha 4:3-4)
+- **Frage Vorher:** Welches Friedensbild zeichnet Micha 4:3-4?
+- **Frage Nachher:** Wie wird der Friede der Völker in Micha 4:3-4 beschrieben?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Sie schmieden Schwerter zu Pflugscharen und sitzen jeder unter seinem Weinstock und Feigenbaum
+    - **Nachher:** Sie machen Schwerter zu Pflugscharen und sitzen unter dem Weinstock
+  - **Option A (Falsch):**
+    - **Vorher:** Sie ziehen in den Krieg ohne Furcht und siegen überall, wo sie auftreten und kämpfen
+    - **Nachher:** Sie werfen ihre Schwerter ins tiefe Meer und bauen Mauern um die Tore
+  - **Option B (Falsch):**
+    - **Vorher:** Sie bauen aus Spießen Tore und aus Schwertern Riegel, um die Städte zu schützen
+    - **Nachher:** Sie machen Tore aus Spießen und eiserne Riegel, um ihr Gut zu sichern
+  - **Option C (Falsch):**
+    - **Vorher:** Sie tauschen Waffen gegen Gold und handeln mit allen Völkern ringsumher friedlich
+    - **Nachher:** Sie kaufen fremde Waffen auf und handeln friedlich mit allen Nachbarn
+
+### `mi_012` (Micha 4:10)
+- **Frage Vorher:** Wohin muss die Tochter Zion nach Micha 4:10 zunächst ziehen?
+- **Frage Nachher:** Wohin muss die Tochter Zion nach Micha 4:10 ziehen, ehe sie errettet wird?
+- **Richtige Antwort (unverändert, Option A):** Zur Stadt hinaus auf das Feld und gen Babel, wo sie errettet wird
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** In die Wüste Juda, wo sie vor dem Feind sicher ist und rastet
+    - **Nachher:** In die Wüste Juda hinaus, wo sie vor dem Feinde sicher wohnen kann
+  - **Option C (Falsch):**
+    - **Vorher:** Nach Ägypten, wo sie Zuflucht und Brot für ihre Kinder findet
+    - **Nachher:** Nach Ägypten hinab, wo sie Zuflucht und Schutz vor dem Kriege findet
+  - **Option D (Falsch):**
+    - **Vorher:** Auf den Berg Karmel, wo sie ein neues Heiligtum bauen wird
+    - **Nachher:** Auf das Gebirge Karmel, wo sie ein neues Heiligtum bauen und weihen soll
+
+### `mi_013` (Micha 5:2)
+- **Frage Vorher:** Welcher Ort wird in Micha 5:2 als Herkunft des Herrschers genannt?
+- **Frage Nachher:** Welcher Ort wird in Micha 5:2 als Herkunft des Herrschers verheißen?
+- **Richtige Antwort (unverändert, Option B):** Bethlehem Ephrata
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Falsch):**
+    - **Vorher:** Silo in Ephraim
+    - **Nachher:** Silo im Land Ephraim
+
+### `mi_014` (Micha 5:4)
+- **Frage Vorher:** Wie wird der künftige Herrscher in Micha 5:4 beschrieben?
+- **Frage Nachher:** Wie wird das Wirken des Herrschers in Micha 5:4 beschrieben?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Er wird auftreten und weiden in der Kraft des HERRN und im Sieg seines Namens
+    - **Nachher:** Er wird auftreten und weiden in der Kraft und im Sieg des Namens des HERRN
+  - **Option A (Falsch):**
+    - **Vorher:** Er wird als Priester dienen und das Opfer darbringen im Heiligtum des HERRN
+    - **Nachher:** Er wird als Priester opfern und das Heiligtum reinigen von aller Schuld
+  - **Option B (Falsch):**
+    - **Vorher:** Er wird mit dem Schwert herrschen und alle Feinde Israels erschlagen
+    - **Nachher:** Er wird mit scharfem Schwert herrschen und alle Feinde im Lande schlagen
+  - **Option D (Falsch):**
+    - **Vorher:** Er wird im Verborgenen wirken und nur den Demütigen im Land bekannt sein
+    - **Nachher:** Er wird im Verborgenen bleiben und nur den Gerechten im Lande nahe sein
+
+### `mi_015` (Micha 5:7-8)
+- **Frage:** Mit welchen zwei Bildern beschreibt Micha 5:7-8 den Rest Jakobs?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Wie Tau vom HERRN und wie ein junger Löwe unter den Schafen
+    - **Nachher:** Wie ein Tau vom HERRN und wie ein junger Löwe im Walde
+  - **Option A (Falsch):**
+    - **Vorher:** Wie ein Adler, der die Beute fängt, und wie ein Hirte, der die Herde sammelt
+    - **Nachher:** Wie ein Adler am Himmel und wie ein Hirte bei seiner Herde
+  - **Option B (Falsch):**
+    - **Vorher:** Wie Sterne am Himmel und wie Sand am Meer
+    - **Nachher:** Wie die Sterne am Himmel und wie der Sand an dem Meere
+  - **Option C (Falsch):**
+    - **Vorher:** Wie Feuer und wie Wasser unter den Völkern
+    - **Nachher:** Wie ein verzehrendes Feuer und wie eine reißende Flut
+
+### `mi_016` (Micha 6:1-3)
+- **Frage Vorher:** Wozu ruft der HERR sein Volk in Micha 6:1-3 auf?
+- **Frage Nachher:** Wozu fordert der HERR sein Volk in Micha 6:1-3 auf?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Zum Rechtsstreit vor den Bergen: Was habe ich dir getan, mein Volk?
+    - **Nachher:** Zum Rechten vor den Bergen: Mein Volk, was habe ich dir getan?
+  - **Option B (Falsch):**
+    - **Vorher:** Zum Opfer im Heiligtum, damit der HERR sich mit dem Volk versöhnen lasse
+    - **Nachher:** Zum Opfern im Heiligtum, damit der HERR sich gnädig erweise
+  - **Option C (Falsch):**
+    - **Vorher:** Zum Fasten und Klagen in Sack und Asche, damit der Zorn des HERRN weiche
+    - **Nachher:** Zum Klagen in Sack und Asche, damit der Grimm des HERRN weiche
+  - **Option D (Falsch):**
+    - **Vorher:** Zum Krieg gegen die Feinde Israels, damit das Land gerettet werde
+    - **Nachher:** Zum Streit wider die Heiden, damit das ganze Land errettet werde
+
+### `mi_017` (Micha 6:8)
+- **Frage Vorher:** Was fordert der HERR von dir nach Micha 6:8?
+- **Frage Nachher:** Was fordert der HERR vom Menschen nach Micha 6:8?
+- **Richtige Antwort (unverändert, Option B):** Gottes Wort halten, Liebe üben und demütig sein vor deinem Gott
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Brandopfer bringen und fasten, damit der HERR gnädig sei
+    - **Nachher:** Brandopfer schlachten und fasten, damit der Schöpfer gnädig sei
+  - **Option C (Falsch):**
+    - **Vorher:** Den Zehnten geben und die Feste halten wie vorgeschrieben
+    - **Nachher:** Den Zehnten geben und die hohen Feste nach Gebot treu feiern
+  - **Option D (Falsch):**
+    - **Vorher:** Täglich im Tempel beten und die Gebote auswendig lernen
+    - **Nachher:** Täglich im Heiligtum beten und die Satzungen der Väter lehren
+
+### `mi_018` (Micha 6:10-16)
+- **Frage Vorher:** Welche Missstände tadelt der HERR in Micha 6:10-16?
+- **Frage Nachher:** Welche Sünden rügt der HERR in Micha 6:10-16?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Unrecht Gut, das geringe Maß und die Weise Omris
+    - **Nachher:** Unrechtes Gut, das geringe Maß und das Halten der Weise Omris
+  - **Option A (Falsch):**
+    - **Vorher:** Götzenbilder auf den Höhen und Hurerei im Heiligtum
+    - **Nachher:** Götzendienst auf den Bergen und fremde Altäre in allen Städten
+  - **Option B (Falsch):**
+    - **Vorher:** Mangelnde Opfer, versäumte Feiertage und fehlende Gaben
+    - **Nachher:** Mangelnde Opfer am Altar und Verachtung der heiligen Festtage
+  - **Option D (Falsch):**
+    - **Vorher:** Falsche Zeugen vor Gericht und bestochene Richter
+    - **Nachher:** Falsche Zeugnisse vor Gericht und die Bestechung der Richter
+
+### `mi_019` (Micha 7:2)
+- **Bibelstelle Vorher:** `Micha 7:1-6` -> **Nachher:** `Micha 7:2`
+- **Frage Vorher:** Wie klagt Micha 7:2 über die Gesellschaft?
+- **Frage Nachher:** Wie klagt der Prophet in Micha 7:2 über die Menschen im Lande?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Die Frommen sind weg im Land, und alle lauern auf Blut
+    - **Nachher:** Die Frommen sind weg im Lande, und sie lauern alle auf Blut
+  - **Option A (Falsch):**
+    - **Vorher:** Der Tempel ist zerstört, und die Priester sind geflohen
+    - **Nachher:** Der Tempel ist zerstört, und die Priester flohen aus dem Tore
+  - **Option B (Falsch):**
+    - **Vorher:** Das Land ist fruchtbar, aber leer, und niemand erntet
+    - **Nachher:** Das Land liegt wüst und öde, und niemand erntet die Früchte ab
+  - **Option C (Falsch):**
+    - **Vorher:** Die Mauern sind gefallen, und die Feinde stehen im Tor
+    - **Nachher:** Die Mauern sind geschleift, und fremde Heere lagern im Lande
+
+### `mi_020` (Micha 7:8)
+- **Bibelstelle Vorher:** `Micha 7:7-8` -> **Nachher:** `Micha 7:8`
+- **Frage Vorher:** Welches Glaubenswort spricht Micha 7:8 gegen seine Feindin?
+- **Frage Nachher:** Was spricht der Prophet in Micha 7:8 gegen seine Feindin?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Freue dich nicht, meine Feindin! Ich werde wieder aufkommen; der HERR ist mein Licht
+    - **Nachher:** Freue dich nicht, meine Feindin! Ich werde wieder aufkommen
+  - **Option B (Falsch):**
+    - **Vorher:** Fürchte dich, meine Feindin! Mein Gott wird dich bald richten und stürzen
+    - **Nachher:** Fürchte dich, meine Feindin! Mein Gott wird dich bald stürzen
+  - **Option C (Falsch):**
+    - **Vorher:** Weiche von mir, meine Feindin! Ich bin stark und werde niemals fallen oder weichen
+    - **Nachher:** Weiche vor mir, meine Feindin! Ich werde niemals fallen im Tal
+  - **Option D (Falsch):**
+    - **Vorher:** Meine Feindin wird mir dienen und mich fürchten, wenn ich aufgestanden bin
+    - **Nachher:** Erbebe vor mir, meine Feindin! Meine Kraft wird dich verderben
+
+### `mi_021` (Micha 7:18-19)
+- **Frage:** Mit welchem Lobpreis schließt das Buch Micha (Micha 7:18-19)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Wo ist solch ein Gott, der die Sünde vergibt und sie in die Tiefen des Meeres wirft?
+    - **Nachher:** Wo ist solch ein Gott, der Sünden vergibt und sie ins Meer wirft?
+  - **Option A (Falsch):**
+    - **Vorher:** Der HERR ist König für immer, und sein Reich hat kein Ende, solange die Erde steht
+    - **Nachher:** Der HERR ist König auf ewig, und sein Thron steht fest vor aller Welt
+  - **Option C (Falsch):**
+    - **Vorher:** Der HERR ist mein Hirte, mir wird nichts mangeln, und ich werde nicht fallen
+    - **Nachher:** Der HERR ist mein Hirte im Lande, und mir wird in Ewigkeit nichts mangeln
+  - **Option D (Falsch):**
+    - **Vorher:** Der HERR wird uns erlösen aus Babel und uns in das Land unserer Väter zurückführen
+    - **Nachher:** Der HERR wird sein Volk erlösen und sie heimholen aus allen Landen
