@@ -34,7 +34,8 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
 | `26_hesekiel.json` | 139 | 22 | 2 | 18 | 4 |
 | `27_daniel.json` | 37 | 9 | 2 | 7 | 1 |
 | `28_hosea.json` | 43 | 2 | 0 | 2 | 0 |
-| **Gesamt (28 Dateien)** | **3200** | **1427** | **954** | **1283** | **59** |
+| `29_joel.json` | 18 | 1 | 1 | 0 | 1 |
+| **Gesamt (29 Dateien)** | **3218** | **1428** | **955** | **1283** | **60** |
 
 ## 01_1_mose.json – 1. Mose (Genesis) (Schlachter (Revision von 1951))
 
@@ -20161,3 +20162,10 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
   - **Option D (Falsch):**
     - **Vorher:** Es baute keine Altäre
     - **Nachher:** Je reicher das Land ward, desto weniger Altäre baute es
+
+## 29_joel.json – Joel (Luther 1912)
+
+### `joe_008` (Joel 3:2)
+- **Bibelstelle Vorher:** `Joel 3:2.12` -> **Nachher:** `Joel 3:2`
+- **Frage Vorher:** Wo versammelt der HERR die Heiden zum Gericht (Joel 3:2.12)?
+- **Frage Nachher:** Wo versammelt der HERR die Heiden zum Gericht (Joel 3:2)?

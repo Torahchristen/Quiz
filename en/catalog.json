@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-11-05T20:00:07Z",
+  "lastUpdated": "2026-11-05T20:02:17Z",
   "language": "en",
   "categories": [
     {
@@ -581,6 +581,25 @@
       ],
       "sizeBytes": 43732,
       "downloadUrl": "./en/28_hosea.json"
+    },
+    {
+      "quizId": "bibel_29_joel_en",
+      "category": "propheten",
+      "title": "Joel",
+      "subtitle": "Joel 1:1 – 3:21 (18 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "1.0.0",
+      "questionCount": 18,
+      "difficulty": "medium",
+      "tags": [
+        "Joel",
+        "OT",
+        "prophets",
+        "KJV"
+      ],
+      "sizeBytes": 18294,
+      "downloadUrl": "./en/29_joel.json"
     }
   ]
 }
