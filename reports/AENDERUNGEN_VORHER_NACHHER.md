@@ -42,7 +42,8 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
 | `34_nahum.json` | 16 | 16 | 11 | 16 | 4 |
 | `35_habakuk.json` | 18 | 10 | 0 | 10 | 4 |
 | `36_zephanja.json` | 18 | 10 | 1 | 8 | 5 |
-| **Gesamt (36 Dateien)** | **3348** | **1539** | **1024** | **1390** | **84** |
+| `37_haggai.json` | 14 | 7 | 0 | 5 | 3 |
+| **Gesamt (37 Dateien)** | **3362** | **1546** | **1024** | **1395** | **87** |
 
 ## 01_1_mose.json – 1. Mose (Genesis) (Schlachter (Revision von 1951))
 
@@ -21884,3 +21885,79 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
   - **Option C (Falsch):**
     - **Vorher:** Die Sprache Israels, damit sie alle Zion verstehen
     - **Nachher:** Ein neues Recht, damit sie alle den Dienst Zions verstehen
+
+## 37_haggai.json – Haggai (Luther 1912)
+
+### `hag_001` (Haggai 1:4)
+- **Bibelstelle Vorher:** `Haggai 1:2-4` -> **Nachher:** `Haggai 1:4`
+- **Frage:** Was hielt Haggai 1:4 dem Volk vor?
+
+### `hag_003` (Haggai 1:12)
+- **Bibelstelle Vorher:** `Haggai 1:12-14` -> **Nachher:** `Haggai 1:12`
+- **Frage:** Wer gehorchte dem Wort des HERRN nach Haggai 1:12?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Serubbabel, der Sohn Sealthiels, und Josua, der Hohepriester, mit dem übrigen Volk
+    - **Nachher:** Serubabel, der Sohn Sealthiels, und Josua, der Hohepriester, mit dem Volk
+  - **Option A (Falsch):**
+    - **Vorher:** Jojachin und Zedekia, die Könige, mit dem übrigen Volk, das aus Babel zurückkam
+    - **Nachher:** Jojachin und Zedekia, die Könige, mit dem übrigen Volk aus Babel
+  - **Option B (Falsch):**
+    - **Vorher:** Nehemia und Esra, der Schreiber, mit dem übrigen Volk, das in Jerusalem wohnte
+    - **Nachher:** Nehemia und Esra, der Schreiber, mit dem übrigen Volk Jerusalems
+  - **Option C (Falsch):**
+    - **Vorher:** Haggai und Sacharja, die Propheten, mit dem übrigen Volk, das in Juda lebte
+    - **Nachher:** Haggai und Sacharja, die Propheten, mit den Ältesten von ganz Juda
+
+### `hag_005` (Haggai 2:9)
+- **Bibelstelle Vorher:** `Haggai 2:7-9` -> **Nachher:** `Haggai 2:9`
+- **Frage:** Was kündigt der HERR für das zweite Haus an (Haggai 2:9)?
+
+### `hag_007` (Haggai 1:1)
+- **Frage:** In welchem Regierungsjahr begann Haggai nach Haggai 1:1 zu weissagen?
+- **Richtige Antwort (unverändert, Option A):** Im zweiten Jahr des Königs Darius
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Im dritten Jahr des Königs Belsazar
+    - **Nachher:** Im vierten Jahr des Königs Darius
+  - **Option C (Falsch):**
+    - **Vorher:** Im zweiten Jahr des Königs Nebukadnezar
+    - **Nachher:** Im sechsten Jahr des Königs Darius
+  - **Option D (Falsch):**
+    - **Vorher:** Im ersten Jahr des Königs Kyrus
+    - **Nachher:** Im ersten Jahr des Königs Darius
+
+### `hag_009` (Haggai 1:11)
+- **Frage:** Was rief der HERR nach Haggai 1:11 über Land und Berge, über Korn, Most und Öl?
+- **Richtige Antwort (unverändert, Option A):** Die Dürre
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Falsch):**
+    - **Vorher:** Die Heuschrecken
+    - **Nachher:** Der Hunger
+  - **Option D (Falsch):**
+    - **Vorher:** Die Pest
+    - **Nachher:** Die Seuche
+
+### `hag_010` (Haggai 1:15)
+- **Frage:** An welchem Tag begann das Volk nach Haggai 1:15 die Arbeit am Haus des HERRN?
+- **Richtige Antwort (unverändert, Option B):** Am vierundzwanzigsten Tag des sechsten Monats
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Falsch):**
+    - **Vorher:** Am ersten Tag des sechsten Monats
+    - **Nachher:** Am ersten Tag des sechsten Monats im Jahr
+
+### `hag_012` (Haggai 2:8)
+- **Frage:** Wem gehören nach Haggai 2:8 Silber und Gold?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Dem HERRN Zebaoth
+    - **Nachher:** Dem allmächtigen HERRN Zebaoth
+  - **Option A (Falsch):**
+    - **Vorher:** Dem König Darius von Persien
+    - **Nachher:** Dem persischen König Darius
+  - **Option B (Falsch):**
+    - **Vorher:** Den Völkern, die der HERR bewegt
+    - **Nachher:** Den bewegten Heidenvölkern
+  - **Option C (Falsch):**
+    - **Vorher:** Den Fürsten Serubbabel und Josua
+    - **Nachher:** Den Fürsten Serubabel und Josua

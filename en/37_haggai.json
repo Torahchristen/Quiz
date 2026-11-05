@@ -1,0 +1,444 @@
+{
+  "metadata": {
+    "quizId": "bibel_37_haggai_en",
+    "title": "Haggai",
+    "subtitle": "Haggai 1:1 – 2:23 (14 questions)",
+    "author": "King James Version (1769)",
+    "version": "2.3.0",
+    "language": "en",
+    "category": "prophets",
+    "difficulty": "medium",
+    "tags": [
+      "Haggai",
+      "OT",
+      "prophets",
+      "King James Version"
+    ],
+    "questionCount": 14,
+    "canonicalBookNumber": 37,
+    "testament": "OT"
+  },
+  "questions": [
+    {
+      "questionId": "hag_001",
+      "type": "single_choice",
+      "text": "What did Haggai 1:4 reprove the people for?",
+      "options": [
+        {
+          "text": "That they profaned the Sabbath day while the LORD's house lay desolate",
+          "explanation": ""
+        },
+        {
+          "text": "That they dwelt in cieled houses while this house of the LORD lay waste",
+          "explanation": ""
+        },
+        {
+          "text": "That they served strange gods while this holy sanctuary was forsaken",
+          "explanation": ""
+        },
+        {
+          "text": "That they withheld their tithes while the dwelling of God decayed",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Haggai 1:4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hag_002",
+      "type": "single_choice",
+      "text": "What experience of the people is described in Haggai 1:6?",
+      "options": [
+        {
+          "text": "They were spoiled by enemies and lost their seed, their cattle, and money",
+          "explanation": ""
+        },
+        {
+          "text": "They gathered abundant harvests and stored their riches in bags and jars",
+          "explanation": ""
+        },
+        {
+          "text": "They sowed much and brought in little; wages were put into a bag with holes",
+          "explanation": ""
+        },
+        {
+          "text": "They suffered great famine and their children cried for bread in distress",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Haggai 1:6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hag_003",
+      "type": "single_choice",
+      "text": "Who obeyed the voice of the LORD according to Haggai 1:12?",
+      "options": [
+        {
+          "text": "Jehoiachin and Zedekiah the kings, with all the people from Babylon",
+          "explanation": ""
+        },
+        {
+          "text": "Nehemiah and Ezra the scribe, with all the remnant of Jerusalem",
+          "explanation": ""
+        },
+        {
+          "text": "Haggai and Zechariah the prophets, with all the elders of Judah",
+          "explanation": ""
+        },
+        {
+          "text": "Zerubbabel the son of Shealtiel and Joshua with all the remnant",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Haggai 1:12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hag_004",
+      "type": "single_choice",
+      "text": "What promise did the LORD give to the builders in Haggai 2:4-5?",
+      "options": [
+        {
+          "text": "Be strong and work, for I am with you, and my spirit remaineth among you",
+          "explanation": ""
+        },
+        {
+          "text": "Ye shall have great riches, for I am with you, and the fields shall yield",
+          "explanation": ""
+        },
+        {
+          "text": "Your foes shall be silent, for I am with you, and no war shall come near",
+          "explanation": ""
+        },
+        {
+          "text": "Ye shall build in peace, for I am with you, and no adversary shall hinder",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Haggai 2:4-5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hag_005",
+      "type": "single_choice",
+      "text": "What did the LORD proclaim concerning the latter house in Haggai 2:9?",
+      "options": [
+        {
+          "text": "The house shall be like the first, and the LORD will give peace in the land",
+          "explanation": ""
+        },
+        {
+          "text": "The glory of this latter house shall be greater than of the former house",
+          "explanation": ""
+        },
+        {
+          "text": "The house shall soon be destroyed, yet the LORD will give peace to his flock",
+          "explanation": ""
+        },
+        {
+          "text": "The house shall be covered with pure gold, and the LORD will grant riches",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Haggai 2:9",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hag_006",
+      "type": "single_choice",
+      "text": "What did the LORD promise unto Zerubbabel in Haggai 2:23?",
+      "options": [
+        {
+          "text": "He will make him high priest in the temple, for he hath chosen him",
+          "explanation": ""
+        },
+        {
+          "text": "He will make him king over all the heathen, for he hath chosen him",
+          "explanation": ""
+        },
+        {
+          "text": "He will make him as a signet ring unto God, for he hath chosen him",
+          "explanation": ""
+        },
+        {
+          "text": "He will bring him out of Babylon in peace, for he hath chosen him",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Haggai 2:23",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hag_007",
+      "type": "single_choice",
+      "text": "In which year of Darius the king came the word of the LORD by Haggai (Haggai 1:1)?",
+      "options": [
+        {
+          "text": "In the second year of Darius the king",
+          "explanation": ""
+        },
+        {
+          "text": "In the fourth year of Darius the king",
+          "explanation": ""
+        },
+        {
+          "text": "In the sixth year of Darius the king",
+          "explanation": ""
+        },
+        {
+          "text": "In the first year of Darius the king",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Haggai 1:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hag_008",
+      "type": "single_choice",
+      "text": "What was the people commanded to bring from the mountain in Haggai 1:8?",
+      "options": [
+        {
+          "text": "Stones to build the strong walls of the city",
+          "explanation": ""
+        },
+        {
+          "text": "Brass to make the vessels of the sanctuary",
+          "explanation": ""
+        },
+        {
+          "text": "Clay to make bricks for the dwellingplaces",
+          "explanation": ""
+        },
+        {
+          "text": "Wood to build the house of the living LORD",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Haggai 1:8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hag_009",
+      "type": "single_choice",
+      "text": "What did the LORD call for upon the land and upon the mountains in Haggai 1:11?",
+      "options": [
+        {
+          "text": "A drought",
+          "explanation": ""
+        },
+        {
+          "text": "The sword",
+          "explanation": ""
+        },
+        {
+          "text": "A famine",
+          "explanation": ""
+        },
+        {
+          "text": "A plague",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Haggai 1:11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hag_010",
+      "type": "single_choice",
+      "text": "On which day did the people begin to work on the house of the LORD (Haggai 1:15)?",
+      "options": [
+        {
+          "text": "On the four and twentieth day of the ninth month",
+          "explanation": ""
+        },
+        {
+          "text": "On the four and twentieth day of the sixth month",
+          "explanation": ""
+        },
+        {
+          "text": "On the first day of the sixth month in the year",
+          "explanation": ""
+        },
+        {
+          "text": "On the one and twentieth day of the seventh month",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Haggai 1:15",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hag_011",
+      "type": "single_choice",
+      "text": "What question did the LORD ask them that had seen the first house (Haggai 2:3)?",
+      "options": [
+        {
+          "text": "Who among you is ready to rebuild this house far greater than before?",
+          "explanation": ""
+        },
+        {
+          "text": "Who among you destroyed this house and carried away all its treasures?",
+          "explanation": ""
+        },
+        {
+          "text": "Who is left among you that saw this house in her first glory of old?",
+          "explanation": ""
+        },
+        {
+          "text": "Who among you remembereth the builders that first laid the sanctuary?",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Haggai 2:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hag_012",
+      "type": "single_choice",
+      "text": "Unto whom belong the silver and the gold according to Haggai 2:8?",
+      "options": [
+        {
+          "text": "Unto Darius the king of Persia",
+          "explanation": ""
+        },
+        {
+          "text": "Unto the shaken heathen nations",
+          "explanation": ""
+        },
+        {
+          "text": "Unto Zerubbabel and the priests",
+          "explanation": ""
+        },
+        {
+          "text": "Unto the almighty LORD of hosts",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Haggai 2:8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hag_013",
+      "type": "single_choice",
+      "text": "What do the priestly questions concerning holiness and uncleanness teach (Haggai 2:12-13)?",
+      "options": [
+        {
+          "text": "Holiness is not transmitted by touch, but uncleanness is",
+          "explanation": ""
+        },
+        {
+          "text": "Uncleanness is not transmitted by touch, but holiness is",
+          "explanation": ""
+        },
+        {
+          "text": "Both holiness and uncleanness are equally transmitted",
+          "explanation": ""
+        },
+        {
+          "text": "Neither holiness nor uncleanness can ever be transmitted",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Haggai 2:12-13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hag_014",
+      "type": "single_choice",
+      "text": "What did the LORD declare concerning the heathen kingdoms in Haggai 2:22?",
+      "options": [
+        {
+          "text": "He will unite the heathen kingdoms with Judah in lasting quietness",
+          "explanation": ""
+        },
+        {
+          "text": "He will overthrow the throne of kingdoms and destroy their strength",
+          "explanation": ""
+        },
+        {
+          "text": "He will make a covenant of peace between all the rulers of the earth",
+          "explanation": ""
+        },
+        {
+          "text": "He will spare the chariots and horses of the heathen for his people",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Haggai 2:22",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    }
+  ],
+  "title": "The Book of Haggai"
+}

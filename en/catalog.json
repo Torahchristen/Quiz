@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-11-05T20:30:08Z",
+  "lastUpdated": "2026-11-05T20:32:21Z",
   "language": "en",
   "categories": [
     {
@@ -733,6 +733,25 @@
       ],
       "sizeBytes": 16268,
       "downloadUrl": "./en/36_zephanja.json"
+    },
+    {
+      "quizId": "bibel_37_haggai_en",
+      "category": "prophets",
+      "title": "Haggai",
+      "subtitle": "Haggai 1:1 – 2:23 (14 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 14,
+      "difficulty": "medium",
+      "tags": [
+        "Haggai",
+        "OT",
+        "prophets",
+        "King James Version"
+      ],
+      "sizeBytes": 12648,
+      "downloadUrl": "./en/37_haggai.json"
     }
   ]
 }
