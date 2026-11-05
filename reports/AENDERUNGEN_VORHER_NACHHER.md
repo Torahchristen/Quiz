@@ -40,7 +40,8 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
 | `32_jona.json` | 20 | 20 | 15 | 20 | 7 |
 | `33_micha.json` | 21 | 21 | 17 | 21 | 2 |
 | `34_nahum.json` | 16 | 16 | 11 | 16 | 4 |
-| **Gesamt (34 Dateien)** | **3312** | **1519** | **1023** | **1372** | **75** |
+| `35_habakuk.json` | 18 | 10 | 0 | 10 | 4 |
+| **Gesamt (35 Dateien)** | **3330** | **1529** | **1023** | **1382** | **79** |
 
 ## 01_1_mose.json – 1. Mose (Genesis) (Schlachter (Revision von 1951))
 
@@ -21607,3 +21608,146 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
   - **Option C (Falsch):**
     - **Vorher:** Mit Raben und Geiern
     - **Nachher:** Mit wilden Wespen und Hornissen am Wall
+
+## 35_habakuk.json – Habakuk (Luther 1912)
+
+### `hab_001` (Habakuk 1:2)
+- **Bibelstelle Vorher:** `Habakuk 1:2-4` -> **Nachher:** `Habakuk 1:2`
+- **Frage:** Womit beginnt Habakuk seine Klage (Habakuk 1:2)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** HERR, wie lange soll ich schreien, und du willst nicht hören?
+    - **Nachher:** HERR, wie lange soll ich schreien, und du willst mich nicht hören?
+
+### `hab_002` (Habakuk 1:6)
+- **Bibelstelle Vorher:** `Habakuk 1:5-6` -> **Nachher:** `Habakuk 1:6`
+- **Frage:** Wen will der HERR nach Habakuk 1:6 erwecken?
+- **Richtige Antwort (unverändert, Option C):** Die Chaldäer, ein bitteres und schnelles Volk
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Die Assyrer, ein grausames Volk, das mit Bogen und Wagen einherzieht
+    - **Nachher:** Die Assyrer, ein grausames und kriegerisches Volk
+  - **Option B (Falsch):**
+    - **Vorher:** Die Ägypter, ein starkes Volk, das mit Rossen und Schiffen heranzieht
+    - **Nachher:** Die Ägypter, ein starkes und wohlgerüstetes Volk
+  - **Option D (Falsch):**
+    - **Vorher:** Die Perser, ein mächtiges Volk, das mit Heeren und Elefanten heranzieht
+    - **Nachher:** Die Perser, ein mächtiges und streitbares Volk
+
+### `hab_003` (Habakuk 1:13)
+- **Bibelstelle Vorher:** `Habakuk 1:12-13` -> **Nachher:** `Habakuk 1:13`
+- **Frage:** Welche Frage stellt Habakuk in Habakuk 1:13?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Warum siehst du den Räubern zu und schweigst?
+    - **Nachher:** Warum siehst du den Räubern zu und schweigst, da sie verschlingen?
+  - **Option A (Falsch):**
+    - **Vorher:** Warum hast du mich berufen und lässt mich allein stehen?
+    - **Nachher:** Warum verstößt du dein Volk und verbirgst dein Angesicht vor uns?
+  - **Option B (Falsch):**
+    - **Vorher:** Warum strafst du dein Volk, das doch deinen Namen trägt?
+    - **Nachher:** Warum züchtigst du die Gerechten und hilfst ihnen nicht im Jammer?
+  - **Option C (Falsch):**
+    - **Vorher:** Warum lässt du die Chaldäer kommen und schützt dein Volk nicht?
+    - **Nachher:** Warum erhörst du kein Rufen und lässt uns elend im Streit vergehen?
+
+### `hab_005` (Habakuk 2:4)
+- **Frage:** Welcher Grundsatz steht in Habakuk 2:4?
+- **Richtige Antwort (unverändert, Option B):** Der Gerechte wird seines Glaubens leben
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Der Gerechte wird siegen durch sein Schwert und den Beistand seines Gottes
+    - **Nachher:** Der Gerechte wird durch sein Schwert siegen
+  - **Option C (Falsch):**
+    - **Vorher:** Der Gerechte wird ruhen in Frieden und von der Last der Zeit befreit sein
+    - **Nachher:** Der Gerechte wird in ewigem Frieden ruhen
+  - **Option D (Falsch):**
+    - **Vorher:** Der Gerechte wird ernten, was er gesät hat, und sich seines Lohnes freuen
+    - **Nachher:** Der Gerechte wird nach seinen Werken leben
+
+### `hab_006` (Habakuk 2:20)
+- **Frage:** Mit welchem Wort schließt Habakuk 2 die Weherufe ab (Habakuk 2:20)?
+- **Richtige Antwort (unverändert, Option C):** Der HERR ist in seinem heiligen Tempel; es sei vor ihm still alle Welt
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Der HERR richtet die Götzen, und es sei vor ihm still alle Welt
+    - **Nachher:** Der HERR stürzt die Götzen; es sei vor ihm still alle Welt
+  - **Option B (Falsch):**
+    - **Vorher:** Der HERR ist König auf Zion; es sei vor ihm still alle Welt
+    - **Nachher:** Der HERR thront auf Zion; es sei vor ihm still alle Welt
+  - **Option D (Falsch):**
+    - **Vorher:** Der HERR hat alles geschaffen; es sei vor ihm still alle Welt
+    - **Nachher:** Der HERR regiert die Erde; es sei vor ihm still alle Welt
+
+### `hab_007` (Habakuk 3:2)
+- **Frage:** Worum bittet Habakuk in Habakuk 3:2?
+- **Richtige Antwort (unverändert, Option D):** HERR, mache dein Werk lebendig; wenn Trübsal da ist, denke der Barmherzigkeit
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** HERR, schenke uns Regen im Land; wenn Dürre da ist, denke unser
+    - **Nachher:** HERR, sende uns Rettung im Land; wenn Drangsal da ist, erbarme dich unser
+
+### `hab_008` (Habakuk 3:3)
+- **Bibelstelle Vorher:** `Habakuk 3:3-4` -> **Nachher:** `Habakuk 3:3`
+- **Frage:** Wie schildert Habakuk 3:3 das Erscheinen Gottes?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Gott kam vom Mittag und der Heilige vom Gebirge Paran; der Himmel war seines Lobes voll
+    - **Nachher:** Gott kam vom Mittag und der Heilige vom Gebirge Pharan; der Himmel war seines Lobes voll
+  - **Option B (Falsch):**
+    - **Vorher:** Gott kam in einer Wolke vom Sinai, und die ganze Erde war seines Lobes voll
+    - **Nachher:** Gott kam in einer Wolke vom Sinai; die ganze Erde war vor seinem Glanz und Lobe voll
+  - **Option C (Falsch):**
+    - **Vorher:** Gott kam vom Berg Zion und der Heilige vom Gebirge Seir; die ganze Erde bebte vor ihm
+    - **Nachher:** Gott kam vom Berge Zion und vom Gebirge Seir; die ganze Erde bebte vor seinem Namen
+  - **Option D (Falsch):**
+    - **Vorher:** Gott kam vom Meer her, und der Himmel war voll Glanz und Feuer und Licht
+    - **Nachher:** Gott kam vom Meere her im Glanze des Feuers; der ganze Himmel war seiner Pracht voll
+
+### `hab_010` (Habakuk 1:8)
+- **Frage:** Womit vergleicht Habakuk 1:8 die Rosse der Chaldäer?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Schneller als Panther und behender als Wölfe am Abend
+    - **Nachher:** Schneller denn die Parder und behender denn die Wölfe des Abends
+  - **Option B (Falsch):**
+    - **Vorher:** Schneller als Windhunde und behender als Hasen am Mittag
+    - **Nachher:** Schneller denn die Hirsche und behender denn die Füchse des Morgens
+  - **Option C (Falsch):**
+    - **Vorher:** Schneller als Hirsche und behender als Füchse am Morgen
+    - **Nachher:** Schneller denn die Falken und behender denn die Löwen der Wüste
+  - **Option D (Falsch):**
+    - **Vorher:** Schneller als Falken und stärker als Stiere vor dem Joch
+    - **Nachher:** Schneller denn die Rosse und behender denn die Jäger des Waldes
+
+### `hab_015` (Habakuk 2:19)
+- **Frage:** Was sagt Habakuk 2:19 über den, der zum Holz spricht: Wache auf!?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Weh ihm, denn in dem mit Gold überzogenen Bild ist kein Odem
+    - **Nachher:** Weh ihm, denn es ist mit Gold und Silber überzogen und ist kein Odem in ihm
+  - **Option A (Falsch):**
+    - **Vorher:** Wohl ihm, denn das mit Gold überzogene Bild hört seine Bitte
+    - **Nachher:** Wohl ihm, denn was mit Gold und Silber überzogen ist, erhört sein Flehen
+  - **Option B (Falsch):**
+    - **Vorher:** Weh ihm, denn das mit Gold überzogene Bild ist zu schwach zum Schutz
+    - **Nachher:** Weh ihm, denn was mit Gold und Silber überzogen ist, bietet keinen Schutz
+  - **Option D (Falsch):**
+    - **Vorher:** Wohl ihm, denn das mit Gold überzogene Bild zeigt Gottes Nähe
+    - **Nachher:** Wohl ihm, denn was mit Gold und Silber überzogen ist, zeigt Gottes Nähe
+
+### `hab_018` (Habakuk 3:7)
+- **Frage:** Wessen Zelte sah Habakuk nach Habakuk 3:7 in Not und Betrübnis?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Die Hütten der Mohren und die Zelte der Midianiter
+    - **Nachher:** Die Hütten der Mohren und die Gezelte der Midianiter
+  - **Option B (Falsch):**
+    - **Vorher:** Die Hütten der Ammoniter und die Zelte der Hethiter
+    - **Nachher:** Die Hütten der Ammoniter und die Gezelte der Hethiter
+  - **Option C (Falsch):**
+    - **Vorher:** Die Hütten der Philister und die Zelte der Amalekiter
+    - **Nachher:** Die Hütten der Philister und die Gezelte der Amalekiter
+  - **Option D (Falsch):**
+    - **Vorher:** Die Hütten der Moabiter und die Zelte der Edomiter
+    - **Nachher:** Die Hütten der Moabiter und die Gezelte der Edomiter
