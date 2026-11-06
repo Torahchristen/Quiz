@@ -62,7 +62,8 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
 | `54_1_timotheus.json` | 30 | 30 | 30 | 30 | 0 |
 | `55_2_timotheus.json` | 20 | 20 | 20 | 20 | 0 |
 | `56_titus.json` | 15 | 15 | 15 | 15 | 0 |
-| **Gesamt (56 Dateien)** | **4465** | **1981** | **1229** | **1814** | **105** |
+| `57_philemon.json` | 5 | 5 | 5 | 5 | 0 |
+| **Gesamt (57 Dateien)** | **4470** | **1986** | **1234** | **1819** | **105** |
 
 ## 01_1_mose.json – 1. Mose (Genesis) (Schlachter (Revision von 1951))
 
@@ -28351,3 +28352,90 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
   - **Option C (Falsch):**
     - **Vorher:** In Troas
     - **Nachher:** In der Stadt Athen
+
+## 57_philemon.json – Philemon (Schlachter (Revision von 1951))
+
+### `phlm_001` (Philemon 1:1)
+- **Frage Vorher:** An wen richtet Paulus diesen persönlichen Brief in erster Linie neben der Gemeinde in dessen Hause?
+- **Frage Nachher:** An wen richtet sich dieser Brief des Paulus in Philemon 1:1?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** An Philemon, den geliebten Mitarbeiter
+    - **Nachher:** An Philemon, unseren geliebten Mitarbeiter
+  - **Option A (Falsch):**
+    - **Vorher:** An Archippus, den Mitstreiter im Dienst
+    - **Nachher:** An Archippus, den Mitstreiter im Dienste
+  - **Option C (Falsch):**
+    - **Vorher:** An Epaphras, den Gefährten im Gefängnis
+    - **Nachher:** An Epaphras, den Mitgefangenen in Christus
+  - **Option D (Falsch):**
+    - **Vorher:** An Tychikus, den geliebten Bruder
+    - **Nachher:** An Tychikus, den lieben Bruder und Diener
+
+### `phlm_002` (Philemon 1:11-16)
+- **Frage Vorher:** In welchem Verhältnis stand Onesimus ursprünglich zu Philemon, ehe er zu Paulus floh?
+- **Frage Nachher:** In welchem Verhältnis stand Onesimus zu Philemon, ehe er zu Paulus kam (Philemon 1:11-16)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Er war ein entlaufener Sklave Philemons
+    - **Nachher:** Er war Philemons Knecht, der ihm einst unnütz gewesen war
+  - **Option A (Falsch):**
+    - **Vorher:** Er war ein treuer Verwalter der Güter
+    - **Nachher:** Er war ein treuer Verwalter über dessen irdische Güter
+  - **Option B (Falsch):**
+    - **Vorher:** Er war ein leiblicher Verwandter
+    - **Nachher:** Er war ein leiblicher Verwandter aus der Stadt Kolossä
+  - **Option D (Falsch):**
+    - **Vorher:** Er war ein fremder Händler
+    - **Nachher:** Er war ein fremder Kaufmann, der mit ihm Handel trieb
+
+### `phlm_003` (Philemon 1:10)
+- **Frage Vorher:** Als was bezeichnet Paulus den Onesimus, nachdem dieser im Gefängnis zum Glauben an Christus kam?
+- **Frage Nachher:** Als was bezeichnet Paulus den Onesimus in Philemon 1:10?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Als sein Kind, das er in den Fesseln gezeugt hat
+    - **Nachher:** Als sein Kind, das er in der Gebundenheit gezeugt hat
+  - **Option A (Falsch):**
+    - **Vorher:** Als seinen Gefährten im Dienst, den er auf Reisen mitnahm
+    - **Nachher:** Als seinen Gefährten, den er auf weite Reisen mitnahm
+  - **Option B (Falsch):**
+    - **Vorher:** Als seinen Schüler der Schriften, den er im Gefängnis unterwies
+    - **Nachher:** Als seinen Schüler, den er in den Schriften unterwies
+  - **Option C (Falsch):**
+    - **Vorher:** Als seinen Boten für alle Gemeinden, den er nach Asien sandte
+    - **Nachher:** Als seinen Boten, den er zu allen Gemeinden entsandte
+
+### `phlm_004` (Philemon 1:16-17)
+- **Frage Vorher:** Wie soll Philemon den zurückkehrenden Onesimus nach der Bitte des Apostels Paulus aufnehmen?
+- **Frage Nachher:** Wie soll Philemon den Onesimus nach Philemon 1:16 aufnehmen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Nicht mehr als Sklaven, sondern als geliebten Bruder
+    - **Nachher:** Nicht mehr als einen Knecht, sondern als geliebten Bruder
+  - **Option B (Falsch):**
+    - **Vorher:** Nicht mehr als Sklaven, sondern als Tagelöhner
+    - **Nachher:** Nicht mehr als einen Knecht, sondern als fremden Knecht
+  - **Option C (Falsch):**
+    - **Vorher:** Nicht mehr als Sklaven, sondern als Aufseher
+    - **Nachher:** Nicht mehr als einen Knecht, sondern als bloßen Arbeiter
+  - **Option D (Falsch):**
+    - **Vorher:** Nicht mehr als Sklaven, sondern als Bittsteller
+    - **Nachher:** Nicht mehr als einen Knecht, sondern als Schuldner Roms
+
+### `phlm_005` (Philemon 1:18-19)
+- **Frage Vorher:** Was bietet Paulus an Philemon an, falls Onesimus ihm Unrecht getan hat oder etwas schuldig ist?
+- **Frage Nachher:** Was bietet Paulus an, falls Onesimus dem Philemon Schaden zugefügt hat (Philemon 1:18-19)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Er will die Schuld auf seine eigene Rechnung nehmen und selbst bezahlen
+    - **Nachher:** Er soll es Paulus anrechnen, und Paulus will es bezahlen
+  - **Option A (Falsch):**
+    - **Vorher:** Onesimus soll die Schuld abarbeiten, bis sie getilgt ist
+    - **Nachher:** Onesimus soll die ganze Schuld durch lange Arbeit abtragen
+  - **Option C (Falsch):**
+    - **Vorher:** Die Gemeinde soll die Schuld bezahlen, wenn Philemon es fordert
+    - **Nachher:** Die Versammlung soll die Schuld aus der Kasse erstatten
+  - **Option D (Falsch):**
+    - **Vorher:** Philemon soll die Schuld erlassen, ohne dass jemand haftet
+    - **Nachher:** Philemon soll auf alles verzichten, ohne jede Bezahlung

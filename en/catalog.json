@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-11-06T12:18:10Z",
+  "lastUpdated": "2026-11-06T12:19:22Z",
   "language": "en",
   "categories": [
     {
@@ -1178,6 +1178,29 @@
       ],
       "sizeBytes": 15476,
       "downloadUrl": "./en/56_titus.json"
+    },
+    {
+      "quizId": "nt_18_philemon_alle_kapitel_en",
+      "category": "nt",
+      "title": "Philemon",
+      "subtitle": "Philemon 1:1-25 (5 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 5,
+      "difficulty": "medium",
+      "tags": [
+        "Philemon",
+        "New Testament",
+        "Pauline Epistles",
+        "Paul",
+        "Forgiveness",
+        "Onesimus",
+        "Reconciliation",
+        "King James Version"
+      ],
+      "sizeBytes": 5647,
+      "downloadUrl": "./en/57_philemon.json"
     }
   ]
 }
