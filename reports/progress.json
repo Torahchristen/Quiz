@@ -1,7 +1,7 @@
 {
   "branch": "review-and-english",
   "totalFiles": 66,
-  "completedCount": 57,
+  "completedCount": 58,
   "completedFiles": [
     "01_1_mose.json",
     "02_2_mose.json",
@@ -59,10 +59,10 @@
     "54_1_timotheus.json",
     "55_2_timotheus.json",
     "56_titus.json",
-    "57_philemon.json"
+    "57_philemon.json",
+    "58_hebraeer.json"
   ],
   "pendingFiles": [
-    "58_hebraeer.json",
     "59_jakobus.json",
     "60_1_petrus.json",
     "61_2_petrus.json",
@@ -471,6 +471,13 @@
       "explanationsReviewedEn": 1,
       "reportPath": "reports/57_philemon.md",
       "enPath": "en/57_philemon.json"
+    },
+    "58_hebraeer.json": {
+      "questionsCount": 66,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/58_hebraeer.md",
+      "enPath": "en/58_hebraeer.json"
     }
   }
 }

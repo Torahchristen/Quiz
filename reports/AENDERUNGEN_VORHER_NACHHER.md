@@ -63,7 +63,8 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
 | `55_2_timotheus.json` | 20 | 20 | 20 | 20 | 0 |
 | `56_titus.json` | 15 | 15 | 15 | 15 | 0 |
 | `57_philemon.json` | 5 | 5 | 5 | 5 | 0 |
-| **Gesamt (57 Dateien)** | **4470** | **1986** | **1234** | **1819** | **105** |
+| `58_hebraeer.json` | 66 | 66 | 66 | 64 | 5 |
+| **Gesamt (58 Dateien)** | **4536** | **2052** | **1300** | **1883** | **110** |
 
 ## 01_1_mose.json – 1. Mose (Genesis) (Schlachter (Revision von 1951))
 
@@ -28439,3 +28440,1071 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
   - **Option D (Falsch):**
     - **Vorher:** Philemon soll die Schuld erlassen, ohne dass jemand haftet
     - **Nachher:** Philemon soll auf alles verzichten, ohne jede Bezahlung
+
+## 58_hebraeer.json – Hebräer (Schlachter (Revision von 1951))
+
+### `hebr_001` (Hebräer 1:1-2)
+- **Frage Vorher:** Auf welche Weise hat Gott am Ende dieser Tage zu den Menschen gesprochen?
+- **Frage Nachher:** Auf welche Weise hat Gott in diesen letzten Tagen zu uns geredet (Hebräer 1:1-2)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Durch den Sohn, den er zum Erben über alles eingesetzt hat
+    - **Nachher:** Durch den Sohn, den er zum Erben von allem eingesetzt hat
+  - **Option A (Falsch):**
+    - **Vorher:** Durch die Engel, die er zu den Vätern gesandt und mit Botschaften beauftragt hat
+    - **Nachher:** Durch die Engel, die er mit himmlischen Botschaften sandte
+  - **Option C (Falsch):**
+    - **Vorher:** Durch die Propheten der alten Zeit, die er in vielen Stücken berufen hat
+    - **Nachher:** Durch die Propheten der Vorzeit, die in Rätseln weissagten
+  - **Option D (Falsch):**
+    - **Vorher:** Durch die Priester des Heiligtums, die er im Tempel dazu bestellt hat
+    - **Nachher:** Durch die Priester des Heiligtums bei den jährlichen Festen
+
+### `hebr_002` (Hebräer 1:4)
+- **Frage Vorher:** Welchen Namen hat der Sohn Gottes geerbt im Vergleich zu allen Engeln?
+- **Frage Nachher:** Welchen Namen hat der Sohn im Vergleich zu den Engeln geerbt (Hebräer 1:4)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Einen weit erhabeneren Namen als sie
+    - **Nachher:** Einen umso vortrefflicheren Namen, der ihn vor ihnen auszeichnet
+  - **Option A (Falsch):**
+    - **Vorher:** Einen bekannteren Namen als alle Engel und Mächte zusammen
+    - **Nachher:** Einen weithin bekannten Namen unter allen Engeln und Mächten
+  - **Option B (Falsch):**
+    - **Vorher:** Einen strengeren Namen als der Name, den sie im Himmel tragen
+    - **Nachher:** Einen viel strengeren Namen als der Name der himmlischen Boten
+  - **Option D (Falsch):**
+    - **Vorher:** Einen älteren Namen als der Name, den sie von Anbeginn führen
+    - **Nachher:** Einen weit älteren Namen als der Name aller himmlischen Fürsten
+
+### `hebr_003` (Hebräer 1:5)
+- **Frage Vorher:** Zu welchem der Engel hat Gott jemals gesagt: „Du bist mein Sohn“?
+- **Frage Nachher:** Zu welchem von den Engeln hat Gott jemals gesagt: «Du bist mein Sohn» (Hebräer 1:5)?
+
+### `hebr_004` (Hebräer 1:14)
+- **Frage Vorher:** Welche Aufgabe erfüllen die Engel Gottes nach den Worten im ersten Kapitel?
+- **Frage Nachher:** Welche Aufgabe erfüllen alle Engel nach Hebräer 1:14?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Sie sind dienstbare Geister, ausgesandt zum Dienst um derer willen, die das Heil ererben sollen
+    - **Nachher:** Sie sind dienstbare Geister, ausgesandt zum Dienst um derer willen, welche das Heil erben
+  - **Option B (Falsch):**
+    - **Vorher:** Sie sind selbständige Herrscher, ausgesandt zum Gericht über die Völker der Erde und ihre Reiche
+    - **Nachher:** Sie sind selbständige Herrscher, ausgesandt zum Gericht über die heidnischen Völker der Erde
+  - **Option C (Falsch):**
+    - **Vorher:** Sie sind strenge Richter, bestellt zur Bestrafung aller, die dem Heil beharrlich widerstehen und trotzen
+    - **Nachher:** Sie sind strenge Richter, bestellt zur Bestrafung aller, die dem Worte Gottes widerstehen
+  - **Option D (Falsch):**
+    - **Vorher:** Sie sind ewige Hohepriester, eingesetzt zum Dienst im himmlischen Heiligtum vor dem Thron
+    - **Nachher:** Sie sind ewige Priester, eingesetzt zum Opferdienst im himmlischen Zelt vor Gottes Thron
+
+### `hebr_005` (Hebräer 1:9)
+- **Frage Vorher:** Womit hat Gott Seinen Sohn vor Seinen Gefährten gesalbt?
+- **Frage Nachher:** Womit hat Gott Seinen Sohn vor Seinen Mitgenossen gesalbt (Hebräer 1:9)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Mit Freudenöl, mehr als seine Gefährten
+    - **Nachher:** Mit Freudenöl, mehr als seine Mitgenossen
+  - **Option A (Falsch):**
+    - **Vorher:** Mit dem feinsten Salböl der Alten
+    - **Nachher:** Mit reinem Myrrhenöl im Heiligtum
+  - **Option C (Falsch):**
+    - **Vorher:** Mit dem Reinigungswasser des Tempels
+    - **Nachher:** Mit Weihrauch vor dem Angesicht Gottes
+  - **Option D (Falsch):**
+    - **Vorher:** Mit dem Blut eines Opfers
+    - **Nachher:** Mit kostbarem Nardenöl der Priester
+
+### `hebr_006` (Hebräer 2:1)
+- **Frage Vorher:** Warum müssen die Glaubenden umso mehr auf das gehörte Wort achten?
+- **Frage Nachher:** Warum sollen wir desto mehr auf das achten, was wir gehört haben (Hebräer 2:1)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Damit sie nicht am Heil vorbeitreiben
+    - **Nachher:** Damit wir nicht etwa an dem gehörten Worte vorbeigleiten
+  - **Option A (Falsch):**
+    - **Vorher:** Damit sie nicht gegen römische Gesetze verstoßen
+    - **Nachher:** Damit wir nicht vor den heidnischen Richtern gerichtet werden
+  - **Option B (Falsch):**
+    - **Vorher:** Damit sie nicht verarmen
+    - **Nachher:** Damit wir durch eigene Werke vor der Versammlung glänzen
+  - **Option D (Falsch):**
+    - **Vorher:** Damit sie nicht die Gunst des Hohen Rates verlieren
+    - **Nachher:** Damit wir den Beifall der Schriftgelehrten erlangen können
+
+### `hebr_007` (Hebräer 2:9)
+- **Frage Vorher:** Wodurch schmeckte Jesus nach Hebräer 2:9 den Tod für alle?
+- **Frage Nachher:** Wodurch schmeckte Jesus nach Hebräer 2:9 den Tod für einen jeden?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Durch Gottes Gnade für alle
+    - **Nachher:** Durch die Gnade Gottes
+  - **Option A (Falsch):**
+    - **Vorher:** Durch die Ungerechtigkeit heidnischer Richter
+    - **Nachher:** Durch den Willen der Menschen
+  - **Option B (Falsch):**
+    - **Vorher:** Durch die Machtlosigkeit seiner Jünger
+    - **Nachher:** Durch das Gesetz des Mose
+  - **Option C (Falsch):**
+    - **Vorher:** Durch das harte Gesetz des Alten Bundes
+    - **Nachher:** Durch eigene Menschenkraft
+
+### `hebr_008` (Hebräer 2:10)
+- **Frage Vorher:** Wozu wurde der Urheber des Heils durch Leiden von Gott vollendet?
+- **Frage Nachher:** Wozu vollendete Gott den Anführer ihres Heils durch Leiden (Hebräer 2:10)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Um viele Söhne zur Herrlichkeit zu führen
+    - **Nachher:** Als er viele Söhne zur Herrlichkeit führte
+  - **Option B (Falsch):**
+    - **Vorher:** Um die weltliche Macht Israels aufzurichten
+    - **Nachher:** Um alle irdischen Königreiche zu vernichten
+  - **Option C (Falsch):**
+    - **Vorher:** Um das Gesetz neu zu schreiben
+    - **Nachher:** Um den Tempel zu Jerusalem von neuem zu bauen
+  - **Option D (Falsch):**
+    - **Vorher:** Um den Tempel sofort zu erneuern
+    - **Nachher:** Um den Gerechten weltlichen Reichtum zu schenken
+
+### `hebr_009` (Hebräer 2:14)
+- **Frage Vorher:** Wodurch entmachtete Christus denjenigen, der die Macht des Todes hatte?
+- **Frage Nachher:** Wodurch setzte Christus den außer Wirksamkeit, der die Gewalt des Todes hat (Hebräer 2:14)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Durch seinen Tod am Kreuz
+    - **Nachher:** Durch seinen eigenen Tod am Kreuz
+  - **Option A (Falsch):**
+    - **Vorher:** Durch ein langes Gericht vor den Ältesten
+    - **Nachher:** Durch ein Heer mächtiger Engel
+  - **Option C (Falsch):**
+    - **Vorher:** Durch das Gebot völliger Enthaltsamkeit
+    - **Nachher:** Durch ein irdisches Zorngericht
+  - **Option D (Falsch):**
+    - **Vorher:** Durch die Hilfe mächtiger Engel
+    - **Nachher:** Durch das geschriebene Gesetz
+
+### `hebr_010` (Hebräer 2:16)
+- **Frage Vorher:** Welcher Abkunft nahm Sich der Sohn Gottes in Barmherzigkeit an?
+- **Frage Nachher:** Wessen nimmt sich der Sohn Gottes nach Hebräer 2:16 an?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Der Nachkommen Abrahams
+    - **Nachher:** Des Samens Abrahams
+  - **Option A (Falsch):**
+    - **Vorher:** Der heiligen Engel
+    - **Nachher:** Der Engel des Himmels
+  - **Option B (Falsch):**
+    - **Vorher:** Der römischen Kaiser
+    - **Nachher:** Der Könige dieser Erde
+  - **Option D (Falsch):**
+    - **Vorher:** Der heidnischen Völker
+    - **Nachher:** Der weisen Priester
+
+### `hebr_011` (Hebräer 3:5-6)
+- **Frage Vorher:** Worin unterscheidet sich der Dienst des Mose von der Stellung Christi im Hause Gottes?
+- **Frage Nachher:** Worin unterscheidet sich Mose von Christus im Hause Gottes (Hebräer 3:5-6)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Mose war treu als Knecht im ganzen Haus, Christus aber als Sohn über sein Haus
+    - **Nachher:** Mose war treu als Diener im Haus, Christus aber als Sohn über sein Haus
+  - **Option A (Falsch):**
+    - **Vorher:** Mose war treu als Sohn über das Haus, Christus aber nur als Knecht darin
+    - **Nachher:** Mose war ein Prophet im Tempel, Christus aber ein Priester am Altar
+  - **Option B (Falsch):**
+    - **Vorher:** Beide waren gleichermaßen Knechte im Haus und standen auf einer Stufe
+    - **Nachher:** Mose war ein Fürst über das Volk, Christus aber ein Hirte der Schafe
+  - **Option C (Falsch):**
+    - **Vorher:** Beide waren gleichermaßen Söhne über das Haus und herrschten zusammen
+    - **Nachher:** Mose war ein Richter des Gesetzes, Christus aber ein Lehrer der Heiden
+
+### `hebr_012` (Hebräer 3:7-8)
+- **Frage Vorher:** Welches Wort schärft der Heilige Geist den Glaubenden gegen die Verstockung ein?
+- **Frage Nachher:** Was spricht der Heilige Geist in Hebräer 3:7-8 gegen die Verstockung?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Heute, wenn ihr seine Stimme hört, so verstockt eure Herzen nicht
+    - **Nachher:** Heute, wenn ihr seine Stimme hören werdet, so verstockt eure Herzen nicht
+  - **Option B (Falsch):**
+    - **Vorher:** Morgen, wenn ihr seine Verheißungen seht, so verstockt eure Herzen nicht
+    - **Nachher:** Morgen, wenn der Tag anbricht, so sollt ihr alle eure Sünden bekennen
+  - **Option C (Falsch):**
+    - **Vorher:** Gestern, als der Bund am Sinai geschah, so verstockt eure Herzen nicht
+    - **Nachher:** Wann immer ihr in Not geratet, so ruft den Namen des Herrn laut an
+  - **Option D (Falsch):**
+    - **Vorher:** Ewig, wenn der Neue Bund vollendet ist, so verstockt eure Herzen nicht
+    - **Nachher:** Sobald das Gericht kommt, so sucht Zuflucht in den Bergen des Landes
+
+### `hebr_013` (Hebräer 3:18-19)
+- **Frage Vorher:** Warum konnten viele aus dem Volk Israel nicht in die Sabbatruhe Gottes eingehen?
+- **Frage Nachher:** Warum konnten jene nicht in die Ruhe Gottes eingehen (Hebräer 3:19)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Wegen des Unglaubens
+    - **Nachher:** Wegen ihres Unglaubens
+  - **Option A (Falsch):**
+    - **Vorher:** Wegen der Hitze der Wüste
+    - **Nachher:** Wegen des schweren Weges
+  - **Option C (Falsch):**
+    - **Vorher:** Wegen Nahrungsmangels
+    - **Nachher:** Wegen der Wüstenhitze
+  - **Option D (Falsch):**
+    - **Vorher:** Wegen der Übermacht der Feinde
+    - **Nachher:** Wegen Mangel an Speise
+
+### `hebr_014` (Hebräer 3:13)
+- **Frage Vorher:** Wie oft sollen sich die Glaubenden gegenseitig ermahnen, um Verstockung zu meiden?
+- **Frage Nachher:** Wie oft sollen sich die Gläubigen nach Hebräer 3:13 gegenseitig ermahnen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Täglich, solange es noch heißt: Heute
+    - **Nachher:** Jeden Tag, solange es «heute» heißt
+  - **Option A (Falsch):**
+    - **Vorher:** Einmal im Monat bei der Versammlung
+    - **Nachher:** Einmal am Sabbat im Tempel
+  - **Option B (Falsch):**
+    - **Vorher:** Nur an den großen Festtagen des Jahres
+    - **Nachher:** Einmal im Monat beim Mahl
+  - **Option D (Falsch):**
+    - **Vorher:** Nur in Zeiten der Verfolgung und Not
+    - **Nachher:** Nur wenn jemand in Sünde fällt
+
+### `hebr_015` (Hebräer 3:13)
+- **Frage Vorher:** Was droht den Menschen durch den schleichenden Betrug der Sünde im Herzen?
+- **Frage Nachher:** Wodurch droht das Herz verstockt zu werden (Hebräer 3:13)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Dass das Herz durch den Betrug der Sünde verstockt wird
+    - **Nachher:** Durch die Täuschung der Sünde
+  - **Option A (Falsch):**
+    - **Vorher:** Dass man verarmt und seine Habe unter den Menschen verliert
+    - **Nachher:** Durch den Spott der Ungläubigen
+  - **Option B (Falsch):**
+    - **Vorher:** Dass man das Bürgerrecht verliert und aus der Stadt vertrieben wird
+    - **Nachher:** Durch die Furcht vor Verfolgung
+  - **Option C (Falsch):**
+    - **Vorher:** Dass die römische Obrigkeit einschreitet und die Gemeinde verfolgt
+    - **Nachher:** Durch die Armut in dieser Welt
+
+### `hebr_016` (Hebräer 4:9)
+- **Frage Vorher:** Welchem Volk bleibt nach den Worten im vierten Kapitel eine Sabbatruhe vorbehalten?
+- **Frage Nachher:** Wem bleibt nach Hebräer 4:9 noch eine Sabbatruhe vorbehalten?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Dem Volk Gottes
+    - **Nachher:** Dem Volke Gottes
+  - **Option B (Falsch):**
+    - **Vorher:** Den Pharisäern
+    - **Nachher:** Den Weisen Roms
+  - **Option C (Falsch):**
+    - **Vorher:** Den Bewohnern der römischen Provinz
+    - **Nachher:** Den Leviten allein
+  - **Option D (Falsch):**
+    - **Vorher:** Allen Heiden ohne Gesetz
+    - **Nachher:** Allen Königen der Erde
+
+### `hebr_017` (Hebräer 4:12)
+- **Frage Vorher:** Wie wird das Wort Gottes im vierten Kapitel bezüglich Seiner Wirkung beschrieben?
+- **Frage Nachher:** Wie wird das Wort Gottes in Hebräer 4:12 beschrieben?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Lebendig und kräftig und schärfer als jedes zweischneidige Schwert
+    - **Nachher:** Lebendig und wirksam und schärfer als jedes zweischneidige Schwert
+  - **Option A (Falsch):**
+    - **Vorher:** Alt und schwer zu befolgen und härter als jedes Gesetz der Väter
+    - **Nachher:** Schwach im Geist und nur den Weisen der Vorzeit verständlich
+  - **Option C (Falsch):**
+    - **Vorher:** Sanft und ohne Gericht und milder als jede Strafe der Menschen
+    - **Nachher:** Starr wie Stein und unwirksam für das innere Leben des Menschen
+  - **Option D (Falsch):**
+    - **Vorher:** Geheim und nur für Priester verständlich und dem Volk verborgen
+    - **Nachher:** Veränderlich und wandelbar nach dem Gutdünken der jeweiligen Zeit
+
+### `hebr_018` (Hebräer 4:12)
+- **Frage Vorher:** Bis wohin dringt das Wort Gottes scheidend durch das Innere des Menschen?
+- **Frage Nachher:** Bis wohin dringt das Wort Gottes nach Hebräer 4:12 durch?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Bis zur Scheidung von Seele und Geist, Mark und Bein
+    - **Nachher:** Bis es scheidet Seele und Geist, Mark und Bein
+  - **Option A (Falsch):**
+    - **Vorher:** Bis zur Scheidung von Knochen und Atem, von Fleisch und Blut
+    - **Nachher:** Bis an die Grenzen der bekannten Erde
+  - **Option B (Falsch):**
+    - **Vorher:** Bis zur Grenze zwischen Gut und Böse, zwischen Tag und Nacht
+    - **Nachher:** Bis in die Tiefen des heidnischen Meeres
+  - **Option D (Falsch):**
+    - **Vorher:** Bis zum römischen Gericht, vor dem sich jeder verantworten muss
+    - **Nachher:** Bis zu den Festungen der irdischen Könige
+
+### `hebr_019` (Hebräer 4:15)
+- **Frage Vorher:** Welcher Eigenschaft erfreut Sich unser großer Hohepriester Jesus Christus?
+- **Frage Nachher:** Welcher Hohepriester geziemt uns nach Hebräer 4:15?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Dass er mit unseren Schwachheiten Mitleid haben kann
+    - **Nachher:** Der Mitleid haben kann mit unseren Schwachheiten
+  - **Option A (Falsch):**
+    - **Vorher:** Völliges Unverständnis für menschliches Leid und alle Schwachheit
+    - **Nachher:** Der fernab aller menschlichen Trübsal thront
+  - **Option B (Falsch):**
+    - **Vorher:** Kalte Strenge gegenüber allen, die Fehler machen und straucheln
+    - **Nachher:** Der niemals die Last unseres Fleisches trug
+  - **Option C (Falsch):**
+    - **Vorher:** Furcht vor dem Widersacher und seinen Versuchungen
+    - **Nachher:** Der die Sünder ohne jegliches Erbarmen straft
+
+### `hebr_020` (Hebräer 4:16)
+- **Frage Vorher:** Mit welcher Haltung dürfen Glaubende zum Thron der Gnade Gottes hinzutreten?
+- **Frage Nachher:** Mit welcher Haltung dürfen wir zum Thron der Gnade hinzutreten (Hebräer 4:16)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Mit Freimut, um Barmherzigkeit zu empfangen und Gnade zu finden zu rechtzeitiger Hilfe
+    - **Nachher:** Mit Freimütigkeit, damit wir Barmherzigkeit erlangen und Gnade finden
+  - **Option B (Falsch):**
+    - **Vorher:** Mit Furcht und Zittern, weil der Thron Gottes allein ein Thron des Gerichts und des Zorns ist
+    - **Nachher:** Mit knechtischer Furcht, damit wir vor Gottes heiligem Zorn entfliehen
+  - **Option C (Falsch):**
+    - **Vorher:** Mit stolzem Selbstbewusstsein, weil sie sich ihrer eigenen Werke vor Gott rühmen dürfen
+    - **Nachher:** Mit irdischen Opfern von Tieren, damit unsere Sünden gesühnt werden
+  - **Option D (Falsch):**
+    - **Vorher:** Nur durch die Vermittlung heiliger Priester, die für sie vor Gott eintreten und beten
+    - **Nachher:** Mit Empfehlungsbriefen der Ältesten, damit wir Gehör vor Gott erlangen
+
+### `hebr_021` (Hebräer 5:6)
+- **Frage Vorher:** Nach welcher ewigen Ordnung wurde Christus von Gott zum Hohepriester berufen?
+- **Frage Nachher:** Nach welcher Ordnung ist Christus Priester in Ewigkeit (Hebräer 5:6)?
+- **Richtige Antwort (unverändert, Option B):** Nach der Ordnung Melchisedeks
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Falsch):**
+    - **Vorher:** Nach der Ordnung Davids
+    - **Nachher:** Nach der Satzung der Leviten
+  - **Option D (Falsch):**
+    - **Vorher:** Nach der Ordnung der Leviten
+    - **Nachher:** Nach der Würde der Propheten
+
+### `hebr_022` (Hebräer 5:7)
+- **Frage Vorher:** Was opferte Christus in den Tagen Seines Fleisches mit starkem Geschrei und Tränen?
+- **Frage Nachher:** Was brachte Christus in den Tagen Seines Fleisches dar (Hebräer 5:7)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Gebet und Flehen zu dem, der ihn aus dem Tod retten konnte, unter starkem Geschrei und Tränen
+    - **Nachher:** Bitten und Flehen mit lautem Rufen und Tränen zu Gott
+  - **Option A (Falsch):**
+    - **Vorher:** Gold und Silber der Könige, dargebracht im Heiligtum zu Jerusalem unter starkem Geschrei
+    - **Nachher:** Silber und Gold für den Dienst im Tempel zu Jerusalem
+  - **Option B (Falsch):**
+    - **Vorher:** Brand- und Sündopfer nach der Ordnung Aarons, dargebracht unter starkem Geschrei und Tränen
+    - **Nachher:** Opfertiere nach der alttestamentlichen Satzung des Gesetzes
+  - **Option D (Falsch):**
+    - **Vorher:** Fasten und strenge Kasteiung seines Leibes, dargebracht unter starkem Geschrei und Tränen
+    - **Nachher:** Klagen über die Bosheit der Schriftgelehrten und Pharisäer
+
+### `hebr_023` (Hebräer 5:8)
+- **Frage Vorher:** Wodurch erlernte der Sohn Gottes den Gehorsam während Seines Erdenlebens?
+- **Frage Nachher:** Woran lernte der Sohn Gottes den Gehorsam (Hebräer 5:8)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** An dem, was er litt
+    - **Nachher:** An dem, was er litt in der Welt
+  - **Option A (Falsch):**
+    - **Vorher:** Durch das Studium der hebräischen Schriften
+    - **Nachher:** An den Schriften der Weisen
+  - **Option B (Falsch):**
+    - **Vorher:** Durch die Beachtung römischer Gesetze
+    - **Nachher:** An den Worten der Schriftgelehrten
+  - **Option C (Falsch):**
+    - **Vorher:** Durch die Unterweisung der Ältesten
+    - **Nachher:** An den Satzungen der Pharisäer
+
+### `hebr_024` (Hebräer 5:12)
+- **Bibelstelle Vorher:** `Hebräer 5:12-14` -> **Nachher:** `Hebräer 5:12`
+- **Frage Vorher:** Wessen bedürfen die geistlich Unmündigen im Unterschied zu den Erwachsenen?
+- **Frage Nachher:** Wessen sind die Unmündigen nach Hebräer 5:12 bedürftig geworden?
+- **Richtige Antwort (unverändert, Option A):** Der Milch und nicht fester Speise
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Fester Speise und reinen Weines
+    - **Nachher:** Des Weins und nicht reinen Wassers
+  - **Option C (Falsch):**
+    - **Vorher:** Strenger Zucht durch weltliche Richter
+    - **Nachher:** Des Brotes und nicht fetten Fleisches
+  - **Option D (Falsch):**
+    - **Vorher:** Der Kenntnis heidnischer Philosophien
+    - **Nachher:** Der Kräuter und nicht edlen Weizens
+
+### `hebr_025` (Hebräer 5:14)
+- **Frage Vorher:** Woran erkennt man die geistlich Reifen nach den Worten am Ende von Kapitel 5?
+- **Frage Nachher:** Für wen ist nach Hebräer 5:14 die feste Speise bestimmt?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** An den durch Gewöhnung geübten Sinnen zur Unterscheidung von Gut und Böse
+    - **Nachher:** Für die Gereiften, deren Sinne durch Übung geschult sind
+  - **Option A (Falsch):**
+    - **Vorher:** An ihrem Reichtum, den sie im Dienst für Gott und für die Gemeinde erworben haben
+    - **Nachher:** Für die Unmündigen, die noch keinen Verstand haben
+  - **Option C (Falsch):**
+    - **Vorher:** An ihrer Stellung im Hohen Rat, die ihnen bei allen Menschen Ansehen verleiht
+    - **Nachher:** Für die Priester, welche im Heiligtum des Tempels dienen
+  - **Option D (Falsch):**
+    - **Vorher:** An der genauen Einhaltung der Zeremonien, die das Gesetz Moses vorschreibt
+    - **Nachher:** Für die Schriftgelehrten, die das Gesetz täglich vorlesen
+
+### `hebr_026` (Hebräer 6:1-2)
+- **Frage Vorher:** Welche Lehren gehören nach Hebräer 6:1-2 zum Grundlegenden der Lehre von Christus?
+- **Frage Nachher:** Welcher Grund soll nach Hebräer 6:1 nicht abermals gelegt werden?
+- **Richtige Antwort (unverändert, Option C):** Die Buße von toten Werken und der Glaube an Gott
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Die Beschneidung und das Tempelopfer
+    - **Nachher:** Das Fasten an Sabbaten und das Almosengeben vor Menschen
+  - **Option B (Falsch):**
+    - **Vorher:** Fastenregeln und Sabbatfeier
+    - **Nachher:** Der Bau von Synagogen und das Opfern von Stieren im Tempel
+  - **Option D (Falsch):**
+    - **Vorher:** Steuerzahlung und Gehorsam gegen den Kaiser
+    - **Nachher:** Das Halten der Satzungen und die Furcht vor Richtern
+
+### `hebr_027` (Hebräer 6:4-6)
+- **Frage Vorher:** Was ist unmöglich für diejenigen, die nach Erleuchtung abfallen und den Sohn kreuzigen?
+- **Frage Nachher:** Was ist unmöglich für jene, die nach Empfang der Gabe abgefallen sind (Hebräer 6:6)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Sie wieder zur Buße zu erneuern
+    - **Nachher:** Sie wieder zu erneuern zur Buße, da sie den Sohn kreuzigen
+  - **Option A (Falsch):**
+    - **Vorher:** Dass sie wieder in heidnische Tempel aufgenommen werden
+    - **Nachher:** Dass sie jemals wieder irdischen Reichtum erwerben können
+  - **Option B (Falsch):**
+    - **Vorher:** Dass sie weltlichen Reichtum erlangen
+    - **Nachher:** Dass sie vor den heidnischen Richtern Gerechtigkeit finden
+  - **Option C (Falsch):**
+    - **Vorher:** Dass sie von römischen Richtern bestraft werden
+    - **Nachher:** Dass sie noch einmal in die Versammlung der Heiligen treten
+
+### `hebr_028` (Hebräer 6:13)
+- **Bibelstelle Vorher:** `Hebräer 6:13-14` -> **Nachher:** `Hebräer 6:13`
+- **Frage Vorher:** Bei wem schwor Gott dem Abraham die Erfüllung Seiner Verheißung?
+- **Frage Nachher:** Bei wem schwor Gott dem Abraham die Verheißung (Hebräer 6:13)?
+- **Richtige Antwort (unverändert, Option A):** Bei sich selbst, da er bei keinem Größeren schwören konnte
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Bei den heiligen Engeln, die vor dem Thron Gottes stehen
+    - **Nachher:** Bei den heiligen Engeln, die vor seinem Angesicht dienten
+  - **Option C (Falsch):**
+    - **Vorher:** Bei der Heiligkeit des Tempels, den er in Jerusalem erwählt hatte
+    - **Nachher:** Beim Himmel und der Erde, die er durch sein Wort erschuf
+  - **Option D (Falsch):**
+    - **Vorher:** Bei den Schriften der Propheten, die sein Wort bezeugen
+    - **Nachher:** Beim Tempel in Jerusalem, der zur Ehre seines Namens stand
+
+### `hebr_029` (Hebräer 6:19)
+- **Frage Vorher:** Was dient den Glaubenden als ein sicherer und fester Anker der Seele?
+- **Frage Nachher:** Was dient den Gläubigen als ein sicherer und fester Anker der Seele (Hebräer 6:19)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Die Hoffnung, die bis hinter den Vorhang reicht
+    - **Nachher:** Die Hoffnung, die hineinreicht hinter den Vorhang
+  - **Option A (Falsch):**
+    - **Vorher:** Das Einhalten aller Satzungen, die das Gesetz Moses vorschreibt
+    - **Nachher:** Das geschriebene Gesetz auf steinernen Tafeln
+  - **Option C (Falsch):**
+    - **Vorher:** Die Mitgliedschaft im Hohen Rat, die dem Volk Sicherheit gibt
+    - **Nachher:** Der irdische Reichtum und der Friede mit den Römern
+  - **Option D (Falsch):**
+    - **Vorher:** Die Anhäufung von Reichtum, der für schwere Zeiten bereitliegt
+    - **Nachher:** Das Priestertum Aarons und der Dienst am Altar
+
+### `hebr_030` (Hebräer 6:20)
+- **Frage Vorher:** Wer ging als unser Vorläufer hinter den Vorhang des Heiligtums ein?
+- **Frage Nachher:** Wer ging als Vorläufer für uns hinter den Vorhang ein (Hebräer 6:20)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Jesus, Hohepriester nach der Ordnung Melchisedeks
+    - **Nachher:** Jesus, nach der Ordnung Melchisedeks Hoherpriester
+  - **Option A (Falsch):**
+    - **Vorher:** Der Apostel Paulus, der als erster in die Herrlichkeit einging
+    - **Nachher:** Der Hohepriester Aaron am Versöhnungstag
+  - **Option B (Falsch):**
+    - **Vorher:** Der Hohepriester Aaron, der am Versöhnungstag ins Allerheiligste trat
+    - **Nachher:** Der Prophet Mose nach dem Empfang des Gesetzes
+  - **Option D (Falsch):**
+    - **Vorher:** Der Prophet Mose, der auf dem Berg das Gesetz empfing
+    - **Nachher:** Der Erzvater Abraham nach seinem Sieg über Könige
+
+### `hebr_031` (Hebräer 7:1-2)
+- **Frage Vorher:** Welcher zweifache königliche Titel gebührt Melchisedek nach Seinem Namen und Ort?
+- **Frage Nachher:** Welche Bedeutung hat der Name Melchisedek und sein Titel (Hebräer 7:2)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** König der Gerechtigkeit und König des Friedens (von Salem)
+    - **Nachher:** König der Gerechtigkeit und König des Friedens
+  - **Option A (Falsch):**
+    - **Vorher:** König von Israel und König der Heidenvölker, Herrscher über das Land
+    - **Nachher:** König der Völker und Priester des irdischen Tempels
+  - **Option B (Falsch):**
+    - **Vorher:** König des Tempels und König Roms, Herrscher über Stadt und Reich
+    - **Nachher:** Herrscher über Kanaan und Beschützer der Fremdlinge
+  - **Option C (Falsch):**
+    - **Vorher:** König der Erde und König der Engel, Herrscher über Himmel und Erde
+    - **Nachher:** König von Ägypten und Richter der heidnischen Reiche
+
+### `hebr_032` (Hebräer 7:4)
+- **Bibelstelle Vorher:** `Hebräer 7:2; 7:4` -> **Nachher:** `Hebräer 7:4`
+- **Frage Vorher:** Welchen Anteil der Beute gab der Erzvater Abraham dem Priester Melchisedek?
+- **Frage Nachher:** Welchen Anteil gab Abraham dem Melchisedek von der Beute (Hebräer 7:4)?
+- **Richtige Antwort (unverändert, Option A):** Den Zehnten von der Beute
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Den fünften Teil des erbeuteten Viehs
+    - **Nachher:** Den fünften Teil aller Rinder
+  - **Option C (Falsch):**
+    - **Vorher:** Den Anteil, den die heidnischen Könige forderten
+    - **Nachher:** Den halben Teil alles Silbers
+  - **Option D (Falsch):**
+    - **Vorher:** Nichts, er empfing Geschenke von ihm
+    - **Nachher:** Gar nichts von den Gütern
+
+### `hebr_033` (Hebräer 7:14)
+- **Frage Vorher:** Aus welchem Stamme Israels ist unser HERR Jesus leiblich entsprossen?
+- **Frage Nachher:** Aus welchem Stamme ist unser Herr entsprossen (Hebräer 7:14)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Aus dem Stamm Juda, zu dem Mose nichts vom Priestertum gesagt hat
+    - **Nachher:** Aus dem Stamm Juda, zu dem Mose nichts vom Priestertum redete
+  - **Option A (Falsch):**
+    - **Vorher:** Aus dem Priesterstamm Levi, zu dem Mose vom Priestertum geredet hat
+    - **Nachher:** Aus dem Priesterstamm Levi, dem Mose das Amt übertrug
+  - **Option C (Falsch):**
+    - **Vorher:** Aus dem Stamm Benjamin, zu dem Mose vom Königtum geredet hat
+    - **Nachher:** Aus dem königlichen Stamm Benjamin, dem ersten Herrschergeschlecht
+  - **Option D (Falsch):**
+    - **Vorher:** Aus dem Stamm Ephraim, zu dem Mose vom Erstgeburtsrecht geredet hat
+    - **Nachher:** Aus dem Stamm Ephraim, der das Erstgeburtsrecht im Hause trug
+
+### `hebr_034` (Hebräer 7:24-25)
+- **Frage Vorher:** Warum besitzt der HERR Jesus ein unvergängliches und ewiges Priestertum?
+- **Frage Nachher:** Warum hat Jesus nach Hebräer 7:24 ein unübertragbares Priestertum?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Weil er in Ewigkeit bleibt und allezeit lebt, um für die Seinen einzutreten
+    - **Nachher:** Weil er in Ewigkeit bleibt und immerdar lebt, um für sie einzutreten
+  - **Option A (Falsch):**
+    - **Vorher:** Weil ihn die Behörden dazu beriefen und ihn feierlich bestätigten und einsetzten
+    - **Nachher:** Weil er von den Hohenpriestern in Jerusalem feierlich geweiht wurde
+  - **Option B (Falsch):**
+    - **Vorher:** Weil er das Gesetz lückenlos hielt und darin vor Gott vollkommen war
+    - **Nachher:** Weil er das mosaische Gesetz mit allen Geboten vollkommen erfüllte
+  - **Option D (Falsch):**
+    - **Vorher:** Weil er aus dem Stamm Levi stammte und das Amt vom Vater erbte wie die Söhne Aarons
+    - **Nachher:** Weil er aus dem Geschlecht Aarons stammte und das Amt von Vätern erbte
+
+### `hebr_035` (Hebräer 7:26-27)
+- **Frage Vorher:** Wodurch unterscheidet Sich das Selbstopfer Christi von den Opfern der Leviten?
+- **Frage Nachher:** Wie oft brachte sich Christus als Opfer dar (Hebräer 7:27)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Er opferte sich selbst ein für alle Mal
+    - **Nachher:** Er tat das ein für alle Mal durch sich
+  - **Option B (Falsch):**
+    - **Vorher:** Er brauchte kein Blut
+    - **Nachher:** Er opferte täglich am irdischen Altar
+  - **Option C (Falsch):**
+    - **Vorher:** Er opferte nur für seine eigenen Sünden
+    - **Nachher:** Er opferte nur für die eigenen Sünden
+
+### `hebr_036` (Hebräer 8:1)
+- **Frage Vorher:** Wo sitzt der Hohepriester des Neuen Bundes nach der Hauptsumme der Lehre?
+- **Frage Nachher:** Wo sitzt unser Hoherpriester nach Hebräer 8:1?
+- **Richtige Antwort (unverändert, Option A):** Zur Rechten des Thrones der Majestät im Himmel
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Im Erdheiligtum von Jerusalem unter den Priestern
+    - **Nachher:** Im irdischen Heiligtum unter den Priestern
+  - **Option C (Falsch):**
+    - **Vorher:** In den Versammlungsräumen der Gemeinden der Provinz
+    - **Nachher:** Auf dem Richterstuhl der Vorsteher der Stadt
+  - **Option D (Falsch):**
+    - **Vorher:** Auf dem Thron Abrahams im Land Kanaan
+    - **Nachher:** Auf dem Thron Davids im alten Palast Kanaans
+
+### `hebr_037` (Hebräer 8:6)
+- **Frage Vorher:** Warum ist der Neue Bund, dessen Mittler Christus ist, viel besser als der Erste?
+- **Frage Nachher:** Warum ist der Bund, dessen Mittler Christus ist, besser (Hebräer 8:6)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Weil er auf besseren Verheißungen gegründet ist
+    - **Nachher:** Weil er auf besseren Verheißungen eingesetzt ist
+  - **Option A (Falsch):**
+    - **Vorher:** Weil er auf strengeren Gesetzen und Geboten beruht
+    - **Nachher:** Weil er auf strengeren Gesetzen des Mose beruht
+  - **Option C (Falsch):**
+    - **Vorher:** Weil er alle Tempelopfer unverändert beibehält
+    - **Nachher:** Weil er alle Tieropfer des Tempels beibehält
+  - **Option D (Falsch):**
+    - **Vorher:** Weil er von den Ältesten Israels bestätigt wurde
+    - **Nachher:** Weil er von den Ältesten des Volkes beschlossen ward
+
+### `hebr_038` (Hebräer 8:10)
+- **Frage Vorher:** Wohin schreibt Gott die Gesetze Seines Neuen Bundes nach der Verheißung?
+- **Frage Nachher:** Wohin gibt der Herr Seine Gesetze nach Hebräer 8:10?
+- **Richtige Antwort (unverändert, Option C):** In ihren Sinn und in ihre Herzen
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Auf steinerne Tafeln wie am Sinai
+    - **Nachher:** Auf steinerne Tafeln wie am Berge Sinai
+  - **Option B (Falsch):**
+    - **Vorher:** Auf Pergament im Archiv
+    - **Nachher:** In Bücher aus Pergament für die Priester
+  - **Option D (Falsch):**
+    - **Vorher:** Auf die Wände der Versammlungsräume
+    - **Nachher:** Auf die Pfeiler des irdischen Heiligtums
+
+### `hebr_039` (Hebräer 8:13)
+- **Frage Vorher:** Was geschieht mit dem Ersten Bund, indem Gott ihn als „alt“ bezeichnet?
+- **Frage Nachher:** Was geschieht mit dem Vorherigen, indem Gott einen neuen Bund nennt (Hebräer 8:13)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Er ist veraltet und nahe daran, zu verschwinden
+    - **Nachher:** Er ist veraltet und wird bald verschwinden
+  - **Option A (Falsch):**
+    - **Vorher:** Er wird mit frischem Blut erneuert
+    - **Nachher:** Er wird mit frischem Blut der Kälber erneuert
+  - **Option B (Falsch):**
+    - **Vorher:** Er wird allen Heiden zur Pflicht
+    - **Nachher:** Er bleibt für alle Heidenvölker ewig bestehen
+  - **Option C (Falsch):**
+    - **Vorher:** Er wird in das Gesetzbuch der Römer aufgenommen
+    - **Nachher:** Er wird in das weltliche Gesetzbuch übernommen
+
+### `hebr_040` (Hebräer 8:12)
+- **Frage Vorher:** Welche Zusage macht Gott im Neuen Bund bezüglich der Sünden Seines Volkes?
+- **Frage Nachher:** Welche Zusage gibt der Herr im neuen Bunde in Hebräer 8:12?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Ihrer Sünden und Gesetzwidrigkeiten will ich nicht mehr gedenken
+    - **Nachher:** Ihrer Sünden und ihrer Ungesetzlichkeiten will ich nicht mehr gedenken
+  - **Option B (Falsch):**
+    - **Vorher:** Ich werde ihre Sünden in jedem Geschlecht strafen, bis sie umkehren
+    - **Nachher:** Ihre Sünden will ich an ihren Kindern bis ins vierte Glied heimsuchen
+  - **Option C (Falsch):**
+    - **Vorher:** Ich werde ihre Sünden durch jährliche Opfer fordern, wie ich es gebot
+    - **Nachher:** Ihre Vergehen sollen sie durch jährliche Brandopfer von Stieren büßen
+  - **Option D (Falsch):**
+    - **Vorher:** Ich werde ihre Sünden in das Gesetzbuch schreiben, damit sie bleiben
+    - **Nachher:** Ihre Missetaten will ich vor allen Völkern der Erde öffentlich richten
+
+### `hebr_041` (Hebräer 9:7)
+- **Frage Vorher:** Wie oft im Jahr betrat der hohepriesterliche Stellvertreter das Allerheiligste?
+- **Frage Nachher:** Wie oft ging der Hohepriester in das zweite Zelt hinein (Hebräer 9:7)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Nur einmal im Jahr, nicht ohne Blut
+    - **Nachher:** Einmal im Jahr, nicht ohne Blut
+  - **Option A (Falsch):**
+    - **Vorher:** Jeden Tag beim Morgenopfer
+    - **Nachher:** Täglich zum Morgenopfer
+  - **Option C (Falsch):**
+    - **Vorher:** Jeden Sabbat
+    - **Nachher:** Zu jedem Neumond des Jahres
+  - **Option D (Falsch):**
+    - **Vorher:** Zweimal im Monat zum Neumond
+    - **Nachher:** Dreimal an jedem Festtag
+
+### `hebr_042` (Hebräer 9:12)
+- **Frage Vorher:** Womit ging Christus ein für alle Mal in das himmlische Heiligtum ein?
+- **Frage Nachher:** Wodurch ging Christus ein für alle Mal in das Heiligtum ein (Hebräer 9:12)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Mit seinem eigenen Blut
+    - **Nachher:** Durch sein eigenes Blut ein für alle Mal
+  - **Option A (Falsch):**
+    - **Vorher:** Mit dem Blut von Stieren und Böcken
+    - **Nachher:** Durch das Blut von Böcken und Kälbern
+  - **Option B (Falsch):**
+    - **Vorher:** Mit den goldenen Gefäßen des Heiligtums
+    - **Nachher:** Durch das Wasser der Reinigung am Altar
+  - **Option D (Falsch):**
+    - **Vorher:** Mit den Gesetzestafeln aus der Lade
+    - **Nachher:** Durch das Rauchwerk der Priester im Zelt
+
+### `hebr_043` (Hebräer 9:22)
+- **Frage Vorher:** Was ist nach dem geistlichen Gesetz ohne Blutvergießen völlig unmöglich?
+- **Frage Nachher:** Was geschieht nach Hebräer 9:22 ohne Blutvergießen nicht?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Die Vergebung der Sünden
+    - **Nachher:** Es geschieht keine Vergebung
+  - **Option A (Falsch):**
+    - **Vorher:** Der Bau von Versammlungsräumen
+    - **Nachher:** Keine Weihung der Priester
+  - **Option B (Falsch):**
+    - **Vorher:** Die Einsetzung von Richtern
+    - **Nachher:** Keine Errichtung des Zeltes
+  - **Option C (Falsch):**
+    - **Vorher:** Das Verständnis der Propheten
+    - **Nachher:** Keine Salbung des Königs
+
+### `hebr_044` (Hebräer 9:27)
+- **Frage Vorher:** Was ist den Menschen einmal gesetzt, worauf das unentfliehbare Gericht folgt?
+- **Frage Nachher:** Was ist den Menschen nach Hebräer 9:27 bestimmt?
+- **Richtige Antwort (unverändert, Option A):** Einmal zu sterben, danach aber das Gericht
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Einmal reich zu werden
+    - **Nachher:** Immerfort zu leben ohne jegliches Sterben
+  - **Option C (Falsch):**
+    - **Vorher:** Einmal vor heidnischen Richtern zu stehen
+    - **Nachher:** Wiedergeboren zu werden zu neuem Erdenleben
+  - **Option D (Falsch):**
+    - **Vorher:** Einmal alle Gesetze zu studieren
+    - **Nachher:** Vergessen zu werden nach dem Tode im Grabe
+
+### `hebr_045` (Hebräer 9:28)
+- **Frage Vorher:** Wie oft wurde Christus geopfert, um die Sünden vieler Menschen wegzunehmen?
+- **Frage Nachher:** Wie oft brachte sich Christus dar, um die Sünden vieler hinaufzubringen (Hebräer 9:28)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Ein einziges Mal
+    - **Nachher:** Er hat sich einmal dargebracht
+  - **Option A (Falsch):**
+    - **Vorher:** Jährlich am Versöhnungstag
+    - **Nachher:** Alljährlich am Versöhnungstag
+  - **Option C (Falsch):**
+    - **Vorher:** Dreimal in seinem Dienst
+    - **Nachher:** Täglich im himmlischen Zelt
+  - **Option D (Falsch):**
+    - **Vorher:** Täglich auf dem Altar
+    - **Nachher:** Dreimal vor den Zeugen Gottes
+
+### `hebr_046` (Hebräer 10:1)
+- **Frage Vorher:** Was besaß das alttestamentliche Gesetz im Hinblick auf die künftigen Güter?
+- **Frage Nachher:** Was hatte das Gesetz im Hinblick auf die zukünftigen Güter (Hebräer 10:1)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Nur einen Schatten der zukünftigen Güter, nicht das Wesen der Dinge selbst
+    - **Nachher:** Einen Schatten der zukünftigen Güter, nicht das Ebenbild der Dinge
+  - **Option A (Falsch):**
+    - **Vorher:** Die volle Wirklichkeit selbst und das Wesen der künftigen Güter
+    - **Nachher:** Das vollkommene Wesen und die Erfüllung aller göttlichen Verheißungen
+  - **Option B (Falsch):**
+    - **Vorher:** Keinerlei Beziehung zu ihnen, denn es sprach nur von der Gegenwart
+    - **Nachher:** Die wirksame Kraft, alle Hinzutretenden für immer vollkommen zu machen
+  - **Option D (Falsch):**
+    - **Vorher:** Die Kraft zur vollkommenen Reinigung und zur Vergebung der Sünden
+    - **Nachher:** Den ewigen Bund, welcher durch kein anderes Opfer abgelöst werden kann
+
+### `hebr_047` (Hebräer 10:5)
+- **Bibelstelle Vorher:** `Hebräer 10:5-7` -> **Nachher:** `Hebräer 10:5`
+- **Frage Vorher:** Was hat Gott dem Sohn bereitet, damit Er den göttlichen Willen erfülle?
+- **Frage Nachher:** Was hat Gott dem Sohne zubereitet nach Hebräer 10:5?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Einen Leib
+    - **Nachher:** Einen Leib hat er zubereitet
+  - **Option A (Falsch):**
+    - **Vorher:** Einen Tempel aus Gold
+    - **Nachher:** Ein goldenes Zepter der Macht
+  - **Option B (Falsch):**
+    - **Vorher:** Ein Schwert gegen seine Feinde
+    - **Nachher:** Ein irdisches Herrscherreich
+  - **Option C (Falsch):**
+    - **Vorher:** Eine Krone weltlicher Herrschaft
+    - **Nachher:** Ein Ehrenkleid der Priester
+
+### `hebr_048` (Hebräer 10:24)
+- **Frage Vorher:** Wozu sollen sich die Glaubenden gegenseitig anspornen und ermutigen?
+- **Frage Nachher:** Wozu sollen wir uns gegenseitig anspornen nach Hebräer 10:24?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Zur Liebe und zu guten Werken
+    - **Nachher:** Zur Liebe und zu edlen Werken
+  - **Option B (Falsch):**
+    - **Vorher:** Zum Streit mit den Richtern Roms
+    - **Nachher:** Zum Sammeln irdischer Schätze
+  - **Option C (Falsch):**
+    - **Vorher:** Zum Sammeln großer Schätze
+    - **Nachher:** Zum Streit über die Gesetze
+  - **Option D (Falsch):**
+    - **Vorher:** Zum Verlassen der heidnischen Städte
+    - **Nachher:** Zum Richtstuhl der Weltleute
+
+### `hebr_049` (Hebräer 10:25)
+- **Frage Vorher:** Was sollen die Glaubenden nicht verlassen, wie etliche es sich angewöhnten?
+- **Frage Nachher:** Was sollen wir nach Hebräer 10:25 nicht verlassen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Ihre gemeinsame Versammlung
+    - **Nachher:** Unsere eigene Zusammenkunft
+  - **Option A (Falsch):**
+    - **Vorher:** Die Gesetze der Vorfahren
+    - **Nachher:** Die Gesetze des alten Bundes
+  - **Option C (Falsch):**
+    - **Vorher:** Die Häuser der Verwandten
+    - **Nachher:** Den Tempel von Jerusalem
+  - **Option D (Falsch):**
+    - **Vorher:** Die Arbeit mit eigenen Händen
+    - **Nachher:** Die Lehre der Schriftgelehrten
+
+### `hebr_050` (Hebräer 10:26-27)
+- **Frage Vorher:** Was erwartet denjenigen, der nach empfangener Erkenntnis der Wahrheit vorsätzlich sündigt?
+- **Frage Nachher:** Was bleibt für jene, die nach Empfang der Wahrheit freiwillig sündigen (Hebräer 10:27)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Ein furchtbares Erwarten des Gerichts und des Eifers eines Feuers
+    - **Nachher:** Ein schreckliches Erwarten des Gerichts und der Eifer des Feuers
+  - **Option A (Falsch):**
+    - **Vorher:** Schnelle Vergebung ohne Buße, da das Opfer Christi genügt
+    - **Nachher:** Ein neues Opfertier am Altar zur vollkommenen Sühnung
+  - **Option B (Falsch):**
+    - **Vorher:** Eine geringe Geldbuße, die er dem Heiligtum zahlen muss
+    - **Nachher:** Ein Nachlass der Sünden ohne jegliches göttliches Gericht
+  - **Option D (Falsch):**
+    - **Vorher:** Völlige Straffreiheit, da Gott die Absicht des Herzens nicht richtet
+    - **Nachher:** Eine weitere Gnadenzeit zur freiwilligen Umkehr vor Gott
+
+### `hebr_051` (Hebräer 11:1)
+- **Frage Vorher:** Was ist der Glauben nach der klassischen Definition im elften Kapitel?
+- **Frage Nachher:** Wie lautet die biblische Wesensbestimmung des Glaubens in Hebräer 11:1?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Eine feste Zuversicht auf das, was man hofft, ein Nichtzweifeln an dem, was man nicht sieht
+    - **Nachher:** Ein Beharren auf dem, was man hofft, eine Überzeugung von Dingen, die man nicht sieht
+  - **Option A (Falsch):**
+    - **Vorher:** Ein vages Gefühl ohne feste Grundlage, das mit den Umständen und der Stimmung wechselt
+    - **Nachher:** Ein menschliches Hoffen auf irdisches Glück und das Trachten nach Gütern
+  - **Option B (Falsch):**
+    - **Vorher:** Ein Wissen um alle Tatsachen, das der Mensch durch Forschen und Lernen erwirbt
+    - **Nachher:** Ein bloßes Fürwahrhalten der Schriften ohne persönliche Hingabe des Herzens
+  - **Option C (Falsch):**
+    - **Vorher:** Eine Leistung des Verstandes, die durch Übung und Bildung immer weiter verbessert werden kann
+    - **Nachher:** Eine vorübergehende Begeisterung der Seele, welche im Leiden schnell vergeht
+
+### `hebr_052` (Hebräer 11:4)
+- **Frage Vorher:** Wodurch brachte Habel Gott ein besseres Opfer dar als sein Bruder Kain?
+- **Frage Nachher:** Wodurch brachte Abel Gott ein größeres Opfer dar als Kain (Hebräer 11:4)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Durch den Glauben
+    - **Nachher:** Durch Glauben brachte er es dar
+  - **Option B (Falsch):**
+    - **Vorher:** Durch den Reichtum seiner Herde
+    - **Nachher:** Durch großen Reichtum an Schafen
+  - **Option C (Falsch):**
+    - **Vorher:** Durch die Hilfe seiner Eltern
+    - **Nachher:** Durch das Fasten vor dem Altare
+  - **Option D (Falsch):**
+    - **Vorher:** Durch das Befolgen der Tempelgesetze
+    - **Nachher:** Durch den Rat seines Vaters Adam
+
+### `hebr_053` (Hebräer 11:5)
+- **Bibelstelle Vorher:** `Hebräer 11:5-6` -> **Nachher:** `Hebräer 11:5`
+- **Frage Vorher:** Welches Zeugnis empfing Henoch, ehe er von Gott hinweggenommen wurde?
+- **Frage Nachher:** Welches Zeugnis empfing Henoch vor seiner Entrückung (Hebräer 11:5)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Dass er Gott gefallen habe
+    - **Nachher:** Dass er Gott wohlgefallen habe
+  - **Option A (Falsch):**
+    - **Vorher:** Dass er der reichste Mann war
+    - **Nachher:** Dass er reich war an irdischem Gut
+  - **Option C (Falsch):**
+    - **Vorher:** Dass er einen großen Tempel baute
+    - **Nachher:** Dass er viele Kriege gewonnen habe
+  - **Option D (Falsch):**
+    - **Vorher:** Dass er über seine Nachbarn herrschte
+    - **Nachher:** Dass er ein mächtiger König war
+
+### `hebr_054` (Hebräer 11:8)
+- **Frage Vorher:** Wie gehorchte Abraham, als er berufen wurde, in ein Land auszuziehen?
+- **Frage Nachher:** Wie zog Abraham aus, als er berufen wurde (Hebräer 11:8)?
+- **Richtige Antwort (unverändert, Option C):** Im Glauben zog er aus, ohne zu wissen, wohin er kommen würde
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Zögernd, erst nach Jahren des Nachdenkens und nach langem Zweifeln
+    - **Nachher:** Mit großer Kriegsmacht, um das fremde Land mit Gewalt einzunehmen
+  - **Option B (Falsch):**
+    - **Vorher:** Nur unter dem Schutz eines römischen Heeres, das ihn begleitete
+    - **Nachher:** Nachdem er genaue Kundschafter ausgesandt und das Erbteil besichtigt hatte
+  - **Option D (Falsch):**
+    - **Vorher:** Erst nachdem er eine Landkarte gesehen und den Weg erkundet hatte
+    - **Nachher:** Nur bis Haran, wo er auf Befehl seines Vaters für immer sesshaft blieb
+
+### `hebr_055` (Hebräer 11:24-26)
+- **Frage Vorher:** Was erwählte Mose lieber als den vorübergehenden Genuss der Sünde Ägyptens?
+- **Frage Nachher:** Was zog Mose dem zeitlichen Genuss der Sünde vor (Hebräer 11:25)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Mit dem Volk Gottes Misshandlung zu leiden
+    - **Nachher:** Lieber mit dem Volk Gottes Misshandlung und Übles zu erdulden
+  - **Option A (Falsch):**
+    - **Vorher:** Die Schätze Ägyptens zu genießen und im Königshaus zu bleiben
+    - **Nachher:** Als reicher Fürst in den Palästen der Pharaonen zu herrschen
+  - **Option B (Falsch):**
+    - **Vorher:** Den Thron Ägyptens zu besteigen und über das Land zu herrschen
+    - **Nachher:** Die Weisheit und Wissenschaft Ägyptens vor Gelehrten zu lehren
+  - **Option C (Falsch):**
+    - **Vorher:** Ein ruhiges Leben in Athen zu führen und dort zu studieren
+    - **Nachher:** Aus Ägypten zu fliehen und im Lande Midian still zu wohnen
+
+### `hebr_056` (Hebräer 12:1)
+- **Frage Vorher:** Von was für einer Wolke sehen sich die Glaubenden im Wettlauf umgeben?
+- **Frage Nachher:** Von was für einer Wolke sehen wir uns umgeben (Hebräer 12:1)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Von einer großen Wolke von Zeugen
+    - **Nachher:** Von einer solchen Wolke von Zeugen
+  - **Option C (Falsch):**
+    - **Vorher:** Von einer Wolke heidnischer Philosophie
+    - **Nachher:** Von einer Wolke feuriger Engelwagen
+  - **Option D (Falsch):**
+    - **Vorher:** Von einer Wolke des Leidens
+    - **Nachher:** Von einer Wolke heidnischer Feinde
+
+### `hebr_057` (Hebräer 12:2)
+- **Frage Vorher:** Auf wen sollen die Läufer im geistlichen Wettkampf unverwandt blicken?
+- **Frage Nachher:** Auf wen sollen wir im Wettkampf blicken (Hebräer 12:2)?
+- **Richtige Antwort (unverändert, Option B):** Auf Jesus, den Anfänger und Vollender des Glaubens
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Auf die Könige des Alten Bundes, die ihnen vorangegangen sind
+    - **Nachher:** Auf die Vorbilder der Patriarchen
+  - **Option C (Falsch):**
+    - **Vorher:** Auf die römischen Richter, die über Sieg und Niederlage entscheiden
+    - **Nachher:** Auf die Gerechtigkeit der Schriftgelehrten
+  - **Option D (Falsch):**
+    - **Vorher:** Auf die eigenen Erfolge, die sie bisher errungen haben
+    - **Nachher:** Auf die Stärke unseres eigenen Fleisches
+
+### `hebr_058` (Hebräer 12:6)
+- **Frage Vorher:** Wie begegnet Gott Seinen geliebten Kindern nach den Worten im zwölften Kapitel?
+- **Frage Nachher:** Wen züchtigt der Herr nach Hebräer 12:6?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Er züchtigt jeden Sohn, den er annimmt
+    - **Nachher:** Welchen der Herr lieb hat, den züchtigt er
+  - **Option A (Falsch):**
+    - **Vorher:** Er lässt sie ohne Führung
+    - **Nachher:** Ausschließlich die Ungehorsamen und Verstockten
+  - **Option B (Falsch):**
+    - **Vorher:** Er straft sie mit ewiger Verwerfung
+    - **Nachher:** Nur jene, die von seinem heiligen Worte abfallen
+  - **Option D (Falsch):**
+    - **Vorher:** Er schenkt ihnen nur irdischen Reichtum
+    - **Nachher:** Niemanden, er lässt jeden Menschen gewähren
+
+### `hebr_059` (Hebräer 12:22)
+- **Frage Vorher:** Zu welchem hehren geistlichen Berg sind die Glaubenden im Neuen Bund getreten?
+- **Frage Nachher:** Wohin sind die Gläubigen nach Hebräer 12:22 gekommen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Zum Berg Zion und zur Stadt des lebendigen Gottes, dem himmlischen Jerusalem
+    - **Nachher:** Zu dem Berg Zion und der Stadt des lebendigen Gottes
+  - **Option A (Falsch):**
+    - **Vorher:** Zum rauchenden Berg Sinai, wo das Gesetz unter Donner und Feuer gegeben wurde
+    - **Nachher:** Zu dem rauchenden Berg Sinai mit Blitz und Donner
+  - **Option B (Falsch):**
+    - **Vorher:** Zum Götterberg der Heiden, auf dem die Völker ihre Opfer darbringen und beten
+    - **Nachher:** Zu den Richtstühlen der mächtigen heidnischen Kaiser
+  - **Option C (Falsch):**
+    - **Vorher:** Zum Berg Karmel, wo Elia den Baalspriestern gegenübertrat und Feuer fiel
+    - **Nachher:** Zu dem irdischen Tempel mit seinen vielen Priestern
+
+### `hebr_060` (Hebräer 12:29)
+- **Frage Vorher:** Wie wird das göttliche Wesen am Ende des zwölften Kapitels beschrieben?
+- **Frage Nachher:** Wie wird unser Gott in Hebräer 12:29 beschrieben?
+- **Richtige Antwort (unverändert, Option A):** Unser Gott ist ein verzehrendes Feuer
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Unser Gott ist ein kalter Beobachter
+    - **Nachher:** Unser Gott ist ein nachsichtiger Richter
+  - **Option C (Falsch):**
+    - **Vorher:** Unser Gott verlangt keine Opfer mehr
+    - **Nachher:** Unser Gott ist fernab von dieser Welt
+  - **Option D (Falsch):**
+    - **Vorher:** Unser Gott richtet die Taten der Menschen nie
+    - **Nachher:** Unser Gott achtet nicht auf die Sünde
+
+### `hebr_061` (Hebräer 13:2)
+- **Frage Vorher:** Warum soll die Pflicht der Gastfreundschaft unter den Heiligen geübt werden?
+- **Frage Nachher:** Warum soll die Gastfreundschaft nicht vergessen werden (Hebräer 13:2)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Weil manche dadurch ohne ihr Wissen Engel beherbergt haben
+    - **Nachher:** Weil etliche dadurch ohne ihr Wissen Engel beherbergt haben
+  - **Option A (Falsch):**
+    - **Vorher:** Weil man dabei Geld verdient und im Handel Gewinn macht
+    - **Nachher:** Weil man dadurch irdischen Reichtum erwerben kann
+  - **Option C (Falsch):**
+    - **Vorher:** Weil das römische Gesetz es verlangt und Strafen androht
+    - **Nachher:** Weil die heidnischen Behörden die Gastfreundschaft fordern
+  - **Option D (Falsch):**
+    - **Vorher:** Weil die Pharisäer es fordern und darüber wachen
+    - **Nachher:** Weil man dadurch weltliches Ansehen bei den Nachbarn gewinnt
+
+### `hebr_062` (Hebräer 13:4)
+- **Frage Vorher:** Wie soll der Stand der Ehe unter allen Glaubenden gehalten werden?
+- **Frage Nachher:** Wie soll die Ehe gehalten werden nach Hebräer 13:4?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** In Ehren, und das Ehebett unbefleckt
+    - **Nachher:** Von allen in Ehren zu halten und das Ehebett unbefleckt
+  - **Option A (Falsch):**
+    - **Vorher:** Als vorübergehende Verbindung
+    - **Nachher:** Als eine weltliche Angelegenheit ohne Heiligkeit
+  - **Option B (Falsch):**
+    - **Vorher:** Nur geduldet und minderwertig
+    - **Nachher:** Nur zur Mehrung von irdischem Gut und Besitz
+  - **Option D (Falsch):**
+    - **Vorher:** Unter Aufsicht der Statthalter
+    - **Nachher:** Nur für jene, die kein geistliches Amt bekleiden
+
+### `hebr_063` (Hebräer 13:8)
+- **Frage Vorher:** Welches unerschütterliche Bekenntnis gilt von unserem HERRN Jesus Christus?
+- **Frage Nachher:** Welches Bekenntnis gilt von Jesus Christus in Hebräer 13:8?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Jesus Christus gestern und heute und derselbe auch in Ewigkeit
+    - **Nachher:** Jesus Christus ist gestern und heute derselbe und in Ewigkeit
+  - **Option A (Falsch):**
+    - **Vorher:** Jesus Christus ändert seine Lehre mit der Zeit und den Umständen
+    - **Nachher:** Er wandelt sich mit den Zeiten und den menschlichen Gedanken
+  - **Option B (Falsch):**
+    - **Vorher:** Jesus Christus war nur für die Alten ein Retter und Hohepriester
+    - **Nachher:** Er war nur in den Tagen seines Erdenlebens mächtig und treu
+  - **Option C (Falsch):**
+    - **Vorher:** Jesus Christus passt sich den Sitten der Heiden an und ändert sich
+    - **Nachher:** Er offenbart sich in jeder Generation in anderer Gestalt
+
+### `hebr_064` (Hebräer 13:12)
+- **Frage Vorher:** Wo litt der HERR Jesus, um das Volk durch Sein eigenes Blut zu heiligen?
+- **Frage Nachher:** Wo litt Jesus, um das Volk durch Sein eigenes Blut zu heiligen (Hebräer 13:12)?
+- **Richtige Antwort (unverändert, Option A):** Außerhalb des Tores
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Im Allerheiligsten des Tempels
+    - **Nachher:** Im Innern des Tempels
+  - **Option C (Falsch):**
+    - **Vorher:** Im Palast des römischen Statthalters
+    - **Nachher:** Im Palast des Kaisers
+  - **Option D (Falsch):**
+    - **Vorher:** Auf dem Berg Sinai
+    - **Nachher:** Auf dem Berge Sinai
+
+### `hebr_065` (Hebräer 13:15)
+- **Frage Vorher:** Welches geistliche Opfer des Lobes sollen Glaubende durch Christus darbringen?
+- **Frage Nachher:** Welches Opfer des Lobes sollen wir Gott allezeit darbringen (Hebräer 13:15)?
+- **Richtige Antwort (unverändert, Option B):** Die Frucht der Lippen, die seinen Namen bekennen
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Brandopfer von Rindern und Schafen, wie sie im Tempel dargebracht werden
+    - **Nachher:** Brandopfer von Rindern und Schafen am Altar
+  - **Option C (Falsch):**
+    - **Vorher:** Abgaben an das Heiligtum, die jeder Gläubige zu zahlen hat
+    - **Nachher:** Silber und Gold für die Kasse des Heiligtums
+  - **Option D (Falsch):**
+    - **Vorher:** Die Anbetung heidnischer Herrscher, wie sie das Volk übt
+    - **Nachher:** Das Fleisch gemästeter Kälber vor den Priestern
+
+### `hebr_066` (Hebräer 11:5-7)
+- **Frage Vorher:** Welche zwei Männer werden in Hebräer 11:5-7 nach Abel als Zeugen des Glaubens genannt?
+- **Frage Nachher:** Welche zwei Glaubenszeugen werden in Hebräer 11:5-7 nach Abel genannt?

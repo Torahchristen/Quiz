@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-11-06T12:19:22Z",
+  "lastUpdated": "2026-11-06T12:25:16Z",
   "language": "en",
   "categories": [
     {
@@ -1201,6 +1201,29 @@
       ],
       "sizeBytes": 5647,
       "downloadUrl": "./en/57_philemon.json"
+    },
+    {
+      "quizId": "nt_19_hebraeer_alle_kapitel_en",
+      "category": "nt",
+      "title": "Hebrews",
+      "subtitle": "Hebrews 1:1 – 13:25 (66 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 66,
+      "difficulty": "medium",
+      "tags": [
+        "Hebrews",
+        "New Testament",
+        "Epistle to the Hebrews",
+        "Faith",
+        "High Priest",
+        "Melchisedec",
+        "New Covenant",
+        "King James Version"
+      ],
+      "sizeBytes": 62833,
+      "downloadUrl": "./en/58_hebraeer.json"
     }
   ]
 }

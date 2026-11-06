@@ -25,1973 +25,2237 @@
     {
       "questionId": "hebr_001",
       "type": "single_choice",
-      "text": "Auf welche Weise hat Gott am Ende dieser Tage zu den Menschen gesprochen?",
+      "text": "Auf welche Weise hat Gott in diesen letzten Tagen zu uns geredet (Hebräer 1:1-2)?",
       "options": [
         {
-          "text": "Durch die Engel, die er zu den Vätern gesandt und mit Botschaften beauftragt hat",
-          "explanation": "Das trifft nicht zu. Richtig ist: Durch den Sohn, den er zum Erben über alles eingesetzt hat [ref:Hebräer 1:1-2]."
+          "text": "Durch die Engel, die er mit himmlischen Botschaften sandte",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Durch den Sohn, den er zum Erben über alles eingesetzt hat",
-          "explanation": "Nachdem Gott vorzeiten vielfach und auf vielerlei Weise zu den Vätern geredet hat durch die Propheten, hat er am Ende dieser Tage zu uns geredet durch den Sohn [ref:Hebräer 1:1-2]."
+          "text": "Durch den Sohn, den er zum Erben von allem eingesetzt hat",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Durch die Propheten der alten Zeit, die er in vielen Stücken berufen hat",
-          "explanation": "Das trifft nicht zu. Richtig ist: Durch den Sohn, den er zum Erben über alles eingesetzt hat [ref:Hebräer 1:1-2]."
+          "text": "Durch die Propheten der Vorzeit, die in Rätseln weissagten",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Durch die Priester des Heiligtums, die er im Tempel dazu bestellt hat",
-          "explanation": "Das trifft nicht zu. Richtig ist: Durch den Sohn, den er zum Erben über alles eingesetzt hat [ref:Hebräer 1:1-2]."
+          "text": "Durch die Priester des Heiligtums bei den jährlichen Festen",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Hebräer 1:1-2",
-      "explanation": "Nachdem Gott vorzeiten vielfach und auf vielerlei Weise zu den Vätern geredet hat durch die Propheten, hat er am Ende dieser Tage zu uns geredet durch den Sohn [ref:Hebräer 1:1-2].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "hebr_002",
       "type": "single_choice",
-      "text": "Welchen Namen hat der Sohn Gottes geerbt im Vergleich zu allen Engeln?",
+      "text": "Welchen Namen hat der Sohn im Vergleich zu den Engeln geerbt (Hebräer 1:4)?",
       "options": [
         {
-          "text": "Einen bekannteren Namen als alle Engel und Mächte zusammen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Einen weit erhabeneren Namen als sie [ref:Hebräer 1:4]."
+          "text": "Einen weithin bekannten Namen unter allen Engeln und Mächten",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Einen strengeren Namen als der Name, den sie im Himmel tragen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Einen weit erhabeneren Namen als sie [ref:Hebräer 1:4]."
+          "text": "Einen viel strengeren Namen als der Name der himmlischen Boten",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Einen weit erhabeneren Namen als sie",
-          "explanation": "Er ist um so viel mächtiger geworden als die Engel, wie der Name, den er ererbt hat, den ihren überragt [ref:Hebräer 1:4]."
+          "text": "Einen umso vortrefflicheren Namen, der ihn vor ihnen auszeichnet",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Einen älteren Namen als der Name, den sie von Anbeginn führen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Einen weit erhabeneren Namen als sie [ref:Hebräer 1:4]."
+          "text": "Einen weit älteren Namen als der Name aller himmlischen Fürsten",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Hebräer 1:4",
-      "explanation": "Er ist um so viel mächtiger geworden als die Engel, wie der Name, den er ererbt hat, den ihren überragt [ref:Hebräer 1:4].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "hebr_003",
       "type": "single_choice",
-      "text": "Zu welchem der Engel hat Gott jemals gesagt: „Du bist mein Sohn“?",
+      "text": "Zu welchem von den Engeln hat Gott jemals gesagt: «Du bist mein Sohn» (Hebräer 1:5)?",
       "options": [
         {
           "text": "Zum Erzengel Michael",
-          "explanation": "Das trifft nicht zu. Richtig ist: Zu keinem der Engel [ref:Hebräer 1:5]."
+          "explanation": "",
+          "isCorrect": false
         },
         {
           "text": "Zum Engel Gabriel",
-          "explanation": "Das trifft nicht zu. Richtig ist: Zu keinem der Engel [ref:Hebräer 1:5]."
+          "explanation": "",
+          "isCorrect": false
         },
         {
           "text": "Zu den Seraphim",
-          "explanation": "Das trifft nicht zu. Richtig ist: Zu keinem der Engel [ref:Hebräer 1:5]."
+          "explanation": "",
+          "isCorrect": false
         },
         {
           "text": "Zu keinem der Engel",
-          "explanation": "Denn zu welchem der Engel hat er jemals gesagt: Du bist mein Sohn, heute habe ich dich gezeugt? [ref:Hebräer 1:5]."
+          "explanation": "",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Hebräer 1:5",
-      "explanation": "Denn zu welchem der Engel hat er jemals gesagt: Du bist mein Sohn, heute habe ich dich gezeugt? [ref:Hebräer 1:5].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "hebr_004",
       "type": "single_choice",
-      "text": "Welche Aufgabe erfüllen die Engel Gottes nach den Worten im ersten Kapitel?",
+      "text": "Welche Aufgabe erfüllen alle Engel nach Hebräer 1:14?",
       "options": [
         {
-          "text": "Sie sind dienstbare Geister, ausgesandt zum Dienst um derer willen, die das Heil ererben sollen",
-          "explanation": "Sind sie nicht allesamt dienstbare Geister, ausgesandt zum Dienst um derer willen, die das Heil erben sollen? [ref:Hebräer 1:14]."
+          "text": "Sie sind dienstbare Geister, ausgesandt zum Dienst um derer willen, welche das Heil erben",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Sie sind selbständige Herrscher, ausgesandt zum Gericht über die Völker der Erde und ihre Reiche",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie sind dienstbare Geister, ausgesandt zum Dienst um derer willen, die das Heil ererben sollen [ref:Hebräer 1:14]."
+          "text": "Sie sind selbständige Herrscher, ausgesandt zum Gericht über die heidnischen Völker der Erde",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Sie sind strenge Richter, bestellt zur Bestrafung aller, die dem Heil beharrlich widerstehen und trotzen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie sind dienstbare Geister, ausgesandt zum Dienst um derer willen, die das Heil ererben sollen [ref:Hebräer 1:14]."
+          "text": "Sie sind strenge Richter, bestellt zur Bestrafung aller, die dem Worte Gottes widerstehen",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Sie sind ewige Hohepriester, eingesetzt zum Dienst im himmlischen Heiligtum vor dem Thron",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie sind dienstbare Geister, ausgesandt zum Dienst um derer willen, die das Heil ererben sollen [ref:Hebräer 1:14]."
+          "text": "Sie sind ewige Priester, eingesetzt zum Opferdienst im himmlischen Zelt vor Gottes Thron",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Hebräer 1:14",
-      "explanation": "Sind sie nicht allesamt dienstbare Geister, ausgesandt zum Dienst um derer willen, die das Heil erben sollen? [ref:Hebräer 1:14].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "hebr_005",
       "type": "single_choice",
-      "text": "Womit hat Gott Seinen Sohn vor Seinen Gefährten gesalbt?",
+      "text": "Womit hat Gott Seinen Sohn vor Seinen Mitgenossen gesalbt (Hebräer 1:9)?",
       "options": [
         {
-          "text": "Mit dem feinsten Salböl der Alten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Mit Freudenöl, mehr als seine Gefährten [ref:Hebräer 1:9]."
+          "text": "Mit reinem Myrrhenöl im Heiligtum",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Mit Freudenöl, mehr als seine Gefährten",
-          "explanation": "Du hast Gerechtigkeit geliebt und Gesetzlosigkeit gehasst; darum hat dich, Gott, dein Gott gesalbt mit Freudenöl über deine Gefährten [ref:Hebräer 1:9]."
+          "text": "Mit Freudenöl, mehr als seine Mitgenossen",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Mit dem Reinigungswasser des Tempels",
-          "explanation": "Das trifft nicht zu. Richtig ist: Mit Freudenöl, mehr als seine Gefährten [ref:Hebräer 1:9]."
+          "text": "Mit Weihrauch vor dem Angesicht Gottes",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Mit dem Blut eines Opfers",
-          "explanation": "Das trifft nicht zu. Richtig ist: Mit Freudenöl, mehr als seine Gefährten [ref:Hebräer 1:9]."
+          "text": "Mit kostbarem Nardenöl der Priester",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Hebräer 1:9",
-      "explanation": "Du hast Gerechtigkeit geliebt und Gesetzlosigkeit gehasst; darum hat dich, Gott, dein Gott gesalbt mit Freudenöl über deine Gefährten [ref:Hebräer 1:9].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "hebr_006",
       "type": "single_choice",
-      "text": "Warum müssen die Glaubenden umso mehr auf das gehörte Wort achten?",
+      "text": "Warum sollen wir desto mehr auf das achten, was wir gehört haben (Hebräer 2:1)?",
       "options": [
         {
-          "text": "Damit sie nicht gegen römische Gesetze verstoßen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Damit sie nicht am Heil vorbeitreiben [ref:Hebräer 2:1]."
+          "text": "Damit wir nicht vor den heidnischen Richtern gerichtet werden",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Damit sie nicht verarmen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Damit sie nicht am Heil vorbeitreiben [ref:Hebräer 2:1]."
+          "text": "Damit wir durch eigene Werke vor der Versammlung glänzen",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Damit sie nicht am Heil vorbeitreiben",
-          "explanation": "Darum sollen wir um so mehr auf das Gehörte achten, damit wir nicht am Heil vorübertreiben [ref:Hebräer 2:1]."
+          "text": "Damit wir nicht etwa an dem gehörten Worte vorbeigleiten",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Damit sie nicht die Gunst des Hohen Rates verlieren",
-          "explanation": "Das trifft nicht zu. Richtig ist: Damit sie nicht am Heil vorbeitreiben [ref:Hebräer 2:1]."
+          "text": "Damit wir den Beifall der Schriftgelehrten erlangen können",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Hebräer 2:1",
-      "explanation": "Darum sollen wir um so mehr auf das Gehörte achten, damit wir nicht am Heil vorübertreiben [ref:Hebräer 2:1].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "hebr_007",
       "type": "single_choice",
-      "text": "Wodurch schmeckte Jesus nach Hebräer 2:9 den Tod für alle?",
+      "text": "Wodurch schmeckte Jesus nach Hebräer 2:9 den Tod für einen jeden?",
       "options": [
         {
-          "text": "Durch die Ungerechtigkeit heidnischer Richter",
-          "explanation": "Das trifft nicht zu. Richtig ist: Durch Gottes Gnade für alle [ref:Hebräer 2:9]."
+          "text": "Durch den Willen der Menschen",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Durch die Machtlosigkeit seiner Jünger",
-          "explanation": "Das trifft nicht zu. Richtig ist: Durch Gottes Gnade für alle [ref:Hebräer 2:9]."
+          "text": "Durch das Gesetz des Mose",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Durch das harte Gesetz des Alten Bundes",
-          "explanation": "Das trifft nicht zu. Richtig ist: Durch Gottes Gnade für alle [ref:Hebräer 2:9]."
+          "text": "Durch eigene Menschenkraft",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Durch Gottes Gnade für alle",
-          "explanation": "Wir sehen Jesus, der ein wenig unter die Engel erniedrigt war, wegen des Todesleidens mit Ehre und Herrlichkeit gekrönt, damit er durch Gottes Gnade für alle den Tod schmeckte [ref:Hebräer 2:9]."
+          "text": "Durch die Gnade Gottes",
+          "explanation": "",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Hebräer 2:9",
-      "explanation": "Wir sehen Jesus, der ein wenig unter die Engel erniedrigt war, wegen des Todesleidens mit Ehre und Herrlichkeit gekrönt, damit er durch Gottes Gnade für alle den Tod schmeckte [ref:Hebräer 2:9].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "hebr_008",
       "type": "single_choice",
-      "text": "Wozu wurde der Urheber des Heils durch Leiden von Gott vollendet?",
+      "text": "Wozu vollendete Gott den Anführer ihres Heils durch Leiden (Hebräer 2:10)?",
       "options": [
         {
-          "text": "Um viele Söhne zur Herrlichkeit zu führen",
-          "explanation": "Es ziemte sich für den, um dessentwillen alles ist, viele Söhne zur Herrlichkeit zu führen und den Anfänger ihres Heils durch Leiden vollkommen zu machen [ref:Hebräer 2:10]."
+          "text": "Als er viele Söhne zur Herrlichkeit führte",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Um die weltliche Macht Israels aufzurichten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Um viele Söhne zur Herrlichkeit zu führen [ref:Hebräer 2:10]."
+          "text": "Um alle irdischen Königreiche zu vernichten",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Um das Gesetz neu zu schreiben",
-          "explanation": "Das trifft nicht zu. Richtig ist: Um viele Söhne zur Herrlichkeit zu führen [ref:Hebräer 2:10]."
+          "text": "Um den Tempel zu Jerusalem von neuem zu bauen",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Um den Tempel sofort zu erneuern",
-          "explanation": "Das trifft nicht zu. Richtig ist: Um viele Söhne zur Herrlichkeit zu führen [ref:Hebräer 2:10]."
+          "text": "Um den Gerechten weltlichen Reichtum zu schenken",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Hebräer 2:10",
-      "explanation": "Es ziemte sich für den, um dessentwillen alles ist, viele Söhne zur Herrlichkeit zu führen und den Anfänger ihres Heils durch Leiden vollkommen zu machen [ref:Hebräer 2:10].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "hebr_009",
       "type": "single_choice",
-      "text": "Wodurch entmachtete Christus denjenigen, der die Macht des Todes hatte?",
+      "text": "Wodurch setzte Christus den außer Wirksamkeit, der die Gewalt des Todes hat (Hebräer 2:14)?",
       "options": [
         {
-          "text": "Durch ein langes Gericht vor den Ältesten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Durch seinen Tod am Kreuz [ref:Hebräer 2:14]."
+          "text": "Durch ein Heer mächtiger Engel",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Durch seinen Tod am Kreuz",
-          "explanation": "Er hat durch den Tod die Macht genommen dem, der die Gewalt des Todes hatte, nämlich dem Teufel [ref:Hebräer 2:14]."
+          "text": "Durch seinen eigenen Tod am Kreuz",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Durch das Gebot völliger Enthaltsamkeit",
-          "explanation": "Das trifft nicht zu. Richtig ist: Durch seinen Tod am Kreuz [ref:Hebräer 2:14]."
+          "text": "Durch ein irdisches Zorngericht",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Durch die Hilfe mächtiger Engel",
-          "explanation": "Das trifft nicht zu. Richtig ist: Durch seinen Tod am Kreuz [ref:Hebräer 2:14]."
+          "text": "Durch das geschriebene Gesetz",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Hebräer 2:14",
-      "explanation": "Er hat durch den Tod die Macht genommen dem, der die Gewalt des Todes hatte, nämlich dem Teufel [ref:Hebräer 2:14].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "hebr_010",
       "type": "single_choice",
-      "text": "Welcher Abkunft nahm Sich der Sohn Gottes in Barmherzigkeit an?",
+      "text": "Wessen nimmt sich der Sohn Gottes nach Hebräer 2:16 an?",
       "options": [
         {
-          "text": "Der heiligen Engel",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der Nachkommen Abrahams [ref:Hebräer 2:16]."
+          "text": "Der Engel des Himmels",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Der römischen Kaiser",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der Nachkommen Abrahams [ref:Hebräer 2:16]."
+          "text": "Der Könige dieser Erde",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Der Nachkommen Abrahams",
-          "explanation": "Er nimmt sich ja nicht der Engel an, sondern der Nachkommen Abrahams nimmt er sich an [ref:Hebräer 2:16]."
+          "text": "Des Samens Abrahams",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Der heidnischen Völker",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der Nachkommen Abrahams [ref:Hebräer 2:16]."
+          "text": "Der weisen Priester",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Hebräer 2:16",
-      "explanation": "Er nimmt sich ja nicht der Engel an, sondern der Nachkommen Abrahams nimmt er sich an [ref:Hebräer 2:16].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "hebr_011",
       "type": "single_choice",
-      "text": "Worin unterscheidet sich der Dienst des Mose von der Stellung Christi im Hause Gottes?",
+      "text": "Worin unterscheidet sich Mose von Christus im Hause Gottes (Hebräer 3:5-6)?",
       "options": [
         {
-          "text": "Mose war treu als Sohn über das Haus, Christus aber nur als Knecht darin",
-          "explanation": "Das trifft nicht zu. Richtig ist: Mose war treu als Knecht im ganzen Haus, Christus aber als Sohn über sein Haus [ref:Hebräer 3:5-6]."
+          "text": "Mose war ein Prophet im Tempel, Christus aber ein Priester am Altar",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Beide waren gleichermaßen Knechte im Haus und standen auf einer Stufe",
-          "explanation": "Das trifft nicht zu. Richtig ist: Mose war treu als Knecht im ganzen Haus, Christus aber als Sohn über sein Haus [ref:Hebräer 3:5-6]."
+          "text": "Mose war ein Fürst über das Volk, Christus aber ein Hirte der Schafe",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Beide waren gleichermaßen Söhne über das Haus und herrschten zusammen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Mose war treu als Knecht im ganzen Haus, Christus aber als Sohn über sein Haus [ref:Hebräer 3:5-6]."
+          "text": "Mose war ein Richter des Gesetzes, Christus aber ein Lehrer der Heiden",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Mose war treu als Knecht im ganzen Haus, Christus aber als Sohn über sein Haus",
-          "explanation": "Mose ist treu gewesen in seinem ganzen Haus als ein Knecht; Christus aber als ein Sohn über sein Haus [ref:Hebräer 3:5-6]."
+          "text": "Mose war treu als Diener im Haus, Christus aber als Sohn über sein Haus",
+          "explanation": "",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Hebräer 3:5-6",
-      "explanation": "Mose ist treu gewesen in seinem ganzen Haus als ein Knecht; Christus aber als ein Sohn über sein Haus [ref:Hebräer 3:5-6].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "hebr_012",
       "type": "single_choice",
-      "text": "Welches Wort schärft der Heilige Geist den Glaubenden gegen die Verstockung ein?",
+      "text": "Was spricht der Heilige Geist in Hebräer 3:7-8 gegen die Verstockung?",
       "options": [
         {
-          "text": "Heute, wenn ihr seine Stimme hört, so verstockt eure Herzen nicht",
-          "explanation": "Wie der Heilige Geist spricht: Heute, wenn ihr seine Stimme hört, so verstockt eure Herzen nicht [ref:Hebräer 3:7-8]."
+          "text": "Heute, wenn ihr seine Stimme hören werdet, so verstockt eure Herzen nicht",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Morgen, wenn ihr seine Verheißungen seht, so verstockt eure Herzen nicht",
-          "explanation": "Das trifft nicht zu. Richtig ist: Heute, wenn ihr seine Stimme hört, so verstockt eure Herzen nicht [ref:Hebräer 3:7-8]."
+          "text": "Morgen, wenn der Tag anbricht, so sollt ihr alle eure Sünden bekennen",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Gestern, als der Bund am Sinai geschah, so verstockt eure Herzen nicht",
-          "explanation": "Das trifft nicht zu. Richtig ist: Heute, wenn ihr seine Stimme hört, so verstockt eure Herzen nicht [ref:Hebräer 3:7-8]."
+          "text": "Wann immer ihr in Not geratet, so ruft den Namen des Herrn laut an",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Ewig, wenn der Neue Bund vollendet ist, so verstockt eure Herzen nicht",
-          "explanation": "Das trifft nicht zu. Richtig ist: Heute, wenn ihr seine Stimme hört, so verstockt eure Herzen nicht [ref:Hebräer 3:7-8]."
+          "text": "Sobald das Gericht kommt, so sucht Zuflucht in den Bergen des Landes",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Hebräer 3:7-8",
-      "explanation": "Wie der Heilige Geist spricht: Heute, wenn ihr seine Stimme hört, so verstockt eure Herzen nicht [ref:Hebräer 3:7-8].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "hebr_013",
       "type": "single_choice",
-      "text": "Warum konnten viele aus dem Volk Israel nicht in die Sabbatruhe Gottes eingehen?",
+      "text": "Warum konnten jene nicht in die Ruhe Gottes eingehen (Hebräer 3:19)?",
       "options": [
         {
-          "text": "Wegen der Hitze der Wüste",
-          "explanation": "Das trifft nicht zu. Richtig ist: Wegen des Unglaubens [ref:Hebräer 3:18-19]."
+          "text": "Wegen des schweren Weges",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Wegen des Unglaubens",
-          "explanation": "Wir sehen, dass sie nicht eingehen konnten wegen des Unglaubens [ref:Hebräer 3:18-19]."
+          "text": "Wegen ihres Unglaubens",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Wegen Nahrungsmangels",
-          "explanation": "Das trifft nicht zu. Richtig ist: Wegen des Unglaubens [ref:Hebräer 3:18-19]."
+          "text": "Wegen der Wüstenhitze",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Wegen der Übermacht der Feinde",
-          "explanation": "Das trifft nicht zu. Richtig ist: Wegen des Unglaubens [ref:Hebräer 3:18-19]."
+          "text": "Wegen Mangel an Speise",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Hebräer 3:18-19",
-      "explanation": "Wir sehen, dass sie nicht eingehen konnten wegen des Unglaubens [ref:Hebräer 3:18-19].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "hebr_014",
       "type": "single_choice",
-      "text": "Wie oft sollen sich die Glaubenden gegenseitig ermahnen, um Verstockung zu meiden?",
+      "text": "Wie oft sollen sich die Gläubigen nach Hebräer 3:13 gegenseitig ermahnen?",
       "options": [
         {
-          "text": "Einmal im Monat bei der Versammlung",
-          "explanation": "Das trifft nicht zu. Richtig ist: Täglich, solange es noch heißt: Heute [ref:Hebräer 3:13]."
+          "text": "Einmal am Sabbat im Tempel",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Nur an den großen Festtagen des Jahres",
-          "explanation": "Das trifft nicht zu. Richtig ist: Täglich, solange es noch heißt: Heute [ref:Hebräer 3:13]."
+          "text": "Einmal im Monat beim Mahl",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Täglich, solange es noch heißt: Heute",
-          "explanation": "Ermahnt einander täglich, solange es noch Heute heißt, damit niemand von euch verstockt werde durch den Betrug der Sünde [ref:Hebräer 3:13]."
+          "text": "Jeden Tag, solange es «heute» heißt",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Nur in Zeiten der Verfolgung und Not",
-          "explanation": "Das trifft nicht zu. Richtig ist: Täglich, solange es noch heißt: Heute [ref:Hebräer 3:13]."
+          "text": "Nur wenn jemand in Sünde fällt",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Hebräer 3:13",
-      "explanation": "Ermahnt einander täglich, solange es noch Heute heißt, damit niemand von euch verstockt werde durch den Betrug der Sünde [ref:Hebräer 3:13].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "hebr_015",
       "type": "single_choice",
-      "text": "Was droht den Menschen durch den schleichenden Betrug der Sünde im Herzen?",
+      "text": "Wodurch droht das Herz verstockt zu werden (Hebräer 3:13)?",
       "options": [
         {
-          "text": "Dass man verarmt und seine Habe unter den Menschen verliert",
-          "explanation": "Das trifft nicht zu. Richtig ist: Dass das Herz durch den Betrug der Sünde verstockt wird [ref:Hebräer 3:13]."
+          "text": "Durch den Spott der Ungläubigen",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Dass man das Bürgerrecht verliert und aus der Stadt vertrieben wird",
-          "explanation": "Das trifft nicht zu. Richtig ist: Dass das Herz durch den Betrug der Sünde verstockt wird [ref:Hebräer 3:13]."
+          "text": "Durch die Furcht vor Verfolgung",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Dass die römische Obrigkeit einschreitet und die Gemeinde verfolgt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Dass das Herz durch den Betrug der Sünde verstockt wird [ref:Hebräer 3:13]."
+          "text": "Durch die Armut in dieser Welt",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Dass das Herz durch den Betrug der Sünde verstockt wird",
-          "explanation": "Damit niemand von euch verstockt werde durch den Betrug der Sünde [ref:Hebräer 3:13]."
+          "text": "Durch die Täuschung der Sünde",
+          "explanation": "",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Hebräer 3:13",
-      "explanation": "Damit niemand von euch verstockt werde durch den Betrug der Sünde [ref:Hebräer 3:13].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "hebr_016",
       "type": "single_choice",
-      "text": "Welchem Volk bleibt nach den Worten im vierten Kapitel eine Sabbatruhe vorbehalten?",
+      "text": "Wem bleibt nach Hebräer 4:9 noch eine Sabbatruhe vorbehalten?",
       "options": [
         {
-          "text": "Dem Volk Gottes",
-          "explanation": "Es bleibt also dem Volk Gottes noch eine Sabbatruhe vorbehalten [ref:Hebräer 4:9]."
+          "text": "Dem Volke Gottes",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Den Pharisäern",
-          "explanation": "Das trifft nicht zu. Richtig ist: Dem Volk Gottes [ref:Hebräer 4:9]."
+          "text": "Den Weisen Roms",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Den Bewohnern der römischen Provinz",
-          "explanation": "Das trifft nicht zu. Richtig ist: Dem Volk Gottes [ref:Hebräer 4:9]."
+          "text": "Den Leviten allein",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Allen Heiden ohne Gesetz",
-          "explanation": "Das trifft nicht zu. Richtig ist: Dem Volk Gottes [ref:Hebräer 4:9]."
+          "text": "Allen Königen der Erde",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Hebräer 4:9",
-      "explanation": "Es bleibt also dem Volk Gottes noch eine Sabbatruhe vorbehalten [ref:Hebräer 4:9].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "hebr_017",
       "type": "single_choice",
-      "text": "Wie wird das Wort Gottes im vierten Kapitel bezüglich Seiner Wirkung beschrieben?",
+      "text": "Wie wird das Wort Gottes in Hebräer 4:12 beschrieben?",
       "options": [
         {
-          "text": "Alt und schwer zu befolgen und härter als jedes Gesetz der Väter",
-          "explanation": "Das trifft nicht zu. Richtig ist: Lebendig und kräftig und schärfer als jedes zweischneidige Schwert [ref:Hebräer 4:12]."
+          "text": "Schwach im Geist und nur den Weisen der Vorzeit verständlich",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Lebendig und kräftig und schärfer als jedes zweischneidige Schwert",
-          "explanation": "Das Wort Gottes ist lebendig und wirksam und schärfer als jedes zweischneidige Schwert und durchdringt, bis es scheidet Seele und Geist [ref:Hebräer 4:12]."
+          "text": "Lebendig und wirksam und schärfer als jedes zweischneidige Schwert",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Sanft und ohne Gericht und milder als jede Strafe der Menschen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Lebendig und kräftig und schärfer als jedes zweischneidige Schwert [ref:Hebräer 4:12]."
+          "text": "Starr wie Stein und unwirksam für das innere Leben des Menschen",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Geheim und nur für Priester verständlich und dem Volk verborgen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Lebendig und kräftig und schärfer als jedes zweischneidige Schwert [ref:Hebräer 4:12]."
+          "text": "Veränderlich und wandelbar nach dem Gutdünken der jeweiligen Zeit",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Hebräer 4:12",
-      "explanation": "Das Wort Gottes ist lebendig und wirksam und schärfer als jedes zweischneidige Schwert und durchdringt, bis es scheidet Seele und Geist [ref:Hebräer 4:12].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "hebr_018",
       "type": "single_choice",
-      "text": "Bis wohin dringt das Wort Gottes scheidend durch das Innere des Menschen?",
+      "text": "Bis wohin dringt das Wort Gottes nach Hebräer 4:12 durch?",
       "options": [
         {
-          "text": "Bis zur Scheidung von Knochen und Atem, von Fleisch und Blut",
-          "explanation": "Das trifft nicht zu. Richtig ist: Bis zur Scheidung von Seele und Geist, Mark und Bein [ref:Hebräer 4:12]."
+          "text": "Bis an die Grenzen der bekannten Erde",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Bis zur Grenze zwischen Gut und Böse, zwischen Tag und Nacht",
-          "explanation": "Das trifft nicht zu. Richtig ist: Bis zur Scheidung von Seele und Geist, Mark und Bein [ref:Hebräer 4:12]."
+          "text": "Bis in die Tiefen des heidnischen Meeres",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Bis zur Scheidung von Seele und Geist, Mark und Bein",
-          "explanation": "Das Wort durchdringt bis zur Scheidung von Seele und Geist, von Mark und Bein, und ist ein Richter der Gedanken und Gesinnungen des Herzens [ref:Hebräer 4:12]."
+          "text": "Bis es scheidet Seele und Geist, Mark und Bein",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Bis zum römischen Gericht, vor dem sich jeder verantworten muss",
-          "explanation": "Das trifft nicht zu. Richtig ist: Bis zur Scheidung von Seele und Geist, Mark und Bein [ref:Hebräer 4:12]."
+          "text": "Bis zu den Festungen der irdischen Könige",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Hebräer 4:12",
-      "explanation": "Das Wort durchdringt bis zur Scheidung von Seele und Geist, von Mark und Bein, und ist ein Richter der Gedanken und Gesinnungen des Herzens [ref:Hebräer 4:12].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "hebr_019",
       "type": "single_choice",
-      "text": "Welcher Eigenschaft erfreut Sich unser großer Hohepriester Jesus Christus?",
+      "text": "Welcher Hohepriester geziemt uns nach Hebräer 4:15?",
       "options": [
         {
-          "text": "Völliges Unverständnis für menschliches Leid und alle Schwachheit",
-          "explanation": "Das trifft nicht zu. Richtig ist: Dass er mit unseren Schwachheiten Mitleid haben kann [ref:Hebräer 4:15]."
+          "text": "Der fernab aller menschlichen Trübsal thront",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Kalte Strenge gegenüber allen, die Fehler machen und straucheln",
-          "explanation": "Das trifft nicht zu. Richtig ist: Dass er mit unseren Schwachheiten Mitleid haben kann [ref:Hebräer 4:15]."
+          "text": "Der niemals die Last unseres Fleisches trug",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Furcht vor dem Widersacher und seinen Versuchungen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Dass er mit unseren Schwachheiten Mitleid haben kann [ref:Hebräer 4:15]."
+          "text": "Der die Sünder ohne jegliches Erbarmen straft",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Dass er mit unseren Schwachheiten Mitleid haben kann",
-          "explanation": "Wir haben nicht einen Hohenpriester, der nicht mitleiden könnte mit unseren Schwachheiten, sondern einen, der versucht worden ist in allem wie wir, doch ohne Sünde [ref:Hebräer 4:15]."
+          "text": "Der Mitleid haben kann mit unseren Schwachheiten",
+          "explanation": "",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Hebräer 4:15",
-      "explanation": "Wir haben nicht einen Hohenpriester, der nicht mitleiden könnte mit unseren Schwachheiten, sondern einen, der versucht worden ist in allem wie wir, doch ohne Sünde [ref:Hebräer 4:15].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "hebr_020",
       "type": "single_choice",
-      "text": "Mit welcher Haltung dürfen Glaubende zum Thron der Gnade Gottes hinzutreten?",
+      "text": "Mit welcher Haltung dürfen wir zum Thron der Gnade hinzutreten (Hebräer 4:16)?",
       "options": [
         {
-          "text": "Mit Freimut, um Barmherzigkeit zu empfangen und Gnade zu finden zu rechtzeitiger Hilfe",
-          "explanation": "Lasst uns mit Freimut hinzutreten zum Thron der Gnade, damit wir Barmherzigkeit empfangen und Gnade finden [ref:Hebräer 4:16]."
+          "text": "Mit Freimütigkeit, damit wir Barmherzigkeit erlangen und Gnade finden",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Mit Furcht und Zittern, weil der Thron Gottes allein ein Thron des Gerichts und des Zorns ist",
-          "explanation": "Das trifft nicht zu. Richtig ist: Mit Freimut, um Barmherzigkeit zu empfangen und Gnade zu finden zu rechtzeitiger Hilfe [ref:Hebräer 4:16]."
+          "text": "Mit knechtischer Furcht, damit wir vor Gottes heiligem Zorn entfliehen",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Mit stolzem Selbstbewusstsein, weil sie sich ihrer eigenen Werke vor Gott rühmen dürfen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Mit Freimut, um Barmherzigkeit zu empfangen und Gnade zu finden zu rechtzeitiger Hilfe [ref:Hebräer 4:16]."
+          "text": "Mit irdischen Opfern von Tieren, damit unsere Sünden gesühnt werden",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Nur durch die Vermittlung heiliger Priester, die für sie vor Gott eintreten und beten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Mit Freimut, um Barmherzigkeit zu empfangen und Gnade zu finden zu rechtzeitiger Hilfe [ref:Hebräer 4:16]."
+          "text": "Mit Empfehlungsbriefen der Ältesten, damit wir Gehör vor Gott erlangen",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Hebräer 4:16",
-      "explanation": "Lasst uns mit Freimut hinzutreten zum Thron der Gnade, damit wir Barmherzigkeit empfangen und Gnade finden [ref:Hebräer 4:16].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "hebr_021",
       "type": "single_choice",
-      "text": "Nach welcher ewigen Ordnung wurde Christus von Gott zum Hohepriester berufen?",
+      "text": "Nach welcher Ordnung ist Christus Priester in Ewigkeit (Hebräer 5:6)?",
       "options": [
         {
           "text": "Nach der Ordnung Aarons",
-          "explanation": "Das trifft nicht zu. Richtig ist: Nach der Ordnung Melchisedeks [ref:Hebräer 5:6]."
+          "explanation": "",
+          "isCorrect": false
         },
         {
           "text": "Nach der Ordnung Melchisedeks",
-          "explanation": "Du bist ein Priester in Ewigkeit nach der Ordnung Melchisedeks [ref:Hebräer 5:6]."
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Nach der Ordnung Davids",
-          "explanation": "Das trifft nicht zu. Richtig ist: Nach der Ordnung Melchisedeks [ref:Hebräer 5:6]."
+          "text": "Nach der Satzung der Leviten",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Nach der Ordnung der Leviten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Nach der Ordnung Melchisedeks [ref:Hebräer 5:6]."
+          "text": "Nach der Würde der Propheten",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Hebräer 5:6",
-      "explanation": "Du bist ein Priester in Ewigkeit nach der Ordnung Melchisedeks [ref:Hebräer 5:6].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "hebr_022",
       "type": "single_choice",
-      "text": "Was opferte Christus in den Tagen Seines Fleisches mit starkem Geschrei und Tränen?",
+      "text": "Was brachte Christus in den Tagen Seines Fleisches dar (Hebräer 5:7)?",
       "options": [
         {
-          "text": "Gold und Silber der Könige, dargebracht im Heiligtum zu Jerusalem unter starkem Geschrei",
-          "explanation": "Das trifft nicht zu. Richtig ist: Gebet und Flehen zu dem, der ihn aus dem Tod retten konnte, unter starkem Geschrei und Tränen [ref:Hebräer 5:7]."
+          "text": "Silber und Gold für den Dienst im Tempel zu Jerusalem",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Brand- und Sündopfer nach der Ordnung Aarons, dargebracht unter starkem Geschrei und Tränen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Gebet und Flehen zu dem, der ihn aus dem Tod retten konnte, unter starkem Geschrei und Tränen [ref:Hebräer 5:7]."
+          "text": "Opfertiere nach der alttestamentlichen Satzung des Gesetzes",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Gebet und Flehen zu dem, der ihn aus dem Tod retten konnte, unter starkem Geschrei und Tränen",
-          "explanation": "Er hat in den Tagen seines Fleisches Bitten und Flehen mit starkem Geschrei und Tränen dem dargebracht, der ihn aus dem Tod retten konnte [ref:Hebräer 5:7]."
+          "text": "Bitten und Flehen mit lautem Rufen und Tränen zu Gott",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Fasten und strenge Kasteiung seines Leibes, dargebracht unter starkem Geschrei und Tränen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Gebet und Flehen zu dem, der ihn aus dem Tod retten konnte, unter starkem Geschrei und Tränen [ref:Hebräer 5:7]."
+          "text": "Klagen über die Bosheit der Schriftgelehrten und Pharisäer",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Hebräer 5:7",
-      "explanation": "Er hat in den Tagen seines Fleisches Bitten und Flehen mit starkem Geschrei und Tränen dem dargebracht, der ihn aus dem Tod retten konnte [ref:Hebräer 5:7].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "hebr_023",
       "type": "single_choice",
-      "text": "Wodurch erlernte der Sohn Gottes den Gehorsam während Seines Erdenlebens?",
+      "text": "Woran lernte der Sohn Gottes den Gehorsam (Hebräer 5:8)?",
       "options": [
         {
-          "text": "Durch das Studium der hebräischen Schriften",
-          "explanation": "Das trifft nicht zu. Richtig ist: An dem, was er litt [ref:Hebräer 5:8]."
+          "text": "An den Schriften der Weisen",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Durch die Beachtung römischer Gesetze",
-          "explanation": "Das trifft nicht zu. Richtig ist: An dem, was er litt [ref:Hebräer 5:8]."
+          "text": "An den Worten der Schriftgelehrten",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Durch die Unterweisung der Ältesten",
-          "explanation": "Das trifft nicht zu. Richtig ist: An dem, was er litt [ref:Hebräer 5:8]."
+          "text": "An den Satzungen der Pharisäer",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "An dem, was er litt",
-          "explanation": "Obwohl er der Sohn war, hat er an dem, was er litt, Gehorsam gelernt [ref:Hebräer 5:8]."
+          "text": "An dem, was er litt in der Welt",
+          "explanation": "",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Hebräer 5:8",
-      "explanation": "Obwohl er der Sohn war, hat er an dem, was er litt, Gehorsam gelernt [ref:Hebräer 5:8].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "hebr_024",
       "type": "single_choice",
-      "text": "Wessen bedürfen die geistlich Unmündigen im Unterschied zu den Erwachsenen?",
+      "text": "Wessen sind die Unmündigen nach Hebräer 5:12 bedürftig geworden?",
       "options": [
         {
           "text": "Der Milch und nicht fester Speise",
-          "explanation": "Ihr braucht Milch und nicht feste Speise; denn wer noch Milch genießt, der ist unerfahren im Wort der Gerechtigkeit; er ist ja ein Unmündiger [ref:Hebräer 5:12-14]."
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Fester Speise und reinen Weines",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der Milch und nicht fester Speise [ref:Hebräer 5:12-14]."
+          "text": "Des Weins und nicht reinen Wassers",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Strenger Zucht durch weltliche Richter",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der Milch und nicht fester Speise [ref:Hebräer 5:12-14]."
+          "text": "Des Brotes und nicht fetten Fleisches",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Der Kenntnis heidnischer Philosophien",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der Milch und nicht fester Speise [ref:Hebräer 5:12-14]."
+          "text": "Der Kräuter und nicht edlen Weizens",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         0
       ],
-      "bibleReference": "Hebräer 5:12-14",
-      "explanation": "Ihr braucht Milch und nicht feste Speise; denn wer noch Milch genießt, der ist unerfahren im Wort der Gerechtigkeit; er ist ja ein Unmündiger [ref:Hebräer 5:12-14].",
+      "bibleReference": "Hebräer 5:12",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "hebr_025",
       "type": "single_choice",
-      "text": "Woran erkennt man die geistlich Reifen nach den Worten am Ende von Kapitel 5?",
+      "text": "Für wen ist nach Hebräer 5:14 die feste Speise bestimmt?",
       "options": [
         {
-          "text": "An ihrem Reichtum, den sie im Dienst für Gott und für die Gemeinde erworben haben",
-          "explanation": "Das trifft nicht zu. Richtig ist: An den durch Gewöhnung geübten Sinnen zur Unterscheidung von Gut und Böse [ref:Hebräer 5:14]."
+          "text": "Für die Unmündigen, die noch keinen Verstand haben",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "An den durch Gewöhnung geübten Sinnen zur Unterscheidung von Gut und Böse",
-          "explanation": "Die feste Speise ist für Erwachsene, die durch den Gebrauch geübte Sinne haben zur Unterscheidung des Guten und Bösen [ref:Hebräer 5:14]."
+          "text": "Für die Gereiften, deren Sinne durch Übung geschult sind",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "An ihrer Stellung im Hohen Rat, die ihnen bei allen Menschen Ansehen verleiht",
-          "explanation": "Das trifft nicht zu. Richtig ist: An den durch Gewöhnung geübten Sinnen zur Unterscheidung von Gut und Böse [ref:Hebräer 5:14]."
+          "text": "Für die Priester, welche im Heiligtum des Tempels dienen",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "An der genauen Einhaltung der Zeremonien, die das Gesetz Moses vorschreibt",
-          "explanation": "Das trifft nicht zu. Richtig ist: An den durch Gewöhnung geübten Sinnen zur Unterscheidung von Gut und Böse [ref:Hebräer 5:14]."
+          "text": "Für die Schriftgelehrten, die das Gesetz täglich vorlesen",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Hebräer 5:14",
-      "explanation": "Die feste Speise ist für Erwachsene, die durch den Gebrauch geübte Sinne haben zur Unterscheidung des Guten und Bösen [ref:Hebräer 5:14].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "hebr_026",
       "type": "single_choice",
-      "text": "Welche Lehren gehören nach Hebräer 6:1-2 zum Grundlegenden der Lehre von Christus?",
+      "text": "Welcher Grund soll nach Hebräer 6:1 nicht abermals gelegt werden?",
       "options": [
         {
-          "text": "Die Beschneidung und das Tempelopfer",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Buße von toten Werken und der Glaube an Gott [ref:Hebräer 6:1-2]."
+          "text": "Das Fasten an Sabbaten und das Almosengeben vor Menschen",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Fastenregeln und Sabbatfeier",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Buße von toten Werken und der Glaube an Gott [ref:Hebräer 6:1-2]."
+          "text": "Der Bau von Synagogen und das Opfern von Stieren im Tempel",
+          "explanation": "",
+          "isCorrect": false
         },
         {
           "text": "Die Buße von toten Werken und der Glaube an Gott",
-          "explanation": "Lasst uns nicht abermals den Grund legen mit der Buße von den toten Werken und dem Glauben an Gott [ref:Hebräer 6:1-2]."
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Steuerzahlung und Gehorsam gegen den Kaiser",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Buße von toten Werken und der Glaube an Gott [ref:Hebräer 6:1-2]."
+          "text": "Das Halten der Satzungen und die Furcht vor Richtern",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Hebräer 6:1-2",
-      "explanation": "Lasst uns nicht abermals den Grund legen mit der Buße von den toten Werken und dem Glauben an Gott [ref:Hebräer 6:1-2].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "hebr_027",
       "type": "single_choice",
-      "text": "Was ist unmöglich für diejenigen, die nach Erleuchtung abfallen und den Sohn kreuzigen?",
+      "text": "Was ist unmöglich für jene, die nach Empfang der Gabe abgefallen sind (Hebräer 6:6)?",
       "options": [
         {
-          "text": "Dass sie wieder in heidnische Tempel aufgenommen werden",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie wieder zur Buße zu erneuern [ref:Hebräer 6:4-6]."
+          "text": "Dass sie jemals wieder irdischen Reichtum erwerben können",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Dass sie weltlichen Reichtum erlangen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie wieder zur Buße zu erneuern [ref:Hebräer 6:4-6]."
+          "text": "Dass sie vor den heidnischen Richtern Gerechtigkeit finden",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Dass sie von römischen Richtern bestraft werden",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie wieder zur Buße zu erneuern [ref:Hebräer 6:4-6]."
+          "text": "Dass sie noch einmal in die Versammlung der Heiligen treten",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Sie wieder zur Buße zu erneuern",
-          "explanation": "Es ist unmöglich, die, die einmal erleuchtet worden sind und abgefallen sind, wieder zur Buße zu erneuern, da sie den Sohn Gottes für sich selbst kreuzigen [ref:Hebräer 6:4-6]."
+          "text": "Sie wieder zu erneuern zur Buße, da sie den Sohn kreuzigen",
+          "explanation": "",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Hebräer 6:4-6",
-      "explanation": "Es ist unmöglich, die, die einmal erleuchtet worden sind und abgefallen sind, wieder zur Buße zu erneuern, da sie den Sohn Gottes für sich selbst kreuzigen [ref:Hebräer 6:4-6].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "hebr_028",
       "type": "single_choice",
-      "text": "Bei wem schwor Gott dem Abraham die Erfüllung Seiner Verheißung?",
+      "text": "Bei wem schwor Gott dem Abraham die Verheißung (Hebräer 6:13)?",
       "options": [
         {
           "text": "Bei sich selbst, da er bei keinem Größeren schwören konnte",
-          "explanation": "Als Gott dem Abraham die Verheißung gab, schwor er bei sich selbst, weil er bei keinem Größeren schwören konnte [ref:Hebräer 6:13-14]."
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Bei den heiligen Engeln, die vor dem Thron Gottes stehen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Bei sich selbst, da er bei keinem Größeren schwören konnte [ref:Hebräer 6:13-14]."
+          "text": "Bei den heiligen Engeln, die vor seinem Angesicht dienten",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Bei der Heiligkeit des Tempels, den er in Jerusalem erwählt hatte",
-          "explanation": "Das trifft nicht zu. Richtig ist: Bei sich selbst, da er bei keinem Größeren schwören konnte [ref:Hebräer 6:13-14]."
+          "text": "Beim Himmel und der Erde, die er durch sein Wort erschuf",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Bei den Schriften der Propheten, die sein Wort bezeugen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Bei sich selbst, da er bei keinem Größeren schwören konnte [ref:Hebräer 6:13-14]."
+          "text": "Beim Tempel in Jerusalem, der zur Ehre seines Namens stand",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         0
       ],
-      "bibleReference": "Hebräer 6:13-14",
-      "explanation": "Als Gott dem Abraham die Verheißung gab, schwor er bei sich selbst, weil er bei keinem Größeren schwören konnte [ref:Hebräer 6:13-14].",
+      "bibleReference": "Hebräer 6:13",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "hebr_029",
       "type": "single_choice",
-      "text": "Was dient den Glaubenden als ein sicherer und fester Anker der Seele?",
+      "text": "Was dient den Gläubigen als ein sicherer und fester Anker der Seele (Hebräer 6:19)?",
       "options": [
         {
-          "text": "Das Einhalten aller Satzungen, die das Gesetz Moses vorschreibt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Hoffnung, die bis hinter den Vorhang reicht [ref:Hebräer 6:19]."
+          "text": "Das geschriebene Gesetz auf steinernen Tafeln",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Die Hoffnung, die bis hinter den Vorhang reicht",
-          "explanation": "Diese Hoffnung haben wir als einen sicheren und festen Anker der Seele, der hineinreicht bis hinter den Vorhang [ref:Hebräer 6:19]."
+          "text": "Die Hoffnung, die hineinreicht hinter den Vorhang",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Die Mitgliedschaft im Hohen Rat, die dem Volk Sicherheit gibt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Hoffnung, die bis hinter den Vorhang reicht [ref:Hebräer 6:19]."
+          "text": "Der irdische Reichtum und der Friede mit den Römern",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Die Anhäufung von Reichtum, der für schwere Zeiten bereitliegt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Hoffnung, die bis hinter den Vorhang reicht [ref:Hebräer 6:19]."
+          "text": "Das Priestertum Aarons und der Dienst am Altar",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Hebräer 6:19",
-      "explanation": "Diese Hoffnung haben wir als einen sicheren und festen Anker der Seele, der hineinreicht bis hinter den Vorhang [ref:Hebräer 6:19].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "hebr_030",
       "type": "single_choice",
-      "text": "Wer ging als unser Vorläufer hinter den Vorhang des Heiligtums ein?",
+      "text": "Wer ging als Vorläufer für uns hinter den Vorhang ein (Hebräer 6:20)?",
       "options": [
         {
-          "text": "Der Apostel Paulus, der als erster in die Herrlichkeit einging",
-          "explanation": "Das trifft nicht zu. Richtig ist: Jesus, Hohepriester nach der Ordnung Melchisedeks [ref:Hebräer 6:20]."
+          "text": "Der Hohepriester Aaron am Versöhnungstag",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Der Hohepriester Aaron, der am Versöhnungstag ins Allerheiligste trat",
-          "explanation": "Das trifft nicht zu. Richtig ist: Jesus, Hohepriester nach der Ordnung Melchisedeks [ref:Hebräer 6:20]."
+          "text": "Der Prophet Mose nach dem Empfang des Gesetzes",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Jesus, Hohepriester nach der Ordnung Melchisedeks",
-          "explanation": "Dorthin ist Jesus als Vorläufer für uns hineingegangen, ein Hohepriester in Ewigkeit nach der Ordnung Melchisedeks [ref:Hebräer 6:20]."
+          "text": "Jesus, nach der Ordnung Melchisedeks Hoherpriester",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Der Prophet Mose, der auf dem Berg das Gesetz empfing",
-          "explanation": "Das trifft nicht zu. Richtig ist: Jesus, Hohepriester nach der Ordnung Melchisedeks [ref:Hebräer 6:20]."
+          "text": "Der Erzvater Abraham nach seinem Sieg über Könige",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Hebräer 6:20",
-      "explanation": "Dorthin ist Jesus als Vorläufer für uns hineingegangen, ein Hohepriester in Ewigkeit nach der Ordnung Melchisedeks [ref:Hebräer 6:20].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "hebr_031",
       "type": "single_choice",
-      "text": "Welcher zweifache königliche Titel gebührt Melchisedek nach Seinem Namen und Ort?",
+      "text": "Welche Bedeutung hat der Name Melchisedek und sein Titel (Hebräer 7:2)?",
       "options": [
         {
-          "text": "König von Israel und König der Heidenvölker, Herrscher über das Land",
-          "explanation": "Das trifft nicht zu. Richtig ist: König der Gerechtigkeit und König des Friedens (von Salem) [ref:Hebräer 7:1-2]."
+          "text": "König der Völker und Priester des irdischen Tempels",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "König des Tempels und König Roms, Herrscher über Stadt und Reich",
-          "explanation": "Das trifft nicht zu. Richtig ist: König der Gerechtigkeit und König des Friedens (von Salem) [ref:Hebräer 7:1-2]."
+          "text": "Herrscher über Kanaan und Beschützer der Fremdlinge",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "König der Erde und König der Engel, Herrscher über Himmel und Erde",
-          "explanation": "Das trifft nicht zu. Richtig ist: König der Gerechtigkeit und König des Friedens (von Salem) [ref:Hebräer 7:1-2]."
+          "text": "König von Ägypten und Richter der heidnischen Reiche",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "König der Gerechtigkeit und König des Friedens (von Salem)",
-          "explanation": "Melchisedek heißt übersetzt zuerst König der Gerechtigkeit, danach aber auch König von Salem, das ist König des Friedens [ref:Hebräer 7:1-2]."
+          "text": "König der Gerechtigkeit und König des Friedens",
+          "explanation": "",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Hebräer 7:1-2",
-      "explanation": "Melchisedek heißt übersetzt zuerst König der Gerechtigkeit, danach aber auch König von Salem, das ist König des Friedens [ref:Hebräer 7:1-2].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "hebr_032",
       "type": "single_choice",
-      "text": "Welchen Anteil der Beute gab der Erzvater Abraham dem Priester Melchisedek?",
+      "text": "Welchen Anteil gab Abraham dem Melchisedek von der Beute (Hebräer 7:4)?",
       "options": [
         {
           "text": "Den Zehnten von der Beute",
-          "explanation": "Abraham gab ihm den Zehnten von allem [ref:Hebräer 7:2; 7:4]."
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Den fünften Teil des erbeuteten Viehs",
-          "explanation": "Das trifft nicht zu. Richtig ist: Den Zehnten von der Beute [ref:Hebräer 7:2; 7:4]."
+          "text": "Den fünften Teil aller Rinder",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Den Anteil, den die heidnischen Könige forderten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Den Zehnten von der Beute [ref:Hebräer 7:2; 7:4]."
+          "text": "Den halben Teil alles Silbers",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Nichts, er empfing Geschenke von ihm",
-          "explanation": "Das trifft nicht zu. Richtig ist: Den Zehnten von der Beute [ref:Hebräer 7:2; 7:4]."
+          "text": "Gar nichts von den Gütern",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         0
       ],
-      "bibleReference": "Hebräer 7:2; 7:4",
-      "explanation": "Abraham gab ihm den Zehnten von allem [ref:Hebräer 7:2; 7:4].",
+      "bibleReference": "Hebräer 7:4",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "hebr_033",
       "type": "single_choice",
-      "text": "Aus welchem Stamme Israels ist unser HERR Jesus leiblich entsprossen?",
+      "text": "Aus welchem Stamme ist unser Herr entsprossen (Hebräer 7:14)?",
       "options": [
         {
-          "text": "Aus dem Priesterstamm Levi, zu dem Mose vom Priestertum geredet hat",
-          "explanation": "Das trifft nicht zu. Richtig ist: Aus dem Stamm Juda, zu dem Mose nichts vom Priestertum gesagt hat [ref:Hebräer 7:14]."
+          "text": "Aus dem Priesterstamm Levi, dem Mose das Amt übertrug",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Aus dem Stamm Juda, zu dem Mose nichts vom Priestertum gesagt hat",
-          "explanation": "Es ist ja offenkundig, dass unser Herr aus Juda hervorgegangen ist, zu welchem Stamm Mose nichts vom Priestertum gesagt hat [ref:Hebräer 7:14]."
+          "text": "Aus dem Stamm Juda, zu dem Mose nichts vom Priestertum redete",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Aus dem Stamm Benjamin, zu dem Mose vom Königtum geredet hat",
-          "explanation": "Das trifft nicht zu. Richtig ist: Aus dem Stamm Juda, zu dem Mose nichts vom Priestertum gesagt hat [ref:Hebräer 7:14]."
+          "text": "Aus dem königlichen Stamm Benjamin, dem ersten Herrschergeschlecht",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Aus dem Stamm Ephraim, zu dem Mose vom Erstgeburtsrecht geredet hat",
-          "explanation": "Das trifft nicht zu. Richtig ist: Aus dem Stamm Juda, zu dem Mose nichts vom Priestertum gesagt hat [ref:Hebräer 7:14]."
+          "text": "Aus dem Stamm Ephraim, der das Erstgeburtsrecht im Hause trug",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Hebräer 7:14",
-      "explanation": "Es ist ja offenkundig, dass unser Herr aus Juda hervorgegangen ist, zu welchem Stamm Mose nichts vom Priestertum gesagt hat [ref:Hebräer 7:14].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "hebr_034",
       "type": "single_choice",
-      "text": "Warum besitzt der HERR Jesus ein unvergängliches und ewiges Priestertum?",
+      "text": "Warum hat Jesus nach Hebräer 7:24 ein unübertragbares Priestertum?",
       "options": [
         {
-          "text": "Weil ihn die Behörden dazu beriefen und ihn feierlich bestätigten und einsetzten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil er in Ewigkeit bleibt und allezeit lebt, um für die Seinen einzutreten [ref:Hebräer 7:24-25]."
+          "text": "Weil er von den Hohenpriestern in Jerusalem feierlich geweiht wurde",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Weil er das Gesetz lückenlos hielt und darin vor Gott vollkommen war",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil er in Ewigkeit bleibt und allezeit lebt, um für die Seinen einzutreten [ref:Hebräer 7:24-25]."
+          "text": "Weil er das mosaische Gesetz mit allen Geboten vollkommen erfüllte",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Weil er in Ewigkeit bleibt und allezeit lebt, um für die Seinen einzutreten",
-          "explanation": "Er hat ein unvergängliches Priestertum, weil er in Ewigkeit bleibt; darum kann er auch auf ewig selig machen, die durch ihn zu Gott kommen [ref:Hebräer 7:24-25]."
+          "text": "Weil er in Ewigkeit bleibt und immerdar lebt, um für sie einzutreten",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Weil er aus dem Stamm Levi stammte und das Amt vom Vater erbte wie die Söhne Aarons",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil er in Ewigkeit bleibt und allezeit lebt, um für die Seinen einzutreten [ref:Hebräer 7:24-25]."
+          "text": "Weil er aus dem Geschlecht Aarons stammte und das Amt von Vätern erbte",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Hebräer 7:24-25",
-      "explanation": "Er hat ein unvergängliches Priestertum, weil er in Ewigkeit bleibt; darum kann er auch auf ewig selig machen, die durch ihn zu Gott kommen [ref:Hebräer 7:24-25].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "hebr_035",
       "type": "single_choice",
-      "text": "Wodurch unterscheidet Sich das Selbstopfer Christi von den Opfern der Leviten?",
+      "text": "Wie oft brachte sich Christus als Opfer dar (Hebräer 7:27)?",
       "options": [
         {
           "text": "Er opferte jährlich Stiere und Böcke",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er opferte sich selbst ein für alle Mal [ref:Hebräer 7:26-27]."
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Er brauchte kein Blut",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er opferte sich selbst ein für alle Mal [ref:Hebräer 7:26-27]."
+          "text": "Er opferte täglich am irdischen Altar",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Er opferte nur für seine eigenen Sünden",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er opferte sich selbst ein für alle Mal [ref:Hebräer 7:26-27]."
+          "text": "Er opferte nur für die eigenen Sünden",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Er opferte sich selbst ein für alle Mal",
-          "explanation": "Solch ein Hoherpriester war für uns passend: heilig, unschuldig, unbefleckt, von den Sündern abgesondert; er hat das einmal getan, als er sich selbst opferte [ref:Hebräer 7:26-27]."
+          "text": "Er tat das ein für alle Mal durch sich",
+          "explanation": "",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Hebräer 7:26-27",
-      "explanation": "Solch ein Hoherpriester war für uns passend: heilig, unschuldig, unbefleckt, von den Sündern abgesondert; er hat das einmal getan, als er sich selbst opferte [ref:Hebräer 7:26-27].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "hebr_036",
       "type": "single_choice",
-      "text": "Wo sitzt der Hohepriester des Neuen Bundes nach der Hauptsumme der Lehre?",
+      "text": "Wo sitzt unser Hoherpriester nach Hebräer 8:1?",
       "options": [
         {
           "text": "Zur Rechten des Thrones der Majestät im Himmel",
-          "explanation": "Wir haben einen solchen Hohenpriester, der sich gesetzt hat zur Rechten des Thrones der Majestät in den Himmeln [ref:Hebräer 8:1]."
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Im Erdheiligtum von Jerusalem unter den Priestern",
-          "explanation": "Das trifft nicht zu. Richtig ist: Zur Rechten des Thrones der Majestät im Himmel [ref:Hebräer 8:1]."
+          "text": "Im irdischen Heiligtum unter den Priestern",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "In den Versammlungsräumen der Gemeinden der Provinz",
-          "explanation": "Das trifft nicht zu. Richtig ist: Zur Rechten des Thrones der Majestät im Himmel [ref:Hebräer 8:1]."
+          "text": "Auf dem Richterstuhl der Vorsteher der Stadt",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Auf dem Thron Abrahams im Land Kanaan",
-          "explanation": "Das trifft nicht zu. Richtig ist: Zur Rechten des Thrones der Majestät im Himmel [ref:Hebräer 8:1]."
+          "text": "Auf dem Thron Davids im alten Palast Kanaans",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Hebräer 8:1",
-      "explanation": "Wir haben einen solchen Hohenpriester, der sich gesetzt hat zur Rechten des Thrones der Majestät in den Himmeln [ref:Hebräer 8:1].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "hebr_037",
       "type": "single_choice",
-      "text": "Warum ist der Neue Bund, dessen Mittler Christus ist, viel besser als der Erste?",
+      "text": "Warum ist der Bund, dessen Mittler Christus ist, besser (Hebräer 8:6)?",
       "options": [
         {
-          "text": "Weil er auf strengeren Gesetzen und Geboten beruht",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil er auf besseren Verheißungen gegründet ist [ref:Hebräer 8:6]."
+          "text": "Weil er auf strengeren Gesetzen des Mose beruht",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Weil er auf besseren Verheißungen gegründet ist",
-          "explanation": "Nun hat er einen um so vorzüglicheren Dienst erlangt, als er auch Mittler eines besseren Bundes ist, der auf besseren Verheißungen gegründet ist [ref:Hebräer 8:6]."
+          "text": "Weil er auf besseren Verheißungen eingesetzt ist",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Weil er alle Tempelopfer unverändert beibehält",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil er auf besseren Verheißungen gegründet ist [ref:Hebräer 8:6]."
+          "text": "Weil er alle Tieropfer des Tempels beibehält",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Weil er von den Ältesten Israels bestätigt wurde",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil er auf besseren Verheißungen gegründet ist [ref:Hebräer 8:6]."
+          "text": "Weil er von den Ältesten des Volkes beschlossen ward",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Hebräer 8:6",
-      "explanation": "Nun hat er einen um so vorzüglicheren Dienst erlangt, als er auch Mittler eines besseren Bundes ist, der auf besseren Verheißungen gegründet ist [ref:Hebräer 8:6].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "hebr_038",
       "type": "single_choice",
-      "text": "Wohin schreibt Gott die Gesetze Seines Neuen Bundes nach der Verheißung?",
+      "text": "Wohin gibt der Herr Seine Gesetze nach Hebräer 8:10?",
       "options": [
         {
-          "text": "Auf steinerne Tafeln wie am Sinai",
-          "explanation": "Das trifft nicht zu. Richtig ist: In ihren Sinn und in ihre Herzen [ref:Hebräer 8:10]."
+          "text": "Auf steinerne Tafeln wie am Berge Sinai",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Auf Pergament im Archiv",
-          "explanation": "Das trifft nicht zu. Richtig ist: In ihren Sinn und in ihre Herzen [ref:Hebräer 8:10]."
+          "text": "In Bücher aus Pergament für die Priester",
+          "explanation": "",
+          "isCorrect": false
         },
         {
           "text": "In ihren Sinn und in ihre Herzen",
-          "explanation": "Ich will meine Gesetze in ihren Sinn geben und sie in ihre Herzen schreiben [ref:Hebräer 8:10]."
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Auf die Wände der Versammlungsräume",
-          "explanation": "Das trifft nicht zu. Richtig ist: In ihren Sinn und in ihre Herzen [ref:Hebräer 8:10]."
+          "text": "Auf die Pfeiler des irdischen Heiligtums",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Hebräer 8:10",
-      "explanation": "Ich will meine Gesetze in ihren Sinn geben und sie in ihre Herzen schreiben [ref:Hebräer 8:10].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "hebr_039",
       "type": "single_choice",
-      "text": "Was geschieht mit dem Ersten Bund, indem Gott ihn als „alt“ bezeichnet?",
+      "text": "Was geschieht mit dem Vorherigen, indem Gott einen neuen Bund nennt (Hebräer 8:13)?",
       "options": [
         {
-          "text": "Er wird mit frischem Blut erneuert",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er ist veraltet und nahe daran, zu verschwinden [ref:Hebräer 8:13]."
+          "text": "Er wird mit frischem Blut der Kälber erneuert",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Er wird allen Heiden zur Pflicht",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er ist veraltet und nahe daran, zu verschwinden [ref:Hebräer 8:13]."
+          "text": "Er bleibt für alle Heidenvölker ewig bestehen",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Er wird in das Gesetzbuch der Römer aufgenommen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er ist veraltet und nahe daran, zu verschwinden [ref:Hebräer 8:13]."
+          "text": "Er wird in das weltliche Gesetzbuch übernommen",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Er ist veraltet und nahe daran, zu verschwinden",
-          "explanation": "Indem er von einem neuen Bund spricht, hat er den ersten für veraltet erklärt; was aber veraltet und überlebt ist, das ist dem Verschwinden nahe [ref:Hebräer 8:13]."
+          "text": "Er ist veraltet und wird bald verschwinden",
+          "explanation": "",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Hebräer 8:13",
-      "explanation": "Indem er von einem neuen Bund spricht, hat er den ersten für veraltet erklärt; was aber veraltet und überlebt ist, das ist dem Verschwinden nahe [ref:Hebräer 8:13].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "hebr_040",
       "type": "single_choice",
-      "text": "Welche Zusage macht Gott im Neuen Bund bezüglich der Sünden Seines Volkes?",
+      "text": "Welche Zusage gibt der Herr im neuen Bunde in Hebräer 8:12?",
       "options": [
         {
-          "text": "Ihrer Sünden und Gesetzwidrigkeiten will ich nicht mehr gedenken",
-          "explanation": "Ich will gnädig sein ihren Ungerechtigkeiten, und ihrer Sünden und Gesetzwidrigkeiten will ich nicht mehr gedenken [ref:Hebräer 8:12]."
+          "text": "Ihrer Sünden und ihrer Ungesetzlichkeiten will ich nicht mehr gedenken",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Ich werde ihre Sünden in jedem Geschlecht strafen, bis sie umkehren",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ihrer Sünden und Gesetzwidrigkeiten will ich nicht mehr gedenken [ref:Hebräer 8:12]."
+          "text": "Ihre Sünden will ich an ihren Kindern bis ins vierte Glied heimsuchen",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Ich werde ihre Sünden durch jährliche Opfer fordern, wie ich es gebot",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ihrer Sünden und Gesetzwidrigkeiten will ich nicht mehr gedenken [ref:Hebräer 8:12]."
+          "text": "Ihre Vergehen sollen sie durch jährliche Brandopfer von Stieren büßen",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Ich werde ihre Sünden in das Gesetzbuch schreiben, damit sie bleiben",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ihrer Sünden und Gesetzwidrigkeiten will ich nicht mehr gedenken [ref:Hebräer 8:12]."
+          "text": "Ihre Missetaten will ich vor allen Völkern der Erde öffentlich richten",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Hebräer 8:12",
-      "explanation": "Ich will gnädig sein ihren Ungerechtigkeiten, und ihrer Sünden und Gesetzwidrigkeiten will ich nicht mehr gedenken [ref:Hebräer 8:12].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "hebr_041",
       "type": "single_choice",
-      "text": "Wie oft im Jahr betrat der hohepriesterliche Stellvertreter das Allerheiligste?",
+      "text": "Wie oft ging der Hohepriester in das zweite Zelt hinein (Hebräer 9:7)?",
       "options": [
         {
-          "text": "Jeden Tag beim Morgenopfer",
-          "explanation": "Das trifft nicht zu. Richtig ist: Nur einmal im Jahr, nicht ohne Blut [ref:Hebräer 9:7]."
+          "text": "Täglich zum Morgenopfer",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Nur einmal im Jahr, nicht ohne Blut",
-          "explanation": "In das zweite Zelt aber geht nur der Hohepriester einmal im Jahr, nicht ohne Blut, das er für sich selbst und für die Verirrungen des Volkes darbringt [ref:Hebräer 9:7]."
+          "text": "Einmal im Jahr, nicht ohne Blut",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Jeden Sabbat",
-          "explanation": "Das trifft nicht zu. Richtig ist: Nur einmal im Jahr, nicht ohne Blut [ref:Hebräer 9:7]."
+          "text": "Zu jedem Neumond des Jahres",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Zweimal im Monat zum Neumond",
-          "explanation": "Das trifft nicht zu. Richtig ist: Nur einmal im Jahr, nicht ohne Blut [ref:Hebräer 9:7]."
+          "text": "Dreimal an jedem Festtag",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Hebräer 9:7",
-      "explanation": "In das zweite Zelt aber geht nur der Hohepriester einmal im Jahr, nicht ohne Blut, das er für sich selbst und für die Verirrungen des Volkes darbringt [ref:Hebräer 9:7].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "hebr_042",
       "type": "single_choice",
-      "text": "Womit ging Christus ein für alle Mal in das himmlische Heiligtum ein?",
+      "text": "Wodurch ging Christus ein für alle Mal in das Heiligtum ein (Hebräer 9:12)?",
       "options": [
         {
-          "text": "Mit dem Blut von Stieren und Böcken",
-          "explanation": "Das trifft nicht zu. Richtig ist: Mit seinem eigenen Blut [ref:Hebräer 9:12]."
+          "text": "Durch das Blut von Böcken und Kälbern",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Mit den goldenen Gefäßen des Heiligtums",
-          "explanation": "Das trifft nicht zu. Richtig ist: Mit seinem eigenen Blut [ref:Hebräer 9:12]."
+          "text": "Durch das Wasser der Reinigung am Altar",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Mit seinem eigenen Blut",
-          "explanation": "Er ist nicht mit dem Blut von Böcken und Kälbern, sondern mit seinem eigenen Blut ein für alle Mal in das Heiligtum eingegangen und hat eine ewige Erlösung erworben [ref:Hebräer 9:12]."
+          "text": "Durch sein eigenes Blut ein für alle Mal",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Mit den Gesetzestafeln aus der Lade",
-          "explanation": "Das trifft nicht zu. Richtig ist: Mit seinem eigenen Blut [ref:Hebräer 9:12]."
+          "text": "Durch das Rauchwerk der Priester im Zelt",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Hebräer 9:12",
-      "explanation": "Er ist nicht mit dem Blut von Böcken und Kälbern, sondern mit seinem eigenen Blut ein für alle Mal in das Heiligtum eingegangen und hat eine ewige Erlösung erworben [ref:Hebräer 9:12].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "hebr_043",
       "type": "single_choice",
-      "text": "Was ist nach dem geistlichen Gesetz ohne Blutvergießen völlig unmöglich?",
+      "text": "Was geschieht nach Hebräer 9:22 ohne Blutvergießen nicht?",
       "options": [
         {
-          "text": "Der Bau von Versammlungsräumen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Vergebung der Sünden [ref:Hebräer 9:22]."
+          "text": "Keine Weihung der Priester",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Die Einsetzung von Richtern",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Vergebung der Sünden [ref:Hebräer 9:22]."
+          "text": "Keine Errichtung des Zeltes",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Das Verständnis der Propheten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Vergebung der Sünden [ref:Hebräer 9:22]."
+          "text": "Keine Salbung des Königs",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Die Vergebung der Sünden",
-          "explanation": "Ohne Blutvergießen geschieht keine Vergebung [ref:Hebräer 9:22]."
+          "text": "Es geschieht keine Vergebung",
+          "explanation": "",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Hebräer 9:22",
-      "explanation": "Ohne Blutvergießen geschieht keine Vergebung [ref:Hebräer 9:22].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "hebr_044",
       "type": "single_choice",
-      "text": "Was ist den Menschen einmal gesetzt, worauf das unentfliehbare Gericht folgt?",
+      "text": "Was ist den Menschen nach Hebräer 9:27 bestimmt?",
       "options": [
         {
           "text": "Einmal zu sterben, danach aber das Gericht",
-          "explanation": "Wie es den Menschen bestimmt ist, einmal zu sterben, danach aber das Gericht [ref:Hebräer 9:27]."
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Einmal reich zu werden",
-          "explanation": "Das trifft nicht zu. Richtig ist: Einmal zu sterben, danach aber das Gericht [ref:Hebräer 9:27]."
+          "text": "Immerfort zu leben ohne jegliches Sterben",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Einmal vor heidnischen Richtern zu stehen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Einmal zu sterben, danach aber das Gericht [ref:Hebräer 9:27]."
+          "text": "Wiedergeboren zu werden zu neuem Erdenleben",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Einmal alle Gesetze zu studieren",
-          "explanation": "Das trifft nicht zu. Richtig ist: Einmal zu sterben, danach aber das Gericht [ref:Hebräer 9:27]."
+          "text": "Vergessen zu werden nach dem Tode im Grabe",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Hebräer 9:27",
-      "explanation": "Wie es den Menschen bestimmt ist, einmal zu sterben, danach aber das Gericht [ref:Hebräer 9:27].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "hebr_045",
       "type": "single_choice",
-      "text": "Wie oft wurde Christus geopfert, um die Sünden vieler Menschen wegzunehmen?",
+      "text": "Wie oft brachte sich Christus dar, um die Sünden vieler hinaufzubringen (Hebräer 9:28)?",
       "options": [
         {
-          "text": "Jährlich am Versöhnungstag",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ein einziges Mal [ref:Hebräer 9:28]."
+          "text": "Alljährlich am Versöhnungstag",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Ein einziges Mal",
-          "explanation": "So ist auch Christus einmal geopfert worden, um die Sünden vieler wegzunehmen [ref:Hebräer 9:28]."
+          "text": "Er hat sich einmal dargebracht",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Dreimal in seinem Dienst",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ein einziges Mal [ref:Hebräer 9:28]."
+          "text": "Täglich im himmlischen Zelt",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Täglich auf dem Altar",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ein einziges Mal [ref:Hebräer 9:28]."
+          "text": "Dreimal vor den Zeugen Gottes",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Hebräer 9:28",
-      "explanation": "So ist auch Christus einmal geopfert worden, um die Sünden vieler wegzunehmen [ref:Hebräer 9:28].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "hebr_046",
       "type": "single_choice",
-      "text": "Was besaß das alttestamentliche Gesetz im Hinblick auf die künftigen Güter?",
+      "text": "Was hatte das Gesetz im Hinblick auf die zukünftigen Güter (Hebräer 10:1)?",
       "options": [
         {
-          "text": "Die volle Wirklichkeit selbst und das Wesen der künftigen Güter",
-          "explanation": "Das trifft nicht zu. Richtig ist: Nur einen Schatten der zukünftigen Güter, nicht das Wesen der Dinge selbst [ref:Hebräer 10:1]."
+          "text": "Das vollkommene Wesen und die Erfüllung aller göttlichen Verheißungen",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Keinerlei Beziehung zu ihnen, denn es sprach nur von der Gegenwart",
-          "explanation": "Das trifft nicht zu. Richtig ist: Nur einen Schatten der zukünftigen Güter, nicht das Wesen der Dinge selbst [ref:Hebräer 10:1]."
+          "text": "Die wirksame Kraft, alle Hinzutretenden für immer vollkommen zu machen",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Nur einen Schatten der zukünftigen Güter, nicht das Wesen der Dinge selbst",
-          "explanation": "Das Gesetz hat nur einen Schatten der zukünftigen Güter, nicht das Bild der Dinge selbst [ref:Hebräer 10:1]."
+          "text": "Einen Schatten der zukünftigen Güter, nicht das Ebenbild der Dinge",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Die Kraft zur vollkommenen Reinigung und zur Vergebung der Sünden",
-          "explanation": "Das trifft nicht zu. Richtig ist: Nur einen Schatten der zukünftigen Güter, nicht das Wesen der Dinge selbst [ref:Hebräer 10:1]."
+          "text": "Den ewigen Bund, welcher durch kein anderes Opfer abgelöst werden kann",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Hebräer 10:1",
-      "explanation": "Das Gesetz hat nur einen Schatten der zukünftigen Güter, nicht das Bild der Dinge selbst [ref:Hebräer 10:1].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "hebr_047",
       "type": "single_choice",
-      "text": "Was hat Gott dem Sohn bereitet, damit Er den göttlichen Willen erfülle?",
+      "text": "Was hat Gott dem Sohne zubereitet nach Hebräer 10:5?",
       "options": [
         {
-          "text": "Einen Tempel aus Gold",
-          "explanation": "Das trifft nicht zu. Richtig ist: Einen Leib [ref:Hebräer 10:5-7]."
+          "text": "Ein goldenes Zepter der Macht",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Ein Schwert gegen seine Feinde",
-          "explanation": "Das trifft nicht zu. Richtig ist: Einen Leib [ref:Hebräer 10:5-7]."
+          "text": "Ein irdisches Herrscherreich",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Eine Krone weltlicher Herrschaft",
-          "explanation": "Das trifft nicht zu. Richtig ist: Einen Leib [ref:Hebräer 10:5-7]."
+          "text": "Ein Ehrenkleid der Priester",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Einen Leib",
-          "explanation": "Opfer und Gaben hast du nicht gewollt; einen Leib aber hast du mir bereitet. Siehe, ich komme, um deinen Willen, Gott, zu tun [ref:Hebräer 10:5-7]."
+          "text": "Einen Leib hat er zubereitet",
+          "explanation": "",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
         3
       ],
-      "bibleReference": "Hebräer 10:5-7",
-      "explanation": "Opfer und Gaben hast du nicht gewollt; einen Leib aber hast du mir bereitet. Siehe, ich komme, um deinen Willen, Gott, zu tun [ref:Hebräer 10:5-7].",
+      "bibleReference": "Hebräer 10:5",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "hebr_048",
       "type": "single_choice",
-      "text": "Wozu sollen sich die Glaubenden gegenseitig anspornen und ermutigen?",
+      "text": "Wozu sollen wir uns gegenseitig anspornen nach Hebräer 10:24?",
       "options": [
         {
-          "text": "Zur Liebe und zu guten Werken",
-          "explanation": "Lasst uns aufeinander achthaben, um uns gegenseitig anzuspornen zur Liebe und zu guten Werken [ref:Hebräer 10:24]."
+          "text": "Zur Liebe und zu edlen Werken",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Zum Streit mit den Richtern Roms",
-          "explanation": "Das trifft nicht zu. Richtig ist: Zur Liebe und zu guten Werken [ref:Hebräer 10:24]."
+          "text": "Zum Sammeln irdischer Schätze",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Zum Sammeln großer Schätze",
-          "explanation": "Das trifft nicht zu. Richtig ist: Zur Liebe und zu guten Werken [ref:Hebräer 10:24]."
+          "text": "Zum Streit über die Gesetze",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Zum Verlassen der heidnischen Städte",
-          "explanation": "Das trifft nicht zu. Richtig ist: Zur Liebe und zu guten Werken [ref:Hebräer 10:24]."
+          "text": "Zum Richtstuhl der Weltleute",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Hebräer 10:24",
-      "explanation": "Lasst uns aufeinander achthaben, um uns gegenseitig anzuspornen zur Liebe und zu guten Werken [ref:Hebräer 10:24].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "hebr_049",
       "type": "single_choice",
-      "text": "Was sollen die Glaubenden nicht verlassen, wie etliche es sich angewöhnten?",
+      "text": "Was sollen wir nach Hebräer 10:25 nicht verlassen?",
       "options": [
         {
-          "text": "Die Gesetze der Vorfahren",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ihre gemeinsame Versammlung [ref:Hebräer 10:25]."
+          "text": "Die Gesetze des alten Bundes",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Ihre gemeinsame Versammlung",
-          "explanation": "Lasst uns unser Zusammenkommen nicht verlassen, wie es etliche gewohnt sind, sondern einander ermahnen, und das um so mehr, als ihr den Tag herannahen seht [ref:Hebräer 10:25]."
+          "text": "Unsere eigene Zusammenkunft",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Die Häuser der Verwandten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ihre gemeinsame Versammlung [ref:Hebräer 10:25]."
+          "text": "Den Tempel von Jerusalem",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Die Arbeit mit eigenen Händen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ihre gemeinsame Versammlung [ref:Hebräer 10:25]."
+          "text": "Die Lehre der Schriftgelehrten",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Hebräer 10:25",
-      "explanation": "Lasst uns unser Zusammenkommen nicht verlassen, wie es etliche gewohnt sind, sondern einander ermahnen, und das um so mehr, als ihr den Tag herannahen seht [ref:Hebräer 10:25].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "hebr_050",
       "type": "single_choice",
-      "text": "Was erwartet denjenigen, der nach empfangener Erkenntnis der Wahrheit vorsätzlich sündigt?",
+      "text": "Was bleibt für jene, die nach Empfang der Wahrheit freiwillig sündigen (Hebräer 10:27)?",
       "options": [
         {
-          "text": "Schnelle Vergebung ohne Buße, da das Opfer Christi genügt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ein furchtbares Erwarten des Gerichts und des Eifers eines Feuers [ref:Hebräer 10:26-27]."
+          "text": "Ein neues Opfertier am Altar zur vollkommenen Sühnung",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Eine geringe Geldbuße, die er dem Heiligtum zahlen muss",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ein furchtbares Erwarten des Gerichts und des Eifers eines Feuers [ref:Hebräer 10:26-27]."
+          "text": "Ein Nachlass der Sünden ohne jegliches göttliches Gericht",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Ein furchtbares Erwarten des Gerichts und des Eifers eines Feuers",
-          "explanation": "Wenn wir mutwillig sündigen, nachdem wir die Erkenntnis der Wahrheit empfangen haben, bleibt kein Opfer für Sünden mehr übrig, sondern ein schreckliches Erwarten des Gerichts [ref:Hebräer 10:26-27]."
+          "text": "Ein schreckliches Erwarten des Gerichts und der Eifer des Feuers",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Völlige Straffreiheit, da Gott die Absicht des Herzens nicht richtet",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ein furchtbares Erwarten des Gerichts und des Eifers eines Feuers [ref:Hebräer 10:26-27]."
+          "text": "Eine weitere Gnadenzeit zur freiwilligen Umkehr vor Gott",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Hebräer 10:26-27",
-      "explanation": "Wenn wir mutwillig sündigen, nachdem wir die Erkenntnis der Wahrheit empfangen haben, bleibt kein Opfer für Sünden mehr übrig, sondern ein schreckliches Erwarten des Gerichts [ref:Hebräer 10:26-27].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "hebr_051",
       "type": "single_choice",
-      "text": "Was ist der Glauben nach der klassischen Definition im elften Kapitel?",
+      "text": "Wie lautet die biblische Wesensbestimmung des Glaubens in Hebräer 11:1?",
       "options": [
         {
-          "text": "Ein vages Gefühl ohne feste Grundlage, das mit den Umständen und der Stimmung wechselt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Eine feste Zuversicht auf das, was man hofft, ein Nichtzweifeln an dem, was man nicht sieht [ref:Hebräer 11:1]."
+          "text": "Ein menschliches Hoffen auf irdisches Glück und das Trachten nach Gütern",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Ein Wissen um alle Tatsachen, das der Mensch durch Forschen und Lernen erwirbt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Eine feste Zuversicht auf das, was man hofft, ein Nichtzweifeln an dem, was man nicht sieht [ref:Hebräer 11:1]."
+          "text": "Ein bloßes Fürwahrhalten der Schriften ohne persönliche Hingabe des Herzens",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Eine Leistung des Verstandes, die durch Übung und Bildung immer weiter verbessert werden kann",
-          "explanation": "Das trifft nicht zu. Richtig ist: Eine feste Zuversicht auf das, was man hofft, ein Nichtzweifeln an dem, was man nicht sieht [ref:Hebräer 11:1]."
+          "text": "Eine vorübergehende Begeisterung der Seele, welche im Leiden schnell vergeht",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Eine feste Zuversicht auf das, was man hofft, ein Nichtzweifeln an dem, was man nicht sieht",
-          "explanation": "Es ist aber der Glaube eine feste Zuversicht auf das, was man hofft, eine Überzeugung von Dingen, die man nicht sieht [ref:Hebräer 11:1]."
+          "text": "Ein Beharren auf dem, was man hofft, eine Überzeugung von Dingen, die man nicht sieht",
+          "explanation": "",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Hebräer 11:1",
-      "explanation": "Es ist aber der Glaube eine feste Zuversicht auf das, was man hofft, eine Überzeugung von Dingen, die man nicht sieht [ref:Hebräer 11:1].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "hebr_052",
       "type": "single_choice",
-      "text": "Wodurch brachte Habel Gott ein besseres Opfer dar als sein Bruder Kain?",
+      "text": "Wodurch brachte Abel Gott ein größeres Opfer dar als Kain (Hebräer 11:4)?",
       "options": [
         {
-          "text": "Durch den Glauben",
-          "explanation": "Durch Glauben brachte Abel Gott ein besseres Opfer dar als Kain; durch ihn hat er Zeugnis empfangen, dass er gerecht sei [ref:Hebräer 11:4]."
+          "text": "Durch Glauben brachte er es dar",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Durch den Reichtum seiner Herde",
-          "explanation": "Das trifft nicht zu. Richtig ist: Durch den Glauben [ref:Hebräer 11:4]."
+          "text": "Durch großen Reichtum an Schafen",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Durch die Hilfe seiner Eltern",
-          "explanation": "Das trifft nicht zu. Richtig ist: Durch den Glauben [ref:Hebräer 11:4]."
+          "text": "Durch das Fasten vor dem Altare",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Durch das Befolgen der Tempelgesetze",
-          "explanation": "Das trifft nicht zu. Richtig ist: Durch den Glauben [ref:Hebräer 11:4]."
+          "text": "Durch den Rat seines Vaters Adam",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Hebräer 11:4",
-      "explanation": "Durch Glauben brachte Abel Gott ein besseres Opfer dar als Kain; durch ihn hat er Zeugnis empfangen, dass er gerecht sei [ref:Hebräer 11:4].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "hebr_053",
       "type": "single_choice",
-      "text": "Welches Zeugnis empfing Henoch, ehe er von Gott hinweggenommen wurde?",
+      "text": "Welches Zeugnis empfing Henoch vor seiner Entrückung (Hebräer 11:5)?",
       "options": [
         {
-          "text": "Dass er der reichste Mann war",
-          "explanation": "Das trifft nicht zu. Richtig ist: Dass er Gott gefallen habe [ref:Hebräer 11:5-6]."
+          "text": "Dass er reich war an irdischem Gut",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Dass er Gott gefallen habe",
-          "explanation": "Durch Glauben wurde Henoch entrückt, dass er den Tod nicht sähe; denn vor seiner Entrückung hat er das Zeugnis erhalten, dass er Gott gefallen habe [ref:Hebräer 11:5-6]."
+          "text": "Dass er Gott wohlgefallen habe",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Dass er einen großen Tempel baute",
-          "explanation": "Das trifft nicht zu. Richtig ist: Dass er Gott gefallen habe [ref:Hebräer 11:5-6]."
+          "text": "Dass er viele Kriege gewonnen habe",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Dass er über seine Nachbarn herrschte",
-          "explanation": "Das trifft nicht zu. Richtig ist: Dass er Gott gefallen habe [ref:Hebräer 11:5-6]."
+          "text": "Dass er ein mächtiger König war",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         1
       ],
-      "bibleReference": "Hebräer 11:5-6",
-      "explanation": "Durch Glauben wurde Henoch entrückt, dass er den Tod nicht sähe; denn vor seiner Entrückung hat er das Zeugnis erhalten, dass er Gott gefallen habe [ref:Hebräer 11:5-6].",
+      "bibleReference": "Hebräer 11:5",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "hebr_054",
       "type": "single_choice",
-      "text": "Wie gehorchte Abraham, als er berufen wurde, in ein Land auszuziehen?",
+      "text": "Wie zog Abraham aus, als er berufen wurde (Hebräer 11:8)?",
       "options": [
         {
-          "text": "Zögernd, erst nach Jahren des Nachdenkens und nach langem Zweifeln",
-          "explanation": "Das trifft nicht zu. Richtig ist: Im Glauben zog er aus, ohne zu wissen, wohin er kommen würde [ref:Hebräer 11:8]."
+          "text": "Mit großer Kriegsmacht, um das fremde Land mit Gewalt einzunehmen",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Nur unter dem Schutz eines römischen Heeres, das ihn begleitete",
-          "explanation": "Das trifft nicht zu. Richtig ist: Im Glauben zog er aus, ohne zu wissen, wohin er kommen würde [ref:Hebräer 11:8]."
+          "text": "Nachdem er genaue Kundschafter ausgesandt und das Erbteil besichtigt hatte",
+          "explanation": "",
+          "isCorrect": false
         },
         {
           "text": "Im Glauben zog er aus, ohne zu wissen, wohin er kommen würde",
-          "explanation": "Durch Glauben gehorchte Abraham, als er berufen wurde, auszuziehen an den Ort, den er zum Erbe empfangen sollte, und zog aus, ohne zu wissen, wohin er kommen würde [ref:Hebräer 11:8]."
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Erst nachdem er eine Landkarte gesehen und den Weg erkundet hatte",
-          "explanation": "Das trifft nicht zu. Richtig ist: Im Glauben zog er aus, ohne zu wissen, wohin er kommen würde [ref:Hebräer 11:8]."
+          "text": "Nur bis Haran, wo er auf Befehl seines Vaters für immer sesshaft blieb",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Hebräer 11:8",
-      "explanation": "Durch Glauben gehorchte Abraham, als er berufen wurde, auszuziehen an den Ort, den er zum Erbe empfangen sollte, und zog aus, ohne zu wissen, wohin er kommen würde [ref:Hebräer 11:8].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "hebr_055",
       "type": "single_choice",
-      "text": "Was erwählte Mose lieber als den vorübergehenden Genuss der Sünde Ägyptens?",
+      "text": "Was zog Mose dem zeitlichen Genuss der Sünde vor (Hebräer 11:25)?",
       "options": [
         {
-          "text": "Die Schätze Ägyptens zu genießen und im Königshaus zu bleiben",
-          "explanation": "Das trifft nicht zu. Richtig ist: Mit dem Volk Gottes Misshandlung zu leiden [ref:Hebräer 11:24-26]."
+          "text": "Als reicher Fürst in den Palästen der Pharaonen zu herrschen",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Den Thron Ägyptens zu besteigen und über das Land zu herrschen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Mit dem Volk Gottes Misshandlung zu leiden [ref:Hebräer 11:24-26]."
+          "text": "Die Weisheit und Wissenschaft Ägyptens vor Gelehrten zu lehren",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Ein ruhiges Leben in Athen zu führen und dort zu studieren",
-          "explanation": "Das trifft nicht zu. Richtig ist: Mit dem Volk Gottes Misshandlung zu leiden [ref:Hebräer 11:24-26]."
+          "text": "Aus Ägypten zu fliehen und im Lande Midian still zu wohnen",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Mit dem Volk Gottes Misshandlung zu leiden",
-          "explanation": "Mose wollte lieber mit dem Volk Gottes Ungemach leiden, als den vergänglichen Genuss der Sünde zu haben [ref:Hebräer 11:24-26]."
+          "text": "Lieber mit dem Volk Gottes Misshandlung und Übles zu erdulden",
+          "explanation": "",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Hebräer 11:24-26",
-      "explanation": "Mose wollte lieber mit dem Volk Gottes Ungemach leiden, als den vergänglichen Genuss der Sünde zu haben [ref:Hebräer 11:24-26].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "hebr_056",
       "type": "single_choice",
-      "text": "Von was für einer Wolke sehen sich die Glaubenden im Wettlauf umgeben?",
+      "text": "Von was für einer Wolke sehen wir uns umgeben (Hebräer 12:1)?",
       "options": [
         {
-          "text": "Von einer großen Wolke von Zeugen",
-          "explanation": "Da wir eine so große Wolke von Zeugen um uns haben, so lasst uns ablegen alles, was uns beschwert, und laufen mit Geduld in dem Kampf, der uns bestimmt ist [ref:Hebräer 12:1]."
+          "text": "Von einer solchen Wolke von Zeugen",
+          "explanation": "",
+          "isCorrect": true
         },
         {
           "text": "Von einer dunklen Wolke des Gerichts",
-          "explanation": "Das trifft nicht zu. Richtig ist: Von einer großen Wolke von Zeugen [ref:Hebräer 12:1]."
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Von einer Wolke heidnischer Philosophie",
-          "explanation": "Das trifft nicht zu. Richtig ist: Von einer großen Wolke von Zeugen [ref:Hebräer 12:1]."
+          "text": "Von einer Wolke feuriger Engelwagen",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Von einer Wolke des Leidens",
-          "explanation": "Das trifft nicht zu. Richtig ist: Von einer großen Wolke von Zeugen [ref:Hebräer 12:1]."
+          "text": "Von einer Wolke heidnischer Feinde",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Hebräer 12:1",
-      "explanation": "Da wir eine so große Wolke von Zeugen um uns haben, so lasst uns ablegen alles, was uns beschwert, und laufen mit Geduld in dem Kampf, der uns bestimmt ist [ref:Hebräer 12:1].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "hebr_057",
       "type": "single_choice",
-      "text": "Auf wen sollen die Läufer im geistlichen Wettkampf unverwandt blicken?",
+      "text": "Auf wen sollen wir im Wettkampf blicken (Hebräer 12:2)?",
       "options": [
         {
-          "text": "Auf die Könige des Alten Bundes, die ihnen vorangegangen sind",
-          "explanation": "Das trifft nicht zu. Richtig ist: Auf Jesus, den Anfänger und Vollender des Glaubens [ref:Hebräer 12:2]."
+          "text": "Auf die Vorbilder der Patriarchen",
+          "explanation": "",
+          "isCorrect": false
         },
         {
           "text": "Auf Jesus, den Anfänger und Vollender des Glaubens",
-          "explanation": "Lasst uns aufsehen auf Jesus, den Anfänger und Vollender des Glaubens [ref:Hebräer 12:2]."
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Auf die römischen Richter, die über Sieg und Niederlage entscheiden",
-          "explanation": "Das trifft nicht zu. Richtig ist: Auf Jesus, den Anfänger und Vollender des Glaubens [ref:Hebräer 12:2]."
+          "text": "Auf die Gerechtigkeit der Schriftgelehrten",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Auf die eigenen Erfolge, die sie bisher errungen haben",
-          "explanation": "Das trifft nicht zu. Richtig ist: Auf Jesus, den Anfänger und Vollender des Glaubens [ref:Hebräer 12:2]."
+          "text": "Auf die Stärke unseres eigenen Fleisches",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Hebräer 12:2",
-      "explanation": "Lasst uns aufsehen auf Jesus, den Anfänger und Vollender des Glaubens [ref:Hebräer 12:2].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "hebr_058",
       "type": "single_choice",
-      "text": "Wie begegnet Gott Seinen geliebten Kindern nach den Worten im zwölften Kapitel?",
+      "text": "Wen züchtigt der Herr nach Hebräer 12:6?",
       "options": [
         {
-          "text": "Er lässt sie ohne Führung",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er züchtigt jeden Sohn, den er annimmt [ref:Hebräer 12:6]."
+          "text": "Ausschließlich die Ungehorsamen und Verstockten",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Er straft sie mit ewiger Verwerfung",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er züchtigt jeden Sohn, den er annimmt [ref:Hebräer 12:6]."
+          "text": "Nur jene, die von seinem heiligen Worte abfallen",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Er züchtigt jeden Sohn, den er annimmt",
-          "explanation": "Welchen der Herr lieb hat, den züchtigt er; er peitscht aber jeden Sohn, den er annimmt [ref:Hebräer 12:6]."
+          "text": "Welchen der Herr lieb hat, den züchtigt er",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Er schenkt ihnen nur irdischen Reichtum",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er züchtigt jeden Sohn, den er annimmt [ref:Hebräer 12:6]."
+          "text": "Niemanden, er lässt jeden Menschen gewähren",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Hebräer 12:6",
-      "explanation": "Welchen der Herr lieb hat, den züchtigt er; er peitscht aber jeden Sohn, den er annimmt [ref:Hebräer 12:6].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "hebr_059",
       "type": "single_choice",
-      "text": "Zu welchem hehren geistlichen Berg sind die Glaubenden im Neuen Bund getreten?",
+      "text": "Wohin sind die Gläubigen nach Hebräer 12:22 gekommen?",
       "options": [
         {
-          "text": "Zum rauchenden Berg Sinai, wo das Gesetz unter Donner und Feuer gegeben wurde",
-          "explanation": "Das trifft nicht zu. Richtig ist: Zum Berg Zion und zur Stadt des lebendigen Gottes, dem himmlischen Jerusalem [ref:Hebräer 12:22]."
+          "text": "Zu dem rauchenden Berg Sinai mit Blitz und Donner",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Zum Götterberg der Heiden, auf dem die Völker ihre Opfer darbringen und beten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Zum Berg Zion und zur Stadt des lebendigen Gottes, dem himmlischen Jerusalem [ref:Hebräer 12:22]."
+          "text": "Zu den Richtstühlen der mächtigen heidnischen Kaiser",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Zum Berg Karmel, wo Elia den Baalspriestern gegenübertrat und Feuer fiel",
-          "explanation": "Das trifft nicht zu. Richtig ist: Zum Berg Zion und zur Stadt des lebendigen Gottes, dem himmlischen Jerusalem [ref:Hebräer 12:22]."
+          "text": "Zu dem irdischen Tempel mit seinen vielen Priestern",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Zum Berg Zion und zur Stadt des lebendigen Gottes, dem himmlischen Jerusalem",
-          "explanation": "Ihr seid gekommen zum Berg Zion und zur Stadt des lebendigen Gottes, dem himmlischen Jerusalem [ref:Hebräer 12:22]."
+          "text": "Zu dem Berg Zion und der Stadt des lebendigen Gottes",
+          "explanation": "",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Hebräer 12:22",
-      "explanation": "Ihr seid gekommen zum Berg Zion und zur Stadt des lebendigen Gottes, dem himmlischen Jerusalem [ref:Hebräer 12:22].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "hebr_060",
       "type": "single_choice",
-      "text": "Wie wird das göttliche Wesen am Ende des zwölften Kapitels beschrieben?",
+      "text": "Wie wird unser Gott in Hebräer 12:29 beschrieben?",
       "options": [
         {
           "text": "Unser Gott ist ein verzehrendes Feuer",
-          "explanation": "Lasst uns Gott dienen, ihm zu gefallen, mit Scheu und Furcht; denn unser Gott ist ein verzehrendes Feuer [ref:Hebräer 12:29]."
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Unser Gott ist ein kalter Beobachter",
-          "explanation": "Das trifft nicht zu. Richtig ist: Unser Gott ist ein verzehrendes Feuer [ref:Hebräer 12:29]."
+          "text": "Unser Gott ist ein nachsichtiger Richter",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Unser Gott verlangt keine Opfer mehr",
-          "explanation": "Das trifft nicht zu. Richtig ist: Unser Gott ist ein verzehrendes Feuer [ref:Hebräer 12:29]."
+          "text": "Unser Gott ist fernab von dieser Welt",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Unser Gott richtet die Taten der Menschen nie",
-          "explanation": "Das trifft nicht zu. Richtig ist: Unser Gott ist ein verzehrendes Feuer [ref:Hebräer 12:29]."
+          "text": "Unser Gott achtet nicht auf die Sünde",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Hebräer 12:29",
-      "explanation": "Lasst uns Gott dienen, ihm zu gefallen, mit Scheu und Furcht; denn unser Gott ist ein verzehrendes Feuer [ref:Hebräer 12:29].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "hebr_061",
       "type": "single_choice",
-      "text": "Warum soll die Pflicht der Gastfreundschaft unter den Heiligen geübt werden?",
+      "text": "Warum soll die Gastfreundschaft nicht vergessen werden (Hebräer 13:2)?",
       "options": [
         {
-          "text": "Weil man dabei Geld verdient und im Handel Gewinn macht",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil manche dadurch ohne ihr Wissen Engel beherbergt haben [ref:Hebräer 13:2]."
+          "text": "Weil man dadurch irdischen Reichtum erwerben kann",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Weil manche dadurch ohne ihr Wissen Engel beherbergt haben",
-          "explanation": "Die Gastfreundschaft vergesst nicht; denn dadurch haben etliche, ohne es zu wissen, Engel beherbergt [ref:Hebräer 13:2]."
+          "text": "Weil etliche dadurch ohne ihr Wissen Engel beherbergt haben",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Weil das römische Gesetz es verlangt und Strafen androht",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil manche dadurch ohne ihr Wissen Engel beherbergt haben [ref:Hebräer 13:2]."
+          "text": "Weil die heidnischen Behörden die Gastfreundschaft fordern",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Weil die Pharisäer es fordern und darüber wachen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil manche dadurch ohne ihr Wissen Engel beherbergt haben [ref:Hebräer 13:2]."
+          "text": "Weil man dadurch weltliches Ansehen bei den Nachbarn gewinnt",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Hebräer 13:2",
-      "explanation": "Die Gastfreundschaft vergesst nicht; denn dadurch haben etliche, ohne es zu wissen, Engel beherbergt [ref:Hebräer 13:2].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "hebr_062",
       "type": "single_choice",
-      "text": "Wie soll der Stand der Ehe unter allen Glaubenden gehalten werden?",
+      "text": "Wie soll die Ehe gehalten werden nach Hebräer 13:4?",
       "options": [
         {
-          "text": "Als vorübergehende Verbindung",
-          "explanation": "Das trifft nicht zu. Richtig ist: In Ehren, und das Ehebett unbefleckt [ref:Hebräer 13:4]."
+          "text": "Als eine weltliche Angelegenheit ohne Heiligkeit",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Nur geduldet und minderwertig",
-          "explanation": "Das trifft nicht zu. Richtig ist: In Ehren, und das Ehebett unbefleckt [ref:Hebräer 13:4]."
+          "text": "Nur zur Mehrung von irdischem Gut und Besitz",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "In Ehren, und das Ehebett unbefleckt",
-          "explanation": "Die Ehe soll in Ehren gehalten werden bei allen und das Ehebett unbefleckt; denn die Unzüchtigen und Ehebrecher wird Gott richten [ref:Hebräer 13:4]."
+          "text": "Von allen in Ehren zu halten und das Ehebett unbefleckt",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Unter Aufsicht der Statthalter",
-          "explanation": "Das trifft nicht zu. Richtig ist: In Ehren, und das Ehebett unbefleckt [ref:Hebräer 13:4]."
+          "text": "Nur für jene, die kein geistliches Amt bekleiden",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Hebräer 13:4",
-      "explanation": "Die Ehe soll in Ehren gehalten werden bei allen und das Ehebett unbefleckt; denn die Unzüchtigen und Ehebrecher wird Gott richten [ref:Hebräer 13:4].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "hebr_063",
       "type": "single_choice",
-      "text": "Welches unerschütterliche Bekenntnis gilt von unserem HERRN Jesus Christus?",
+      "text": "Welches Bekenntnis gilt von Jesus Christus in Hebräer 13:8?",
       "options": [
         {
-          "text": "Jesus Christus ändert seine Lehre mit der Zeit und den Umständen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Jesus Christus gestern und heute und derselbe auch in Ewigkeit [ref:Hebräer 13:8]."
+          "text": "Er wandelt sich mit den Zeiten und den menschlichen Gedanken",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Jesus Christus war nur für die Alten ein Retter und Hohepriester",
-          "explanation": "Das trifft nicht zu. Richtig ist: Jesus Christus gestern und heute und derselbe auch in Ewigkeit [ref:Hebräer 13:8]."
+          "text": "Er war nur in den Tagen seines Erdenlebens mächtig und treu",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Jesus Christus passt sich den Sitten der Heiden an und ändert sich",
-          "explanation": "Das trifft nicht zu. Richtig ist: Jesus Christus gestern und heute und derselbe auch in Ewigkeit [ref:Hebräer 13:8]."
+          "text": "Er offenbart sich in jeder Generation in anderer Gestalt",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Jesus Christus gestern und heute und derselbe auch in Ewigkeit",
-          "explanation": "Jesus Christus ist gestern und heute derselbe und in Ewigkeit [ref:Hebräer 13:8]."
+          "text": "Jesus Christus ist gestern und heute derselbe und in Ewigkeit",
+          "explanation": "",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Hebräer 13:8",
-      "explanation": "Jesus Christus ist gestern und heute derselbe und in Ewigkeit [ref:Hebräer 13:8].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "hebr_064",
       "type": "single_choice",
-      "text": "Wo litt der HERR Jesus, um das Volk durch Sein eigenes Blut zu heiligen?",
+      "text": "Wo litt Jesus, um das Volk durch Sein eigenes Blut zu heiligen (Hebräer 13:12)?",
       "options": [
         {
           "text": "Außerhalb des Tores",
-          "explanation": "Darum hat auch Jesus, um das Volk durch sein eigenes Blut zu heiligen, außerhalb des Tores gelitten [ref:Hebräer 13:12]."
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Im Allerheiligsten des Tempels",
-          "explanation": "Das trifft nicht zu. Richtig ist: Außerhalb des Tores [ref:Hebräer 13:12]."
+          "text": "Im Innern des Tempels",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Im Palast des römischen Statthalters",
-          "explanation": "Das trifft nicht zu. Richtig ist: Außerhalb des Tores [ref:Hebräer 13:12]."
+          "text": "Im Palast des Kaisers",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Auf dem Berg Sinai",
-          "explanation": "Das trifft nicht zu. Richtig ist: Außerhalb des Tores [ref:Hebräer 13:12]."
+          "text": "Auf dem Berge Sinai",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Hebräer 13:12",
-      "explanation": "Darum hat auch Jesus, um das Volk durch sein eigenes Blut zu heiligen, außerhalb des Tores gelitten [ref:Hebräer 13:12].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "hebr_065",
       "type": "single_choice",
-      "text": "Welches geistliche Opfer des Lobes sollen Glaubende durch Christus darbringen?",
+      "text": "Welches Opfer des Lobes sollen wir Gott allezeit darbringen (Hebräer 13:15)?",
       "options": [
         {
-          "text": "Brandopfer von Rindern und Schafen, wie sie im Tempel dargebracht werden",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Frucht der Lippen, die seinen Namen bekennen [ref:Hebräer 13:15]."
+          "text": "Brandopfer von Rindern und Schafen am Altar",
+          "explanation": "",
+          "isCorrect": false
         },
         {
           "text": "Die Frucht der Lippen, die seinen Namen bekennen",
-          "explanation": "Durch ihn lasst uns Gott allezeit ein Lobopfer darbringen, das ist die Frucht der Lippen, die seinen Namen bekennen [ref:Hebräer 13:15]."
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Abgaben an das Heiligtum, die jeder Gläubige zu zahlen hat",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Frucht der Lippen, die seinen Namen bekennen [ref:Hebräer 13:15]."
+          "text": "Silber und Gold für die Kasse des Heiligtums",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Die Anbetung heidnischer Herrscher, wie sie das Volk übt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Frucht der Lippen, die seinen Namen bekennen [ref:Hebräer 13:15]."
+          "text": "Das Fleisch gemästeter Kälber vor den Priestern",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Hebräer 13:15",
-      "explanation": "Durch ihn lasst uns Gott allezeit ein Lobopfer darbringen, das ist die Frucht der Lippen, die seinen Namen bekennen [ref:Hebräer 13:15].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "hebr_066",
       "type": "multiple_choice",
-      "text": "Welche zwei Männer werden in Hebräer 11:5-7 nach Abel als Zeugen des Glaubens genannt?",
+      "text": "Welche zwei Glaubenszeugen werden in Hebräer 11:5-7 nach Abel genannt?",
       "options": [
         {
           "text": "Abraham",
-          "explanation": "Das trifft nicht zu. Richtig sind: Henoch; Noah [ref:Hebräer 11:5-7]."
+          "explanation": "",
+          "isCorrect": false
         },
         {
           "text": "Isaak",
-          "explanation": "Das trifft nicht zu. Richtig sind: Henoch; Noah [ref:Hebräer 11:5-7]."
+          "explanation": "",
+          "isCorrect": false
         },
         {
           "text": "Henoch",
-          "explanation": "Durch Glauben wurde Henoch entrückt, sodass er den Tod nicht sah, und er wurde nicht mehr gefunden, weil Gott ihn entrückt hatte; denn vor seiner Entrückung wurde ihm das Zeugnis gegeben, dass er Gott wohlgefallen habe. Ohne Glauben aber ist es unmöglich, ihm wohlzugefallen; [ref:Hebräer 11:5-7]."
+          "explanation": "",
+          "isCorrect": true
         },
         {
           "text": "Noah",
-          "explanation": "Durch Glauben wurde Henoch entrückt, sodass er den Tod nicht sah, und er wurde nicht mehr gefunden, weil Gott ihn entrückt hatte; denn vor seiner Entrückung wurde ihm das Zeugnis gegeben, dass er Gott wohlgefallen habe. Ohne Glauben aber ist es unmöglich, ihm wohlzugefallen; [ref:Hebräer 11:5-7]."
+          "explanation": "",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
@@ -1999,7 +2263,7 @@
         3
       ],
       "bibleReference": "Hebräer 11:5-7",
-      "explanation": "Durch Glauben wurde Henoch entrückt, sodass er den Tod nicht sah, und er wurde nicht mehr gefunden, weil Gott ihn entrückt hatte; denn vor seiner Entrückung wurde ihm das Zeugnis gegeben, dass er Gott wohlgefallen habe. Ohne Glauben aber ist es unmöglich, ihm wohlzugefallen; [ref:Hebräer 11:5-7].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     }
