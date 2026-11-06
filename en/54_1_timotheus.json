@@ -1,0 +1,1046 @@
+{
+  "metadata": {
+    "quizId": "nt_15_1timotheus_alle_kapitel_en",
+    "title": "1 Timothy",
+    "subtitle": "1 Timothy 1:1 – 6:21 (30 questions)",
+    "author": "King James Version (1769)",
+    "version": "2.3.0",
+    "language": "en",
+    "category": "nt",
+    "difficulty": "medium",
+    "tags": [
+      "1 Timothy",
+      "New Testament",
+      "Pauline Epistles",
+      "Pastoral Epistles",
+      "Paul",
+      "Leadership",
+      "King James Version"
+    ],
+    "questionCount": 30,
+    "canonicalBookNumber": 54,
+    "testament": "NT"
+  },
+  "questions": [
+    {
+      "questionId": "1tim_001",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "By whose commandment was Paul made an apostle of Jesus Christ (1 Timothy 1:1)?",
+      "bibleReference": "1 Timothy 1:1",
+      "correctAnswers": [
+        1
+      ],
+      "options": [
+        {
+          "text": "By the decree of the council at Jerusalem that sent him unto the Gentiles",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By the commandment of God our Saviour, and Lord Jesus Christ, our hope",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "By the elders of the church at Antioch that laid their hands upon him",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By the letters of recommendation from Barnabas who brought him to Rome",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1tim_002",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "For what purpose did Paul beseech Timothy to abide still at Ephesus (1 Timothy 1:3)?",
+      "bibleReference": "1 Timothy 1:3-4",
+      "correctAnswers": [
+        2
+      ],
+      "options": [
+        {
+          "text": "That he might distribute the silver to the poor and relieve widows",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That he might build a new synagogue and establish daily sacrifices",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That he might charge some that they teach no other doctrine",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "That he might dispute before the magistrates and plead for prisoners",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1tim_003",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What is the end of the commandment according to 1 Timothy 1:5?",
+      "bibleReference": "1 Timothy 1:5",
+      "correctAnswers": [
+        3
+      ],
+      "options": [
+        {
+          "text": "The exact knowledge of endless genealogies and traditions of the fathers",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The outward observance of ceremonial laws and commandments of men",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The honour from chief priests and worldly reputation among the people",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Charity out of a pure heart, and a good conscience, and faith unfeigned",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1tim_004",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "For whom is the law made according to 1 Timothy 1:9?",
+      "bibleReference": "1 Timothy 1:9-10",
+      "correctAnswers": [
+        0
+      ],
+      "options": [
+        {
+          "text": "For the lawless and disobedient, for ungodly and sinners",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "For the righteous and just who fulfil the whole precept",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For the priests and Levites ministering in the sanctuary",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For the rulers and magistrates executing worldly decrees",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1tim_005",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Which two men made shipwreck concerning faith and were delivered unto Satan?",
+      "bibleReference": "1 Timothy 1:19-20",
+      "correctAnswers": [
+        1
+      ],
+      "options": [
+        {
+          "text": "Philetus and Hermogenes",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Hymenaeus and Alexander",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Demas and Hermogenes",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Diotrephes and Phygellus",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1tim_006",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What does Paul exhort to be made first of all in 1 Timothy 2:1?",
+      "bibleReference": "1 Timothy 2:1",
+      "correctAnswers": [
+        2
+      ],
+      "options": [
+        {
+          "text": "That they labour with diligence in merchandise for worldly profit",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That they practice secret fasting and abstain from meat and drink",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That supplications, prayers, intercessions, and thanks be for all",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "That they gather great stores of silver to build synagogues in Asia",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1tim_007",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "For whom must prayer be made that we may lead a quiet and peaceable life (1 Timothy 2:2)?",
+      "bibleReference": "1 Timothy 2:1-2",
+      "correctAnswers": [
+        3
+      ],
+      "options": [
+        {
+          "text": "For the priests of the temple and all their ministers",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For the wealthy merchants and all that traffic by sea",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For the worldly philosophers and rulers of synagogues",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For kings, and for all that are placed in authority",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1tim_008",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Who is the one mediator between God and men according to 1 Timothy 2:5?",
+      "bibleReference": "1 Timothy 2:5-6",
+      "correctAnswers": [
+        0
+      ],
+      "options": [
+        {
+          "text": "The man Christ Jesus",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The high priest Aaron",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The prophet at Sinai",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The apostle at Rome",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1tim_009",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "How should women adorn themselves according to 1 Timothy 2:9?",
+      "bibleReference": "1 Timothy 2:9-10",
+      "correctAnswers": [
+        1
+      ],
+      "options": [
+        {
+          "text": "In costly array with purple garments and pearls of great price",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In modest apparel, with shamefacedness and sobriety of spirit",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "In gorgeous robes after the manner of proud worldly princesses",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In continual sackcloth and ashes to be seen of mortal men",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1tim_010",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Who was first formed and who was deceived according to 1 Timothy 2:13-14?",
+      "bibleReference": "1 Timothy 2:13-14",
+      "correctAnswers": [
+        2
+      ],
+      "options": [
+        {
+          "text": "Eve was first formed, then Adam; and the man was first deceived",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Both were formed together, and both were deceived at one moment",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Adam was first formed, then Eve; and the woman was being deceived",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Neither Adam nor Eve was deceived, but only the ancient serpent",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1tim_011",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What does a man desire if he desire the office of a bishop (1 Timothy 3:1)?",
+      "bibleReference": "1 Timothy 3:1",
+      "correctAnswers": [
+        3
+      ],
+      "options": [
+        {
+          "text": "He seeketh only worldly praise",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He transgresseth civil decrees",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He acteth contrary to the law",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He desireth a truly good work",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1tim_012",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What requirement concerning his household is given for a bishop in 1 Timothy 3:4?",
+      "bibleReference": "1 Timothy 3:4-5",
+      "correctAnswers": [
+        0
+      ],
+      "options": [
+        {
+          "text": "One that ruleth well his own house and family",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "One that remaineth without children or a wife",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "One whose children dwell in the holy temple",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "One that committeth his household to strangers",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1tim_013",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Why must a bishop not be a novice according to 1 Timothy 3:6?",
+      "bibleReference": "1 Timothy 3:6",
+      "correctAnswers": [
+        1
+      ],
+      "options": [
+        {
+          "text": "Lest he through lack of learning mislead the whole flock of God",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Lest being lifted up with pride he fall into the devil's judgment",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Lest the secular magistrates apprehend him and bind him in bonds",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Lest he through deceit waste the gifts given unto the poor brethren",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1tim_014",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What qualifications must deacons possess according to 1 Timothy 3:8?",
+      "bibleReference": "1 Timothy 3:8-10",
+      "correctAnswers": [
+        2
+      ],
+      "options": [
+        {
+          "text": "Abounding in great worldly possessions, and honoured by all secular magistrates",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unlearned in holy scriptures, yet highly esteemed among the gentile multitude",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Grave, not doubletongued, not given to much wine, not greedy of filthy lucre",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Advanced in years, but novices in the faith, and walking after carnal desires",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1tim_015",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What is the church of the living God called in 1 Timothy 3:15?",
+      "bibleReference": "1 Timothy 3:15",
+      "correctAnswers": [
+        3
+      ],
+      "options": [
+        {
+          "text": "The refuge of the gentile kingdoms",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The earthly assembly of philosophers",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The earthly temple of worldly wisdom",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The pillar and ground of the truth",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1tim_016",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What does the Spirit speak expressly concerning the latter times (1 Timothy 4:1)?",
+      "bibleReference": "1 Timothy 4:1",
+      "correctAnswers": [
+        0
+      ],
+      "options": [
+        {
+          "text": "That some shall depart from the faith, giving heed to seducing spirits",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "That all men upon earth shall straightway acknowledge the saving truth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That the temple at Jerusalem shall be rebuilt to gather all nations",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That the whole world shall enter into perpetual peace and cease from war",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1tim_017",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What false commandments are described in 1 Timothy 4:3?",
+      "bibleReference": "1 Timothy 4:3",
+      "correctAnswers": [
+        1
+      ],
+      "options": [
+        {
+          "text": "Commanding to be circumcised and enforcing temple ceremonies",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Forbidding to marry, and commanding to abstain from meats",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Forbidding all prayer and commanding anger in the assemblies",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Demanding unlawful tenths and observing pagan rituals daily",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1tim_018",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "How is every creature of God sanctified according to 1 Timothy 4:5?",
+      "bibleReference": "1 Timothy 4:4-5",
+      "correctAnswers": [
+        2
+      ],
+      "options": [
+        {
+          "text": "By washings in a sacred river",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By the decree of worldly rulers",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By the word of God and prayer",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "By offerings of silver and gold",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1tim_019",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What difference is set between bodily exercise and godliness (1 Timothy 4:8)?",
+      "bibleReference": "1 Timothy 4:8",
+      "correctAnswers": [
+        3
+      ],
+      "options": [
+        {
+          "text": "Bodily exercise yieldeth eternal reward, whereas godliness profiteth not at all",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Both are of equal temporal profit unto man in his present pilgrimage upon earth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Godliness weakeneth the outward man, while bodily exercise perfecteth the soul",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Bodily exercise profiteth little: but godliness is profitable unto all things",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1tim_020",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "In what things should Timothy be an example of the believers (1 Timothy 4:12)?",
+      "bibleReference": "1 Timothy 4:12",
+      "correctAnswers": [
+        0
+      ],
+      "options": [
+        {
+          "text": "In word, in conversation, in charity, in spirit, in faith, in purity",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "In earthly riches, in worldly power, in great honor, and in authority",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In contending before civil courts, in dispute, and in secular decrees",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In severe fasting, in perpetual silence, and in rigorous bodily neglect",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1tim_021",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "How should an elder be treated according to 1 Timothy 5:1?",
+      "bibleReference": "1 Timothy 5:1",
+      "correctAnswers": [
+        1
+      ],
+      "options": [
+        {
+          "text": "Rebuke him openly before all men that he may see his error",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Rebuke not an elder, but intreat him as a loving father",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Cast him out of the church until he make public confession",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Pass him by in silence lest he be further stirred up to anger",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1tim_022",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Who should learn first to shew piety at home and requite their parents (1 Timothy 5:4)?",
+      "bibleReference": "1 Timothy 5:4",
+      "correctAnswers": [
+        2
+      ],
+      "options": [
+        {
+          "text": "The civil magistrates",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Foreign travel companions",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Her children or nephews",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Only the city elders",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1tim_023",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "How is a man described who provideth not for his own (1 Timothy 5:8)?",
+      "bibleReference": "1 Timothy 5:8",
+      "correctAnswers": [
+        3
+      ],
+      "options": [
+        {
+          "text": "He is accounted weak in the flesh, yet worthy of gentle forbearance",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He ought to be brought before civil rulers and punished by the law",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He loseth only earthly gain, but remaineth blameless in the faith",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He hath denied the faith, and is worse than an infidel in judgment",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1tim_024",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What are elders that rule well counted worthy of according to 1 Timothy 5:17?",
+      "bibleReference": "1 Timothy 5:17",
+      "correctAnswers": [
+        0
+      ],
+      "options": [
+        {
+          "text": "Worthy of double honour",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Worthy of single honour",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Worthy of temporal fame",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Worthy of worldly praise",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1tim_025",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "Before whom may an accusation against an elder be received (1 Timothy 5:19)?",
+      "bibleReference": "1 Timothy 5:19",
+      "correctAnswers": [
+        1
+      ],
+      "options": [
+        {
+          "text": "Immediately upon any single private rumour",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Only before two or three credible witnesses",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "After the approval of the Roman governor",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Never under any manner of outward charges",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1tim_026",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "When is godliness great gain according to 1 Timothy 6:6?",
+      "bibleReference": "1 Timothy 6:6",
+      "correctAnswers": [
+        2
+      ],
+      "options": [
+        {
+          "text": "When accompanied with abundant worldly treasures",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "When all earthly rulers praise it continually",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "When it is joined together with contentment",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "When it bringeth forth earthly dominion over men",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1tim_027",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What is the root of all evil according to 1 Timothy 6:10?",
+      "bibleReference": "1 Timothy 6:10",
+      "correctAnswers": [
+        3
+      ],
+      "options": [
+        {
+          "text": "Utter poverty",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Bitter malice",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Manual labour",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Love of money",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1tim_028",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What is Timothy exhorted to do in the fight of faith (1 Timothy 6:12)?",
+      "bibleReference": "1 Timothy 6:12",
+      "correctAnswers": [
+        0
+      ],
+      "options": [
+        {
+          "text": "Fight the good fight of faith, lay hold on eternal life",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Build a strong fortress in Ephesus to shelter the assembly",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Flee from every adversary and seek refuge in the wilderness",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Lay up treasures of gold and silver for coming tribulations",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1tim_029",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What is charged upon them that are rich in this world in 1 Timothy 6:17?",
+      "bibleReference": "1 Timothy 6:17-18",
+      "correctAnswers": [
+        1
+      ],
+      "options": [
+        {
+          "text": "That they cease from labour and live quietly upon their temporal wealth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That they be not highminded, nor trust in uncertain riches, but in God",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "That they give up their possessions to civil rulers for protection",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That they withdraw from the needy lest their earthly treasure fail",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1tim_030",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What is Timothy charged to keep and what to avoid (1 Timothy 6:20)?",
+      "bibleReference": "1 Timothy 6:20-21",
+      "correctAnswers": [
+        2
+      ],
+      "options": [
+        {
+          "text": "Keep the treasures of gold and avoid the idol temples of Asia",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Keep the Roman statutes and avoid the disputations of pagans",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Keep that committed to thy trust, avoiding profane vain babblings",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Keep the riches of the wealthy and avoid the reproach of rulers",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    }
+  ]
+}

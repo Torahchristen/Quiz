@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-11-06T12:09:50Z",
+  "lastUpdated": "2026-11-06T12:13:14Z",
   "language": "en",
   "categories": [
     {
@@ -1109,6 +1109,28 @@
       ],
       "sizeBytes": 16075,
       "downloadUrl": "./en/53_2_thessalonicher.json"
+    },
+    {
+      "quizId": "nt_15_1timotheus_alle_kapitel_en",
+      "category": "nt",
+      "title": "1 Timothy",
+      "subtitle": "1 Timothy 1:1 – 6:21 (30 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 30,
+      "difficulty": "medium",
+      "tags": [
+        "1 Timothy",
+        "New Testament",
+        "Pauline Epistles",
+        "Pastoral Epistles",
+        "Paul",
+        "Leadership",
+        "King James Version"
+      ],
+      "sizeBytes": 29924,
+      "downloadUrl": "./en/54_1_timotheus.json"
     }
   ]
 }

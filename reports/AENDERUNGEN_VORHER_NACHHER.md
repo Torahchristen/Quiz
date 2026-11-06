@@ -59,7 +59,8 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
 | `51_kolosser.json` | 20 | 20 | 20 | 20 | 0 |
 | `52_1_thessalonicher.json` | 25 | 25 | 25 | 24 | 0 |
 | `53_2_thessalonicher.json` | 15 | 14 | 12 | 14 | 0 |
-| **Gesamt (53 Dateien)** | **4400** | **1916** | **1164** | **1749** | **105** |
+| `54_1_timotheus.json` | 30 | 30 | 30 | 30 | 0 |
+| **Gesamt (54 Dateien)** | **4430** | **1946** | **1194** | **1779** | **105** |
 
 ## 01_1_mose.json – 1. Mose (Genesis) (Schlachter (Revision von 1951))
 
@@ -27286,3 +27287,480 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
   - **Option C (Falsch):**
     - **Vorher:** Die Unterschrift des römischen Rates als Beglaubigung
     - **Nachher:** Die Bestätigung des römischen Ältestenrates
+
+## 54_1_timotheus.json – 1. Timotheus (Schlachter (Revision von 1951))
+
+### `1tim_001` (1. Timotheus 1:1)
+- **Frage Vorher:** Durch wessen Anordnung wurde Paulus zum Apostel Jesu Christi berufen?
+- **Frage Nachher:** Gemäß wessen Anordnung wurde Paulus zum Apostel Jesu Christi berufen (1. Timotheus 1:1)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Durch Befehl Gottes, unseres Heilandes, und Christi Jesu, unserer Hoffnung
+    - **Nachher:** Gemäß der Anordnung Gottes, unseres Retters, und des Herrn Jesus Christus
+  - **Option D (Falsch):**
+    - **Vorher:** Durch die Empfehlung des Barnabas, der ihn den Aposteln vorstellte
+    - **Nachher:** Durch Empfehlung des Barnabas, der ihn den Brüdern in Jerusalem vorstellte
+
+### `1tim_002` (1. Timotheus 1:3-4)
+- **Frage Vorher:** Zu welchem Zweck sollte Timotheus in der Stadt Ephesus verbleiben?
+- **Frage Nachher:** Zu welchem Zweck ermahnte Paulus Timotheus, in Ephesus zu bleiben (1. Timotheus 1:3)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Damit er etlichen gebiete, keine andere Lehre zu verbreiten
+    - **Nachher:** Damit er etlichen Leuten gebiete, nichts anderes zu lehren
+  - **Option A (Falsch):**
+    - **Vorher:** Damit er das Geld unter die Armen verteile und die Gemeinde versorge
+    - **Nachher:** Damit er das Geld unter die Armen verteile und die Witwen versorge
+  - **Option B (Falsch):**
+    - **Vorher:** Damit er einen neuen Tempel baue und dort den Gottesdienst ordne
+    - **Nachher:** Damit er einen neuen Tempel baue und dort das Opferwesen anordne
+  - **Option D (Falsch):**
+    - **Vorher:** Damit er die römischen Richter belehre und für die Gemeinde eintrete
+    - **Nachher:** Damit er die römischen Richter belehre und für Gefangene eintrete
+
+### `1tim_003` (1. Timotheus 1:5)
+- **Frage Vorher:** Was bezeichnet Paulus als das eigentliche Hauptziel der Unterweisung?
+- **Frage Nachher:** Was ist das Endziel der Anweisung nach 1. Timotheus 1:5?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Die Liebe aus reinem Herzen, gutem Gewissen und ungeheucheltem Glauben
+    - **Nachher:** Liebe aus reinem Herzen und gutem Gewissen und ungeheucheltem Glauben
+  - **Option C (Falsch):**
+    - **Vorher:** Das Ansehen bei den Gelehrten und die Anerkennung der Gemeinde
+    - **Nachher:** Das Ansehen bei den Schriftgelehrten und die Würde vor der Gemeinde
+
+### `1tim_004` (1. Timotheus 1:9-10)
+- **Frage Vorher:** Für welche Menschen ist das Gesetz nach den Worten im ersten Kapitel gegeben?
+- **Frage Nachher:** Für wen ist das Gesetz nach 1. Timotheus 1:9 bestimmt?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Für Gesetzlose und Zügellose, Gottlose und Sünder
+    - **Nachher:** Für Gesetzlose und Aufsässige, Gottlose und Sünder
+  - **Option B (Falsch):**
+    - **Vorher:** Für die Gerechten und Vollkommenen, die es ohne Mühe halten
+    - **Nachher:** Für Gerechte und Vollkommene, die alles erfüllen
+  - **Option C (Falsch):**
+    - **Vorher:** Für die Priester und Leviten, die im Heiligtum dienen
+    - **Nachher:** Für Priester und Leviten, die im Tempel dienen
+  - **Option D (Falsch):**
+    - **Vorher:** Für die Könige der Heiden, die über Recht und Ordnung wachen
+    - **Nachher:** Für Könige der Heiden, die über Gesetze wachen
+
+### `1tim_005` (1. Timotheus 1:19-20)
+- **Frage Vorher:** Welche zwei Männer erlitten Schiffbruch am Glauben und wurden dem Satan übergeben?
+- **Frage Nachher:** Welche zwei Männer erlitten am Glauben Schiffbruch und wurden dem Satan übergeben?
+- **Richtige Antwort (unverändert, Option B):** Hymenäus und Alexander
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Falsch):**
+    - **Vorher:** Demas und Krescens
+    - **Nachher:** Demas und Hermogenes
+  - **Option D (Falsch):**
+    - **Vorher:** Diotrephes und Tertullus
+    - **Nachher:** Diotrephes und Phygellus
+
+### `1tim_006` (1. Timotheus 2:1)
+- **Frage Vorher:** Zu welcher Handlung ermahnt Paulus zuerst alle Glaubenden in der Versammlung?
+- **Frage Nachher:** Wozu ermahnt Paulus vor allen Dingen in 1. Timotheus 2:1?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Zu Bitten, Gebeten, Fürbitten und Danksagungen für alle Menschen
+    - **Nachher:** Dass man Bitten, Gebete, Fürbitten und Danksagungen für alle darbringe
+  - **Option A (Falsch):**
+    - **Vorher:** Zu eifrigem Fleiß im Geschäft und zum Wohlstand der Gemeinde
+    - **Nachher:** Zu eifrigem Fleiß im Erwerb und zum irdischen Wohlstand der Gemeinde
+  - **Option B (Falsch):**
+    - **Vorher:** Zu strengem Fasten und Verzicht auf Speise und Trank
+    - **Nachher:** Zu strengem Fasten im Verborgenen und zum Verzicht auf Speise und Trank
+  - **Option D (Falsch):**
+    - **Vorher:** Zu reichen Spenden für die Armen und für die Ältesten
+    - **Nachher:** Zu reichen Geldspenden für die Armen und zum Bau neuer Versammlungsorte
+
+### `1tim_007` (1. Timotheus 2:1-2)
+- **Frage Vorher:** Für wen soll besonders gebetet werden, damit ein ruhiges Leben gelingt?
+- **Frage Nachher:** Für wen soll nach 1. Timotheus 2:2 gebetet werden, damit wir ein ruhiges Leben führen können?
+- **Richtige Antwort (unverändert, Option D):** Für Könige und alle, die in hoher Stellung sind
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Für die Priester des alten Tempels und alle, die dort Dienst tun
+    - **Nachher:** Für die Priester des Tempels und deren Diener
+  - **Option B (Falsch):**
+    - **Vorher:** Für die reichen Kaufleute und alle, die Handel treiben
+    - **Nachher:** Für die reichen Kaufleute und fremde Händler
+  - **Option C (Falsch):**
+    - **Vorher:** Für fremde Boten und alle, die durch die Städte ziehen
+    - **Nachher:** Für die weltlichen Weisen und ihre Ratsherren
+
+### `1tim_008` (1. Timotheus 2:5-6)
+- **Frage Vorher:** Wer ist der einzige Mittler zwischen Gott und den Menschen?
+- **Frage Nachher:** Wer ist nach 1. Timotheus 2:5 der eine Mittler zwischen Gott und den Menschen?
+- **Richtige Antwort (unverändert, Option A):** Der Mensch Christus Jesus
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Falsch):**
+    - **Vorher:** Der Prophet Mose
+    - **Nachher:** Der Prophet Mose am Sinai
+  - **Option D (Falsch):**
+    - **Vorher:** Der Apostel Paulus
+    - **Nachher:** Der Apostel Paulus von Tarsus
+
+### `1tim_009` (1. Timotheus 2:9-10)
+- **Frage Vorher:** Wie sollen sich christliche Frauen nach den Anweisungen im zweiten Kapitel kleiden?
+- **Frage Nachher:** Wie sollen sich die Frauen nach 1. Timotheus 2:9 schmücken?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** In bescheidener Kleidung, mit Schamhaftigkeit und Besonnenheit
+    - **Nachher:** In sittsamer Kleidung mit Schamhaftigkeit und Vernunft
+  - **Option A (Falsch):**
+    - **Vorher:** In kostbarem Gold, Perlen und Purpur, mit Schmuck und Pracht
+    - **Nachher:** In kostbarem Purpur und Perlen mit reichem Goldschmuck
+  - **Option C (Falsch):**
+    - **Vorher:** In den Gewändern heidnischer Priesterinnen, mit Schleier und Schmuck
+    - **Nachher:** In prächtigen Gewändern nach Art vornehmer Priesterinnen
+  - **Option D (Falsch):**
+    - **Vorher:** In Sacktuch zur ständigen Buße, mit Asche auf dem Haupt
+    - **Nachher:** In Sacktuch und Asche zur ständigen Buße vor den Leuten
+
+### `1tim_010` (1. Timotheus 2:13-14)
+- **Frage Vorher:** Wer wurde nach der Schöpfungsordnung zuerst gebildet und wer verführt?
+- **Frage Nachher:** Wer wurde nach 1. Timotheus 2:13-14 zuerst gebildet und wer getäuscht?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Adam wurde zuerst gebildet, danach Eva; und Eva wurde verführt
+    - **Nachher:** Adam wurde zuerst gebildet, danach Eva; und die Frau wurde getäuscht
+  - **Option A (Falsch):**
+    - **Vorher:** Eva wurde zuerst gebildet, danach Adam; und Adam wurde verführt
+    - **Nachher:** Eva wurde zuerst gebildet, danach Adam; und der Mann wurde getäuscht
+  - **Option B (Falsch):**
+    - **Vorher:** Beide wurden zugleich gebildet, und beide wurden zugleich verführt
+    - **Nachher:** Beide wurden zugleich gebildet, und beide wurden zusammen getäuscht
+  - **Option D (Falsch):**
+    - **Vorher:** Weder Adam noch Eva wurden verführt, sondern die Schlange allein
+    - **Nachher:** Weder Adam noch Eva wurden getäuscht, sondern nur die alte Schlange
+
+### `1tim_011` (1. Timotheus 3:1)
+- **Frage Vorher:** Welches Urteil fällt Paulus über jemanden, der nach dem Amt eines Aufsehers trachtet?
+- **Frage Nachher:** Was begehrt jemand nach 1. Timotheus 3:1, der nach einem Aufseheramt trachtet?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Er begehrt ein vortreffliches Werk
+    - **Nachher:** Er begehrt eine ideale Arbeit
+  - **Option A (Falsch):**
+    - **Vorher:** Er sucht eigenen Ruhm
+    - **Nachher:** Er sucht bloß eigenen Ruhm
+  - **Option B (Falsch):**
+    - **Vorher:** Er verfällt dem römischen Gesetz
+    - **Nachher:** Er verfällt weltlichem Gesetz
+  - **Option C (Falsch):**
+    - **Vorher:** Er handelt gegen den Willen Gottes
+    - **Nachher:** Er handelt gegen Gottes Willen
+
+### `1tim_012` (1. Timotheus 3:4-5)
+- **Frage Vorher:** Welche Voraussetzung bezüglich der Familie wird von einem Aufseher gefordert?
+- **Frage Nachher:** Welche Voraussetzung bezüglich seines Hauses wird von einem Aufseher gefordert?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Er muss seinem eigenen Haus gut vorstehen
+    - **Nachher:** Dass er seinem eigenen Hause vorzustehen weiß
+  - **Option B (Falsch):**
+    - **Vorher:** Er muss kinderlos sein
+    - **Nachher:** Dass er gänzlich ohne Kinder und Familie bleibe
+  - **Option C (Falsch):**
+    - **Vorher:** Seine Kinder müssen im Tempel wohnen
+    - **Nachher:** Dass seine Kinder im Tempel von Jerusalem wohnen
+  - **Option D (Falsch):**
+    - **Vorher:** Er überlässt das Haus Verwandten
+    - **Nachher:** Dass er alle Hausverwaltung Verwandten überlasse
+
+### `1tim_013` (1. Timotheus 3:6)
+- **Frage Vorher:** Warum soll ein Aufseher (Bischof) kein Neubekehrter im Glauben sein?
+- **Frage Nachher:** Warum darf ein Aufseher nach 1. Timotheus 3:6 kein Neuling sein?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Damit er nicht aufgeblasen wird und dem Gericht des Teufels verfällt
+    - **Nachher:** Damit er nicht aufgeblasen werde und dem Gericht des Teufels verfalle
+  - **Option A (Falsch):**
+    - **Vorher:** Damit er nicht zu viel Zeit verliert und die Gemeinde vernachlässigt
+    - **Nachher:** Damit er nicht durch Unwissenheit die ganze Versammlung irreleite
+  - **Option C (Falsch):**
+    - **Vorher:** Damit die Römer ihn nicht fangen und einkerkern können
+    - **Nachher:** Damit römische Verfolger ihn nicht greifen und gefangen legen
+  - **Option D (Falsch):**
+    - **Vorher:** Damit er kein Geld entwendet und die Gaben nicht veruntreut
+    - **Nachher:** Damit er nicht durch Trägheit die Gaben der Gläubigen veruntreue
+
+### `1tim_014` (1. Timotheus 3:8-10)
+- **Frage Vorher:** Welche Eigenschaften müssen Diakone nach den Richtlinien besitzen?
+- **Frage Nachher:** Welche Eigenschaften sollen Diakone nach 1. Timotheus 3:8 haben?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Ehrbar, nicht doppelzüngig, nicht dem Wein ergeben, nicht schändlichem Gewinn nachgehend
+    - **Nachher:** Ehrbar, nicht doppelzüngig, nicht vielem Weingenuss ergeben, nicht schändlichem Gewinn nachlaufend
+  - **Option A (Falsch):**
+    - **Vorher:** Reich, streng und herrschsüchtig, standhaft und von hohem Ansehen in der Stadt
+    - **Nachher:** Reich an irdischen Gütern, herrisch im Auftreten und angesehen bei weltlichen Ratsherren
+  - **Option B (Falsch):**
+    - **Vorher:** Ungelehrt im Wort, aber mächtig im Volk und bei den Ältesten sehr beliebt
+    - **Nachher:** Unerfahren im Wort, aber geschickt in allen Verhandlungen und beliebt beim heidnischen Volk
+  - **Option D (Falsch):**
+    - **Vorher:** Alt an Jahren, aber jung im Glauben, ehrbar und der Welt zugewandt und ergeben
+    - **Nachher:** Alt an Lebensjahren, aber neu im Glauben, nachsichtig gegen Sünde und Freunden der Welt ergeben
+
+### `1tim_015` (1. Timotheus 3:15)
+- **Frage Vorher:** Als was wird die Gemeinde des lebendigen Gottes im dritten Kapitel bezeichnet?
+- **Frage Nachher:** Als was wird die Gemeinde des lebendigen Gottes in 1. Timotheus 3:15 bezeichnet?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Als Pfeiler und Grundfeste der Wahrheit
+    - **Nachher:** Als Säule und Grundfeste der Wahrheit
+  - **Option A (Falsch):**
+    - **Vorher:** Als Tempel der alten Weisheit
+    - **Nachher:** Als Zuflucht der heidnischen Reiche
+  - **Option B (Falsch):**
+    - **Vorher:** Als Zuflucht der heidnischen Reiche
+    - **Nachher:** Als irdische Versammlung der Weisen
+  - **Option C (Falsch):**
+    - **Vorher:** Als Versammlung der Gelehrten
+    - **Nachher:** Als prächtiger Tempel der Gelehrten
+
+### `1tim_016` (1. Timotheus 4:1)
+- **Frage Vorher:** Was kündigt der Heilige Geist für die künftigen Zeiten im vierten Kapitel an?
+- **Frage Nachher:** Was sagt der Geist deutlich für künftige Zeiten in 1. Timotheus 4:1 voraus?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Dass etliche vom Glauben abfallen und verführerischen Geistern anhängen werden
+    - **Nachher:** Dass etliche vom Glauben abfallen und irreführenden Geistern anhängen werden
+  - **Option B (Falsch):**
+    - **Vorher:** Dass alle Menschen zur Erkenntnis der Wahrheit kommen und gerettet werden
+    - **Nachher:** Dass alle Menschen auf Erden zur Erkenntnis der Wahrheit gelangen und umkehren
+  - **Option C (Falsch):**
+    - **Vorher:** Dass der Tempel in Jerusalem neu entsteht und das Volk sammelt
+    - **Nachher:** Dass der Tempel zu Jerusalem von neuem erbaut wird und alle Heiden anzieht
+  - **Option D (Falsch):**
+    - **Vorher:** Dass die Welt in ewigen Frieden eingeht und die Kriege aufhören
+    - **Nachher:** Dass die ganze Welt in ewigen Frieden eingeht und alle Kriege für immer aufhören
+
+### `1tim_017` (1. Timotheus 4:3)
+- **Frage Vorher:** Welche irreführenden Gebote kennzeichnen die im vierten Kapitel genannten Irrlehrer?
+- **Frage Nachher:** Welche Gebote kennzeichnen die Irrlehrer nach 1. Timotheus 4:3?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Ehe zu verbieten und Enthaltung von Speisen zu gebieten
+    - **Nachher:** Zu verbieten zu heiraten und Enthaltsamkeit bei Speisen zu fordern
+  - **Option A (Falsch):**
+    - **Vorher:** Zur Beschneidung und zum Gang in den Tempel zu zwingen
+    - **Nachher:** Die Beschneidung zu fordern und den Tempeldienst zu erzwingen
+  - **Option C (Falsch):**
+    - **Vorher:** Das Gebet zu verbieten und Zorn und Härte zu gebieten
+    - **Nachher:** Das Gebet zu untersagen und täglichen Zorn im Haus zu verbreiten
+  - **Option D (Falsch):**
+    - **Vorher:** Das Zahlen von Steuern und Abgaben zu gebieten
+    - **Nachher:** Den Zehnten einzufordern und heidnische Abgaben vorzuschreiben
+
+### `1tim_018` (1. Timotheus 4:4-5)
+- **Frage Vorher:** Wodurch wird jede gute Schöpfungsgabe Gottes nach den Worten des Paulus geheiligt?
+- **Frage Nachher:** Wodurch wird jede Schöpfungsgabe nach 1. Timotheus 4:5 geheiligt?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Durch das Wort Gottes und Gebet
+    - **Nachher:** Durch Gottes Wort und Fürbitte
+  - **Option A (Falsch):**
+    - **Vorher:** Durch Waschen im heiligen Fluss
+    - **Nachher:** Durch Waschung im heiligen Fluss
+  - **Option B (Falsch):**
+    - **Vorher:** Durch die Erlaubnis der Lehrer
+    - **Nachher:** Durch Erlaubnis weltlicher Richter
+  - **Option D (Falsch):**
+    - **Vorher:** Durch eine Spende
+    - **Nachher:** Durch Darbringung von Silberopfern
+
+### `1tim_019` (1. Timotheus 4:8)
+- **Frage Vorher:** Welcher Unterschied besteht zwischen leiblicher Übung und der wahren Gottesfurcht?
+- **Frage Nachher:** Welcher Unterschied besteht nach 1. Timotheus 4:8 zwischen leiblicher Übung und Frömmigkeit?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Leibliche Übung ist wenig nütze, die Gottseligkeit aber ist zu allem nütze
+    - **Nachher:** Leibliche Übung ist zu wenigem nützlich, die Frömmigkeit aber ist zu allem nützlich
+  - **Option A (Falsch):**
+    - **Vorher:** Leibliche Übung bringt ewigen Lohn, die Gottseligkeit aber nur wenig
+    - **Nachher:** Leibliche Übung bringt ewigen Lohn, die Frömmigkeit nützt dem Menschen jedoch gar nicht
+  - **Option B (Falsch):**
+    - **Vorher:** Beides hat denselben Nutzen für den Menschen und sein Leben
+    - **Nachher:** Beide haben genau denselben irdischen Nutzen für den Menschen und sein zeitliches Leben
+  - **Option C (Falsch):**
+    - **Vorher:** Gottseligkeit schadet dem Leib, die leibliche Übung aber dem Geist
+    - **Nachher:** Die Frömmigkeit schadet dem Leibe, während leibliche Übung den Geist vollkommen macht
+
+### `1tim_020` (1. Timotheus 4:12)
+- **Frage Vorher:** Wozu soll Timotheus den Glaubenden ein Vorbild sein, damit niemand seine Jugend verachte?
+- **Frage Nachher:** Worin soll Timotheus nach 1. Timotheus 4:12 den Gläubigen ein Vorbild sein?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Im Wort, im Wandel, in der Liebe, im Glauben und in der Keuschheit
+    - **Nachher:** Im Wort, im Verhalten, in der Liebe, im Geist, im Glauben, in der Reinheit
+  - **Option B (Falsch):**
+    - **Vorher:** Im Reichtum, in der Macht und im Ansehen, in Weisheit und Stärke
+    - **Nachher:** Im Reichtum an Gold, in irdischer Macht, in hohem Ansehen und großer Stärke
+  - **Option C (Falsch):**
+    - **Vorher:** Im Streit mit den weltlichen Richtern, im Recht und im Gericht
+    - **Nachher:** Im Streit mit den weltlichen Richtern, im Redekampf und im irdischen Urteil
+  - **Option D (Falsch):**
+    - **Vorher:** Im strengen Fasten und Schweigen, in Entsagung und Einsamkeit
+    - **Nachher:** Im strengen Fasten, im täglichen Schweigen, in Entsagung und harter Askese
+
+### `1tim_021` (1. Timotheus 5:1)
+- **Frage Vorher:** Wie soll Timotheus einem älteren Mann in der Gemeinde begegnen?
+- **Frage Nachher:** Wie soll man einem Älteren nach 1. Timotheus 5:1 begegnen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Ihn nicht hart anfahren, sondern ermahnen wie einen Vater
+    - **Nachher:** Über ihn nicht losziehen, sondern ihn ermahnen wie einen Vater
+  - **Option A (Falsch):**
+    - **Vorher:** Ihn öffentlich bloßstellen, damit er seinen Fehler erkennt
+    - **Nachher:** Ihn vor der Versammlung tadeln, damit er seinen Fehler einsieht
+  - **Option C (Falsch):**
+    - **Vorher:** Ihn aus der Versammlung ausschließen, bis er Buße tut
+    - **Nachher:** Ihn sogleich aus der Gemeinde weisen, bis er öffentlich bereut
+  - **Option D (Falsch):**
+    - **Vorher:** Ihn völlig übergehen, damit er nicht noch mehr aufgebracht wird
+    - **Nachher:** Ihn gänzlich übergehen, damit er nicht weiteren Unmut entfache
+
+### `1tim_022` (1. Timotheus 5:4)
+- **Frage Vorher:** Wer soll in erster Linie für die Versorgung bedürftiger Witwen aufkommen?
+- **Frage Nachher:** Wer soll nach 1. Timotheus 5:4 zuerst für eine Witwe sorgen, wenn sie Nachkommen hat?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Ihre Kinder und Enkel
+    - **Nachher:** Ihre Kinder oder Enkel
+  - **Option A (Falsch):**
+    - **Vorher:** Die römische Obrigkeit
+    - **Nachher:** Die weltliche Obrigkeit
+  - **Option B (Falsch):**
+    - **Vorher:** Fremde Kaufleute
+    - **Nachher:** Fremde Reisende und Boten
+  - **Option D (Falsch):**
+    - **Vorher:** Niemand, sie sind auf sich selbst angewiesen
+    - **Nachher:** Nur die Ältesten der Stadt
+
+### `1tim_023` (1. Timotheus 5:8)
+- **Frage Vorher:** Wie bewertet Paulus jemanden, der für seine eigenen Angehörigen nicht sorgt?
+- **Frage Nachher:** Wie urteilt Paulus in 1. Timotheus 5:8 über jemanden, der seine Hausgenossen nicht versorgt?
+- **Richtige Antwort (unverändert, Option D):** Er hat den Glauben verleugnet und ist schlimmer als ein Ungläubiger
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Er ist ein Vorbild in der Gemeinde und verdient Anerkennung
+    - **Nachher:** Er gilt als schwach im Fleisch, verdient aber Nachsicht der Brüder
+  - **Option B (Falsch):**
+    - **Vorher:** Er hat nur eine kleine Schwachheit, die leicht vergeben wird
+    - **Nachher:** Er soll vor die weltlichen Richter gestellt und bestraft werden
+  - **Option C (Falsch):**
+    - **Vorher:** Er soll von Roms Richtern bestraft werden, weil er seine Pflicht verletzt
+    - **Nachher:** Er verliert nur zeitlichen Lohn, bleibt aber im Glauben untadelig
+
+### `1tim_024` (1. Timotheus 5:17)
+- **Frage Vorher:** Welcher Ehre sind Älteste wert gehalten, die dem Wort und der Lehre gut vorstehen?
+- **Frage Nachher:** Welcher Ehre sind Älteste wert geachtet, die gut vorstehen (1. Timotheus 5:17)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Doppelter Ehre
+    - **Nachher:** Sie sind doppelter Ehre wert
+  - **Option B (Falsch):**
+    - **Vorher:** Einfacher Ehre
+    - **Nachher:** Sie sind einfacher Ehre wert
+  - **Option C (Falsch):**
+    - **Vorher:** Keiner besonderen Ehre
+    - **Nachher:** Sie bedürfen keiner Ehre mehr
+  - **Option D (Falsch):**
+    - **Vorher:** Der weltlichen Ehre des Kaisers
+    - **Nachher:** Sie erhalten weltliche Ehre
+
+### `1tim_025` (1. Timotheus 5:19)
+- **Frage Vorher:** Wie soll mit einer Anklage gegen einen Ältesten verfahren werden?
+- **Frage Nachher:** Unter welcher Bedingung darf nach 1. Timotheus 5:19 eine Klage gegen einen Ältesten angenommen werden?
+- **Richtige Antwort (unverändert, Option B):** Nur auf Aussage von zwei oder drei Zeugen
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Sofort ohne Prüfung
+    - **Nachher:** Sofort bei der ersten mündlichen Anzeige
+  - **Option C (Falsch):**
+    - **Vorher:** Durch Weiterleitung an die heidnischen Richter
+    - **Nachher:** Erst nach Genehmigung weltlicher Richter
+  - **Option D (Falsch):**
+    - **Vorher:** Durch völliges Verschweigen
+    - **Nachher:** Niemals, Klagen sind gänzlich zu meiden
+
+### `1tim_026` (1. Timotheus 6:6)
+- **Frage Vorher:** Wann erweist sich die Gottesfurcht nach den Worten im sechsten Kapitel als großer Gewinn?
+- **Frage Nachher:** Wann ist die Gottseligkeit ein großer Gewinn nach 1. Timotheus 6:6?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Wenn sie mit Genügsamkeit verbunden ist
+    - **Nachher:** Wenn sie mit Genügsamkeit verbunden wird
+  - **Option A (Falsch):**
+    - **Vorher:** Wenn sie mit großem Reichtum verbunden ist
+    - **Nachher:** Wenn sie mit großem irdischem Gut einhergeht
+  - **Option B (Falsch):**
+    - **Vorher:** Wenn alle Menschen sie loben
+    - **Nachher:** Wenn alle weltlichen Machthaber sie preisen
+  - **Option D (Falsch):**
+    - **Vorher:** Wenn sie zu weltlicher Macht führt
+    - **Nachher:** Wenn sie zu sichtbarer Herrschaft führt
+
+### `1tim_027` (1. Timotheus 6:10)
+- **Frage Vorher:** Was bezeichnet Paulus ausdrücklich als eine Wurzel alles Bösen?
+- **Frage Nachher:** Was ist nach 1. Timotheus 6:10 eine Wurzel aller Übel?
+- **Richtige Antwort (unverändert, Option D):** Die Geldgier
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Die Armut
+    - **Nachher:** Große Armut
+  - **Option B (Falsch):**
+    - **Vorher:** Das Lesen der hebräischen Bücher
+    - **Nachher:** Bitterer Neid
+
+### `1tim_028` (1. Timotheus 6:12)
+- **Frage Vorher:** Wozu wird der Gottesmensch Timotheus im geistlichen Kampf aufgefordert?
+- **Frage Nachher:** Wozu wird Timotheus in 1. Timotheus 6:12 aufgefordert?
+- **Richtige Antwort (unverändert, Option A):** Kämpfe den guten Kampf des Glaubens, ergreife das ewige Leben
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Baue eine Festung in der Stadt und sichere dort die Gemeinde
+    - **Nachher:** Baue eine feste Mauer in der Stadt und schütze die Versammlung
+  - **Option C (Falsch):**
+    - **Vorher:** Fliehe vor allen Feinden und suche Zuflucht in der Wüste
+    - **Nachher:** Fliehe vor allen Widersachern und suche Zuflucht in der Wüste
+  - **Option D (Falsch):**
+    - **Vorher:** Sammle Gold für kommende Zeiten und lege es für die Gemeinde zurück
+    - **Nachher:** Sammle Vorräte für künftige Tage und verwalte die Reichtümer
+
+### `1tim_029` (1. Timotheus 6:17-18)
+- **Frage Vorher:** Welches Gebot ergeht an die Reichen in der jetzigen Weltzeit?
+- **Frage Nachher:** Was soll den Reichen in dieser Weltzeit nach 1. Timotheus 6:17 geboten werden?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Nicht hochmütig zu sein und nicht auf den unsicheren Reichtum zu hoffen, sondern auf Gott
+    - **Nachher:** Nicht stolz zu sein und die Hoffnung nicht auf unbeständigen Reichtum zu setzen
+  - **Option A (Falsch):**
+    - **Vorher:** Nicht mehr zu arbeiten, sondern vom Vermögen zu leben und sich auszuruhen
+    - **Nachher:** Nicht mehr zu arbeiten, sondern von ihren irdischen Gütern ruhig zu leben
+  - **Option C (Falsch):**
+    - **Vorher:** Allen Reichtum den Behörden zu geben, damit sie die Gemeinde verschonen und schützen
+    - **Nachher:** Ihren gesamten Besitz an die Obrigkeit zu geben, um Schutz zu erlangen
+  - **Option D (Falsch):**
+    - **Vorher:** Sich von den Armen abzuwenden, damit der Besitz nicht schwindet und gemehrt wird
+    - **Nachher:** Sich von den Armen fernzuhalten, damit ihr irdischer Reichtum erhalten bleibe
+
+### `1tim_030` (1. Timotheus 6:20-21)
+- **Frage Vorher:** Wovor soll Timotheus das ihm Anvertraute bewahren und was soll er meiden?
+- **Frage Nachher:** Was soll Timotheus nach 1. Timotheus 6:20 bewahren und meiden?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Das anvertraute Gut zu bewahren und das leere Geschwätz zu meiden
+    - **Nachher:** Das anvertraute Gut bewahren und das unheilige Geschwätz meiden
+  - **Option A (Falsch):**
+    - **Vorher:** Das Tempelgeld zu bewahren und die Opfergaben gewissenhaft zu verwalten
+    - **Nachher:** Den Tempelschatz bewahren und den heidnischen Götzendienst meiden
+  - **Option B (Falsch):**
+    - **Vorher:** Die römischen Gesetzbücher zu halten und die Weisheit der Philosophen zu meiden
+    - **Nachher:** Die römischen Gesetze bewahren und die Lehren der Heiden meiden
+  - **Option D (Falsch):**
+    - **Vorher:** Die Häuser der Reichen zu schützen und die Gerüchte der Menge zu meiden
+    - **Nachher:** Die Güter der Reichen bewahren und den Spott der Ungläubigen meiden
