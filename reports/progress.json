@@ -1,7 +1,7 @@
 {
   "branch": "review-and-english",
   "totalFiles": 66,
-  "completedCount": 63,
+  "completedCount": 64,
   "completedFiles": [
     "01_1_mose.json",
     "02_2_mose.json",
@@ -65,10 +65,10 @@
     "60_1_petrus.json",
     "61_2_petrus.json",
     "62_1_johannes.json",
-    "63_2_johannes.json"
+    "63_2_johannes.json",
+    "64_3_johannes.json"
   ],
   "pendingFiles": [
-    "64_3_johannes.json",
     "65_judas.json",
     "66_offenbarung.json"
   ],
@@ -513,6 +513,13 @@
       "explanationsReviewedEn": 0,
       "reportPath": "reports/63_2_johannes.md",
       "enPath": "en/63_2_johannes.json"
+    },
+    "64_3_johannes.json": {
+      "questionsCount": 5,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/64_3_johannes.md",
+      "enPath": "en/64_3_johannes.json"
     }
   }
 }

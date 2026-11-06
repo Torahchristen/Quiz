@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-11-06T12:37:46Z",
+  "lastUpdated": "2026-11-06T12:38:56Z",
   "language": "en",
   "categories": [
     {
@@ -1337,6 +1337,28 @@
       ],
       "sizeBytes": 5317,
       "downloadUrl": "./en/63_2_johannes.json"
+    },
+    {
+      "quizId": "nt_25_3johannes_alle_kapitel_en",
+      "category": "nt",
+      "title": "3 John",
+      "subtitle": "3 John 1:1 – 1:14 (5 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 5,
+      "difficulty": "medium",
+      "tags": [
+        "3 John",
+        "New Testament",
+        "General Epistles",
+        "Gaius",
+        "Diotrephes",
+        "Demetrius",
+        "King James Version"
+      ],
+      "sizeBytes": 5297,
+      "downloadUrl": "./en/64_3_johannes.json"
     }
   ]
 }

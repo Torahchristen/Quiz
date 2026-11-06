@@ -69,7 +69,8 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
 | `61_2_petrus.json` | 15 | 15 | 15 | 15 | 3 |
 | `62_1_johannes.json` | 25 | 25 | 25 | 25 | 1 |
 | `63_2_johannes.json` | 5 | 5 | 5 | 5 | 0 |
-| **Gesamt (63 Dateien)** | **4631** | **2147** | **1395** | **1977** | **119** |
+| `64_3_johannes.json` | 5 | 5 | 5 | 5 | 0 |
+| **Gesamt (64 Dateien)** | **4636** | **2152** | **1400** | **1982** | **119** |
 
 ## 01_1_mose.json – 1. Mose (Genesis) (Schlachter (Revision von 1951))
 
@@ -31068,3 +31069,90 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
   - **Option D (Falsch):**
     - **Vorher:** Weil die Gemeinde keine Briefe mehr lesen will und ihn nicht anhört
     - **Nachher:** Weil die Gemeinde keine Briefe mehr las und die Worte nicht mehr achtete
+
+## 64_3_johannes.json – 3. Johannes (Schlachter (Revision von 1951))
+
+### `3joh_001` (3. Johannes 1:1)
+- **Frage Vorher:** An wen richtet der Älteste diesen persönlichen Brief namentlich im Eingangsgruß?
+- **Frage Nachher:** An wen richtet der Älteste seinen Brief in 3. Johannes 1:1?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** An Gajus, den Geliebten
+    - **Nachher:** An Gajus, den geliebten Bruder im Glauben
+  - **Option A (Falsch):**
+    - **Vorher:** An Demetrius, den treuen Mitarbeiter
+    - **Nachher:** An Demetrius, den geschätzten Mitarbeiter
+  - **Option C (Falsch):**
+    - **Vorher:** An Diotrephes, den herrschsüchtigen Aufseher
+    - **Nachher:** An Diotrephes, den eitlen Vorsteher im Ort
+  - **Option D (Falsch):**
+    - **Vorher:** An Timotheus, den jungen Bischof
+    - **Nachher:** An Timotheus, den getreuen Gefährten Roms
+
+### `3joh_002` (3. Johannes 1:5-6)
+- **Frage Vorher:** Welches vorbildliche Handeln des Gajus wird im ersten Kapitel besonders gerühmt?
+- **Frage Nachher:** Wofür lobt der Älteste den Gajus in 3. Johannes 1:5?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Seine Treue gegenüber den fremden Brüdern
+    - **Nachher:** Dass er getreulich an Brüdern und an Fremden handelte
+  - **Option A (Falsch):**
+    - **Vorher:** Große Spenden an die Armen, die er in der Gemeinde verteilte
+    - **Nachher:** Dass er reiches Gold für den Bau des Tempels spendete
+  - **Option B (Falsch):**
+    - **Vorher:** Das Sammeln von Gold für den Tempel in Jerusalem
+    - **Nachher:** Dass er strenge Fastenzeiten zur Ehre des Herrn hielt
+  - **Option D (Falsch):**
+    - **Vorher:** Eine lange Fastenzeit, die er zu Ehren des Herrn hielt
+    - **Nachher:** Dass er weltliche Schriften vor den Gläubigen verbrannte
+
+### `3joh_003` (3. Johannes 1:9-10)
+- **Frage Vorher:** Welches böse Verhalten wirft der Verfasser dem Diotrephes in der Gemeinde vor?
+- **Frage Nachher:** Was wirft der Verfasser dem Diotrephes in 3. Johannes 1:9-10 vor?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Er will der Erste sein, führt böse Reden gegen uns und weist die Brüder ab
+    - **Nachher:** Er möchte der Erste sein, schwatzt mit bösen Worten und weist Brüder ab
+  - **Option A (Falsch):**
+    - **Vorher:** Er fordert hohe Abgaben und häuft Besitz für die Gemeinde an
+    - **Nachher:** Er fordert hohe Abgaben von allen Gläubigen für seinen eigenen Reichtum
+  - **Option B (Falsch):**
+    - **Vorher:** Er verbreitet heidnische Lehren und verführt die Gemeinde
+    - **Nachher:** Er verbrennt heimlich apostolische Briefe und leugnet das Gesetz des Mose
+  - **Option C (Falsch):**
+    - **Vorher:** Er verbrennt apostolische Briefe und verbietet das Lesen der Schrift
+    - **Nachher:** Er führt heidnische Bräuche ein und zwingt die Gemeinde zu fremden Opfern
+
+### `3joh_004` (3. Johannes 1:12)
+- **Frage Vorher:** Welcher Mann empfängt am Ende des Briefes ein gutes Zeugnis von allen?
+- **Frage Nachher:** Wer empfängt in 3. Johannes 1:12 ein gutes Zeugnis von allen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Demetrius
+    - **Nachher:** Der treue Demetrius
+  - **Option B (Falsch):**
+    - **Vorher:** Gajus
+    - **Nachher:** Der geliebte Gajus
+  - **Option C (Falsch):**
+    - **Vorher:** Paulus
+    - **Nachher:** Der Apostel Paulus
+  - **Option D (Falsch):**
+    - **Vorher:** Silas
+    - **Nachher:** Der Prediger Silas
+
+### `3joh_005` (3. Johannes 1:13-14)
+- **Frage Vorher:** Warum verzichtet der Verfasser darauf, noch mehr mit Tinte und Feder zu schreiben?
+- **Frage Nachher:** Warum will der Verfasser in 3. Johannes 1:13-14 nicht mit Tinte und Feder schreiben?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Weil er hofft, ihn bald zu sehen und mündlich mit ihm zu reden
+    - **Nachher:** Weil er hofft, ihn bald zu sehen und mündlich von Angesicht zu reden im Herrn
+  - **Option A (Falsch):**
+    - **Vorher:** Weil ihm die Tinte ausging und er nicht weiterschreiben konnte
+    - **Nachher:** Weil ihm Tinte und Feder mangelten und er nirgends neue Schriftgeräte fand
+  - **Option C (Falsch):**
+    - **Vorher:** Weil das römische Gesetz es verbietet und er Strafe fürchtet
+    - **Nachher:** Weil die Gesetze der römischen Herrscher den Briefverkehr streng verboten hatten
+  - **Option D (Falsch):**
+    - **Vorher:** Weil der Bote absagte und den Brief nicht überbringen wollte
+    - **Nachher:** Weil der Bote sich weigerte, die geschriebenen Rollen über das Meer zu tragen
