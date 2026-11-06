@@ -67,7 +67,8 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
 | `59_jakobus.json` | 25 | 25 | 25 | 24 | 3 |
 | `60_1_petrus.json` | 25 | 25 | 25 | 25 | 2 |
 | `61_2_petrus.json` | 15 | 15 | 15 | 15 | 3 |
-| **Gesamt (61 Dateien)** | **4601** | **2117** | **1365** | **1947** | **118** |
+| `62_1_johannes.json` | 25 | 25 | 25 | 25 | 1 |
+| **Gesamt (62 Dateien)** | **4626** | **2142** | **1390** | **1972** | **119** |
 
 ## 01_1_mose.json – 1. Mose (Genesis) (Schlachter (Revision von 1951))
 
@@ -30565,3 +30566,419 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
   - **Option C (Falsch):**
     - **Vorher:** Wie ein leiser Wind in der Dämmerung; die Elemente wandeln sich sanft
     - **Nachher:** Wie ein stiller Wind; die Elemente wandeln sich friedlich zur Ruhe
+
+## 62_1_johannes.json – 1. Johannes (Schlachter (Revision von 1951))
+
+### `1joh_001` (1. Johannes 1:1-3)
+- **Frage Vorher:** Was bezeugen die Apostel von dem Wort des Lebens im ersten Kapitel?
+- **Frage Nachher:** Was bezeugen die Apostel vom Wort des Lebens (1. Johannes 1:1)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Was von Anfang war, was sie gehört, gesehen und mit ihren Händen betastet haben
+    - **Nachher:** Was von Anfang war, was sie gehört und gesehen haben
+  - **Option A (Falsch):**
+    - **Vorher:** Was im geheimen Buch des Tempels steht, das die Priester bewahren
+    - **Nachher:** Was im geheimen Buch des Tempels geschrieben stand
+  - **Option C (Falsch):**
+    - **Vorher:** Was ihnen Engel im Schlaf offenbarten, als sie in der Nacht wachten
+    - **Nachher:** Was ihnen Engel in Träumen der finsteren Nacht zeigten
+  - **Option D (Falsch):**
+    - **Vorher:** Was die Gelehrten Israels lehrten, die das Gesetz sorgfältig auslegten
+    - **Nachher:** Was die Gelehrten Israels im Gesetze sorgsam lehrten
+
+### `1joh_002` (1. Johannes 1:5)
+- **Frage Vorher:** Welches ist die zentrale Botschaft über das eigentliche Wesen Gottes?
+- **Frage Nachher:** Welche Botschaft verkündigt Johannes in 1. Johannes 1:5 über Gott?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Gott ist Licht, und in ihm ist keine Finsternis
+    - **Nachher:** Gott ist Licht, und in ihm ist gar keine Finsternis
+  - **Option A (Falsch):**
+    - **Vorher:** Gott ist Geist und wohnt in den Tempeln Roms
+    - **Nachher:** Gott ist ferner Geist und thront fern der Welt
+  - **Option B (Falsch):**
+    - **Vorher:** Gott ist Kraft und richtet ohne Erbarmen
+    - **Nachher:** Gott ist strenge Macht und richtet ohne Gnade
+  - **Option D (Falsch):**
+    - **Vorher:** Gott ist Gesetz und fordert Tieropfer
+    - **Nachher:** Gott ist bloßes Gesetz und fordert viele Opfer
+
+### `1joh_003` (1. Johannes 1:7)
+- **Frage Vorher:** Was bewirkt das Blut Jesu Christi, wenn Glaubende im Licht wandeln?
+- **Frage Nachher:** Was bewirkt das Blut Jesu Christi nach 1. Johannes 1:7?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Es reinigt uns von aller Sünde
+    - **Nachher:** Es reinigt uns von aller Sünde vor Gott
+  - **Option A (Falsch):**
+    - **Vorher:** Es bringt großen Wohlstand
+    - **Nachher:** Es bringt großen irdischen Reichtum
+  - **Option B (Falsch):**
+    - **Vorher:** Es schützt vor allen Krankheiten
+    - **Nachher:** Es schützt vor allen Leibeskrankheiten
+  - **Option C (Falsch):**
+    - **Vorher:** Es schenkt Weisheit für Streitfragen
+    - **Nachher:** Es gibt weltliche Klugheit im Streit
+
+### `1joh_004` (1. Johannes 1:8)
+- **Frage Vorher:** Was geschieht, wenn ein Mensch behauptet, er habe keine Sünde?
+- **Frage Nachher:** Was gilt, wenn wir sagen, wir haben keine Sünde (1. Johannes 1:8)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Er betrügt sich selbst, und die Wahrheit ist nicht in ihm
+    - **Nachher:** Wir verführen uns selbst, und die Wahrheit ist nicht in uns
+  - **Option B (Falsch):**
+    - **Vorher:** Er erlangt Vollkommenheit und wird von Gott angenommen
+    - **Nachher:** Wir erlangen Vollkommenheit und ewiges Leben vor dem Throne
+  - **Option C (Falsch):**
+    - **Vorher:** Er wird von den Ältesten geehrt und als Vorbild bezeichnet
+    - **Nachher:** Wir werden von den Ältesten als untadelige Vorbilder geehrt
+  - **Option D (Falsch):**
+    - **Vorher:** Er empfängt ewiges Leben ohne Buße und ohne Bekenntnis
+    - **Nachher:** Wir empfangen reiche Verheißung ganz ohne Buße und Umkehr
+
+### `1joh_005` (1. Johannes 1:9)
+- **Frage Vorher:** Was tut Gott, wenn Glaubende ihre Sünden aufrichtig bekennen?
+- **Frage Nachher:** Was tut Gott, wenn wir unsere Sünden bekennen (1. Johannes 1:9)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Er ist treu und gerecht, dass er die Sünden vergibt und von aller Ungerechtigkeit reinigt
+    - **Nachher:** Er ist treu und gerecht, vergibt die Sünden und reinigt uns von Schuld
+  - **Option A (Falsch):**
+    - **Vorher:** Er bestraft sie mit harter Knechtschaft, bis sie ihre Schuld vollständig abgetragen haben
+    - **Nachher:** Er straft uns mit harter Zucht, bis alle Schuld völlig abgetragen ist
+  - **Option C (Falsch):**
+    - **Vorher:** Er fordert ein großes Opfer im Heiligtum, ehe er ihnen ihre Schuld vergibt
+    - **Nachher:** Er verlangt ein teures Opfer im Heiligtum, ehe er Vergebung gewährt
+  - **Option D (Falsch):**
+    - **Vorher:** Er schweigt und überlässt sie den Richtern, die dann über ihre Schuld urteilen
+    - **Nachher:** Er schweigt im Zorn und überlässt die Sünder den weltlichen Richtern
+
+### `1joh_006` (1. Johannes 2:1-2)
+- **Frage Vorher:** Wer vertritt Glaubende als Fürsprecher beim Vater, wenn jemand sündigt?
+- **Frage Nachher:** Wen haben wir als Fürsprecher beim Vater nach 1. Johannes 2:1?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Jesus Christus, der Gerechte, als Fürsprecher beim Vater
+    - **Nachher:** Jesus Christus, den Gerechten, beim Vater
+  - **Option A (Falsch):**
+    - **Vorher:** Der Apostel Petrus als Hoherpriester, der für die Gemeinde eintritt
+    - **Nachher:** Den Apostel Petrus als Bischof der Gemeinde
+  - **Option B (Falsch):**
+    - **Vorher:** Der Engel Gabriel vor dem Thron, der die Gebete der Heiligen trägt
+    - **Nachher:** Den Engel Gabriel, der vor Gottes Thron steht
+  - **Option D (Falsch):**
+    - **Vorher:** Der Prophet Mose als Mittler, der das Gesetz am Berg empfangen hat
+    - **Nachher:** Den Propheten Mose als Mittler des Bundes
+
+### `1joh_007` (1. Johannes 2:3-4)
+- **Frage Vorher:** Woran erkennen Glaubende, dass sie Gott wahrhaft erkannt haben?
+- **Frage Nachher:** Woran erkennen wir nach 1. Johannes 2:3, dass wir ihn erkannt haben?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Wenn wir seine Gebote halten
+    - **Nachher:** Wenn wir seine Gebote im Glauben halten
+  - **Option A (Falsch):**
+    - **Vorher:** Wenn wir alle Schriften auswendig wissen
+    - **Nachher:** Wenn wir alle Bücher auswendig kennen
+  - **Option B (Falsch):**
+    - **Vorher:** Wenn wir Wohlstand und Ansehen haben
+    - **Nachher:** Wenn wir großen Besitz und Ehre haben
+  - **Option C (Falsch):**
+    - **Vorher:** Wenn wir keine Anfechtungen mehr haben
+    - **Nachher:** Wenn wir frei von jeder Anfechtung sind
+
+### `1joh_008` (1. Johannes 2:9-11)
+- **Frage Vorher:** In welchem Zustand befindet sich jemand, der seinen Bruder hasst?
+- **Frage Nachher:** In welchem Zustand ist nach 1. Johannes 2:11, wer seinen Bruder hasst?
+- **Richtige Antwort (unverändert, Option A):** Er ist in der Finsternis und wandelt in der Finsternis
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Er ist dennoch ein Kind des Lichts und wandelt im Licht
+    - **Nachher:** Er wandelt dennoch im Lichte und erfreut sich der Gnade
+  - **Option C (Falsch):**
+    - **Vorher:** Er hat nur eine kleine Schwäche und bleibt davon unberührt
+    - **Nachher:** Er verliert nur kurz seine Freude und bleibt unberührt
+  - **Option D (Falsch):**
+    - **Vorher:** Er verliert nur kurz seine Gabe und findet bald wieder Frieden
+    - **Nachher:** Er hat eine verzeihliche Schwäche ohne jede Auswirkung
+
+### `1joh_009` (1. Johannes 2:15-16)
+- **Frage Vorher:** Was befindet sich in der Welt, das nicht vom Vater stammt?
+- **Frage Nachher:** Was ist in der Welt, das nicht vom Vater kommt (1. Johannes 2:16)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Die Lust des Fleisches, die Lust der Augen und der Hochmut des Lebens
+    - **Nachher:** Die Fleischeslust, die Augenlust und das hoffärtige Leben
+  - **Option A (Falsch):**
+    - **Vorher:** Liebe der Brüder, Glaube, Wahrheit und Sanftmut, die der Vater gibt
+    - **Nachher:** Die Liebe der Brüder, Wahrheit und Sanftmut im Herrn
+  - **Option C (Falsch):**
+    - **Vorher:** Gebet, Fasten, Danksagung und Lobpreis, die der Vater verlangt
+    - **Nachher:** Das Gebet, das Fasten und der Lobpreis der Gläubigen
+  - **Option D (Falsch):**
+    - **Vorher:** Demut, Geduld, Barmherzigkeit und Reinheit, die der Vater wirkt
+    - **Nachher:** Die Demut, die Geduld und die Barmherzigkeit im Leben
+
+### `1joh_010` (1. Johannes 2:22-23)
+- **Frage Vorher:** Wer wird von Johannes ausdrücklich als der Antichrist bezeichnet?
+- **Frage Nachher:** Wer ist nach 1. Johannes 2:22 der Antichrist?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Wer leugnet, dass Jesus der Christus ist
+    - **Nachher:** Wer leugnet, dass Jesus der verheißene Christus ist
+  - **Option A (Falsch):**
+    - **Vorher:** Wer den Armen kein Geld und kein Brot gibt
+    - **Nachher:** Wer den Armen im Lande kein Brot und Almosen gibt
+  - **Option B (Falsch):**
+    - **Vorher:** Wer das Gesetz der Obrigkeit bricht
+    - **Nachher:** Wer die Satzungen der römischen Machthaber bricht
+  - **Option D (Falsch):**
+    - **Vorher:** Wer die Feste in Jerusalem nicht besucht
+    - **Nachher:** Wer zu den heiligen Festen in Jerusalem ausbleibt
+
+### `1joh_011` (1. Johannes 3:1)
+- **Frage Vorher:** Welchen erhabenen Namen dürfen Glaubende durch Gottes Liebe tragen?
+- **Frage Nachher:** Was sollen wir durch die Liebe des Vaters heißen (1. Johannes 3:1)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Kinder Gottes
+    - **Nachher:** Kinder Gottes im Herrn
+  - **Option A (Falsch):**
+    - **Vorher:** Bürger der römischen Provinz
+    - **Nachher:** Bürger des Reiches
+  - **Option B (Falsch):**
+    - **Vorher:** Richter über die Reiche
+    - **Nachher:** Richter der Völker
+
+### `1joh_012` (1. Johannes 3:4)
+- **Frage Vorher:** Wie definiert Johannes das Wesen der Sünde im dritten Kapitel?
+- **Frage Nachher:** Was ist die Sünde nach 1. Johannes 3:4?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Sünde ist Gesetzlosigkeit
+    - **Nachher:** Die Sünde ist die Ungesetzlichkeit
+  - **Option B (Falsch):**
+    - **Vorher:** Sünde ist ein Missverständnis
+    - **Nachher:** Die Sünde ist ein Missverständnis
+  - **Option C (Falsch):**
+    - **Vorher:** Sünde ist der Mangel an weltlicher Ehre
+    - **Nachher:** Die Sünde ist bloße Unwissenheit
+  - **Option D (Falsch):**
+    - **Vorher:** Sünde ist der Verlust von Reichtum
+    - **Nachher:** Die Sünde ist irdische Schwachheit
+
+### `1joh_013` (1. Johannes 3:8)
+- **Frage Vorher:** Zu welchem Zweck ist der Sohn Gottes in der Welt erschienen?
+- **Frage Nachher:** Wozu ist der Sohn Gottes nach 1. Johannes 3:8 erschienen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Um die Werke des Teufels zu zerstören
+    - **Nachher:** Dass er die Werke des Teufels zerstöre im Volk
+  - **Option A (Falsch):**
+    - **Vorher:** Um einen Palast zu bauen und ein irdisches Königreich zu gründen
+    - **Nachher:** Um einen irdischen Palast im Lande zu erbauen
+  - **Option C (Falsch):**
+    - **Vorher:** Um die Philosophen zu ehren und die Weisheit der Welt zu lehren
+    - **Nachher:** Um weltliche Weisheit in allen Schulen zu lehren
+  - **Option D (Falsch):**
+    - **Vorher:** Um Tempelgelder zu sammeln und den Gottesdienst zu ordnen
+    - **Nachher:** Um Tempelgelder für die Priesterkasse zu sammeln
+
+### `1joh_014` (1. Johannes 3:15)
+- **Frage Vorher:** Welches Urteil fällt die Schrift über denjenigen, der seinen Bruder hasst?
+- **Frage Nachher:** Was ist nach 1. Johannes 3:15 jeder, der seinen Bruder hasst?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Er ist ein Mörder, und kein Mörder hat ewiges Leben in sich bleibend
+    - **Nachher:** Er ist ein Menschenmörder, und kein Mörder hat ewiges Leben in sich
+  - **Option A (Falsch):**
+    - **Vorher:** Er ist nur im Gesetz unwissend und bedarf der Belehrung der Ältesten
+    - **Nachher:** Er ist nur ein Unwissender, der Belehrung durch Älteste bedarf
+  - **Option B (Falsch):**
+    - **Vorher:** Er bleibt dennoch im Licht, wenn er nur den Glauben an Christus bewahrt
+    - **Nachher:** Er bleibt dennoch im Licht, solange er das Glaubensbekenntnis sagt
+  - **Option D (Falsch):**
+    - **Vorher:** Er zahlt nur eine kleine Buße und ist dann wieder völlig frei von Schuld
+    - **Nachher:** Er zahlt eine Buße an die Gemeinde und wird sogleich wieder rein
+
+### `1joh_015` (1. Johannes 3:18)
+- **Frage Vorher:** Wie sollen Glaubende einander nach den Worten des Apostels lieben?
+- **Frage Nachher:** Wie sollen wir einander nach 1. Johannes 3:18 lieben?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Nicht mit Worten noch mit der Zunge, sondern in Tat und Wahrheit
+    - **Nachher:** Nicht mit Worten noch Zunge, in Tat und Wahrheit
+  - **Option A (Falsch):**
+    - **Vorher:** Nur mit Worten, die dem Bruder Mut und Trost zusprechen
+    - **Nachher:** Mit schönen Reden, die dem anderen schmeicheln
+  - **Option B (Falsch):**
+    - **Vorher:** Nur wenn der andere reich ist und etwas zurückgeben kann
+    - **Nachher:** Nur wenn der andere uns reichen Dank erstattet
+  - **Option C (Falsch):**
+    - **Vorher:** Nur zu großen Festen, wenn die Gemeinde zusammenkommt
+    - **Nachher:** Nur an Festtagen, wenn alle im Tempel weilen
+
+### `1joh_016` (1. Johannes 4:1-3)
+- **Frage Vorher:** Woran erkennt man den Geist Gottes im Unterschied zum Geist des Antichristen?
+- **Frage Nachher:** Woran erkennt man den Geist Gottes nach 1. Johannes 4:2?
+- **Richtige Antwort (unverändert, Option A):** Er bekennt, dass Jesus Christus im Fleisch gekommen ist
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Er fordert das Halten aller Gebote des Alten Bundes
+    - **Nachher:** Er fordert das Halten aller alten Opfergesetze der Väter
+  - **Option C (Falsch):**
+    - **Vorher:** Er bewirkt Reichtum in der Gemeinde
+    - **Nachher:** Er bringt den Gläubigen großen Wohlstand auf dieser Erde
+  - **Option D (Falsch):**
+    - **Vorher:** Er lehrt die Weisheit der Philosophen
+    - **Nachher:** Er lehrt die heidnische Weisheit der Weltweisen in Athen
+
+### `1joh_017` (1. Johannes 4:4)
+- **Frage Vorher:** Warum haben die Glaubenden die verlockenden Irrlehrer der Welt überwunden?
+- **Frage Nachher:** Warum haben die Gläubigen überwunden nach 1. Johannes 4:4?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Weil der, der in ihnen ist, größer ist als der, der in der Welt ist
+    - **Nachher:** Weil der in ihnen größer ist als der in der Welt
+  - **Option A (Falsch):**
+    - **Vorher:** Weil sie mächtiger sind als alle Könige und Herrscher der Erde
+    - **Nachher:** Weil sie mächtiger sind als alle Könige der Erde
+  - **Option C (Falsch):**
+    - **Vorher:** Weil sie alle Bücher der Gelehrten gelesen und verstanden haben
+    - **Nachher:** Weil sie alle Bücher der Weisen gründlich studierten
+  - **Option D (Falsch):**
+    - **Vorher:** Weil sie vor Anfechtungen flohen und sich der Welt entzogen
+    - **Nachher:** Weil sie in abgelegene Wüsten vor der Not entflohen
+
+### `1joh_018` (1. Johannes 4:8)
+- **Bibelstelle Vorher:** `1. Johannes 4:8; 4:16` -> **Nachher:** `1. Johannes 4:8`
+- **Frage Vorher:** Welche grundlegende Wesensaussage macht Johannes im vierten Kapitel über Gott?
+- **Frage Nachher:** Welche Aussage über das Wesen Gottes steht in 1. Johannes 4:8?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Gott ist die Liebe
+    - **Nachher:** Gott ist Liebe vor allen Kreaturen
+  - **Option A (Falsch):**
+    - **Vorher:** Gott ist ein ferner Herrscher
+    - **Nachher:** Gott ist ein ferner Weltenherrscher
+  - **Option B (Falsch):**
+    - **Vorher:** Gott ist ein strenger Richter ohne Gnade
+    - **Nachher:** Gott ist ein unerbittlicher Richter
+  - **Option D (Falsch):**
+    - **Vorher:** Gott ist das Schicksal der Menschen
+    - **Nachher:** Gott ist das dunkle Weltenschicksal
+
+### `1joh_019` (1. Johannes 4:10)
+- **Frage Vorher:** Worin besteht die wahre Gottesliebe nach den Worten?
+- **Frage Nachher:** Worin besteht die Liebe nach 1. Johannes 4:10?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Nicht dass wir Gott geliebt haben, sondern dass er uns geliebt und seinen Sohn gesandt hat
+    - **Nachher:** Dass er uns geliebt hat und seinen Sohn sandte als Sühnopfer
+  - **Option A (Falsch):**
+    - **Vorher:** Dass wir Gott von Natur aus zuerst geliebt haben und er uns darum annahm und segnete
+    - **Nachher:** Dass wir Gott zuerst aus ganzem Herzen liebten und darum erhörten
+  - **Option B (Falsch):**
+    - **Vorher:** Dass wir alle Gebote fehlerlos hielten und er uns darum reichlich segnete und liebte
+    - **Nachher:** Dass wir alle Gesetze vollkommen hielten und seinen Segen erwarben
+  - **Option C (Falsch):**
+    - **Vorher:** Dass wir viele Opfer im Heiligtum brachten und er uns darum erhörte und annahm
+    - **Nachher:** Dass wir viele Gaben im Tempel opferten und seine Gunst empfingen
+
+### `1joh_020` (1. Johannes 4:18)
+- **Frage Vorher:** Was bewirkt die vollkommene Liebe im Hinblick auf die menschliche Furcht?
+- **Frage Nachher:** Was tut die völlige Liebe nach 1. Johannes 4:18 mit der Furcht?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Die vollkommene Liebe treibt die Furcht aus
+    - **Nachher:** Die völlige Liebe treibt die Furcht aus
+  - **Option B (Falsch):**
+    - **Vorher:** Die vollkommene Liebe mehrt die Furcht
+    - **Nachher:** Die völlige Liebe mehrt die Furcht im Volk
+  - **Option C (Falsch):**
+    - **Vorher:** Die vollkommene Liebe duldet alle Furcht
+    - **Nachher:** Die völlige Liebe duldet alle Menschenfurcht
+  - **Option D (Falsch):**
+    - **Vorher:** Die vollkommene Liebe ignoriert jede Furcht
+    - **Nachher:** Die völlige Liebe weicht vor der Furcht zurück
+
+### `1joh_021` (1. Johannes 5:1)
+- **Frage Vorher:** Wer ist aus Gott geboren nach den klaren Worten im fünften Kapitel?
+- **Frage Nachher:** Wer ist nach 1. Johannes 5:1 aus Gott geboren?
+- **Richtige Antwort (unverändert, Option B):** Wer glaubt, dass Jesus der Christus ist
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Wer alle hebräischen Schriften kennt
+    - **Nachher:** Wer alle alten Schriften der Propheten liest
+  - **Option C (Falsch):**
+    - **Vorher:** Wer aus der Priesterfamilie Aarons stammt
+    - **Nachher:** Wer aus der Priesterfamilie Aarons abstammt
+  - **Option D (Falsch):**
+    - **Vorher:** Wer den Armen viel spendet
+    - **Nachher:** Wer den Tempeldienern reiche Spenden bringt
+
+### `1joh_022` (1. Johannes 5:3)
+- **Frage Vorher:** Wie werden die Gebote Gottes von den Glaubenden empfunden?
+- **Frage Nachher:** Was gilt von den Geboten Gottes nach 1. Johannes 5:3?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Seine Gebote sind nicht schwer
+    - **Nachher:** Seine Gebote sind im Glauben nicht schwer
+  - **Option B (Falsch):**
+    - **Vorher:** Seine Gebote gelten nur dem alten Volk
+    - **Nachher:** Seine Gebote gelten nur dem alten Volke
+  - **Option D (Falsch):**
+    - **Vorher:** Seine Gebote sind schwerer als alle Gesetze
+    - **Nachher:** Seine Gebote sind schwerer als jedes Gesetz
+
+### `1joh_023` (1. Johannes 5:4)
+- **Frage Vorher:** Wodurch wird die sündige Welt von den aus Gott Geborenen überwunden?
+- **Frage Nachher:** Was ist der Sieg, der die Welt überwunden hat (1. Johannes 5:4)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Durch unseren Glauben
+    - **Nachher:** Unser Glaube an den Herrn
+  - **Option A (Falsch):**
+    - **Vorher:** Durch weltliche Waffen im Krieg
+    - **Nachher:** Gewaltige Heere im Felde
+  - **Option B (Falsch):**
+    - **Vorher:** Durch Gold und Silber
+    - **Nachher:** Viel Reichtum und Silber
+  - **Option C (Falsch):**
+    - **Vorher:** Durch die Flucht in die Wüste
+    - **Nachher:** Die Flucht in die Wüsten
+
+### `1joh_024` (1. Johannes 5:14-15)
+- **Frage Vorher:** Welche freudige Zuversicht haben Glaubende beim Gebet vor Gott?
+- **Frage Nachher:** Welche Zuversicht haben wir nach 1. Johannes 5:14 vor Gott?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Dass er uns hört, wenn wir etwas nach seinem Willen bitten
+    - **Nachher:** Dass er uns hört, wenn wir seinem Willen gemäß bitten
+  - **Option B (Falsch):**
+    - **Vorher:** Dass er jedes Gebet erhört, auch ohne seinen Willen
+    - **Nachher:** Dass er jedes weltliche Gebet auch ohne Willen erhört
+  - **Option C (Falsch):**
+    - **Vorher:** Dass er nur die Gebote der Alten hört
+    - **Nachher:** Dass er allein die Gebete der Priester im Tempel hört
+  - **Option D (Falsch):**
+    - **Vorher:** Dass er nur an großen Festtagen erhört
+    - **Nachher:** Dass er nur an den festlichen Tagen des Jahres erhört
+
+### `1joh_025` (1. Johannes 5:21)
+- **Frage Vorher:** Wovor warnt der Apostel Johannes die Glaubenden im allerletzten Vers?
+- **Frage Nachher:** Wovor warnt Johannes die Kindlein in 1. Johannes 5:21?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Hütet euch vor den Götzen
+    - **Nachher:** Hütet euch vor den Götzen hier
+  - **Option A (Falsch):**
+    - **Vorher:** Hütet euch vor der Verfolgung der Römer
+    - **Nachher:** Hütet euch vor der Verfolgung
+  - **Option C (Falsch):**
+    - **Vorher:** Hütet euch vor dem Verlust des Geldes
+    - **Nachher:** Hütet euch vor dem Verlust von Gut
+  - **Option D (Falsch):**
+    - **Vorher:** Hütet euch vor fremden Büchern
+    - **Nachher:** Hütet euch vor fremden Lehrern da

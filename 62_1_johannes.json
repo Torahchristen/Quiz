@@ -25,750 +25,850 @@
     {
       "questionId": "1joh_001",
       "type": "single_choice",
-      "text": "Was bezeugen die Apostel von dem Wort des Lebens im ersten Kapitel?",
+      "text": "Was bezeugen die Apostel vom Wort des Lebens (1. Johannes 1:1)?",
       "options": [
         {
-          "text": "Was im geheimen Buch des Tempels steht, das die Priester bewahren",
-          "explanation": "Das trifft nicht zu. Richtig ist: Was von Anfang war, was sie gehört, mit ihren Augen gesehen und mit ihren Händen betastet haben vom Wort des Lebens [ref:1. Johannes 1:1-3]."
+          "text": "Was im geheimen Buch des Tempels geschrieben stand",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Was von Anfang war, was sie gehört, gesehen und mit ihren Händen betastet haben",
-          "explanation": "Was von Anfang war, was wir gehört, was wir mit unseren Augen gesehen, was wir angeschaut haben und unsere Hände betastet haben vom Wort des Lebens, das verkündigen wir euch [ref:1. Johannes 1:1-3]."
+          "text": "Was von Anfang war, was sie gehört und gesehen haben",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Was ihnen Engel im Schlaf offenbarten, als sie in der Nacht wachten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Was von Anfang war, was sie gehört, mit ihren Augen gesehen und mit ihren Händen betastet haben vom Wort des Lebens [ref:1. Johannes 1:1-3]."
+          "text": "Was ihnen Engel in Träumen der finsteren Nacht zeigten",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Was die Gelehrten Israels lehrten, die das Gesetz sorgfältig auslegten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Was von Anfang war, was sie gehört, mit ihren Augen gesehen und mit ihren Händen betastet haben vom Wort des Lebens [ref:1. Johannes 1:1-3]."
+          "text": "Was die Gelehrten Israels im Gesetze sorgsam lehrten",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "1. Johannes 1:1-3",
-      "explanation": "Was von Anfang war, was wir gehört, was wir mit unseren Augen gesehen, was wir angeschaut haben und unsere Hände betastet haben vom Wort des Lebens, das verkündigen wir euch [ref:1. Johannes 1:1-3].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "1joh_002",
       "type": "single_choice",
-      "text": "Welches ist die zentrale Botschaft über das eigentliche Wesen Gottes?",
+      "text": "Welche Botschaft verkündigt Johannes in 1. Johannes 1:5 über Gott?",
       "options": [
         {
-          "text": "Gott ist Geist und wohnt in den Tempeln Roms",
-          "explanation": "Das trifft nicht zu. Richtig ist: Gott ist Licht, und in ihm ist keine Finsternis [ref:1. Johannes 1:5]."
+          "text": "Gott ist ferner Geist und thront fern der Welt",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Gott ist Kraft und richtet ohne Erbarmen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Gott ist Licht, und in ihm ist keine Finsternis [ref:1. Johannes 1:5]."
+          "text": "Gott ist strenge Macht und richtet ohne Gnade",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Gott ist Licht, und in ihm ist keine Finsternis",
-          "explanation": "Das ist die Botschaft, die wir von ihm gehört haben: Gott ist Licht, und in ihm ist gar keine Finsternis [ref:1. Johannes 1:5]."
+          "text": "Gott ist Licht, und in ihm ist gar keine Finsternis",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Gott ist Gesetz und fordert Tieropfer",
-          "explanation": "Das trifft nicht zu. Richtig ist: Gott ist Licht, und in ihm ist keine Finsternis [ref:1. Johannes 1:5]."
+          "text": "Gott ist bloßes Gesetz und fordert viele Opfer",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "1. Johannes 1:5",
-      "explanation": "Das ist die Botschaft, die wir von ihm gehört haben: Gott ist Licht, und in ihm ist gar keine Finsternis [ref:1. Johannes 1:5].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "1joh_003",
       "type": "single_choice",
-      "text": "Was bewirkt das Blut Jesu Christi, wenn Glaubende im Licht wandeln?",
+      "text": "Was bewirkt das Blut Jesu Christi nach 1. Johannes 1:7?",
       "options": [
         {
-          "text": "Es bringt großen Wohlstand",
-          "explanation": "Das trifft nicht zu. Richtig ist: Es reinigt uns von aller Sünde [ref:1. Johannes 1:7]."
+          "text": "Es bringt großen irdischen Reichtum",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Es schützt vor allen Krankheiten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Es reinigt uns von aller Sünde [ref:1. Johannes 1:7]."
+          "text": "Es schützt vor allen Leibeskrankheiten",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Es schenkt Weisheit für Streitfragen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Es reinigt uns von aller Sünde [ref:1. Johannes 1:7]."
+          "text": "Es gibt weltliche Klugheit im Streit",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Es reinigt uns von aller Sünde",
-          "explanation": "Wenn wir im Licht wandeln, wie er im Licht ist, so haben wir Gemeinschaft untereinander, und das Blut Jesu, seines Sohnes, macht uns rein von aller Sünde [ref:1. Johannes 1:7]."
+          "text": "Es reinigt uns von aller Sünde vor Gott",
+          "isCorrect": true,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "1. Johannes 1:7",
-      "explanation": "Wenn wir im Licht wandeln, wie er im Licht ist, so haben wir Gemeinschaft untereinander, und das Blut Jesu, seines Sohnes, macht uns rein von aller Sünde [ref:1. Johannes 1:7].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "1joh_004",
       "type": "single_choice",
-      "text": "Was geschieht, wenn ein Mensch behauptet, er habe keine Sünde?",
+      "text": "Was gilt, wenn wir sagen, wir haben keine Sünde (1. Johannes 1:8)?",
       "options": [
         {
-          "text": "Er betrügt sich selbst, und die Wahrheit ist nicht in ihm",
-          "explanation": "Wenn wir sagen, dass wir keine Sünde haben, so betrügen wir uns selbst, und die Wahrheit ist nicht in uns [ref:1. Johannes 1:8]."
+          "text": "Wir verführen uns selbst, und die Wahrheit ist nicht in uns",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Er erlangt Vollkommenheit und wird von Gott angenommen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er betrügt sich selbst, und die Wahrheit ist nicht in ihm [ref:1. Johannes 1:8]."
+          "text": "Wir erlangen Vollkommenheit und ewiges Leben vor dem Throne",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Er wird von den Ältesten geehrt und als Vorbild bezeichnet",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er betrügt sich selbst, und die Wahrheit ist nicht in ihm [ref:1. Johannes 1:8]."
+          "text": "Wir werden von den Ältesten als untadelige Vorbilder geehrt",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Er empfängt ewiges Leben ohne Buße und ohne Bekenntnis",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er betrügt sich selbst, und die Wahrheit ist nicht in ihm [ref:1. Johannes 1:8]."
+          "text": "Wir empfangen reiche Verheißung ganz ohne Buße und Umkehr",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "1. Johannes 1:8",
-      "explanation": "Wenn wir sagen, dass wir keine Sünde haben, so betrügen wir uns selbst, und die Wahrheit ist nicht in uns [ref:1. Johannes 1:8].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "1joh_005",
       "type": "single_choice",
-      "text": "Was tut Gott, wenn Glaubende ihre Sünden aufrichtig bekennen?",
+      "text": "Was tut Gott, wenn wir unsere Sünden bekennen (1. Johannes 1:9)?",
       "options": [
         {
-          "text": "Er bestraft sie mit harter Knechtschaft, bis sie ihre Schuld vollständig abgetragen haben",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er ist treu und gerecht, dass er die Sünden vergibt und von aller Ungerechtigkeit reinigt [ref:1. Johannes 1:9]."
+          "text": "Er straft uns mit harter Zucht, bis alle Schuld völlig abgetragen ist",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Er ist treu und gerecht, dass er die Sünden vergibt und von aller Ungerechtigkeit reinigt",
-          "explanation": "Wenn wir unsere Sünden bekennen, so ist er treu und gerecht, dass er uns die Sünden vergibt und reinigt uns von aller Ungerechtigkeit [ref:1. Johannes 1:9]."
+          "text": "Er ist treu und gerecht, vergibt die Sünden und reinigt uns von Schuld",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Er fordert ein großes Opfer im Heiligtum, ehe er ihnen ihre Schuld vergibt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er ist treu und gerecht, dass er die Sünden vergibt und von aller Ungerechtigkeit reinigt [ref:1. Johannes 1:9]."
+          "text": "Er verlangt ein teures Opfer im Heiligtum, ehe er Vergebung gewährt",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Er schweigt und überlässt sie den Richtern, die dann über ihre Schuld urteilen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er ist treu und gerecht, dass er die Sünden vergibt und von aller Ungerechtigkeit reinigt [ref:1. Johannes 1:9]."
+          "text": "Er schweigt im Zorn und überlässt die Sünder den weltlichen Richtern",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "1. Johannes 1:9",
-      "explanation": "Wenn wir unsere Sünden bekennen, so ist er treu und gerecht, dass er uns die Sünden vergibt und reinigt uns von aller Ungerechtigkeit [ref:1. Johannes 1:9].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "1joh_006",
       "type": "single_choice",
-      "text": "Wer vertritt Glaubende als Fürsprecher beim Vater, wenn jemand sündigt?",
+      "text": "Wen haben wir als Fürsprecher beim Vater nach 1. Johannes 2:1?",
       "options": [
         {
-          "text": "Der Apostel Petrus als Hoherpriester, der für die Gemeinde eintritt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Jesus Christus, der Gerechte, als Fürsprecher beim Vater [ref:1. Johannes 2:1-2]."
+          "text": "Den Apostel Petrus als Bischof der Gemeinde",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Der Engel Gabriel vor dem Thron, der die Gebete der Heiligen trägt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Jesus Christus, der Gerechte, als Fürsprecher beim Vater [ref:1. Johannes 2:1-2]."
+          "text": "Den Engel Gabriel, der vor Gottes Thron steht",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Jesus Christus, der Gerechte, als Fürsprecher beim Vater",
-          "explanation": "Wenn jemand sündigt, so haben wir einen Fürsprecher bei dem Vater, Jesus Christus, der gerecht ist [ref:1. Johannes 2:1-2]."
+          "text": "Jesus Christus, den Gerechten, beim Vater",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Der Prophet Mose als Mittler, der das Gesetz am Berg empfangen hat",
-          "explanation": "Das trifft nicht zu. Richtig ist: Jesus Christus, der Gerechte, als Fürsprecher beim Vater [ref:1. Johannes 2:1-2]."
+          "text": "Den Propheten Mose als Mittler des Bundes",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "1. Johannes 2:1-2",
-      "explanation": "Wenn jemand sündigt, so haben wir einen Fürsprecher bei dem Vater, Jesus Christus, der gerecht ist [ref:1. Johannes 2:1-2].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "1joh_007",
       "type": "single_choice",
-      "text": "Woran erkennen Glaubende, dass sie Gott wahrhaft erkannt haben?",
+      "text": "Woran erkennen wir nach 1. Johannes 2:3, dass wir ihn erkannt haben?",
       "options": [
         {
-          "text": "Wenn wir alle Schriften auswendig wissen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Wenn wir seine Gebote halten [ref:1. Johannes 2:3-4]."
+          "text": "Wenn wir alle Bücher auswendig kennen",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Wenn wir Wohlstand und Ansehen haben",
-          "explanation": "Das trifft nicht zu. Richtig ist: Wenn wir seine Gebote halten [ref:1. Johannes 2:3-4]."
+          "text": "Wenn wir großen Besitz und Ehre haben",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Wenn wir keine Anfechtungen mehr haben",
-          "explanation": "Das trifft nicht zu. Richtig ist: Wenn wir seine Gebote halten [ref:1. Johannes 2:3-4]."
+          "text": "Wenn wir frei von jeder Anfechtung sind",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Wenn wir seine Gebote halten",
-          "explanation": "Daran erkennen wir, dass wir ihn erkannt haben, wenn wir seine Gebote halten [ref:1. Johannes 2:3-4]."
+          "text": "Wenn wir seine Gebote im Glauben halten",
+          "isCorrect": true,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "1. Johannes 2:3-4",
-      "explanation": "Daran erkennen wir, dass wir ihn erkannt haben, wenn wir seine Gebote halten [ref:1. Johannes 2:3-4].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "1joh_008",
       "type": "single_choice",
-      "text": "In welchem Zustand befindet sich jemand, der seinen Bruder hasst?",
+      "text": "In welchem Zustand ist nach 1. Johannes 2:11, wer seinen Bruder hasst?",
       "options": [
         {
           "text": "Er ist in der Finsternis und wandelt in der Finsternis",
-          "explanation": "Wer seinen Bruder hasst, der ist in der Finsternis und wandelt in der Finsternis und weiß nicht, wo er hingeht [ref:1. Johannes 2:9-11]."
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Er ist dennoch ein Kind des Lichts und wandelt im Licht",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er ist in der Finsternis und wandelt in der Finsternis [ref:1. Johannes 2:9-11]."
+          "text": "Er wandelt dennoch im Lichte und erfreut sich der Gnade",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Er hat nur eine kleine Schwäche und bleibt davon unberührt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er ist in der Finsternis und wandelt in der Finsternis [ref:1. Johannes 2:9-11]."
+          "text": "Er verliert nur kurz seine Freude und bleibt unberührt",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Er verliert nur kurz seine Gabe und findet bald wieder Frieden",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er ist in der Finsternis und wandelt in der Finsternis [ref:1. Johannes 2:9-11]."
+          "text": "Er hat eine verzeihliche Schwäche ohne jede Auswirkung",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "1. Johannes 2:9-11",
-      "explanation": "Wer seinen Bruder hasst, der ist in der Finsternis und wandelt in der Finsternis und weiß nicht, wo er hingeht [ref:1. Johannes 2:9-11].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "1joh_009",
       "type": "single_choice",
-      "text": "Was befindet sich in der Welt, das nicht vom Vater stammt?",
+      "text": "Was ist in der Welt, das nicht vom Vater kommt (1. Johannes 2:16)?",
       "options": [
         {
-          "text": "Liebe der Brüder, Glaube, Wahrheit und Sanftmut, die der Vater gibt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Lust des Fleisches, die Lust der Augen und der Hochmut des Lebens [ref:1. Johannes 2:15-16]."
+          "text": "Die Liebe der Brüder, Wahrheit und Sanftmut im Herrn",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Die Lust des Fleisches, die Lust der Augen und der Hochmut des Lebens",
-          "explanation": "Alles, was in der Welt ist, die Fleischeslust, die Augenlust und der Hochmut des Lebens, ist nicht vom Vater, sondern von der Welt [ref:1. Johannes 2:15-16]."
+          "text": "Die Fleischeslust, die Augenlust und das hoffärtige Leben",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Gebet, Fasten, Danksagung und Lobpreis, die der Vater verlangt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Lust des Fleisches, die Lust der Augen und der Hochmut des Lebens [ref:1. Johannes 2:15-16]."
+          "text": "Das Gebet, das Fasten und der Lobpreis der Gläubigen",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Demut, Geduld, Barmherzigkeit und Reinheit, die der Vater wirkt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Lust des Fleisches, die Lust der Augen und der Hochmut des Lebens [ref:1. Johannes 2:15-16]."
+          "text": "Die Demut, die Geduld und die Barmherzigkeit im Leben",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "1. Johannes 2:15-16",
-      "explanation": "Alles, was in der Welt ist, die Fleischeslust, die Augenlust und der Hochmut des Lebens, ist nicht vom Vater, sondern von der Welt [ref:1. Johannes 2:15-16].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "1joh_010",
       "type": "single_choice",
-      "text": "Wer wird von Johannes ausdrücklich als der Antichrist bezeichnet?",
+      "text": "Wer ist nach 1. Johannes 2:22 der Antichrist?",
       "options": [
         {
-          "text": "Wer den Armen kein Geld und kein Brot gibt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Wer leugnet, dass Jesus der Christus ist [ref:1. Johannes 2:22-23]."
+          "text": "Wer den Armen im Lande kein Brot und Almosen gibt",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Wer das Gesetz der Obrigkeit bricht",
-          "explanation": "Das trifft nicht zu. Richtig ist: Wer leugnet, dass Jesus der Christus ist [ref:1. Johannes 2:22-23]."
+          "text": "Wer die Satzungen der römischen Machthaber bricht",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Wer leugnet, dass Jesus der Christus ist",
-          "explanation": "Wer ist der Lügner, wenn nicht der, der leugnet, dass Jesus der Christus ist? Das ist der Antichrist [ref:1. Johannes 2:22-23]."
+          "text": "Wer leugnet, dass Jesus der verheißene Christus ist",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Wer die Feste in Jerusalem nicht besucht",
-          "explanation": "Das trifft nicht zu. Richtig ist: Wer leugnet, dass Jesus der Christus ist [ref:1. Johannes 2:22-23]."
+          "text": "Wer zu den heiligen Festen in Jerusalem ausbleibt",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "1. Johannes 2:22-23",
-      "explanation": "Wer ist der Lügner, wenn nicht der, der leugnet, dass Jesus der Christus ist? Das ist der Antichrist [ref:1. Johannes 2:22-23].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "1joh_011",
       "type": "single_choice",
-      "text": "Welchen erhabenen Namen dürfen Glaubende durch Gottes Liebe tragen?",
+      "text": "Was sollen wir durch die Liebe des Vaters heißen (1. Johannes 3:1)?",
       "options": [
         {
-          "text": "Bürger der römischen Provinz",
-          "explanation": "Das trifft nicht zu. Richtig ist: Kinder Gottes [ref:1. Johannes 3:1]."
+          "text": "Bürger des Reiches",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Richter über die Reiche",
-          "explanation": "Das trifft nicht zu. Richtig ist: Kinder Gottes [ref:1. Johannes 3:1]."
+          "text": "Richter der Völker",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
           "text": "Priester im Tempel",
-          "explanation": "Das trifft nicht zu. Richtig ist: Kinder Gottes [ref:1. Johannes 3:1]."
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Kinder Gottes",
-          "explanation": "Seht, welch eine Liebe hat uns der Vater erwiesen, dass wir Kinder Gottes heißen sollen — und wir sind es auch! [ref:1. Johannes 3:1]."
+          "text": "Kinder Gottes im Herrn",
+          "isCorrect": true,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "1. Johannes 3:1",
-      "explanation": "Seht, welch eine Liebe hat uns der Vater erwiesen, dass wir Kinder Gottes heißen sollen — und wir sind es auch! [ref:1. Johannes 3:1].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "1joh_012",
       "type": "single_choice",
-      "text": "Wie definiert Johannes das Wesen der Sünde im dritten Kapitel?",
+      "text": "Was ist die Sünde nach 1. Johannes 3:4?",
       "options": [
         {
-          "text": "Sünde ist Gesetzlosigkeit",
-          "explanation": "Wer die Sünde tut, der tut auch die Gesetzlosigkeit; und die Sünde ist die Gesetzlosigkeit [ref:1. Johannes 3:4]."
+          "text": "Die Sünde ist die Ungesetzlichkeit",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Sünde ist ein Missverständnis",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sünde ist Gesetzlosigkeit [ref:1. Johannes 3:4]."
+          "text": "Die Sünde ist ein Missverständnis",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Sünde ist der Mangel an weltlicher Ehre",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sünde ist Gesetzlosigkeit [ref:1. Johannes 3:4]."
+          "text": "Die Sünde ist bloße Unwissenheit",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Sünde ist der Verlust von Reichtum",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sünde ist Gesetzlosigkeit [ref:1. Johannes 3:4]."
+          "text": "Die Sünde ist irdische Schwachheit",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "1. Johannes 3:4",
-      "explanation": "Wer die Sünde tut, der tut auch die Gesetzlosigkeit; und die Sünde ist die Gesetzlosigkeit [ref:1. Johannes 3:4].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "1joh_013",
       "type": "single_choice",
-      "text": "Zu welchem Zweck ist der Sohn Gottes in der Welt erschienen?",
+      "text": "Wozu ist der Sohn Gottes nach 1. Johannes 3:8 erschienen?",
       "options": [
         {
-          "text": "Um einen Palast zu bauen und ein irdisches Königreich zu gründen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Um die Werke des Teufels zu zerstören [ref:1. Johannes 3:8]."
+          "text": "Um einen irdischen Palast im Lande zu erbauen",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Um die Werke des Teufels zu zerstören",
-          "explanation": "Dazu ist der Sohn Gottes erschienen, dass er die Werke des Teufels zerstöre [ref:1. Johannes 3:8]."
+          "text": "Dass er die Werke des Teufels zerstöre im Volk",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Um die Philosophen zu ehren und die Weisheit der Welt zu lehren",
-          "explanation": "Das trifft nicht zu. Richtig ist: Um die Werke des Teufels zu zerstören [ref:1. Johannes 3:8]."
+          "text": "Um weltliche Weisheit in allen Schulen zu lehren",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Um Tempelgelder zu sammeln und den Gottesdienst zu ordnen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Um die Werke des Teufels zu zerstören [ref:1. Johannes 3:8]."
+          "text": "Um Tempelgelder für die Priesterkasse zu sammeln",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "1. Johannes 3:8",
-      "explanation": "Dazu ist der Sohn Gottes erschienen, dass er die Werke des Teufels zerstöre [ref:1. Johannes 3:8].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "1joh_014",
       "type": "single_choice",
-      "text": "Welches Urteil fällt die Schrift über denjenigen, der seinen Bruder hasst?",
+      "text": "Was ist nach 1. Johannes 3:15 jeder, der seinen Bruder hasst?",
       "options": [
         {
-          "text": "Er ist nur im Gesetz unwissend und bedarf der Belehrung der Ältesten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er ist ein Mörder, und kein Mörder hat ewiges Leben in sich bleibend [ref:1. Johannes 3:15]."
+          "text": "Er ist nur ein Unwissender, der Belehrung durch Älteste bedarf",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Er bleibt dennoch im Licht, wenn er nur den Glauben an Christus bewahrt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er ist ein Mörder, und kein Mörder hat ewiges Leben in sich bleibend [ref:1. Johannes 3:15]."
+          "text": "Er bleibt dennoch im Licht, solange er das Glaubensbekenntnis sagt",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Er ist ein Mörder, und kein Mörder hat ewiges Leben in sich bleibend",
-          "explanation": "Wer seinen Bruder hasst, ist ein Menschenmörder; und ihr wisst, dass kein Menschenmörder ewiges Leben bleibend in sich hat [ref:1. Johannes 3:15]."
+          "text": "Er ist ein Menschenmörder, und kein Mörder hat ewiges Leben in sich",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Er zahlt nur eine kleine Buße und ist dann wieder völlig frei von Schuld",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er ist ein Mörder, und kein Mörder hat ewiges Leben in sich bleibend [ref:1. Johannes 3:15]."
+          "text": "Er zahlt eine Buße an die Gemeinde und wird sogleich wieder rein",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "1. Johannes 3:15",
-      "explanation": "Wer seinen Bruder hasst, ist ein Menschenmörder; und ihr wisst, dass kein Menschenmörder ewiges Leben bleibend in sich hat [ref:1. Johannes 3:15].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "1joh_015",
       "type": "single_choice",
-      "text": "Wie sollen Glaubende einander nach den Worten des Apostels lieben?",
+      "text": "Wie sollen wir einander nach 1. Johannes 3:18 lieben?",
       "options": [
         {
-          "text": "Nur mit Worten, die dem Bruder Mut und Trost zusprechen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Nicht mit Worten noch mit der Zunge, sondern in Tat und Wahrheit [ref:1. Johannes 3:18]."
+          "text": "Mit schönen Reden, die dem anderen schmeicheln",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Nur wenn der andere reich ist und etwas zurückgeben kann",
-          "explanation": "Das trifft nicht zu. Richtig ist: Nicht mit Worten noch mit der Zunge, sondern in Tat und Wahrheit [ref:1. Johannes 3:18]."
+          "text": "Nur wenn der andere uns reichen Dank erstattet",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Nur zu großen Festen, wenn die Gemeinde zusammenkommt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Nicht mit Worten noch mit der Zunge, sondern in Tat und Wahrheit [ref:1. Johannes 3:18]."
+          "text": "Nur an Festtagen, wenn alle im Tempel weilen",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Nicht mit Worten noch mit der Zunge, sondern in Tat und Wahrheit",
-          "explanation": "Meine Kindlein, lasst uns nicht lieben mit Worten noch mit der Zunge, sondern mit der Tat und mit der Wahrheit [ref:1. Johannes 3:18]."
+          "text": "Nicht mit Worten noch Zunge, in Tat und Wahrheit",
+          "isCorrect": true,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "1. Johannes 3:18",
-      "explanation": "Meine Kindlein, lasst uns nicht lieben mit Worten noch mit der Zunge, sondern mit der Tat und mit der Wahrheit [ref:1. Johannes 3:18].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "1joh_016",
       "type": "single_choice",
-      "text": "Woran erkennt man den Geist Gottes im Unterschied zum Geist des Antichristen?",
+      "text": "Woran erkennt man den Geist Gottes nach 1. Johannes 4:2?",
       "options": [
         {
           "text": "Er bekennt, dass Jesus Christus im Fleisch gekommen ist",
-          "explanation": "Daran erkennt ihr den Geist Gottes: Jeder Geist, der bekennt, dass Jesus Christus im Fleisch gekommen ist, der ist aus Gott [ref:1. Johannes 4:1-3]."
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Er fordert das Halten aller Gebote des Alten Bundes",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er bekennt, dass Jesus Christus im Fleisch gekommen ist [ref:1. Johannes 4:1-3]."
+          "text": "Er fordert das Halten aller alten Opfergesetze der Väter",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Er bewirkt Reichtum in der Gemeinde",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er bekennt, dass Jesus Christus im Fleisch gekommen ist [ref:1. Johannes 4:1-3]."
+          "text": "Er bringt den Gläubigen großen Wohlstand auf dieser Erde",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Er lehrt die Weisheit der Philosophen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er bekennt, dass Jesus Christus im Fleisch gekommen ist [ref:1. Johannes 4:1-3]."
+          "text": "Er lehrt die heidnische Weisheit der Weltweisen in Athen",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "1. Johannes 4:1-3",
-      "explanation": "Daran erkennt ihr den Geist Gottes: Jeder Geist, der bekennt, dass Jesus Christus im Fleisch gekommen ist, der ist aus Gott [ref:1. Johannes 4:1-3].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "1joh_017",
       "type": "single_choice",
-      "text": "Warum haben die Glaubenden die verlockenden Irrlehrer der Welt überwunden?",
+      "text": "Warum haben die Gläubigen überwunden nach 1. Johannes 4:4?",
       "options": [
         {
-          "text": "Weil sie mächtiger sind als alle Könige und Herrscher der Erde",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil der, der in ihnen ist, größer ist als der, der in der Welt ist [ref:1. Johannes 4:4]."
+          "text": "Weil sie mächtiger sind als alle Könige der Erde",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Weil der, der in ihnen ist, größer ist als der, der in der Welt ist",
-          "explanation": "Kinder, ihr seid von Gott und habt jene überwunden; denn der in euch ist, ist größer als der in der Welt [ref:1. Johannes 4:4]."
+          "text": "Weil der in ihnen größer ist als der in der Welt",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Weil sie alle Bücher der Gelehrten gelesen und verstanden haben",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil der, der in ihnen ist, größer ist als der, der in der Welt ist [ref:1. Johannes 4:4]."
+          "text": "Weil sie alle Bücher der Weisen gründlich studierten",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Weil sie vor Anfechtungen flohen und sich der Welt entzogen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil der, der in ihnen ist, größer ist als der, der in der Welt ist [ref:1. Johannes 4:4]."
+          "text": "Weil sie in abgelegene Wüsten vor der Not entflohen",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "1. Johannes 4:4",
-      "explanation": "Kinder, ihr seid von Gott und habt jene überwunden; denn der in euch ist, ist größer als der in der Welt [ref:1. Johannes 4:4].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "1joh_018",
       "type": "single_choice",
-      "text": "Welche grundlegende Wesensaussage macht Johannes im vierten Kapitel über Gott?",
+      "text": "Welche Aussage über das Wesen Gottes steht in 1. Johannes 4:8?",
       "options": [
         {
-          "text": "Gott ist ein ferner Herrscher",
-          "explanation": "Das trifft nicht zu. Richtig ist: Gott ist die Liebe [ref:1. Johannes 4:8; 4:16]."
+          "text": "Gott ist ein ferner Weltenherrscher",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Gott ist ein strenger Richter ohne Gnade",
-          "explanation": "Das trifft nicht zu. Richtig ist: Gott ist die Liebe [ref:1. Johannes 4:8; 4:16]."
+          "text": "Gott ist ein unerbittlicher Richter",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Gott ist die Liebe",
-          "explanation": "Wer nicht liebt, der kennt Gott nicht; denn Gott ist Liebe [ref:1. Johannes 4:8; 4:16]."
+          "text": "Gott ist Liebe vor allen Kreaturen",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Gott ist das Schicksal der Menschen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Gott ist die Liebe [ref:1. Johannes 4:8; 4:16]."
+          "text": "Gott ist das dunkle Weltenschicksal",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
-      "bibleReference": "1. Johannes 4:8; 4:16",
-      "explanation": "Wer nicht liebt, der kennt Gott nicht; denn Gott ist Liebe [ref:1. Johannes 4:8; 4:16].",
+      "bibleReference": "1. Johannes 4:8",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "1joh_019",
       "type": "single_choice",
-      "text": "Worin besteht die wahre Gottesliebe nach den Worten?",
+      "text": "Worin besteht die Liebe nach 1. Johannes 4:10?",
       "options": [
         {
-          "text": "Dass wir Gott von Natur aus zuerst geliebt haben und er uns darum annahm und segnete",
-          "explanation": "Das trifft nicht zu. Richtig ist: Nicht dass wir Gott geliebt haben, sondern dass er uns geliebt und seinen Sohn gesandt hat [ref:1. Johannes 4:10]."
+          "text": "Dass wir Gott zuerst aus ganzem Herzen liebten und darum erhörten",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Dass wir alle Gebote fehlerlos hielten und er uns darum reichlich segnete und liebte",
-          "explanation": "Das trifft nicht zu. Richtig ist: Nicht dass wir Gott geliebt haben, sondern dass er uns geliebt und seinen Sohn gesandt hat [ref:1. Johannes 4:10]."
+          "text": "Dass wir alle Gesetze vollkommen hielten und seinen Segen erwarben",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Dass wir viele Opfer im Heiligtum brachten und er uns darum erhörte und annahm",
-          "explanation": "Das trifft nicht zu. Richtig ist: Nicht dass wir Gott geliebt haben, sondern dass er uns geliebt und seinen Sohn gesandt hat [ref:1. Johannes 4:10]."
+          "text": "Dass wir viele Gaben im Tempel opferten und seine Gunst empfingen",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Nicht dass wir Gott geliebt haben, sondern dass er uns geliebt und seinen Sohn gesandt hat",
-          "explanation": "Darin besteht die Liebe: nicht, dass wir Gott geliebt haben, sondern dass er uns geliebt hat [ref:1. Johannes 4:10]."
+          "text": "Dass er uns geliebt hat und seinen Sohn sandte als Sühnopfer",
+          "isCorrect": true,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "1. Johannes 4:10",
-      "explanation": "Darin besteht die Liebe: nicht, dass wir Gott geliebt haben, sondern dass er uns geliebt hat [ref:1. Johannes 4:10].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "1joh_020",
       "type": "single_choice",
-      "text": "Was bewirkt die vollkommene Liebe im Hinblick auf die menschliche Furcht?",
+      "text": "Was tut die völlige Liebe nach 1. Johannes 4:18 mit der Furcht?",
       "options": [
         {
-          "text": "Die vollkommene Liebe treibt die Furcht aus",
-          "explanation": "Furcht ist nicht in der Liebe, sondern die völlige Liebe treibt die Furcht aus; denn die Furcht rechnet mit Strafe [ref:1. Johannes 4:18]."
+          "text": "Die völlige Liebe treibt die Furcht aus",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Die vollkommene Liebe mehrt die Furcht",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die vollkommene Liebe treibt die Furcht aus [ref:1. Johannes 4:18]."
+          "text": "Die völlige Liebe mehrt die Furcht im Volk",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Die vollkommene Liebe duldet alle Furcht",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die vollkommene Liebe treibt die Furcht aus [ref:1. Johannes 4:18]."
+          "text": "Die völlige Liebe duldet alle Menschenfurcht",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Die vollkommene Liebe ignoriert jede Furcht",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die vollkommene Liebe treibt die Furcht aus [ref:1. Johannes 4:18]."
+          "text": "Die völlige Liebe weicht vor der Furcht zurück",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "1. Johannes 4:18",
-      "explanation": "Furcht ist nicht in der Liebe, sondern die völlige Liebe treibt die Furcht aus; denn die Furcht rechnet mit Strafe [ref:1. Johannes 4:18].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "1joh_021",
       "type": "single_choice",
-      "text": "Wer ist aus Gott geboren nach den klaren Worten im fünften Kapitel?",
+      "text": "Wer ist nach 1. Johannes 5:1 aus Gott geboren?",
       "options": [
         {
-          "text": "Wer alle hebräischen Schriften kennt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Wer glaubt, dass Jesus der Christus ist [ref:1. Johannes 5:1]."
+          "text": "Wer alle alten Schriften der Propheten liest",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
           "text": "Wer glaubt, dass Jesus der Christus ist",
-          "explanation": "Jeder, der glaubt, dass Jesus der Christus ist, der ist aus Gott geboren [ref:1. Johannes 5:1]."
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Wer aus der Priesterfamilie Aarons stammt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Wer glaubt, dass Jesus der Christus ist [ref:1. Johannes 5:1]."
+          "text": "Wer aus der Priesterfamilie Aarons abstammt",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Wer den Armen viel spendet",
-          "explanation": "Das trifft nicht zu. Richtig ist: Wer glaubt, dass Jesus der Christus ist [ref:1. Johannes 5:1]."
+          "text": "Wer den Tempeldienern reiche Spenden bringt",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "1. Johannes 5:1",
-      "explanation": "Jeder, der glaubt, dass Jesus der Christus ist, der ist aus Gott geboren [ref:1. Johannes 5:1].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "1joh_022",
       "type": "single_choice",
-      "text": "Wie werden die Gebote Gottes von den Glaubenden empfunden?",
+      "text": "Was gilt von den Geboten Gottes nach 1. Johannes 5:3?",
       "options": [
         {
           "text": "Seine Gebote sind eine unerträgliche Last",
-          "explanation": "Das trifft nicht zu. Richtig ist: Seine Gebote sind nicht schwer [ref:1. Johannes 5:3]."
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Seine Gebote gelten nur dem alten Volk",
-          "explanation": "Das trifft nicht zu. Richtig ist: Seine Gebote sind nicht schwer [ref:1. Johannes 5:3]."
+          "text": "Seine Gebote gelten nur dem alten Volke",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Seine Gebote sind nicht schwer",
-          "explanation": "Das ist die Liebe zu Gott, dass wir seine Gebote halten; und seine Gebote sind nicht schwer [ref:1. Johannes 5:3]."
+          "text": "Seine Gebote sind im Glauben nicht schwer",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Seine Gebote sind schwerer als alle Gesetze",
-          "explanation": "Das trifft nicht zu. Richtig ist: Seine Gebote sind nicht schwer [ref:1. Johannes 5:3]."
+          "text": "Seine Gebote sind schwerer als jedes Gesetz",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "1. Johannes 5:3",
-      "explanation": "Das ist die Liebe zu Gott, dass wir seine Gebote halten; und seine Gebote sind nicht schwer [ref:1. Johannes 5:3].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "1joh_023",
       "type": "single_choice",
-      "text": "Wodurch wird die sündige Welt von den aus Gott Geborenen überwunden?",
+      "text": "Was ist der Sieg, der die Welt überwunden hat (1. Johannes 5:4)?",
       "options": [
         {
-          "text": "Durch weltliche Waffen im Krieg",
-          "explanation": "Das trifft nicht zu. Richtig ist: Durch unseren Glauben [ref:1. Johannes 5:4]."
+          "text": "Gewaltige Heere im Felde",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Durch Gold und Silber",
-          "explanation": "Das trifft nicht zu. Richtig ist: Durch unseren Glauben [ref:1. Johannes 5:4]."
+          "text": "Viel Reichtum und Silber",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Durch die Flucht in die Wüste",
-          "explanation": "Das trifft nicht zu. Richtig ist: Durch unseren Glauben [ref:1. Johannes 5:4]."
+          "text": "Die Flucht in die Wüsten",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Durch unseren Glauben",
-          "explanation": "Alles, was aus Gott geboren ist, überwindet die Welt; und das ist der Sieg, der die Welt überwunden hat: unser Glaube [ref:1. Johannes 5:4]."
+          "text": "Unser Glaube an den Herrn",
+          "isCorrect": true,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "1. Johannes 5:4",
-      "explanation": "Alles, was aus Gott geboren ist, überwindet die Welt; und das ist der Sieg, der die Welt überwunden hat: unser Glaube [ref:1. Johannes 5:4].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "1joh_024",
       "type": "single_choice",
-      "text": "Welche freudige Zuversicht haben Glaubende beim Gebet vor Gott?",
+      "text": "Welche Zuversicht haben wir nach 1. Johannes 5:14 vor Gott?",
       "options": [
         {
-          "text": "Dass er uns hört, wenn wir etwas nach seinem Willen bitten",
-          "explanation": "Das ist die Zuversicht, die wir zu ihm haben: dass er uns hört, wenn wir etwas nach seinem Willen bitten [ref:1. Johannes 5:14-15]."
+          "text": "Dass er uns hört, wenn wir seinem Willen gemäß bitten",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Dass er jedes Gebet erhört, auch ohne seinen Willen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Dass er uns hört, wenn wir etwas nach seinem Willen bitten [ref:1. Johannes 5:14-15]."
+          "text": "Dass er jedes weltliche Gebet auch ohne Willen erhört",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Dass er nur die Gebote der Alten hört",
-          "explanation": "Das trifft nicht zu. Richtig ist: Dass er uns hört, wenn wir etwas nach seinem Willen bitten [ref:1. Johannes 5:14-15]."
+          "text": "Dass er allein die Gebete der Priester im Tempel hört",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Dass er nur an großen Festtagen erhört",
-          "explanation": "Das trifft nicht zu. Richtig ist: Dass er uns hört, wenn wir etwas nach seinem Willen bitten [ref:1. Johannes 5:14-15]."
+          "text": "Dass er nur an den festlichen Tagen des Jahres erhört",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "1. Johannes 5:14-15",
-      "explanation": "Das ist die Zuversicht, die wir zu ihm haben: dass er uns hört, wenn wir etwas nach seinem Willen bitten [ref:1. Johannes 5:14-15].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "1joh_025",
       "type": "single_choice",
-      "text": "Wovor warnt der Apostel Johannes die Glaubenden im allerletzten Vers?",
+      "text": "Wovor warnt Johannes die Kindlein in 1. Johannes 5:21?",
       "options": [
         {
-          "text": "Hütet euch vor der Verfolgung der Römer",
-          "explanation": "Das trifft nicht zu. Richtig ist: Hütet euch vor den Götzen [ref:1. Johannes 5:21]."
+          "text": "Hütet euch vor der Verfolgung",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Hütet euch vor den Götzen",
-          "explanation": "Kindlein, hütet euch vor den Götzen! [ref:1. Johannes 5:21]."
+          "text": "Hütet euch vor den Götzen hier",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Hütet euch vor dem Verlust des Geldes",
-          "explanation": "Das trifft nicht zu. Richtig ist: Hütet euch vor den Götzen [ref:1. Johannes 5:21]."
+          "text": "Hütet euch vor dem Verlust von Gut",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Hütet euch vor fremden Büchern",
-          "explanation": "Das trifft nicht zu. Richtig ist: Hütet euch vor den Götzen [ref:1. Johannes 5:21]."
+          "text": "Hütet euch vor fremden Lehrern da",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "1. Johannes 5:21",
-      "explanation": "Kindlein, hütet euch vor den Götzen! [ref:1. Johannes 5:21].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     }

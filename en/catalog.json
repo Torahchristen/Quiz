@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-11-06T12:34:19Z",
+  "lastUpdated": "2026-11-06T12:36:46Z",
   "language": "en",
   "categories": [
     {
@@ -1292,6 +1292,29 @@
       ],
       "sizeBytes": 14559,
       "downloadUrl": "./en/61_2_petrus.json"
+    },
+    {
+      "quizId": "nt_23_1johannes_alle_kapitel_en",
+      "category": "nt",
+      "title": "1 John",
+      "subtitle": "1 John 1:1 – 5:21 (25 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 25,
+      "difficulty": "medium",
+      "tags": [
+        "1 John",
+        "New Testament",
+        "General Epistles",
+        "Light",
+        "Love",
+        "Fellowship",
+        "Commandments",
+        "King James Version"
+      ],
+      "sizeBytes": 23766,
+      "downloadUrl": "./en/62_1_johannes.json"
     }
   ]
 }
