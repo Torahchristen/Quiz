@@ -68,7 +68,8 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
 | `60_1_petrus.json` | 25 | 25 | 25 | 25 | 2 |
 | `61_2_petrus.json` | 15 | 15 | 15 | 15 | 3 |
 | `62_1_johannes.json` | 25 | 25 | 25 | 25 | 1 |
-| **Gesamt (62 Dateien)** | **4626** | **2142** | **1390** | **1972** | **119** |
+| `63_2_johannes.json` | 5 | 5 | 5 | 5 | 0 |
+| **Gesamt (63 Dateien)** | **4631** | **2147** | **1395** | **1977** | **119** |
 
 ## 01_1_mose.json – 1. Mose (Genesis) (Schlachter (Revision von 1951))
 
@@ -30982,3 +30983,88 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
   - **Option D (Falsch):**
     - **Vorher:** Hütet euch vor fremden Büchern
     - **Nachher:** Hütet euch vor fremden Lehrern da
+
+## 63_2_johannes.json – 2. Johannes (Schlachter (Revision von 1951))
+
+### `2joh_001` (2. Johannes 1:1)
+- **Frage Vorher:** Wie bezeichnet sich der Verfasser des Briefes und an wen richtet er seine Worte?
+- **Frage Nachher:** Wie lautet die Anrede des Schreibers in 2. Johannes 1:1?
+- **Richtige Antwort (unverändert, Option B):** Der Älteste an die auserwählte Herrin und ihre Kinder
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Der Apostel an die Gemeinde in Ephesus und ihre Ältesten
+    - **Nachher:** Der Apostel an die Gemeinde in Ephesus und ihre Hirten
+  - **Option C (Falsch):**
+    - **Vorher:** Der Knecht an alle Gläubigen in der Zerstreuung
+    - **Nachher:** Der Knecht an alle Gläubigen in der fernen Zerstreuung
+  - **Option D (Falsch):**
+    - **Vorher:** Der Bischof an die Heiligen des Landes und ihre Hirten
+    - **Nachher:** Der Vorsteher an die Heiligen im Lande und ihre Lehrer
+
+### `2joh_002` (2. Johannes 1:6)
+- **Frage Vorher:** Worin besteht die wahre Liebe nach den ausdrücklichen Worten des Schreibens?
+- **Frage Nachher:** Worin besteht die Liebe nach 2. Johannes 1:6?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Dass wir nach seinen Geboten wandeln
+    - **Nachher:** Dass wir nach seinen Geboten im Glauben wandeln
+  - **Option A (Falsch):**
+    - **Vorher:** Dass wir Gefühle haben und sie aufrichtig zeigen
+    - **Nachher:** Dass wir große Gaben und Almosen an Arme spenden
+  - **Option B (Falsch):**
+    - **Vorher:** Dass wir viel Gold spenden und den Armen geben
+    - **Nachher:** Dass wir alle Heiden meiden und uns fernhalten
+  - **Option D (Falsch):**
+    - **Vorher:** Dass wir Heiden meiden und uns von ihnen fernhalten
+    - **Nachher:** Dass wir bloße Worte und Gefühle herzlich zeigen
+
+### `2joh_003` (2. Johannes 1:7)
+- **Frage Vorher:** Wer wird in dem Schreiben ausdrücklich als der Verführer und Antichrist bezeichnet?
+- **Frage Nachher:** Wer ist nach 2. Johannes 1:7 der Irreführer und der Antichrist?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Wer nicht bekennt, dass Jesus Christus im Fleisch gekommen ist
+    - **Nachher:** Wer nicht bekennt, dass Jesus Christus ins Fleisch kam
+  - **Option A (Falsch):**
+    - **Vorher:** Wer das Gesetz Moses abschafft und die Gebote verwirft
+    - **Nachher:** Wer das alte Gesetz des Mose abschafft und völlig auflöst
+  - **Option B (Falsch):**
+    - **Vorher:** Wer keine Abgaben ans Heiligtum zahlt und den Tempel meidet
+    - **Nachher:** Wer keine Abgaben an die Priester im Heiligtum entrichtet
+  - **Option C (Falsch):**
+    - **Vorher:** Wer sich den Römern widersetzt und die Obrigkeit verachtet
+    - **Nachher:** Wer den weltlichen Richtern und der Obrigkeit widersteht
+
+### `2joh_004` (2. Johannes 1:10-11)
+- **Frage Vorher:** Wie soll die Gemeinde mit jemandem umgehen, der eine fremde Lehre bringt?
+- **Frage Nachher:** Was gilt, wenn jemand kommt und diese Lehre nicht bringt (2. Johannes 1:10)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Ihn nicht ins Haus nehmen und ihn nicht grüßen
+    - **Nachher:** Ihn nicht ins Haus aufnehmen und ihn auch nicht grüßen
+  - **Option B (Falsch):**
+    - **Vorher:** Ihn freundlich aufnehmen und pflegen, damit er sich bekehrt
+    - **Nachher:** Ihn freundlich aufnehmen und pflegen zur Bekehrung
+  - **Option C (Falsch):**
+    - **Vorher:** Ihn vor römischen Richtern verklagen, damit er bestraft wird
+    - **Nachher:** Ihn vor den weltlichen Richtern der Stadt anklagen
+  - **Option D (Falsch):**
+    - **Vorher:** Ihn in die Wüste ausstoßen, damit er nicht zurückkehrt
+    - **Nachher:** Ihn in die ferne Wüste treiben, damit er entflieht
+
+### `2joh_005` (2. Johannes 1:12)
+- **Frage Vorher:** Warum möchte der Verfasser die weiteren Dinge nicht mit Papier und Tinte schreiben?
+- **Frage Nachher:** Warum will der Verfasser nicht mit Papier und Tinte schreiben (2. Johannes 1:12)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Weil er hofft, zu euch zu kommen und mündlich mit euch zu reden
+    - **Nachher:** Weil er hofft, zu kommen und mündlich von Angesicht zu Angesicht zu reden
+  - **Option A (Falsch):**
+    - **Vorher:** Weil ihm Papier und Tinte ausgingen und er nicht weiterschreiben konnte
+    - **Nachher:** Weil ihm Papier und Tinte ausgegangen waren und er nichts mehr hatte
+  - **Option C (Falsch):**
+    - **Vorher:** Weil das römische Gesetz das Schreiben verbietet und er sich fürchtet
+    - **Nachher:** Weil die Gesetze der Herrscher jegliches Briefeschreiben verboten hatten
+  - **Option D (Falsch):**
+    - **Vorher:** Weil die Gemeinde keine Briefe mehr lesen will und ihn nicht anhört
+    - **Nachher:** Weil die Gemeinde keine Briefe mehr las und die Worte nicht mehr achtete
