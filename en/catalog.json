@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-11-06T12:01:52Z",
+  "lastUpdated": "2026-11-06T12:04:55Z",
   "language": "en",
   "categories": [
     {
@@ -1064,6 +1064,29 @@
       ],
       "sizeBytes": 19435,
       "downloadUrl": "./en/51_kolosser.json"
+    },
+    {
+      "quizId": "nt_13_1thessalonicher_alle_kapitel_en",
+      "category": "nt",
+      "title": "1 Thessalonians",
+      "subtitle": "1 Thessalonians 1:1 – 5:28 (25 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 25,
+      "difficulty": "medium",
+      "tags": [
+        "1 Thessalonians",
+        "New Testament",
+        "Pauline Epistles",
+        "Paul",
+        "Second Coming",
+        "Sanctification",
+        "Hope",
+        "King James Version"
+      ],
+      "sizeBytes": 24615,
+      "downloadUrl": "./en/52_1_thessalonicher.json"
     }
   ]
 }

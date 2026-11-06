@@ -1,0 +1,877 @@
+{
+  "metadata": {
+    "quizId": "nt_13_1thessalonicher_alle_kapitel_en",
+    "title": "1 Thessalonians",
+    "subtitle": "1 Thessalonians 1:1 – 5:28 (25 questions)",
+    "author": "King James Version (1769)",
+    "version": "2.3.0",
+    "language": "en",
+    "category": "nt",
+    "difficulty": "medium",
+    "tags": [
+      "1 Thessalonians",
+      "New Testament",
+      "Pauline Epistles",
+      "Paul",
+      "Second Coming",
+      "Sanctification",
+      "Hope",
+      "King James Version"
+    ],
+    "questionCount": 25,
+    "canonicalBookNumber": 52,
+    "testament": "NT"
+  },
+  "questions": [
+    {
+      "questionId": "1thess_001",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Who is named with Paul and Silvanus in 1 Thessalonians 1:1?",
+      "bibleReference": "1 Thessalonians 1:1",
+      "options": [
+        {
+          "text": "Luke from Antioch",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Timotheus, brother",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Barnabas of Cyprus",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Silas of Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1thess_002",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What three things does Paul remember in prayer in 1 Thessalonians 1:3?",
+      "bibleReference": "1 Thessalonians 1:3",
+      "options": [
+        {
+          "text": "Wisdom, earthly prosperity, and knowledge which brought worldly honour",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Fasting, prayers, and offerings which the assembly performed with zeal",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Your work of faith, and labour of love, and patience of hope in Christ",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Lowliness, meekness, and discipline which governed their conversation",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1thess_003",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "How did the gospel come unto the Thessalonians (1 Thessalonians 1:5)?",
+      "bibleReference": "1 Thessalonians 1:5",
+      "options": [
+        {
+          "text": "In word only by human wisdom, without power and assurance",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Through decrees of Rome which spread the faith in the land",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Through dreams of philosophers that were given unto people",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In power, and in the Holy Ghost, and in much assurance",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1thess_004",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What did the Thessalonians turn from upon conversion (1 Thessalonians 1:9)?",
+      "bibleReference": "1 Thessalonians 1:9-10",
+      "options": [
+        {
+          "text": "Turned to God from idols to serve the living and true God",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Departed into a far country and left their worldly wealth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Built an earthly temple and dedicated it unto the Lord God",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Distributed their silver and dwelt in poverty and fasting",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1thess_005",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Whom do believers wait for from heaven according to 1 Thessalonians 1:10?",
+      "bibleReference": "1 Thessalonians 1:10",
+      "options": [
+        {
+          "text": "For the restoring of the earthly kingdom of David in old Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For his Son from heaven, even Jesus, delivering from wrath to come",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "For the appearing of angels who shall judge the nations of earth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For an earthly emperor who should give outward peace to the flock",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1thess_006",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Where had Paul and his companions suffered before (1 Thessalonians 2:2)?",
+      "bibleReference": "1 Thessalonians 2:2",
+      "options": [
+        {
+          "text": "At Corinth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "At Ephesus",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "At Philippi",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "At Damascus",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1thess_007",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "How were the apostles among the Thessalonians (1 Thessalonians 2:7)?",
+      "bibleReference": "1 Thessalonians 2:7-8",
+      "options": [
+        {
+          "text": "With harsh authority, even as magistrates rule over subjects",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With cold reserve, lest they should give offence to the people",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With bitter complaint, because the labour was heavy and painful",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Gentle among you, even as a nurse cherisheth her own children",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1thess_008",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Why did the apostles labour night and day (1 Thessalonians 2:9)?",
+      "bibleReference": "1 Thessalonians 2:9",
+      "options": [
+        {
+          "text": "Not to be chargeable unto any of you",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Because the saints refused to give",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To lay up treasures of gold on earth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because preaching was forbidden by day",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1thess_009",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "How did the Thessalonians receive the preached word (1 Thessalonians 2:13)?",
+      "bibleReference": "1 Thessalonians 2:13",
+      "options": [
+        {
+          "text": "As wise philosophy of Greek eloquent orators",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Not as the word of men, but as the word of God",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "As a new civil statute of the Roman senate",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As poetic traditions of their ancient fathers",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1thess_010",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Who hindered Paul from coming unto them (1 Thessalonians 2:18)?",
+      "bibleReference": "1 Thessalonians 2:18",
+      "options": [
+        {
+          "text": "The Roman governor at Philippi",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A perilous tempest on the sea",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Satan hindered them from coming",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A want of silver for the journey",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1thess_011",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Where was Paul thought good to be left alone (1 Thessalonians 3:1)?",
+      "bibleReference": "1 Thessalonians 3:1-2",
+      "options": [
+        {
+          "text": "In the city of Rome",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "At Corinth by sea",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "At Jerusalem in bond",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "At Athens alone",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1thess_012",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "For what purpose was Timotheus sent (1 Thessalonians 3:2)?",
+      "bibleReference": "1 Thessalonians 3:2-3",
+      "options": [
+        {
+          "text": "To establish them, and comfort them in faith",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "To gather great sums of silver for Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To ordain new elders without apostle's advice",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To warn the church of the emperor's displeasure",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1thess_013",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What tidings did Timotheus bring according to 1 Thessalonians 3:6?",
+      "bibleReference": "1 Thessalonians 3:6",
+      "options": [
+        {
+          "text": "That civil rulers provided abundance of silver",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Good tidings of their living faith and charity",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "That all persecutors were driven from the city",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That the assembly had built a magnificent hall",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1thess_014",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What did Paul pray night and day in 1 Thessalonians 3:10?",
+      "bibleReference": "1 Thessalonians 3:10",
+      "options": [
+        {
+          "text": "To receive great earthly gifts of silver to support his journey",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That the emperor might bestow honours and offices upon the church",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To see their face, and perfect that which was lacking in faith",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "That they should be exempted from all tribulations in the world",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1thess_015",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "In what does the Lord make believers abound (1 Thessalonians 3:12)?",
+      "bibleReference": "1 Thessalonians 3:12",
+      "options": [
+        {
+          "text": "Abundance of earthly possessions",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Fear before the rulers of nations",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Striving after human dignities",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Love one toward another and to all",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1thess_016",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What is the will of God in 1 Thessalonians 4:3?",
+      "bibleReference": "1 Thessalonians 4:3",
+      "options": [
+        {
+          "text": "Your sanctification, to abstain from fornication",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "To withdraw completely from the company of all men",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To keep all carnal ordinances of the earthly temple",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To bring daily sacrifices and observe strict fastings",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1thess_017",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "Who taught believers brotherly love according to 1 Thessalonians 4:9?",
+      "bibleReference": "1 Thessalonians 4:9",
+      "options": [
+        {
+          "text": "Heathen philosophers in schools of worldly wisdom",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Ye yourselves are taught of God to love one another",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Roman civil statutes concerning peace and concord",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Ancient writings of the scribes concerning priests",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1thess_018",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What study does Paul commend concerning labour (1 Thessalonians 4:11)?",
+      "bibleReference": "1 Thessalonians 4:11-12",
+      "options": [
+        {
+          "text": "To live on charity and neglect manual work that one may pray continually",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To flee into solitude and forsake every fellowship with earthly society",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Study to be quiet, do your own business, and work with your own hands",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "To seek political offices in the city that one may govern over citizens",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1thess_019",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What happens when the Lord descends with the trump (1 Thessalonians 4:16)?",
+      "bibleReference": "1 Thessalonians 4:16",
+      "options": [
+        {
+          "text": "Earthly empires shall be broken down and their cities laid in ruin",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A visible kingdom shall appear on earth and saints be made judges",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Angels shall immediately banish all wicked men unto outer darkness",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The Lord himself descend from heaven, and dead in Christ rise first",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1thess_020",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Whither shall the living be caught up (1 Thessalonians 4:17)?",
+      "bibleReference": "1 Thessalonians 4:17",
+      "options": [
+        {
+          "text": "In the clouds, to meet the Lord in the air",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Unto the holy earthly temple at Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto mount Sinai to hear the law of God",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Into secret dens to escape coming wrath",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1thess_021",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "How cometh the day of the Lord according to 1 Thessalonians 5:2?",
+      "bibleReference": "1 Thessalonians 5:2-3",
+      "options": [
+        {
+          "text": "With roaring thunder",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As a thief in the night",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "With long signs before",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "At bright noon of day",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1thess_022",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What are all believers according to 1 Thessalonians 5:5?",
+      "bibleReference": "1 Thessalonians 5:5",
+      "options": [
+        {
+          "text": "Servants of the carnal letter and the law",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Princes of this world and earthly judges",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "All the children of light, and of the day",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Children of bitter fear and of the night",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1thess_023",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What armour should believers put on (1 Thessalonians 5:8)?",
+      "bibleReference": "1 Thessalonians 5:8",
+      "options": [
+        {
+          "text": "The helmet of worldly learning and a shield of silver against every foe",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The iron armour of statutes and sandals of fierce wrath against sinners",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The carnal sword of the magistrate and a purple garment of worldly fame",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The breastplate of faith and love; and for an helmet, hope of salvation",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1thess_024",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What exhortation is given in 1 Thessalonians 5:19-21?",
+      "bibleReference": "1 Thessalonians 5:19-22",
+      "options": [
+        {
+          "text": "Quench not the Spirit, despise not prophesyings, prove all things, hold fast good",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Forbid all prophesying, quench the Spirit, and adhere solely to the law of Moses",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Believe every dream without proving and follow every prophet without discerning",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Permit the Spirit only in the temple and allow prophesying unto priests alone",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1thess_025",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What three parts of man are mentioned in 1 Thessalonians 5:23?",
+      "bibleReference": "1 Thessalonians 5:23",
+      "options": [
+        {
+          "text": "The head, the hands, and feet",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The spirit, and soul and body",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The mind, the will and feeling",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The works, the word and deeds",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    }
+  ]
+}

@@ -57,7 +57,8 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
 | `49_epheser.json` | 31 | 31 | 28 | 31 | 0 |
 | `50_philipper.json` | 20 | 20 | 20 | 20 | 0 |
 | `51_kolosser.json` | 20 | 20 | 20 | 20 | 0 |
-| **Gesamt (51 Dateien)** | **4360** | **1877** | **1127** | **1711** | **105** |
+| `52_1_thessalonicher.json` | 25 | 25 | 25 | 24 | 0 |
+| **Gesamt (52 Dateien)** | **4385** | **1902** | **1152** | **1735** | **105** |
 
 ## 01_1_mose.json – 1. Mose (Genesis) (Schlachter (Revision von 1951))
 
@@ -26674,3 +26675,400 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
   - **Option D (Falsch):**
     - **Vorher:** Werde Bischof der Gemeinde und leite sie nach meinem Rat und meinem Willen
     - **Nachher:** Werde oberster Bischof der Stadt Kolossä und regiere nach eigenem Belieben
+
+## 52_1_thessalonicher.json – 1. Thessalonicher (Schlachter (Revision von 1951))
+
+### `1thess_001` (1. Thessalonicher 1:1)
+- **Frage Vorher:** Wer wird neben Paulus und Silvanus als Mitabsender des Briefes genannt?
+- **Frage Nachher:** Wer wird neben Paulus und Silvanus als Mitabsender genannt (1. Thessalonicher 1:1)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Timotheus
+    - **Nachher:** Timotheus, der Bruder
+  - **Option C (Falsch):**
+    - **Vorher:** Barnabas aus Jerusalem
+    - **Nachher:** Barnabas aus Zypern
+  - **Option D (Falsch):**
+    - **Vorher:** Silas
+    - **Nachher:** Silas aus Jerusalem
+
+### `1thess_002` (1. Thessalonicher 1:3)
+- **Frage Vorher:** Welche drei geistlichen Tugenden rühmt Paulus im Gebet für die Gemeinde?
+- **Frage Nachher:** Welche drei Dinge rühmt Paulus im Gebet für die Gemeinde (1. Thessalonicher 1:3)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Das Werk des Glaubens, die Arbeit der Liebe und die Geduld der Hoffnung
+    - **Nachher:** Das Werk des Glaubens, die Liebesarbeit und das Beharren in der Hoffnung
+  - **Option A (Falsch):**
+    - **Vorher:** Weisheit, Wohlstand und Klugheit, die der Gemeinde Ansehen verschafft haben
+    - **Nachher:** Weisheit, Wohlstand und Klugheit, die der Gemeinde hohes Ansehen brachten
+  - **Option B (Falsch):**
+    - **Vorher:** Fasten, Gebet und Opfer, die die Gemeinde mit Eifer geübt hat
+    - **Nachher:** Fasten, Gebet und Opfergaben, die die Gläubigen mit großem Eifer taten
+  - **Option D (Falsch):**
+    - **Vorher:** Demut, Sanftmut und Zucht, die ihren Wandel unter den Heiden prägten
+    - **Nachher:** Demut, Sanftmut und Zucht, die ihren Wandel unter den Völkern auszeichneten
+
+### `1thess_003` (1. Thessalonicher 1:5)
+- **Frage Vorher:** Wie kam das Evangelium nach den Worten des Paulus zu den Thessalonichern?
+- **Frage Nachher:** Wie kam das Evangelium nach 1. Thessalonicher 1:5 zu den Gläubigen?
+
+### `1thess_004` (1. Thessalonicher 1:9)
+- **Frage Vorher:** Welchen radikalen Schritt vollzogen die Thessalonicher bei ihrer Bekehrung?
+- **Frage Nachher:** Welchen Schritt vollzogen die Thessalonicher bei ihrer Bekehrung (1:9)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Sie bekehrten sich von den Götzen zu Gott, dem lebendigen und wahren
+    - **Nachher:** Sie bekehrten sich von den Götzen zu dem lebendigen und wahren Gott
+  - **Option B (Falsch):**
+    - **Vorher:** Sie wanderten in ein fremdes Land aus und ließen ihre Häuser zurück
+    - **Nachher:** Sie wanderten in ein fernes Land aus und verließen ihre Besitztümer
+  - **Option C (Falsch):**
+    - **Vorher:** Sie bauten einen neuen Tempel und weihten ihn dem wahren Gott
+    - **Nachher:** Sie bauten einen prachtvollen Tempel und weihten ihn dem Herrn ein
+  - **Option D (Falsch):**
+    - **Vorher:** Sie gaben ihr Gold den Armen und lebten fortan in Armut
+    - **Nachher:** Sie verteilten ihr gesamtes Gold und lebten fortan in stiller Armut
+
+### `1thess_005` (1. Thessalonicher 1:10)
+- **Frage Vorher:** Auf wen warten die Bekehrten voller Hoffnung aus den Himmeln herab?
+- **Frage Nachher:** Auf wen warten die Gläubigen nach 1. Thessalonicher 1:10 aus dem Himmel?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Auf seinen Sohn Jesus aus dem Himmel, der uns von dem zukünftigen Zorn errettet
+    - **Nachher:** Auf seinen Sohn vom Himmel, der uns vor dem zukünftigen Zorn errettet
+  - **Option A (Falsch):**
+    - **Vorher:** Auf einen neuen König Israels, der das Reich aufrichtet und Frieden bringt
+    - **Nachher:** Auf die Wiederherstellung des irdischen Reiches der Könige in Zion
+  - **Option C (Falsch):**
+    - **Vorher:** Auf den Wiederaufbau des Tempels, der das Volk Gottes aus allen Ländern sammelt
+    - **Nachher:** Auf das Erscheinen der Engel, die über alle Völker der Erde richten
+  - **Option D (Falsch):**
+    - **Vorher:** Auf die Befreiung von aller Not und Bedrängnis, die die Gläubigen drückt
+    - **Nachher:** Auf einen neuen römischen Kaiser, der den Christen Frieden bringt
+
+### `1thess_006` (1. Thessalonicher 2:2)
+- **Frage Vorher:** Wo hatten Paulus und seine Begleiter zuvor gelitten, ehe sie nach Thessalonich kamen?
+- **Frage Nachher:** Wo hatten Paulus und seine Begleiter zuvor gelitten (1. Thessalonicher 2:2)?
+- **Richtige Antwort (unverändert, Option C):** In Philippi
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Falsch):**
+    - **Vorher:** Auf Kreta
+    - **Nachher:** In Damaskus
+
+### `1thess_007` (1. Thessalonicher 2:7-8)
+- **Frage Vorher:** Wie begegneten die Verkündiger den Thessalonichern im täglichen Dienst?
+- **Frage Nachher:** Wie benahmen sich die Apostel nach 1. Thessalonicher 2:7 in der Gemeinde?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Liebevoll, wie eine Amme ihre eigenen Kinder pflegt
+    - **Nachher:** Liebevoll, wie eine stillende Mutter ihre eigenen Kinder pflegt
+  - **Option A (Falsch):**
+    - **Vorher:** Mit harter Strenge wie Richter, die über Schuld und Unschuld urteilen
+    - **Nachher:** Mit herrschender Strenge, wie Fürsten über Untertanen gebieten
+  - **Option B (Falsch):**
+    - **Vorher:** Mit der Sucht nach Ehre wie Herrscher, die sich feiern lassen
+    - **Nachher:** Mit kalter Zurückhaltung, um keinen Anstoß im Volk zu erregen
+  - **Option C (Falsch):**
+    - **Vorher:** Mit der Forderung nach Geld wie Händler, die ihren Lohn verlangen
+    - **Nachher:** Mit lauter Klage, weil der Dienst so viel Mühe und Schmerz trug
+
+### `1thess_008` (1. Thessalonicher 2:9)
+- **Frage Vorher:** Warum arbeiteten Paulus und seine Begleiter Nacht und Tag mit ihren Händen?
+- **Frage Nachher:** Warum arbeiteten die Apostel Tag und Nacht (1. Thessalonicher 2:9)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Um niemandem zur Last zu fallen
+    - **Nachher:** Um niemandem von euch zur Last zu fallen
+  - **Option B (Falsch):**
+    - **Vorher:** Um reich zu werden
+    - **Nachher:** Weil die Gemeinde keine Gaben geben wollte
+  - **Option C (Falsch):**
+    - **Vorher:** Weil das Gesetz Moses es befahl
+    - **Nachher:** Um reiche Schätze auf dieser Erde zu häufen
+  - **Option D (Falsch):**
+    - **Vorher:** Weil die Bürger sie dazu zwangen
+    - **Nachher:** Weil ihnen das Predigen am Tage verboten war
+
+### `1thess_009` (1. Thessalonicher 2:13)
+- **Frage Vorher:** Als was empfingen die Thessalonicher das von Paulus verkündigte Wort?
+- **Frage Nachher:** Als was nahmen die Thessalonicher das Wort auf (1. Thessalonicher 2:13)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Als Gottes Wort, wie es in Wahrheit ist
+    - **Nachher:** Nicht als Menschenwort, sondern als Gottes Wort
+  - **Option A (Falsch):**
+    - **Vorher:** Als kluge Philosophie der Weisen
+    - **Nachher:** Als weise Philosophie der griechischen Redner
+  - **Option C (Falsch):**
+    - **Vorher:** Als ein neues römisches Gesetz
+    - **Nachher:** Als ein neues bürgerliches Gesetz der Römer
+  - **Option D (Falsch):**
+    - **Vorher:** Als ein Gedicht der Dichter
+    - **Nachher:** Als menschliche Dichtung der alten Vorfahren
+
+### `1thess_010` (1. Thessalonicher 2:18)
+- **Frage Vorher:** Wer verhinderte nach den Worten des Paulus seine beabsichtigte Rückreise zu ihnen?
+- **Frage Nachher:** Wer verhinderte die Reise des Paulus nach 1. Thessalonicher 2:18?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Der Satan hat uns verhindert
+    - **Nachher:** Der Satan hat sie gehindert
+  - **Option A (Falsch):**
+    - **Vorher:** Der Statthalter der Provinz
+    - **Nachher:** Der römische Statthalter
+  - **Option B (Falsch):**
+    - **Vorher:** Die Hohenpriester im Tempel
+    - **Nachher:** Ein schwerer Seesturm
+  - **Option D (Falsch):**
+    - **Vorher:** Ein starker Sturm auf dem Meer
+    - **Nachher:** Ein Mangel an Reisekosten
+
+### `1thess_011` (1. Thessalonicher 3:1-2)
+- **Frage Vorher:** Wo blieb Paulus allein zurück, als er Timotheus nach Thessalonich sandte?
+- **Frage Nachher:** Wo blieb Paulus allein zurück nach 1. Thessalonicher 3:1?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** In Athen
+    - **Nachher:** Allein in Athen
+  - **Option A (Falsch):**
+    - **Vorher:** In Rom
+    - **Nachher:** In der Stadt Rom
+  - **Option B (Falsch):**
+    - **Vorher:** In Korinth
+    - **Nachher:** In Korinth am Meer
+  - **Option C (Falsch):**
+    - **Vorher:** In Jerusalem
+    - **Nachher:** In Jerusalem in Not
+
+### `1thess_012` (1. Thessalonicher 3:2-3)
+- **Frage Vorher:** Zu welchem Zweck wurde Timotheus zu der bedrängten Gemeinde gesandt?
+- **Frage Nachher:** Wozu wurde Timotheus gesandt nach 1. Thessalonicher 3:2?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Um sie im Glauben zu stärken und zu ermutigen
+    - **Nachher:** Um sie zu stärken und zu ermahnen wegen ihres Glaubens
+  - **Option B (Falsch):**
+    - **Vorher:** Um Geld für die Armen zu sammeln und nach Jerusalem zu senden
+    - **Nachher:** Um eine große Geldsammlung für Jerusalem aufzunehmen
+  - **Option C (Falsch):**
+    - **Vorher:** Um die Ältesten abzusetzen und neue Leiter einzusetzen
+    - **Nachher:** Um neue Älteste gegen den Rat der Apostel einzusetzen
+  - **Option D (Falsch):**
+    - **Vorher:** Um neue Gesetze vorzulesen und die Gemeinde zu ordnen
+    - **Nachher:** Um die Gemeinde vor dem Zorn des Kaisers zu warnen
+
+### `1thess_013` (1. Thessalonicher 3:6-7)
+- **Frage Vorher:** Welche frohe Botschaft brachte Timotheus von seinem Besuch bei der Gemeinde mit?
+- **Frage Nachher:** Welche Nachricht brachte Timotheus nach 1. Thessalonicher 3:6 mit?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Gute Nachricht von ihrem Glauben und ihrer Liebe
+    - **Nachher:** Die gute Nachricht von ihrem Glauben und ihrer Liebe
+  - **Option A (Falsch):**
+    - **Vorher:** Bericht von ihrem großen Reichtum und der Fülle ihrer Gaben
+    - **Nachher:** Dass die Behörden die Gemeinde reichlich unterstützt haben
+  - **Option C (Falsch):**
+    - **Vorher:** Kunde von der Flucht vor den Römern und dem Verlust der Häuser
+    - **Nachher:** Dass alle Verfolger beschämt aus der Stadt flohen
+  - **Option D (Falsch):**
+    - **Vorher:** Zusage zum Bau eines Hauses für die Gemeinde in der Stadt
+    - **Nachher:** Dass die Gemeinde ein großes irdisches Haus gebaut hatte
+
+### `1thess_014` (1. Thessalonicher 3:10)
+- **Frage Vorher:** Worum betet Paulus Tag und Nacht mit großer Sehnsucht für die Thessalonicher?
+- **Frage Nachher:** Worum fleht Paulus Tag und Nacht nach 1. Thessalonicher 3:10?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Ihr Angesicht zu sehen und zu ergänzen, was an ihrem Glauben fehlt
+    - **Nachher:** Ihr Angesicht zu sehen und die Mängel des Glaubens zu ergänzen
+  - **Option A (Falsch):**
+    - **Vorher:** Dass sie reich werden und es ihnen an nichts fehlt im Leben
+    - **Nachher:** Reiche Schätze von ihnen zur Unterstützung des Dienstes zu empfangen
+  - **Option B (Falsch):**
+    - **Vorher:** Dass sie der Mühsal entfliehen und bald in den Himmel eingehen
+    - **Nachher:** Dass der Kaiser ihnen hohe Ehrenämter in der Stadt zuerkennen möge
+  - **Option D (Falsch):**
+    - **Vorher:** Dass der Kaiser sie schützt und ihnen Frieden im Reich gewährt
+    - **Nachher:** Dass sie von allen Anfechtungen dieser Weltzeit befreit werden
+
+### `1thess_015` (1. Thessalonicher 3:12-13)
+- **Frage Vorher:** Was soll der Herr in den Herzen der Glaubenden vor Seiner Wiederkunft mehren?
+- **Frage Nachher:** Worin soll der Herr die Gläubigen überströmend machen (1. Thessalonicher 3:12)?
+- **Richtige Antwort (unverändert, Option D):** Die Liebe zueinander und zu allen
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Die Zahl der Häuser
+    - **Nachher:** Den irdischen Reichtum an Gütern
+  - **Option B (Falsch):**
+    - **Vorher:** Das Wissen der Philosophie
+    - **Nachher:** Die Furcht vor menschlicher Macht
+  - **Option C (Falsch):**
+    - **Vorher:** Die Macht über die Völker
+    - **Nachher:** Das Streben nach weltlicher Ehre
+
+### `1thess_016` (1. Thessalonicher 4:3)
+- **Frage Vorher:** Was bezeichnet Paulus ausdrücklich als den klaren Willen Gottes für die Glaubenden?
+- **Frage Nachher:** Was ist der Wille Gottes für Gläubige nach 1. Thessalonicher 4:3?
+- **Richtige Antwort (unverändert, Option A):** Eure Heiligung, dass ihr euch der Unzucht enthaltet
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Der Erwerb von großem Wohlstand und die Mehrung des Besitzes
+    - **Nachher:** Dass ihr euch von allen Menschen der Welt abwendet
+  - **Option C (Falsch):**
+    - **Vorher:** Die Teilnahme an römischen Festen und die Pflege der Staatsreligion
+    - **Nachher:** Dass ihr alle alten Satzungen des Tempels bewahrt
+  - **Option D (Falsch):**
+    - **Vorher:** Das Auswandern in ein einsames Land und der Rückzug aus der Welt
+    - **Nachher:** Dass ihr täglich opfert und strenge Buße leistet
+
+### `1thess_017` (1. Thessalonicher 4:9)
+- **Frage Vorher:** Wer hat die Glaubenden gelehrt, einander von Herzen zu lieben?
+- **Frage Nachher:** Wer hat die Gläubigen zur Bruderliebe gelehrt (1. Thessalonicher 4:9)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Gott selbst hat sie gelehrt, einander zu lieben
+    - **Nachher:** Gott selbst hat sie gelehrt, einander treu zu lieben
+  - **Option A (Falsch):**
+    - **Vorher:** Die Weisen der Schulen haben sie gelehrt, einander zu achten
+    - **Nachher:** Die heidnischen Philosophen in den Schulen der Weisen
+  - **Option C (Falsch):**
+    - **Vorher:** Die römischen Richter haben sie gelehrt, einander gerecht zu sein
+    - **Nachher:** Die römischen Gesetze über Bürgersinn und Eintracht
+  - **Option D (Falsch):**
+    - **Vorher:** Die Philosophen Athens haben sie gelehrt, einander zu schätzen
+    - **Nachher:** Die alten Schriften der Propheten über das Heiligtum
+
+### `1thess_018` (1. Thessalonicher 4:11-12)
+- **Frage Vorher:** Welchen Lebenswandel empfiehlt Paulus den Gläubigen bezüglich der eigenen Arbeit?
+- **Frage Nachher:** Welchen Lebenswandel empfiehlt Paulus in 1. Thessalonicher 4:11?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Ein ruhiges Leben führen, das Eigene besorgen und mit den eigenen Händen arbeiten
+    - **Nachher:** Ein ruhiges Leben führen, das Eigene besorgen und mit den Händen arbeiten
+  - **Option A (Falsch):**
+    - **Vorher:** Alle Arbeit niederlegen und müßig warten, bis der Herr kommt und alles ordnet
+    - **Nachher:** Von Almosen leben und die Arbeit anderen überlassen, um viel zu beten
+  - **Option B (Falsch):**
+    - **Vorher:** Nur noch im Heiligtum beten und dort den ganzen Tag und die Nacht verbringen
+    - **Nachher:** In die Wüste fliehen und auf jede Gemeinschaft mit Menschen verzichten
+  - **Option D (Falsch):**
+    - **Vorher:** Fremdes Gut suchen und von der Arbeit anderer leben, ohne selbst Hand anzulegen
+    - **Nachher:** Sich in weltliche Ämter drängen, um Einfluss über die Bürger zu gewinnen
+
+### `1thess_019` (1. Thessalonicher 4:16)
+- **Frage Vorher:** Was geschieht beim Befehlsruf und beim Schall der Posaune Gottes vom Himmel herab?
+- **Frage Nachher:** Was geschieht beim Befehl und Schall der Posaune Gottes (1. Thessalonicher 4:16)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Der Herr kommt selbst vom Himmel herab, und die Toten in Christus werden zuerst auferstehen
+    - **Nachher:** Der Herr kommt vom Himmel herab, und die Toten in Christus erstehen zuerst
+  - **Option A (Falsch):**
+    - **Vorher:** Alle Menschen sterben auf einmal, und die Erde bleibt danach leer und öde zurück
+    - **Nachher:** Die irdischen Reiche werden vernichtet und alle Städte in Schutt gelegt
+  - **Option B (Falsch):**
+    - **Vorher:** Die Erde verbrennt sogleich, und die Gläubigen werden in den Himmel entrückt und geborgen
+    - **Nachher:** Ein neues Weltreich wird aufgerichtet und die Heiligen werden Könige
+  - **Option C (Falsch):**
+    - **Vorher:** Ein neuer Tempel kommt vom Himmel herab, und die Toten in Israel stehen alle auf
+    - **Nachher:** Die Engel richten sofort alle Sünder und verbannen sie für alle Zeit
+
+### `1thess_020` (1. Thessalonicher 4:17)
+- **Frage Vorher:** Wohin werden die lebenden und auferweckten Gläubigen dem Herrn entgegen gerissen?
+- **Frage Nachher:** Wohin werden die Gläubigen entrückt nach 1. Thessalonicher 4:17?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** In Wolken, dem Herrn entgegen in die Luft
+    - **Nachher:** In Wolken, zur Begegnung mit dem Herrn in die Luft
+  - **Option B (Falsch):**
+    - **Vorher:** Auf den Berg Sinai, wo einst das Gesetz gegeben wurde
+    - **Nachher:** In den Tempel zu Jerusalem vor den Thron Gottes
+  - **Option C (Falsch):**
+    - **Vorher:** Nach Jerusalem, wo der Herr seinen Thron aufrichtet
+    - **Nachher:** Auf den Berg Sinai, um das Gesetz neu zu hören
+  - **Option D (Falsch):**
+    - **Vorher:** Auf die Inseln im Meer, wo sie vor dem Gericht sicher sind
+    - **Nachher:** In die Höhlen der Erde, um vor dem Zorn zu fliehen
+
+### `1thess_021` (1. Thessalonicher 5:2-3)
+- **Frage Vorher:** Wie überrascht der Tag des Herrn die unbewusste und schlafende Weltzeit?
+- **Frage Nachher:** Wie kommt der Tag des Herrn nach 1. Thessalonicher 5:2?
+- **Richtige Antwort (unverändert, Option B):** Wie ein Dieb in der Nacht
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Wie ein König mit großem Gefolge
+    - **Nachher:** Mit lautem Donnerhall
+  - **Option C (Falsch):**
+    - **Vorher:** Wie ein Regenguss im Sommer
+    - **Nachher:** Nach langer Vorwarnung
+  - **Option D (Falsch):**
+    - **Vorher:** Wie ein Läufer mit einer Botschaft
+    - **Nachher:** Am helllichten Mittag
+
+### `1thess_022` (1. Thessalonicher 5:5)
+- **Frage Vorher:** Welcher Kategorie gehören die Glaubenden im Gegensatz zu den Menschen der Nacht an?
+- **Frage Nachher:** Wer sind die Gläubigen nach 1. Thessalonicher 5:5?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Sie sind Kinder des Lichts und Kinder des Tages
+    - **Nachher:** Sie sind Söhne des Lichts und Söhne des Tages
+  - **Option A (Falsch):**
+    - **Vorher:** Sie sind Kinder des alten Gesetzes und Erben der Väter
+    - **Nachher:** Sie sind Diener des Buchstabens und des Gesetzes
+  - **Option B (Falsch):**
+    - **Vorher:** Sie sind Bürger der Stadt Rom und Untertanen des Kaisers
+    - **Nachher:** Sie sind Herrscher der Erde und Richter der Welt
+  - **Option D (Falsch):**
+    - **Vorher:** Sie sind Meister der Kunst und Lehrer der Weisheit
+    - **Nachher:** Sie sind Kinder der Furcht und Söhne der Nacht
+
+### `1thess_023` (1. Thessalonicher 5:8)
+- **Frage Vorher:** Welche geistlichen Rüstungsteile sollen die Nüchternen zum Schutz anlegen?
+- **Frage Nachher:** Welche Rüstung sollen die Nüchternen anlegen nach 1. Thessalonicher 5:8?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Den Panzer des Glaubens und der Liebe und als Helm die Hoffnung auf das Heil
+    - **Nachher:** Mit dem Panzer des Glaubens und der Liebe und dem Helm der Hoffnung der Rettung
+  - **Option A (Falsch):**
+    - **Vorher:** Den Helm der Weisheit und den Schild des Goldes vor den Feinden des Glaubens
+    - **Nachher:** Mit dem Helm menschlicher Klugheit und dem silbernen Schild gegen alle Feinde
+  - **Option B (Falsch):**
+    - **Vorher:** Den Gürtel des Gesetzes und die Schuhe des Zorns gegen alle Gegner des Glaubens
+    - **Nachher:** Mit dem eisernen Panzer des Gesetzes und den festen Schuhen des gerechten Zorns
+  - **Option C (Falsch):**
+    - **Vorher:** Das Schwert des Staates und den Mantel des Ruhmes vor allen Menschen
+    - **Nachher:** Mit dem weltlichen Schwert des Staates und dem prachtvollen Mantel des Ruhmes
+
+### `1thess_024` (1. Thessalonicher 5:19-22)
+- **Frage Vorher:** Welche Ermahnung gibt Paulus bezüglich des Heiligen Geistes und der Weissagung?
+- **Frage Nachher:** Welche Ermahnung gibt Paulus in 1. Thessalonicher 5:19-21?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Den Geist nicht auslöschen, Weissagungen nicht verachten, alles prüfen und das Gute behalten
+    - **Nachher:** Den Geist nicht dämpfen, Weissagungen nicht verachten, alles prüfen und das Gute behalten
+  - **Option B (Falsch):**
+    - **Vorher:** Weissagungen ganz verbieten, den Geist dämpfen und nur das Gesetz Moses bewahren
+    - **Nachher:** Weissagungen ganz verbieten, den Geist dämpfen und allein das mosaische Gesetz bewahren
+  - **Option C (Falsch):**
+    - **Vorher:** Alle Träume ungeprüft annehmen und jedem Wort der Propheten blind folgen und glauben
+    - **Nachher:** Jeder Weissagung blindlings folgen und ohne alle Prüfung allen Träumen Glauben schenken
+  - **Option D (Falsch):**
+    - **Vorher:** Den Geist nur im Heiligtum zulassen und die Weissagung auf die Priester beschränken
+    - **Nachher:** Den Geist nur im Tempel zulassen und Weissagung allein den geweihten Priestern erlauben
+
+### `1thess_025` (1. Thessalonicher 5:23)
+- **Frage Vorher:** Welche drei Teile des Menschen sollen bei der Ankunft Jesu untadelig bewahrt werden?
+- **Frage Nachher:** Welche drei Teile des Wesens nennt Paulus in 1. Thessalonicher 5:23?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Geist, Seele und Leib
+    - **Nachher:** Der Geist, die Seele und der Leib
+  - **Option A (Falsch):**
+    - **Vorher:** Kopf, Hände und Füße
+    - **Nachher:** Die Hände, die Füße und das Haupt
+  - **Option C (Falsch):**
+    - **Vorher:** Verstand, Wille und Gefühl
+    - **Nachher:** Das Wollen, das Fühlen und Denken
+  - **Option D (Falsch):**
+    - **Vorher:** Glaube, Werke und Worte
+    - **Nachher:** Die Werke, der Glaube und die Tat
