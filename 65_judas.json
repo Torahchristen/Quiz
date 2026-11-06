@@ -24,150 +24,170 @@
     {
       "questionId": "jud_001",
       "type": "single_choice",
-      "text": "Wie stellt sich der Verfasser Judas im Eingangsgruß seines Briefes hinsichtlich seiner Verwandtschaft vor?",
+      "text": "Wie bezeichnet sich Judas im Eingangsgruß seines Briefes in Judas 1:1?",
       "options": [
         {
           "text": "Als Sohn des Patriarchen Jakob und Knecht Gottes",
-          "explanation": "Das trifft nicht zu. Richtig ist: Als ein Knecht Jesu Christi und Bruder des Jakobus [ref:Judas 1:1]."
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Als ein Knecht Jesu Christi und Bruder des Jakobus",
-          "explanation": "Judas, ein Knecht Jesu Christi, ein Bruder aber des Jakobus, an die Berufenen [ref:Judas 1:1]."
+          "text": "Als Knecht Jesu Christi und Bruder des Jakobus",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Als Verwandter des Petrus und Knecht Jesu Christi",
-          "explanation": "Das trifft nicht zu. Richtig ist: Als ein Knecht Jesu Christi und Bruder des Jakobus [ref:Judas 1:1]."
+          "text": "Als ein Verwandter des Petrus und Knecht Christi",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Als Bruder des Johannes und Apostel Jesu Christi",
-          "explanation": "Das trifft nicht zu. Richtig ist: Als ein Knecht Jesu Christi und Bruder des Jakobus [ref:Judas 1:1]."
+          "text": "Als der Bruder des Johannes und Apostel Christi",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Judas 1:1",
-      "explanation": "Judas, ein Knecht Jesu Christi, ein Bruder aber des Jakobus, an die Berufenen [ref:Judas 1:1].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "jud_002",
       "type": "single_choice",
-      "text": "Wozu sah sich Judas gedrängt, die Glaubenden in seinem Schreiben eindringlich zu ermahnen?",
+      "text": "Wozu ermahnt Judas die Gläubigen in Judas 1:3?",
       "options": [
         {
-          "text": "Neue Versammlungsräume zu bauen und sie dem Herrn zu weihen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Für den einmal den Heiligen überlieferten Glauben zu kämpfen [ref:Judas 1:3]."
+          "text": "Dass sie neue Versammlungsstätten im Lande gründen",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Alle alttestamentlichen Feste abzuschaffen und neu zu ordnen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Für den einmal den Heiligen überlieferten Glauben zu kämpfen [ref:Judas 1:3]."
+          "text": "Dass sie die Satzungen des alten Bundes neu ordnen",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Für den einmal den Heiligen überlieferten Glauben zu kämpfen",
-          "explanation": "Ich musste euch ermahnen, dass ihr für den Glauben kämpft, der ein für alle Mal den Heiligen überliefert ist [ref:Judas 1:3]."
+          "text": "Dass sie für den den Heiligen übergebenen Glauben kämpfen",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Die Gefangenen zu befreien und den Armen beizustehen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Für den einmal den Heiligen überlieferten Glauben zu kämpfen [ref:Judas 1:3]."
+          "text": "Dass sie die Gefangenen mit irdischem Gelde auslösen",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Judas 1:3",
-      "explanation": "Ich musste euch ermahnen, dass ihr für den Glauben kämpft, der ein für alle Mal den Heiligen überliefert ist [ref:Judas 1:3].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "jud_003",
       "type": "single_choice",
-      "text": "Welcher Erzengel wagte es im Streit um den Leichnam Mose nicht, ein lästerndes Urteil zu fällen?",
+      "text": "Welcher Engel wagte nach Judas 1:9 kein lästerndes Urteil zu fällen?",
       "options": [
         {
           "text": "Der Erzengel Gabriel",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der Erzengel Michael [ref:Judas 1:9]."
+          "isCorrect": false,
+          "explanation": ""
         },
         {
           "text": "Der Erzengel Raphael",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der Erzengel Michael [ref:Judas 1:9]."
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Der Erzengel Uriel",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der Erzengel Michael [ref:Judas 1:9]."
+          "text": "Der Engel des Bundes",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
           "text": "Der Erzengel Michael",
-          "explanation": "Michael, der Erzengel, wagte, als er mit dem Teufel stritt und um den Leichnam Moses rechtete, kein lästerndes Urteil zu fällen, sondern sprach: Der Herr strafe dich! [ref:Judas 1:9]."
+          "isCorrect": true,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Judas 1:9",
-      "explanation": "Michael, der Erzengel, wagte, als er mit dem Teufel stritt und um den Leichnam Moses rechtete, kein lästerndes Urteil zu fällen, sondern sprach: Der Herr strafe dich! [ref:Judas 1:9].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "jud_004",
       "type": "single_choice",
-      "text": "Welche drei alttestamentlichen Gestalten werden als Warnung für den irrigen Weg der Gottlosen angeführt?",
+      "text": "Welche drei Namen nennt Judas in Judas 1:11 zur Warnung?",
       "options": [
         {
-          "text": "Kain, Bileam und Korach",
-          "explanation": "Weh ihnen! Denn sie sind den Weg Kains gegangen und sind dem Irrtum Bileams um Lohn verfallen und in dem Widerspruch Korachs umgekommen [ref:Judas 1:11]."
+          "text": "Kain, Bileam und Korah",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Esau, Pharao und Nebukadnezar",
-          "explanation": "Das trifft nicht zu. Richtig ist: Kain, Bileam und Korach [ref:Judas 1:11]."
-        },
-        {
-          "text": "Nimrod, Goliat und Balak",
-          "explanation": "Das trifft nicht zu. Richtig ist: Kain, Bileam und Korach [ref:Judas 1:11]."
+          "text": "Esau, Pharao und Balak",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
           "text": "Datan, Abiram und Haman",
-          "explanation": "Das trifft nicht zu. Richtig ist: Kain, Bileam und Korach [ref:Judas 1:11]."
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Saul, Doeg und Gehasi",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Judas 1:11",
-      "explanation": "Weh ihnen! Denn sie sind den Weg Kains gegangen und sind dem Irrtum Bileams um Lohn verfallen und in dem Widerspruch Korachs umgekommen [ref:Judas 1:11].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "jud_005",
       "type": "single_choice",
-      "text": "Welcher Stammvater nach Adam weissagte bereits vom künftigen Gericht des Herrn mit Seinen Heiligen?",
+      "text": "Wer weissagte nach Judas 1:14 vom Kommen des Herrn mit seinen Zehntausenden?",
       "options": [
         {
           "text": "Noah, der Gerechte vor der Flut",
-          "explanation": "Das trifft nicht zu. Richtig ist: Henoch, der siebente nach Adam [ref:Judas 1:14-15]."
+          "isCorrect": false,
+          "explanation": ""
         },
         {
           "text": "Henoch, der siebente nach Adam",
-          "explanation": "Es hat aber auch von diesen geweissagt Henoch, der siebente von Adam an: Siehe, der Herr kommt mit seinen vielen tausend Heiligen [ref:Judas 1:14-15]."
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Melchisedek, der König von Salem",
-          "explanation": "Das trifft nicht zu. Richtig ist: Henoch, der siebente nach Adam [ref:Judas 1:14-15]."
+          "text": "Melchisedek, der Priesterkönig",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Abraham, der Freund Gottes",
-          "explanation": "Das trifft nicht zu. Richtig ist: Henoch, der siebente nach Adam [ref:Judas 1:14-15]."
+          "text": "Abraham, der Freund des Herrn",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Judas 1:14-15",
-      "explanation": "Es hat aber auch von diesen geweissagt Henoch, der siebente von Adam an: Siehe, der Herr kommt mit seinen vielen tausend Heiligen [ref:Judas 1:14-15].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     }

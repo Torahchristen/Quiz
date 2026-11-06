@@ -70,7 +70,8 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
 | `62_1_johannes.json` | 25 | 25 | 25 | 25 | 1 |
 | `63_2_johannes.json` | 5 | 5 | 5 | 5 | 0 |
 | `64_3_johannes.json` | 5 | 5 | 5 | 5 | 0 |
-| **Gesamt (64 Dateien)** | **4636** | **2152** | **1400** | **1982** | **119** |
+| `65_judas.json` | 5 | 5 | 5 | 5 | 0 |
+| **Gesamt (65 Dateien)** | **4641** | **2157** | **1405** | **1987** | **119** |
 
 ## 01_1_mose.json – 1. Mose (Genesis) (Schlachter (Revision von 1951))
 
@@ -31156,3 +31157,74 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
   - **Option D (Falsch):**
     - **Vorher:** Weil der Bote absagte und den Brief nicht überbringen wollte
     - **Nachher:** Weil der Bote sich weigerte, die geschriebenen Rollen über das Meer zu tragen
+
+## 65_judas.json – Judas (Schlachter (Revision von 1951))
+
+### `jud_001` (Judas 1:1)
+- **Frage Vorher:** Wie stellt sich der Verfasser Judas im Eingangsgruß seines Briefes hinsichtlich seiner Verwandtschaft vor?
+- **Frage Nachher:** Wie bezeichnet sich Judas im Eingangsgruß seines Briefes in Judas 1:1?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Als ein Knecht Jesu Christi und Bruder des Jakobus
+    - **Nachher:** Als Knecht Jesu Christi und Bruder des Jakobus
+  - **Option C (Falsch):**
+    - **Vorher:** Als Verwandter des Petrus und Knecht Jesu Christi
+    - **Nachher:** Als ein Verwandter des Petrus und Knecht Christi
+  - **Option D (Falsch):**
+    - **Vorher:** Als Bruder des Johannes und Apostel Jesu Christi
+    - **Nachher:** Als der Bruder des Johannes und Apostel Christi
+
+### `jud_002` (Judas 1:3)
+- **Frage Vorher:** Wozu sah sich Judas gedrängt, die Glaubenden in seinem Schreiben eindringlich zu ermahnen?
+- **Frage Nachher:** Wozu ermahnt Judas die Gläubigen in Judas 1:3?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Für den einmal den Heiligen überlieferten Glauben zu kämpfen
+    - **Nachher:** Dass sie für den den Heiligen übergebenen Glauben kämpfen
+  - **Option A (Falsch):**
+    - **Vorher:** Neue Versammlungsräume zu bauen und sie dem Herrn zu weihen
+    - **Nachher:** Dass sie neue Versammlungsstätten im Lande gründen
+  - **Option B (Falsch):**
+    - **Vorher:** Alle alttestamentlichen Feste abzuschaffen und neu zu ordnen
+    - **Nachher:** Dass sie die Satzungen des alten Bundes neu ordnen
+  - **Option D (Falsch):**
+    - **Vorher:** Die Gefangenen zu befreien und den Armen beizustehen
+    - **Nachher:** Dass sie die Gefangenen mit irdischem Gelde auslösen
+
+### `jud_003` (Judas 1:9)
+- **Frage Vorher:** Welcher Erzengel wagte es im Streit um den Leichnam Mose nicht, ein lästerndes Urteil zu fällen?
+- **Frage Nachher:** Welcher Engel wagte nach Judas 1:9 kein lästerndes Urteil zu fällen?
+- **Richtige Antwort (unverändert, Option D):** Der Erzengel Michael
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Falsch):**
+    - **Vorher:** Der Erzengel Uriel
+    - **Nachher:** Der Engel des Bundes
+
+### `jud_004` (Judas 1:11)
+- **Frage Vorher:** Welche drei alttestamentlichen Gestalten werden als Warnung für den irrigen Weg der Gottlosen angeführt?
+- **Frage Nachher:** Welche drei Namen nennt Judas in Judas 1:11 zur Warnung?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Kain, Bileam und Korach
+    - **Nachher:** Kain, Bileam und Korah
+  - **Option B (Falsch):**
+    - **Vorher:** Esau, Pharao und Nebukadnezar
+    - **Nachher:** Esau, Pharao und Balak
+  - **Option C (Falsch):**
+    - **Vorher:** Nimrod, Goliat und Balak
+    - **Nachher:** Datan, Abiram und Haman
+  - **Option D (Falsch):**
+    - **Vorher:** Datan, Abiram und Haman
+    - **Nachher:** Saul, Doeg und Gehasi
+
+### `jud_005` (Judas 1:14-15)
+- **Frage Vorher:** Welcher Stammvater nach Adam weissagte bereits vom künftigen Gericht des Herrn mit Seinen Heiligen?
+- **Frage Nachher:** Wer weissagte nach Judas 1:14 vom Kommen des Herrn mit seinen Zehntausenden?
+- **Richtige Antwort (unverändert, Option B):** Henoch, der siebente nach Adam
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Falsch):**
+    - **Vorher:** Melchisedek, der König von Salem
+    - **Nachher:** Melchisedek, der Priesterkönig
+  - **Option D (Falsch):**
+    - **Vorher:** Abraham, der Freund Gottes
+    - **Nachher:** Abraham, der Freund des Herrn
