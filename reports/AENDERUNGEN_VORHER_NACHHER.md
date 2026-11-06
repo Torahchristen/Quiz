@@ -52,7 +52,8 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
 | `44_apostelgeschichte.json` | 145 | 26 | 0 | 19 | 8 |
 | `45_roemer.json` | 80 | 19 | 1 | 17 | 1 |
 | `46_1_korinther.json` | 80 | 19 | 0 | 19 | 1 |
-| **Gesamt (46 Dateien)** | **4193** | **1767** | **1030** | **1602** | **105** |
+| `47_2_korinther.json` | 65 | 8 | 0 | 8 | 0 |
+| **Gesamt (47 Dateien)** | **4258** | **1775** | **1030** | **1610** | **105** |
 
 ## 01_1_mose.json – 1. Mose (Genesis) (Schlachter (Revision von 1951))
 
@@ -24949,3 +24950,124 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
   - **Option C (Falsch):**
     - **Vorher:** Amen, Gott ist treu
     - **Nachher:** Amen, der Herr ist getreu
+
+## 47_2_korinther.json – 2. Korinther (Schlachter (Revision von 1951))
+
+### `2kor_002` (2. Korinther 1:3)
+- **Frage:** Als was bezeichnet Paulus Gott in den einleitenden Lobpreisungen des ersten Kapitels?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Vater der Barmherzigkeit und Gott allen Trostes
+    - **Nachher:** Vater des Mitleids und Gott allen Trostes
+
+### `2kor_005` (2. Korinther 1:23)
+- **Frage:** Warum verschob Paulus seinen geplanten Besuch bei den Korinthern im ersten Kapitel?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Um sie zu schonen
+    - **Nachher:** Um sie im Herrn gänzlich zu schonen
+  - **Option A (Falsch):**
+    - **Vorher:** Weil er kein Geld hatte
+    - **Nachher:** Aus Furcht vor Feinden in Korinth
+  - **Option C (Falsch):**
+    - **Vorher:** Weil ein Sturm das Schiff aufhielt
+    - **Nachher:** Weil ihm das Reisegeld dafür fehlte
+  - **Option D (Falsch):**
+    - **Vorher:** Weil seine Feinde ihn hinderten
+    - **Nachher:** Weil er lieber noch in Troas blieb
+
+### `2kor_015` (2. Korinther 3:17)
+- **Frage:** Was herrscht überall dort, wo der Geist des Herrn gegenwärtig wirksam ist?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Freiheit
+    - **Nachher:** Die göttliche Freiheit
+  - **Option A (Falsch):**
+    - **Vorher:** Strenge Zucht
+    - **Nachher:** Das geschriebene Gesetz
+  - **Option B (Falsch):**
+    - **Vorher:** Reichtum an Erdengut
+    - **Nachher:** Die reine Furcht Gottes
+  - **Option C (Falsch):**
+    - **Vorher:** Furcht vor dem Gericht
+    - **Nachher:** Das Schweigen im Heiligtum
+
+### `2kor_017` (2. Korinther 4:3-4)
+- **Frage:** Wer hat die Sinne der Ungläubigen nach den Worten des Paulus verblendet?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Der Gott dieser Welt
+    - **Nachher:** Der Gott dieser Weltzeit
+  - **Option A (Falsch):**
+    - **Vorher:** Die Richter Roms
+    - **Nachher:** Der römische Kaiser von Rom
+  - **Option C (Falsch):**
+    - **Vorher:** Die Priester des Alten Bundes
+    - **Nachher:** Die Schriftgelehrten der Juden
+  - **Option D (Falsch):**
+    - **Vorher:** Die Weisen der Heiden
+    - **Nachher:** Die Hohepriester im Tempel
+
+### `2kor_041` (2. Korinther 9:6)
+- **Frage:** Welcher Satz beschreibt die Haltung der Hand beim Gesegneten Geben im neunten Kapitel?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Wer spärlich sät, wird spärlich ernten, und wer reichlich sät, wird reichlich ernten
+    - **Nachher:** Wer kärglich sät, wird kärglich ernten; wer im Segen sät, erntet im Segen
+  - **Option A (Falsch):**
+    - **Vorher:** Wer viel gibt, wird bald arm und verliert alles, und wer wenig gibt, behält mehr
+    - **Nachher:** Wer viel gibt, verliert bald alles, und wer wenig gibt, behält mehr
+  - **Option C (Falsch):**
+    - **Vorher:** Wer nichts gibt, erntet das Beste, denn er hat alles für sich allein behalten
+    - **Nachher:** Wer nichts gibt, behält alles für sich und erntet den besten Gewinn
+  - **Option D (Falsch):**
+    - **Vorher:** Wer gibt, verliert allen Lohn, denn Gott sieht nur auf das Herz und nicht auf die Gabe
+    - **Nachher:** Wer spendet, verliert allen Lohn, denn Gott sieht nur auf das Innere
+
+### `2kor_050` (2. Korinther 10:17-18)
+- **Frage:** Worin soll sich derjenige rühmen, der sich vor Gott und Menschen rühmen will?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Wer sich rühmt, der rühme sich des Herrn
+    - **Nachher:** Wer sich aber rühmen will, der rühme sich allein des Herrn
+  - **Option A (Falsch):**
+    - **Vorher:** Er rühme sich seines Reichtums, den er sich selbst erworben hat
+    - **Nachher:** Wer viel spendet, der rühme sich seiner großen Reichtümer
+  - **Option B (Falsch):**
+    - **Vorher:** Er rühme sich seiner Weisheit, die er von den Lehrern gelernt hat
+    - **Nachher:** Wer weise ist, der rühme sich seiner hohen Gelehrsamkeit
+  - **Option D (Falsch):**
+    - **Vorher:** Er rühme sich seiner Vorfahren, die dem Volk Gottes angehörten
+    - **Nachher:** Wer mächtig ist, der rühme sich seiner kriegerischen Macht
+
+### `2kor_058` (2. Korinther 12:8-9)
+- **Frage:** Wie lautete die göttliche Antwort auf das dreimalige Flehen des Paulus um Befreiung?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Lass dir an meiner Gnade genügen; denn meine Kraft ist in der Schwachheit mächtig
+    - **Nachher:** Lass dir an meiner Gnade genügen; denn meine Kraft wird in der Schwachheit vollkommen
+  - **Option A (Falsch):**
+    - **Vorher:** Ich nehme das Leiden sofort weg, denn du hast es nun lange genug getragen
+    - **Nachher:** Ich will dich von allen Leiden und Schmerzen sofort befreien
+  - **Option B (Falsch):**
+    - **Vorher:** Du musst noch mehr fasten und beten, dann wird dich der Herr bald erhören
+    - **Nachher:** Meine Engel werden alle deine Widersacher mit dem Schwert schlagen
+  - **Option D (Falsch):**
+    - **Vorher:** Geh hin in ein fremdes Land, dort wirst du Ruhe und Heilung für dein Leiden finden
+    - **Nachher:** Bete noch dreimal, dann will ich deine Bitte ganz erhören
+
+### `2kor_062` (2. Korinther 13:5)
+- **Frage:** Welche Selbstprüfung legt Paulus den Korinthern im dreizehnten Kapitel nahe?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Prüft euch selbst, ob ihr im Glauben steht
+    - **Nachher:** Prüft euch selbst, ob ihr im Glauben seid
+  - **Option A (Falsch):**
+    - **Vorher:** Zählt euer Geld und gebt es für die Armen
+    - **Nachher:** Zählt euer Geld und gebt es den Armen
+  - **Option B (Falsch):**
+    - **Vorher:** Prüft die Abstammung eurer Familien genau
+    - **Nachher:** Prüft die Herkunft eurer Familien genau
+  - **Option D (Falsch):**
+    - **Vorher:** Messt die Länge der Mauer um die Stadt
+    - **Nachher:** Messt die Länge der Stadtmauer in Rom

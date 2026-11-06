@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-11-06T09:20:45Z",
+  "lastUpdated": "2026-11-06T11:46:32Z",
   "language": "en",
   "categories": [
     {
@@ -948,6 +948,31 @@
       ],
       "sizeBytes": 82011,
       "downloadUrl": "./en/46_1_korinther.json"
+    },
+    {
+      "quizId": "nt_08_2korinther_alle_kapitel_en",
+      "category": "nt",
+      "title": "2 Corinthians",
+      "subtitle": "2 Corinthians 1:1 – 13:14 (65 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 65,
+      "difficulty": "medium",
+      "tags": [
+        "2 Corinthians",
+        "New Testament",
+        "Pauline Epistles",
+        "Epistles",
+        "Paul",
+        "Comfort",
+        "Ministry",
+        "Reconciliation",
+        "Giving",
+        "King James Version"
+      ],
+      "sizeBytes": 67945,
+      "downloadUrl": "./en/47_2_korinther.json"
     }
   ]
 }
