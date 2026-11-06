@@ -56,7 +56,8 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
 | `48_galater.json` | 31 | 31 | 29 | 30 | 0 |
 | `49_epheser.json` | 31 | 31 | 28 | 31 | 0 |
 | `50_philipper.json` | 20 | 20 | 20 | 20 | 0 |
-| **Gesamt (50 Dateien)** | **4340** | **1857** | **1107** | **1691** | **105** |
+| `51_kolosser.json` | 20 | 20 | 20 | 20 | 0 |
+| **Gesamt (51 Dateien)** | **4360** | **1877** | **1127** | **1711** | **105** |
 
 ## 01_1_mose.json – 1. Mose (Genesis) (Schlachter (Revision von 1951))
 
@@ -26355,3 +26356,321 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
   - **Option D (Falsch):**
     - **Vorher:** Silas aus Jerusalem
     - **Nachher:** Der Schriftgelehrte Silas
+
+## 51_kolosser.json – Kolosser (Schlachter (Revision von 1951))
+
+### `kol_001` (Kolosser 1:1)
+- **Frage Vorher:** Wer wird im Absendergruß des Briefes an die Kolosser neben Paulus genannt?
+- **Frage Nachher:** Wer wird im Absendergruß des Kolosserbriefs neben Paulus genannt?
+- **Richtige Antwort (unverändert, Option B):** Timotheus, der Bruder
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Falsch):**
+    - **Vorher:** Barnabas aus Jerusalem
+    - **Nachher:** Barnabas aus Zypern
+  - **Option D (Falsch):**
+    - **Vorher:** Silas
+    - **Nachher:** Silas aus Jerusalem
+
+### `kol_002` (Kolosser 1:15)
+- **Frage Vorher:** Als was wird der Sohn Gottes in den einleitenden Versen des Briefes offenbart?
+- **Frage Nachher:** Als was wird der Sohn in Kolosser 1:15 offenbart?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Als das Ebenbild des unsichtbaren Gottes, der Erstgeborene vor aller Schöpfung
+    - **Nachher:** Als Ebenbild des unsichtbaren Gottes, der Erstgeborene der Schöpfung
+
+### `kol_003` (Kolosser 1:20)
+- **Frage Vorher:** Wodurch hat Gott den Frieden und die Versöhnung aller Dinge bewirkt?
+- **Frage Nachher:** Wodurch hat Gott nach Kolosser 1:20 Frieden gemacht?
+- **Richtige Antwort (unverändert, Option D):** Durch das Blut seines Kreuzes
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Falsch):**
+    - **Vorher:** Durch den Bau neuer Tempel
+    - **Nachher:** Durch den Bau heiliger Tempel
+
+### `kol_004` (Kolosser 1:26-27)
+- **Frage Vorher:** Welches tiefere Geheimnis wurde den Völkern unter den Heiden offenbart?
+- **Frage Nachher:** Welches Geheimnis wurde unter den Nationenvölkern kundgetan (Kolosser 1:27)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Dass Christus in euch ist, die Hoffnung der Herrlichkeit
+    - **Nachher:** Christus in euch, die herrliche Hoffnung der Herrlichkeit
+  - **Option B (Falsch):**
+    - **Vorher:** Dass das Gesetz Moses ewig gilt und für alle Völker bindend bleibt
+    - **Nachher:** Dass das alte Gesetz Moses für alle Zeiten bindend bleibt
+  - **Option C (Falsch):**
+    - **Vorher:** Dass alle Reiche vergehen und Gott allein bleibt, wenn die Zeit erfüllt ist
+    - **Nachher:** Dass alle Reiche der Erde durch das Schwert fallen werden
+  - **Option D (Falsch):**
+    - **Vorher:** Dass die Engel die Welt regieren und über die Menschen wachen
+    - **Nachher:** Dass die Engel der Himmel über alle Menschenkinder wachen
+
+### `kol_005` (Kolosser 1:28-29)
+- **Frage Vorher:** Was bezeichnet Paulus als das Hauptziel aller seiner Mühen und Kämpfe?
+- **Frage Nachher:** Was bezeichnet Paulus in Kolosser 1:28 als Ziel seiner Verkündigung?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Jeden Menschen vollkommen in Christus darzustellen
+    - **Nachher:** Dass wir jeden Menschen vollkommen in Christus Jesus darstellen
+  - **Option A (Falsch):**
+    - **Vorher:** Alle Sklaven im Römerreich zu befreien und ihnen das Bürgerrecht zu geben
+    - **Nachher:** Die Errichtung eines großen sichtbaren Gotteshauses in Kolossä
+  - **Option C (Falsch):**
+    - **Vorher:** Alle Götzentempel in den Städten zu zerstören und das Land zu reinigen
+    - **Nachher:** Die vollständige Befreiung der Gläubigen aus dem römischen Joch
+  - **Option D (Falsch):**
+    - **Vorher:** Große Schätze für die Armen zu sammeln und unter den Gemeinden zu verteilen
+    - **Nachher:** Das Sammeln großer Geldbeträge für die Notleidenden in Judäa
+
+### `kol_006` (Kolosser 2:2-3)
+- **Frage Vorher:** Wo sind nach den Worten des Paulus alle Schätze der Weisheit verborgen?
+- **Frage Nachher:** In wem sind alle Schätze der Weisheit und Erkenntnis verborgen (Kolosser 2:3)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** In Christus
+    - **Nachher:** In Christus dem Herrn allein
+  - **Option A (Falsch):**
+    - **Vorher:** In den Schriften der Dichter
+    - **Nachher:** In den Schriften der Weisen
+  - **Option B (Falsch):**
+    - **Vorher:** In den Gesetzen Roms
+    - **Nachher:** Im Tempel von Jerusalem
+  - **Option D (Falsch):**
+    - **Vorher:** In den Schulen der Pharisäer
+    - **Nachher:** In den Gesetzen der Römer
+
+### `kol_007` (Kolosser 2:9)
+- **Frage Vorher:** Was wohnt nach den klaren Worten in Christus leibhaftig?
+- **Frage Nachher:** Was wohnt in Christus leibhaftig nach Kolosser 2:9?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Die ganze Fülle der Gottheit leibhaftig
+    - **Nachher:** Die ganze Fülle der Gottheit leibhaft
+  - **Option A (Falsch):**
+    - **Vorher:** Der Geist aller Propheten
+    - **Nachher:** Ein Teil der göttlichen Schöpferkraft
+  - **Option B (Falsch):**
+    - **Vorher:** Die Weisheit aller Könige
+    - **Nachher:** Die verborgene Weisheit aller Engel
+  - **Option C (Falsch):**
+    - **Vorher:** Die Macht über alle Heere des Kaisers
+    - **Nachher:** Ein Maß des irdischen Geisteslebens
+
+### `kol_008` (Kolosser 2:14)
+- **Frage Vorher:** Was geschah mit dem gegen uns gerichteten Schuldschein am Kreuz Christi?
+- **Frage Nachher:** Was geschah mit dem Schuldschein nach Kolosser 2:14 am Kreuz?
+- **Richtige Antwort (unverändert, Option A):** Er wurde ausgetilgt und an das Kreuz geheftet
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Er wurde den römischen Richtern übergeben
+    - **Nachher:** Er wurde den Hohenpriestern zur Prüfung übergeben
+  - **Option C (Falsch):**
+    - **Vorher:** Er wurde im Archiv des Hohen Rates verwahrt
+    - **Nachher:** Er wurde im irdischen Tempelarchiv verschlossen
+  - **Option D (Falsch):**
+    - **Vorher:** Er wurde in ein neues Gesetzbuch umgeschrieben
+    - **Nachher:** Er wurde den weltlichen Richtern Roms ausgehändigt
+
+### `kol_009` (Kolosser 2:16-17)
+- **Frage Vorher:** Welche Bedeutung haben Speise, Trank, Feste und Sabbate?
+- **Frage Nachher:** Welche Bedeutung haben Speise, Feste und Sabbate nach Kolosser 2:16-17?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Sie sind ein Schatten der zukünftigen Dinge; der Körper aber ist Christus
+    - **Nachher:** Ein Schatten der zukünftigen Dinge; der Körper aber ist Christi
+  - **Option A (Falsch):**
+    - **Vorher:** Sie sind ewige Gebote für alle Geschlechter, die niemand aufheben darf
+    - **Nachher:** Das ewige Fundament des Glaubens, das unverändert bestehen muss
+  - **Option C (Falsch):**
+    - **Vorher:** Sie sind reine Erfindungen der Menschen, die keine Bedeutung haben
+    - **Nachher:** Menschliche Satzungen, die keinen Nutzen für den Glauben bringen
+  - **Option D (Falsch):**
+    - **Vorher:** Sie sind streng um des Heils willen zu befolgen, sonst geht man verloren
+    - **Nachher:** Göttliche Pflichten, die jedem Gläubigen auferlegt worden sind
+
+### `kol_010` (Kolosser 2:18-23)
+- **Frage Vorher:** Vor welcher Gefahr warnt Paulus die Kolosser im Hinblick auf falsche Lehrer?
+- **Frage Nachher:** Wovor warnt Paulus die Kolosser in Kolosser 2:18?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Vor künstlicher Demut und Engelverehrung
+    - **Nachher:** Vor selbstgewählter Demut und Engelsdienst
+  - **Option A (Falsch):**
+    - **Vorher:** Vor dem Zahlen der Steuern
+    - **Nachher:** Vor heidnischer Zauberei und Götzenopfern
+  - **Option B (Falsch):**
+    - **Vorher:** Vor dem Bau von Wohnhäusern
+    - **Nachher:** Vor römischer Rechtsprechung und Strafen
+  - **Option D (Falsch):**
+    - **Vorher:** Vor dem Lesen der Schriften Israels
+    - **Nachher:** Vor dem Lesen der alten hebräischen Bücher
+
+### `kol_011` (Kolosser 3:1-2)
+- **Frage Vorher:** Wonach sollen Glaubende trachten, wenn sie mit Christus auferstanden sind?
+- **Frage Nachher:** Wonach sollen Auferstandene nach Kolosser 3:1 trachten?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Nach dem, was droben ist, wo Christus ist, zur Rechten Gottes
+    - **Nachher:** Nach dem, was droben ist, wo Christus ist, sitzend zur Rechten Gottes
+  - **Option A (Falsch):**
+    - **Vorher:** Nach Schätzen auf Erden, die Rost und Motten nicht fressen können
+    - **Nachher:** Nach weltlicher Macht und Ehrenämtern in den Städten der Nationenvölker
+  - **Option B (Falsch):**
+    - **Vorher:** Nach Ehre bei den Menschen und dem Ansehen vor der Gemeinde
+    - **Nachher:** Nach irdischem Reichtum und Vorräten für viele Jahre in dieser Weltzeit
+  - **Option C (Falsch):**
+    - **Vorher:** Nach den Gesetzen der alten Zeit, die den Vätern gegeben wurden
+    - **Nachher:** Nach menschlicher Weisheit und philosophischen Lehren der alten Heiden
+
+### `kol_012` (Kolosser 3:12-14)
+- **Frage Vorher:** Welcher Tugend schreibt Paulus die Eigenschaft des Bandes der Vollkommenheit zu?
+- **Frage Nachher:** Was ist nach Kolosser 3:14 das Band der Vollkommenheit?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Die Liebe, die das Band der Vollkommenheit ist
+    - **Nachher:** Die Liebe, welche das Band der Vollkommenheit ist
+  - **Option B (Falsch):**
+    - **Vorher:** Das eifrige Fasten, das den Leib zähmt und den Geist stärkt
+    - **Nachher:** Die strenge Einhaltung aller alten Zeremonien
+  - **Option C (Falsch):**
+    - **Vorher:** Der Reichtum an Wissen, der Einsicht und Weisheit schenkt
+    - **Nachher:** Das Erforschen tiefer Geheimnisse der Schöpfung
+  - **Option D (Falsch):**
+    - **Vorher:** Die strenge Zucht, die die Gemeinde in Ordnung hält
+    - **Nachher:** Das Ausführen großer und opferreicher Bauwerke
+
+### `kol_013` (Kolosser 3:16)
+- **Frage Vorher:** Was soll nach den Worten im dritten Kapitel reichlich unter den Glaubenden wohnen?
+- **Frage Nachher:** Was soll reichlich unter den Gläubigen wohnen nach Kolosser 3:16?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Das Wort Christi, in aller Weisheit
+    - **Nachher:** Das Wort Christi in aller Weisheit
+  - **Option A (Falsch):**
+    - **Vorher:** Die Philosophie der Alten
+    - **Nachher:** Die Weisheit heidnischer Dichter
+  - **Option C (Falsch):**
+    - **Vorher:** Das Gesetz des Staates
+    - **Nachher:** Die Satzungen der Schriftgelehrten
+  - **Option D (Falsch):**
+    - **Vorher:** Die Sorge um das tägliche Brot
+    - **Nachher:** Die Gesetze der römischen Richter
+
+### `kol_014` (Kolosser 3:18-19)
+- **Frage Vorher:** Wie sollen Ehefrauen ihren eigenen Männern begegnen?
+- **Frage Nachher:** Wie sollen Ehefrauen ihren Männern begegnen nach Kolosser 3:18?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Ordnet euch euren Männern unter, wie es sich im Herrn geziemt
+    - **Nachher:** Seid euren eigenen Männern untertan, wie es sich geziemt im Herrn
+  - **Option A (Falsch):**
+    - **Vorher:** Sie sollen über die Männer herrschen und im Haus das Wort führen
+    - **Nachher:** Herrscht über eure Männer und leitet den Haushalt nach eigenem Rat
+  - **Option B (Falsch):**
+    - **Vorher:** Sie sollen im Streit das Haus verlassen und sich zurückziehen
+    - **Nachher:** Behandelt eure Männer wie Fremde und meidet jede häusliche Pflicht
+  - **Option D (Falsch):**
+    - **Vorher:** Sie sollen die Männer streng erziehen und ihre Fehler rügen
+    - **Nachher:** Klagt eure Männer vor den Ältesten an, wann immer Streit entsteht
+
+### `kol_015` (Kolosser 3:22-24)
+- **Frage Vorher:** Mit welcher Gesinnung sollen Knechte ihren Herren auf Erden dienen?
+- **Frage Nachher:** Wie sollen Knechte ihren Herren dienen nach Kolosser 3:22?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Von Herzen, als dem Herrn und nicht den Menschen
+    - **Nachher:** In Einfalt des Herzens, als solche, die Gott fürchten
+  - **Option A (Falsch):**
+    - **Vorher:** Mit Heuchelei und Augendienerei vor den Menschen
+    - **Nachher:** Nur mit Augendienerei, um den Menschen zu gefallen
+  - **Option B (Falsch):**
+    - **Vorher:** Mit Widerstand gegen alle schwere Arbeit
+    - **Nachher:** Mit ständigem Murren und geheimer Widersetzlichkeit
+  - **Option C (Falsch):**
+    - **Vorher:** Nur um des Lohnes und des Geldes willen
+    - **Nachher:** Nur wenn ihnen ein reicher irdischer Lohn zuteilwird
+
+### `kol_016` (Kolosser 4:2-4)
+- **Frage Vorher:** Welchem Dienst sollen die Glaubenden im vierten Kapitel treu obliegen?
+- **Frage Nachher:** Welchem Dienst sollen Gläubige treu obliegen nach Kolosser 4:2?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Im Gebet zu verharren und darin wach zu sein mit Danksagung
+    - **Nachher:** Im Gebet zu verharren und darin zu wachen mit Danksagung
+  - **Option B (Falsch):**
+    - **Vorher:** Ohne Unterlass zu fasten und sich von der Welt fernzuhalten
+    - **Nachher:** Nur an den Festtagen des Jahres feierlich zu beten
+  - **Option C (Falsch):**
+    - **Vorher:** Gold für den Tempelbau zu sammeln und nach Jerusalem zu senden
+    - **Nachher:** Auf das Gebet zu verzichten, da Gott schon alles weiß
+  - **Option D (Falsch):**
+    - **Vorher:** In fremde Länder auszuwandern und dort Gemeinden zu gründen
+    - **Nachher:** Nur für irdischen Reichtum und weltliche Ehre zu flehen
+
+### `kol_017` (Kolosser 4:5-6)
+- **Frage Vorher:** Wie soll das Wort des Glaubenden gegenüber Außenstehenden zubereitet sein?
+- **Frage Nachher:** Wie soll die Rede gegen Außenstehende sein nach Kolosser 4:6?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Allezeit in Gnade, mit Salz gewürzt
+    - **Nachher:** Allezeit anmutig, mit Salz gewürzt
+  - **Option A (Falsch):**
+    - **Vorher:** Mit harter Rüge und kaltem Zorn
+    - **Nachher:** Voll strenger Rüge und scharfem Zorn
+  - **Option C (Falsch):**
+    - **Vorher:** Mit der Weisheit heidnischer Redner
+    - **Nachher:** Voll weltlicher Beredsamkeit Roms
+  - **Option D (Falsch):**
+    - **Vorher:** Mit leeren Schmeicheleien
+    - **Nachher:** Mit heuchlerischen Schmeicheleien
+
+### `kol_018` (Kolosser 4:7-9)
+- **Frage Vorher:** Welcher geliebte Bruder überbrachte den Brief an die Kolosser persönlich?
+- **Frage Nachher:** Welcher Bruder überbringt den Kolossern Bericht über Paulus (Kolosser 4:7)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Tychikus, der geliebte Bruder und treue Diener
+    - **Nachher:** Tychikus, der geliebte Bruder, treue Diener und Mitknecht
+  - **Option A (Falsch):**
+    - **Vorher:** Timotheus, den jungen Mitarbeiter, der ihm in Rom zur Seite stand
+    - **Nachher:** Timothy, der junge Mitarbeiter, der Paulus treu diente
+  - **Option B (Falsch):**
+    - **Vorher:** Titus aus Griechenland, den treuen Gehilfen, der Paulus begleitete
+    - **Nachher:** Titus aus Griechenland, der Paulus auf Reisen begleitete
+  - **Option D (Falsch):**
+    - **Vorher:** Barnabas aus Jerusalem, den Sohn des Trostes, der oft mit ihm reiste
+    - **Nachher:** Barnabas aus Zypern, der einst mit Paulus gewirkt hatte
+
+### `kol_019` (Kolosser 4:14)
+- **Frage Vorher:** Welcher Beruf wird dem Grüßenden Lukas am Ende des Briefes zugeschrieben?
+- **Frage Nachher:** Welche Bezeichnung erhält Lukas in Kolosser 4:14?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Er war der geliebte Arzt
+    - **Nachher:** Er war der geliebte Heiler
+  - **Option A (Falsch):**
+    - **Vorher:** Er war ein Schreiber des Hohen Rates
+    - **Nachher:** Er war ein Schreiber des Rates
+  - **Option B (Falsch):**
+    - **Vorher:** Er war ein Kaufmann aus Philippi
+    - **Nachher:** Er war ein reicher Zöllner
+  - **Option C (Falsch):**
+    - **Vorher:** Er war ein Richter Roms
+    - **Nachher:** Er war ein Richter der Stadt
+
+### `kol_020` (Kolosser 4:17)
+- **Frage Vorher:** Welcher Auftrag ergeht namentlich an den Mitarbeiter Archippus am Briefende?
+- **Frage Nachher:** Welcher Auftrag ergeht an Archippus in Kolosser 4:17?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Sieh auf den Dienst, den du im Herrn empfangen hast, dass du ihn erfüllst
+    - **Nachher:** Gib Obacht auf den Dienst, den du im Herrn empfangen hast, damit du ihn erfüllst
+  - **Option B (Falsch):**
+    - **Vorher:** Reise sofort nach Rom und melde dich dort bei den Aposteln im Gefängnis
+    - **Nachher:** Reise unverzüglich nach Rom und melde dich dort bei den Ältesten im Gefängnis
+  - **Option C (Falsch):**
+    - **Vorher:** Bringe dem Paulus seine Bücher und Schriften ins Gefängnis nach Rom
+    - **Nachher:** Bringe dem Apostel Paulus seine ledernen Bücher und Schriften nach Rom hin
+  - **Option D (Falsch):**
+    - **Vorher:** Werde Bischof der Gemeinde und leite sie nach meinem Rat und meinem Willen
+    - **Nachher:** Werde oberster Bischof der Stadt Kolossä und regiere nach eigenem Belieben

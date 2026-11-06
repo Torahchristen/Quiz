@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-11-06T11:59:32Z",
+  "lastUpdated": "2026-11-06T12:01:52Z",
   "language": "en",
   "categories": [
     {
@@ -1042,6 +1042,28 @@
       ],
       "sizeBytes": 19508,
       "downloadUrl": "./en/50_philipper.json"
+    },
+    {
+      "quizId": "nt_12_kolosser_alle_kapitel_en",
+      "category": "nt",
+      "title": "Colossians",
+      "subtitle": "Colossians 1:1 – 4:18 (20 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 20,
+      "difficulty": "medium",
+      "tags": [
+        "Colossians",
+        "New Testament",
+        "Pauline Epistles",
+        "Paul",
+        "Fullness of Christ",
+        "Reconciliation",
+        "King James Version"
+      ],
+      "sizeBytes": 19435,
+      "downloadUrl": "./en/51_kolosser.json"
     }
   ]
 }
