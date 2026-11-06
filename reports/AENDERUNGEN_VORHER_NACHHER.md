@@ -61,7 +61,8 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
 | `53_2_thessalonicher.json` | 15 | 14 | 12 | 14 | 0 |
 | `54_1_timotheus.json` | 30 | 30 | 30 | 30 | 0 |
 | `55_2_timotheus.json` | 20 | 20 | 20 | 20 | 0 |
-| **Gesamt (55 Dateien)** | **4450** | **1966** | **1214** | **1799** | **105** |
+| `56_titus.json` | 15 | 15 | 15 | 15 | 0 |
+| **Gesamt (56 Dateien)** | **4465** | **1981** | **1229** | **1814** | **105** |
 
 ## 01_1_mose.json – 1. Mose (Genesis) (Schlachter (Revision von 1951))
 
@@ -28093,3 +28094,260 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
   - **Option D (Falsch):**
     - **Vorher:** Das alte Zelt für den Winter, das er bei Karpus untergestellt hatte
     - **Nachher:** Das schwere Zelt aus Tierhäuten für die kalte Winterzeit in Rom
+
+## 56_titus.json – Titus (Schlachter (Revision von 1951))
+
+### `tit_001` (Titus 1:5)
+- **Frage Vorher:** Warum hatte Paulus den Titus auf der Insel Kreta zurückgelassen?
+- **Frage Nachher:** Warum ließ Paulus den Titus auf Kreta zurück (Titus 1:5)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Um das, was noch mangelt, in Ordnung zu bringen und in jeder Stadt Älteste einzusetzen
+    - **Nachher:** Damit er das Versäumte nachholen und in jeder Stadt Älteste einsetzen möge
+  - **Option A (Falsch):**
+    - **Vorher:** Um Geld für die arme Gemeinde zu sammeln und es nach Jerusalem zu senden und zu bringen
+    - **Nachher:** Um Geld für die Armen zu sammeln und nach Jerusalem zu den Heiligen zu bringen
+  - **Option C (Falsch):**
+    - **Vorher:** Um ein Gemeindehaus zu bauen und dort den Gottesdienst geordnet zu leiten
+    - **Nachher:** Um ein Gemeindehaus zu erbauen und dort den täglichen Dienst festzulegen
+  - **Option D (Falsch):**
+    - **Vorher:** Um vor den Richtern zu fliehen und auf der Insel Zuflucht und Ruhe zu suchen
+    - **Nachher:** Um vor den Verfolgern zu fliehen und auf der Insel ruhige Zuflucht zu suchen
+
+### `tit_002` (Titus 1:6)
+- **Frage Vorher:** Welche familiäre Qualifikation wird von einem Aufseher im ersten Kapitel gefordert?
+- **Frage Nachher:** Welche familiäre Voraussetzung wird von einem Ältesten in Titus 1:6 gefordert?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Ein Mann einer Frau, der gläubige Kinder hat
+    - **Nachher:** Ein Mann einer einzigen Frau, der gläubige Kinder hat
+  - **Option A (Falsch):**
+    - **Vorher:** Unverheiratet und kinderlos
+    - **Nachher:** Ein unverheirateter Mann, welcher keine Kinder hat
+  - **Option B (Falsch):**
+    - **Vorher:** Vater von mindestens fünf Söhnen
+    - **Nachher:** Ein Vater von mindestens fünf gottesfürchtigen Söhnen
+  - **Option D (Falsch):**
+    - **Vorher:** Verwandter einer alten Priesterfamilie
+    - **Nachher:** Ein naher Verwandter einer angesehenen Priesterfamilie
+
+### `tit_003` (Titus 1:9)
+- **Frage Vorher:** Woran muss der Aufseher nach den Anweisungen im ersten Kapitel fest halten?
+- **Frage Nachher:** Woran muss sich der Aufseher nach Titus 1:9 halten?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Am zuverlässigen Wort, das der Lehre entspricht
+    - **Nachher:** An das gewisse Wort, das der rechten Lehre folgt
+  - **Option A (Falsch):**
+    - **Vorher:** An den Traditionen griechischer Philosophen
+    - **Nachher:** An die überlieferten Bräuche der Philosophen
+  - **Option B (Falsch):**
+    - **Vorher:** An den Gesetzen der römischen Provinz
+    - **Nachher:** An die bürgerlichen Satzungen der Römerstadt
+  - **Option C (Falsch):**
+    - **Vorher:** An den Sprüchen heidnischer Dichter
+    - **Nachher:** An die Schriften und Fabeln heidnischer Dichter
+
+### `tit_004` (Titus 1:12-13)
+- **Frage Vorher:** Welches Zeugnis legte einer der eigenen Propheten über die Kreter ab?
+- **Frage Nachher:** Welches Zeugnis gab einer ihrer eigenen Propheten über die Kreter ab (Titus 1:12)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Die Kreter sind immer Lügner, böse Tiere und faule Bäuche
+    - **Nachher:** Die Kreter sind stets Lügner, üble Wildtiere, faule Bäuche
+  - **Option B (Falsch):**
+    - **Vorher:** Die Kreter sind stets voll Wahrheit, gütig und von hohem Fleiß
+    - **Nachher:** Die Kreter sind stets wahrhaftig, gütig und voll Fleiß
+  - **Option C (Falsch):**
+    - **Vorher:** Die Kreter sind das frömmste Volk der Erde und halten das Gesetz
+    - **Nachher:** Die Kreter sind das frömmste Volk der ganzen Erde
+  - **Option D (Falsch):**
+    - **Vorher:** Die Kreter sind sehr fleißig, treu und ein Vorbild für die Nachbarn
+    - **Nachher:** Die Kreter sind treue Brüder und Vorbilder im Glauben
+
+### `tit_005` (Titus 1:15)
+- **Frage Vorher:** Wie verhält es sich mit der Reinheit der Dinge für die Reinen und Befleckten?
+- **Frage Nachher:** Was gilt nach Titus 1:15 für die Reinen und für die Befleckten?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Den Reinen ist alles rein, den Befleckten und Ungläubigen aber ist nichts rein
+    - **Nachher:** Den Reinen ist alles rein, den Befleckten aber ist gar nichts rein
+  - **Option A (Falsch):**
+    - **Vorher:** Allen Menschen ist alles von Natur rein, auch den Ungläubigen
+    - **Nachher:** Allen Menschen ohne Unterschied ist alles von Natur aus völlig rein
+  - **Option C (Falsch):**
+    - **Vorher:** Den Befleckten ist alles rein, den Reinen aber nichts
+    - **Nachher:** Den Befleckten ist alles rein, den Reinen aber ist alles verdorben
+  - **Option D (Falsch):**
+    - **Vorher:** Allen Gläubigen sind die Speisen unrein, solange sie nicht gesegnet sind
+    - **Nachher:** Allen Gläubigen sind die Speisen unrein, bis sie gesegnet werden
+
+### `tit_006` (Titus 2:4-5)
+- **Frage Vorher:** Zu welcher Haltung sollen die älteren Frauen die jungen Frauen im Hause anleiten?
+- **Frage Nachher:** Wozu sollen die älteren Frauen die jungen Frauen anleiten (Titus 2:4-5)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Ihre Männer und Kinder zu lieben, besonnen, keusch und häuslich zu sein
+    - **Nachher:** Ihre Männer und Kinder zu lieben, verständig, rein und haushälterisch zu sein
+  - **Option A (Falsch):**
+    - **Vorher:** Nach weltlicher Macht zu streben, ehrgeizig und stolz zu sein
+    - **Nachher:** Nach weltlicher Macht zu streben und sich ehrgeizig über andere zu erheben
+  - **Option B (Falsch):**
+    - **Vorher:** Den Männern zu befehlen, streng und herrschsüchtig zu sein
+    - **Nachher:** Ihren Ehemännern zu befehlen und mit Strenge im ganzen Hause zu herrschen
+  - **Option D (Falsch):**
+    - **Vorher:** Sich von Haus- und Familienpflichten fernzuhalten, frei und ungebunden zu sein
+    - **Nachher:** Sich von jeder Hausarbeit fernzuhalten und völlig ungebunden und frei zu leben
+
+### `tit_007` (Titus 2:7-8)
+- **Frage Vorher:** Wozu wird Titus als junger Lehrer selbst gegenüber den jüngeren Männern aufgefordert?
+- **Frage Nachher:** Wozu soll sich Titus nach Titus 2:7 in allem machen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Sich in allem als Vorbild guter Werke zu erweisen
+    - **Nachher:** Zum Vorbild edler Werke
+  - **Option A (Falsch):**
+    - **Vorher:** Sich den Sitten der Heiden anzupassen, um niemanden zu ärgern
+    - **Nachher:** Zum Nachahmer der Weisen
+  - **Option B (Falsch):**
+    - **Vorher:** Sich über die anderen Brüder zu erheben, um Ansehen zu gewinnen
+    - **Nachher:** Zum Richter über Heiden
+  - **Option C (Falsch):**
+    - **Vorher:** Sich aus der Versammlung zurückzuziehen, um in Ruhe zu lehren
+    - **Nachher:** Zum Schlichter im Streit
+
+### `tit_008` (Titus 2:9-10)
+- **Frage Vorher:** Wie sollen sich christliche Knechte ihren eigenen leiblichen Herren gegenüber verhalten?
+- **Frage Nachher:** Wie sollen sich Knechte nach Titus 2:9-10 ihren Herren gegenüber verhalten?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Ihren Herren untertan sein und sich in allem als treu erweisen
+    - **Nachher:** Ihren Herren untertan sein, nicht widersprechen, gute Treue beweisen
+  - **Option B (Falsch):**
+    - **Vorher:** Ihnen widersprechen und eigenen Gewinn suchen, wo sie nur können
+    - **Nachher:** Ihnen stets widersprechen und heimlich eigenen Gewinn nachjagen
+  - **Option C (Falsch):**
+    - **Vorher:** Die Arbeit niederlegen und frei sein, da sie Brüder in Christus sind
+    - **Nachher:** Die Arbeit niederlegen, weil alle im Glauben gleiche Brüder sind
+  - **Option D (Falsch):**
+    - **Vorher:** Ihren Herren mit Zorn begegnen und Gleichstellung fordern
+    - **Nachher:** Ihren Herren mit Härte begegnen und sofortigen Freikauf fordern
+
+### `tit_009` (Titus 2:11-12)
+- **Frage Vorher:** Wozu erzieht die heilsame Gnade Gottes die Glaubenden in der jetzigen Weltzeit?
+- **Frage Nachher:** Wozu nimmt uns die heilsame Gnade Gottes nach Titus 2:12 in Zucht?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Der Gottlosigkeit zu entsagen und besonnen, gerecht und gottselig zu leben
+    - **Nachher:** Dass wir weltliche Lüste verleugnen und vernünftig, gerecht und fromm leben
+  - **Option A (Falsch):**
+    - **Vorher:** Irdischen Reichtum anzuhäufen und ein sorgenfreies, behagliches Leben zu führen
+    - **Nachher:** Irdische Güter anzuhäufen und ein völlig sorgenfreies, bequemes Leben zu führen
+  - **Option C (Falsch):**
+    - **Vorher:** Die Gesetze der Heiden zu ignorieren und sich von allen Menschen abzusondern
+    - **Nachher:** Weltliche Satzungen zu missachten und uns von allen Mitmenschen abzusondern
+  - **Option D (Falsch):**
+    - **Vorher:** Vor allen Leiden zu fliehen und ein stilles Leben in der Wüste zu führen
+    - **Nachher:** Vor jeder Verfolgung zu fliehen und ein verborgenes Dasein im Gebirge zu führen
+
+### `tit_010` (Titus 2:13)
+- **Frage Vorher:** Worauf warten die Glaubenden voller Hoffnung nach der Erziehung durch die Gnade?
+- **Frage Nachher:** Worauf warten die Gläubigen nach Titus 2:13?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Auf die selige Hoffnung und die Erscheinung der Herrlichkeit unseres großen Gottes
+    - **Nachher:** Auf die glückselige Hoffnung und Erscheinung der Herrlichkeit unseres Gottes
+  - **Option A (Falsch):**
+    - **Vorher:** Auf den Bau eines prächtigen Palastes und die Mehrung aller irdischen Güter
+    - **Nachher:** Auf den Bau eines neuen Palastes und die Ausbreitung des irdischen Reiches
+  - **Option B (Falsch):**
+    - **Vorher:** Auf die Herrschaft eines neuen Königs und das Ende aller Kriege im Reich
+    - **Nachher:** Auf das Kommen eines neuen Kaisers und den weltweiten Frieden unter Völkern
+  - **Option D (Falsch):**
+    - **Vorher:** Auf das Ende aller menschlichen Arbeit und die ewige Ruhe nach dem Tod
+    - **Nachher:** Auf das baldige Aufhören aller Arbeit und dauernde irdische Ruhe vor Feinden
+
+### `tit_011` (Titus 3:1)
+- **Frage Vorher:** Wie sollen Glaubende der Obrigkeit und den staatlichen Gewalten begegnen?
+- **Frage Nachher:** Wie sollen sich Gläubige nach Titus 3:1 gegenüber Regierungen und Obrigkeiten verhalten?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Ihnen untertan und gehorsam zu sein und zu jedem guten Werk bereit
+    - **Nachher:** Ihnen untertan und gehorsam sein, zu jedem guten Werk stets bereit
+  - **Option A (Falsch):**
+    - **Vorher:** Mit Widerstand und offenem Zorn, wenn die Herrscher ungerecht sind
+    - **Nachher:** Mit offenem Aufruhr entgegentreten, wenn Gesetze ungerecht sind
+  - **Option B (Falsch):**
+    - **Vorher:** Mit Gleichgültigkeit ohne Gehorsam, solange sie die Gläubigen in Ruhe lassen
+    - **Nachher:** Völlige Gleichgültigkeit zeigen und weltliche Richter ignorieren
+  - **Option C (Falsch):**
+    - **Vorher:** Nur wenn die Herrscher gläubig sind und das Evangelium unterstützen
+    - **Nachher:** Nur dann gehorchen, wenn die Machthaber selbst gläubig geworden sind
+
+### `tit_012` (Titus 3:5)
+- **Frage Vorher:** Wodurch hat Gott die Glaubenden nach Seiner großen Barmherzigkeit errettet?
+- **Frage Nachher:** Wodurch hat uns Gott nach Seiner Barmherzigkeit gerettet (Titus 3:5)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Durch das Bad der Wiedergeburt und die Erneuerung im Heiligen Geist
+    - **Nachher:** Durch das Bad der Wiedergeburt und Erneuerung des Heiligen Geistes
+  - **Option B (Falsch):**
+    - **Vorher:** Durch eigene Werke der Gerechtigkeit, die wir getan hatten
+    - **Nachher:** Durch eigene Werke der Gerechtigkeit, die wir zuvor getan hätten
+  - **Option C (Falsch):**
+    - **Vorher:** Durch das Befolgen der alten Gebote, die uns überliefert wurden
+    - **Nachher:** Durch das genaue Befolgen aller überlieferten Satzungen der Väter
+  - **Option D (Falsch):**
+    - **Vorher:** Durch die Weisheit der heidnischen Welt, die uns unterwies
+    - **Nachher:** Durch die menschliche Klugheit und Weisheit der heidnischen Welt
+
+### `tit_013` (Titus 3:7)
+- **Frage Vorher:** Wozu wurden die Glaubenden durch die Gnade Christi gerechtfertigt?
+- **Frage Nachher:** Wozu wurden wir durch Seine Gnade nach Titus 3:7 gerechtfertigt?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Damit wir Erben des ewigen Lebens würden nach der Hoffnung
+    - **Nachher:** Damit wir seiner Hoffnung gemäß Erben des ewigen Lebens würden
+  - **Option A (Falsch):**
+    - **Vorher:** Damit wir reiche Herrscher würden und über andere Völker regierten
+    - **Nachher:** Damit wir irdische Herrscher würden und über Heidenvölker regierten
+  - **Option C (Falsch):**
+    - **Vorher:** Damit wir allen Streitfragen nachgingen und sie klärten
+    - **Nachher:** Damit wir allen spitzfindigen Streitfragen der Welt nachgingen
+  - **Option D (Falsch):**
+    - **Vorher:** Damit wir weltlichen Ruhm erlangten und bei Menschen angesehen wären
+    - **Nachher:** Damit wir großen weltlichen Ruhm und Ehre bei Menschen erlangten
+
+### `tit_014` (Titus 3:10-11)
+- **Frage Vorher:** Wie soll mit einem Menschen umgegangen werden, der Spaltungen in der Gemeinde erzeugt?
+- **Frage Nachher:** Wie soll man nach Titus 3:10 mit einem sektiererischen Menschen verfahren?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Nach ein- und zweimaliger Ermahnung meiden
+    - **Nachher:** Ihn nach ein- und zweimaliger Zurechtweisung abweisen
+  - **Option A (Falsch):**
+    - **Vorher:** Ihn sofort in ein hohes Amt berufen
+    - **Nachher:** Ihn sogleich in ein leitendes Amt der Gemeinde berufen
+  - **Option B (Falsch):**
+    - **Vorher:** Ihn vor heidnischen Richtern verklagen
+    - **Nachher:** Ihn vor den weltlichen Richtern der Stadt verklagen
+  - **Option D (Falsch):**
+    - **Vorher:** Ihn ganz gewähren lassen
+    - **Nachher:** Ihn ohne jede Ermahnung gewähren und reden lassen
+
+### `tit_015` (Titus 3:12)
+- **Frage Vorher:** In welcher Stadt beabsichtigte Paulus den Winter zu verbringen und Titus zu treffen?
+- **Frage Nachher:** In welcher Stadt beschloss Paulus nach Titus 3:12 zu überwintern?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** In Nikopolis
+    - **Nachher:** In der Stadt Nikopolis
+  - **Option A (Falsch):**
+    - **Vorher:** In Athen
+    - **Nachher:** In der Stadt Troas
+  - **Option B (Falsch):**
+    - **Vorher:** In Jerusalem
+    - **Nachher:** In der Stadt Rom
+  - **Option C (Falsch):**
+    - **Vorher:** In Troas
+    - **Nachher:** In der Stadt Athen

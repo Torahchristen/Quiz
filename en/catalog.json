@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-11-06T12:15:56Z",
+  "lastUpdated": "2026-11-06T12:18:10Z",
   "language": "en",
   "categories": [
     {
@@ -1154,6 +1154,30 @@
       ],
       "sizeBytes": 19985,
       "downloadUrl": "./en/55_2_timotheus.json"
+    },
+    {
+      "quizId": "nt_17_titus_alle_kapitel_en",
+      "category": "nt",
+      "title": "Titus",
+      "subtitle": "Titus 1:1 – 3:15 (15 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 15,
+      "difficulty": "medium",
+      "tags": [
+        "Titus",
+        "New Testament",
+        "Pauline Epistles",
+        "Pastoral Epistles",
+        "Paul",
+        "Crete",
+        "Sound Doctrine",
+        "Good Works",
+        "King James Version"
+      ],
+      "sizeBytes": 15476,
+      "downloadUrl": "./en/56_titus.json"
     }
   ]
 }
