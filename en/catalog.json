@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-11-06T12:13:14Z",
+  "lastUpdated": "2026-11-06T12:15:56Z",
   "language": "en",
   "categories": [
     {
@@ -1131,6 +1131,29 @@
       ],
       "sizeBytes": 29924,
       "downloadUrl": "./en/54_1_timotheus.json"
+    },
+    {
+      "quizId": "nt_16_2timotheus_alle_kapitel_en",
+      "category": "nt",
+      "title": "2 Timothy",
+      "subtitle": "2 Timothy 1:1 – 4:22 (20 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 20,
+      "difficulty": "medium",
+      "tags": [
+        "2 Timothy",
+        "New Testament",
+        "Pauline Epistles",
+        "Pastoral Epistles",
+        "Paul",
+        "Endurance",
+        "Scripture",
+        "King James Version"
+      ],
+      "sizeBytes": 19985,
+      "downloadUrl": "./en/55_2_timotheus.json"
     }
   ]
 }

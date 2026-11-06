@@ -60,7 +60,8 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
 | `52_1_thessalonicher.json` | 25 | 25 | 25 | 24 | 0 |
 | `53_2_thessalonicher.json` | 15 | 14 | 12 | 14 | 0 |
 | `54_1_timotheus.json` | 30 | 30 | 30 | 30 | 0 |
-| **Gesamt (54 Dateien)** | **4430** | **1946** | **1194** | **1779** | **105** |
+| `55_2_timotheus.json` | 20 | 20 | 20 | 20 | 0 |
+| **Gesamt (55 Dateien)** | **4450** | **1966** | **1214** | **1799** | **105** |
 
 ## 01_1_mose.json – 1. Mose (Genesis) (Schlachter (Revision von 1951))
 
@@ -27764,3 +27765,331 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
   - **Option D (Falsch):**
     - **Vorher:** Die Häuser der Reichen zu schützen und die Gerüchte der Menge zu meiden
     - **Nachher:** Die Güter der Reichen bewahren und den Spott der Ungläubigen meiden
+
+## 55_2_timotheus.json – 2. Timotheus (Schlachter (Revision von 1951))
+
+### `2tim_001` (2. Timotheus 1:5)
+- **Frage Vorher:** Wer wird neben der Mutter Eunike als die glaubensstarke Großmutter des Timotheus namentlich erwähnt?
+- **Frage Nachher:** Wer wird neben der Mutter Eunike als Großmutter des Timotheus in 2. Timotheus 1:5 erwähnt?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Lois, seine Großmutter
+    - **Nachher:** Lois, die Großmutter
+  - **Option A (Falsch):**
+    - **Vorher:** Maria, seine Tante aus Rom
+    - **Nachher:** Maria, die Verwandte
+  - **Option C (Falsch):**
+    - **Vorher:** Anna, eine Prophetin im Volk
+    - **Nachher:** Anna, die Prophetin
+  - **Option D (Falsch):**
+    - **Vorher:** Priszilla, die Frau des Aquila
+    - **Nachher:** Klaudia, die Schülerin
+
+### `2tim_002` (2. Timotheus 1:7)
+- **Frage Vorher:** Welchen Geist hat Gott den Glaubenden nach den Worten des Paulus im ersten Kapitel gegeben?
+- **Frage Nachher:** Welchen Geist hat uns Gott nach 2. Timotheus 1:7 gegeben?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Einen Geist der Kraft, der Liebe und der Besonnenheit
+    - **Nachher:** Einen Geist der Kraft, der Liebe und der Vernunft
+  - **Option A (Falsch):**
+    - **Vorher:** Einen Geist der Furcht vor den Menschen und vor ihren Drohungen
+    - **Nachher:** Einen Geist der Furcht vor der Gewalt der Menschen
+  - **Option B (Falsch):**
+    - **Vorher:** Einen Geist weltlicher Weisheit, der in allen Dingen Rat weiß
+    - **Nachher:** Einen Geist weltlicher Weisheit in allen Dingen
+  - **Option D (Falsch):**
+    - **Vorher:** Einen Geist des Zweifels und der Klage über die Not der Zeit
+    - **Nachher:** Einen Geist des Zweifels und ständiger Verzagtheit
+
+### `2tim_003` (2. Timotheus 1:6)
+- **Frage Vorher:** Wozu ermahnt Paulus den jungen Timotheus bezüglich der empfangenen Gnadengabe Gottes?
+- **Frage Nachher:** Woran erinnert Paulus Timotheus bezüglich der Gabe Gottes in 2. Timotheus 1:6?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Die Gnadengabe Gottes wieder anzufachen
+    - **Nachher:** Die Gabe Gottes in sich wieder anzufachen
+  - **Option A (Falsch):**
+    - **Vorher:** Die Gnadengabe zu verbergen
+    - **Nachher:** Die Gabe Gottes vor allen zu verbergen
+  - **Option B (Falsch):**
+    - **Vorher:** Die Gnadengabe zu verkaufen
+    - **Nachher:** Die Gabe Gottes für Silber zu verkaufen
+  - **Option C (Falsch):**
+    - **Vorher:** Die Gnadengabe im Tempel abzulegen
+    - **Nachher:** Die Gabe Gottes im Tempel darzubringen
+
+### `2tim_004` (2. Timotheus 1:16-17)
+- **Frage Vorher:** Wer erwies dem gefangenen Apostel Paulus in Rom Barmherzigkeit und erquickte ihn in den Ketten?
+- **Frage Nachher:** Wessen Haus erquickte Paulus in Rom und schämte sich seiner Ketten nicht?
+- **Richtige Antwort (unverändert, Option A):** Das Haus des Onesiphorus
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Der Statthalter von Rom
+    - **Nachher:** Das Haus des Aquila in Rom
+  - **Option C (Falsch):**
+    - **Vorher:** Der Hohepriester von Jerusalem
+    - **Nachher:** Der Hohepriester in Judäa
+  - **Option D (Falsch):**
+    - **Vorher:** Die Gelehrten Athens
+    - **Nachher:** Der Ratsherr der Stadt Rom
+
+### `2tim_005` (2. Timotheus 1:15)
+- **Frage Vorher:** Welche zwei Männer kehrten sich von Paulus ab und verließen ihn in der Provinz Asien?
+- **Frage Nachher:** Welche zwei Männer wandten sich in Asien von Paulus ab (2. Timotheus 1:15)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Phygelus und Hermogenes
+    - **Nachher:** Phygellus und Hermogenes
+  - **Option A (Falsch):**
+    - **Vorher:** Aquila und Apollos
+    - **Nachher:** Aristarchus und Markus
+  - **Option C (Falsch):**
+    - **Vorher:** Silas und Barnabas
+    - **Nachher:** Tychikus und Trophimus
+  - **Option D (Falsch):**
+    - **Vorher:** Titus und Tychikus
+    - **Nachher:** Karpus und Aristarchus
+
+### `2tim_006` (2. Timotheus 2:3-6)
+- **Frage Vorher:** Welches Drei-Bilder-Gleichnis gebraucht Paulus für den treuen Dienst im Reiche Gottes?
+- **Frage Nachher:** Welche drei Bilder gebraucht Paulus in 2. Timotheus 2:3-6 als Vorbilder für den Dienst?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Soldat, Wettkämpfer und Ackerbauer
+    - **Nachher:** Der Streiter, Wettkämpfer und Ackersmann
+  - **Option A (Falsch):**
+    - **Vorher:** Priester, Levit und Schreiber
+    - **Nachher:** Der Priester, der Levit und der Schreiber
+  - **Option B (Falsch):**
+    - **Vorher:** König, Richter und Vogt
+    - **Nachher:** Der König, der Ratsherr und der Richter
+  - **Option D (Falsch):**
+    - **Vorher:** Kaufmann, Fischer und Hirte
+    - **Nachher:** Der Kaufmann, der Fischer und der Hirt
+
+### `2tim_007` (2. Timotheus 2:17-18)
+- **Frage Vorher:** Welchen Irrglauben verbreiteten Hymenäus und Philetus in der Gemeinde, der den Glauben etlicher umstürzte?
+- **Frage Nachher:** Welche Irrlehre verbreiteten Hymenäus und Philetus nach 2. Timotheus 2:18?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Die Auferstehung sei schon geschehen
+    - **Nachher:** Die Auferstehung sei bereits geschehen
+  - **Option A (Falsch):**
+    - **Vorher:** Das Gesetz Moses sei ungültig
+    - **Nachher:** Das mosaische Gesetz sei gänzlich ungültig
+  - **Option B (Falsch):**
+    - **Vorher:** Jesus sei nie leiblich auferstanden
+    - **Nachher:** Jesus Christus sei niemals auferstanden
+  - **Option C (Falsch):**
+    - **Vorher:** Die Beschneidung sei für Heiden Pflicht
+    - **Nachher:** Die Beschneidung sei für Heiden geboten
+
+### `2tim_008` (2. Timotheus 2:19)
+- **Frage Vorher:** Welcher zweifache Aufdruck steht als Siegel auf dem festen Grund Gottes geschrieben?
+- **Frage Nachher:** Welches Siegel trägt der feste Grund Gottes nach 2. Timotheus 2:19?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Der Herr kennt die Seinen; und: Es lasse ab von der Ungerechtigkeit, wer den Namen des Herrn nennt
+    - **Nachher:** «Der Herr kennt die Seinen»; und: «Es stehe fern von Ungerechtigkeit, wer den Namen Christi nennt!»
+  - **Option B (Falsch):**
+    - **Vorher:** Der Herr ist mächtig und sein Wort ewig; und: Fürchtet den Herrn und haltet seine Gebote
+    - **Nachher:** «Der Herr ist allmächtig»; und: «Fürchtet den Herrn allezeit und haltet treu seine heiligen Gebote!»
+  - **Option C (Falsch):**
+    - **Vorher:** Das Gesetz bleibt und der Tempel steht; und: Haltet fest an den Satzungen der Väter
+    - **Nachher:** «Das Gesetz bleibt ewig»; und: «Haltet unverbrüchlich an allen überlieferten Satzungen der Väter fest!»
+  - **Option D (Falsch):**
+    - **Vorher:** Gott liebt die Reichen und richtet die Armen; und: Dient dem Herrn mit euren Gütern
+    - **Nachher:** «Gott segnet die Reichen»; und: «Bringt alle eure irdischen Schätze dar in den Tempel des Herrn!»
+
+### `2tim_009` (2. Timotheus 2:20)
+- **Frage Vorher:** Welche Gefäße befinden sich nach dem Gleichnis im großen Hause des Herrn?
+- **Frage Nachher:** Welche Gefäße gibt es nach dem Gleichnis in 2. Timotheus 2:20 in einem großen Haus?
+- **Richtige Antwort (unverändert, Option B):** Goldene, silberne, hölzerne und irdene Gefäße
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Kupferne, eiserne, steinerne und gläserne
+    - **Nachher:** Kupferne, eiserne, steinerne und gläserne Krüge
+  - **Option C (Falsch):**
+    - **Vorher:** Nur goldene
+    - **Nachher:** Ausschließlich goldene Becher für hohe Fürsten
+  - **Option D (Falsch):**
+    - **Vorher:** Nur irdene
+    - **Nachher:** Nur irdene Schalen für den geringen Hausbedarf
+
+### `2tim_010` (2. Timotheus 2:24-25)
+- **Frage Vorher:** Wie soll der Knecht des Herrn nach den Anweisungen am Ende von Kapitel 2 auftreten?
+- **Frage Nachher:** Wie soll der Knecht des Herrn nach 2. Timotheus 2:24 sein?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Nicht streitsüchtig, sondern freundlich gegen jedermann
+    - **Nachher:** Nicht streitsüchtig, sondern milde gegen jedermann
+  - **Option A (Falsch):**
+    - **Vorher:** Mit harter Strenge und Zorn gegen alle, die seine Lehre bekämpfen
+    - **Nachher:** Mit harter Strenge gegen alle Irrlehrer vorgehen
+  - **Option B (Falsch):**
+    - **Vorher:** Mit stolzer Überheblichkeit gegen alle, die seine Lehre verwerfen
+    - **Nachher:** Mit stolzer Überlegenheit über Schwache urteilen
+  - **Option D (Falsch):**
+    - **Vorher:** Mit Hilfe weltlicher Gerichte gegen alle, die seine Lehre bestreiten
+    - **Nachher:** Mit weltlichen Gesetzen seine Lehre durchsetzen
+
+### `2tim_011` (2. Timotheus 3:1-5)
+- **Frage Vorher:** Wodurch werden die schweren Zeiten in den letzten Tagen gekennzeichnet sein?
+- **Frage Nachher:** Wodurch sind die schweren Zeiten der letzten Tage nach 2. Timotheus 3:1-5 gekennzeichnet?
+- **Richtige Antwort (unverändert, Option D):** Durch Selbstsucht, Geldgier und den Schein von Frömmigkeit ohne deren Kraft
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Durch Frieden und Wohlstand überall und durch Eintracht unter den Menschen
+    - **Nachher:** Durch allgemeinen Frieden und großen irdischen Wohlstand unter allen Völkern
+  - **Option B (Falsch):**
+    - **Vorher:** Durch den Bau prächtiger Tempel und durch die Verehrung der Götter
+    - **Nachher:** Durch den weltweiten Bau neuer Tempel und die allgemeine Verehrung der Götter
+  - **Option C (Falsch):**
+    - **Vorher:** Durch die Bekehrung aller Völker und durch die Verbreitung des Glaubens
+    - **Nachher:** Durch die vollkommene Bekehrung aller Heiden zur rettenden Wahrheit des Herrn
+
+### `2tim_012` (2. Timotheus 3:8)
+- **Frage Vorher:** Welchen zwei alttestamentlichen Männern vergleicht Paulus die Irrlehrer, die dem Mose widerstanden?
+- **Frage Nachher:** Welche zwei Männer widerstanden nach 2. Timotheus 3:8 dem Mose?
+- **Richtige Antwort (unverändert, Option A):** Jannes und Jambres
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Falsch):**
+    - **Vorher:** Korach und Balak
+    - **Nachher:** Korach und Abiram
+
+### `2tim_013` (2. Timotheus 3:10-11)
+- **Frage Vorher:** Aus welchen Städten erwähnt Paulus die Verfolgungen, die er treu erduldet hat?
+- **Frage Nachher:** Aus welchen Orten erwähnt Paulus seine Verfolgungen in 2. Timotheus 3:11?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Aus Antiochia, Ikonium und Lystra
+    - **Nachher:** Aus Antiochia, in Ikonium und in Lystra
+  - **Option A (Falsch):**
+    - **Vorher:** Aus Rom, Korinth und Ephesus
+    - **Nachher:** Aus Rom, Korinth und der Stadt Ephesus
+  - **Option C (Falsch):**
+    - **Vorher:** Aus Jerusalem, Samaria und Damaskus
+    - **Nachher:** Aus Jerusalem, Samaria und aus Damaskus
+  - **Option D (Falsch):**
+    - **Vorher:** Aus Philippi, Thessalonich und Beröa
+    - **Nachher:** Aus Philippi, Thessalonich und in Beröa
+
+### `2tim_014` (2. Timotheus 3:12)
+- **Frage Vorher:** Welcher Grundsatz gilt für alle Menschen, die gottesfürchtig in Christus Jesus leben wollen?
+- **Frage Nachher:** Was gilt nach 2. Timotheus 3:12 für alle, die fromm leben wollen in Christus Jesus?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Sie werden Verfolgung leiden
+    - **Nachher:** Sie werden Verfolgung erleiden müssen
+  - **Option A (Falsch):**
+    - **Vorher:** Sie bleiben stets frei von Leid
+    - **Nachher:** Sie bleiben von jeder Not verschont
+  - **Option B (Falsch):**
+    - **Vorher:** Sie erlangen großen Wohlstand
+    - **Nachher:** Sie erlangen großen Erdenwohlstand
+  - **Option D (Falsch):**
+    - **Vorher:** Sie werden von den Römern geehrt
+    - **Nachher:** Sie werden von den Römern hoch geehrt
+
+### `2tim_015` (2. Timotheus 3:16-17)
+- **Frage Vorher:** Welche unschätzbare Eigenschaft besitzt die ganze heilige Schrift?
+- **Frage Nachher:** Wozu ist alle von Gott eingehauchte Schrift nützlich (2. Timotheus 3:16)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Sie ist von Gott eingegeben und nützlich zur Lehre und Zurechtweisung
+    - **Nachher:** Zur Belehrung, zur Überführung, Zurechtweisung und Erziehung
+  - **Option A (Falsch):**
+    - **Vorher:** Sie ist menschliche Moral und kluge Lebensweisheit der Vorfahren
+    - **Nachher:** Zur Erforschung heidnischer Weisheit und Philosophie alter Zeiten
+  - **Option B (Falsch):**
+    - **Vorher:** Sie gilt nur für Israel und hat für die Heiden keine Bedeutung
+    - **Nachher:** Nur für das Volk Israel unter Ausschluss aller übrigen Völker
+  - **Option C (Falsch):**
+    - **Vorher:** Sie ist eine Sammlung von Fabeln und Sagen aus alter Zeit
+    - **Nachher:** Als bloße Sammlung menschlicher Fabeln ohne göttliche Kraft
+
+### `2tim_016` (2. Timotheus 4:1-2)
+- **Frage Vorher:** Welcher feierliche Auftrag ergeht an Timotheus hinsichtlich der Wortverkündigung?
+- **Frage Nachher:** Was gebietet Paulus dem Timotheus in 2. Timotheus 4:2?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Predige das Wort, steh dazu, ob gelegen oder ungelegen
+    - **Nachher:** Predige das Wort, tritt dafür ein, es sei gelegen oder ungelegen
+  - **Option B (Falsch):**
+    - **Vorher:** Verkündige das Wort nur an Festtagen, wenn die Gemeinde versammelt ist
+    - **Nachher:** Verkündige das Wort nur an Festen, wenn die Menge versammelt ist
+  - **Option C (Falsch):**
+    - **Vorher:** Schweige über die Sünden des Volkes, damit niemand Anstoß nimmt
+    - **Nachher:** Verschweige die Sünden des Volkes, damit niemand daran Anstoß nehme
+  - **Option D (Falsch):**
+    - **Vorher:** Lehre nur die Gesetze der Vorfahren und lass alles Neue beiseite
+    - **Nachher:** Lehre ausschließlich Satzungen der Väter und meide jede Neuerung
+
+### `2tim_017` (2. Timotheus 4:7)
+- **Frage Vorher:** Welches trostvolle Fazit zieht Paulus über sein bisheriges Leben im Angesicht des Todes?
+- **Frage Nachher:** Welches Bekenntnis legt Paulus am Ende seines Lebens ab (2. Timotheus 4:7)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Ich habe den guten Kampf gekämpft, den Lauf vollendet, den Glauben gehalten
+    - **Nachher:** Ich habe den guten Kampf gekämpft, den Lauf vollendet, den Glauben bewahrt
+  - **Option A (Falsch):**
+    - **Vorher:** Ich habe viel Gold gesammelt, das Werk der Gemeinde gesichert und das Land bereist
+    - **Nachher:** Ich habe viel Gold gesammelt und das irdische Werk der Versammlung befestigt
+  - **Option C (Falsch):**
+    - **Vorher:** Ich bin vor allen Feinden geflohen, habe mich verborgen und mein Leben gerettet
+    - **Nachher:** Ich bin vor allen Feinden geflohen und habe mein irdisches Leben beschirmt
+  - **Option D (Falsch):**
+    - **Vorher:** Ich habe alle Heidentempel zerstört, die Götzen verjagt und das Land gereinigt
+    - **Nachher:** Ich habe alle Götzentempel niedergerissen und heidnische Altäre zertreten
+
+### `2tim_018` (2. Timotheus 4:8)
+- **Frage Vorher:** Welche Krone liegt für Paulus und alle, die Christi Erscheinung liebhaben, bereit?
+- **Frage Nachher:** Welche Krone liegt nach 2. Timotheus 4:8 für Paulus und alle bereit, die seine Erscheinung liebgewonnen haben?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Die Krone der Gerechtigkeit, die der Herr, der gerechte Richter, geben wird
+    - **Nachher:** Die Krone der Gerechtigkeit, die der Herr, der gerechte Richter, zuerkennen wird
+  - **Option A (Falsch):**
+    - **Vorher:** Die Krone der Herrscher Roms, die der Kaiser den Treuen gibt
+    - **Nachher:** Die Krone irdischer Herrscher Roms, welche der Kaiser seinen Getreuen verleiht
+  - **Option B (Falsch):**
+    - **Vorher:** Eine Krone aus Gold und Silber, die der Herr den Gläubigen schenkt
+    - **Nachher:** Eine vergängliche Krone aus Gold und Perlen, gefertigt von menschlicher Kunst
+  - **Option D (Falsch):**
+    - **Vorher:** Die Krone des vergänglichen Ruhmes, die die Menschen verleihen
+    - **Nachher:** Die Krone des zeitlichen Ruhmes, welche die Menge den gefeierten Weisen darreicht
+
+### `2tim_019` (2. Timotheus 4:10)
+- **Frage Vorher:** Warum verließ Demas den Apostel Paulus und reiste nach der Stadt Thessalonich?
+- **Frage Nachher:** Warum verließ Demas Paulus und zog nach Thessalonich (2. Timotheus 4:10)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Weil er die jetzige Welt liebgewonnen hatte
+    - **Nachher:** Weil er diesen Weltlauf liebgewonnen hatte
+  - **Option A (Falsch):**
+    - **Vorher:** Weil er von Roms Richtern gefangen wurde
+    - **Nachher:** Weil er von römischen Richtern ergriffen wurde
+  - **Option B (Falsch):**
+    - **Vorher:** Weil er dort das Evangelium predigen wollte
+    - **Nachher:** Weil er dort das Evangelium verkündigen wollte
+  - **Option C (Falsch):**
+    - **Vorher:** Weil er Brot kaufen sollte
+    - **Nachher:** Weil er Vorräte für den kalten Winter kaufte
+
+### `2tim_020` (2. Timotheus 4:13)
+- **Frage Vorher:** Welchen Gegenstand sollte Timotheus von Karpus aus Troas neben den Papieren mitbringen?
+- **Frage Nachher:** Was sollte Timotheus nach 2. Timotheus 4:13 aus Troas von Karpus mitbringen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Den Mantel, die Bücher, besonders die Pergamente
+    - **Nachher:** Den Reisemantel, die Schriftrollen, vor allem die Pergamente
+  - **Option B (Falsch):**
+    - **Vorher:** Das Schwert des Apostels, das er für die Reise brauchte
+    - **Nachher:** Das eiserne Schwert, das er zur Verteidigung der Brüder brauchte
+  - **Option C (Falsch):**
+    - **Vorher:** Den goldenen Becher, den er bei Karpus zurückgelassen hatte
+    - **Nachher:** Den goldenen Becher, welchen er für das heilige Mahl bewahrte
+  - **Option D (Falsch):**
+    - **Vorher:** Das alte Zelt für den Winter, das er bei Karpus untergestellt hatte
+    - **Nachher:** Das schwere Zelt aus Tierhäuten für die kalte Winterzeit in Rom

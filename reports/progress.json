@@ -1,7 +1,7 @@
 {
   "branch": "review-and-english",
   "totalFiles": 66,
-  "completedCount": 54,
+  "completedCount": 55,
   "completedFiles": [
     "01_1_mose.json",
     "02_2_mose.json",
@@ -56,10 +56,10 @@
     "51_kolosser.json",
     "52_1_thessalonicher.json",
     "53_2_thessalonicher.json",
-    "54_1_timotheus.json"
+    "54_1_timotheus.json",
+    "55_2_timotheus.json"
   ],
   "pendingFiles": [
-    "55_2_timotheus.json",
     "56_titus.json",
     "57_philemon.json",
     "58_hebraeer.json",
@@ -450,6 +450,13 @@
       "explanationsReviewedEn": 0,
       "reportPath": "reports/54_1_timotheus.md",
       "enPath": "en/54_1_timotheus.json"
+    },
+    "55_2_timotheus.json": {
+      "questionsCount": 20,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/55_2_timotheus.md",
+      "enPath": "en/55_2_timotheus.json"
     }
   }
 }
