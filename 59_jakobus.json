@@ -25,750 +25,850 @@
     {
       "questionId": "jak_001",
       "type": "single_choice",
-      "text": "Wie nennt sich Jakobus im Absendergruß seines Briefes an die zwölf Stämme?",
+      "text": "Wie nennt sich Jakobus im Absendergruß seines Briefes an die zwölf Stämme (Jakobus 1:1)?",
       "options": [
         {
           "text": "Ein Apostel der Zwölf in Jerusalem, von Christus berufen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ein Knecht Gottes und des Herrn Jesus Christus [ref:Jakobus 1:1]."
+          "isCorrect": false,
+          "explanation": ""
         },
         {
           "text": "Ein Knecht Gottes und des Herrn Jesus Christus",
-          "explanation": "Jakobus, ein Knecht Gottes und des Herrn Jesus Christus, grüßt die zwölf Stämme in der Zerstreuung [ref:Jakobus 1:1]."
+          "isCorrect": true,
+          "explanation": ""
         },
         {
           "text": "Ein Hohepriester des Neuen Bundes, eingesetzt von Gott",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ein Knecht Gottes und des Herrn Jesus Christus [ref:Jakobus 1:1]."
+          "isCorrect": false,
+          "explanation": ""
         },
         {
           "text": "Ein Prophet für die Zerstreuten, gesandt zu den zwölf Stämmen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ein Knecht Gottes und des Herrn Jesus Christus [ref:Jakobus 1:1]."
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Jakobus 1:1",
-      "explanation": "Jakobus, ein Knecht Gottes und des Herrn Jesus Christus, grüßt die zwölf Stämme in der Zerstreuung [ref:Jakobus 1:1].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "jak_002",
       "type": "single_choice",
-      "text": "Wozu führt das Erproben des Glaubens nach den Worten im ersten Kapitel?",
+      "text": "Was bewirkt die Bewährung des Glaubens nach Jakobus 1:2-3?",
       "options": [
         {
-          "text": "Zum Verlust aller Freude",
-          "explanation": "Das trifft nicht zu. Richtig ist: Zur Geduld (Standhaftigkeit) [ref:Jakobus 1:2-3]."
+          "text": "Sie bewirkt den Verlust der Freude",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Zur Befreiung von aller Not",
-          "explanation": "Das trifft nicht zu. Richtig ist: Zur Geduld (Standhaftigkeit) [ref:Jakobus 1:2-3]."
+          "text": "Sie bewirkt Befreiung aus aller Not",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Zur Geduld (Standhaftigkeit)",
-          "explanation": "Erachtet es für lauter Freude, wenn ihr in mancherlei Anfechtungen geratet, da ihr wisst, dass die Bewährung eures Glaubens Geduld bewirkt [ref:Jakobus 1:2-3]."
+          "text": "Sie bewirkt ausharrende Geduld",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Zum Erwerb von Reichtum",
-          "explanation": "Das trifft nicht zu. Richtig ist: Zur Geduld (Standhaftigkeit) [ref:Jakobus 1:2-3]."
+          "text": "Sie bewirkt weltlichen Reichtum",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Jakobus 1:2-3",
-      "explanation": "Erachtet es für lauter Freude, wenn ihr in mancherlei Anfechtungen geratet, da ihr wisst, dass die Bewährung eures Glaubens Geduld bewirkt [ref:Jakobus 1:2-3].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "jak_003",
       "type": "single_choice",
-      "text": "Was soll derjenige tun, dem es an göttlicher Weisheit im Leben mangelt?",
+      "text": "Was soll der tun, dem es an Weisheit mangelt (Jakobus 1:5)?",
       "options": [
         {
-          "text": "Die Bücher der Weisen lesen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Gott darum bitten [ref:Jakobus 1:5]."
+          "text": "Er soll die Schriftgelehrten fragen",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Die weltlichen Richter fragen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Gott darum bitten [ref:Jakobus 1:5]."
+          "text": "Er soll Bücher der Weisen studieren",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Sich in die Einsamkeit zurückziehen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Gott darum bitten [ref:Jakobus 1:5]."
+          "text": "Er soll sich in Einsamkeit prüfen",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Gott darum bitten",
-          "explanation": "Wenn aber jemandem unter euch Weisheit mangelt, so bitte er Gott, der allen willig gibt und niemanden schilt [ref:Jakobus 1:5]."
+          "text": "Er soll sie von Gott erbitten",
+          "isCorrect": true,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Jakobus 1:5",
-      "explanation": "Wenn aber jemandem unter euch Weisheit mangelt, so bitte er Gott, der allen willig gibt und niemanden schilt [ref:Jakobus 1:5].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "jak_004",
       "type": "single_choice",
-      "text": "Was empfängt der Mann, der die Anfechtung erduldet und bewährt erfunden wird?",
+      "text": "Was empfängt der Mann, der die Anfechtung erduldet, wenn er sich bewährt hat (Jakobus 1:12)?",
       "options": [
         {
-          "text": "Die Krone des Lebens, die Gott denen verheißen hat, die ihn lieben",
-          "explanation": "Selig ist der Mann, der die Anfechtung erduldet; denn nachdem er bewährt ist, wird er die Krone des Lebens empfangen [ref:Jakobus 1:12]."
+          "text": "Die Krone des Lebens, welche der Herr verheißen hat",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Die Krone der Könige, die Gott seinen Getreuen aufsetzt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Krone des Lebens, die Gott denen verheißen hat, die ihn lieben [ref:Jakobus 1:12]."
+          "text": "Die Krone irdischer Könige, welche den Herrschern gebührt",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Den Oberbefehl über die Heere Roms, den er den Bewährten gibt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Krone des Lebens, die Gott denen verheißen hat, die ihn lieben [ref:Jakobus 1:12]."
+          "text": "Den Reichtum der Völker, welchen die Mächtigen erwerben",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Die Schätze des Tempels, die er den Treuen zuteilt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Krone des Lebens, die Gott denen verheißen hat, die ihn lieben [ref:Jakobus 1:12]."
+          "text": "Den Ruhm der Welt, welchen die Menschen den Siegern geben",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Jakobus 1:12",
-      "explanation": "Selig ist der Mann, der die Anfechtung erduldet; denn nachdem er bewährt ist, wird er die Krone des Lebens empfangen [ref:Jakobus 1:12].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "jak_005",
       "type": "single_choice",
-      "text": "Wozu werden die Glaubenden bezüglich des gehörten Wortes aufgerufen?",
+      "text": "Wozu werden die Gläubigen in Jakobus 1:22 bezüglich des Wortes aufgerufen?",
       "options": [
         {
-          "text": "Nur stille Hörer zu sein und das Gehörte ruhig zu bedenken",
-          "explanation": "Das trifft nicht zu. Richtig ist: Täter des Wortes zu sein und nicht nur Hörer [ref:Jakobus 1:22]."
+          "text": "Stille Hörer des Wortes zu sein und es nur zu bewahren",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Täter des Wortes zu sein und nicht nur Hörer",
-          "explanation": "Seid aber Täter des Worts und nicht Hörer allein, wodurch ihr euch selbst betrügt [ref:Jakobus 1:22]."
+          "text": "Täter des Wortes zu sein und nicht Hörer allein",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Das Wort für sich zu behalten und es nicht weiterzugeben",
-          "explanation": "Das trifft nicht zu. Richtig ist: Täter des Wortes zu sein und nicht nur Hörer [ref:Jakobus 1:22]."
+          "text": "Verkünder des Wortes zu sein und es allein zu lehren",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Das Wort neu zu schreiben und es auf die Zeit anzuwenden",
-          "explanation": "Das trifft nicht zu. Richtig ist: Täter des Wortes zu sein und nicht nur Hörer [ref:Jakobus 1:22]."
+          "text": "Hüter des Wortes zu sein und es vor Fremden zu hüten",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Jakobus 1:22",
-      "explanation": "Seid aber Täter des Worts und nicht Hörer allein, wodurch ihr euch selbst betrügt [ref:Jakobus 1:22].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "jak_006",
       "type": "single_choice",
-      "text": "Wovor warnt Jakobus die Glaubenden im Hinblick auf das Ansehen der Person?",
+      "text": "Wovor warnt Jakobus die Brüder im Hinblick auf das Ansehen der Person (Jakobus 2:1-4)?",
       "options": [
         {
           "text": "Vor der Bevorzugung der Armen gegenüber den Reichen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Vor der Bevorzugung der Reichen gegenüber den Armen [ref:Jakobus 2:1-4]."
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Vor dem Einladen von Gästen in die Versammlung",
-          "explanation": "Das trifft nicht zu. Richtig ist: Vor der Bevorzugung der Reichen gegenüber den Armen [ref:Jakobus 2:1-4]."
+          "text": "Vor dem Einladen von Gästen in die Synagoge",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
           "text": "Vor der Bevorzugung der Reichen gegenüber den Armen",
-          "explanation": "Haltet nicht am Glauben an unsern Herrn Jesus Christus, den Herrn der Herrlichkeit, mit Ansehen der Person fest [ref:Jakobus 2:1-4]."
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Vor der Arbeit in der Versammlung am Tag des Herrn",
-          "explanation": "Das trifft nicht zu. Richtig ist: Vor der Bevorzugung der Reichen gegenüber den Armen [ref:Jakobus 2:1-4]."
+          "text": "Vor der Arbeit in der Synagoge am Tag des Herrn",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Jakobus 2:1-4",
-      "explanation": "Haltet nicht am Glauben an unsern Herrn Jesus Christus, den Herrn der Herrlichkeit, mit Ansehen der Person fest [ref:Jakobus 2:1-4].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "jak_007",
       "type": "single_choice",
-      "text": "Welches Gebot wird im zweiten Kapitel ausdrücklich als das „königliche Gesetz“ bezeichnet?",
+      "text": "Welches Gebot wird in Jakobus 2:8 als das „königliche Gesetz“ bezeichnet?",
       "options": [
         {
           "text": "Gedenke des Sabbattages, dass du ihn heiligst",
-          "explanation": "Das trifft nicht zu. Richtig ist: Du sollst deinen Nächsten lieben wie dich selbst [ref:Jakobus 2:8]."
+          "isCorrect": false,
+          "explanation": ""
         },
         {
           "text": "Du sollst keine fremden Götter neben mir haben",
-          "explanation": "Das trifft nicht zu. Richtig ist: Du sollst deinen Nächsten lieben wie dich selbst [ref:Jakobus 2:8]."
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Ehre Vater und Mutter, auf dass du lange lebst",
-          "explanation": "Das trifft nicht zu. Richtig ist: Du sollst deinen Nächsten lieben wie dich selbst [ref:Jakobus 2:8]."
+          "text": "Ehre deinen Vater und deine Mutter im Lande",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
           "text": "Du sollst deinen Nächsten lieben wie dich selbst",
-          "explanation": "Wenn ihr das königliche Gesetz erfüllt nach der Schrift: Du sollst deinen Nächsten lieben wie dich selbst, so tut ihr recht [ref:Jakobus 2:8]."
+          "isCorrect": true,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Jakobus 2:8",
-      "explanation": "Wenn ihr das königliche Gesetz erfüllt nach der Schrift: Du sollst deinen Nächsten lieben wie dich selbst, so tut ihr recht [ref:Jakobus 2:8].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "jak_008",
       "type": "single_choice",
-      "text": "Was geschieht mit demjenigen, der das ganze Gesetz hält, aber in einem Gebot strauchelt?",
+      "text": "Was gilt für den, der das ganze Gesetz hält, aber in einem strauchelt (Jakobus 2:10)?",
       "options": [
         {
-          "text": "Er ist an allen schuldig geworden",
-          "explanation": "Wer das ganze Gesetz hält und sündigt gegen ein einziges Gebot, der ist an allen schuldig geworden [ref:Jakobus 2:10]."
+          "text": "Er ist an allem schuldig geworden",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Er bleibt völlig schuldlos",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er ist an allen schuldig geworden [ref:Jakobus 2:10]."
+          "text": "Er bleibt vor Gott völlig schuldlos",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Er zahlt eine kleine Buße",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er ist an allen schuldig geworden [ref:Jakobus 2:10]."
+          "text": "Er zahlt dafür eine geringe Buße",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Er verliert die Hälfte seines Lohnes",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er ist an allen schuldig geworden [ref:Jakobus 2:10]."
+          "text": "Er verliert die Hälfte des Lohnes",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Jakobus 2:10",
-      "explanation": "Wer das ganze Gesetz hält und sündigt gegen ein einziges Gebot, der ist an allen schuldig geworden [ref:Jakobus 2:10].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "jak_009",
       "type": "single_choice",
-      "text": "Wie verhält es sich mit dem Glauben, der keine entsprechenden Werke hervorbringt?",
+      "text": "Wie verhält es sich mit dem Glauben, wenn er keine Werke hat (Jakobus 2:17)?",
       "options": [
         {
           "text": "Er ist dennoch gültig, denn Gott sieht auf das Herz",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er ist, wenn er keine Werke hat, in sich selbst tot [ref:Jakobus 2:17]."
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Er ist, wenn er keine Werke hat, in sich selbst tot",
-          "explanation": "So ist auch der Glaube, wenn er nicht Werke hat, in sich selber tot [ref:Jakobus 2:17]."
+          "text": "Er ist an und für sich tot, wenn er keine Werke hat",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
           "text": "Er nützt nur den Schwachen, die keine Werke tun können",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er ist, wenn er keine Werke hat, in sich selbst tot [ref:Jakobus 2:17]."
+          "isCorrect": false,
+          "explanation": ""
         },
         {
           "text": "Er wird erst im Himmel vollkommen, wenn die Werke folgen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er ist, wenn er keine Werke hat, in sich selbst tot [ref:Jakobus 2:17]."
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Jakobus 2:17",
-      "explanation": "So ist auch der Glaube, wenn er nicht Werke hat, in sich selber tot [ref:Jakobus 2:17].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "jak_010",
       "type": "single_choice",
-      "text": "Welches alttestamentliche Beispiel führt Jakobus für die Vollendung des Glaubens durch Werke an?",
+      "text": "Welches Vorbild führt Jakobus für den durch Werke vollendeten Glauben an (Jakobus 2:21-23)?",
       "options": [
         {
           "text": "Mose, der den Felsen schlug und Wasser hervorbrachte",
-          "explanation": "Das trifft nicht zu. Richtig ist: Abraham, der Isaak auf dem Altar opferte [ref:Jakobus 2:21-23]."
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "David im Kampf gegen Goliat und seine Gefährten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Abraham, der Isaak auf dem Altar opferte [ref:Jakobus 2:21-23]."
+          "text": "David im Kampf gegen Goliat und seine Kriegsleute",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Abraham, der Isaak auf dem Altar opferte",
-          "explanation": "Ist nicht unser Vater Abraham durch Werke gerechtfertigt worden, als er seinen Sohn Isaak auf dem Altar opferte? [ref:Jakobus 2:21-23]."
+          "text": "Abraham, der seinen Sohn Isaak auf dem Altar darbrachte",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Noah beim Bau der Arche vor der Sintflut",
-          "explanation": "Das trifft nicht zu. Richtig ist: Abraham, der Isaak auf dem Altar opferte [ref:Jakobus 2:21-23]."
+          "text": "Noah beim Bau der großen Arche vor der Sintflut",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Jakobus 2:21-23",
-      "explanation": "Ist nicht unser Vater Abraham durch Werke gerechtfertigt worden, als er seinen Sohn Isaak auf dem Altar opferte? [ref:Jakobus 2:21-23].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "jak_011",
       "type": "single_choice",
-      "text": "Warum sollen nicht viele in der Gemeinde nach dem Amt des Lehrers streben?",
+      "text": "Warum sollen nicht viele Lehrer werden nach Jakobus 3:1?",
       "options": [
         {
-          "text": "Weil Lehrer keine Ehre empfangen und von allen verachtet werden",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil Lehrer ein strengeres Urteil empfangen werden [ref:Jakobus 3:1]."
+          "text": "Weil Lehrer von den Menschen oft verachtet werden",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Weil Lehrer viel Geld spenden müssen und selbst arm bleiben",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil Lehrer ein strengeres Urteil empfangen werden [ref:Jakobus 3:1]."
+          "text": "Weil Lehrer große Abgaben an die Armen zahlen",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Weil Lehrer nicht heiraten dürfen und ohne Familie leben",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil Lehrer ein strengeres Urteil empfangen werden [ref:Jakobus 3:1]."
+          "text": "Weil Lehrer keine eigenen Güter besitzen dürfen",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Weil Lehrer ein strengeres Urteil empfangen werden",
-          "explanation": "Werdet nicht viele Lehrer, meine Brüder, da ihr wisst, dass wir ein strengeres Urteil empfangen werden [ref:Jakobus 3:1]."
+          "text": "Weil wir Lehrer ein strengeres Urteil empfangen",
+          "isCorrect": true,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Jakobus 3:1",
-      "explanation": "Werdet nicht viele Lehrer, meine Brüder, da ihr wisst, dass wir ein strengeres Urteil empfangen werden [ref:Jakobus 3:1].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "jak_012",
       "type": "single_choice",
-      "text": "Wer kann nach den Worten im dritten Kapitel als ein vollkommener Mann bezeichnet werden?",
+      "text": "Wer ist nach Jakobus 3:2 ein vollendeter Mann?",
       "options": [
         {
-          "text": "Wer im Wort nicht strauchelt",
-          "explanation": "Wer im Wort nicht strauchelt, der ist ein vollkommener Mann, der auch den ganzen Leib im Zaum halten kann [ref:Jakobus 3:2]."
+          "text": "Wer in der Rede nicht strauchelt",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Wer nie Zorn fühlt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Wer im Wort nicht strauchelt [ref:Jakobus 3:2]."
+          "text": "Wer im Zorn niemals sündigt",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Wer den Armen sein Geld gibt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Wer im Wort nicht strauchelt [ref:Jakobus 3:2]."
+          "text": "Wer den Armen all sein Gut gibt",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Wer alle Schriften auswendig weiß",
-          "explanation": "Das trifft nicht zu. Richtig ist: Wer im Wort nicht strauchelt [ref:Jakobus 3:2]."
+          "text": "Wer das Gesetz vollständig kennt",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Jakobus 3:2",
-      "explanation": "Wer im Wort nicht strauchelt, der ist ein vollkommener Mann, der auch den ganzen Leib im Zaum halten kann [ref:Jakobus 3:2].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "jak_013",
       "type": "single_choice",
-      "text": "Womit vergleicht Jakobus die Zunge im menschlichen Körper?",
+      "text": "Womit vergleicht Jakobus die Zunge in Jakobus 3:5-6?",
       "options": [
         {
-          "text": "Mit einem mächtigen Schwert, das einen ganzen Feind besiegt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Mit einem kleinen Feuer, das einen großen Wald anzündet [ref:Jakobus 3:5-6]."
+          "text": "Mit einem mächtigen Schwert, das einen Feind besiegt",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
           "text": "Mit einem kleinen Feuer, das einen großen Wald anzündet",
-          "explanation": "So ist auch die Zunge ein kleines Glied und rühmt sich großer Dinge. Siehe, ein kleines Feuer, welch einen Wald zündet es an! [ref:Jakobus 3:5-6]."
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Mit einem tiefen Brunnen, der viel Wasser enthält",
-          "explanation": "Das trifft nicht zu. Richtig ist: Mit einem kleinen Feuer, das einen großen Wald anzündet [ref:Jakobus 3:5-6]."
+          "text": "Mit einem tiefen Brunnen, der viel frisches Wasser birgt",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Mit einer goldenen Krone, die dem Träger Ehre bringt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Mit einem kleinen Feuer, das einen großen Wald anzündet [ref:Jakobus 3:5-6]."
+          "text": "Mit einer goldenen Krone, die dem Träger Ehre verleiht",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Jakobus 3:5-6",
-      "explanation": "So ist auch die Zunge ein kleines Glied und rühmt sich großer Dinge. Siehe, ein kleines Feuer, welch einen Wald zündet es an! [ref:Jakobus 3:5-6].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "jak_014",
       "type": "single_choice",
-      "text": "Welcher Widerspruch wird bei der Zunge des Menschen aufgedeckt?",
+      "text": "Welcher Widerspruch des Mundes wird in Jakobus 3:9-10 beklagt?",
       "options": [
         {
-          "text": "Wir schweigen und reden zugleich und wissen nicht, was wir wollen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Mit derselben Zunge loben wir den Herrn und fluchen den Menschen [ref:Jakobus 3:9-10]."
+          "text": "Dass wir schweigen und zugleich unbedachte Worte reden",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Wir singen im Tempel und klagen in Not mit derselben Zunge",
-          "explanation": "Das trifft nicht zu. Richtig ist: Mit derselben Zunge loben wir den Herrn und fluchen den Menschen [ref:Jakobus 3:9-10]."
+          "text": "Dass wir im Tempel singen und zuhause heimlich klagen",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Mit derselben Zunge loben wir den Herrn und fluchen den Menschen",
-          "explanation": "Aus demselben Mund geht Segen und Fluch hervor. Es soll nicht so sein, meine Brüder [ref:Jakobus 3:9-10]."
+          "text": "Dass mit derselben Zunge Loben und Fluchen hervorgeht",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Wir lehren die Alten und lernen von den Jungen mit dem Mund",
-          "explanation": "Das trifft nicht zu. Richtig ist: Mit derselben Zunge loben wir den Herrn und fluchen den Menschen [ref:Jakobus 3:9-10]."
+          "text": "Dass wir Fremde ehren und die eigenen Brüder richten",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Jakobus 3:9-10",
-      "explanation": "Aus demselben Mund geht Segen und Fluch hervor. Es soll nicht so sein, meine Brüder [ref:Jakobus 3:9-10].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "jak_015",
       "type": "single_choice",
-      "text": "Welche Eigenschaften zeichnen die Weisheit aus, die von oben herab kommt?",
+      "text": "Wie wird die Weisheit von oben in Jakobus 3:17 beschrieben?",
       "options": [
         {
-          "text": "Stolz, hart, streitsüchtig und zornig, voll Ehrgeiz, Eifersucht und Selbstsucht",
-          "explanation": "Das trifft nicht zu. Richtig ist: Zuerst rein, dann friedfertig, milde, gehorsam, voll Barmherzigkeit und guter Früchte [ref:Jakobus 3:17]."
+          "text": "Streitsüchtig und zornig, voll Ehrgeiz, Eifersucht und Selbstsucht",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Geheim und nur für die Priester bestimmt, verborgen vor dem Volk und den Ungelehrten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Zuerst rein, dann friedfertig, milde, gehorsam, voll Barmherzigkeit und guter Früchte [ref:Jakobus 3:17]."
+          "text": "Geheim und verborgen vor dem Volk, nur bestimmt für die Priester",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Gelehrt, mächtig und weltlich geehrt, geachtet und gefürchtet von allen Menschen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Zuerst rein, dann friedfertig, milde, gehorsam, voll Barmherzigkeit und guter Früchte [ref:Jakobus 3:17]."
+          "text": "Gelehrt und weltlich hoch geachtet, gerühmt von allen Menschen",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Zuerst rein, dann friedfertig, milde, gehorsam, voll Barmherzigkeit und guter Früchte",
-          "explanation": "Die Weisheit von oben her ist aufs erste lauter, danach friedfertig, gelinde, lässt sich etwas sagen, voll Barmherzigkeit und guter Früchte [ref:Jakobus 3:17]."
+          "text": "Erstens rein, sodann friedsam, gelinde, folgsam und barmherzig",
+          "isCorrect": true,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Jakobus 3:17",
-      "explanation": "Die Weisheit von oben her ist aufs erste lauter, danach friedfertig, gelinde, lässt sich etwas sagen, voll Barmherzigkeit und guter Früchte [ref:Jakobus 3:17].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "jak_016",
       "type": "single_choice",
-      "text": "Woher entstehen Kriege und Streitigkeiten unter den Menschen?",
+      "text": "Woher kommen Kämpfe und Streitigkeiten nach Jakobus 4:1?",
       "options": [
         {
-          "text": "Aus den Lüsten, die in euren Gliedern streiten",
-          "explanation": "Woher kommt der Streit und der Krieg unter euch? Kommt es nicht daher, dass in euren Gliedern die Lüste streiten? [ref:Jakobus 4:1]."
+          "text": "Von den Gelüsten, die in den Gliedern streiten",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Aus dem Mangel an Gesetzen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Aus den Lüsten, die in euren Gliedern streiten [ref:Jakobus 4:1]."
+          "text": "Von den Befehlen der heidnischen Machthaber",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Aus den Befehlen der heidnischen Herrscher",
-          "explanation": "Das trifft nicht zu. Richtig ist: Aus den Lüsten, die in euren Gliedern streiten [ref:Jakobus 4:1]."
+          "text": "Von der großen Armut und dem Mangel an Brot",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Aus Armut an Nahrung",
-          "explanation": "Das trifft nicht zu. Richtig ist: Aus den Lüsten, die in euren Gliedern streiten [ref:Jakobus 4:1]."
+          "text": "Von den Gesetzen der fremden Obersten im Land",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Jakobus 4:1",
-      "explanation": "Woher kommt der Streit und der Krieg unter euch? Kommt es nicht daher, dass in euren Gliedern die Lüste streiten? [ref:Jakobus 4:1].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "jak_017",
       "type": "single_choice",
-      "text": "Was bedeutet die Freundschaft mit der sündigen Welt vor Gott?",
+      "text": "Was ist die Freundschaft mit der Welt nach Jakobus 4:4?",
       "options": [
         {
-          "text": "Ein kluger Schritt zur Ausbreitung der Lehre",
-          "explanation": "Das trifft nicht zu. Richtig ist: Feindschaft gegen Gott [ref:Jakobus 4:4]."
+          "text": "Ein kluger Weg zur Ausbreitung der Lehre",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Feindschaft gegen Gott",
-          "explanation": "Wisst ihr nicht, dass Freundschaft mit der Welt Feindschaft gegen Gott ist? Wer ein Freund der Welt sein will, der wird Gottes Feind sein [ref:Jakobus 4:4]."
+          "text": "Feindschaft gegen Gott vor seinen Augen",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Eine Pflicht zur Friedenssicherung",
-          "explanation": "Das trifft nicht zu. Richtig ist: Feindschaft gegen Gott [ref:Jakobus 4:4]."
+          "text": "Eine Pflicht zur Sicherung des Friedens",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Eine kleine Schwachheit ohne Strafe",
-          "explanation": "Das trifft nicht zu. Richtig ist: Feindschaft gegen Gott [ref:Jakobus 4:4]."
+          "text": "Eine bloße Schwachheit ohne jede Sünde",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Jakobus 4:4",
-      "explanation": "Wisst ihr nicht, dass Freundschaft mit der Welt Feindschaft gegen Gott ist? Wer ein Freund der Welt sein will, der wird Gottes Feind sein [ref:Jakobus 4:4].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "jak_018",
       "type": "single_choice",
-      "text": "Wie verhält sich Gott gegenüber den Hochmütigen und den Demütigen?",
+      "text": "Wie verhält sich Gott nach Jakobus 4:6 zu Stolzen und Demütigen?",
       "options": [
         {
-          "text": "Gott liebt die Hochmütigen und straft die Demütigen, wie sie es verdient haben",
-          "explanation": "Das trifft nicht zu. Richtig ist: Gott widersteht den Hochmütigen, aber den Demütigen gibt er Gnade [ref:Jakobus 4:6]."
+          "text": "Gott liebt die Stolzen und straft die Demütigen nach Verdienst",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Gott behandelt beide gleich und urteilt nach dem Gesetz",
-          "explanation": "Das trifft nicht zu. Richtig ist: Gott widersteht den Hochmütigen, aber den Demütigen gibt er Gnade [ref:Jakobus 4:6]."
+          "text": "Gott behandelt beide gleich und richtet streng nach Gesetz",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Gott widersteht den Hochmütigen, aber den Demütigen gibt er Gnade",
-          "explanation": "Gott widersteht den Hoffärtigen, aber den Demütigen gibt er Gnade [ref:Jakobus 4:6]."
+          "text": "Gott widersteht den Stolzen, aber den Demütigen gibt er Gnade",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Gott richtet nur die Demütigen und verschont die Hochmütigen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Gott widersteht den Hochmütigen, aber den Demütigen gibt er Gnade [ref:Jakobus 4:6]."
+          "text": "Gott erhört allein die Stolzen und verwirft die Demütigen",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Jakobus 4:6",
-      "explanation": "Gott widersteht den Hoffärtigen, aber den Demütigen gibt er Gnade [ref:Jakobus 4:6].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "jak_019",
       "type": "single_choice",
-      "text": "Was geschieht, wenn sich der Glaubende dem Teufel im Namen Gottes widersetzt?",
+      "text": "Was geschieht nach Jakobus 4:7, wenn man dem Teufel widersteht?",
       "options": [
         {
-          "text": "Der Teufel fängt ihn sofort",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der Teufel flieht vor ihm [ref:Jakobus 4:7]."
+          "text": "Der Teufel fängt ihn alsbald",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Der Teufel wird mächtiger",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der Teufel flieht vor ihm [ref:Jakobus 4:7]."
+          "text": "Der Teufel wird noch mächtiger",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Der Teufel bleibt wirkungslos",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der Teufel flieht vor ihm [ref:Jakobus 4:7]."
+          "text": "Der Teufel bleibt völlig stumm",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Der Teufel flieht vor ihm",
-          "explanation": "So seid nun Gott untertan. Widersteht dem Teufel, so flieht er von euch [ref:Jakobus 4:7]."
+          "text": "Der Teufel flieht von euch",
+          "isCorrect": true,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Jakobus 4:7",
-      "explanation": "So seid nun Gott untertan. Widersteht dem Teufel, so flieht er von euch [ref:Jakobus 4:7].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "jak_020",
       "type": "single_choice",
-      "text": "Was gilt für denjenigen, der weiß, Gutes zu tun, und es dennoch nicht tut?",
+      "text": "Was gilt nach Jakobus 4:17 für den, der weiß, Gutes zu tun, und es nicht tut?",
       "options": [
         {
-          "text": "Dem ist es Sünde",
-          "explanation": "Wer da weiß, Gutes zu tun, und tut es nicht, dem ist es Sünde [ref:Jakobus 4:17]."
+          "text": "Dem ist es Sünde vor dem Herrn",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Es ist verzeihliche Schwäche",
-          "explanation": "Das trifft nicht zu. Richtig ist: Dem ist es Sünde [ref:Jakobus 4:17]."
+          "text": "Es ist verzeihliche Nachlässigkeit",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Es bleibt ohne Auswirkung vor Gott",
-          "explanation": "Das trifft nicht zu. Richtig ist: Dem ist es Sünde [ref:Jakobus 4:17]."
+          "text": "Es bleibt völlig ohne jede Schuld",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Es wird durch spätere Gebete ersetzt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Dem ist es Sünde [ref:Jakobus 4:17]."
+          "text": "Es wird durch gute Gebete gebüßt",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Jakobus 4:17",
-      "explanation": "Wer da weiß, Gutes zu tun, und tut es nicht, dem ist es Sünde [ref:Jakobus 4:17].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "jak_021",
       "type": "single_choice",
-      "text": "Warum ergeht ein Weheruf über die ungerechten Reichen im fünften Kapitel?",
+      "text": "Warum ergeht das Wehe über die Reichen in Jakobus 5:1-4?",
       "options": [
         {
-          "text": "Weil sie keine Häuser für die Armen bauten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil sie den Arbeitern den Lohn vorenthielten [ref:Jakobus 5:1-4]."
+          "text": "Weil sie keine Unterkünfte für die Fremdlinge bauten",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Weil sie den Arbeitern den Lohn vorenthielten",
-          "explanation": "Siehe, der Lohn der Arbeiter, die eure Felder abgeerntet haben, den ihr ihnen vorenthalten habt, schreit [ref:Jakobus 5:1-4]."
+          "text": "Weil der Lohn der Schnitter von ihnen zurückbehalten wurde",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Weil sie nicht nach Rom reisten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil sie den Arbeitern den Lohn vorenthielten [ref:Jakobus 5:1-4]."
+          "text": "Weil sie keine Opfer im Tempel zu Jerusalem darbrachten",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Weil sie alte Gesetzbücher verbrannten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil sie den Arbeitern den Lohn vorenthielten [ref:Jakobus 5:1-4]."
+          "text": "Weil sie die alten Gesetze der Väter verbrennen ließen",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Jakobus 5:1-4",
-      "explanation": "Siehe, der Lohn der Arbeiter, die eure Felder abgeerntet haben, den ihr ihnen vorenthalten habt, schreit [ref:Jakobus 5:1-4].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "jak_022",
       "type": "single_choice",
-      "text": "Welches Vorbild der Geduld führt Jakobus für das Warten auf den Herrn an?",
+      "text": "Welches Vorbild der Geduld führt Jakobus in Jakobus 5:7 an?",
       "options": [
         {
-          "text": "Den Kaufmann, der auf das Schiff wartet, das seine Ware bringt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Den Landmann, der auf die köstliche Frucht der Erde wartet [ref:Jakobus 5:7-8]."
+          "text": "Den Kaufmann, der auf Schiffe mit kostbarer Fracht wartet",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Den Soldaten, der auf den Sieg wartet, den sein Feldherr erringt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Den Landmann, der auf die köstliche Frucht der Erde wartet [ref:Jakobus 5:7-8]."
+          "text": "Den Krieger, der auf den Sieg seines weisen Führers wartet",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
           "text": "Den Landmann, der auf die köstliche Frucht der Erde wartet",
-          "explanation": "Siehe, der Ackermann wartet auf die köstliche Frucht der Erde und ist geduldig darüber, bis er empfange den Frühregen und Spätregen [ref:Jakobus 5:7-8]."
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Den Priester, der auf das Opfer wartet, das ihm gebracht wird",
-          "explanation": "Das trifft nicht zu. Richtig ist: Den Landmann, der auf die köstliche Frucht der Erde wartet [ref:Jakobus 5:7-8]."
+          "text": "Den Wächter, der auf das Aufgehen des hellen Morgens wartet",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
-      "bibleReference": "Jakobus 5:7-8",
-      "explanation": "Siehe, der Ackermann wartet auf die köstliche Frucht der Erde und ist geduldig darüber, bis er empfange den Frühregen und Spätregen [ref:Jakobus 5:7-8].",
+      "bibleReference": "Jakobus 5:7",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "jak_023",
       "type": "single_choice",
-      "text": "Welches alttestamentliche Beispiel des Ausharrens wird im fünften Kapitel gerühmt?",
+      "text": "Wessen Geduld wird in Jakobus 5:11 als Vorbild des Ausharrens gerühmt?",
       "options": [
         {
-          "text": "David",
-          "explanation": "Das trifft nicht zu. Richtig ist: Hiob [ref:Jakobus 5:11]."
+          "text": "Die Geduld Davids",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Daniel",
-          "explanation": "Das trifft nicht zu. Richtig ist: Hiob [ref:Jakobus 5:11]."
+          "text": "Die Geduld Daniels",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Jakob",
-          "explanation": "Das trifft nicht zu. Richtig ist: Hiob [ref:Jakobus 5:11]."
+          "text": "Die Geduld Jakobs",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Hiob",
-          "explanation": "Siehe, wir preisen selig, die erduldet haben. Von der Geduld Hiobs habt ihr gehört und habt gesehen, was der Herr am Ende ausführte [ref:Jakobus 5:11]."
+          "text": "Die Geduld Hiobs",
+          "isCorrect": true,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Jakobus 5:11",
-      "explanation": "Siehe, wir preisen selig, die erduldet haben. Von der Geduld Hiobs habt ihr gehört und habt gesehen, was der Herr am Ende ausführte [ref:Jakobus 5:11].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "jak_024",
       "type": "single_choice",
-      "text": "Was sollen die Ältesten der Gemeinde mit einem Kranken tun?",
+      "text": "Was sollen die Ältesten der Gemeinde mit einem Kranken tun (Jakobus 5:14)?",
       "options": [
         {
           "text": "Über ihm beten und ihn mit Öl salben im Namen des Herrn",
-          "explanation": "Ist jemand unter euch krank? Der rufe die Ältesten der Gemeinde zu sich, dass sie über ihm beten und ihn mit Öl salben im Namen des Herrn [ref:Jakobus 5:14-15]."
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Ihn aus der Versammlung ausstoßen, bis er geheilt ist",
-          "explanation": "Das trifft nicht zu. Richtig ist: Über ihm beten und ihn mit Öl salben im Namen des Herrn [ref:Jakobus 5:14-15]."
+          "text": "Ihn aus der Gemeinde ausschließen, bis seine Not vergeht",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Ihn zu heidnischen Ärzten bringen, die ihn behandeln sollen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Über ihm beten und ihn mit Öl salben im Namen des Herrn [ref:Jakobus 5:14-15]."
+          "text": "Ihn zu fremden Ärzten bringen, die ihn behandeln sollen",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Ihn zu einer Geldbuße auffordern, damit seine Schuld getilgt wird",
-          "explanation": "Das trifft nicht zu. Richtig ist: Über ihm beten und ihn mit Öl salben im Namen des Herrn [ref:Jakobus 5:14-15]."
+          "text": "Ihn zu einem Sühnegeld mahnen, damit seine Schuld weicht",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
-      "bibleReference": "Jakobus 5:14-15",
-      "explanation": "Ist jemand unter euch krank? Der rufe die Ältesten der Gemeinde zu sich, dass sie über ihm beten und ihn mit Öl salben im Namen des Herrn [ref:Jakobus 5:14-15].",
+      "bibleReference": "Jakobus 5:14",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "jak_025",
       "type": "single_choice",
-      "text": "Welcher Prophet wird als Beispiel für ein wirksames Gebet eines Gerechten genannt?",
+      "text": "Welcher Prophet wird in Jakobus 5:17 als Beispiel für ein ernstes Gebet genannt?",
       "options": [
         {
-          "text": "Jesaja",
-          "explanation": "Das trifft nicht zu. Richtig ist: Elia [ref:Jakobus 5:16-18]."
+          "text": "Der Prophet Jesaja",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Elia",
-          "explanation": "Elia war ein Mensch wie wir; und er betete ein Gebet, dass es nicht regnen sollte, und es regnete nicht auf Erden drei Jahre und sechs Monate [ref:Jakobus 5:16-18]."
+          "text": "Der Prophet Elia",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Jeremia",
-          "explanation": "Das trifft nicht zu. Richtig ist: Elia [ref:Jakobus 5:16-18]."
+          "text": "Der Prophet Jeremia",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Hesekiel",
-          "explanation": "Das trifft nicht zu. Richtig ist: Elia [ref:Jakobus 5:16-18]."
+          "text": "Der Prophet Hesekiel",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
-      "bibleReference": "Jakobus 5:16-18",
-      "explanation": "Elia war ein Mensch wie wir; und er betete ein Gebet, dass es nicht regnen sollte, und es regnete nicht auf Erden drei Jahre und sechs Monate [ref:Jakobus 5:16-18].",
+      "bibleReference": "Jakobus 5:17",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     }

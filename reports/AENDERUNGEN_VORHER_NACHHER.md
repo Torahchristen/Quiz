@@ -64,7 +64,8 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
 | `56_titus.json` | 15 | 15 | 15 | 15 | 0 |
 | `57_philemon.json` | 5 | 5 | 5 | 5 | 0 |
 | `58_hebraeer.json` | 66 | 66 | 66 | 64 | 5 |
-| **Gesamt (58 Dateien)** | **4536** | **2052** | **1300** | **1883** | **110** |
+| `59_jakobus.json` | 25 | 25 | 25 | 24 | 3 |
+| **Gesamt (59 Dateien)** | **4561** | **2077** | **1325** | **1907** | **113** |
 
 ## 01_1_mose.json – 1. Mose (Genesis) (Schlachter (Revision von 1951))
 
@@ -29508,3 +29509,389 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
 ### `hebr_066` (Hebräer 11:5-7)
 - **Frage Vorher:** Welche zwei Männer werden in Hebräer 11:5-7 nach Abel als Zeugen des Glaubens genannt?
 - **Frage Nachher:** Welche zwei Glaubenszeugen werden in Hebräer 11:5-7 nach Abel genannt?
+
+## 59_jakobus.json – Jakobus (Schlachter (Revision von 1951))
+
+### `jak_001` (Jakobus 1:1)
+- **Frage Vorher:** Wie nennt sich Jakobus im Absendergruß seines Briefes an die zwölf Stämme?
+- **Frage Nachher:** Wie nennt sich Jakobus im Absendergruß seines Briefes an die zwölf Stämme (Jakobus 1:1)?
+
+### `jak_002` (Jakobus 1:2-3)
+- **Frage Vorher:** Wozu führt das Erproben des Glaubens nach den Worten im ersten Kapitel?
+- **Frage Nachher:** Was bewirkt die Bewährung des Glaubens nach Jakobus 1:2-3?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Zur Geduld (Standhaftigkeit)
+    - **Nachher:** Sie bewirkt ausharrende Geduld
+  - **Option A (Falsch):**
+    - **Vorher:** Zum Verlust aller Freude
+    - **Nachher:** Sie bewirkt den Verlust der Freude
+  - **Option B (Falsch):**
+    - **Vorher:** Zur Befreiung von aller Not
+    - **Nachher:** Sie bewirkt Befreiung aus aller Not
+  - **Option D (Falsch):**
+    - **Vorher:** Zum Erwerb von Reichtum
+    - **Nachher:** Sie bewirkt weltlichen Reichtum
+
+### `jak_003` (Jakobus 1:5)
+- **Frage Vorher:** Was soll derjenige tun, dem es an göttlicher Weisheit im Leben mangelt?
+- **Frage Nachher:** Was soll der tun, dem es an Weisheit mangelt (Jakobus 1:5)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Gott darum bitten
+    - **Nachher:** Er soll sie von Gott erbitten
+  - **Option A (Falsch):**
+    - **Vorher:** Die Bücher der Weisen lesen
+    - **Nachher:** Er soll die Schriftgelehrten fragen
+  - **Option B (Falsch):**
+    - **Vorher:** Die weltlichen Richter fragen
+    - **Nachher:** Er soll Bücher der Weisen studieren
+  - **Option C (Falsch):**
+    - **Vorher:** Sich in die Einsamkeit zurückziehen
+    - **Nachher:** Er soll sich in Einsamkeit prüfen
+
+### `jak_004` (Jakobus 1:12)
+- **Frage Vorher:** Was empfängt der Mann, der die Anfechtung erduldet und bewährt erfunden wird?
+- **Frage Nachher:** Was empfängt der Mann, der die Anfechtung erduldet, wenn er sich bewährt hat (Jakobus 1:12)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Die Krone des Lebens, die Gott denen verheißen hat, die ihn lieben
+    - **Nachher:** Die Krone des Lebens, welche der Herr verheißen hat
+  - **Option B (Falsch):**
+    - **Vorher:** Die Krone der Könige, die Gott seinen Getreuen aufsetzt
+    - **Nachher:** Die Krone irdischer Könige, welche den Herrschern gebührt
+  - **Option C (Falsch):**
+    - **Vorher:** Den Oberbefehl über die Heere Roms, den er den Bewährten gibt
+    - **Nachher:** Den Reichtum der Völker, welchen die Mächtigen erwerben
+  - **Option D (Falsch):**
+    - **Vorher:** Die Schätze des Tempels, die er den Treuen zuteilt
+    - **Nachher:** Den Ruhm der Welt, welchen die Menschen den Siegern geben
+
+### `jak_005` (Jakobus 1:22)
+- **Frage Vorher:** Wozu werden die Glaubenden bezüglich des gehörten Wortes aufgerufen?
+- **Frage Nachher:** Wozu werden die Gläubigen in Jakobus 1:22 bezüglich des Wortes aufgerufen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Täter des Wortes zu sein und nicht nur Hörer
+    - **Nachher:** Täter des Wortes zu sein und nicht Hörer allein
+  - **Option A (Falsch):**
+    - **Vorher:** Nur stille Hörer zu sein und das Gehörte ruhig zu bedenken
+    - **Nachher:** Stille Hörer des Wortes zu sein und es nur zu bewahren
+  - **Option C (Falsch):**
+    - **Vorher:** Das Wort für sich zu behalten und es nicht weiterzugeben
+    - **Nachher:** Verkünder des Wortes zu sein und es allein zu lehren
+  - **Option D (Falsch):**
+    - **Vorher:** Das Wort neu zu schreiben und es auf die Zeit anzuwenden
+    - **Nachher:** Hüter des Wortes zu sein und es vor Fremden zu hüten
+
+### `jak_006` (Jakobus 2:1-4)
+- **Frage Vorher:** Wovor warnt Jakobus die Glaubenden im Hinblick auf das Ansehen der Person?
+- **Frage Nachher:** Wovor warnt Jakobus die Brüder im Hinblick auf das Ansehen der Person (Jakobus 2:1-4)?
+- **Richtige Antwort (unverändert, Option C):** Vor der Bevorzugung der Reichen gegenüber den Armen
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Vor dem Einladen von Gästen in die Versammlung
+    - **Nachher:** Vor dem Einladen von Gästen in die Synagoge
+  - **Option D (Falsch):**
+    - **Vorher:** Vor der Arbeit in der Versammlung am Tag des Herrn
+    - **Nachher:** Vor der Arbeit in der Synagoge am Tag des Herrn
+
+### `jak_007` (Jakobus 2:8)
+- **Frage Vorher:** Welches Gebot wird im zweiten Kapitel ausdrücklich als das „königliche Gesetz“ bezeichnet?
+- **Frage Nachher:** Welches Gebot wird in Jakobus 2:8 als das „königliche Gesetz“ bezeichnet?
+- **Richtige Antwort (unverändert, Option D):** Du sollst deinen Nächsten lieben wie dich selbst
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Falsch):**
+    - **Vorher:** Ehre Vater und Mutter, auf dass du lange lebst
+    - **Nachher:** Ehre deinen Vater und deine Mutter im Lande
+
+### `jak_008` (Jakobus 2:10)
+- **Frage Vorher:** Was geschieht mit demjenigen, der das ganze Gesetz hält, aber in einem Gebot strauchelt?
+- **Frage Nachher:** Was gilt für den, der das ganze Gesetz hält, aber in einem strauchelt (Jakobus 2:10)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Er ist an allen schuldig geworden
+    - **Nachher:** Er ist an allem schuldig geworden
+  - **Option B (Falsch):**
+    - **Vorher:** Er bleibt völlig schuldlos
+    - **Nachher:** Er bleibt vor Gott völlig schuldlos
+  - **Option C (Falsch):**
+    - **Vorher:** Er zahlt eine kleine Buße
+    - **Nachher:** Er zahlt dafür eine geringe Buße
+  - **Option D (Falsch):**
+    - **Vorher:** Er verliert die Hälfte seines Lohnes
+    - **Nachher:** Er verliert die Hälfte des Lohnes
+
+### `jak_009` (Jakobus 2:17)
+- **Frage Vorher:** Wie verhält es sich mit dem Glauben, der keine entsprechenden Werke hervorbringt?
+- **Frage Nachher:** Wie verhält es sich mit dem Glauben, wenn er keine Werke hat (Jakobus 2:17)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Er ist, wenn er keine Werke hat, in sich selbst tot
+    - **Nachher:** Er ist an und für sich tot, wenn er keine Werke hat
+
+### `jak_010` (Jakobus 2:21-23)
+- **Frage Vorher:** Welches alttestamentliche Beispiel führt Jakobus für die Vollendung des Glaubens durch Werke an?
+- **Frage Nachher:** Welches Vorbild führt Jakobus für den durch Werke vollendeten Glauben an (Jakobus 2:21-23)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Abraham, der Isaak auf dem Altar opferte
+    - **Nachher:** Abraham, der seinen Sohn Isaak auf dem Altar darbrachte
+  - **Option B (Falsch):**
+    - **Vorher:** David im Kampf gegen Goliat und seine Gefährten
+    - **Nachher:** David im Kampf gegen Goliat und seine Kriegsleute
+  - **Option D (Falsch):**
+    - **Vorher:** Noah beim Bau der Arche vor der Sintflut
+    - **Nachher:** Noah beim Bau der großen Arche vor der Sintflut
+
+### `jak_011` (Jakobus 3:1)
+- **Frage Vorher:** Warum sollen nicht viele in der Gemeinde nach dem Amt des Lehrers streben?
+- **Frage Nachher:** Warum sollen nicht viele Lehrer werden nach Jakobus 3:1?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Weil Lehrer ein strengeres Urteil empfangen werden
+    - **Nachher:** Weil wir Lehrer ein strengeres Urteil empfangen
+  - **Option A (Falsch):**
+    - **Vorher:** Weil Lehrer keine Ehre empfangen und von allen verachtet werden
+    - **Nachher:** Weil Lehrer von den Menschen oft verachtet werden
+  - **Option B (Falsch):**
+    - **Vorher:** Weil Lehrer viel Geld spenden müssen und selbst arm bleiben
+    - **Nachher:** Weil Lehrer große Abgaben an die Armen zahlen
+  - **Option C (Falsch):**
+    - **Vorher:** Weil Lehrer nicht heiraten dürfen und ohne Familie leben
+    - **Nachher:** Weil Lehrer keine eigenen Güter besitzen dürfen
+
+### `jak_012` (Jakobus 3:2)
+- **Frage Vorher:** Wer kann nach den Worten im dritten Kapitel als ein vollkommener Mann bezeichnet werden?
+- **Frage Nachher:** Wer ist nach Jakobus 3:2 ein vollendeter Mann?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Wer im Wort nicht strauchelt
+    - **Nachher:** Wer in der Rede nicht strauchelt
+  - **Option B (Falsch):**
+    - **Vorher:** Wer nie Zorn fühlt
+    - **Nachher:** Wer im Zorn niemals sündigt
+  - **Option C (Falsch):**
+    - **Vorher:** Wer den Armen sein Geld gibt
+    - **Nachher:** Wer den Armen all sein Gut gibt
+  - **Option D (Falsch):**
+    - **Vorher:** Wer alle Schriften auswendig weiß
+    - **Nachher:** Wer das Gesetz vollständig kennt
+
+### `jak_013` (Jakobus 3:5-6)
+- **Frage Vorher:** Womit vergleicht Jakobus die Zunge im menschlichen Körper?
+- **Frage Nachher:** Womit vergleicht Jakobus die Zunge in Jakobus 3:5-6?
+- **Richtige Antwort (unverändert, Option B):** Mit einem kleinen Feuer, das einen großen Wald anzündet
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Mit einem mächtigen Schwert, das einen ganzen Feind besiegt
+    - **Nachher:** Mit einem mächtigen Schwert, das einen Feind besiegt
+  - **Option C (Falsch):**
+    - **Vorher:** Mit einem tiefen Brunnen, der viel Wasser enthält
+    - **Nachher:** Mit einem tiefen Brunnen, der viel frisches Wasser birgt
+  - **Option D (Falsch):**
+    - **Vorher:** Mit einer goldenen Krone, die dem Träger Ehre bringt
+    - **Nachher:** Mit einer goldenen Krone, die dem Träger Ehre verleiht
+
+### `jak_014` (Jakobus 3:9-10)
+- **Frage Vorher:** Welcher Widerspruch wird bei der Zunge des Menschen aufgedeckt?
+- **Frage Nachher:** Welcher Widerspruch des Mundes wird in Jakobus 3:9-10 beklagt?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Mit derselben Zunge loben wir den Herrn und fluchen den Menschen
+    - **Nachher:** Dass mit derselben Zunge Loben und Fluchen hervorgeht
+  - **Option A (Falsch):**
+    - **Vorher:** Wir schweigen und reden zugleich und wissen nicht, was wir wollen
+    - **Nachher:** Dass wir schweigen und zugleich unbedachte Worte reden
+  - **Option B (Falsch):**
+    - **Vorher:** Wir singen im Tempel und klagen in Not mit derselben Zunge
+    - **Nachher:** Dass wir im Tempel singen und zuhause heimlich klagen
+  - **Option D (Falsch):**
+    - **Vorher:** Wir lehren die Alten und lernen von den Jungen mit dem Mund
+    - **Nachher:** Dass wir Fremde ehren und die eigenen Brüder richten
+
+### `jak_015` (Jakobus 3:17)
+- **Frage Vorher:** Welche Eigenschaften zeichnen die Weisheit aus, die von oben herab kommt?
+- **Frage Nachher:** Wie wird die Weisheit von oben in Jakobus 3:17 beschrieben?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Zuerst rein, dann friedfertig, milde, gehorsam, voll Barmherzigkeit und guter Früchte
+    - **Nachher:** Erstens rein, sodann friedsam, gelinde, folgsam und barmherzig
+  - **Option A (Falsch):**
+    - **Vorher:** Stolz, hart, streitsüchtig und zornig, voll Ehrgeiz, Eifersucht und Selbstsucht
+    - **Nachher:** Streitsüchtig und zornig, voll Ehrgeiz, Eifersucht und Selbstsucht
+  - **Option B (Falsch):**
+    - **Vorher:** Geheim und nur für die Priester bestimmt, verborgen vor dem Volk und den Ungelehrten
+    - **Nachher:** Geheim und verborgen vor dem Volk, nur bestimmt für die Priester
+  - **Option C (Falsch):**
+    - **Vorher:** Gelehrt, mächtig und weltlich geehrt, geachtet und gefürchtet von allen Menschen
+    - **Nachher:** Gelehrt und weltlich hoch geachtet, gerühmt von allen Menschen
+
+### `jak_016` (Jakobus 4:1)
+- **Frage Vorher:** Woher entstehen Kriege und Streitigkeiten unter den Menschen?
+- **Frage Nachher:** Woher kommen Kämpfe und Streitigkeiten nach Jakobus 4:1?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Aus den Lüsten, die in euren Gliedern streiten
+    - **Nachher:** Von den Gelüsten, die in den Gliedern streiten
+  - **Option B (Falsch):**
+    - **Vorher:** Aus dem Mangel an Gesetzen
+    - **Nachher:** Von den Befehlen der heidnischen Machthaber
+  - **Option C (Falsch):**
+    - **Vorher:** Aus den Befehlen der heidnischen Herrscher
+    - **Nachher:** Von der großen Armut und dem Mangel an Brot
+  - **Option D (Falsch):**
+    - **Vorher:** Aus Armut an Nahrung
+    - **Nachher:** Von den Gesetzen der fremden Obersten im Land
+
+### `jak_017` (Jakobus 4:4)
+- **Frage Vorher:** Was bedeutet die Freundschaft mit der sündigen Welt vor Gott?
+- **Frage Nachher:** Was ist die Freundschaft mit der Welt nach Jakobus 4:4?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Feindschaft gegen Gott
+    - **Nachher:** Feindschaft gegen Gott vor seinen Augen
+  - **Option A (Falsch):**
+    - **Vorher:** Ein kluger Schritt zur Ausbreitung der Lehre
+    - **Nachher:** Ein kluger Weg zur Ausbreitung der Lehre
+  - **Option C (Falsch):**
+    - **Vorher:** Eine Pflicht zur Friedenssicherung
+    - **Nachher:** Eine Pflicht zur Sicherung des Friedens
+  - **Option D (Falsch):**
+    - **Vorher:** Eine kleine Schwachheit ohne Strafe
+    - **Nachher:** Eine bloße Schwachheit ohne jede Sünde
+
+### `jak_018` (Jakobus 4:6)
+- **Frage Vorher:** Wie verhält sich Gott gegenüber den Hochmütigen und den Demütigen?
+- **Frage Nachher:** Wie verhält sich Gott nach Jakobus 4:6 zu Stolzen und Demütigen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Gott widersteht den Hochmütigen, aber den Demütigen gibt er Gnade
+    - **Nachher:** Gott widersteht den Stolzen, aber den Demütigen gibt er Gnade
+  - **Option A (Falsch):**
+    - **Vorher:** Gott liebt die Hochmütigen und straft die Demütigen, wie sie es verdient haben
+    - **Nachher:** Gott liebt die Stolzen und straft die Demütigen nach Verdienst
+  - **Option B (Falsch):**
+    - **Vorher:** Gott behandelt beide gleich und urteilt nach dem Gesetz
+    - **Nachher:** Gott behandelt beide gleich und richtet streng nach Gesetz
+  - **Option D (Falsch):**
+    - **Vorher:** Gott richtet nur die Demütigen und verschont die Hochmütigen
+    - **Nachher:** Gott erhört allein die Stolzen und verwirft die Demütigen
+
+### `jak_019` (Jakobus 4:7)
+- **Frage Vorher:** Was geschieht, wenn sich der Glaubende dem Teufel im Namen Gottes widersetzt?
+- **Frage Nachher:** Was geschieht nach Jakobus 4:7, wenn man dem Teufel widersteht?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Der Teufel flieht vor ihm
+    - **Nachher:** Der Teufel flieht von euch
+  - **Option A (Falsch):**
+    - **Vorher:** Der Teufel fängt ihn sofort
+    - **Nachher:** Der Teufel fängt ihn alsbald
+  - **Option B (Falsch):**
+    - **Vorher:** Der Teufel wird mächtiger
+    - **Nachher:** Der Teufel wird noch mächtiger
+  - **Option C (Falsch):**
+    - **Vorher:** Der Teufel bleibt wirkungslos
+    - **Nachher:** Der Teufel bleibt völlig stumm
+
+### `jak_020` (Jakobus 4:17)
+- **Frage Vorher:** Was gilt für denjenigen, der weiß, Gutes zu tun, und es dennoch nicht tut?
+- **Frage Nachher:** Was gilt nach Jakobus 4:17 für den, der weiß, Gutes zu tun, und es nicht tut?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Dem ist es Sünde
+    - **Nachher:** Dem ist es Sünde vor dem Herrn
+  - **Option B (Falsch):**
+    - **Vorher:** Es ist verzeihliche Schwäche
+    - **Nachher:** Es ist verzeihliche Nachlässigkeit
+  - **Option C (Falsch):**
+    - **Vorher:** Es bleibt ohne Auswirkung vor Gott
+    - **Nachher:** Es bleibt völlig ohne jede Schuld
+  - **Option D (Falsch):**
+    - **Vorher:** Es wird durch spätere Gebete ersetzt
+    - **Nachher:** Es wird durch gute Gebete gebüßt
+
+### `jak_021` (Jakobus 5:1-4)
+- **Frage Vorher:** Warum ergeht ein Weheruf über die ungerechten Reichen im fünften Kapitel?
+- **Frage Nachher:** Warum ergeht das Wehe über die Reichen in Jakobus 5:1-4?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Weil sie den Arbeitern den Lohn vorenthielten
+    - **Nachher:** Weil der Lohn der Schnitter von ihnen zurückbehalten wurde
+  - **Option A (Falsch):**
+    - **Vorher:** Weil sie keine Häuser für die Armen bauten
+    - **Nachher:** Weil sie keine Unterkünfte für die Fremdlinge bauten
+  - **Option C (Falsch):**
+    - **Vorher:** Weil sie nicht nach Rom reisten
+    - **Nachher:** Weil sie keine Opfer im Tempel zu Jerusalem darbrachten
+  - **Option D (Falsch):**
+    - **Vorher:** Weil sie alte Gesetzbücher verbrannten
+    - **Nachher:** Weil sie die alten Gesetze der Väter verbrennen ließen
+
+### `jak_022` (Jakobus 5:7)
+- **Bibelstelle Vorher:** `Jakobus 5:7-8` -> **Nachher:** `Jakobus 5:7`
+- **Frage Vorher:** Welches Vorbild der Geduld führt Jakobus für das Warten auf den Herrn an?
+- **Frage Nachher:** Welches Vorbild der Geduld führt Jakobus in Jakobus 5:7 an?
+- **Richtige Antwort (unverändert, Option C):** Den Landmann, der auf die köstliche Frucht der Erde wartet
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Den Kaufmann, der auf das Schiff wartet, das seine Ware bringt
+    - **Nachher:** Den Kaufmann, der auf Schiffe mit kostbarer Fracht wartet
+  - **Option B (Falsch):**
+    - **Vorher:** Den Soldaten, der auf den Sieg wartet, den sein Feldherr erringt
+    - **Nachher:** Den Krieger, der auf den Sieg seines weisen Führers wartet
+  - **Option D (Falsch):**
+    - **Vorher:** Den Priester, der auf das Opfer wartet, das ihm gebracht wird
+    - **Nachher:** Den Wächter, der auf das Aufgehen des hellen Morgens wartet
+
+### `jak_023` (Jakobus 5:11)
+- **Frage Vorher:** Welches alttestamentliche Beispiel des Ausharrens wird im fünften Kapitel gerühmt?
+- **Frage Nachher:** Wessen Geduld wird in Jakobus 5:11 als Vorbild des Ausharrens gerühmt?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Hiob
+    - **Nachher:** Die Geduld Hiobs
+  - **Option A (Falsch):**
+    - **Vorher:** David
+    - **Nachher:** Die Geduld Davids
+  - **Option B (Falsch):**
+    - **Vorher:** Daniel
+    - **Nachher:** Die Geduld Daniels
+  - **Option C (Falsch):**
+    - **Vorher:** Jakob
+    - **Nachher:** Die Geduld Jakobs
+
+### `jak_024` (Jakobus 5:14)
+- **Bibelstelle Vorher:** `Jakobus 5:14-15` -> **Nachher:** `Jakobus 5:14`
+- **Frage Vorher:** Was sollen die Ältesten der Gemeinde mit einem Kranken tun?
+- **Frage Nachher:** Was sollen die Ältesten der Gemeinde mit einem Kranken tun (Jakobus 5:14)?
+- **Richtige Antwort (unverändert, Option A):** Über ihm beten und ihn mit Öl salben im Namen des Herrn
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Ihn aus der Versammlung ausstoßen, bis er geheilt ist
+    - **Nachher:** Ihn aus der Gemeinde ausschließen, bis seine Not vergeht
+  - **Option C (Falsch):**
+    - **Vorher:** Ihn zu heidnischen Ärzten bringen, die ihn behandeln sollen
+    - **Nachher:** Ihn zu fremden Ärzten bringen, die ihn behandeln sollen
+  - **Option D (Falsch):**
+    - **Vorher:** Ihn zu einer Geldbuße auffordern, damit seine Schuld getilgt wird
+    - **Nachher:** Ihn zu einem Sühnegeld mahnen, damit seine Schuld weicht
+
+### `jak_025` (Jakobus 5:17)
+- **Bibelstelle Vorher:** `Jakobus 5:16-18` -> **Nachher:** `Jakobus 5:17`
+- **Frage Vorher:** Welcher Prophet wird als Beispiel für ein wirksames Gebet eines Gerechten genannt?
+- **Frage Nachher:** Welcher Prophet wird in Jakobus 5:17 als Beispiel für ein ernstes Gebet genannt?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Elia
+    - **Nachher:** Der Prophet Elia
+  - **Option A (Falsch):**
+    - **Vorher:** Jesaja
+    - **Nachher:** Der Prophet Jesaja
+  - **Option C (Falsch):**
+    - **Vorher:** Jeremia
+    - **Nachher:** Der Prophet Jeremia
+  - **Option D (Falsch):**
+    - **Vorher:** Hesekiel
+    - **Nachher:** Der Prophet Hesekiel

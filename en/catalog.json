@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-11-06T12:25:16Z",
+  "lastUpdated": "2026-11-06T12:30:05Z",
   "language": "en",
   "categories": [
     {
@@ -1224,6 +1224,29 @@
       ],
       "sizeBytes": 62833,
       "downloadUrl": "./en/58_hebraeer.json"
+    },
+    {
+      "quizId": "nt_20_jakobus_alle_kapitel_en",
+      "category": "nt",
+      "title": "James",
+      "subtitle": "James 1:1 – 5:20 (25 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 25,
+      "difficulty": "medium",
+      "tags": [
+        "James",
+        "New Testament",
+        "General Epistles",
+        "Faith",
+        "Works",
+        "Wisdom",
+        "Tongue",
+        "King James Version"
+      ],
+      "sizeBytes": 23977,
+      "downloadUrl": "./en/59_jakobus.json"
     }
   ]
 }
