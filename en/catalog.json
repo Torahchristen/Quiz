@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-11-06T11:46:32Z",
+  "lastUpdated": "2026-11-06T11:52:48Z",
   "language": "en",
   "categories": [
     {
@@ -973,6 +973,29 @@
       ],
       "sizeBytes": 67945,
       "downloadUrl": "./en/47_2_korinther.json"
+    },
+    {
+      "quizId": "nt_09_galater_alle_kapitel_en",
+      "category": "nt",
+      "title": "Galatians",
+      "subtitle": "Galatians 1:1 – 6:18 (31 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 31,
+      "difficulty": "medium",
+      "tags": [
+        "Galatians",
+        "New Testament",
+        "Pauline Epistles",
+        "Paul",
+        "Freedom",
+        "Law",
+        "Spirit",
+        "King James Version"
+      ],
+      "sizeBytes": 28904,
+      "downloadUrl": "./en/48_galater.json"
     }
   ]
 }

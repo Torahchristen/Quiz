@@ -53,7 +53,8 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
 | `45_roemer.json` | 80 | 19 | 1 | 17 | 1 |
 | `46_1_korinther.json` | 80 | 19 | 0 | 19 | 1 |
 | `47_2_korinther.json` | 65 | 8 | 0 | 8 | 0 |
-| **Gesamt (47 Dateien)** | **4258** | **1775** | **1030** | **1610** | **105** |
+| `48_galater.json` | 31 | 31 | 29 | 30 | 0 |
+| **Gesamt (48 Dateien)** | **4289** | **1806** | **1059** | **1640** | **105** |
 
 ## 01_1_mose.json – 1. Mose (Genesis) (Schlachter (Revision von 1951))
 
@@ -25071,3 +25072,483 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
   - **Option D (Falsch):**
     - **Vorher:** Messt die Länge der Mauer um die Stadt
     - **Nachher:** Messt die Länge der Stadtmauer in Rom
+
+## 48_galater.json – Galater (Schlachter (Revision von 1951))
+
+### `gal_001` (Galater 1:1)
+- **Frage Vorher:** Durch wen empfing Paulus Seine Berufung zum Amt des Apostels?
+- **Frage Nachher:** Durch wen empfing Paulus seine Berufung zum Apostel?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Durch Jesus Christus und Gott, den Vater, der ihn auferweckt hat
+    - **Nachher:** Durch Jesus Christus und Gott den Vater, der ihn auferweckte
+  - **Option A (Falsch):**
+    - **Vorher:** Durch den Hohen Rat der Juden, der ihn als Boten nach Damaskus sandte
+    - **Nachher:** Durch den Hohen Rat der Juden, der ihn nach Damaskus sandte
+  - **Option C (Falsch):**
+    - **Vorher:** Durch die Versammlung der Ältesten in Jerusalem, die ihn einsetzte
+    - **Nachher:** Durch die Ältesten in Jerusalem, die ihm die Hände auflegten
+
+### `gal_002` (Galater 1:6)
+- **Frage Vorher:** Worüber wunderte Sich Paulus gleich zu Beginn Seines Briefes?
+- **Frage Nachher:** Worüber wunderte sich Paulus gleich zu Beginn seines Briefes?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Dass sie sich so schnell einem anderen Evangelium zuwandten
+    - **Nachher:** Dass sie sich so schnell zu einem andern Evangelium wandten
+  - **Option A (Falsch):**
+    - **Vorher:** Dass ihr Besitz verloren war und die Gemeinde in Not geraten war
+    - **Nachher:** Dass die Gemeinde ihren gesamten Besitz verloren hatte
+  - **Option B (Falsch):**
+    - **Vorher:** Dass die Brüder in Galatien arm waren und Hilfe brauchten
+    - **Nachher:** Dass die Gläubigen in Galatien in große Armut gerieten
+  - **Option D (Falsch):**
+    - **Vorher:** Dass heidnische Tempel gebaut wurden und die Götzen verehrt wurden
+    - **Nachher:** Dass heidnische Götzen in den Städten verehrt wurden
+
+### `gal_003` (Galater 1:8-9)
+- **Frage:** Was verkündigte Paulus über jeden, der ein anderes Evangelium predigt?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Er sei verflucht (dem Bann Gottes verfallen)
+    - **Nachher:** Er soll verflucht sein
+  - **Option A (Falsch):**
+    - **Vorher:** Er soll eine hohe Geldstrafe zahlen
+    - **Nachher:** Er soll ausgestoßen werden
+  - **Option B (Falsch):**
+    - **Vorher:** Er soll aus dem Land vertrieben werden
+    - **Nachher:** Er soll verurteilt werden
+  - **Option C (Falsch):**
+    - **Vorher:** Er soll dreißig Tage im Tempel fasten
+    - **Nachher:** Er soll gezüchtigt werden
+
+### `gal_004` (Galater 1:11-12)
+- **Frage Vorher:** Auf welchem Wege empfang Paulus die Botschaft des Evangeliums?
+- **Frage Nachher:** Auf welchem Weg empfing Paulus das von ihm verkündigte Evangelium?
+- **Richtige Antwort (unverändert, Option A):** Durch eine Offenbarung Jesu Christi
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Durch das Studium der Schriften
+    - **Nachher:** Durch die Unterweisung der Apostel
+  - **Option C (Falsch):**
+    - **Vorher:** Durch die mündliche Lehre des Petrus
+    - **Nachher:** Durch das eigene Studium der Schrift
+  - **Option D (Falsch):**
+    - **Vorher:** Durch Träume in der Nacht
+    - **Nachher:** Durch ein nächtliches Traumgesicht
+
+### `gal_005` (Galater 1:17)
+- **Frage Vorher:** Wohin zog Paulus sogleich nach Seiner wunderbaren Bekehrung?
+- **Frage Nachher:** Wohin zog Paulus nach seiner Bekehrung, statt sogleich nach Jerusalem zu gehen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Nach Arabien und wieder zurück nach Damaskus
+    - **Nachher:** Nach Arabien und wieder nach Damaskus
+  - **Option A (Falsch):**
+    - **Vorher:** Sofort hinauf nach Jerusalem zu den Aposteln, um sich ihnen vorzustellen
+    - **Nachher:** Hinauf nach Cäsarea zu den Brüdern
+  - **Option C (Falsch):**
+    - **Vorher:** Nach Zypern, zusammen mit Barnabas, um dort zu predigen
+    - **Nachher:** Nach Zypern zusammen mit Barnabas
+  - **Option D (Falsch):**
+    - **Vorher:** Nach Rom, um dort das Evangelium dem Kaiser zu verkünden
+    - **Nachher:** Nach Rom zur Verkündigung des Wortes
+
+### `gal_006` (Galater 2:1)
+- **Frage Vorher:** Nach wie vielen Jahren reiste Paulus erneut nach Jerusalem hinauf?
+- **Frage Nachher:** Nach wie vielen Jahren zog Paulus wiederum nach Jerusalem hinauf?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Nach vierzehn Jahren, zusammen mit Barnabas
+    - **Nachher:** Nach vierzehn Jahren, mit Barnabas und auch mit Titus
+  - **Option A (Falsch):**
+    - **Vorher:** Nach sieben Jahren, zusammen mit Timotheus und Titus
+    - **Nachher:** Nach sieben Jahren, zusammen mit Timotheus und Silas
+  - **Option B (Falsch):**
+    - **Vorher:** Nach drei Jahren, zusammen mit Lukas und Markus
+    - **Nachher:** Nach drei Jahren, zusammen mit Lukas und Johannes Markus
+  - **Option D (Falsch):**
+    - **Vorher:** Nach zwanzig Jahren, zusammen mit Silas und Petrus
+    - **Nachher:** Nach zwanzig Jahren, zusammen mit Petrus und Apollos
+
+### `gal_007` (Galater 2:3)
+- **Frage Vorher:** Welcher Begleiter des Paulus wurde in Jerusalem nicht beschnitten?
+- **Frage Nachher:** Welcher Begleiter des Paulus wurde nicht gezwungen, sich beschneiden zu lassen?
+
+### `gal_008` (Galater 2:9)
+- **Frage Vorher:** Welche drei Männer galten in der Urgemeinde als Säulen der Kirche?
+- **Frage Nachher:** Welche drei Männer galten nach Galater 2:9 als Säulen?
+- **Richtige Antwort (unverändert, Option A):** Jakobus, Kephas und Johannes
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Paulus, Barnabas und Timotheus
+    - **Nachher:** Paulus, Barnabas und Silas
+  - **Option D (Falsch):**
+    - **Vorher:** Stephanus, Philippus und Silvanus
+    - **Nachher:** Stephanus, Philippus und Thomas
+
+### `gal_009` (Galater 2:11-14)
+- **Frage Vorher:** Warum trat Paulus dem Apostel Petrus in Antiochia ins Angesicht?
+- **Frage Nachher:** Warum widerstand Paulus dem Petrus in Antiochia ins Angesicht?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Wegen seiner Heuchelei: Er zog sich vom Tisch mit den Heiden zurück
+    - **Nachher:** Weil er heuchelte und sich von den Nationenvölkern absonderte
+  - **Option A (Falsch):**
+    - **Vorher:** Weil Petrus Geld aus der Kasse genommen und für sich verwendet hatte
+    - **Nachher:** Weil er Geld aus der Gemeindekasse für sich verwendet hatte
+  - **Option C (Falsch):**
+    - **Vorher:** Weil Petrus nicht mehr predigen wollte und sich zurückzog
+    - **Nachher:** Weil er nicht mehr das Wort verkündigen und lehren wollte
+  - **Option D (Falsch):**
+    - **Vorher:** Weil Petrus nach Rom auswandern wollte und die Gemeinde verließ
+    - **Nachher:** Weil er nach Rom abreisen wollte und die Gemeinde verließ
+
+### `gal_010` (Galater 2:16)
+- **Frage Vorher:** Wodurch wird der Mensch vor Gott allein gerechtfertigt?
+- **Frage Nachher:** Wodurch wird der Mensch nach Galater 2:16 gerechtfertigt?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Durch den Glauben an Jesus Christus, nicht durch Werke des Gesetzes
+    - **Nachher:** Durch den Glauben an Jesus Christus, nicht aus Gesetzeswerken
+  - **Option A (Falsch):**
+    - **Vorher:** Durch die Befolgung des Gesetzes und die Treue zu den Geboten
+    - **Nachher:** Durch die Befolgung des Gesetzes und das Halten aller Satzungen
+  - **Option B (Falsch):**
+    - **Vorher:** Durch Brandopfer im Tempel und das Halten der Feste
+    - **Nachher:** Durch Brandopfer im Tempel und die Beachtung der Festzeiten
+  - **Option D (Falsch):**
+    - **Vorher:** Durch eigene Weisheit und Erkenntnis der Wahrheit
+    - **Nachher:** Durch eigene Weisheit und das Erforschen der alten Schriften
+
+### `gal_011` (Galater 3:1)
+- **Frage Vorher:** Wie redet Paulus die Galater an, die zur Gesetzlichkeit zurückkehrten?
+- **Frage Nachher:** Wie redet Paulus die Galater in Galater 3:1 an?
+- **Richtige Antwort (unverändert, Option D):** O ihr unverständigen Galater!
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** O ihr reichen Bürger!
+    - **Nachher:** O ihr unbarmherzigen Richter!
+
+### `gal_012` (Galater 3:2)
+- **Frage Vorher:** Wodurch empfingen die Glaubenden den Heiligen Geist?
+- **Frage Nachher:** Wodurch empfingen die Galater den Geist nach Galater 3:2?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Durch die Predigt vom Glauben
+    - **Nachher:** Durch die Kunde vom Glauben
+  - **Option B (Falsch):**
+    - **Vorher:** Durch das Halten der Gebote
+    - **Nachher:** Durch die Werke des Gesetzes
+  - **Option C (Falsch):**
+    - **Vorher:** Durch das Waschen mit heiligem Wasser
+    - **Nachher:** Durch das Waschen mit Wasser
+  - **Option D (Falsch):**
+    - **Vorher:** Durch das Opfern von Tieren
+    - **Nachher:** Durch das Schlachten von Opfern
+
+### `gal_013` (Galater 3:6)
+- **Frage Vorher:** Welches Schriftzeugnis zitiert Paulus über die Gerechtigkeit Abrahams?
+- **Frage Nachher:** Was steht in Galater 3:6 über den Glauben Abrahams geschrieben?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Abraham glaubte Gott, und das wurde ihm zur Gerechtigkeit gerechnet
+    - **Nachher:** Abraham glaubte Gott, und es wurde ihm zur Gerechtigkeit gerechnet
+  - **Option A (Falsch):**
+    - **Vorher:** Abraham hielt alle Satzungen des Gesetzes, und das wurde ihm angerechnet
+    - **Nachher:** Abraham hielt das ganze Gesetz und empfing darum die Verheißung
+  - **Option C (Falsch):**
+    - **Vorher:** Abraham baute einen großen Tempel, und das wurde ihm angerechnet
+    - **Nachher:** Abraham baute einen Altar, und das brachte ihm das ewige Heil ein
+  - **Option D (Falsch):**
+    - **Vorher:** Abraham gab dem Priester den Zehnten, und das wurde ihm angerechnet
+    - **Nachher:** Abraham gab den Zehnten aller Güter und fand so Gnade vor dem Herrn
+
+### `gal_014` (Galater 3:10)
+- **Frage Vorher:** Unter was stehen alle Menschen, die aus den Werken des Gesetzes leben?
+- **Frage Nachher:** Unter was sind alle, die aus Gesetzeswerken sind (Galater 3:10)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Unter dem Fluch
+    - **Nachher:** Unter dem Fluch des heiligen Gesetzes
+  - **Option B (Falsch):**
+    - **Vorher:** Unter dem Schutz Roms
+    - **Nachher:** Unter dem mächtigen Schutz des Kaisers
+  - **Option D (Falsch):**
+    - **Vorher:** Unter der Achtung aller Völker
+    - **Nachher:** Unter der hohen Achtung aller Völker
+
+### `gal_015` (Galater 3:24-25)
+- **Frage Vorher:** Welche Rolle erfüllte das Gesetz bis zum Erscheinen Christi?
+- **Frage Nachher:** Was war das Gesetz auf Christus hin nach Galater 3:24?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Es war unser Zuchtmeister auf Christus hin
+    - **Nachher:** Unser Zuchtmeister auf Christus hin
+  - **Option A (Falsch):**
+    - **Vorher:** Es war der ewige Richter aller Seelen
+    - **Nachher:** Ein ewiger Richter über die Völker
+  - **Option B (Falsch):**
+    - **Vorher:** Es war ein Mittel zur Erlangung des Heils
+    - **Nachher:** Ein Heilsmittel zur Seligkeit
+  - **Option C (Falsch):**
+    - **Vorher:** Es war eine Fessel für alle Völker
+    - **Nachher:** Eine schwere Fessel der Sünder
+
+### `gal_016` (Galater 4:6)
+- **Frage Vorher:** Welchen Ruf ruft der Geist des Sohnes in den Herzen der Glaubenden?
+- **Frage Nachher:** Was ruft der Geist des Sohnes in unseren Herzen nach Galater 4:6?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Abba, lieber Vater!
+    - **Nachher:** Abba, Vater!
+  - **Option B (Falsch):**
+    - **Vorher:** Heilig ist der Herr!
+    - **Nachher:** Heilig, heilig!
+  - **Option C (Falsch):**
+    - **Vorher:** Ehre sei Gott in der Höhe!
+    - **Nachher:** Ehre sei Gott!
+  - **Option D (Falsch):**
+    - **Vorher:** Amen, so soll es sein!
+    - **Nachher:** Herrscher aller!
+
+### `gal_017` (Galater 4:14-15)
+- **Frage Vorher:** Wie nahmen die Galater den Apostel Paulus bei Seinem ersten Besuch auf?
+- **Frage Nachher:** Wie nahmen die Galater den Apostel Paulus nach Galater 4:14 auf?
+- **Richtige Antwort (unverändert, Option B):** Wie einen Engel Gottes, ja wie Christus Jesus selbst
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Wie einen Feind und Verführer, den man aus der Stadt vertreiben müsse
+    - **Nachher:** Wie einen Feind, den man aus der Stadt vertreiben müsse
+  - **Option C (Falsch):**
+    - **Vorher:** Wie einen gewöhnlichen Bettler, den man mit Almosen abspeist
+    - **Nachher:** Wie einen Fremdling, dem man keine Gastfreundschaft bot
+  - **Option D (Falsch):**
+    - **Vorher:** Wie einen Gefangenen des Kaisers, dem man Mitleid entgegenbringt
+    - **Nachher:** Wie einen Gefangenen, dem man nur mit Furcht begegnete
+
+### `gal_018` (Galater 4:22-26)
+- **Frage Vorher:** Welche beiden Frauenfiguren dienen als Allegorie für die zwei Bünde?
+- **Frage Nachher:** Welche beiden Frauen stehen bildlich für die zwei Bündnisse (Galater 4:22-24)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Hagar und Sara, die beiden Frauen Abrahams
+    - **Nachher:** Hagar und die Freie, die Frauen Abrahams
+  - **Option A (Falsch):**
+    - **Vorher:** Lea und Rahel, die beiden Frauen Jakobs und Mütter der Stämme
+    - **Nachher:** Lea und Rahel, die beiden Frauen Jakobs
+  - **Option B (Falsch):**
+    - **Vorher:** Maria und Marta, die beiden Schwestern aus Bethanien
+    - **Nachher:** Maria und Marta, die beiden Schwestern
+  - **Option D (Falsch):**
+    - **Vorher:** Mirjam und Zippora, die beiden Frauen im Haus des Mose
+    - **Nachher:** Mirjam und Zippora im Hause des Mose
+
+### `gal_019` (Galater 4:25)
+- **Frage Vorher:** Welchem Berg und welcher Stadt entspricht die Magd Hagar allegorisch?
+- **Frage Nachher:** Welchem Berg und welcher Stadt entspricht Hagar nach Galater 4:25?
+- **Richtige Antwort (unverändert, Option D):** Dem Berg Sinai und dem jetzigen Jerusalem
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Dem Berg Zion und dem neuen Jerusalem
+    - **Nachher:** Dem Berg Zion und dem himmlischen Jerusalem
+  - **Option B (Falsch):**
+    - **Vorher:** Dem Berg Nebo und Jericho
+    - **Nachher:** Dem Berg Nebo und der Festungsstadt Jericho
+  - **Option C (Falsch):**
+    - **Vorher:** Dem Berg Karmel und Samaria
+    - **Nachher:** Dem Berg Karmel und der Hauptstadt Samaria
+
+### `gal_020` (Galater 4:30-31)
+- **Frage Vorher:** Was gebietet das Wort der Schrift bezüglich der Magd und ihres Sohnes?
+- **Frage Nachher:** Was gebietet die Schrift nach Galater 4:30 über die Magd und ihren Sohn?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Stoße die Magd und ihren Sohn hinaus
+    - **Nachher:** Stoße aus die Magd und ihren Sohn!
+  - **Option B (Falsch):**
+    - **Vorher:** Mache die Magd zur Herrin des Hauses
+    - **Nachher:** Mache die Magd zur Herrin im Haus!
+  - **Option C (Falsch):**
+    - **Vorher:** Gib der Magd das doppelte Erbteil
+    - **Nachher:** Gib der Magd ein doppeltes Erbteil!
+  - **Option D (Falsch):**
+    - **Vorher:** Lass die Magd im Zelt des Vaters wohnen
+    - **Nachher:** Lass die Magd im Vorhof wohnen!
+
+### `gal_021` (Galater 5:1)
+- **Frage Vorher:** Zur welchen Haltung beruft Paulus die Glaubenden im fünften Kapitel?
+- **Frage Nachher:** Wozu ermahnt Paulus die Galater in Galater 5:1?
+- **Richtige Antwort (unverändert, Option B):** Zum Feststehen in der Freiheit, zu der Christus uns befreit hat
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Zum wiederholten Halten des Gesetzes, damit man die Freiheit nicht verliert
+    - **Nachher:** Zum Halten des Gesetzes, damit man das ewige Leben nicht verliere
+  - **Option C (Falsch):**
+    - **Vorher:** Zur Flucht in die Wüste, wo man frei von den Menschen bleibt
+    - **Nachher:** Zur Flucht in die Wüste, um frei von menschlichen Satzungen zu sein
+  - **Option D (Falsch):**
+    - **Vorher:** Zum Dienst an den weltlichen Königen, die die Freiheit schützen
+    - **Nachher:** Zum Unterordnen unter die Priester, damit die Gemeinde fortbestehe
+
+### `gal_022` (Galater 5:2-4)
+- **Frage Vorher:** Welche Konsequenz trifft den, der durch Beschneidung gerecht werden will?
+- **Frage Nachher:** Was geschieht nach Galater 5:2-4 mit denen, die durchs Gesetz gerecht werden wollen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Christus nützt ihm nichts mehr
+    - **Nachher:** Christus nützt ihnen gar nichts
+  - **Option A (Falsch):**
+    - **Vorher:** Er wird der weiseste Mann im Volk
+    - **Nachher:** Sie erlangen ein höheres Ansehen
+  - **Option B (Falsch):**
+    - **Vorher:** Er erhält doppelten Lohn von Gott
+    - **Nachher:** Sie empfangen doppelten Lohn
+  - **Option D (Falsch):**
+    - **Vorher:** Er wird von allem Leid befreit
+    - **Nachher:** Sie werden von aller Schuld frei
+
+### `gal_023` (Galater 5:14)
+- **Frage Vorher:** In welchem einzigen Gebot wird das ganze Gesetz zusammengefasst?
+- **Frage Nachher:** In welchem Wort wird das ganze Gesetz nach Galater 5:14 erfüllt?
+- **Richtige Antwort (unverändert, Option D):** Du sollst deinen Nächsten lieben wie dich selbst
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Du sollst den Sabbat ehren und an ihm keine Arbeit tun
+    - **Nachher:** Du sollst den Sabbat heiligen und keine Arbeit tun
+  - **Option B (Falsch):**
+    - **Vorher:** Du sollst keine Götzen anbeten, denn der Herr ist ein eifernder Gott
+    - **Nachher:** Du sollst dem Herrn dienen und ihm Opfer bringen
+  - **Option C (Falsch):**
+    - **Vorher:** Du sollst den Zehnten bringen und die Erstlinge darbringen
+    - **Nachher:** Du sollst alle Satzungen und Rechte treu bewahren
+
+### `gal_024` (Galater 5:17)
+- **Frage Vorher:** Welcher innere Kampf herrscht im Menschen nach den Worten des Paulus?
+- **Frage Nachher:** Welcher Widerstreit besteht nach Galater 5:17 im Menschen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Das Fleisch begehrt wider den Geist, und der Geist wider das Fleisch
+    - **Nachher:** Das Fleisch gelüstet gegen den Geist und der Geist gegen das Fleisch
+  - **Option B (Falsch):**
+    - **Vorher:** Das Fleisch kämpft gegen den Satan, der den Menschen verführt
+    - **Nachher:** Das Fleisch kämpft gegen den Teufel und der Geist wider alle Sünde
+  - **Option C (Falsch):**
+    - **Vorher:** Der Verstand kämpft gegen das Herz, das den Menschen beherrscht
+    - **Nachher:** Der Verstand ringt mit dem Willen und das Fleisch mit dem Gewissen
+  - **Option D (Falsch):**
+    - **Vorher:** Das Gesetz kämpft gegen die Römer, die das Volk bedrängen
+    - **Nachher:** Das Gesetz streitet mit der Gnade und die Furcht mit der Zuversicht
+
+### `gal_025` (Galater 5:22-23)
+- **Frage Vorher:** Wie viele Eigenschaften nennt Paulus als Frucht des Geistes?
+- **Frage Nachher:** Wie viele Eigenschaften zählt Paulus in Galater 5:22 als Frucht des Geistes auf?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Neun
+    - **Nachher:** Neun Früchte
+  - **Option A (Falsch):**
+    - **Vorher:** Sieben
+    - **Nachher:** Sieben Früchte
+  - **Option C (Falsch):**
+    - **Vorher:** Zehn
+    - **Nachher:** Zehn Früchte
+  - **Option D (Falsch):**
+    - **Vorher:** Zwölf
+    - **Nachher:** Zwölf Früchte
+
+### `gal_026` (Galater 6:1)
+- **Frage Vorher:** Wie sollen die Geistlichen einen übereilten Sünder wieder zurechtbringen?
+- **Frage Nachher:** Wie sollen die Geistlichen einen Übereilten nach Galater 6:1 zurechthelfen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Im Geist der Sanftmut
+    - **Nachher:** Im Geist der Sanftmut und mit Achtsamkeit
+  - **Option A (Falsch):**
+    - **Vorher:** Mit harter Strafe vor allen
+    - **Nachher:** Mit strenger Zucht vor der ganzen Gemeinde
+  - **Option B (Falsch):**
+    - **Vorher:** Durch Ausschluss aus der Gemeinde
+    - **Nachher:** Durch sofortigen Ausschluss aus dem Dienst
+  - **Option D (Falsch):**
+    - **Vorher:** Durch Richten vor Gericht
+    - **Nachher:** Durch öffentliches Richten vor den Ältesten
+
+### `gal_027` (Galater 6:2)
+- **Frage Vorher:** Welches Gesetz erfüllen Glaubende, indem sie einander die Lasten tragen?
+- **Frage Nachher:** Welches Gesetz erfüllen Gläubige, indem sie einander die Lasten tragen (Galater 6:2)?
+- **Richtige Antwort (unverändert, Option D):** Das Gesetz Christi
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Das Gesetz des Mose
+    - **Nachher:** Das mosaische Gesetz
+  - **Option C (Falsch):**
+    - **Vorher:** Das Gesetz des römischen Rates
+    - **Nachher:** Das Gesetz des Tempels
+
+### `gal_028` (Galater 6:7-8)
+- **Frage Vorher:** Welches unumstößliche Gesetz gilt für das Säen auf Fleisch oder Geist?
+- **Frage Nachher:** Welcher Grundsatz gilt für das Säen nach Galater 6:7?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Was der Mensch sät, das wird er ernten
+    - **Nachher:** Was der Mensch sät, das wird er auch ernten
+  - **Option B (Falsch):**
+    - **Vorher:** Wer sät, verliert am Ende alle Frucht
+    - **Nachher:** Wer vieles sät, der verliert am Ende den Lohn
+  - **Option C (Falsch):**
+    - **Vorher:** Gott lässt nie eine Ernte zu
+    - **Nachher:** Gott lässt keinem Menschen seine Ernte zuteil
+  - **Option D (Falsch):**
+    - **Vorher:** Das Fleisch bringt am Ende immer Heil
+    - **Nachher:** Das Fleisch bringt immer die ewige Herrlichkeit
+
+### `gal_029` (Galater 6:14)
+- **Frage Vorher:** Worin allein will sich der Apostel Paulus von ganzem Herzen rühmen?
+- **Frage Nachher:** Worin allein will sich Paulus nach Galater 6:14 rühmen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Im Kreuz unseres Herrn Jesus Christus
+    - **Nachher:** Im Kreuz unseres Herrn Jesus Christus und in sonst gar nichts
+  - **Option A (Falsch):**
+    - **Vorher:** In seiner Redekunst, mit der er viele Menschen überzeugt hat
+    - **Nachher:** In seiner Beredsamkeit, mit der er die Menschen überzeugte
+  - **Option C (Falsch):**
+    - **Vorher:** In seinen vielen Wundern, die er vor den Völkern getan hat
+    - **Nachher:** In den Zeichen und Wundern, die durch seine Hände geschahen
+  - **Option D (Falsch):**
+    - **Vorher:** In seiner edlen Herkunft, die ihn unter den Juden auszeichnet
+    - **Nachher:** In seiner hebräischen Abkunft und seiner Bildung im Gesetz
+
+### `gal_030` (Galater 6:17)
+- **Frage Vorher:** Welche Auszeichnung trägt Paulus an Seinem eigenen leiblichen Körper?
+- **Frage Nachher:** Welche Zeichen trägt Paulus nach Galater 6:17 an seinem Leib?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Die Malzeichen des Herrn Jesus
+    - **Nachher:** Die Leidenszeichen Jesu
+  - **Option A (Falsch):**
+    - **Vorher:** Die goldenen Ketten des Kaisers
+    - **Nachher:** Die Ehrenketten des Kaisers
+  - **Option B (Falsch):**
+    - **Vorher:** Das Zeichen der Beschneidung
+    - **Nachher:** Das Bundeszeichen Abrahams
+  - **Option D (Falsch):**
+    - **Vorher:** Das Gewand des Hohenpriesters
+    - **Nachher:** Das Amtsgewand der Priester
+
+### `gal_031` (Galater 5:22)
+- **Frage:** Welche zwei Eigenschaften gehören nach Galater 5:22 zur Frucht des Geistes?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Liebe
+    - **Nachher:** Friede
+  - **Option D (Richtig):**
+    - **Vorher:** Geduld
+    - **Nachher:** Treue
+  - **Option A (Falsch):**
+    - **Vorher:** Weisheit
+    - **Nachher:** Macht
+  - **Option B (Falsch):**
+    - **Vorher:** Erkenntnis
+    - **Nachher:** Stärke

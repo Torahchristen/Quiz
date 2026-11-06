@@ -1,0 +1,1082 @@
+{
+  "metadata": {
+    "quizId": "nt_09_galater_alle_kapitel_en",
+    "title": "Galatians",
+    "subtitle": "Galatians 1:1 – 6:18 (31 questions)",
+    "author": "King James Version (1769)",
+    "version": "2.3.0",
+    "language": "en",
+    "category": "nt",
+    "difficulty": "medium",
+    "tags": [
+      "Galatians",
+      "New Testament",
+      "Pauline Epistles",
+      "Paul",
+      "Freedom",
+      "Law",
+      "Spirit",
+      "King James Version"
+    ],
+    "questionCount": 31,
+    "canonicalBookNumber": 48,
+    "testament": "NT"
+  },
+  "questions": [
+    {
+      "questionId": "gal_001",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "By whom was Paul called to be an apostle (Galatians 1:1)?",
+      "bibleReference": "Galatians 1:1",
+      "options": [
+        {
+          "text": "By the council of the Jews that sent him unto Damascus",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By Jesus Christ, and God the Father, who raised him",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "By the elders at Jerusalem who laid their hands on him",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By the doctor Gamaliel at whose feet he was instructed",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "gal_002",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What did Paul marvel at concerning the Galatians (Galatians 1:6)?",
+      "bibleReference": "Galatians 1:6",
+      "options": [
+        {
+          "text": "That the churches had lost all their worldly goods",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That the brethren in Galatia fell into deep poverty",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That they were so soon removed unto another gospel",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "That idols were being worshipped throughout the cities",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "gal_003",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What did Paul declare concerning anyone preaching another gospel?",
+      "bibleReference": "Galatians 1:8-9",
+      "options": [
+        {
+          "text": "Let him be cast out",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Let him be condemned",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Let him be chastened",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Let him be accursed",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "gal_004",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "How did Paul receive the gospel which was preached of him?",
+      "bibleReference": "Galatians 1:11-12",
+      "options": [
+        {
+          "text": "By the revelation of Jesus Christ",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "By the teaching of the apostles",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By his own study of the scriptures",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By a heavenly vision in the night",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "gal_005",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Whither did Paul go after his conversion, instead of going up to Jerusalem?",
+      "bibleReference": "Galatians 1:17",
+      "options": [
+        {
+          "text": "Unto Caesarea to meet the brethren",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Into Arabia, and returned unto Damascus",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Unto Cyprus together with Barnabas",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto Rome to preach before the emperor",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "gal_006",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "After how many years did Paul go up again to Jerusalem?",
+      "bibleReference": "Galatians 2:1",
+      "options": [
+        {
+          "text": "After seven years, together with Timothy and Silas",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "After three years, together with Luke and John Mark",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "After fourteen years, with Barnabas and Titus also",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "After twenty years, together with Peter and Apollos",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "gal_007",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Which companion of Paul, being a Greek, was not compelled to be circumcised?",
+      "bibleReference": "Galatians 2:3",
+      "options": [
+        {
+          "text": "Timothy of Lystra",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Silas of Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Barnabas of Cyprus",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Titus, being a Greek",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "gal_008",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Which three men seemed to be pillars according to Galatians 2:9?",
+      "bibleReference": "Galatians 2:9",
+      "options": [
+        {
+          "text": "James, Cephas, and John",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Paul, Barnabas, and Silas",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Matthew, Mark, and Luke",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Stephen, Philip, and Thomas",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "gal_009",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Why did Paul withstand Peter to the face at Antioch (Galatians 2:11-14)?",
+      "bibleReference": "Galatians 2:11-14",
+      "options": [
+        {
+          "text": "Because he took money of the treasury for his own use",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because he dissembled and separated himself from Gentiles",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Because he refused to preach the gospel unto the people",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because he departed unto Rome and left the assembly alone",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "gal_010",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "By what is a man justified according to Galatians 2:16?",
+      "bibleReference": "Galatians 2:16",
+      "options": [
+        {
+          "text": "By the keeping of the law and observance of all ordinances",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By burnt offerings in the temple and keeping of feast days",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By the faith of Jesus Christ, and not by the works of the law",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "By man’s own wisdom and deep knowledge of the holy scriptures",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "gal_011",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "How doth Paul address the Galatians in Galatians 3:1?",
+      "bibleReference": "Galatians 3:1",
+      "options": [
+        {
+          "text": "O ye most blessed saints!",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "O ye unmerciful judges!",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "O ye wise law teachers!",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "O foolish Galatians!",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "gal_012",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "How did the Galatians receive the Spirit according to Galatians 3:2?",
+      "bibleReference": "Galatians 3:2",
+      "options": [
+        {
+          "text": "By the hearing of faith",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "By the works of the law",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By the washing of water",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By the offering of gifts",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "gal_013",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What is written concerning Abraham’s faith in Galatians 3:6?",
+      "bibleReference": "Galatians 3:6",
+      "options": [
+        {
+          "text": "Abraham kept the whole law, and received the promise for his deeds",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Abraham believed God, and it was accounted to him for righteousness",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Abraham built a great altar, and that sacrifice brought him favour",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Abraham paid tithes of all, and was justified by his righteousness",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "gal_014",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Under what are as many as are of the works of the law (Galatians 3:10)?",
+      "bibleReference": "Galatians 3:10",
+      "options": [
+        {
+          "text": "Under the special blessing of heaven",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Under the mighty favour of kings",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Under the curse written in the law",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Under the high honour of all men",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "gal_015",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What was the law unto us according to Galatians 3:24?",
+      "bibleReference": "Galatians 3:24-25",
+      "options": [
+        {
+          "text": "An eternal judge over all nations",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A means of attaining salvation",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A heavy burden unto all sinners",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Our schoolmaster unto Christ",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "gal_016",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What doth the Spirit of the Son cry in our hearts (Galatians 4:6)?",
+      "bibleReference": "Galatians 4:6",
+      "options": [
+        {
+          "text": "Abba, Father",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Holy, holy",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Glory to God",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Lord of all",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "gal_017",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "How did the Galatians receive Paul according to Galatians 4:14?",
+      "bibleReference": "Galatians 4:14-15",
+      "options": [
+        {
+          "text": "As an enemy that ought to be driven from their city",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As an angel of God, even as Christ Jesus himself",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "As a stranger unto whom no hospitality was shown",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As a prisoner that was looked upon with great fear",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "gal_018",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Which two women serve as an allegory for the two covenants (Galatians 4:22-24)?",
+      "bibleReference": "Galatians 4:22-26",
+      "options": [
+        {
+          "text": "Leah and Rachel, the two wives of Jacob",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Mary and Martha, the two sisters of Bethany",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The bondmaid Agar and the freewoman Sara",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Miriam and Zipporah in the house of Moses",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "gal_019",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "To what mount and city doth Agar answer according to Galatians 4:25?",
+      "bibleReference": "Galatians 4:25",
+      "options": [
+        {
+          "text": "To mount Sion and heavenly Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To mount Nebo and the city of Jericho",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To mount Carmel and city of Samaria",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To mount Sinai and present Jerusalem",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "gal_020",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What saith the scripture concerning the bondwoman and her son (Galatians 4:30)?",
+      "bibleReference": "Galatians 4:30-31",
+      "options": [
+        {
+          "text": "Cast out the bondwoman and her son",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Make the bondwoman ruler of house",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Give the bondwoman a double portion",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Let the bondwoman dwell in the tent",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "gal_021",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Whereunto doth Paul exhort the believers in Galatians 5:1?",
+      "bibleReference": "Galatians 5:1",
+      "options": [
+        {
+          "text": "To keep the whole law lest they should fall away from salvation",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To stand fast in the liberty wherewith Christ hath made us free",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "To flee into the desert that they might avoid the world of sin",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To submit unto earthly priests that the assembly may be kept safe",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "gal_022",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What is said of them who seek to be justified by the law (Galatians 5:2-4)?",
+      "bibleReference": "Galatians 5:2-4",
+      "options": [
+        {
+          "text": "They obtain greater honour",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They receive double reward",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Christ shall profit them nothing",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "They are freed from all sin",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "gal_023",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "In what one word is all the law fulfilled (Galatians 5:14)?",
+      "bibleReference": "Galatians 5:14",
+      "options": [
+        {
+          "text": "Thou shalt keep the sabbath and do no work therein",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Thou shalt serve the Lord and bring daily sacrifice",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Thou shalt keep all statutes and judgments of Moses",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Thou shalt love thy neighbour as thyself unto the end",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "gal_024",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What conflict is described in Galatians 5:17?",
+      "bibleReference": "Galatians 5:17",
+      "options": [
+        {
+          "text": "The flesh lusteth against the Spirit, and the Spirit against flesh",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The flesh fighteth against Satan, and the Spirit against all sin",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The mind striveth with the will, and the soul with outer darkness",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The law contendeth with grace, and holy fear with true assurance",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "gal_025",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "How many fruits of the Spirit are enumerated in Galatians 5:22-23?",
+      "bibleReference": "Galatians 5:22-23",
+      "options": [
+        {
+          "text": "Seven fruits",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Nine fruits",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Ten fruits",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Twelve fruits",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "gal_026",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "How should they which are spiritual restore a man overtaken in a fault (Galatians 6:1)?",
+      "bibleReference": "Galatians 6:1",
+      "options": [
+        {
+          "text": "With severe rebuke before the whole church",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By putting him away immediately from office",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In the spirit of meekness, considering self",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "By judging him openly before the assembly",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "gal_027",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What law do believers fulfil by bearing one another's burdens (Galatians 6:2)?",
+      "bibleReference": "Galatians 6:2",
+      "options": [
+        {
+          "text": "The law of Moses",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The law of fathers",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The law of temple",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The law of Christ",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "gal_028",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What principle concerning sowing is stated in Galatians 6:7?",
+      "bibleReference": "Galatians 6:7-8",
+      "options": [
+        {
+          "text": "Whatsoever a man soweth, that shall he also reap",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He that soweth much shall at the last lose reward",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "God alloweth not any harvest unto those that sow",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Sowing to the flesh yieldeth everlasting glory",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "gal_029",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "In what alone will Paul glory according to Galatians 6:14?",
+      "bibleReference": "Galatians 6:14",
+      "options": [
+        {
+          "text": "In his eloquence wherewith he persuaded many men",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Save in the cross of our Lord Jesus Christ alone",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "In the signs and wonders wrought by his own hands",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In his Hebrew heritage and learning under the law",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "gal_030",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What does Paul bear in his body according to Galatians 6:17?",
+      "bibleReference": "Galatians 6:17",
+      "options": [
+        {
+          "text": "The golden chains of the Caesar",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The outward sign of circumcision",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The marks of the Lord Jesus",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The priestly vestments of Aaron",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "gal_031",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "text": "Which two fruits of the Spirit are mentioned in Galatians 5:22?",
+      "bibleReference": "Galatians 5:22",
+      "options": [
+        {
+          "text": "Pride",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Power",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Peace",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Faith",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2,
+        3
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    }
+  ]
+}
