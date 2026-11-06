@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-11-05T21:40:45Z",
+  "lastUpdated": "2026-11-06T09:14:50Z",
   "language": "en",
   "categories": [
     {
@@ -899,6 +899,30 @@
       ],
       "sizeBytes": 136023,
       "downloadUrl": "./en/44_apostelgeschichte.json"
+    },
+    {
+      "quizId": "nt_06_roemer_alle_kapitel_en",
+      "category": "nt",
+      "title": "Romans",
+      "subtitle": "Romans 1:1 – 16:27 (80 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 80,
+      "difficulty": "medium",
+      "tags": [
+        "Romans",
+        "New Testament",
+        "Pauline Epistles",
+        "Epistles",
+        "Paul",
+        "Justification",
+        "Faith",
+        "Grace",
+        "King James Version"
+      ],
+      "sizeBytes": 81492,
+      "downloadUrl": "./en/45_roemer.json"
     }
   ]
 }

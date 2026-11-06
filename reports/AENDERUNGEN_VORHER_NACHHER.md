@@ -50,7 +50,8 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
 | `42_lukas.json` | 126 | 35 | 1 | 34 | 3 |
 | `43_johannes.json` | 110 | 42 | 2 | 38 | 2 |
 | `44_apostelgeschichte.json` | 145 | 26 | 0 | 19 | 8 |
-| **Gesamt (44 Dateien)** | **4033** | **1729** | **1029** | **1566** | **103** |
+| `45_roemer.json` | 80 | 19 | 1 | 17 | 1 |
+| **Gesamt (45 Dateien)** | **4113** | **1748** | **1030** | **1583** | **104** |
 
 ## 01_1_mose.json – 1. Mose (Genesis) (Schlachter (Revision von 1951))
 
@@ -24449,3 +24450,204 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
   - **Option E (Richtig):**
     - **Vorher:** Saulus wird in Damaskus getauft
     - **Nachher:** Saulus wird in der Stadt Damaskus getauft
+
+## 45_roemer.json – Römer (Schlachter (Revision von 1951))
+
+### `roem_001` (Römer 1:1)
+- **Frage:** Wie bezeichnet Sich Paulus selbst in den einleitenden Grüßen des Römerbriefs?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Als Knecht Jesu Christi, berufenen Apostel, ausgesondert für das Evangelium Gottes
+    - **Nachher:** Als Knecht Jesu Christi, berufener Apostel, ausgesondert zum Evangelium Gottes
+
+### `roem_007` (Römer 2:4)
+- **Frage:** Wozu soll der Reichtum der Güte, Geduld und Langmut Gottes den Menschen leiten?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Zur Buße
+    - **Nachher:** Zur Umkehr und zur Buße
+  - **Option A (Falsch):**
+    - **Vorher:** Zum Genuss irdischen Reichtums
+    - **Nachher:** Zum irdischen Reichtum
+  - **Option B (Falsch):**
+    - **Vorher:** Zum Stolz auf das eigene Volk
+    - **Nachher:** Zur Selbstgerechtigkeit
+  - **Option C (Falsch):**
+    - **Vorher:** Zum Bau neuer Tempel
+    - **Nachher:** Zum Hochmut des Herzens
+
+### `roem_008` (Römer 2:6)
+- **Frage:** Woran bemisst Gott das gerechte Urteil über jeden Menschen im Weltgericht?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Nach seinen Werken
+    - **Nachher:** Nach seinen vollbrachten Werken
+
+### `roem_010` (Römer 2:28-29)
+- **Frage:** Wer gilt nach den Worten des Paulus als wahrer Jude im Sinne Gottes?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Wer es im Verborgenen ist; die Beschneidung des Herzens im Geist
+    - **Nachher:** Wer es innerlich ist; die Beschneidung am Herzen, im Geist
+
+### `roem_014` (Römer 3:24)
+- **Frage:** Wodurch wird der Sünder vor Gott ohne eigenes Verdienst gerechtfertigt?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Umsonst, durch seine Gnade, durch die Erlösung in Christus Jesus
+    - **Nachher:** Geschenkterweise, durch seine Gnade, mittels der Erlösung in Christus Jesus
+
+### `roem_015` (Römer 3:27-28)
+- **Frage:** Welches Prinzip schließt jeglichen menschlichen Eigenruhm vor Gott aus?
+- **Richtige Antwort (unverändert, Option D):** Das Gesetz des Glaubens
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Das Gesetz der Beschneidung
+    - **Nachher:** Das Gesetz der Werke
+  - **Option B (Falsch):**
+    - **Vorher:** Die Weisheit der griechischen Redner
+    - **Nachher:** Menschliche Weisheit
+
+### `roem_031` (Römer 7:1)
+- **Frage:** Wie lange hat das Gesetz Herrschaft über den Menschen nach Paulus?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Solange der Mensch lebt
+    - **Nachher:** Solange der Mensch noch lebt
+  - **Option B (Falsch):**
+    - **Vorher:** Nur im Tempel
+    - **Nachher:** Nur für sieben gezählte Jahre
+  - **Option C (Falsch):**
+    - **Vorher:** Für alle Ewigkeit
+    - **Nachher:** Bis zum Tage des Weltgerichts
+
+### `roem_033` (Römer 7:7-8)
+- **Frage:** Wodurch wurde die Begierde im menschlichen Herzen überhaupt erst als Sünde erkannt?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Durch das Gebot: Du sollst nicht begehren!
+    - **Nachher:** Durch das Gesetz und das Gebot: Du sollst nicht begehren
+  - **Option A (Falsch):**
+    - **Vorher:** Durch die Erziehung der Eltern, die das Gewissen des Kindes bildete
+    - **Nachher:** Durch die Ermahnung der Eltern, die das Gewissen bildete
+  - **Option C (Falsch):**
+    - **Vorher:** Durch die Gesetze der Pharisäer, die jede Begierde ausdrücklich verboten
+    - **Nachher:** Durch die Satzungen der Ältesten, die Begierde verboten
+  - **Option D (Falsch):**
+    - **Vorher:** Durch das Fasten im Heiligtum, das den Menschen sein Herz erkennen ließ
+    - **Nachher:** Durch das Fasten im Tempel, das das Herz erkennen ließ
+
+### `roem_046` (Römer 10:4)
+- **Frage:** Was ist Christus nach den Worten des Paulus im Hinblick auf das Gesetz?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Das Ende des Gesetzes für jeden, der glaubt
+    - **Nachher:** Die Vollendung des Gesetzes zur Gerechtigkeit für jeden Glaubenden
+  - **Option A (Falsch):**
+    - **Vorher:** Der Zerstörer des Heiligtums für jeden, der an ihn glaubt
+    - **Nachher:** Der Zerstörer des Heiligtums für jeden Menschen dieser Welt
+  - **Option D (Falsch):**
+    - **Vorher:** Ein neuer Gesetzeslehrer Israels für jeden, der seine Satzungen hält
+    - **Nachher:** Ein neuer Gesetzeslehrer Israels für alle seine Nachkommen
+
+### `roem_049` (Römer 10:17)
+- **Frage:** Wodurch entsteht der rettende Glaube im Herzen des menschlichen Hörers?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Aus der Verkündigung, und die Verkündigung aus dem Wort Christi
+    - **Nachher:** Aus der Predigt, die Predigt aber durch die Rede Gottes
+  - **Option A (Falsch):**
+    - **Vorher:** Durch das Studium der Philosophie, die die Weisheit der Griechen lehrt
+    - **Nachher:** Durch das Studium der Philosophie und die Weisheit der Griechen
+  - **Option C (Falsch):**
+    - **Vorher:** Durch das Schauen großer Zeichen, die Gott vor den Augen der Menschen tut
+    - **Nachher:** Durch das Schauen großer Zeichen und Wunder vor den Menschen
+  - **Option D (Falsch):**
+    - **Vorher:** Durch eigene menschliche Vernunft, die die Wahrheit allein erkennen kann
+    - **Nachher:** Durch eigene Vernunft und das Forschen in den Sternen des Himmels
+
+### `roem_066` (Römer 14:1)
+- **Frage:** Wie soll die christliche Gemeinde mit dem im Glauben Schwachen umgehen?
+- **Richtige Antwort (unverändert, Option C):** Ihn aufnehmen, ohne über Meinungen zu streiten
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Ihn öffentlich rügen
+    - **Nachher:** Ihn vor allen tadeln und öffentlich rügen
+  - **Option D (Falsch):**
+    - **Vorher:** Ihn zum Leiter der Gemeinde machen
+    - **Nachher:** Ihn ohne Prüfung zum Vorsteher ernennen
+
+### `roem_068` (Römer 14:10-12)
+- **Frage:** Vor wessen Richterstuhl werden sich einmal alle Glaubenden persönlich verantworten?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Vor dem Richterstuhl Gottes
+    - **Nachher:** Vor dem Richterstuhl Christi
+
+### `roem_071` (Römer 15:1-3)
+- **Frage:** Welches Ziel verfolgen die im Glauben Starken im Umgang mit den Schwachen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Die Schwachheiten der Schwachen tragen und nicht sich selbst gefallen
+    - **Nachher:** Die Schwachheiten der Kraftlosen tragen und nicht Gefallen an uns selber haben
+  - **Option B (Falsch):**
+    - **Vorher:** Die Schwachen sofort belehren und ihnen ihre Fehler vorhalten
+    - **Nachher:** Die Schwachen sofort belehren und ihnen alle Fehler streng vorhalten
+  - **Option C (Falsch):**
+    - **Vorher:** Sich von den Schwachen absondern und ihren Umgang meiden
+    - **Nachher:** Sich von den Schwachen absondern und ihren alltäglichen Umgang meiden
+
+### `roem_074` (Römer 15:24)
+- **Bibelstelle Vorher:** `Römer 15:24; 15:28` -> **Nachher:** `Römer 15:24`
+- **Frage:** Welches ferne Reiseziel plante Paulus nach Seinem beabsichtigten Besuch in Rom?
+
+### `roem_076` (Römer 16:1-2)
+- **Frage Vorher:** Welche Diakonin der Gemeinde in Kenchrenä empfiehlt Paulus den Römern?
+- **Frage Nachher:** Welche Dienerin der Gemeinde in Kenchreä empfiehlt Paulus den Römern?
+
+### `roem_077` (Römer 16:3-4)
+- **Frage:** Welches Ehepaar von Mitarbeitern wog für das Leben des Paulus den eigenen Hals?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Priska und Aquila, meine Mitarbeiter in Christus Jesus
+    - **Nachher:** Priscilla und Aquila, meine Mitarbeiter in Christus Jesus
+
+### `roem_078` (Römer 16:17-18)
+- **Frage:** Vor welchen Menschen warnt Paulus die römische Gemeinde am Ende des Briefes?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Vor denen, die Spaltungen und Ärgernisse anrichten wider die Lehre
+    - **Nachher:** Vor denen, die Trennungen und Ärgernisse anrichten abseits von der Lehre
+  - **Option B (Falsch):**
+    - **Vorher:** Vor den Bettlern, die vor den Türen der Häuser betteln und lügen
+    - **Nachher:** Vor den fremden Bettlern, die an den Türen der Häuser betrügen
+  - **Option D (Falsch):**
+    - **Vorher:** Vor den Diakonen, die die Gaben verwalten und verteilen
+    - **Nachher:** Vor den Diakonen der Gemeinde, die alle Gaben verwalten und zuteilen
+
+### `roem_079` (Römer 16:20)
+- **Frage:** Welche Siegesverheißung bezüglich des Widersachers gibt Paulus den Glaubenden?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Der Gott des Friedens wird den Satan bald unter eure Füße zertreten
+    - **Nachher:** Der Gott des Friedens wird den Satan unter euren Füßen zermalmen in Kürze
+  - **Option A (Falsch):**
+    - **Vorher:** Der Satan wird euch immer plagen und niemals von euch weichen
+    - **Nachher:** Der Satan wird euch immerfort plagen und niemals ganz von euch weichen
+  - **Option B (Falsch):**
+    - **Vorher:** Der Satan wird die Welt regieren und die Gläubigen unterdrücken
+    - **Nachher:** Der Satan wird die ganze Welt regieren und alle Gläubigen unterdrücken
+  - **Option C (Falsch):**
+    - **Vorher:** Gott wird den Satan nicht richten, sondern ihn gewähren lassen
+    - **Nachher:** Gott wird den Satan überhaupt nicht richten, sondern gewähren lassen
+
+### `roem_080` (Römer 16:22)
+- **Frage:** Welcher Schreiber verfasste den Römerbrief im Gruße im Auftrag des Paulus?
+- **Richtige Antwort (unverändert, Option A):** Tertius
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Lukas
+    - **Nachher:** Silvanus
+  - **Option D (Falsch):**
+    - **Vorher:** Barnabas
+    - **Nachher:** Aristarch

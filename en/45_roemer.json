@@ -1,0 +1,2748 @@
+{
+  "metadata": {
+    "quizId": "nt_06_roemer_alle_kapitel_en",
+    "title": "Romans",
+    "subtitle": "Romans 1:1 – 16:27 (80 questions)",
+    "author": "King James Version (1769)",
+    "version": "2.3.0",
+    "language": "en",
+    "category": "nt",
+    "difficulty": "medium",
+    "tags": [
+      "Romans",
+      "New Testament",
+      "Pauline Epistles",
+      "Epistles",
+      "Paul",
+      "Justification",
+      "Faith",
+      "Grace",
+      "King James Version"
+    ],
+    "questionCount": 80,
+    "canonicalBookNumber": 45,
+    "testament": "NT"
+  },
+  "questions": [
+    {
+      "questionId": "roem_001",
+      "type": "single_choice",
+      "text": "How does Paul describe himself in the opening salutation of the Epistle to the Romans?",
+      "options": [
+        {
+          "text": "As high priest of the assembly in Rome, called to minister at the altar",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A servant of Jesus Christ, called to be an apostle, separated unto the gospel of God",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "As a prophet unto heathen kings, sent to rule over the princes of the nations",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As a teacher of the law in Rome, appointed to instruct the elders of the Jews",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Romans 1:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "roem_002",
+      "type": "single_choice",
+      "text": "What is the gospel of Christ according to the words of Paul in the first chapter?",
+      "options": [
+        {
+          "text": "A new moral law for all men upon earth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A wise doctrine of the Greek philosophers",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The power of God unto salvation to every one that believeth",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A historical book concerning the tribes of Israel",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Romans 1:16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "roem_003",
+      "type": "single_choice",
+      "text": "Whereby are the invisible things of God clearly seen since the creation of the world?",
+      "options": [
+        {
+          "text": "By imperial decrees known by the administration of the realm",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By secret dreams granted to every man in the night season",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By stone inscriptions engraved within the heathen temples",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By the things that are made, being understood from the creation",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Romans 1:19-20",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "roem_004",
+      "type": "single_choice",
+      "text": "What error did men commit when they knew God, yet glorified him not as God?",
+      "options": [
+        {
+          "text": "They became vain in their imaginations, and worshipped the creature more than the Creator",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "They burned the scrolls of the law and openly rejected the commandments of the Lord",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They ceased to build cities and dwelt in tents without any civil ordinance or ruler",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They fled into the desert and lived there without any tabernacle worship or statutes",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Romans 1:21-25",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "roem_005",
+      "type": "single_choice",
+      "text": "Unto what did God give men up because they held the truth in unrighteousness?",
+      "options": [
+        {
+          "text": "Unto cruel bondage under foreign nations that oppressed them with violence",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto uncleanness through the lusts of their own hearts and vile affections",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Unto extreme poverty and hunger that brought them to the brink of ruin",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto the dark dungeons of Roman magistrates to be condemned as felons",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Romans 1:24-27",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "roem_006",
+      "type": "single_choice",
+      "text": "What judgment does Paul pronounce upon the man that judgeth another?",
+      "options": [
+        {
+          "text": "He is rewarded of God for openly condemning wickedness by name",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He proves his great wisdom, discerning the iniquity of others",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He condemneth himself, for he that judgeth doeth the same things",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He fulfilleth the law, rendering just judgment unto all people",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Romans 2:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "roem_007",
+      "type": "single_choice",
+      "text": "Unto what does the riches of the goodness and forbearance and longsuffering of God lead a man?",
+      "options": [
+        {
+          "text": "Unto worldly riches",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto self-righteousness",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto pride of heart",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto true repentance",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Romans 2:4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "roem_008",
+      "type": "single_choice",
+      "text": "According to what rule will God render unto every man in the day of judgment?",
+      "options": [
+        {
+          "text": "According to the deeds of every man",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "According to the abundance of his gifts",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "According to the lineage of his fathers",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "According to his knowledge of the law",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Romans 2:6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "roem_009",
+      "type": "single_choice",
+      "text": "How does God regard the person of a man between the Jew and the Greek?",
+      "options": [
+        {
+          "text": "He preferreth the wise among the Greeks",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "There is no respect of persons with God",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He judgeth only the heathen nations",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He bestoweth more grace upon the rich",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Romans 2:11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "roem_010",
+      "type": "single_choice",
+      "text": "Who is counted a true Jew in the sight of God according to the words of Paul?",
+      "options": [
+        {
+          "text": "He that buildeth the temple in Jerusalem and supporteth the priests",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He that hath the lineage of Abraham and the circumcision of the flesh",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He which is one inwardly; and circumcision is of the heart, in the spirit",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He that observeth all annual feasts and keepeth the dietary ordinances",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Romans 2:28-29",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "roem_011",
+      "type": "single_choice",
+      "text": "What advantage hath the Jew, and what profit is there of circumcision?",
+      "options": [
+        {
+          "text": "They possess more gold than other nations",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They are entirely free from every transgression",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They have dominion to rule over the Gentiles",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto them were committed the oracles of God",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Romans 3:1-2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "roem_012",
+      "type": "single_choice",
+      "text": "What essential function does the law perform regarding man?",
+      "options": [
+        {
+          "text": "Through the law cometh the knowledge of sin",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "It maketh man sinless if he obey its statutes",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It delivereth from worldly sorrows and iniquity",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It bestoweth eternal riches upon all who keep it",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Romans 3:20",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "roem_013",
+      "type": "single_choice",
+      "text": "What is the universal judgment concerning the spiritual condition of all mankind?",
+      "options": [
+        {
+          "text": "A few righteous men have never committed any iniquity",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For all have sinned, and come short of the glory of God",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Only the heathen nations have fallen into transgression",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The priests alone stand completely undefiled before God",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Romans 3:23",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "roem_014",
+      "type": "single_choice",
+      "text": "How is the sinner justified before God without any merit of his own?",
+      "options": [
+        {
+          "text": "By righteous deeds and generous alms given unto the needy",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By strict observance of all the statutes demanded by the law",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Being justified freely by his grace through the redemption in Christ Jesus",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "By lineage within the house of Israel that keepeth the covenant",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Romans 3:24",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "roem_015",
+      "type": "single_choice",
+      "text": "What principle excludeth all manner of human boasting before God?",
+      "options": [
+        {
+          "text": "The ancient law of works",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Human learning and wisdom",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The great wealth of Rome",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The divine law of faith",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Romans 3:27-28",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "roem_016",
+      "type": "single_choice",
+      "text": "How did the patriarch Abraham attain unto the reckoning of righteousness before God?",
+      "options": [
+        {
+          "text": "Abraham believed God, and it was counted unto him for righteousness",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "By erecting the first altar in the land of Canaan",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By offering up his son Isaac upon the wood",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By keeping the commandments delivered at Mount Sinai",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Romans 4:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "roem_017",
+      "type": "single_choice",
+      "text": "In what state was Abraham when faith was reckoned to him for righteousness?",
+      "options": [
+        {
+          "text": "After he had received circumcision",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "When he was yet in uncircumcision, not in circumcision",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "After the children of Israel departed out of Egypt",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "After the tabernacle was reared up in the desert",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Romans 4:9-10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "roem_018",
+      "type": "single_choice",
+      "text": "What spiritual standing did Abraham receive through walking in the steps of faith?",
+      "options": [
+        {
+          "text": "A king over all heathen nations",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The high priest of the temple",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The father of all them that believe",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The judge of the whole earth",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Romans 4:11-12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "roem_019",
+      "type": "single_choice",
+      "text": "What worketh the law in contrast to the free promise of God?",
+      "options": [
+        {
+          "text": "The law bestoweth eternal life",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The law pardoneth all iniquities",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The law rewardeth the heathen",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because the law worketh wrath",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Romans 4:15",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "roem_020",
+      "type": "single_choice",
+      "text": "Upon whom did Abraham rest his unwavering faith concerning the promised son?",
+      "options": [
+        {
+          "text": "Upon God, who quickeneth the dead, and calleth those things which be not as though they were",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Upon his own youthful strength and the natural vigour of his mortal body",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Upon the wise counsel of the heathen kings that dwelt round about in Canaan",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Upon the written tables of the commandment delivered unto Moses the prophet",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Romans 4:17-21",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "roem_021",
+      "type": "single_choice",
+      "text": "What blessing do believers possess being justified by faith?",
+      "options": [
+        {
+          "text": "Riches and worldly honour among all men upon earth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "We have peace with God through our Lord Jesus Christ",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Dominion over all the heathen kings of the earth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Deliverance from every manner of bodily infirmity",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Romans 5:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "roem_022",
+      "type": "single_choice",
+      "text": "Wherein does God commend his unsearchable love toward mankind?",
+      "options": [
+        {
+          "text": "In that he bestowed earthly riches and power upon us",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In that he sent legions of angels to execute judgment",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In that, while we were yet sinners, Christ died for us",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "In that he delivered the holy law on tables of stone",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Romans 5:6-8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "roem_023",
+      "type": "single_choice",
+      "text": "Whereby did sin and death enter into the whole world of mankind?",
+      "options": [
+        {
+          "text": "By a monstrous beast from the deep",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By the traditions of the Pharisees",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By the building of the tower of Babel",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By one man, Adam, sin entered the world",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Romans 5:12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "roem_024",
+      "type": "single_choice",
+      "text": "How does the free gift of God compare unto the offence of the first man?",
+      "options": [
+        {
+          "text": "Where sin abounded, grace did much more abound",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Both forces entirely destroy and cancel each other",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Sin hath permanently overcome the mercy of God",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Grace is reserved only for the seed of Abraham",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Romans 5:15-20",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "roem_025",
+      "type": "single_choice",
+      "text": "What reigneth through righteousness unto eternal life by Jesus Christ our Lord?",
+      "options": [
+        {
+          "text": "The carnal letter of the ceremonial law of works",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Grace reigning through righteousness unto eternal life",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The terror of condemnation and the judgment of hell",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The temporal dominion and power of the Roman Caesars",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Romans 5:21",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "roem_026",
+      "type": "single_choice",
+      "text": "What does baptism into Jesus Christ signify in a spiritual sense?",
+      "options": [
+        {
+          "text": "An outward bodily washing of purification",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A token of carnal citizenship in Israel",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Baptized into his death, and buried with him by baptism",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A ceremonial dedication unto temple service",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Romans 6:3-4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "roem_027",
+      "type": "single_choice",
+      "text": "Why is our old man crucified with Christ upon the cross?",
+      "options": [
+        {
+          "text": "That we might experience no bodily suffering or affliction in this present life",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That we might exercise earthly lordship and authority over the heathen rulers",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That we might completely abandon the daily temple service within Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That the body of sin might be destroyed, that henceforth we should not serve sin",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Romans 6:6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "roem_028",
+      "type": "single_choice",
+      "text": "Unto what are believers commanded to yield their members unto God?",
+      "options": [
+        {
+          "text": "As instruments of righteousness unto God",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "As carnal weapons of worldly warfare",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As instruments for acquiring riches",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As ornaments for the holy sanctuary",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Romans 6:13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "roem_029",
+      "type": "single_choice",
+      "text": "Why shall sin NOT have dominion over believers according to Romans 6:14?",
+      "options": [
+        {
+          "text": "Because they are incapable of committing any sin",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For ye are not under the law, but under grace",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Because holy angels shield them from all danger",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because they have chosen the desert for an abode",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Romans 6:14",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "roem_030",
+      "type": "single_choice",
+      "text": "What are the wages of sin, and what is the gift of God in Romans 6:23?",
+      "options": [
+        {
+          "text": "The wages of sin is worldly wealth; the gift of God is poverty",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The wages of sin is dishonour; the gift of God is human fame",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The wages of sin is death; but the gift of God is eternal life",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The wages of sin is sickness; the gift of God is earthly health",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Romans 6:23",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "roem_031",
+      "type": "single_choice",
+      "text": "How long hath the law dominion over a man according to the apostle Paul?",
+      "options": [
+        {
+          "text": "Until the thirtieth year of a man's life",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Only for seven counted years of time",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto the great day of the final judgment",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As long as he liveth upon the earth",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Romans 7:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "roem_032",
+      "type": "single_choice",
+      "text": "What similitude illustrates the believer being dead to the law by the body of Christ?",
+      "options": [
+        {
+          "text": "The woman which is loosed from the law of her husband when he is dead",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The bondsman who is set at liberty after seven years of service",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The soldier who is discharged from warfare in the Roman legion",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The priest who delivereth his holy office unto his firstborn son",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Romans 7:2-4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "roem_033",
+      "type": "single_choice",
+      "text": "Whereby was lust and concupiscence in the human heart known to be sin?",
+      "options": [
+        {
+          "text": "By the counsel of parents instructing the youthful mind",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Except the law had said, Thou shalt not covet",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "By the traditions of the elders prohibiting desire",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By temple fastings causing men to search the heart",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Romans 7:7-8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "roem_034",
+      "type": "single_choice",
+      "text": "How does Paul describe the nature of the law and the commandment?",
+      "options": [
+        {
+          "text": "It is evil, purposely leading the hearts of men astray",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It is unjust, respecting the persons of wealthy rulers",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Wherefore the law is holy, and the commandment holy, and just, and good",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "It is obsolete, having no moral significance whatever",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Romans 7:12-13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "roem_035",
+      "type": "single_choice",
+      "text": "What inward struggle does the apostle describe concerning the flesh and the will?",
+      "options": [
+        {
+          "text": "He performeth all manner of righteousness without any inward strife or sorrow",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He utterly abhorreth the commandment and seeketh continually to work iniquity",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He hath extinguished all corrupt lusts and dwelleth in undisturbed quietness",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For the good that I would I do not: but the evil which I would not, that I do",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Romans 7:18-19",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "roem_036",
+      "type": "single_choice",
+      "text": "What declaration of comfort stands at the beginning of the eighth chapter of Romans?",
+      "options": [
+        {
+          "text": "There is therefore now no condemnation to them which are in Christ Jesus",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "There remaineth severe penalty for the smallest human failing",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "There is only wrath and damnation for all the heathen tribes",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "There is perpetual bondage under the carnal letter of the law",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Romans 8:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "roem_037",
+      "type": "single_choice",
+      "text": "Who witnesseth with our spirit that we are the children of God?",
+      "options": [
+        {
+          "text": "The high priest ministering annually within the holy of holies of the sanctuary",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The Spirit itself beareth witness with our spirit, that we are the children of God",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The Roman emperor through an official decree proclaimed across the provinces",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "One's own carnal genealogy traced backward unto the patriarch father Abraham",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Romans 8:16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "roem_038",
+      "type": "single_choice",
+      "text": "For what does the earnest expectation of the creature wait with groaning?",
+      "options": [
+        {
+          "text": "For new treasures of silver and refined gold",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For the temporal triumphs of the Roman legions",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For the manifestation of the sons of God",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "For the overthrow of the holy sanctuary in Zion",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Romans 8:19-22",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "roem_039",
+      "type": "single_choice",
+      "text": "Unto whom do all things work together for good according to Romans 8:28?",
+      "options": [
+        {
+          "text": "Unto the scribes who diligently read the law daily",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto those who present the most costly sacrifices",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto the wealthy who perform notable charitable deeds",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "All things work together for good to them that love God",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Romans 8:28",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "roem_040",
+      "type": "single_choice",
+      "text": "What power can separate believers from the love of God in Christ Jesus?",
+      "options": [
+        {
+          "text": "Neither death, nor life, nor angels, nor principalities, shall be able to separate us from the love of God",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Poverty and bodily tribulation immediately sever the faithful believer from the boundless mercy of God",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The decrees of Roman magistrates possess full power to divide the human soul from the love of Jesus Christ",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The iniquities of ancient forefathers perpetually alienate the transgressing children from the Lord",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Romans 8:38-39",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "roem_041",
+      "type": "single_choice",
+      "text": "What deep sorrow does Paul feel in his heart concerning his brethren according to the flesh?",
+      "options": [
+        {
+          "text": "Indifference, caring only for the assemblies of the Gentiles",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Great heaviness and continual sorrow in his heart",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Bitterness and wrath because they continually persecuted him",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Malicious joy concerning the judgment that hung over them",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Romans 9:1-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "roem_042",
+      "type": "single_choice",
+      "text": "Hath the word of God taken none effect because many of the children of Israel believed not?",
+      "options": [
+        {
+          "text": "Yea, the promises delivered unto the fathers have proven wholly untrustworthy and failed for evermore",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Yea, the glorious gospel of salvation was ordained by God exclusively for the calling of Gentile nations",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Not as though the word of God hath taken none effect; for they are not all Israel, which are of Israel",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Yea, the Lord hath utterly broken and cast away his everlasting covenant made with the house of Israel",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Romans 9:6-8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "roem_043",
+      "type": "single_choice",
+      "text": "Which pair of twin brothers illustrates God's sovereign purpose according to election?",
+      "options": [
+        {
+          "text": "Cain and Abel",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Ephraim and Manasseh",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Ishmael and Isaac",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Jacob and Esau",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Romans 9:10-13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "roem_044",
+      "type": "single_choice",
+      "text": "What metaphor illustrates the absolute sovereignty of God over his creatures?",
+      "options": [
+        {
+          "text": "The potter and the clay",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The husbandman and the vine",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The shepherd and the flock",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The goldsmith and the gold",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Romans 9:20-23",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "roem_045",
+      "type": "single_choice",
+      "text": "What stone was laid in Sion at which Israel stumbled in unbelief?",
+      "options": [
+        {
+          "text": "A golden cornerstone laid in Sion as a foundation for the temple",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A stumblingstone and rock of offence laid in Sion",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A memorial pillar for Moses erected as a token of the commandment",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "An altar stone for sacrifices set in Sion as the centre of worship",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Romans 9:32-33",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "roem_046",
+      "type": "single_choice",
+      "text": "What is Christ in relation to the law according to Romans 10:4?",
+      "options": [
+        {
+          "text": "The destroyer of the holy sanctuary for all that dwell upon earth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The renewer of carnal sacrifices for all that approach the altar",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Christ is the end of the law for righteousness to every one that believeth",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A new teacher of the traditions of Israel for all his descendants",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Romans 10:4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "roem_047",
+      "type": "single_choice",
+      "text": "How is salvation confessed and believed according to the word of faith?",
+      "options": [
+        {
+          "text": "Thinking in the mind and performing outward deeds commanded by the law",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Writing statutes upon stones and rehearsing what the elders delivered",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Praying secretly within the temple and offering oblations in private",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Confess with thy mouth the Lord Jesus, and believe in thine heart",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Romans 10:9-10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "roem_048",
+      "type": "single_choice",
+      "text": "What promise is given to every one that calleth upon the name of the Lord?",
+      "options": [
+        {
+          "text": "For whosoever shall call upon the name of the Lord shall be saved",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Whosoever calleth upon him shall receive worldly wealth and length of days",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Whosoever calleth upon him shall be delivered from all earthly oppressors",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Whosoever calleth upon him shall understand all secret mysteries of heaven",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Romans 10:12-13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "roem_049",
+      "type": "single_choice",
+      "text": "How does saving faith come to the heart of the hearer according to Romans 10:17?",
+      "options": [
+        {
+          "text": "By the study of human philosophy and the enticing wisdom of the Greeks",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "So then faith cometh by hearing, and hearing by the word of God",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "By beholding mighty outward signs and wonders wrought among men",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By human reason and searching out the courses of the heavenly lights",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Romans 10:17",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "roem_050",
+      "type": "single_choice",
+      "text": "What saith God unto Israel through the prophet Esaias in Romans 10:21?",
+      "options": [
+        {
+          "text": "I have utterly cast off my people, and will shew no more compassion",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They have diligently sought me with all their heart and found me",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "All day long I have stretched forth my hands unto a disobedient and gainsaying people",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Their righteousness shineth brightly before all the nations of the earth",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Romans 10:21",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "roem_051",
+      "type": "single_choice",
+      "text": "Hath God cast away his people Israel whom he foreknew?",
+      "options": [
+        {
+          "text": "Yea, God hath utterly cast away Israel and will have no more mercy",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Only the priests and the Levites remain chosen in the sight of God",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Israel hath ceased to exist spiritually before the presence of the Lord",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "God hath not cast away his people which he foreknew; there is a remnant",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Romans 11:1-5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "roem_052",
+      "type": "single_choice",
+      "text": "How many men did God reserve unto himself in the days of Elias who bowed not the knee to Baal?",
+      "options": [
+        {
+          "text": "Seven thousand men",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Twelve thousand men",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Three hundred men",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Forty thousand men",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Romans 11:4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "roem_053",
+      "type": "single_choice",
+      "text": "What tree is used as a similitude of Israel and the Gentile believers in Romans 11?",
+      "options": [
+        {
+          "text": "The barren fig tree that withered away and bare no more fruit",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Being a wild olive tree, wert graffed in among them, and with them partakest of the root",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The fruitful vine from which withered branches are pruned and burned",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The tall cedar of Lebanon that was broken down in the great storm",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Romans 11:17-18",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "roem_054",
+      "type": "single_choice",
+      "text": "How long is blindness in part happened unto Israel according to Romans 11:25?",
+      "options": [
+        {
+          "text": "Until the holy sanctuary in Jerusalem be completely rebuilt",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Until all the scribes and priests confess the Lord Jesus Christ",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Blindness in part is happened to Israel, until the fulness of the Gentiles be come in",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Until the Roman world empire be utterly overthrown by a tempest",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Romans 11:25-26",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "roem_055",
+      "type": "single_choice",
+      "text": "With what doxology of praise does Paul conclude his discourse on God's ways in Romans 11?",
+      "options": [
+        {
+          "text": "With a terrible and severe rebuke pronounced against all obstinate adversaries of the holy gospel message",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With a heavy and sorrowful lamentation concerning his own physical weakness, infirmities, and fatigue",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With a detailed enumeration of all the distant journeys and provinces which he yet intended to visit",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "O the depth of the riches both of the wisdom and knowledge of God! how unsearchable are his judgments",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Romans 11:33-36",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "roem_056",
+      "type": "single_choice",
+      "text": "Unto what does Paul beseech the brethren to present their bodies?",
+      "options": [
+        {
+          "text": "Present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Dedicate themselves unto death through ascetic fastings and harsh penance",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Slay costly bullocks upon the altar of burnt offering in Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Mortify their physical flesh with scourging after the manner of the heathen",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Romans 12:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "roem_057",
+      "type": "single_choice",
+      "text": "What attitude are believers commanded to maintain toward this present world in Romans 12:2?",
+      "options": [
+        {
+          "text": "Conform themselves entirely to the corrupt customs of their heathen neighbours",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "And be not conformed to this world: but be ye transformed by the renewing of your mind",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Depart from human society and dwell alone in the barren caves of the wilderness",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Revere the imperial decrees of the Caesar as supreme divine commandment",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Romans 12:2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "roem_058",
+      "type": "single_choice",
+      "text": "How are the diverse spiritual gifts exercised within the one body in Christ?",
+      "options": [
+        {
+          "text": "Every member of the church must possess and exercise the exact same gift",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Spiritual gifts are reserved solely for the apostles and not for the brethren",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As we have many members in one body, and all members have not the same office",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Only he that possesseth the gift of prophesying is counted a true disciple",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Romans 12:4-8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "roem_059",
+      "type": "single_choice",
+      "text": "How should believers respond to the injurious actions of men in Romans 12:21?",
+      "options": [
+        {
+          "text": "Recompense evil with greater evil to manifest worldly strength",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Drag all adversaries before the magistrates to be severely scourged",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Break off all fellowship and conversation with those that oppose",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Be not overcome of evil, but overcome evil with good",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Romans 12:17-21",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "roem_060",
+      "type": "single_choice",
+      "text": "Unto whom belongeth vengeance according to the holy scriptures?",
+      "options": [
+        {
+          "text": "Vengeance is mine; I will repay, saith the Lord",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The Caesar of Rome through his imperial laws and decrees",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The injured person through immediate personal revenge",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The high priest in Jerusalem through judicial excommunication",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Romans 12:19",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "roem_061",
+      "type": "single_choice",
+      "text": "What duty does Paul enjoin toward civil authorities in Romans 13:1?",
+      "options": [
+        {
+          "text": "Resist the powers because they are composed of ungodly heathen men",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Let every soul be subject unto the higher powers. For there is no power but of God",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Flee from the civil authorities and establish separate kingdoms in the desert",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Obey the rulers only when they make open profession of the faith of Christ",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Romans 13:1-2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "roem_062",
+      "type": "single_choice",
+      "text": "Wherefore is the civil ruler called the minister of God in Romans 13:4?",
+      "options": [
+        {
+          "text": "To oppress the humble and poor citizens with heavy yokes of taxation and mercilessly despoil them",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To erect heathen statues and profane altars throughout all the public markets of the provinces",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For he is the minister of God to thee for good, a revenger to execute wrath upon him that doeth evil",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "To wage unceasing wars of conquest and plunder against all the neighboring territories and kingdoms",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Romans 13:3-4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "roem_063",
+      "type": "single_choice",
+      "text": "What is the only debt that believers are commanded to owe one to another?",
+      "options": [
+        {
+          "text": "Never lend or give money unto any that are in necessity",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Withhold all taxes and customs from the civil rulers",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Show affection only unto the members of one's own family",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Owe no man any thing, but to love one another",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Romans 13:8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "roem_064",
+      "type": "single_choice",
+      "text": "Why is love declared to be the fulfilling of the law in Romans 13:10?",
+      "options": [
+        {
+          "text": "Love worketh no ill to his neighbour: therefore love is the fulfilling of the law",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Because love rendereth all civil statutes and courts completely useless",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because love excuseth transgression so that men may freely indulge the flesh",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because love alone is accepted upon the golden altar in the temple",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Romans 13:9-10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "roem_065",
+      "type": "single_choice",
+      "text": "What spiritual action does Paul urge believers to take concerning the works of darkness?",
+      "options": [
+        {
+          "text": "Flee into lonely caves and cease from all honest labour",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Cast off the works of darkness, and let us put on the armour of light",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Invent new feasts and indulge in wanton carousing",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Pray only during the night hours and sleep through the day",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Romans 13:11-14",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "roem_066",
+      "type": "single_choice",
+      "text": "How should the church receive him that is weak in the faith in Romans 14:1?",
+      "options": [
+        {
+          "text": "Cast him out immediately from the assembly of the saints",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Rebuke him openly before the presence of the congregation",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Him that is weak in the faith receive ye, but not to doubtful disputations",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Appoint him ruler over the church without any prior testing",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Romans 14:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "roem_067",
+      "type": "single_choice",
+      "text": "What dispute concerning daily Christian practice is addressed in Romans 14:2-6?",
+      "options": [
+        {
+          "text": "The erection of new synagogues and gathering places for the assembly",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The formal appointment and ordination of ruling elders and deacons",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The wearing of particular phylacteries and special outward vestments",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Believing that one may eat all things, and esteeming one day above another",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Romans 14:2-6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "roem_068",
+      "type": "single_choice",
+      "text": "Before whose judgment seat must all believers give an account of themselves?",
+      "options": [
+        {
+          "text": "For we shall all stand before the judgment seat of Christ",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Before the royal judgment seat of the Roman Caesar",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Before the high council of the elders in Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Before the rulers and ministers of the local church",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Romans 14:10-12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "roem_069",
+      "type": "single_choice",
+      "text": "Wherein does the kingdom of God consist NOT according to Romans 14:17?",
+      "options": [
+        {
+          "text": "In fasting and bodily affliction, abstaining from meats and observing rigid rules",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For the kingdom of God is not meat and drink; but righteousness, and peace, and joy in the Holy Ghost",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "In formal adherence to outward precepts and submitting unto bodily ordinances",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In worldly philanthropy, distributing bread unto the poor without faith in Christ",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Romans 14:17",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "roem_070",
+      "type": "single_choice",
+      "text": "What fundamental principle governs actions that are NOT performed in faith in Romans 14:23?",
+      "options": [
+        {
+          "text": "It is indifferent before God if done in sincerity",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It is pardoned through alms given unto the poor",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For whatsoever action is not of faith is counted sin",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "It injureth the brother, but worketh no sin to self",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Romans 14:23",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "roem_071",
+      "type": "single_choice",
+      "text": "What duty have they that are strong toward the infirmities of the weak in Romans 15:1?",
+      "options": [
+        {
+          "text": "Insist upon their own rights and compel the weak to conform to their liberty",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Reprove the weak immediately and rebuke all their scrupulous infirmities",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Withdraw from the weak brethren and avoid all daily conversation with them",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "We then that are strong ought to bear the infirmities of the weak, and not to please ourselves",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Romans 15:1-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "roem_072",
+      "type": "single_choice",
+      "text": "Wherefore were whatsoever things written aforetime written according to Romans 15:4?",
+      "options": [
+        {
+          "text": "Written for our learning, that we through patience and comfort of the scriptures might have hope",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Delivered only for the ancient commonwealth of Israel under the first covenant",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Intended as civil statutes for the Roman magistrates and the government of nations",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Recorded merely for historical recitation in the assemblies and the praise of the fathers",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Romans 15:4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "roem_073",
+      "type": "single_choice",
+      "text": "How far had Paul fully preached the gospel of Christ according to Romans 15:19?",
+      "options": [
+        {
+          "text": "Only within the immediate borders of Jerusalem where the apostles labored",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "From Jerusalem, and round about unto Illyricum, I have fully preached the gospel of Christ",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Only upon the island of Cyprus where he had ministered with Barnabas",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Only in the cities of Galatia where he planted the earliest assemblies",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Romans 15:19",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "roem_074",
+      "type": "single_choice",
+      "text": "What distant journey did Paul plan to take after his intended visit to Rome?",
+      "options": [
+        {
+          "text": "A voyage unto the island of Crete",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A return unto his home city Tarsus",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Whensoever I take my journey into Spain",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A journey unto the city of Alexandria",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Romans 15:24",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "roem_075",
+      "type": "single_choice",
+      "text": "What urgent service was Paul going unto Jerusalem to minister before his voyage to Rome?",
+      "options": [
+        {
+          "text": "To celebrate the feast of dedication and offer thank offerings on the altar",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To plead his cause before the council and refute the charges of his accusers",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To ransom imprisoned brethren and purchase their release from Roman soldiers",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To minister unto the saints, bringing a contribution for the poor saints which are at Jerusalem",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Romans 15:25-27",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "roem_076",
+      "type": "single_choice",
+      "text": "Which servant of the church at Cenchrea does Paul commend unto the Romans?",
+      "options": [
+        {
+          "text": "Phebe our sister, which is a servant of the church which is at Cenchrea",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Lydia of Philippi, a seller of purple and servant of the assembly",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Priscilla of Corinth, a tentmaker and helper in Christ Jesus",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Damaris of Athens, an honourable woman converted at Mars' hill",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Romans 16:1-2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "roem_077",
+      "type": "single_choice",
+      "text": "Which fellowlabourers laid down their own necks for the life of Paul?",
+      "options": [
+        {
+          "text": "Ananias and Sapphira, who sold their possession for the assembly",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Priscilla and Aquila my helpers in Christ Jesus, who laid down their necks",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Philemon and Apphia, who hosted the church within the city of Colosse",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Zacharias and Elisabeth, the parents of the forerunner in the hill country",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Romans 16:3-4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "roem_078",
+      "type": "single_choice",
+      "text": "Concerning whom does Paul warn the brethren to mark and avoid at the close of his epistle?",
+      "options": [
+        {
+          "text": "The Roman soldiers who vex and persecute the disciples of the Lord",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The deceitful mendicants who beg at the doors and mislead many",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Them which cause divisions and offences contrary to the doctrine which ye have learned",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The deacons of the assembly who distribute the alms unto the saints",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Romans 16:17-18",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "roem_079",
+      "type": "single_choice",
+      "text": "What promise of victory over the adversary does Paul give unto the believers?",
+      "options": [
+        {
+          "text": "Satan shall continually vex the disciples and never depart from them",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Satan shall rule over the whole world and oppress all the faithful",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "God will not judge the adversary at all, but suffer him to work his will",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "And the God of peace shall bruise Satan under your feet shortly",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Romans 16:20",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "roem_080",
+      "type": "single_choice",
+      "text": "Who was the scribe that wrote this epistle and saluted the Romans in the Lord?",
+      "options": [
+        {
+          "text": "Tertius",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Silvanus",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Timotheus",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Aristarchus",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Romans 16:22",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    }
+  ]
+}
