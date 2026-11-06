@@ -1,0 +1,536 @@
+{
+  "metadata": {
+    "quizId": "nt_22_2petrus_alle_kapitel_en",
+    "title": "2 Peter",
+    "subtitle": "2 Peter 1:1 – 3:18 (15 questions)",
+    "author": "King James Version (1769)",
+    "version": "2.3.0",
+    "language": "en",
+    "category": "nt",
+    "difficulty": "medium",
+    "tags": [
+      "2 Peter",
+      "New Testament",
+      "General Epistles",
+      "Virtue",
+      "False Teachers",
+      "Day of the Lord",
+      "King James Version"
+    ],
+    "questionCount": 15,
+    "canonicalBookNumber": 61,
+    "testament": "NT"
+  },
+  "questions": [
+    {
+      "questionId": "2petr_001",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "How doth Simon Peter describe himself in 2 Peter 1:1?",
+      "bibleReference": "2 Peter 1:1",
+      "correctAnswers": [
+        1
+      ],
+      "options": [
+        {
+          "text": "An elder and a high priest of the temple",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A servant and an apostle of Jesus Christ",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A prophet and a witness of circumcision",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A master and ruler over all the churches",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "2petr_002",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What hath his divine power given unto us in 2 Peter 1:3?",
+      "bibleReference": "2 Peter 1:3",
+      "correctAnswers": [
+        2
+      ],
+      "options": [
+        {
+          "text": "Great riches and abundance of earthly treasures",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Dominion and power over all heathen nations",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "All things that pertain unto life and godliness",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Deliverance from every earthly grief and sorrow",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "2petr_003",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What virtue is added at the end of the list in 2 Peter 1:5-7?",
+      "bibleReference": "2 Peter 1:5-7",
+      "correctAnswers": [
+        3
+      ],
+      "options": [
+        {
+          "text": "Heavenly wisdom",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Upright justice",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Lowly humility",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Fervent charity",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "2petr_004",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Why doth Peter stir believers up in remembrance (2 Peter 1:13-14)?",
+      "bibleReference": "2 Peter 1:13-14",
+      "correctAnswers": [
+        0
+      ],
+      "options": [
+        {
+          "text": "Knowing that shortly he must put off this tabernacle",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Because a long voyage into distant islands is at hand",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because the city of Rome is about to fall by warfare",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because false scribes demand new signs from apostles",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "2petr_005",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "How did prophecy come in old time according to 2 Peter 1:21?",
+      "bibleReference": "2 Peter 1:21",
+      "correctAnswers": [
+        1
+      ],
+      "options": [
+        {
+          "text": "Through the private interpretation of ancient scribes",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Holy men of God spake as moved by the Holy Ghost",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Through formal councils held among rulers of people",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By the determined will of mortal kings and prophets",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "2petr_006",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What shall false teachers privily bring in (2 Peter 2:1)?",
+      "bibleReference": "2 Peter 2:1",
+      "correctAnswers": [
+        2
+      ],
+      "options": [
+        {
+          "text": "New ordinances for the temple service",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Strange wisdom of heathen philosophers",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Damnable heresies denying the Lord",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Rigid decrees concerning yearly fasts",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "2petr_007",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "How did God deal with the angels that sinned in 2 Peter 2:4?",
+      "bibleReference": "2 Peter 2:4",
+      "correctAnswers": [
+        3
+      ],
+      "options": [
+        {
+          "text": "He pardoned their rebellion and restored them unto grace",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He transformed them into men and sent them to dwell here",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He banished them into desert lands far from his judgment",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Cast down to hell into chains of darkness for judgment",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "2petr_008",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Whom did God deliver out of wicked Sodom in 2 Peter 2:7?",
+      "bibleReference": "2 Peter 2:7",
+      "correctAnswers": [
+        0
+      ],
+      "options": [
+        {
+          "text": "Just Lot, vexed with the wicked",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The faithful steward of Abram",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The prophet of God from Ur",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The righteous king of Salem",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "2petr_009",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Who loved the wages of unrighteousness in 2 Peter 2:15?",
+      "bibleReference": "2 Peter 2:15",
+      "correctAnswers": [
+        1
+      ],
+      "options": [
+        {
+          "text": "Saul, the disobedient king",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Balaam the son of Bosor",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Korah, the rebellious chief",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Haman, the deceitful enemy",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "2petr_010",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What true proverb describes backsliders in 2 Peter 2:22?",
+      "bibleReference": "2 Peter 2:22",
+      "correctAnswers": [
+        2
+      ],
+      "options": [
+        {
+          "text": "The wolf returneth to his company in the deep forest",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The eagle flieth backward unto her nest on the cliffs",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The dog is turned to his own vomit again by nature",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The lion re-entereth his dark cave upon the hillside",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "2petr_011",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What do the scoffers say in the last days (2 Peter 3:3-4)?",
+      "bibleReference": "2 Peter 3:3-4",
+      "correctAnswers": [
+        3
+      ],
+      "options": [
+        {
+          "text": "Where is the treasure gathered for city?",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Where are the ancient rolls of prophets?",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Where is the imperial decree of Roman king?",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Where is the promise of his coming to earth?",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "2petr_012",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What are scoffers willingly ignorant of in 2 Peter 3:5-6?",
+      "bibleReference": "2 Peter 3:5-6",
+      "correctAnswers": [
+        0
+      ],
+      "options": [
+        {
+          "text": "That the world that then was perished in the flood",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "That holy angels formerly ministered on this earth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That the temple of old was overthrown in warfare",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That ancient priests offered continual oblations",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "2petr_013",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "How is time accounted with the Lord in 2 Peter 3:8?",
+      "bibleReference": "2 Peter 3:8",
+      "correctAnswers": [
+        1
+      ],
+      "options": [
+        {
+          "text": "One year is as an hundred days, and an hundred days as a year",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "One day is with the Lord as a thousand years, and as one day",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "One month is as ten whole years, and ten years as a month",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "One hour is as an hundred years, and an hundred as an hour",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "2petr_014",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "Why is the Lord not slack concerning his promise (2 Peter 3:9)?",
+      "bibleReference": "2 Peter 3:9",
+      "correctAnswers": [
+        2
+      ],
+      "options": [
+        {
+          "text": "Because he hath no strength and must delay the time",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because he waiteth for decisions of earthly judges",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He is longsuffering, not willing that any perish",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Because he requireth further offerings of priests",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "2petr_015",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "How will the day of the Lord come according to 2 Peter 3:10?",
+      "bibleReference": "2 Peter 3:10",
+      "correctAnswers": [
+        3
+      ],
+      "options": [
+        {
+          "text": "As a king in great glory, while the elements abide ever stable",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As a summer rain, causing the elements to flourish pleasantly",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As a quiet wind, causing the elements to turn gently to rest",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As a thief in the night, and the elements melt with heat",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-11-06T12:32:30Z",
+  "lastUpdated": "2026-11-06T12:34:19Z",
   "language": "en",
   "categories": [
     {
@@ -1270,6 +1270,28 @@
       ],
       "sizeBytes": 24430,
       "downloadUrl": "./en/60_1_petrus.json"
+    },
+    {
+      "quizId": "nt_22_2petrus_alle_kapitel_en",
+      "category": "nt",
+      "title": "2 Peter",
+      "subtitle": "2 Peter 1:1 – 3:18 (15 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 15,
+      "difficulty": "medium",
+      "tags": [
+        "2 Peter",
+        "New Testament",
+        "General Epistles",
+        "Virtue",
+        "False Teachers",
+        "Day of the Lord",
+        "King James Version"
+      ],
+      "sizeBytes": 14559,
+      "downloadUrl": "./en/61_2_petrus.json"
     }
   ]
 }

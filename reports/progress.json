@@ -1,7 +1,7 @@
 {
   "branch": "review-and-english",
   "totalFiles": 66,
-  "completedCount": 60,
+  "completedCount": 61,
   "completedFiles": [
     "01_1_mose.json",
     "02_2_mose.json",
@@ -62,10 +62,10 @@
     "57_philemon.json",
     "58_hebraeer.json",
     "59_jakobus.json",
-    "60_1_petrus.json"
+    "60_1_petrus.json",
+    "61_2_petrus.json"
   ],
   "pendingFiles": [
-    "61_2_petrus.json",
     "62_1_johannes.json",
     "63_2_johannes.json",
     "64_3_johannes.json",
@@ -492,6 +492,13 @@
       "explanationsReviewedEn": 0,
       "reportPath": "reports/60_1_petrus.md",
       "enPath": "en/60_1_petrus.json"
+    },
+    "61_2_petrus.json": {
+      "questionsCount": 15,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/61_2_petrus.md",
+      "enPath": "en/61_2_petrus.json"
     }
   }
 }

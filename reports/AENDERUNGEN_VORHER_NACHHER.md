@@ -66,7 +66,8 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
 | `58_hebraeer.json` | 66 | 66 | 66 | 64 | 5 |
 | `59_jakobus.json` | 25 | 25 | 25 | 24 | 3 |
 | `60_1_petrus.json` | 25 | 25 | 25 | 25 | 2 |
-| **Gesamt (60 Dateien)** | **4586** | **2102** | **1350** | **1932** | **115** |
+| `61_2_petrus.json` | 15 | 15 | 15 | 15 | 3 |
+| **Gesamt (61 Dateien)** | **4601** | **2117** | **1365** | **1947** | **118** |
 
 ## 01_1_mose.json – 1. Mose (Genesis) (Schlachter (Revision von 1951))
 
@@ -30306,3 +30307,261 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
   - **Option C (Falsch):**
     - **Vorher:** Timotheus aus Rom
     - **Nachher:** Timotheus aus der Stadt
+
+## 61_2_petrus.json – 2. Petrus (Schlachter (Revision von 1951))
+
+### `2petr_001` (2. Petrus 1:1)
+- **Frage Vorher:** Wie bezeichnet sich der Absender Simon Petrus zu Beginn dieses zweiten Briefes?
+- **Frage Nachher:** Wie nennt sich Petrus im Absendergruß in 2. Petrus 1:1?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Als Knecht und Apostel Jesu Christi
+    - **Nachher:** Ein Knecht und Apostel Jesu Christi
+  - **Option A (Falsch):**
+    - **Vorher:** Als Ältester und Hohepriester
+    - **Nachher:** Ein Ältester und Hohepriester des Tempels
+  - **Option C (Falsch):**
+    - **Vorher:** Als Prophet und Zeuge der Beschneidung
+    - **Nachher:** Ein Prophet und Zeuge der Beschneidung
+  - **Option D (Falsch):**
+    - **Vorher:** Als Lehrer und Aufseher aller Gemeinden
+    - **Nachher:** Ein Lehrer und Aufseher aller Gemeinden
+
+### `2petr_002` (2. Petrus 1:3)
+- **Frage Vorher:** Was hat die göttliche Kraft Christi den Glaubenden zum geistlichen Wandel geschenkt?
+- **Frage Nachher:** Was hat die göttliche Kraft nach 2. Petrus 1:3 den Gläubigen geschenkt?
+- **Richtige Antwort (unverändert, Option C):** Alles, was zum Leben und zur Gottseligkeit dient
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Reichtum an irdischen Gütern, der die Seele sättigt
+    - **Nachher:** Großen Reichtum an irdischen Gütern und Gold
+  - **Option B (Falsch):**
+    - **Vorher:** Macht über alle Völker, die der Herr den Gläubigen schenkt
+    - **Nachher:** Macht über die heidnischen Völker im Lande
+  - **Option D (Falsch):**
+    - **Vorher:** Befreiung von jeder Not, die den Leib bedrückt
+    - **Nachher:** Befreiung von jeder irdischen Not und Mühsal
+
+### `2petr_003` (2. Petrus 1:5-7)
+- **Frage Vorher:** Welche Tugend steht am Ende der genannten geistlichen Aufbaureihe im ersten Kapitel?
+- **Frage Nachher:** Welche Tugend steht in 2. Petrus 1:5-7 am Schluss der Reihe?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Die Liebe
+    - **Nachher:** Die herzliche Liebe
+  - **Option A (Falsch):**
+    - **Vorher:** Die Weisheit
+    - **Nachher:** Die göttliche Weisheit
+  - **Option B (Falsch):**
+    - **Vorher:** Die Strenge
+    - **Nachher:** Die lautere Gerechtigkeit
+  - **Option C (Falsch):**
+    - **Vorher:** Die Demut
+    - **Nachher:** Die wahrhafte Demut
+
+### `2petr_004` (2. Petrus 1:13-14)
+- **Frage Vorher:** Warum sieht Petrus die Dringlichkeit, die Glaubenden stets aufs Neue zu erinnern?
+- **Frage Nachher:** Warum will Petrus die Gläubigen erinnern nach 2. Petrus 1:13-14?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Weil er bald das Zelt seines Leibes ablegen muss
+    - **Nachher:** Weil er weiß, dass er seine Hütte bald ablegen muss
+  - **Option B (Falsch):**
+    - **Vorher:** Weil eine lange Seereise bevorsteht, von der er nicht heimkehrt
+    - **Nachher:** Weil eine lange Seereise nach fernen Ländern bevorsteht
+  - **Option C (Falsch):**
+    - **Vorher:** Weil Rom bald zerstört wird und die Gemeinde zerstreut wird
+    - **Nachher:** Weil die Stadt Rom bald von feindlichen Heeren fällt
+  - **Option D (Falsch):**
+    - **Vorher:** Weil die Gelehrten ein Zeichen fordern, das er nicht geben kann
+    - **Nachher:** Weil die Gelehrten im Volke neue Zeichen verlangten
+
+### `2petr_005` (2. Petrus 1:21)
+- **Bibelstelle Vorher:** `2. Petrus 1:20-21` -> **Nachher:** `2. Petrus 1:21`
+- **Frage Vorher:** Wie entstanden die prophetischen Worte der Heiligen Schrift?
+- **Frage Nachher:** Wie entstand nach 2. Petrus 1:21 die Weissagung der Schrift?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Getrieben vom Heiligen Geist haben Menschen im Auftrag Gottes geredet
+    - **Nachher:** Vom Heiligen Geist getrieben redeten heilige Menschen
+  - **Option A (Falsch):**
+    - **Vorher:** Durch die eigene Auslegung weiser Männer, die sie aufschrieben
+    - **Nachher:** Durch das Forschen und die eigene Deutung kluger Lehrer
+  - **Option C (Falsch):**
+    - **Vorher:** Durch das Studium hebräischer Schriften in den Schulen der Schriftgelehrten
+    - **Nachher:** Durch feierliche Beschlüsse der Vorsteher der Gemeinde
+  - **Option D (Falsch):**
+    - **Vorher:** Durch Beschlüsse der Ältesten, die sie in Versammlungen fassten
+    - **Nachher:** Durch den Willen der Menschen, die alte Gesetze schrieben
+
+### `2petr_006` (2. Petrus 2:1)
+- **Frage Vorher:** Was bringen die falschen Lehrer heimlich in die Gemeinde hinein?
+- **Frage Nachher:** Was werden falsche Lehrer nach 2. Petrus 2:1 einführen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Verderbliche Irrlehren
+    - **Nachher:** Verderbliche Sekten unter das Volk
+  - **Option A (Falsch):**
+    - **Vorher:** Neue Satzungen für das Heiligtum
+    - **Nachher:** Neue Satzungen für den Tempeldienst
+  - **Option B (Falsch):**
+    - **Vorher:** Fremde Schriften alter Philosophen
+    - **Nachher:** Fremde Weisheit griechischer Weisen
+  - **Option D (Falsch):**
+    - **Vorher:** Neue Kalender für die Ernte
+    - **Nachher:** Strenge Bräuche für die Erntefeiern
+
+### `2petr_007` (2. Petrus 2:4)
+- **Frage Vorher:** Wie handelte Gott mit den Engeln, die gesündigt hatten?
+- **Frage Nachher:** Wie handelte Gott nach 2. Petrus 2:4 mit den Engeln, die gesündigt hatten?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Er stieß sie in Fesseln der Finsternis hinab und übergab sie dem Gericht
+    - **Nachher:** Er übergab sie in Verliese der Dunkelheit zum Gericht
+  - **Option A (Falsch):**
+    - **Vorher:** Er vergab ihnen ohne jede Strafe und nahm sie wieder im Himmel auf
+    - **Nachher:** Er vergab ihnen ohne Strafe und nahm sie im Himmel auf
+  - **Option B (Falsch):**
+    - **Vorher:** Er verwandelte sie in Menschen und sandte sie hinab auf die Erde
+    - **Nachher:** Er verwandelte sie in Menschen und sandte sie zur Erde
+  - **Option C (Falsch):**
+    - **Vorher:** Er verbannte sie in ferne Länder, wo sie dem Gericht für immer entgingen
+    - **Nachher:** Er verbannte sie in Wüsten, wo sie dem Richter entgingen
+
+### `2petr_008` (2. Petrus 2:7)
+- **Bibelstelle Vorher:** `2. Petrus 2:7-8` -> **Nachher:** `2. Petrus 2:7`
+- **Frage Vorher:** Welcher gerechte Mann wurde aus dem Gericht über Sodom und Gomorra gerettet?
+- **Frage Nachher:** Wen rettete Gott nach 2. Petrus 2:7 aus Sodom heraus?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Lot, der Gerechte
+    - **Nachher:** Den gerechten Lot aus ihrer Mitte
+  - **Option B (Falsch):**
+    - **Vorher:** Der Knecht Abrahams
+    - **Nachher:** Den gläubigen Knecht des Abraham
+  - **Option C (Falsch):**
+    - **Vorher:** Der Prophet Henoch
+    - **Nachher:** Den greisen Propheten aus Ur
+  - **Option D (Falsch):**
+    - **Vorher:** Der Priester Melchisedek
+    - **Nachher:** Den frommen Priester von Salem
+
+### `2petr_009` (2. Petrus 2:15)
+- **Bibelstelle Vorher:** `2. Petrus 2:15-16` -> **Nachher:** `2. Petrus 2:15`
+- **Frage Vorher:** Welcher Mann liebte den Lohn der Ungerechtigkeit und wurde von einem Lasttier zurechtgewiesen?
+- **Frage Nachher:** Wer liebte den Lohn der Ungerechtigkeit nach 2. Petrus 2:15?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Bileam, der Sohn Beors
+    - **Nachher:** Bileam, der Sohn des Beor
+  - **Option A (Falsch):**
+    - **Vorher:** Saul, der erste König
+    - **Nachher:** Saul, der ungehorsame König
+  - **Option C (Falsch):**
+    - **Vorher:** Korach, der Rebell
+    - **Nachher:** Korach, der freche Aufrührer
+  - **Option D (Falsch):**
+    - **Vorher:** Haman, der Agagiter
+    - **Nachher:** Haman, der böse Widersacher
+
+### `2petr_010` (2. Petrus 2:22)
+- **Frage Vorher:** Welches sprichwörtliche Bild beschreibt die Rückkehr der Abtrünnigen zu ihrer alten Sünde?
+- **Frage Nachher:** Welches Sprichwort beschreibt in 2. Petrus 2:22 den Rückfall?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Der Hund kehrt wieder um zu dem, was er ausgespien hat
+    - **Nachher:** Der Hund frisst wieder, was er zuvor erbrochen hat
+  - **Option A (Falsch):**
+    - **Vorher:** Der Wolf sucht sein altes Rudel auf, das er einst verlassen hatte
+    - **Nachher:** Der Wolf sucht sein altes Rudel wieder im Walde auf
+  - **Option B (Falsch):**
+    - **Vorher:** Der Vogel fliegt ins alte Nest zurück, das er einst verlassen hatte
+    - **Nachher:** Der Vogel kehrt zurück in sein Nest in den Zweigen
+  - **Option D (Falsch):**
+    - **Vorher:** Der Löwe kehrt in die Höhle zurück, die er einst verlassen hatte
+    - **Nachher:** Der Löwe läuft zurück in seine Höhle im Gebirge
+
+### `2petr_011` (2. Petrus 3:3-4)
+- **Frage Vorher:** Welche Frage stellen die Spötter in den letzten Tagen spöttisch?
+- **Frage Nachher:** Welche Frage stellen die Spötter nach 2. Petrus 3:3-4?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Wo ist die Verheißung seiner Ankunft?
+    - **Nachher:** Wo ist die Verheißung seiner Wiederkunft?
+  - **Option A (Falsch):**
+    - **Vorher:** Wo bleibt das Geld für den Bau der Stadt?
+    - **Nachher:** Wo bleibt das Geld für den Tempelbau?
+  - **Option B (Falsch):**
+    - **Vorher:** Wo sind die alten Schriften der Propheten?
+    - **Nachher:** Wo sind die alten Rollen der Propheten?
+  - **Option C (Falsch):**
+    - **Vorher:** Wo bleibt das Gesetz des römischen Staates?
+    - **Nachher:** Wo bleibt das kaiserliche Gesetz Roms?
+
+### `2petr_012` (2. Petrus 3:5-6)
+- **Frage Vorher:** Was übersehen die Spötter der Endzeit nach den Worten im dritten Kapitel absichtlich?
+- **Frage Nachher:** Was vergessen die Spötter nach 2. Petrus 3:5-6 absichtlich?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Dass die alte Welt durch das Wasser unterging
+    - **Nachher:** Dass die damalige Welt durch Wasserflut zugrunde ging
+  - **Option B (Falsch):**
+    - **Vorher:** Dass die Engel einst auf Erden dienten
+    - **Nachher:** Dass Engel einst sichtbar auf der Erde gedient hatten
+  - **Option C (Falsch):**
+    - **Vorher:** Dass Rom im Krieg gegründet wurde
+    - **Nachher:** Dass die Stadt Jerusalem einst im Kriege zerstört war
+  - **Option D (Falsch):**
+    - **Vorher:** Dass der Tempel zerstört wurde
+    - **Nachher:** Dass die Priester nach alten Satzungen opfern mussten
+
+### `2petr_013` (2. Petrus 3:8)
+- **Frage Vorher:** Wie berechnet sich die Zeit beim Herrn im Vergleich zu den Menschen?
+- **Frage Nachher:** Wie ist die Zeitrechnung vor dem Herrn nach 2. Petrus 3:8?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Ein Tag ist beim Herrn wie tausend Jahre, und tausend Jahre sind wie ein Tag
+    - **Nachher:** Ein Tag ist vor dem Herrn wie tausend Jahre und tausend wie ein Tag
+  - **Option A (Falsch):**
+    - **Vorher:** Ein Jahr ist wie hundert Tage, und hundert Tage sind wie ein Jahr
+    - **Nachher:** Ein Jahr ist vor ihm wie hundert Tage und hundert Tage wie ein Jahr
+  - **Option C (Falsch):**
+    - **Vorher:** Eine Stunde ist wie hundert Jahre, und hundert Jahre sind wie eine Stunde
+    - **Nachher:** Ein Monat ist vor ihm wie zehn Jahre und zehn Jahre wie ein Monat
+  - **Option D (Falsch):**
+    - **Vorher:** Ein Monat ist wie zehn Jahre, und zehn Jahre sind wie ein Monat
+    - **Nachher:** Eine Stunde ist vor ihm wie hundert Jahre und hundert wie eine Stunde
+
+### `2petr_014` (2. Petrus 3:9)
+- **Frage Vorher:** Warum zögert der Herr die Erfüllung Seiner Verheißung scheinbar hinaus?
+- **Frage Nachher:** Warum verzögert der Herr seine Verheißung nicht (2. Petrus 3:9)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Weil er langmütig ist und will, dass jedermann zur Buße komme
+    - **Nachher:** Weil er langmütig ist und will, dass alle Buße tun
+  - **Option A (Falsch):**
+    - **Vorher:** Weil er die Macht zur Erfüllung verloren hat und warten muss
+    - **Nachher:** Weil er die Macht verloren hat und abwarten muss
+  - **Option B (Falsch):**
+    - **Vorher:** Weil er auf die Gesetze Roms wartet, ehe er eingreifen kann
+    - **Nachher:** Weil er die Beschlüsse der weltlichen Richter achtet
+  - **Option D (Falsch):**
+    - **Vorher:** Weil er die Opfer der Priester abwartet und ihnen Zeit gibt
+    - **Nachher:** Weil er auf die Opfergaben der Hohenpriester wartet
+
+### `2petr_015` (2. Petrus 3:10)
+- **Frage Vorher:** Wie wird der Tag des Herrn kommen und was geschieht mit den Elementen?
+- **Frage Nachher:** Wie kommt der Tag des Herrn nach 2. Petrus 3:10?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Wie ein Dieb in der Nacht; die Elemente werden vor Hitze zerschmelzen
+    - **Nachher:** Wie ein Dieb; die Elemente werden vor Hitze sich auflösen im Brand
+  - **Option A (Falsch):**
+    - **Vorher:** Wie ein König mit Pracht; die Elemente bleiben unverändert bestehen
+    - **Nachher:** Wie ein König mit Pracht; die Elemente bleiben ewig fest bestehen
+  - **Option B (Falsch):**
+    - **Vorher:** Wie ein Sommerregen von oben; die Elemente blühen neu auf
+    - **Nachher:** Wie ein sanfter Regen; die Elemente blühen ringsherum lieblich auf
+  - **Option C (Falsch):**
+    - **Vorher:** Wie ein leiser Wind in der Dämmerung; die Elemente wandeln sich sanft
+    - **Nachher:** Wie ein stiller Wind; die Elemente wandeln sich friedlich zur Ruhe
