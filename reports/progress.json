@@ -1,7 +1,7 @@
 {
   "branch": "review-and-english",
   "totalFiles": 66,
-  "completedCount": 49,
+  "completedCount": 50,
   "completedFiles": [
     "01_1_mose.json",
     "02_2_mose.json",
@@ -51,10 +51,10 @@
     "46_1_korinther.json",
     "47_2_korinther.json",
     "48_galater.json",
-    "49_epheser.json"
+    "49_epheser.json",
+    "50_philipper.json"
   ],
   "pendingFiles": [
-    "50_philipper.json",
     "51_kolosser.json",
     "52_1_thessalonicher.json",
     "53_2_thessalonicher.json",
@@ -415,6 +415,13 @@
       "explanationsReviewedEn": 0,
       "reportPath": "reports/49_epheser.md",
       "enPath": "en/49_epheser.json"
+    },
+    "50_philipper.json": {
+      "questionsCount": 20,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/50_philipper.md",
+      "enPath": "en/50_philipper.json"
     }
   }
 }

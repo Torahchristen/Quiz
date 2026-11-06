@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-11-06T11:57:14Z",
+  "lastUpdated": "2026-11-06T11:59:32Z",
   "language": "en",
   "categories": [
     {
@@ -1019,6 +1019,29 @@
       ],
       "sizeBytes": 29513,
       "downloadUrl": "./en/49_epheser.json"
+    },
+    {
+      "quizId": "nt_11_philipper_alle_kapitel_en",
+      "category": "nt",
+      "title": "Philippians",
+      "subtitle": "Philippians 1:1 – 4:23 (20 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 20,
+      "difficulty": "medium",
+      "tags": [
+        "Philippians",
+        "New Testament",
+        "Pauline Epistles",
+        "Paul",
+        "Joy",
+        "Humility",
+        "Christ Jesus",
+        "King James Version"
+      ],
+      "sizeBytes": 19508,
+      "downloadUrl": "./en/50_philipper.json"
     }
   ]
 }

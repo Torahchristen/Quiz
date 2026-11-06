@@ -55,7 +55,8 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
 | `47_2_korinther.json` | 65 | 8 | 0 | 8 | 0 |
 | `48_galater.json` | 31 | 31 | 29 | 30 | 0 |
 | `49_epheser.json` | 31 | 31 | 28 | 31 | 0 |
-| **Gesamt (49 Dateien)** | **4320** | **1837** | **1087** | **1671** | **105** |
+| `50_philipper.json` | 20 | 20 | 20 | 20 | 0 |
+| **Gesamt (50 Dateien)** | **4340** | **1857** | **1107** | **1691** | **105** |
 
 ## 01_1_mose.json – 1. Mose (Genesis) (Schlachter (Revision von 1951))
 
@@ -26027,3 +26028,330 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
   - **Option D (Richtig):**
     - **Vorher:** Den Gürtel der Wahrheit
     - **Nachher:** Die Umgürtung mit Wahrheit
+
+## 50_philipper.json – Philipper (Schlachter (Revision von 1951))
+
+### `phil_001` (Philipper 1:1)
+- **Frage Vorher:** Wer wird im Absendergruß des Briefes neben Paulus genannt?
+- **Frage Nachher:** Wer wird im Absendergruß des Philipperbriefs neben Paulus genannt?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Timotheus, der Mitknecht
+    - **Nachher:** Timotheus, der Knecht
+  - **Option C (Falsch):**
+    - **Vorher:** Barnabas aus Jerusalem
+    - **Nachher:** Barnabas aus Zypern
+  - **Option D (Falsch):**
+    - **Vorher:** Silas
+    - **Nachher:** Silas aus Jerusalem
+
+### `phil_002` (Philipper 1:6)
+- **Frage Vorher:** Welches unerschütterliche Vertrauen äußert Paulus bezüglich des begonnenen Werkes?
+- **Frage Nachher:** Welches Vertrauen äußert Paulus in Philipper 1:6 bezüglich des guten Werkes?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Dass Gott das gute Werk, das er angefangen hat, vollenden wird bis zum Tag Jesu Christi
+    - **Nachher:** Dass der, welcher das gute Werk angefangen hat, es vollenden wird bis zum Tag
+  - **Option A (Falsch):**
+    - **Vorher:** Dass die Behörden das Werk schützen und der Gemeinde Frieden und Ruhe geben
+    - **Nachher:** Dass die Behörden der Stadt das Werk schützen und der Gemeinde Frieden geben
+  - **Option B (Falsch):**
+    - **Vorher:** Dass die Ältesten das Werk leiten und die ganze Gemeinde zusammenhalten werden
+    - **Nachher:** Dass die Ältesten das Werk leiten und die Gläubigen treu zusammenhalten werden
+  - **Option D (Falsch):**
+    - **Vorher:** Dass keine Furcht das Volk treffen und keine Verfolgung über die Gemeinde kommen wird
+    - **Nachher:** Dass keine Anfechtung die Gemeinde treffen und keine Trübsal je kommen wird
+
+### `phil_003` (Philipper 1:12-14)
+- **Frage Vorher:** Welche unerwartete Auswirkung hatten die Gefängnisfesseln des Paulus im Lande?
+- **Frage Nachher:** Welche Auswirkung hatten die Fesseln des Paulus nach Philipper 1:12?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Sie dienten der Förderung des Evangeliums
+    - **Nachher:** Sie dienten dem Fortschritt des Evangeliums
+  - **Option A (Falsch):**
+    - **Vorher:** Sie brachten die Gemeinde zu Fall und zerstreuten sie
+    - **Nachher:** Sie brachten die Gemeinde zur Zerstreuung
+  - **Option B (Falsch):**
+    - **Vorher:** Sie hinderten die Verkündigung des Wortes Gottes
+    - **Nachher:** Sie hinderten das Verkündigen des Wortes
+  - **Option C (Falsch):**
+    - **Vorher:** Sie machten die Behörden zornig auf das Evangelium
+    - **Nachher:** Sie machten die Obrigkeit zornig und wild
+
+### `phil_004` (Philipper 1:21)
+- **Frage Vorher:** Wie bringt Paulus seine grundlegende Lebenshaltung im Angesicht des Todes auf den Punkt?
+- **Frage Nachher:** Wie lautet das Bekenntnis des Paulus in Philipper 1:21?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Christus ist mein Leben, und Sterben ist mein Gewinn
+    - **Nachher:** Denn für mich ist Christus das Leben, und Sterben Gewinn
+  - **Option B (Falsch):**
+    - **Vorher:** Leben ist Arbeit und Mühe, Sterben ist Ruhe von aller Last
+    - **Nachher:** Das Leben ist Arbeit und Mühsal, der Tod eine ewige Ruhe
+  - **Option C (Falsch):**
+    - **Vorher:** Glauben ist Pflicht und Gehorsam, der Tod das Ende aller Dinge
+    - **Nachher:** Glauben ist Pflicht und Gesetz, der Tod das Ende aller Zeit
+  - **Option D (Falsch):**
+    - **Vorher:** Dienst ist Ehre und Freude, Leiden ein Schmerz ohne Sinn
+    - **Nachher:** Dienst ist irdische Ehre, doch Leiden ein Schmerz ohne Sinn
+
+### `phil_005` (Philipper 1:27)
+- **Frage Vorher:** Zu welchem gemeinsamen Wandel ruft Paulus die Gläubigen auf?
+- **Frage Nachher:** Zu welchem gemeinsamen Wandel ruft Paulus in Philipper 1:27 auf?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** In einem Geist und einer Seele für den Glauben des Evangeliums zu kämpfen
+    - **Nachher:** In einem Geist und einer Seele für das Evangelium zu kämpfen
+  - **Option A (Falsch):**
+    - **Vorher:** Sich in die Wüste zurückzuziehen und dort für sich allein zu beten
+    - **Nachher:** Vor den weltlichen Gerichten für die irdischen Rechte zu streiten
+  - **Option C (Falsch):**
+    - **Vorher:** Streit mit allen Heiden zu meiden und die Ruhe zu bewahren
+    - **Nachher:** In Einsamkeit zu leben und sich von allen Menschen fernzuhalten
+  - **Option D (Falsch):**
+    - **Vorher:** Wohlstand für die Familien zu suchen und das Haus zu mehren
+    - **Nachher:** Große weltliche Güter zu sammeln und den Armen Schutz zu bieten
+
+### `phil_006` (Philipper 2:3-4)
+- **Frage Vorher:** Welche Haltung der Demut sollen Glaubende im Umgang miteinander zeigen?
+- **Frage Nachher:** Welche Haltung der Demut gebietet Paulus in Philipper 2:3?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Den andern höher achten als sich selbst
+    - **Nachher:** In Demut den andern höher zu achten als sich selbst
+  - **Option A (Falsch):**
+    - **Vorher:** Jeden gleich streng richten
+    - **Nachher:** Die eigenen Verdienste vor der Gemeinde hervorzuheben
+  - **Option B (Falsch):**
+    - **Vorher:** Nur auf den eigenen Vorteil sehen
+    - **Nachher:** Über die Fehler der schwachen Brüder streng zu richten
+  - **Option D (Falsch):**
+    - **Vorher:** Vor den Mächtigen weichen
+    - **Nachher:** Das erste Wort in jeder Versammlung für sich zu fordern
+
+### `phil_007` (Philipper 2:5-8)
+- **Frage Vorher:** Welchen Weg der Erniedrigung wählte Jesus Christus nach den Worten im zweiten Kapitel?
+- **Frage Nachher:** Welchen Weg der Erniedrigung ging Christus nach Philipper 2:7-8?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Er entäußerte sich selbst, nahm Knechtsgestalt an und war gehorsam bis zum Tod am Kreuz
+    - **Nachher:** Er entäußerte sich selbst, nahm Knechtsgestalt an und ward gehorsam bis zum Tod am Kreuz
+  - **Option A (Falsch):**
+    - **Vorher:** Er suchte die Ehren der Könige und ließ sich vor allem Volk als Herrscher feiern
+    - **Nachher:** Er forderte die irdische Herrschaft über alle Reiche und vertrieb die römischen Fürsten
+  - **Option B (Falsch):**
+    - **Vorher:** Er baute ein weltliches Reich auf und regierte darin mit Gewalt und Macht über alle
+    - **Nachher:** Er baute einen sichtbaren Palast in Jerusalem und herrschte dort mit königlicher Pracht
+  - **Option C (Falsch):**
+    - **Vorher:** Er wich dem Leiden aus und zog sich in die Wüste zurück, um allein zu leben
+    - **Nachher:** Er sammelte ein großes Kriegsheer aus allen Völkern und stürzte die heidnischen Könige
+
+### `phil_008` (Philipper 2:9-11)
+- **Frage Vorher:** Was schenkte Gott dem HERRN Jesus Christus als Antwort auf Seinen vollen Gehorsam?
+- **Frage Nachher:** Was schenkte Gott dem Herrn Jesus Christus nach Philipper 2:9?
+- **Richtige Antwort (unverändert, Option A):** Den Namen, der über alle Namen ist
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Reichtum an allen Gütern der Erde
+    - **Nachher:** Ein vergängliches Reich auf Erden
+  - **Option C (Falsch):**
+    - **Vorher:** Die Krone der römischen Kaiser
+    - **Nachher:** Großen Reichtum an Gold und Silber
+  - **Option D (Falsch):**
+    - **Vorher:** Ein langes Leben auf Erden
+    - **Nachher:** Ein königliches Schloss in Zion
+
+### `phil_009` (Philipper 2:12-13)
+- **Frage Vorher:** Mit welcher Haltung sollen die Glaubenden ihr eigenes Heil auswirken?
+- **Frage Nachher:** Mit welcher Haltung sollen Gläubige ihre Rettung bewirken (Philipper 2:12)?
+- **Richtige Antwort (unverändert, Option B):** Mit Furcht und Zittern
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Mit Stolz auf die eigenen Werke
+    - **Nachher:** Mit Stolz und Übermut
+  - **Option C (Falsch):**
+    - **Vorher:** Mit Leichtsinn und ohne Sorge
+    - **Nachher:** Mit Klage und Seufzen
+  - **Option D (Falsch):**
+    - **Vorher:** Mit Zorn gegen die Ungläubigen
+    - **Nachher:** Mit Zweifel und Sorge
+
+### `phil_010` (Philipper 2:19-22)
+- **Frage Vorher:** Welchen treuen Mitarbeiter wollte Paulus bald zur Stärkung nach Philippi senden?
+- **Frage Nachher:** Wen hoffte Paulus bald nach Philippi zu senden (Philipper 2:19)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Timotheus, der treue Sohn im Evangelium
+    - **Nachher:** Timotheus, den treuen Knecht
+  - **Option A (Falsch):**
+    - **Vorher:** Lukas aus Troas, den geliebten Arzt und treuen Begleiter
+    - **Nachher:** Lukas, den geschätzten Arzt
+  - **Option B (Falsch):**
+    - **Vorher:** Barnabas aus Jerusalem, den Sohn des Trostes und Mitarbeiter
+    - **Nachher:** Markus, den Gehilfen Petri
+  - **Option D (Falsch):**
+    - **Vorher:** Silas aus Jerusalem, den Gefährten auf der zweiten Reise
+    - **Nachher:** Silas, den Begleiter in Not
+
+### `phil_011` (Philipper 3:5-6)
+- **Frage Vorher:** Welche jüdischen Vorzüge besaß Paulus nach seinem leiblichen Stammbaum?
+- **Frage Nachher:** Welche Vorzüge besaß Paulus nach seinem Stammbaum (Philipper 3:5)?
+- **Richtige Antwort (unverändert, Option D):** Am achten Tag beschnitten, vom Volk Israel, vom Stamm Benjamin, ein Pharisäer
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Priester, Levit und Schreiber im Tempel, ein Lehrer des Gesetzes, ein Hebräer
+    - **Nachher:** Vom Stamm Juda, aus dem Geschlecht Davids, unterwiesen von römischen Lehrern
+  - **Option B (Falsch):**
+    - **Vorher:** König, Richter und Anführer in Jerusalem, ein Held des Volkes, ein Sadduzäer
+    - **Nachher:** Vom Stamm Levi, aus priesterlichem Geschlecht, bestellt zum Dienst am Heiligtum
+  - **Option C (Falsch):**
+    - **Vorher:** Gelehrter, Reicher und Herrscher des Volkes, ein Römer von Geburt, ein Pharisäer
+    - **Nachher:** Aus vornehmem Geschlecht Athens, bekehrt am Areopag und getauft im Fluss Jordan
+
+### `phil_012` (Philipper 3:7-8)
+- **Frage Vorher:** Wie bewertet Paulus alle seine früheren fleischlichen Vorzüge im Vergleich zu Christus?
+- **Frage Nachher:** Wie bewertet Paulus seine früheren Vorzüge um Christi willen (Philipper 3:7-8)?
+- **Richtige Antwort (unverändert, Option A):** Als Verlust und als Dreck
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Als wertvollen Schatz
+    - **Nachher:** Als ewigen Schatz im Himmel
+  - **Option C (Falsch):**
+    - **Vorher:** Als Mittel zur Ehre
+    - **Nachher:** Als Schmuck vor allen Leuten
+  - **Option D (Falsch):**
+    - **Vorher:** Als heiliges Erbe der Väter
+    - **Nachher:** Als sicheren Ruhm im Gesetz
+
+### `phil_013` (Philipper 3:13-14)
+- **Frage Vorher:** Welchem Ziel jagt Paulus in seinem geistlichen Lebenslauf unermüdlich nach?
+- **Frage Nachher:** Welchem Ziel jagt Paulus in Philipper 3:14 nach?
+- **Richtige Antwort (unverändert, Option B):** Dem Ziel, dem Kampfpreis der himmlischen Berufung Gottes in Christus Jesus
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Dem Reichtum und Ansehen der Welt, die er in der Fremde erwerben wollte
+    - **Nachher:** Der irdischen Anerkennung und dem hohen Lob vor den Versammlungen der Welt
+  - **Option C (Falsch):**
+    - **Vorher:** Der Anerkennung des Hohen Rates, die ihm eine Stellung unter den Juden sichern sollte
+    - **Nachher:** Dem raschen Aufbau eines großen sichtbaren Königreiches in der Stadt Rom
+  - **Option D (Falsch):**
+    - **Vorher:** Der Gründung vieler Gemeinden, die ihm Ehre und Ruhm unter den Völkern bringen sollte
+    - **Nachher:** Der vollständigen Befreiung aus allen Gefängnisfesseln und irdischen Banden
+
+### `phil_014` (Philipper 3:20)
+- **Frage Vorher:** Wo befindet sich die wahre Heimat und das Bürgerrecht der Glaubenden?
+- **Frage Nachher:** Wo ist das Bürgerrecht der Gläubigen nach Philipper 3:20?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Im Himmel
+    - **Nachher:** Droben im Himmel bei Gott
+  - **Option A (Falsch):**
+    - **Vorher:** In Jerusalem in Judäa
+    - **Nachher:** In der alten Stadt Jerusalem
+  - **Option B (Falsch):**
+    - **Vorher:** In den großen Städten Roms
+    - **Nachher:** Im großen Kaiserreiche Rom
+  - **Option D (Falsch):**
+    - **Vorher:** Auf Erden unter allen Völkern
+    - **Nachher:** In den Städten der Nation
+
+### `phil_015` (Philipper 3:20-21)
+- **Frage Vorher:** Was wird der HERR Jesus Christus bei Seiner Wiederkunft mit unserem Leib tun?
+- **Frage Nachher:** Was wird Christus bei Seiner Wiederkunft tun (Philipper 3:21)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Er wird unseren nichtigen Leib verwandeln, dass er seinem verherrlichten Leib gleich wird
+    - **Nachher:** Er wird unseren nichtigen Leib verklären, dass er seinem Leibe ähnlich wird
+  - **Option A (Falsch):**
+    - **Vorher:** Er wird ihn vernichten und durch einen neuen Leib aus Staub und Erde ersetzen
+    - **Nachher:** Er wird unseren Leib mit goldenen Ketten und königlichen Kleidern schmücken
+  - **Option B (Falsch):**
+    - **Vorher:** Er wird ihn ohne jede Veränderung auferwecken und in das alte Leben zurückführen
+    - **Nachher:** Er wird unseren Leib für immer im Staub der Erde lassen und ihn vergessen
+  - **Option C (Falsch):**
+    - **Vorher:** Er wird ihn zu einem Engel machen, der im Himmel ewig dient und Gott lobt
+    - **Nachher:** Er wird unseren irdischen Leib in einen furchtbaren Richter verwandeln
+
+### `phil_016` (Philipper 4:2-3)
+- **Frage Vorher:** Welche zwei Frauen ermahnt Paulus namentlich zur Eintracht im Herrn?
+- **Frage Nachher:** Welche zwei Frauen ermahnt Paulus in Philipper 4:2 zur Eintracht?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Evodia und Syntyche
+    - **Nachher:** Euodia und Syntyche
+  - **Option B (Falsch):**
+    - **Vorher:** Maria und Marta
+    - **Nachher:** Maria und Salome
+  - **Option C (Falsch):**
+    - **Vorher:** Priszilla und Phöbe
+    - **Nachher:** Priska und Lydia
+  - **Option D (Falsch):**
+    - **Vorher:** Lydia und Damaris
+    - **Nachher:** Kloë und Berenike
+
+### `phil_017` (Philipper 4:4-5)
+- **Frage Vorher:** Zu welcher Haltung fordert Paulus die Gläubigen im vierten Kapitel auf?
+- **Frage Nachher:** Zu welcher Haltung fordert Paulus in Philipper 4:4 auf?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Freut euch im Herrn allezeit; abermals sage ich: Freut euch!
+    - **Nachher:** Freuet euch im Herrn allezeit; und abermals sage ich: Freuet euch!
+  - **Option A (Falsch):**
+    - **Vorher:** Trauert über die Sünden der Welt und beugt euch unter das Gericht
+    - **Nachher:** Trauert über die Sünden der Welt und weint vor dem kommenden Gericht
+  - **Option C (Falsch):**
+    - **Vorher:** Fürchtet die Mächte dieser Welt und vermeidet jeden Streit mit ihnen
+    - **Nachher:** Fürchtet die Machthaber dieser Erde und weicht jedem Streit streng aus
+  - **Option D (Falsch):**
+    - **Vorher:** Fastet und betet ohne Unterlass, bis der Herr eure Bitte erhört
+    - **Nachher:** Fastet und betet im Verborgenen, bis der Zorn des Himmels vorübergeht
+
+### `phil_018` (Philipper 4:6-7)
+- **Frage Vorher:** Was soll anstelle der Sorge in allen Anliegen vor Gott gebracht werden?
+- **Frage Nachher:** Was soll in allem vor Gott gebracht werden nach Philipper 4:6?
+- **Richtige Antwort (unverändert, Option C):** Gebet und Flehen mit Danksagung
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Klage und Vorwürfe gegen Gott
+    - **Nachher:** Klage und Vorwürfe wider Gott
+  - **Option B (Falsch):**
+    - **Vorher:** Schweigen und stille Ergebung
+    - **Nachher:** Stummes Schweigen vor dem Rat
+  - **Option D (Falsch):**
+    - **Vorher:** Menschliche Hilfe und Rat
+    - **Nachher:** Weltliche Hilfe und Ratschlag
+
+### `phil_019` (Philipper 4:12-13)
+- **Frage Vorher:** Welches Bekenntnis legt Paulus bezüglich Seiner Stärke in allen Lagen ab?
+- **Frage Nachher:** Welches Bekenntnis legt Paulus in Philipper 4:13 ab?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Ich vermag alles durch den, der mich mächtig macht, Christus
+    - **Nachher:** Ich vermag alles durch den, der mich stark macht, Christus
+  - **Option A (Falsch):**
+    - **Vorher:** Ich bin aus eigener Kraft stark und brauche keinen Beistand
+    - **Nachher:** Ich bin aus eigener menschlicher Weisheit in allem gewappnet
+  - **Option B (Falsch):**
+    - **Vorher:** Ich weiche jeder Not aus und meide jede Gefahr
+    - **Nachher:** Ich weiche jeder Trübsal aus und verlasse mich auf mein Glück
+  - **Option C (Falsch):**
+    - **Vorher:** Ich suche Hilfe bei den Römern und verlasse mich auf ihren Schutz
+    - **Nachher:** Ich suche Schutz bei den Römern und baue auf weltliche Helfer
+
+### `phil_020` (Philipper 4:18)
+- **Frage Vorher:** Welcher treue Bote überbrachte Paulus die Liebesgabe der Philipper im Gefängnis?
+- **Frage Nachher:** Welcher Bote überbrachte Paulus die Gabe der Philipper (Philipper 4:18)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Epaphroditus
+    - **Nachher:** Sein Bruder Epaphroditus
+  - **Option B (Falsch):**
+    - **Vorher:** Timotheus aus Lystra
+    - **Nachher:** Der Evangelist Timotheus
+  - **Option C (Falsch):**
+    - **Vorher:** Titus aus Korinth
+    - **Nachher:** Sein Gehilfe Johannes
+  - **Option D (Falsch):**
+    - **Vorher:** Silas aus Jerusalem
+    - **Nachher:** Der Schriftgelehrte Silas
