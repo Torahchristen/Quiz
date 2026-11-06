@@ -65,7 +65,8 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
 | `57_philemon.json` | 5 | 5 | 5 | 5 | 0 |
 | `58_hebraeer.json` | 66 | 66 | 66 | 64 | 5 |
 | `59_jakobus.json` | 25 | 25 | 25 | 24 | 3 |
-| **Gesamt (59 Dateien)** | **4561** | **2077** | **1325** | **1907** | **113** |
+| `60_1_petrus.json` | 25 | 25 | 25 | 25 | 2 |
+| **Gesamt (60 Dateien)** | **4586** | **2102** | **1350** | **1932** | **115** |
 
 ## 01_1_mose.json – 1. Mose (Genesis) (Schlachter (Revision von 1951))
 
@@ -29895,3 +29896,413 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
   - **Option D (Falsch):**
     - **Vorher:** Hesekiel
     - **Nachher:** Der Prophet Hesekiel
+
+## 60_1_petrus.json – 1. Petrus (Schlachter (Revision von 1951))
+
+### `1petr_001` (1. Petrus 1:1)
+- **Frage Vorher:** An wen richtet Petrus seinen ersten Brief zu Beginn der Schrift?
+- **Frage Nachher:** An wen richtet Petrus seinen ersten Brief zu Beginn der Schrift (1. Petrus 1:1)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** An die auserwählten Fremdlinge in der Zerstreuung
+    - **Nachher:** An die auserwählten Beisassen in der Zerstreuung
+  - **Option C (Falsch):**
+    - **Vorher:** An die Römer in Galatien und die Beamten der Provinz
+    - **Nachher:** An die Vorsteher in Galatien und die Beamten der Provinz
+  - **Option D (Falsch):**
+    - **Vorher:** An die Ältesten der Gemeinde in Athen und die Lehrer des Volkes
+    - **Nachher:** An die Ältesten der Gemeinde und die Lehrer des Volkes
+
+### `1petr_002` (1. Petrus 1:3)
+- **Frage Vorher:** Wozu hat Gott die Glaubenden durch die Auferstehung Jesu neu geboren?
+- **Frage Nachher:** Wozu hat Gott die Gläubigen nach 1. Petrus 1:3 wiedergeboren?
+- **Richtige Antwort (unverändert, Option C):** Zu einer lebendigen Hoffnung
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Zu einem vergänglichen Erbe
+    - **Nachher:** Zu einem irdischen Erbe im Land
+  - **Option D (Falsch):**
+    - **Vorher:** Zu Macht über alle Völker
+    - **Nachher:** Zu aller Macht über die Völker
+
+### `1petr_003` (1. Petrus 1:7)
+- **Frage Vorher:** Womit vergleicht Petrus die Bewährung des Glaubens in den Anfechtungen?
+- **Frage Nachher:** Womit vergleicht Petrus die Bewährung des Glaubens in 1. Petrus 1:7?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Mit Gold, das durch Feuer geläutert wird
+    - **Nachher:** Mit vergänglichem Gold, das durchs Feuer erprobt wird
+  - **Option A (Falsch):**
+    - **Vorher:** Mit Silber, das im heißen Ofen schmilzt
+    - **Nachher:** Mit reinem Silber, das im heißen Schmelzofen schmilzt
+  - **Option B (Falsch):**
+    - **Vorher:** Mit einem Edelstein, der im Felsen reift
+    - **Nachher:** Mit einem edlen Stein, der tief im dunklen Fels ruht
+  - **Option C (Falsch):**
+    - **Vorher:** Mit Eisen, das im Schmiedefeuer weich wird
+    - **Nachher:** Mit starkem Eisen, das im Schmiedefeuer geformt wird
+
+### `1petr_004` (1. Petrus 1:18-19)
+- **Frage Vorher:** Womit sind die Glaubenden aus ihrem eitlen Wandel losgekauft worden?
+- **Frage Nachher:** Womit sind die Gläubigen aus ihrem eitlen Verhalten losgekauft worden (1. Petrus 1:18-19)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Mit dem kostbaren Blut Christi als eines unschuldigen und unbefleckten Lammes
+    - **Nachher:** Mit dem kostbaren Blut Christi als eines makellosen Lammes
+  - **Option B (Falsch):**
+    - **Vorher:** Mit vergänglichem Silber und Gold, das sie dem Heiligtum als Opfer gegeben haben
+    - **Nachher:** Mit vergänglichem Silber und Gold aus den Schätzen der Könige
+  - **Option C (Falsch):**
+    - **Vorher:** Mit dem treuen Halten der Gebote, das sie in all den Jahren in Treue geübt hatten
+    - **Nachher:** Mit dem treuen Halten der Gebote nach Überlieferung der Väter
+  - **Option D (Falsch):**
+    - **Vorher:** Mit Spenden an das Heiligtum, die sie dort im Verborgenen und aus Liebe gaben
+    - **Nachher:** Mit reichen Spenden an den Tempel zur Versöhnung der Sünden
+
+### `1petr_005` (1. Petrus 1:24)
+- **Frage Vorher:** Womit vergleicht die Schrift alle menschliche Herrlichkeit und alles Fleisch?
+- **Frage Nachher:** Womit vergleicht die Schrift alles Fleisch in 1. Petrus 1:24?
+- **Richtige Antwort (unverändert, Option B):** Mit dem Gras und der Blume des Grases
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Mit einem festen Felsen im Gebirge
+    - **Nachher:** Mit einem festen Felsen im hohen Gebirge
+  - **Option C (Falsch):**
+    - **Vorher:** Mit tiefem Wasser im weiten Meer
+    - **Nachher:** Mit den tiefen Wassern im weiten Meere
+  - **Option D (Falsch):**
+    - **Vorher:** Mit flüchtigem Rauch am Abendhimmel
+    - **Nachher:** Mit dem flüchtigen Rauch am Abendhimmel
+
+### `1petr_006` (1. Petrus 2:2)
+- **Frage Vorher:** Wonach sollen die Glaubenden als neugeborene Kindlein verlangen?
+- **Frage Nachher:** Wonach sollen die Gläubigen als neugeborene Kindlein verlangen (1. Petrus 2:2)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Nach der vernünftigen, lauteren Milch
+    - **Nachher:** Nach der unverfälschten Milch des Wortes
+  - **Option A (Falsch):**
+    - **Vorher:** Nach fester Speise der alten Lehrer
+    - **Nachher:** Nach der festen Speise der alten Lehrer
+  - **Option B (Falsch):**
+    - **Vorher:** Nach weltlichem Wissen
+    - **Nachher:** Nach der Weisheit der heidnischen Völker
+  - **Option D (Falsch):**
+    - **Vorher:** Nach den Geboten des Gesetzes
+    - **Nachher:** Nach den schweren Satzungen des Gesetzes
+
+### `1petr_007` (1. Petrus 2:4)
+- **Bibelstelle Vorher:** `1. Petrus 2:4-6` -> **Nachher:** `1. Petrus 2:4`
+- **Frage Vorher:** Als was wird der Herr Jesus im zweiten Kapitel bezüglich des geistlichen Baus beschrieben?
+- **Frage Nachher:** Als was wird der Herr in 1. Petrus 2:4 beschrieben?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Als lebendiger, von den Menschen verworfener, aber bei Gott auserwählter und kostbarer Stein
+    - **Nachher:** Als lebendiger, von Menschen verworfener, aber bei Gott auserwählter Stein
+  - **Option B (Falsch):**
+    - **Vorher:** Als goldenes Gefäß, in dem der Segen der Gemeinde für alle Zeit aufbewahrt wird
+    - **Nachher:** Als goldenes Gefäß, in dem der Segen der Gemeinde für alle Zeit bewahrt wird
+  - **Option C (Falsch):**
+    - **Vorher:** Als mächtiger Richter der Völker, der über Stadt und Land herrscht und gebietet
+    - **Nachher:** Als mächtiger Richter, der über Stadt und Land der Völker herrscht und richtet
+
+### `1petr_008` (1. Petrus 2:9)
+- **Frage Vorher:** Welchen Ehrentitel verleiht Petrus den Glaubenden im zweiten Kapitel?
+- **Frage Nachher:** Welche Würde wird den Gläubigen in 1. Petrus 2:9 zugesprochen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Ein auserwähltes Geschlecht, ein königliches Priestertum, ein heiliges Volk
+    - **Nachher:** Ein auserwähltes Geschlecht, ein königliches Priestertum
+  - **Option B (Falsch):**
+    - **Vorher:** Priester nach der Ordnung Aarons, ein Volk von Leviten und Opferdienern
+    - **Nachher:** Ein herrschendes Volk von Edlen und mächtigen Statthaltern
+  - **Option C (Falsch):**
+    - **Vorher:** Herrscher über alle Völker, ein Geschlecht von Königen und Fürsten
+    - **Nachher:** Ein Bund von Priestern nach der alten Ordnung des Aaron
+  - **Option D (Falsch):**
+    - **Vorher:** Diener des römischen Kaisers, ein Volk von Untertanen im Reich
+    - **Nachher:** Eine Schar von Dienern unter dem Szepter des Kaisers in Rom
+
+### `1petr_009` (1. Petrus 2:13)
+- **Bibelstelle Vorher:** `1. Petrus 2:13-14` -> **Nachher:** `1. Petrus 2:13`
+- **Frage Vorher:** Wie sollen sich Glaubende den menschlichen Ordnungen und Regierenden unterordnen?
+- **Frage Nachher:** Wie sollen sich Gläubige menschlicher Ordnung unterordnen (1. Petrus 2:13)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Um des Herrn willen jeder menschlichen Ordnung untertan
+    - **Nachher:** Aller menschlichen Ordnung untertan sein um des Herrn willen
+  - **Option A (Falsch):**
+    - **Vorher:** Nur wenn die Herrscher gläubig sind und das Evangelium schützen
+    - **Nachher:** Nur wenn die Fürsten gläubig sind und das Evangelium fördern
+  - **Option C (Falsch):**
+    - **Vorher:** Gar nicht, denn sie sind frei und niemand außer Gott gebietet ihnen
+    - **Nachher:** Niemals, weil die Gläubigen allein Gott Rechenschaft schulden
+  - **Option D (Falsch):**
+    - **Vorher:** Nur zum eigenen Gewinn, um Vorteile und Ansehen zu erlangen
+    - **Nachher:** Nur dann, wenn die weltlichen Herrscher großen Vorteil bieten
+
+### `1petr_010` (1. Petrus 2:24)
+- **Frage Vorher:** Was hat Christus Selbst an Seinem eigenen Leib auf das Holz hinaufgetragen?
+- **Frage Nachher:** Was trug Christus selbst an seinem Leib auf dem Holz hinauf (1. Petrus 2:24)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Unsere Sünden in seinem Leib auf das Holz, damit wir der Sünde absterben
+    - **Nachher:** Unsere Sünden an seinem eigenen Leib auf dem Holz für Gerechtigkeit
+  - **Option A (Falsch):**
+    - **Vorher:** Die Sorgen aller Menschen, damit sie von Angst und Furcht frei würden
+    - **Nachher:** Die Sorgen aller Menschen, damit sie von irdischer Not frei würden
+  - **Option B (Falsch):**
+    - **Vorher:** Die Gesetze der jüdischen Väter, damit sie erfüllt und bewahrt würden
+    - **Nachher:** Die Gesetze der alten Väter, damit sie ganz erfüllt werden möchten
+  - **Option D (Falsch):**
+    - **Vorher:** Die Strafen der Richter, damit sie nicht mehr über uns und die Welt kämen
+    - **Nachher:** Die Urteile der Richter, damit kein Fluch mehr über die Welt käme
+
+### `1petr_011` (1. Petrus 3:1-2)
+- **Frage Vorher:** Wie können gläubige Frauen ihre ungläubigen Männer ohne Wort gewinnen?
+- **Frage Nachher:** Wie können gläubige Frauen ihre Männer ohne Wort gewinnen (1. Petrus 3:1-2)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Durch ihren keuschen Wandel in Gottesfurcht, ohne Worte
+    - **Nachher:** Durch ihr in Furcht reines Verhalten, ganz ohne Wort
+  - **Option A (Falsch):**
+    - **Vorher:** Durch ständiges Vorhalten der Gebote und Ermahnungen
+    - **Nachher:** Durch ständiges Vorhalten der Gebote und tägliche Belehrung
+  - **Option B (Falsch):**
+    - **Vorher:** Durch äußeren Besitz und Schmuck, der ihnen gefallen soll
+    - **Nachher:** Durch äußeren Reichtum und Schmuck, der ihnen gefallen soll
+  - **Option C (Falsch):**
+    - **Vorher:** Durch Verlassen des Hauses und Rückzug in die Gemeinde
+    - **Nachher:** Durch Verlassen des Hauses und den Dienst in der Gemeinde
+
+### `1petr_012` (1. Petrus 3:3-4)
+- **Frage Vorher:** Worin soll der wahre Schmuck der gläubigen Frau bestehen?
+- **Frage Nachher:** Worin soll der wahre Schmuck nach 1. Petrus 3:3-4 bestehen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Im verborgenen Menschen des Herzens, im unvergänglichen Schmuck eines sanften und stillen Geistes
+    - **Nachher:** Im verborgenen Menschen des Herzens im sanften und stillen Geist
+  - **Option B (Falsch):**
+    - **Vorher:** In goldenen Kleidern und kostbarem Schmuck, der die Augen der Menschen auf sich zieht und fesselt
+    - **Nachher:** In goldenen Kleidern und Schmuck, der aller Menschen Blicke anzieht
+  - **Option C (Falsch):**
+    - **Vorher:** In kunstvoll geflochtenem Haar und Ketten, die ihre äußere Schönheit stark betonen und zeigen
+    - **Nachher:** In geflochtenem Haar und Perlen, die äußere Schönheit hervorkehren
+  - **Option D (Falsch):**
+    - **Vorher:** In einer Ehrenstellung bei den Leuten und im hohen Ansehen der ganzen Familie im Ort
+    - **Nachher:** In hohem Rang bei den Leuten und weltlichem Ruhm für ihre Familie
+
+### `1petr_013` (1. Petrus 3:7)
+- **Frage Vorher:** Wie sollen Ehemänner mit ihren Frauen als dem schwächeren Gefäß umgehen?
+- **Frage Nachher:** Wie sollen Ehemänner mit ihren Frauen umgehen (1. Petrus 3:7)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Mit Einsicht, mit Ehrerbietung als Miterbinnen der Gnade des Lebens
+    - **Nachher:** Mit Erkenntnis und Ehre als Miterben der Gnade des Lebens
+  - **Option A (Falsch):**
+    - **Vorher:** Mit strenger Härte und Gebot, weil sie ihm unterstellt sind
+    - **Nachher:** Mit strenger Härte und Zucht, weil sie dem Manne untertan sind
+  - **Option C (Falsch):**
+    - **Vorher:** Ohne Rücksicht auf ihre Schwäche, weil der Mann den Ton angibt
+    - **Nachher:** Ohne jede Rücksicht, weil allein der Mann im Hause herrscht
+  - **Option D (Falsch):**
+    - **Vorher:** Nur wenn sie reich sind und dem Haus Ansehen bringen
+    - **Nachher:** Nur wenn sie reichen Besitz und Ansehen in die Ehe bringen
+
+### `1petr_014` (1. Petrus 3:15)
+- **Frage Vorher:** Wozu sollen Glaubende jedem gegenüber stets bereit sein, der nach ihrer Hoffnung fragt?
+- **Frage Nachher:** Wozu sollen Gläubige jedermann gegenüber allezeit bereit sein (1. Petrus 3:15)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Zur Verantwortung mit Sanftmut und Furcht
+    - **Nachher:** Zur Verantwortung mit Sanftmut und Ehrfurcht
+  - **Option A (Falsch):**
+    - **Vorher:** Zum Streit und zur harten Verteidigung
+    - **Nachher:** Zum hitzigen Streit und zur harten Abweisung
+  - **Option B (Falsch):**
+    - **Vorher:** Zum Schweigen und zur Flucht
+    - **Nachher:** Zum dauernden Schweigen und zur schnellen Flucht
+  - **Option D (Falsch):**
+    - **Vorher:** Zur Ablehnung der heidnischen Lehrer
+    - **Nachher:** Zur Schmähung der heidnischen Fragesteller
+
+### `1petr_015` (1. Petrus 3:20-21)
+- **Frage Vorher:** Welches Ereignis in den Tagen Noahs dient als Vorbild für die errettende Taufe?
+- **Frage Nachher:** Welches Ereignis zur Zeit Noahs dient als Vorbild für die Taufe (1. Petrus 3:20-21)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Die Rettung von acht Seelen in der Arche durch das Wasser
+    - **Nachher:** Die Rettung der acht Seelen in der Arche hindurch durch Wasser
+  - **Option A (Falsch):**
+    - **Vorher:** Die Erbauung des ersten Altars, auf dem Noah nach der Flut opferte
+    - **Nachher:** Die Erbauung des Altars, auf welchem Noah nach der Flut opferte
+  - **Option B (Falsch):**
+    - **Vorher:** Der Turmbau zu Babel, bei dem die Sprachen verwirrt wurden
+    - **Nachher:** Die Zerstreuung der Völker beim großen Turmbau zu Babel im Lande
+  - **Option C (Falsch):**
+    - **Vorher:** Die Bekehrung aller Völker, die sich nach der Flut dem Herrn zuwandten
+    - **Nachher:** Die Rückkehr der Taube mit dem frischen Ölblatt über den Wassern
+
+### `1petr_016` (1. Petrus 4:1)
+- **Frage Vorher:** Womit sollen sich die Glaubenden waffnen, da Christus im Fleisch gelitten hat?
+- **Frage Nachher:** Womit sollen sich die Gläubigen nach 1. Petrus 4:1 wappnen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Mit derselben Gesinnung des Leidens
+    - **Nachher:** Mit derselben Gesinnung Christi im Leiden
+  - **Option B (Falsch):**
+    - **Vorher:** Mit den Waffen des Streites
+    - **Nachher:** Mit den irdischen Waffen für den Kampf
+  - **Option C (Falsch):**
+    - **Vorher:** Mit der Weisheit der Weltweisen
+    - **Nachher:** Mit der hohen Weisheit der Schriftgelehrten
+  - **Option D (Falsch):**
+    - **Vorher:** Mit der Flucht in die Einsamkeit
+    - **Nachher:** Mit der schnellen Flucht in die Einsamkeit
+
+### `1petr_017` (1. Petrus 4:7)
+- **Frage Vorher:** Zu welcher Haltung mahnt Petrus, weil das Ende aller Dinge nahe gekommen ist?
+- **Frage Nachher:** Zu welcher Haltung mahnt Petrus im Hinblick auf das Ende aller Dinge (1. Petrus 4:7)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Zur Besonnenheit und Nüchternheit zum Gebet
+    - **Nachher:** Zu Vernunft und Nüchternheit bei den Gebeten im Herrn
+  - **Option A (Falsch):**
+    - **Vorher:** Zu Angst vor dem Gericht und zum Rückzug aus der Welt
+    - **Nachher:** Zu Furcht vor dem Gericht und Verzweiflung im Herzen
+  - **Option C (Falsch):**
+    - **Vorher:** Zum Aufgeben aller Arbeit und zur Hingabe an das Warten
+    - **Nachher:** Zur völligen Niederlegung aller Arbeit und Geschäfte
+  - **Option D (Falsch):**
+    - **Vorher:** Zum Bau von Festungen und zur Sicherung der Gemeinde
+    - **Nachher:** Zum Bau fester Schutzräume für die gesamte Gemeinde
+
+### `1petr_018` (1. Petrus 4:8)
+- **Frage Vorher:** Was bewirkt die inbrünstige Liebe unter den Glaubenden?
+- **Frage Nachher:** Was bewirkt nachhaltige Liebe nach 1. Petrus 4:8?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Sie deckt eine Menge von Sünden zu
+    - **Nachher:** Sie verhüllt eine Menge von vielen Sünden
+  - **Option A (Falsch):**
+    - **Vorher:** Sie hebt die Staatsgesetze auf
+    - **Nachher:** Sie schafft weltliche Gesetze gänzlich ab
+  - **Option B (Falsch):**
+    - **Vorher:** Sie bringt weltlichen Reichtum
+    - **Nachher:** Sie bringt großen irdischen Reichtum ein
+  - **Option D (Falsch):**
+    - **Vorher:** Sie verhindert jede Anfechtung
+    - **Nachher:** Sie schützt vor jeder Not und Verfolgung
+
+### `1petr_019` (1. Petrus 4:12-13)
+- **Frage Vorher:** Wie sollen Glaubende der feurigen Prüfung begegnen, die sie zur Erprobung trifft?
+- **Frage Nachher:** Wie sollen Gläubige der Feuerprobe begegnen (1. Petrus 4:12-13)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Sich freuen, dass sie an den Leiden Christi Anteil haben
+    - **Nachher:** Sich freuen, je mehr sie der Leiden Christi teilhaftig sind
+  - **Option A (Falsch):**
+    - **Vorher:** Sich wundern und verzweifeln, weil Gott sie verlassen hat
+    - **Nachher:** Sich befremden lassen und meinen, Gott habe sie ganz verlassen
+  - **Option B (Falsch):**
+    - **Vorher:** Den Feinden Rache androhen und ihnen mit Gericht vergelten
+    - **Nachher:** Den Verfolgern Fluch androhen und weltliche Richter anrufen
+  - **Option C (Falsch):**
+    - **Vorher:** Sofort aus dem Land fliehen und sich in Sicherheit bringen
+    - **Nachher:** Sofort aus den Städten fliehen und sich im Gebirge verbergen
+
+### `1petr_020` (1. Petrus 4:17)
+- **Frage Vorher:** Wo beginnt nach den klaren Worten im vierten Kapitel das Gericht Gottes?
+- **Frage Nachher:** Wo fängt das Gericht nach 1. Petrus 4:17 an?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Am Haus Gottes
+    - **Nachher:** Es fängt an am Hause Gottes
+  - **Option B (Falsch):**
+    - **Vorher:** Bei den heidnischen Herrschern Roms
+    - **Nachher:** Bei den Richtern zu Rom im Reich
+  - **Option D (Falsch):**
+    - **Vorher:** Überall zugleich
+    - **Nachher:** Zugleich an allen Orten der Welt
+
+### `1petr_021` (1. Petrus 5:2-3)
+- **Frage Vorher:** Wie sollen die Ältesten die Herde Gottes nach den Worten des Petrus weiden?
+- **Frage Nachher:** Wie sollen die Ältesten die Herde Gottes weiden (1. Petrus 5:2-3)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Freiwillig und nicht gezwungen, nicht um schändlichen Gewinn, sondern aus Bereitschaft
+    - **Nachher:** Freiwillig, nicht aus Gewinnsucht, als Vorbilder der Herde Gottes
+  - **Option A (Falsch):**
+    - **Vorher:** Herrschend über das Volk, mit Autorität und Strenge, als Herren über die Gemeinde
+    - **Nachher:** Herrschend über das Volk mit Strenge, als Herren über die Gläubigen
+  - **Option C (Falsch):**
+    - **Vorher:** Nur gegen Bezahlung, damit die Arbeit der Hirten gerecht entlohnt wird und sich lohnt
+    - **Nachher:** Nur gegen reichen Lohn, damit die Hirten viel Gewinn davontragen
+  - **Option D (Falsch):**
+    - **Vorher:** Durch Zwang und harte Gesetze, damit Ordnung und Zucht in der Gemeinde herrschen
+    - **Nachher:** Mit eisernem Zwang, damit Furcht und Ordnung in der Gemeinde sei
+
+### `1petr_022` (1. Petrus 5:4)
+- **Frage Vorher:** Was empfangen treue Hirten, wenn der Erzhirte offenbar werden wird?
+- **Frage Nachher:** Was empfangen Hirten, wenn der Oberhirte erscheint (1. Petrus 5:4)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Die unverwelkliche Krone der Herrlichkeit
+    - **Nachher:** Den unverwelklichen Ehrenkranz im Herrn
+  - **Option A (Falsch):**
+    - **Vorher:** Die Krone weltlicher Macht und Herrschaft
+    - **Nachher:** Die Krone irdischer Macht und Gewalt
+  - **Option B (Falsch):**
+    - **Vorher:** Den Reichtum der Schätze des Heiligtums
+    - **Nachher:** Den Reichtum der Schätze im Heiligtum
+  - **Option D (Falsch):**
+    - **Vorher:** Das Lob der Gelehrten und Weisen dieser Welt
+    - **Nachher:** Das Lob der Weisen und Könige der Welt
+
+### `1petr_023` (1. Petrus 5:7)
+- **Frage Vorher:** Was sollen die Glaubenden mit all ihren Sorgen vor Gott tun?
+- **Frage Nachher:** Was sollen die Gläubigen mit all ihren Sorgen tun (1. Petrus 5:7)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Alle Sorge auf ihn werfen, denn er sorgt für euch
+    - **Nachher:** Alle Sorge auf ihn werfen, denn er kümmert sich um euch
+  - **Option A (Falsch):**
+    - **Vorher:** Sie im Herzen verbergen und niemandem davon erzählen
+    - **Nachher:** Sie im Verborgenen tragen und niemandem anvertrauen
+  - **Option B (Falsch):**
+    - **Vorher:** Sie den Richtern vortragen und von ihnen Hilfe erbitten
+    - **Nachher:** Sie den weltlichen Richtern vortragen zur Schlichtung
+  - **Option C (Falsch):**
+    - **Vorher:** Sie den Brüdern aufladen und sich von ihnen tragen lassen
+    - **Nachher:** Sie anderen Brüdern aufbürden, damit sie sie tragen
+
+### `1petr_024` (1. Petrus 5:8)
+- **Frage Vorher:** Wie wird der Widersacher, der Teufel, im fünften Kapitel bildhaft beschrieben?
+- **Frage Nachher:** Wie wird der Widersacher, der Teufel, in 1. Petrus 5:8 beschrieben?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Wie ein brüllender Löwe, der umhergeht und sucht, wen er verschlinge
+    - **Nachher:** Wie ein brüllender Löwe, der sucht, wen er verschlinge
+  - **Option B (Falsch):**
+    - **Vorher:** Wie eine Schlange im Gras, die lautlos heranschleicht und zubeißt
+    - **Nachher:** Wie eine giftige Natter im Verborgenen, die lautlos beißt
+  - **Option C (Falsch):**
+    - **Vorher:** Wie ein Drache aus dem Meer, der Feuer speit und alles verbrennt
+    - **Nachher:** Wie ein wildes Tier aus dem Meer, das alles rings zerstört
+  - **Option D (Falsch):**
+    - **Vorher:** Wie ein Engel des Lichts, der scheinbar Gutes bringt und täuscht
+    - **Nachher:** Wie ein Engel des Lichts, der falsche Träume herbeiführt
+
+### `1petr_025` (1. Petrus 5:13)
+- **Frage Vorher:** Wer sendet neben der Miterwählten in Babylon persönliche Grüße am Briefende?
+- **Frage Nachher:** Wer sendet neben der Mitauserwählten in Babylon Grüße in 1. Petrus 5:13?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Markus, mein Sohn
+    - **Nachher:** Markus, mein eigener Sohn
+  - **Option A (Falsch):**
+    - **Vorher:** Paulus aus dem Gefängnis
+    - **Nachher:** Paulus aus den Banden
+  - **Option C (Falsch):**
+    - **Vorher:** Timotheus aus Rom
+    - **Nachher:** Timotheus aus der Stadt

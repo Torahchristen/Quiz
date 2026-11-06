@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-11-06T12:30:05Z",
+  "lastUpdated": "2026-11-06T12:32:30Z",
   "language": "en",
   "categories": [
     {
@@ -1247,6 +1247,29 @@
       ],
       "sizeBytes": 23977,
       "downloadUrl": "./en/59_jakobus.json"
+    },
+    {
+      "quizId": "nt_21_1petrus_alle_kapitel_en",
+      "category": "nt",
+      "title": "1 Peter",
+      "subtitle": "1 Peter 1:1 – 5:14 (25 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 25,
+      "difficulty": "medium",
+      "tags": [
+        "1 Peter",
+        "New Testament",
+        "General Epistles",
+        "Peter",
+        "Hope",
+        "Suffering",
+        "Priesthood",
+        "King James Version"
+      ],
+      "sizeBytes": 24430,
+      "downloadUrl": "./en/60_1_petrus.json"
     }
   ]
 }

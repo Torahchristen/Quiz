@@ -1,0 +1,877 @@
+{
+  "metadata": {
+    "quizId": "nt_21_1petrus_alle_kapitel_en",
+    "title": "1 Peter",
+    "subtitle": "1 Peter 1:1 – 5:14 (25 questions)",
+    "author": "King James Version (1769)",
+    "version": "2.3.0",
+    "language": "en",
+    "category": "nt",
+    "difficulty": "medium",
+    "tags": [
+      "1 Peter",
+      "New Testament",
+      "General Epistles",
+      "Peter",
+      "Hope",
+      "Suffering",
+      "Priesthood",
+      "King James Version"
+    ],
+    "questionCount": 25,
+    "canonicalBookNumber": 60,
+    "testament": "NT"
+  },
+  "questions": [
+    {
+      "questionId": "1petr_001",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "To whom doth Peter address his epistle in 1 Peter 1:1?",
+      "bibleReference": "1 Peter 1:1",
+      "correctAnswers": [
+        1
+      ],
+      "options": [
+        {
+          "text": "To the high priests at Rome and the rulers of the city",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To the strangers scattered abroad throughout Pontus",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "To the governors in Galatia and the officers of state",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To the elders of the church and the teachers in Athens",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1petr_002",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Unto what hath God begotten believers again in 1 Peter 1:3?",
+      "bibleReference": "1 Peter 1:3",
+      "correctAnswers": [
+        2
+      ],
+      "options": [
+        {
+          "text": "Unto an earthly heritage in land",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto worldly riches and glory",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto a lively hope by Christ",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Unto earthly dominion over all",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1petr_003",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "To what is the trial of faith compared in 1 Peter 1:7?",
+      "bibleReference": "1 Peter 1:7",
+      "correctAnswers": [
+        3
+      ],
+      "options": [
+        {
+          "text": "Unto fine silver melting away in the burning furnace",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto a precious jewel hidden deep within the mountain",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto strong iron forged into weapons of great warfare",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto gold that perisheth, though it be tried with fire",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1petr_004",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "With what were believers redeemed from their vain conversation (1 Peter 1:18-19)?",
+      "bibleReference": "1 Peter 1:18-19",
+      "correctAnswers": [
+        0
+      ],
+      "options": [
+        {
+          "text": "With precious blood of Christ, as of a spotless lamb",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "With corruptible silver and gold from treasury of kings",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With faithful keeping of commandments taught by fathers",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With bountiful gifts brought to the temple for an offering",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1petr_005",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "To what is all flesh compared in 1 Peter 1:24?",
+      "bibleReference": "1 Peter 1:24",
+      "correctAnswers": [
+        1
+      ],
+      "options": [
+        {
+          "text": "To an enduring rock upon the high hills",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As grass, and as the flower of the grass",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "To the great depths of the wide oceans",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To a vanishing cloud of evening smoke",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1petr_006",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What should newborn babes desire according to 1 Peter 2:2?",
+      "bibleReference": "1 Peter 2:2",
+      "correctAnswers": [
+        2
+      ],
+      "options": [
+        {
+          "text": "The solid meat of the ancient masters",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The wise knowledge of worldly teachers",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The sincere milk of the living word",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The heavy burdens of ceremonial law",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1petr_007",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "As what is the Lord described in 1 Peter 2:4?",
+      "bibleReference": "1 Peter 2:4",
+      "correctAnswers": [
+        3
+      ],
+      "options": [
+        {
+          "text": "As an iron pillar upon which the whole church is firmly grounded",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As a vessel of gold in which the blessings of Zion are conserved",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As a mighty magistrate ruling the nations with an iron sceptre",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As a living stone, disallowed of men, but chosen of God, precious",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1petr_008",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What title is given to believers in 1 Peter 2:9?",
+      "bibleReference": "1 Peter 2:9",
+      "correctAnswers": [
+        0
+      ],
+      "options": [
+        {
+          "text": "A chosen generation, a royal priesthood, an holy nation",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A ruling company of nobles and great rulers in the earth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A priesthood ordained after the order of Aaron the priest",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A band of obedient subjects under the emperor of the realm",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1petr_009",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "How should believers submit to ordinances of man in 1 Peter 2:13?",
+      "bibleReference": "1 Peter 2:13",
+      "correctAnswers": [
+        1
+      ],
+      "options": [
+        {
+          "text": "Only when governors are believers and promote godly truth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Submit to every ordinance of man for the Lord's sake",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Never submit, because believers answer only unto God above",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Only when earthly rulers offer great protection and favor",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1petr_010",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What did Christ himself bear in his own body on the tree (1 Peter 2:24)?",
+      "bibleReference": "1 Peter 2:24",
+      "correctAnswers": [
+        2
+      ],
+      "options": [
+        {
+          "text": "The earthly sorrows of all men that they might be relieved",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The whole law of Moses that it might be fulfilled in peace",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Our sins in his own body on the tree unto righteousness",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The punishment of earthly courts that judgment might cease",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1petr_011",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "How may husbands without the word be won according to 1 Peter 3:1-2?",
+      "bibleReference": "1 Peter 3:1-2",
+      "correctAnswers": [
+        3
+      ],
+      "options": [
+        {
+          "text": "By continual teaching and reciting of the commandments daily",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By outward wealth and ornaments designed to attract favor",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By departing from their houses to dwell in church assembly",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By chaste conversation of the wives coupled with fear",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1petr_012",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "Wherein should true adorning consist according to 1 Peter 3:3-4?",
+      "bibleReference": "1 Peter 3:3-4",
+      "correctAnswers": [
+        0
+      ],
+      "options": [
+        {
+          "text": "In the hidden man of heart with ornament of a meek spirit",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "In wearing of gold apparel that draweth the eyes of all men",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In outward braiding of hair displaying earthly beauty to view",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In high reputation and honor gained among people of the city",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1petr_013",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "How should husbands dwell with their wives in 1 Peter 3:7?",
+      "bibleReference": "1 Peter 3:7",
+      "correctAnswers": [
+        1
+      ],
+      "options": [
+        {
+          "text": "With severe authority and rule because the woman is subject",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "According to knowledge, giving honour unto the weaker vessel",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "With disregard of infirmity because the husband beareth sway",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Only if they bring great portion of riches into the marriage",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1petr_014",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What should believers be ready always to give in 1 Peter 3:15?",
+      "bibleReference": "1 Peter 3:15",
+      "correctAnswers": [
+        2
+      ],
+      "options": [
+        {
+          "text": "An angry rebuke and harsh disputation to all",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A silent retreat and swift flight from foes",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "An answer of hope with meekness and fear",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A sharp reviling of all heathen inquiries",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1petr_015",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What event in the days of Noah is a figure of baptism (1 Peter 3:20-21)?",
+      "bibleReference": "1 Peter 3:20-21",
+      "correctAnswers": [
+        3
+      ],
+      "options": [
+        {
+          "text": "The building of the altar whereon Noah offered sacrifices",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The scattering of nations at the building of the tower",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The return of the dove bearing an olive leaf in her mouth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Wherein few, that is, eight souls were saved by water",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1petr_016",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "With what should believers arm themselves according to 1 Peter 4:1?",
+      "bibleReference": "1 Peter 4:1",
+      "correctAnswers": [
+        0
+      ],
+      "options": [
+        {
+          "text": "Arm yourselves likewise with the same mind",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "With carnal weapons to fight the adversaries",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With worldly wisdom taught by ancient sages",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With sudden flight into deserted wilderness",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1petr_017",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "To what are believers exhorted because the end is at hand (1 Peter 4:7)?",
+      "bibleReference": "1 Peter 4:7",
+      "correctAnswers": [
+        1
+      ],
+      "options": [
+        {
+          "text": "To despair and constant terror of impending wrath",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Be ye therefore sober, and watch unto prayer",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "To abandon every occupation and cease from daily duty",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To construct defensive strongholds for the brethren",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1petr_018",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What doth fervent charity work according to 1 Peter 4:8?",
+      "bibleReference": "1 Peter 4:8",
+      "correctAnswers": [
+        2
+      ],
+      "options": [
+        {
+          "text": "It utterly abolisheth all civil ordinances",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It gaineth worldly wealth and abundant profit",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For charity shall cover the multitude of sins",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "It delivereth from every earthly tribulation",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1petr_019",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "How should believers regard the fiery trial in 1 Peter 4:12-13?",
+      "bibleReference": "1 Peter 4:12-13",
+      "correctAnswers": [
+        3
+      ],
+      "options": [
+        {
+          "text": "Think it strange and assume that God hath forsaken them",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Threaten persecutors and appeal to earthly magistrates",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Flee instantly from cities to hide in distant mountains",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Rejoice, as partakers of the sufferings of Christ",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1petr_020",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Where must judgment begin according to 1 Peter 4:17?",
+      "bibleReference": "1 Peter 4:17",
+      "correctAnswers": [
+        0
+      ],
+      "options": [
+        {
+          "text": "Judgment must begin at house of God",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "At the palace of governors in Rome",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Among the ungodly in the wilderness",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Everywhere across all lands at once",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1petr_021",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "How should elders feed the flock of God in 1 Peter 5:2-3?",
+      "bibleReference": "1 Peter 5:2-3",
+      "correctAnswers": [
+        1
+      ],
+      "options": [
+        {
+          "text": "Ruling as lords over heritage with harsh dominion over all",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Not by constraint, but willingly, being ensamples to flock",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Only for high wages that they might accumulate great wealth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By severe compulsion that fear and order prevail in church",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1petr_022",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What shall faithful shepherds receive when chief Shepherd appeareth (1 Peter 5:4)?",
+      "bibleReference": "1 Peter 5:4",
+      "correctAnswers": [
+        2
+      ],
+      "options": [
+        {
+          "text": "A crown of earthly dominion and power",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The richest treasures of the sanctuary",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A crown of glory that fadeth not away",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The praise of princes and worldly men",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1petr_023",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What should believers do with their care in 1 Peter 5:7?",
+      "bibleReference": "1 Peter 5:7",
+      "correctAnswers": [
+        3
+      ],
+      "options": [
+        {
+          "text": "Conceal it secretly and tell nobody of their sorrow",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Take it before earthly judges for human consolation",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Lay it upon other brethren to be borne by their aid",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Casting all your care upon him, for he careth for you",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1petr_024",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "How is the adversary the devil described in 1 Peter 5:8?",
+      "bibleReference": "1 Peter 5:8",
+      "correctAnswers": [
+        0
+      ],
+      "options": [
+        {
+          "text": "As a roaring lion, seeking whom he may devour",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "As a serpent in the grass striking secretly",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As a monstrous beast out of the sea destroying",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As an angel of light bringing subtle delusions",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1petr_025",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Who saluteth believers together with the church in 1 Peter 5:13?",
+      "bibleReference": "1 Peter 5:13",
+      "correctAnswers": [
+        1
+      ],
+      "options": [
+        {
+          "text": "Paul from his imprisonment",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Marcus my son saluteth you",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Timothy from city of Rome",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Luke the beloved evangelist",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    }
+  ]
+}
