@@ -58,7 +58,8 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
 | `50_philipper.json` | 20 | 20 | 20 | 20 | 0 |
 | `51_kolosser.json` | 20 | 20 | 20 | 20 | 0 |
 | `52_1_thessalonicher.json` | 25 | 25 | 25 | 24 | 0 |
-| **Gesamt (52 Dateien)** | **4385** | **1902** | **1152** | **1735** | **105** |
+| `53_2_thessalonicher.json` | 15 | 14 | 12 | 14 | 0 |
+| **Gesamt (53 Dateien)** | **4400** | **1916** | **1164** | **1749** | **105** |
 
 ## 01_1_mose.json – 1. Mose (Genesis) (Schlachter (Revision von 1951))
 
@@ -27072,3 +27073,216 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
   - **Option D (Falsch):**
     - **Vorher:** Glaube, Werke und Worte
     - **Nachher:** Die Werke, der Glaube und die Tat
+
+## 53_2_thessalonicher.json – 2. Thessalonicher (Schlachter (Revision von 1951))
+
+### `2thess_001` (2. Thessalonicher 1:1)
+- **Frage:** Wer wird im Absendergruß des Briefes neben Paulus und Silvanus genannt?
+- **Richtige Antwort (unverändert, Option B):** Timotheus
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Lukas aus der Stadt
+    - **Nachher:** Apollos
+  - **Option C (Falsch):**
+    - **Vorher:** Barnabas aus Jerusalem
+    - **Nachher:** Barnabas
+  - **Option D (Falsch):**
+    - **Vorher:** Silas
+    - **Nachher:** Tychikus
+
+### `2thess_002` (2. Thessalonicher 1:3-4)
+- **Frage:** Wegen welcher Eigenschaften rühmt sich Paulus der Thessalonicher in den Gemeinden Gottes?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Wegen ihrer Standhaftigkeit und ihres Glaubens in allen Verfolgungen und Bedrängnissen
+    - **Nachher:** Wegen ihrer Standhaftigkeit und Glaubenstreue in allen Verfolgungen und Drangsalen
+
+### `2thess_003` (2. Thessalonicher 1:5-7)
+- **Frage Vorher:** Was vergilt Gott nach Seinem gerechten Gericht denjenigen, die die Heiligen bedrängen?
+- **Frage Nachher:** Was vergilt Gott nach Seinem gerechten Gericht denen, die Seine Heiligen bedrängen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Er vergilt denen mit Bedrängnis, die den Heiligen Bedrängnis bereiten
+    - **Nachher:** Er vergilt denen mit Bedrängnis, die seinen Gläubigen Bedrängnis bereiten
+  - **Option A (Falsch):**
+    - **Vorher:** Er schweigt und straft nicht, sondern lässt die Gottlosen gewähren
+    - **Nachher:** Er schweigt und straft sie nicht, sondern lässt die Gottlosen gewähren
+  - **Option B (Falsch):**
+    - **Vorher:** Er vergibt alle Schuld ohne Buße und ohne Gericht
+    - **Nachher:** Er erlässt ihnen alle Schuld ohne Reue und sieht über die Bosheit hinweg
+  - **Option C (Falsch):**
+    - **Vorher:** Er schenkt ihnen irdischen Reichtum, damit sie umkehren und gerettet werden
+    - **Nachher:** Er schenkt ihnen irdische Güter, damit sie umkehren und gerettet werden
+
+### `2thess_004` (2. Thessalonicher 1:7-8)
+- **Frage Vorher:** Wie wird der HERR Jesus bei Seiner Offenbarung vom Himmel herab erscheinen?
+- **Frage Nachher:** Wie wird der Herr Jesus bei Seiner Offenbarung vom Himmel her erscheinen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** In flammendem Feuer mit den Engeln seiner Macht
+    - **Nachher:** Mit Feuerflammen samt den Engeln seiner Kraft
+  - **Option B (Falsch):**
+    - **Vorher:** In tiefer Stille ohne jedes Zeichen, nur den Gläubigen verborgen
+    - **Nachher:** In tiefer Stille ohne sichtbare Zeichen am Himmel
+  - **Option C (Falsch):**
+    - **Vorher:** Als verborgener Wanderer, den niemand erkennt und der unbemerkt kommt
+    - **Nachher:** Als verborgener Wanderer, der unbemerkt kommt
+  - **Option D (Falsch):**
+    - **Vorher:** Nur im Geist, ohne sichtbare Macht, in den Herzen seiner Gläubigen
+    - **Nachher:** Nur im Verborgenen des Geistes ohne Offenbarung
+
+### `2thess_005` (2. Thessalonicher 1:11-12)
+- **Frage Vorher:** Worum betet Paulus beständig für das geistliche Leben der Thessalonicher?
+- **Frage Nachher:** Worum betet Paulus allezeit für die Thessalonicher in 2. Thessalonicher 1:11?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Dass Gott sie der Berufung würdig mache und das Werk des Glaubens in Kraft erfülle
+    - **Nachher:** Dass unser Gott sie der Berufung würdig mache und das Werk des Glaubens in Kraft erfülle
+  - **Option A (Falsch):**
+    - **Vorher:** Dass sie reich an Gold werden und ihren Besitz stetig vermehren können
+    - **Nachher:** Dass sie reich an irdischem Gut werden und ihren Besitz beständig vermehren können
+
+### `2thess_006` (2. Thessalonicher 2:1-3)
+- **Frage Vorher:** Was muss nach den Ausführungen des Paulus geschehen, bevor der Tag Christi kommt?
+- **Frage Nachher:** Was muss nach den Worten des Paulus geschehen, bevor der Tag des Christus kommt?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Zuerst der Abfall, und der Mensch der Sünde, der Sohn des Verderbens, muss offenbar werden
+    - **Nachher:** Zuerst muss der Abfall kommen und der Mensch der Sünde, der Sohn des Verderbens, geoffenbart werden
+  - **Option A (Falsch):**
+    - **Vorher:** Die Bekehrung aller Könige der Erde und die allgemeine Anerkennung des Evangeliums
+    - **Nachher:** Die allgemeine Bekehrung aller Könige der Erde und die weltweite Annahme des Evangeliums
+  - **Option B (Falsch):**
+    - **Vorher:** Ein vollkommener Frieden auf Erden und das Ende aller Kriege unter den Völkern
+    - **Nachher:** Ein vollkommener irdischer Friede auf Erden und das endgültige Aufhören aller Kriege
+  - **Option D (Falsch):**
+    - **Vorher:** Der Wiederaufbau Jerusalems und die Rückkehr aller Juden in das verheißene Land
+    - **Nachher:** Der Wiederaufbau der Stadt Jerusalem und die Rückkehr aller Völker in das gelobte Land
+
+### `2thess_007` (2. Thessalonicher 2:4)
+- **Frage Vorher:** Wo wird sich der Widersacher hinsetzen und sich selbst als Gott ausgeben?
+- **Frage Nachher:** Wo wird sich der Widersacher hinsetzen und sich selbst als Gott erklären?
+- **Richtige Antwort (unverändert, Option D):** In den Tempel Gottes
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Auf den Berg Sinai
+    - **Nachher:** Auf die Höhe des Sinai
+
+### `2thess_008` (2. Thessalonicher 2:8)
+- **Frage Vorher:** Wodurch wird der HERR Jesus den geoffenbarten Gesetzlosen vernichten?
+- **Frage Nachher:** Wodurch wird der Herr den geoffenbarten Gesetzlosen vernichten?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Durch den Hauch seines Mundes und die Erscheinung seiner Ankunft
+    - **Nachher:** Durch den Geist seines Mundes und die Erscheinung seiner Wiederkunft
+  - **Option B (Falsch):**
+    - **Vorher:** Durch die Heere der Engel, die ihn mit Waffen niederwerfen
+    - **Nachher:** Durch die Heere der Engel, die ihn mit sichtbaren Waffen niederwerfen
+  - **Option C (Falsch):**
+    - **Vorher:** Durch ein langes Gericht, das sich über viele Jahre hinzieht
+    - **Nachher:** Durch ein langes irdisches Gericht, das viele Menschenjahre andauert
+  - **Option D (Falsch):**
+    - **Vorher:** Durch ein Erdbeben, das seinen Thron und seine Macht verschlingt
+    - **Nachher:** Durch ein großes Erdbeben, das seinen Thron und seine Macht verschlingt
+
+### `2thess_009` (2. Thessalonicher 2:10-12)
+- **Frage Vorher:** Warum sendet Gott den Menschen, die verlorengehen, eine wirksame Kraft des Irrtums?
+- **Frage Nachher:** Warum sendet Gott denen, die verlorengehen, eine wirksame Kraft des Irrtums?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Weil sie die Liebe zur Wahrheit nicht angenommen haben, durch die sie gerettet worden wären
+    - **Nachher:** Weil sie die Liebe zur Wahrheit nicht angenommen haben, durch die sie hätten gerettet werden können
+  - **Option A (Falsch):**
+    - **Vorher:** Weil sie das Gesetz nicht kannten und nie etwas vom Evangelium gehört hatten
+    - **Nachher:** Weil sie das geschriebene Gesetz nicht kannten und nie zuvor die Worte der Predigt gehört hatten
+  - **Option C (Falsch):**
+    - **Vorher:** Weil sie kein Geld gespendet hatten und der Gemeinde nichts geben wollten
+    - **Nachher:** Weil sie keine irdischen Gaben spendeten und den Armen in der Gemeinde nichts abgeben wollten
+  - **Option D (Falsch):**
+    - **Vorher:** Weil sie aus fremden Ländern stammten und das Volk Gottes nie gekannt haben
+    - **Nachher:** Weil sie aus fernen heidnischen Völkern stammten und die Satzungen der Väter niemals kannten
+
+### `2thess_010` (2. Thessalonicher 2:15)
+- **Frage Vorher:** Wozu ermahnt Paulus die Thessalonicher angesichts der künftigen Verführungen?
+- **Frage Nachher:** Wozu ermahnt Paulus die Brüder in 2. Thessalonicher 2:15?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Steht fest und haltet an den Überlieferungen, die ihr gelernt habt
+    - **Nachher:** Steht fest und haltet fest an den Überlieferungen, die ihr gelehrt worden seid
+  - **Option A (Falsch):**
+    - **Vorher:** Flieht in ein anderes Land und lasst euch dort in Frieden nieder
+    - **Nachher:** Flieht sogleich in ein fremdes Land und baut dort eure Häuser in aller Stille auf
+  - **Option B (Falsch):**
+    - **Vorher:** Hört auf zu arbeiten und wartet ab, bis der Herr wiederkommt
+    - **Nachher:** Legt alle weltliche Arbeit nieder und wartet untätig auf das Kommen des Herrn
+  - **Option D (Falsch):**
+    - **Vorher:** Baut eine Festung um die Versammlung und bewacht sie Tag und Nacht
+    - **Nachher:** Errichtet eine feste Mauer um die Stadt und bewacht ihre Tore bei Tag und Nacht
+
+### `2thess_011` (2. Thessalonicher 3:1-2)
+- **Frage Vorher:** Worum bittet Paulus die Thessalonicher in Seinen Gebetsanliegen zu Beginn von Kapitel 3?
+- **Frage Nachher:** Worum bittet Paulus die Brüder zu Beginn von Kapitel 3 für den Dienst zu beten?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Dass das Wort des Herrn sich schnell ausbreite und verherrlicht werde
+    - **Nachher:** Dass das Wort des Herrn laufen und verherrlicht werden möge wie bei ihnen
+  - **Option A (Falsch):**
+    - **Vorher:** Um Gold für die Reise nach Rom und um Unterstützung für seinen Dienst
+    - **Nachher:** Um reiches Gold für die weite Reise nach Rom und für den Lebensunterhalt
+  - **Option B (Falsch):**
+    - **Vorher:** Um die Bestrafung aller Feinde und das Gericht über die Verfolger
+    - **Nachher:** Um baldige Bestrafung aller Widersacher und ein schnelles Strafgericht
+  - **Option C (Falsch):**
+    - **Vorher:** Um Befreiung von jeder Arbeit und um Ruhe für seinen Dienst
+    - **Nachher:** Um dauerhafte Befreiung von jeglicher Hände Arbeit im irdischen Dienst
+
+### `2thess_013` (2. Thessalonicher 3:10)
+- **Frage Vorher:** Welche bekannte Regel stellt Paulus bezüglich der Arbeitsunwilligen auf?
+- **Frage Nachher:** Welche Regel stellt Paulus bezüglich der Arbeitsunwilligen in 2. Thessalonicher 3:10 auf?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Wer nicht arbeiten will, der soll auch nicht essen
+    - **Nachher:** Wenn jemand nicht arbeiten will, soll er auch nicht essen
+  - **Option A (Falsch):**
+    - **Vorher:** Wer nicht betet, darf nicht wohnen unter den Heiligen
+    - **Nachher:** Wenn jemand nicht beten will, soll er nicht weilen unter Heiligen
+  - **Option C (Falsch):**
+    - **Vorher:** Wer nicht fastet, darf nicht reden vor der Gemeinde
+    - **Nachher:** Wenn jemand nicht fasten will, soll er nicht reden in Gemeinde
+  - **Option D (Falsch):**
+    - **Vorher:** Wer nicht gibt, darf nicht dienen im Haus des Herrn
+    - **Nachher:** Wenn jemand nicht opfern will, soll er nicht dienen vor dem Herrn
+
+### `2thess_014` (2. Thessalonicher 3:14-15)
+- **Frage Vorher:** Wie soll die Gemeinde einen ungehorsamen Bruder behandeln, damit er beschämt wird?
+- **Frage Nachher:** Wie soll die Gemeinde einen ungehorsamen Bruder behandeln, damit er sich schämen muss?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Keinen Umgang mit ihm haben, ihn aber nicht als Feind ansehen, sondern als Bruder ermahnen
+    - **Nachher:** Keinen Umgang mit ihm haben, ihn nicht für einen Feind halten, sondern als Bruder zurechtweisen
+  - **Option A (Falsch):**
+    - **Vorher:** Ihn als Feind betrachten und jede Gemeinschaft mit ihm für immer abbrechen
+    - **Nachher:** Ihn sogleich als Feind betrachten und jede Gemeinschaft mit ihm im täglichen Leben abbrechen
+  - **Option B (Falsch):**
+    - **Vorher:** Ihn den weltlichen Richtern übergeben, damit sie ihn für sein Verhalten bestrafen
+    - **Nachher:** Ihn weltlichen Richtern übergeben, damit sie ihn für sein ungebührliches Verhalten bestrafen
+  - **Option D (Falsch):**
+    - **Vorher:** Ihn für immer aus der Stadt jagen, damit er nie wieder zur Gemeinde kommt
+    - **Nachher:** Ihn auf Dauer aus der Versammlung jagen, damit er nie wieder zur Gemeinschaft hinzutrete
+
+### `2thess_015` (2. Thessalonicher 3:17-18)
+- **Frage Vorher:** Welches persönliche Kennzeichen fügte Paulus jedem Seiner Briefe zur Beglaubigung bei?
+- **Frage Nachher:** Welches Kennzeichen fügte Paulus jedem seiner Briefe als Zeichen bei?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Ein eigenhändiger Gruß des Paulus am Briefende
+    - **Nachher:** Den Gruß mit seiner, des Paulus, eigener Hand
+  - **Option A (Falsch):**
+    - **Vorher:** Ein Siegel aus rotem Wachs am Ende der Schriftrolle
+    - **Nachher:** Ein Siegel aus rotem Wachs am Ende der Schrift
+  - **Option B (Falsch):**
+    - **Vorher:** Das Bild eines Lammes als Zeichen des Briefschreibers
+    - **Nachher:** Das Bild eines Lammes als eingeprägtes Zeichen
+  - **Option C (Falsch):**
+    - **Vorher:** Die Unterschrift des römischen Rates als Beglaubigung
+    - **Nachher:** Die Bestätigung des römischen Ältestenrates

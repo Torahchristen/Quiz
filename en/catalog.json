@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-11-06T12:04:55Z",
+  "lastUpdated": "2026-11-06T12:09:50Z",
   "language": "en",
   "categories": [
     {
@@ -1087,6 +1087,28 @@
       ],
       "sizeBytes": 24615,
       "downloadUrl": "./en/52_1_thessalonicher.json"
+    },
+    {
+      "quizId": "nt_14_2thessalonicher_alle_kapitel_en",
+      "category": "nt",
+      "title": "2 Thessalonians",
+      "subtitle": "2 Thessalonians 1:1 – 3:18 (15 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 15,
+      "difficulty": "medium",
+      "tags": [
+        "2 Thessalonians",
+        "New Testament",
+        "Pauline Epistles",
+        "Paul",
+        "Day of the Lord",
+        "Man of Sin",
+        "King James Version"
+      ],
+      "sizeBytes": 16075,
+      "downloadUrl": "./en/53_2_thessalonicher.json"
     }
   ]
 }
