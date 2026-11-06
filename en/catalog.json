@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-11-06T11:52:48Z",
+  "lastUpdated": "2026-11-06T11:57:14Z",
   "language": "en",
   "categories": [
     {
@@ -996,6 +996,29 @@
       ],
       "sizeBytes": 28904,
       "downloadUrl": "./en/48_galater.json"
+    },
+    {
+      "quizId": "nt_10_epheser_alle_kapitel_en",
+      "category": "nt",
+      "title": "Ephesians",
+      "subtitle": "Ephesians 1:1 – 6:24 (31 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 31,
+      "difficulty": "medium",
+      "tags": [
+        "Ephesians",
+        "New Testament",
+        "Pauline Epistles",
+        "Paul",
+        "Grace",
+        "Church",
+        "Armor of God",
+        "King James Version"
+      ],
+      "sizeBytes": 29513,
+      "downloadUrl": "./en/49_epheser.json"
     }
   ]
 }

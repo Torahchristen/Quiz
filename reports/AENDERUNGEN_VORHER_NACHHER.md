@@ -54,7 +54,8 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
 | `46_1_korinther.json` | 80 | 19 | 0 | 19 | 1 |
 | `47_2_korinther.json` | 65 | 8 | 0 | 8 | 0 |
 | `48_galater.json` | 31 | 31 | 29 | 30 | 0 |
-| **Gesamt (48 Dateien)** | **4289** | **1806** | **1059** | **1640** | **105** |
+| `49_epheser.json` | 31 | 31 | 28 | 31 | 0 |
+| **Gesamt (49 Dateien)** | **4320** | **1837** | **1087** | **1671** | **105** |
 
 ## 01_1_mose.json – 1. Mose (Genesis) (Schlachter (Revision von 1951))
 
@@ -25552,3 +25553,477 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
   - **Option B (Falsch):**
     - **Vorher:** Erkenntnis
     - **Nachher:** Stärke
+
+## 49_epheser.json – Epheser (Schlachter (Revision von 1951))
+
+### `eph_001` (Epheser 1:1)
+- **Frage Vorher:** Wie bezeichnet Sich Paulus im Eingangsgruß des Epheserbriefs?
+- **Frage Nachher:** Wie bezeichnet sich Paulus im Eingangsgruß des Epheserbriefs?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Als Apostel Christi Jesu durch den Willen Gottes
+    - **Nachher:** Als Apostel Jesu Christi durch den Willen Gottes
+  - **Option A (Falsch):**
+    - **Vorher:** Als Hohepriester der Gemeinde in Rom durch die Berufung der Ältesten
+    - **Nachher:** Als Hohepriester der Heiligen durch die Berufung der Ältesten
+  - **Option C (Falsch):**
+    - **Vorher:** Als Prophet der heidnischen Reiche durch den Auftrag des Hohen Rates
+    - **Nachher:** Als Prophet der Völker durch den Auftrag des hohen Rates
+  - **Option D (Falsch):**
+    - **Vorher:** Als Lehrer des alten Gesetzes durch die Ausbildung bei Gamaliel
+    - **Nachher:** Als Gesetzeslehrer der Synagoge durch Bildung bei Gamaliel
+
+### `eph_002` (Epheser 1:3)
+- **Frage Vorher:** Womit hat Gott der Vater die Glaubenden in Christus gesegnet?
+- **Frage Nachher:** Womit hat Gott der Vater die Gläubigen in Christus gesegnet?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Mit allem geistlichen Segen in den himmlischen Gütern in Christus
+    - **Nachher:** Mit jedem geistlichen Segen in den himmlischen Regionen in Christus
+  - **Option A (Falsch):**
+    - **Vorher:** Mit großem Wohlstand an Gold und Gütern in diesem Leben
+    - **Nachher:** Mit großem Reichtum an irdischen Gütern und Gold in diesem Leben
+  - **Option D (Falsch):**
+    - **Vorher:** Mit Befreiung von aller leiblichen Not und von jeder Krankheit
+    - **Nachher:** Mit steter Bewahrung vor aller leiblichen Not und jeder Krankheit
+
+### `eph_003` (Epheser 1:4)
+- **Frage Vorher:** Wann hat Gott die Glaubenden in Christus vor der Schöpfung erwählt?
+- **Frage Nachher:** Wann hat Gott die Gläubigen in Christus nach Epheser 1:4 auserwählt?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Vor der Grundlegung der Welt
+    - **Nachher:** Vor Grundlegung der Welt
+  - **Option C (Falsch):**
+    - **Vorher:** Bei der Taufe im Jordan
+    - **Nachher:** Bei der Taufe im Flusse Jordan
+
+### `eph_004` (Epheser 1:7)
+- **Frage Vorher:** Wodurch besitzen Glaubende die Erlösung und die Vergebung der Sünden?
+- **Frage Nachher:** Wodurch besitzen Gläubige die Erlösung und die Vergebung der Sünden?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Durch sein Blut
+    - **Nachher:** Durch sein vergossenes Blut
+  - **Option B (Falsch):**
+    - **Vorher:** Durch das Halten der Gebote
+    - **Nachher:** Durch die Werke des Gesetzes
+  - **Option C (Falsch):**
+    - **Vorher:** Durch eigene gute Werke
+    - **Nachher:** Durch das Waschen mit Wasser
+  - **Option D (Falsch):**
+    - **Vorher:** Durch die Weisheit der Lehrer
+    - **Nachher:** Durch eigene Gerechtigkeit
+
+### `eph_005` (Epheser 1:13-14)
+- **Frage Vorher:** Womit wurden die Glaubenden nach dem Hören des Evangeliums versiegelt?
+- **Frage Nachher:** Womit wurden die Gläubigen nach dem Hören des Evangeliums versiegelt?
+- **Richtige Antwort (unverändert, Option B):** Mit dem Heiligen Geist der Verheißung
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Mit dem Gesetz auf steinernen Tafeln
+    - **Nachher:** Mit dem Bundesgesetz auf Steintafeln
+  - **Option C (Falsch):**
+    - **Vorher:** Mit dem Beschluss des Hohen Rates
+    - **Nachher:** Mit dem Siegel des irdischen Tempels
+  - **Option D (Falsch):**
+    - **Vorher:** Mit der Taufe im Jordan
+    - **Nachher:** Mit dem heiligen Wasser der Priester
+
+### `eph_006` (Epheser 2:1-3)
+- **Frage Vorher:** In welchem Zustand befanden sich die Glaubenden vor ihrer Errettung?
+- **Frage Nachher:** In welchem Zustand befanden sich die Gläubigen vor ihrer Errettung?
+- **Richtige Antwort (unverändert, Option C):** Tot in Übertretungen und Sünden
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Nur ein wenig unwissend
+    - **Nachher:** Blind für das mosaische Gesetz
+  - **Option B (Falsch):**
+    - **Vorher:** Gerechte Bürger der Stadt
+    - **Nachher:** Gefangen in römischer Knechtschaft
+  - **Option D (Falsch):**
+    - **Vorher:** Schon Kinder des Lichts
+    - **Nachher:** Irrend in der heidnischen Wüste
+
+### `eph_007` (Epheser 2:8-9)
+- **Frage Vorher:** Wodurch sind die Glaubenden aus Gottes Gnade gerettet worden?
+- **Frage Nachher:** Wodurch sind Gläubige nach Epheser 2:8-9 gerettet worden?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Aus Gnade durch den Glauben; es ist Gottes Gabe, nicht aus Werken
+    - **Nachher:** Aus Gnade durch den Glauben als Gabe Gottes, nicht aus Werken
+  - **Option A (Falsch):**
+    - **Vorher:** Aus eigenen Werken und Verdiensten, die jeder Mensch selbst erwirbt
+    - **Nachher:** Durch die Werke des Gesetzes und das Befolgen alter Satzungen
+  - **Option B (Falsch):**
+    - **Vorher:** Durch genaues Befolgen der Tora und der Satzungen der Väter
+    - **Nachher:** Durch eigene Weisheit und das gründliche Forschen der Schrift
+  - **Option C (Falsch):**
+    - **Vorher:** Durch Abstammung von Abraham und die Zugehörigkeit zum Bundesvolk
+    - **Nachher:** Durch Brandopfer im Tempel und das Halten feierlicher Feste
+
+### `eph_008` (Epheser 2:14-16)
+- **Frage:** Was hat Christus am Kreuz zwischen Juden und Heiden abgebrochen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Die Scheidewand der Feindschaft
+    - **Nachher:** Des Zaunes Scheidewand
+  - **Option B (Falsch):**
+    - **Vorher:** Die Mauern Jerusalems
+    - **Nachher:** Die Mauern von Jerusalem
+  - **Option C (Falsch):**
+    - **Vorher:** Die Verträge mit den Römern
+    - **Nachher:** Die Tore des Kaiserreiches
+  - **Option D (Falsch):**
+    - **Vorher:** Die Schriften der Propheten
+    - **Nachher:** Die Schranken des Tempels
+
+### `eph_009` (Epheser 2:20-22)
+- **Frage Vorher:** Zu was werden Heiden und Juden gemeinsam in Christus erbaut?
+- **Frage Nachher:** Zu was werden die Gläubigen gemeinsam in Christus erbaut (Epheser 2:22)?
+- **Richtige Antwort (unverändert, Option B):** Zu einer Behausung Gottes im Geist
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Zu einem weltlichen Reich
+    - **Nachher:** Zu einem festen Palast für Könige
+  - **Option C (Falsch):**
+    - **Vorher:** Zu einer Schule der Weisheit
+    - **Nachher:** Zu einer irdischen Schanze Roms
+  - **Option D (Falsch):**
+    - **Vorher:** Zu einer Armee gegen die Heiden
+    - **Nachher:** Zu einer Synagoge der Gerechten
+
+### `eph_010` (Epheser 2:20)
+- **Frage Vorher:** Wer bildet den unerschütterlichen Eckstein des geistlichen Bauwerks?
+- **Frage Nachher:** Wer ist der Eckstein des geistlichen Bauwerks nach Epheser 2:20?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Christus Jesus selbst
+    - **Nachher:** Jesus Christus selbst
+  - **Option B (Falsch):**
+    - **Vorher:** Der Prophet Mose
+    - **Nachher:** Johannes der Täufer
+  - **Option D (Falsch):**
+    - **Vorher:** Der Hohepriester im Tempel
+    - **Nachher:** Der Prophet Mose
+
+### `eph_011` (Epheser 3:1)
+- **Frage Vorher:** Als was bezeichnet Sich Paulus wegen seines Dienstes für die Heiden?
+- **Frage Nachher:** Als was bezeichnet sich Paulus in Epheser 3:1?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Als Gefangener Christi Jesu für euch Heiden
+    - **Nachher:** Als der Gebundene Christi Jesu für euch, die Nationenvölker
+  - **Option A (Falsch):**
+    - **Vorher:** Als König der Völker, eingesetzt über alle Heiden der Erde
+    - **Nachher:** Als hoher Statthalter des Kaisers für die römischen Provinzen
+  - **Option B (Falsch):**
+    - **Vorher:** Als Richter über Rom, berufen zum Gericht über den Kaiser
+    - **Nachher:** Als oberster Priester des Bundes für das gesamte Volk Israel
+  - **Option C (Falsch):**
+    - **Vorher:** Als Hohepriester des neuen Bundes, bestimmt für den Dienst am Altar
+    - **Nachher:** Als weiser Meister des Tempelbaus für die Gläubigen in Asien
+
+### `eph_012` (Epheser 3:5-6)
+- **Frage Vorher:** Welches Geheimnis wurde den Heiden im Evangelium neu offenbart?
+- **Frage Nachher:** Welches Geheimnis wurde den Nationenvölkern nach Epheser 3:6 offenbart?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Dass die Heiden Miterben und Mitglieder desselben Leibes sind und Mitteilhaber der Verheißung
+    - **Nachher:** Dass die Nationenvölker Miterben und Mitgenossen der Verheißung sind
+  - **Option B (Falsch):**
+    - **Vorher:** Dass die Heiden die Tora halten müssen und sich alle beschneiden lassen sollen
+    - **Nachher:** Dass das irdische Jerusalem für immer die Weltherrschaft innehaben soll
+  - **Option C (Falsch):**
+    - **Vorher:** Dass die Heiden über die Juden herrschen werden und das ganze Land erben werden
+    - **Nachher:** Dass alle heidnischen Reiche durch das Schwert bezwungen werden müssen
+  - **Option D (Falsch):**
+    - **Vorher:** Dass der Tempel in Jerusalem neu gebaut wird und dort die Opfer wieder beginnen
+    - **Nachher:** Dass nur die leiblichen Nachkommen Abrahams das Heil empfangen können
+
+### `eph_013` (Epheser 3:8)
+- **Frage Vorher:** Was verkündigt Paulus den Heiden nach der ihm geschenkten Gnade?
+- **Frage Nachher:** Was verkündigt Paulus unter den Nationenvölkern nach Epheser 3:8?
+- **Richtige Antwort (unverändert, Option B):** Den unausforschlichen Reichtum Christi
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Die Gesetze der Väter
+    - **Nachher:** Das irdische Gesetz des Mose
+  - **Option C (Falsch):**
+    - **Vorher:** Die Weisheit der griechischen Redner
+    - **Nachher:** Die verborgene Weisheit der Griechen
+  - **Option D (Falsch):**
+    - **Vorher:** Die Macht des Kaisers
+    - **Nachher:** Das baldige Ende des römischen Reiches
+
+### `eph_014` (Epheser 3:16-17)
+- **Frage Vorher:** Worum betet Paulus für den inneren Menschen der Glaubenden?
+- **Frage Nachher:** Worum betet Paulus für den inneren Menschen der Gläubigen in Epheser 3:16?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Dass sie durch Gottes Geist am inneren Menschen stark werden
+    - **Nachher:** Dass sie an Kraft zunehmen durch seinen Geist am inwendigen Menschen
+  - **Option A (Falsch):**
+    - **Vorher:** Um weltlichen Reichtum und Ehre vor den Menschen und den Obersten
+    - **Nachher:** Dass sie vor jeder leiblichen Trübsal und irdischer Not bewahrt bleiben
+  - **Option B (Falsch):**
+    - **Vorher:** Um Befreiung von der Arbeit und von den täglichen Sorgen des Lebens
+    - **Nachher:** Dass sie großen Reichtum und hohes weltliches Ansehen erlangen mögen
+  - **Option D (Falsch):**
+    - **Vorher:** Um ein langes Leben ohne Krankheit und ein Alter in Frieden
+    - **Nachher:** Dass sie über alle Feinde des Glaubens mit Macht triumphieren werden
+
+### `eph_015` (Epheser 3:20-21)
+- **Frage Vorher:** Wo soll Gott die Ehre gebracht werden von Ewigkeit zu Ewigkeit?
+- **Frage Nachher:** Wo soll Gott die Ehre sein nach Epheser 3:21?
+- **Richtige Antwort (unverändert, Option D):** In der Gemeinde und in Christus Jesus
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Nur im Tempel zu Jerusalem
+    - **Nachher:** Im irdischen Tempel zu Jerusalem
+  - **Option B (Falsch):**
+    - **Vorher:** Im Palast des römischen Herrschers
+    - **Nachher:** Auf den Marktplätzen aller Völker
+  - **Option C (Falsch):**
+    - **Vorher:** Auf dem Berg Sinai
+    - **Nachher:** Vor dem Richterstuhl des Kaisers
+
+### `eph_016` (Epheser 4:1-3)
+- **Frage Vorher:** Zu welcher Haltung ermahnt Paulus die Gläubigen in ihrer Berufung?
+- **Frage Nachher:** Zu welchem Wandel ermahnt Paulus die Gläubigen in Epheser 4:1-2?
+- **Richtige Antwort (unverändert, Option A):** Zu aller Demut, Sanftmut und Geduld, einander in Liebe zu ertragen
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Zu Stolz und Durchsetzungskraft, damit der Glaube sich behaupten kann
+    - **Nachher:** Zu strengem Richten der Schwachen und zur Meidung aller Unwissenden
+  - **Option C (Falsch):**
+    - **Vorher:** Zu Härte gegen die Schwachen, damit die Gemeinde in Ordnung bleibt
+    - **Nachher:** Zu lautem Rühmen der eigenen Frömmigkeit vor den Augen aller Menschen
+  - **Option D (Falsch):**
+    - **Vorher:** Zum Rückzug in die Einsamkeit, damit der Glaube unversehrt bleibt
+    - **Nachher:** Zu rastlosem Streben nach geistlichen Ämtern und hohen Ehrenplätzen
+
+### `eph_017` (Epheser 4:4-6)
+- **Frage Vorher:** Welche Siebenheit der Einheit zählt Paulus im vierten Kapitel auf?
+- **Frage Nachher:** Welche Siebenheit der Einheit zählt Paulus in Epheser 4:4-6 auf?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Ein Leib, ein Geist, eine Hoffnung, ein Herr, ein Glaube, eine Taufe, ein Gott und Vater
+    - **Nachher:** Ein Leib, ein Geist, eine Hoffnung, ein Herr, ein Glaube, eine Taufe, ein Gott
+  - **Option A (Falsch):**
+    - **Vorher:** Sieben Tempel, Altäre, Priester, Opfer, Feste, Gesetze und Könige, die den Bund sichern
+    - **Nachher:** Sieben Leuchter, sieben Sterne, sieben Engel, sieben Siegel, sieben Posaunen
+  - **Option C (Falsch):**
+    - **Vorher:** Sieben Engel, Posaunen, Schalen, Sterne, Leuchter, Siegel und Bücher, die das Ende ankündigen
+    - **Nachher:** Sieben Feste des Herrn, sieben Opfergaben, sieben Priester, sieben Satzungen
+  - **Option D (Falsch):**
+    - **Vorher:** Sieben Berge, Flüsse, Städte, Völker, Sprachen, Wege und Tore, die das Land trennen
+    - **Nachher:** Ein Gesetz, ein Tempel, ein Altar, ein Bund, ein Hohepriester, ein Volk Israel
+
+### `eph_018` (Epheser 4:11-12)
+- **Frage Vorher:** Welche Ämter gab der aufgefahrene Christus der Gemeinde zum Aufbau?
+- **Frage Nachher:** Welche Gaben gab der aufgefahrene Christus der Gemeinde nach Epheser 4:11?
+- **Richtige Antwort (unverändert, Option C):** Apostel, Propheten, Evangelisten, Hirten und Lehrer
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Richter, Könige, Soldaten und Vögte, die der Gemeinde Ordnung geben
+    - **Nachher:** Priester, Leviten, Schriftgelehrte, Könige und Richter
+  - **Option B (Falsch):**
+    - **Vorher:** Priester, Leviten, Schreiber und Torhüter, die den Gottesdienst leiten
+    - **Nachher:** Hauptleute, Ratsherren, Vorsteher, Schreiber und Vögte
+  - **Option D (Falsch):**
+    - **Vorher:** Philosophen, Redner, Dichter und Lehrer, die die Weisheit verbreiten
+    - **Nachher:** Kaufleute, Handwerker, Zöllner, Pharisäer und Älteste
+
+### `eph_019` (Epheser 4:22-24)
+- **Frage Vorher:** Welcher Vorgang beschreibt die geistliche Erneuerung des Glaubenden?
+- **Frage Nachher:** Was sollen die Gläubigen nach Epheser 4:22-24 tun?
+- **Richtige Antwort (unverändert, Option D):** Den alten Menschen ablegen und den neuen anziehen
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Den neuen Menschen ablegen und zum alten Wesen zurückkehren
+    - **Nachher:** Das alte Gesetz behalten und neue Opfer bringen
+  - **Option B (Falsch):**
+    - **Vorher:** Das alte Gesetz wieder lernen und es genau befolgen
+    - **Nachher:** Die irdische Heimat meiden und einsam wandeln
+  - **Option C (Falsch):**
+    - **Vorher:** Den Leib streng kasteien und sich von der Welt abwenden
+    - **Nachher:** Weltliche Weisheit suchen und ihr nachstreben
+
+### `eph_020` (Epheser 4:26-27)
+- **Frage Vorher:** Wie sollen die Gläubigen mit ihrem Zorn umgehen?
+- **Frage Nachher:** Wie sollen Gläubige mit dem Zorn umgehen nach Epheser 4:26?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Die Sonne soll nicht über eurem Zorn untergehen
+    - **Nachher:** Die Sonne gehe nicht unter über eurer Erzürnung
+  - **Option B (Falsch):**
+    - **Vorher:** Behaltet den Zorn viele Tage, bis der Schuldige Buße getan hat
+    - **Nachher:** Man soll den Zorn an seinen Feinden völlig auslassen
+  - **Option C (Falsch):**
+    - **Vorher:** Rächt euch sofort am Nächsten, damit die Schuld nicht wächst
+    - **Nachher:** Man soll vor Gericht ziehen und Vergeltung fordern
+  - **Option D (Falsch):**
+    - **Vorher:** Verbergt den Zorn im Herzen, damit niemand ihn bemerkt
+    - **Nachher:** Man soll den Groll viele Tage im Herzen bewahren
+
+### `eph_021` (Epheser 5:1-2)
+- **Frage Vorher:** Wozu werden die Glaubenden als geliebte Kinder Gottes aufgerufen?
+- **Frage Nachher:** Wozu werden die Gläubigen in Epheser 5:1-2 aufgerufen?
+- **Richtige Antwort (unverändert, Option B):** Nachahmer Gottes zu sein und in der Liebe zu wandeln
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Nachahmer der Weltleute zu sein und mit ihnen in Frieden zu leben
+    - **Nachher:** Als weise Richter über alle Ungläubigen zu herrschen
+  - **Option C (Falsch):**
+    - **Vorher:** Diener des römischen Staates zu sein und dem Kaiser zu gehorchen
+    - **Nachher:** Gottes Zorn über alle Sünder der Welt auszurufen
+  - **Option D (Falsch):**
+    - **Vorher:** Hüter des alten Tempels zu sein und das Gesetz zu bewahren
+    - **Nachher:** Große Opfer im Heiligtum des Tempels darzubringen
+
+### `eph_022` (Epheser 5:3-4)
+- **Frage Vorher:** Welches Verhalten soll unter den Heiligen nicht einmal genannt werden?
+- **Frage Nachher:** Was soll unter den Heiligen nach Epheser 5:3 nicht genannt werden?
+- **Richtige Antwort (unverändert, Option C):** Unzucht, jede Unreinheit und Habsucht
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Fasten, Gebet und Almosen
+    - **Nachher:** Geringes Ansehen bei den Machthabern
+  - **Option B (Falsch):**
+    - **Vorher:** Geduld, Barmherzigkeit und Treue
+    - **Nachher:** Armut an irdischem Geld und Besitztum
+  - **Option D (Falsch):**
+    - **Vorher:** Fleiß, Arbeit und Eifer
+    - **Nachher:** Mangel an weltlicher Schulweisheit
+
+### `eph_023` (Epheser 5:8-10)
+- **Frage Vorher:** Als was sollen die Glaubenden wandeln, da sie nun Licht im Herrn sind?
+- **Frage Nachher:** Als was sollen die Gläubigen nach Epheser 5:8 wandeln?
+- **Richtige Antwort (unverändert, Option D):** Als Kinder des Lichts
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Als Kinder der dunklen Weltzeit
+    - **Nachher:** Als Söhne der Nacht
+  - **Option B (Falsch):**
+    - **Vorher:** Als Diener fremder Gesetze
+    - **Nachher:** Als Diener des Gesetzes
+  - **Option C (Falsch):**
+    - **Vorher:** Als Meister der alten Philosophie
+    - **Nachher:** Als Fürsten der Erde
+
+### `eph_024` (Epheser 5:22-24)
+- **Frage Vorher:** Wie sollen Ehefrauen ihren eigenen Männern untertan sein?
+- **Frage Nachher:** Wie sollen Ehefrauen ihren eigenen Männern untertan sein (Epheser 5:22)?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Wie dem Herrn
+    - **Nachher:** Als wie dem Herrn
+  - **Option B (Falsch):**
+    - **Vorher:** Wie den Richtern Roms
+    - **Nachher:** Wie den Fürsten
+  - **Option C (Falsch):**
+    - **Vorher:** Nur wenn der Mann reich ist
+    - **Nachher:** Wie den Ältesten
+  - **Option D (Falsch):**
+    - **Vorher:** Nur in der Fastenzeit
+    - **Nachher:** Wie den Richtern
+
+### `eph_025` (Epheser 5:25-28)
+- **Frage Vorher:** Wie soll der Ehemann seine eigene Frau lieben nach dem Vorbild Christi?
+- **Frage Nachher:** Wie sollen Ehemänner ihre Frauen lieben nach Epheser 5:25?
+- **Richtige Antwort (unverändert, Option B):** Wie Christus die Gemeinde geliebt und sich für sie hingegeben hat
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Wie ein Herrscher seine Knechte, mit Strenge und Autorität
+    - **Nachher:** Wie weltliche Herrscher ihre untertanen Provinzen mit Macht regieren
+  - **Option C (Falsch):**
+    - **Vorher:** Nur solange sie jung und schön ist und ihm Freude macht
+    - **Nachher:** Wie die Hohenpriester ihr eigenes Ansehen im Volk sorgsam bewahren
+  - **Option D (Falsch):**
+    - **Vorher:** Wie man irdische Güter liebt, um sie zu besitzen und zu mehren
+    - **Nachher:** Wie reiche Kaufleute ihre wertvollen Güter vor allem Schaden hüten
+
+### `eph_026` (Epheser 6:2-3)
+- **Frage Vorher:** Welches Versprechen ist mit dem Gebot verknüpft, Vater und Mutter zu ehren?
+- **Frage Nachher:** Welche Verheißung ist mit dem Gebot verbunden, Vater und Mutter zu ehren?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Damit es dir wohlgehe und du lange lebst auf Erden
+    - **Nachher:** Auf dass es dir wohl gehe und du lange Zeit auf Erden bist
+  - **Option A (Falsch):**
+    - **Vorher:** Dann wirst du reich an Gold und Gütern in deinem Haus
+    - **Nachher:** Dass du reich an Gold werdest und viele Knechte besitzest
+  - **Option B (Falsch):**
+    - **Vorher:** Dann wirst du nie krank und bleibst bis ins Alter gesund
+    - **Nachher:** Dass du zum obersten Richter über die Brüder gesetzt werdest
+  - **Option D (Falsch):**
+    - **Vorher:** Dann wirst du über alle Völker herrschen und Ehre empfangen
+    - **Nachher:** Dass dir alle Fürsten dieser Erde Ruhm und Ehre erweisen
+
+### `eph_027` (Epheser 6:4)
+- **Frage Vorher:** Wie sollen christliche Väter ihre Kinder im Hause aufziehen?
+- **Frage Nachher:** Wie sollen Väter ihre Kinder nach Epheser 6:4 aufziehen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** In der Zucht und Ermahnung des Herrn
+    - **Nachher:** Mit Erziehungsmaßnahmen und Ermahnung des Herrn
+  - **Option A (Falsch):**
+    - **Vorher:** In Zorn, Strenge und Härte gegen sie
+    - **Nachher:** Mit harter Strenge nach menschlichem Brauch
+  - **Option B (Falsch):**
+    - **Vorher:** Ohne jede Regel und ohne Ordnung
+    - **Nachher:** Nach den Vorschriften der weltlichen Lehrer
+  - **Option C (Falsch):**
+    - **Vorher:** Nach den Sitten der Welt ringsum
+    - **Nachher:** In völliger Freiheit ohne jede Bestrafung
+
+### `eph_028` (Epheser 6:12)
+- **Frage Vorher:** Gegen wen kämpfen die Gläubigen nach Epheser 6:12 nicht?
+- **Frage Nachher:** Gegen wen richtet sich der Kampf der Gläubigen nach Epheser 6:12 nicht?
+- **Richtige Antwort (unverändert, Option A):** Gegen Fleisch und Blut
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Gegen die bösen Geister
+    - **Nachher:** Gegen finstere Mächte
+  - **Option C (Falsch):**
+    - **Vorher:** Gegen den Herrscher der Welt
+    - **Nachher:** Gegen böse Herrscher
+  - **Option D (Falsch):**
+    - **Vorher:** Gegen den Irrtum der Lehre
+    - **Nachher:** Gegen böse Geister
+
+### `eph_029` (Epheser 6:17)
+- **Frage Vorher:** Welcher Teil der Waffenrüstung Gottes wird als Schwert des Geistes bezeichnet?
+- **Frage Nachher:** Was ist das Schwert des Geistes nach Epheser 6:17?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Das Wort Gottes
+    - **Nachher:** Das heilige Wort Gottes
+  - **Option C (Falsch):**
+    - **Vorher:** Der Helm des Heils
+    - **Nachher:** Der Helm der Errettung
+
+### `eph_030` (Epheser 6:24)
+- **Frage:** Womit schließt Paulus den Epheserbrief im letzten Vers ab?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Gnade sei mit allen, die unsern Herrn Jesus Christus lieben in Unvergänglichkeit
+    - **Nachher:** Die Gnade sei mit allen, die unseren Herrn Jesus lieb haben, unwandelbar
+  - **Option A (Falsch):**
+    - **Vorher:** Mit einer Drohung an die Feinde der Gemeinde und einem Ruf zum Gericht
+    - **Nachher:** Mit einer ernsten Warnung an die Widersacher vor dem Gericht
+  - **Option B (Falsch):**
+    - **Vorher:** Mit einem Gebot zum Spenden für die Armen in Jerusalem
+    - **Nachher:** Mit einem Aufruf zu reichlichen Geldspenden für Jerusalem
+  - **Option D (Falsch):**
+    - **Vorher:** Mit einem Aufruf zur Flucht vor der Verfolgung und zum Zusammenhalt
+    - **Nachher:** Mit einer dringenden Mahnung zur Flucht vor der Verfolgung
+
+### `eph_031` (Epheser 6:14)
+- **Frage:** Welche zwei Stücke der Waffenrüstung Gottes nennt Epheser 6:14?
+- **Richtige Antwort (unverändert, Option B):** Den Schutzpanzer der Gerechtigkeit
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Den Gürtel der Wahrheit
+    - **Nachher:** Die Umgürtung mit Wahrheit
