@@ -1,0 +1,2749 @@
+{
+  "metadata": {
+    "quizId": "nt_07_1korinther_alle_kapitel_en",
+    "title": "1 Corinthians",
+    "subtitle": "1 Corinthians 1:1 – 16:24 (80 questions)",
+    "author": "King James Version (1769)",
+    "version": "2.3.0",
+    "language": "en",
+    "category": "nt",
+    "difficulty": "medium",
+    "tags": [
+      "1 Corinthians",
+      "New Testament",
+      "Pauline Epistles",
+      "Epistles",
+      "Paul",
+      "Church",
+      "Spiritual Gifts",
+      "Love",
+      "Resurrection",
+      "King James Version"
+    ],
+    "questionCount": 80,
+    "canonicalBookNumber": 46,
+    "testament": "NT"
+  },
+  "questions": [
+    {
+      "questionId": "1kor_001",
+      "type": "single_choice",
+      "text": "Who is named alongside Paul in the opening salutation of the epistle?",
+      "options": [
+        {
+          "text": "Luke the evangelist",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Sosthenes our brother",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Barnabas the apostle",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Silas the fellowlabourer",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1 Corinthians 1:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "1kor_002",
+      "type": "single_choice",
+      "text": "What division threatened the unity of the church at Corinth?",
+      "options": [
+        {
+          "text": "Contention over the temple tax, each giving according to his own will",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Dispute concerning circumcision, demanding that Gentiles be circumcised",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Contentions and party factions, each saying, I am of a different teacher",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Strife concerning fast days, each observing separate days of abstinence",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "1 Corinthians 1:10-13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kor_003",
+      "type": "single_choice",
+      "text": "What does the preaching of the cross represent unto the Greeks?",
+      "options": [
+        {
+          "text": "A profound worldly wisdom",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A statute of the fathers",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "An earthly royal kingdom",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Foolishness unto the world",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "1 Corinthians 1:21-24",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "1kor_004",
+      "type": "single_choice",
+      "text": "What is Christ declared to be unto them which are called, both Jews and Greeks?",
+      "options": [
+        {
+          "text": "Christ the power of God, and the wisdom of God",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A mighty king to overthrow the Roman legions",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A great prophet like unto Moses from Mount Sinai",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A doctor of the law to teach ancient traditions",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1 Corinthians 1:24",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "1kor_005",
+      "type": "single_choice",
+      "text": "What manner of things hath God chosen to confound the wise and mighty of the world?",
+      "options": [
+        {
+          "text": "The wealthy princes, the noble rulers, and the mighty warriors",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The foolish things, the weak things, and things which are despised",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The philosophical doctors and eloquent orators of the Athenians",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The rich merchants and imperial magistrates of the provinces",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1 Corinthians 1:26-29",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "1kor_006",
+      "type": "single_choice",
+      "text": "In what manner did Paul come unto Corinth to declare the testimony of God?",
+      "options": [
+        {
+          "text": "With great display of wealth and imperial pomp",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With the enticing words of Greek philosophers",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In weakness, and in fear, and in much trembling",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "With armed guards to enforce the apostolic word",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "1 Corinthians 2:1-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kor_007",
+      "type": "single_choice",
+      "text": "Upon what did Paul NOT base his preaching, that faith should stand in the power of God?",
+      "options": [
+        {
+          "text": "Upon the written testimony of the holy prophets",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Upon the mighty signs of the Holy Ghost sent down",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Upon the revelation of Jesus Christ from heaven",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With enticing words of man's wisdom and eloquence",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "1 Corinthians 2:4-5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kor_008",
+      "type": "single_choice",
+      "text": "Who searcheth all things, yea, the deep things of God, and revealeth them?",
+      "options": [
+        {
+          "text": "The Spirit of God that searcheth all things",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The human intellect through natural philosophy",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The angels that stand in the heavenly court",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The high priest ministering within the temple",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1 Corinthians 2:10-11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "1kor_009",
+      "type": "single_choice",
+      "text": "Why receiveth NOT the natural man the things of the Spirit of God?",
+      "options": [
+        {
+          "text": "Because he hath not diligently searched the statutes of Moses",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They are foolishness unto him, because they are spiritually discerned",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Because the almighty Lord hath purposely blinded his understanding",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because the adversaries continually darken his earthly reasoning",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1 Corinthians 2:14",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kor_010",
+      "type": "single_choice",
+      "text": "What spiritual possession enables believers to judge all things?",
+      "options": [
+        {
+          "text": "The secret traditions of the ancient elders",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The civil authority of Roman jurisdiction",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because we have received the mind of Christ",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A great measure of worldly disputation",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "1 Corinthians 2:15-16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kor_011",
+      "type": "single_choice",
+      "text": "How was Paul constrained to speak unto the Corinthians on account of their strife?",
+      "options": [
+        {
+          "text": "As unto perfect elders established in the faith",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As unto foreign Gentiles that never heard the word",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As unto holy prophets possessing deep understanding",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As unto carnal, even as unto babes in Christ",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "1 Corinthians 3:1-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "1kor_012",
+      "type": "single_choice",
+      "text": "What division of labour between ministers is declared in 1 Corinthians 3:6-7?",
+      "options": [
+        {
+          "text": "I have planted, Apollos watered; but God gave the increase",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Paul gathered tithes, Apollos built sanctuaries and altars",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Apollos governed the church, while Paul served as deacon",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Ministers accomplish all things by their own strength",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1 Corinthians 3:6-7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kor_013",
+      "type": "single_choice",
+      "text": "What other foundation can no man lay than that which is laid?",
+      "options": [
+        {
+          "text": "Moses and the holy prophets of the covenant",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "None other than Jesus Christ the righteous Lord",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Peter and the other apostles of Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The written commandment delivered from Sinai",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1 Corinthians 3:11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "1kor_014",
+      "type": "single_choice",
+      "text": "How shall every man's work be made manifest and tried in the day of the Lord?",
+      "options": [
+        {
+          "text": "By the judgment of the Roman magistrate",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By the votes of the assembled brethren",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because it shall be revealed by fire",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "By the weighing of worldly riches",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "1 Corinthians 3:12-15",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kor_015",
+      "type": "single_choice",
+      "text": "What solemn truth concerning the church is declared in 1 Corinthians 3:16?",
+      "options": [
+        {
+          "text": "They are an earthly province under the Roman government",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They are a philosophical school of disputing scholars",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They are a secret league practicing mystical ceremonies",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Ye are the temple of God, and the Spirit of God dwelleth in you",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "1 Corinthians 3:16-17",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kor_016",
+      "type": "single_choice",
+      "text": "How should a man so account of the apostles and ministers of Christ?",
+      "options": [
+        {
+          "text": "As of the ministers of Christ, and stewards of the mysteries of God",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "As lords over the faith and temporal rulers of the assemblies",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As common philosophers disputing about the origins of creation",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As priests offering animal sacrifices upon the holy temple altar",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1 Corinthians 4:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "1kor_017",
+      "type": "single_choice",
+      "text": "What is required in stewards according to 1 Corinthians 4:2?",
+      "options": [
+        {
+          "text": "That a man gather great wealth and property for himself",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Moreover it is required in stewards, that a man be found faithful",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "That a man possess eloquent speech to please all hearers",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That a man attain worldly honour among the rulers of earth",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1 Corinthians 4:2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "1kor_018",
+      "type": "single_choice",
+      "text": "What admonition does Paul give concerning human judgment before the time?",
+      "options": [
+        {
+          "text": "Condemn every errant brother immediately without mercy",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Deliver all accused brethren unto the Roman magistrates",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Therefore judge nothing before the time, until the Lord come",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Establish human courts within the assembly to pass sentence",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "1 Corinthians 4:5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "1kor_019",
+      "type": "single_choice",
+      "text": "Unto what are the apostles made according to the description in 1 Corinthians 4:9?",
+      "options": [
+        {
+          "text": "Unto kings reigning in glory over the provinces of the earth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto wealthy masters receiving honour from all the nations",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto doctors of wisdom revered by the philosophers of Greece",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For we are made a spectacle unto the world, and to angels, and to men",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "1 Corinthians 4:9-13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kor_020",
+      "type": "single_choice",
+      "text": "Whom did Paul send unto Corinth as his beloved son, and faithful in the Lord?",
+      "options": [
+        {
+          "text": "Timotheus",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Silvanus",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Barnabas",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Aristarchus",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1 Corinthians 4:17",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "1kor_021",
+      "type": "single_choice",
+      "text": "What grievous fornication was commonly reported among the Corinthians in chapter 5?",
+      "options": [
+        {
+          "text": "That brethren refused to pay taxes unto the Roman magistrates",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That one should have his father's wife, not so much as named among the Gentiles",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "That members worshipped idols openly within the heathen temples",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That deacons defrauded the poor of the alms collected for them",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1 Corinthians 5:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "1kor_022",
+      "type": "single_choice",
+      "text": "What judgment did Paul decree concerning the man that had done this deed?",
+      "options": [
+        {
+          "text": "To impose a severe monetary fine upon his whole household",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To send him unto Jerusalem to be judged by the high council",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To deliver such an one unto Satan for the destruction of the flesh",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "To compel him to perform daily fastings within the sanctuary",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "1 Corinthians 5:4-5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "1kor_023",
+      "type": "single_choice",
+      "text": "What similitude illustrates the corrupting influence of tolerated sin?",
+      "options": [
+        {
+          "text": "A small spark that consumeth a mighty forest in the desert",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A drop of gall that bittereth the sweetest water of life",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A worm that destroyeth the fruit of the vineyard by night",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Know ye not that a little leaven leaveneth the whole lump?",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "1 Corinthians 5:6-7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "1kor_024",
+      "type": "single_choice",
+      "text": "Who is our passover sacrificed for us according to 1 Corinthians 5:7?",
+      "options": [
+        {
+          "text": "For even Christ our passover is sacrificed for us",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The consecrated altar reared up in the holy temple",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The blood of bullocks offered annually by the priest",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The unleavened bread prepared for the sacred festival",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1 Corinthians 5:7-8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "1kor_025",
+      "type": "single_choice",
+      "text": "How should believers treat any man called a brother who is a fornicator or idolater?",
+      "options": [
+        {
+          "text": "Invite him to feasting and fellowship in order to reform him",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With such an one no not to eat, and put away that wicked person",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Deliver him unto the civil courts to be punished by the law",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Overlook his offences and grant him leadership in the church",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1 Corinthians 5:11-13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kor_026",
+      "type": "single_choice",
+      "text": "What fault does Paul rebuke concerning disputes between brethren in chapter 6?",
+      "options": [
+        {
+          "text": "That they refused to settle debts with fair weights and balances",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That they neglected the daily support of the widows and fatherless",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Dare any of you go to law before the unjust, and not before the saints?",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "That they made vows unto the Lord and failed to perform them duly",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "1 Corinthians 6:1-6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "1kor_027",
+      "type": "single_choice",
+      "text": "What glorious future judgment of the saints does Paul recall unto the Corinthians?",
+      "options": [
+        {
+          "text": "The saints shall rebuild the ancient walls of the city of Rome",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The saints shall command the legions in foreign imperial wars",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The saints shall minister as consecrated priests in Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The saints shall judge the world, and we shall judge angels",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "1 Corinthians 6:2-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "1kor_028",
+      "type": "single_choice",
+      "text": "Who shall NOT inherit the kingdom of God according to 1 Corinthians 6:9-10?",
+      "options": [
+        {
+          "text": "Neither fornicators, nor idolaters, nor adulterers, nor thieves, nor drunkards",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Those that lack worldly riches and have no dwelling in the walled cities",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Those that are unlearned in the Greek philosophy and disputations of earth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Those that have not made the pilgrimage unto the holy sanctuary in Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1 Corinthians 6:9-11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kor_029",
+      "type": "single_choice",
+      "text": "Why must a believer flee fornication according to 1 Corinthians 6:15?",
+      "options": [
+        {
+          "text": "Because civil imperial statutes forbid all unchaste deeds within the city",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Your bodies are members of Christ, and must not be made members of an harlot",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Because it consumeth bodily strength and shorteneth the days of a man's youth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because heathen neighbours will mock the holy assemblies of the congregation",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1 Corinthians 6:15-17",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "1kor_030",
+      "type": "single_choice",
+      "text": "Why are believers commanded to glorify God in their body and in their spirit?",
+      "options": [
+        {
+          "text": "Because the physical frame is formed of dust and perisheth forevermore",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because human discipline meriteth justification before the righteous God",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The body is the temple of the Holy Ghost, and ye are bought with a price",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Because bodily glory gaineth the favour and praise of the Roman senate",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "1 Corinthians 6:19-20",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kor_031",
+      "type": "single_choice",
+      "text": "What duty of mutual benevolence is enjoined upon husband and wife in marriage?",
+      "options": [
+        {
+          "text": "The wife must abide in perpetual silence and never speak to her husband",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The husband may put away his wife at his pleasure for any displeasure",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Spouses should separate perpetually to pursue ascetic contemplation",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Let the husband render unto the wife due benevolence, and likewise the wife",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "1 Corinthians 7:3-5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kor_032",
+      "type": "single_choice",
+      "text": "What commandment of the Lord does Paul deliver concerning the married?",
+      "options": [
+        {
+          "text": "Let not the wife depart from her husband; or else remain unmarried or reconciled",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Husbands and wives may divorce at their own pleasure and remarry whom they will",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The wife must be put away immediately if she bringeth forth no male children",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Marriage is made void on the day of baptism and hath no more binding authority",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1 Corinthians 7:10-11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "1kor_033",
+      "type": "single_choice",
+      "text": "How is the unbelieving spouse regarded in a marriage with a believer?",
+      "options": [
+        {
+          "text": "The marriage is profane and must be dissolved without any delay",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The unbelieving partner is sanctified by the believing spouse",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The believer must depart from the household and live alone",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The unbelieving partner must be delivered unto church discipline",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1 Corinthians 7:12-16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kor_034",
+      "type": "single_choice",
+      "text": "What general rule of calling does Paul set forth in 1 Corinthians 7:20?",
+      "options": [
+        {
+          "text": "Every believer must forsake his earthly occupation and become a preacher",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Every bondsman must purchase his freedom immediately with borrowed gold",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Let every man abide in the same calling wherein he was called with God",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Every citizen must relocate his dwelling unto the city of Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "1 Corinthians 7:20-24",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kor_035",
+      "type": "single_choice",
+      "text": "What advantage hath the unmarried person according to 1 Corinthians 7:32-34?",
+      "options": [
+        {
+          "text": "He can acquire far greater store of silver and earthly riches",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He is delivered entirely from every manner of bodily infirmity",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He attaineth unto higher honour and dignity among the citizens",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He careth for the things that belong to the Lord, how he may please the Lord",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "1 Corinthians 7:32-35",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kor_036",
+      "type": "single_choice",
+      "text": "How does Paul contrast knowledge and charity in 1 Corinthians 8:1?",
+      "options": [
+        {
+          "text": "Knowledge puffeth up, but charity edifieth",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Knowledge saveth, while charity bringeth harm",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Knowledge perplexeth, while charity judgeth all",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Both gifts are of equal value in the sight of God",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1 Corinthians 8:1-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "1kor_037",
+      "type": "single_choice",
+      "text": "What truth concerning idols and God does Paul establish in chapter 8?",
+      "options": [
+        {
+          "text": "Heathen idols possess real divine authority over their appointed provinces",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "We know that an idol is nothing in the world, and that there is none other God but one",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Sacrifices unto idols must be offered by Christians to keep civil peace",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Every graven image contains a living soul created by the almighty Lord",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1 Corinthians 8:4-6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kor_038",
+      "type": "single_choice",
+      "text": "What befalleth the weak brother when he eateth meats offered unto idols with conscience of the idol?",
+      "options": [
+        {
+          "text": "He is immediately smitten with severe bodily disease",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He is required to present a costly sin offering at once",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Their conscience being weak is defiled by eating",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He is instantly expelled from the assembly of saints",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "1 Corinthians 8:7-10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kor_039",
+      "type": "single_choice",
+      "text": "When does the liberty of a mature believer become an occasion of sin?",
+      "options": [
+        {
+          "text": "When he studyeth the holy scriptures in his own private chamber",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "When he bestoweth alms upon the poor without consulting the elders",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "When he preacheth the gospel unto the uncircumcised Gentiles",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Lest by any means this liberty of yours become a stumblingblock to them that are weak",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "1 Corinthians 8:9-12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kor_040",
+      "type": "single_choice",
+      "text": "What selfless resolution does Paul make lest he make his brother to offend?",
+      "options": [
+        {
+          "text": "Wherefore, if meat make my brother to offend, I will eat no flesh while the world standeth",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He will refrain from preaching the gospel in the presence of the weak",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He will compel the weak brother to conform unto his superior knowledge",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He will withdraw from the fellowship of the church and dwell alone",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1 Corinthians 8:13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "1kor_041",
+      "type": "single_choice",
+      "text": "What lawful apostolic right did Paul choose NOT to use among the Corinthians?",
+      "options": [
+        {
+          "text": "The authority to baptize converts in the name of the Lord Jesus",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The right to eat and to drink, and to forbear working for his maintenance",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The privilege of carrying scrolls of the holy law into the assembly",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The liberty of ordaining ruling elders over the churches of Achaia",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1 Corinthians 9:4-15",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "1kor_042",
+      "type": "single_choice",
+      "text": "What commandment of the law of Moses does Paul cite regarding maintenance?",
+      "options": [
+        {
+          "text": "Thou shalt build a fence around the roof of thy house for safety",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Thou shalt bring the firstfruits of thy land into the holy sanctuary",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Thou shalt not muzzle the mouth of the ox that treadeth out the corn",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Thou shalt release thy debtor after the passing of seven counted years",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "1 Corinthians 9:9-10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kor_043",
+      "type": "single_choice",
+      "text": "What was Paul's reward and boasting in preaching the gospel of Christ?",
+      "options": [
+        {
+          "text": "That he received great wealth and possession from the assemblies",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That he attained unto high honour and title among all the churches",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That he was exempted from all bodily persecution and suffering",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That, when I preach the gospel, I may make the gospel of Christ without charge",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "1 Corinthians 9:15-18",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kor_044",
+      "type": "single_choice",
+      "text": "Why did Paul make himself servant unto all men in the ministry of the gospel?",
+      "options": [
+        {
+          "text": "For though I be free from all men, yet have I made myself servant unto all, that I might gain the more",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "That he might amass great treasures of silver and gold from the wealthy merchants",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That he might attain temporal power and sovereignty over the provinces of Greece",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That he might escape all persecution, imprisonment, and affliction in his flesh",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1 Corinthians 9:19-23",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "1kor_045",
+      "type": "single_choice",
+      "text": "What metaphor from athletic contests does Paul use for the Christian course?",
+      "options": [
+        {
+          "text": "Chariot racing in the imperial hippodrome for the emperor's prize",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Know ye not that they which run in a race run all, but one receiveth the prize? So run",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Gladiatorial combat with the sword within the crowded Roman amphitheatre",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Wrestling matches upon the public field for the municipal golden wreath",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1 Corinthians 9:24-27",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "1kor_046",
+      "type": "single_choice",
+      "text": "What spiritual privileges were shared by all the fathers in the wilderness?",
+      "options": [
+        {
+          "text": "They were all crowned kings and established separate royal realms",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They received abundant spoils of refined gold and silver from Egypt",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "All our fathers were under the cloud, and all passed through the sea",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "They were preserved in bodily health without any sickness or decay",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "1 Corinthians 10:1-4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "1kor_047",
+      "type": "single_choice",
+      "text": "Who was that spiritual Rock that followed the fathers in the wilderness?",
+      "options": [
+        {
+          "text": "Moses the lawgiver of Sinai",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The mighty archangel of war",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The guiding pillar of cloud",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "And that Rock was Christ",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "1 Corinthians 10:4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "1kor_048",
+      "type": "single_choice",
+      "text": "What comfort does Paul give concerning temptations that befall believers?",
+      "options": [
+        {
+          "text": "God is faithful, who will not suffer you to be tempted above that ye are able; but will make a way to escape",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Believers shall never experience any trial or sorrow after being baptized into Christ",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Only the wicked are tempted of the adversary, while the faithful remain untouched",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Temptation invariably leadeth unto defeat whenever the flesh of man is weak and weary",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1 Corinthians 10:13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kor_049",
+      "type": "single_choice",
+      "text": "What is the cup of blessing which we bless in the Lord's supper?",
+      "options": [
+        {
+          "text": "An earthly vessel filled with ordinary wine",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Is it not the communion of the blood of Christ?",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A ceremonial passover vessel of the temple",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A symbolic memorial of the covenant of Moses",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1 Corinthians 10:16-17",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "1kor_050",
+      "type": "single_choice",
+      "text": "What supreme rule governs whatsoever believers eat, drink, or do?",
+      "options": [
+        {
+          "text": "Seek first one's own pleasure and comfort in all circumstances",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Conform strictly unto the social customs of the Roman capital",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Whether therefore ye eat, or drink, or whatsoever ye do, do all to the glory of God",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Follow the dietary traditions established by the elders of Israel",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "1 Corinthians 10:31-33",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "1kor_051",
+      "type": "single_choice",
+      "text": "What divine order of headship does Paul declare in 1 Corinthians 11:3?",
+      "options": [
+        {
+          "text": "The head of the church is the Roman Caesar, and the head of man is the magistrate",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The head of every family is the high priest, and the head of woman is the deacon",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "There is no order of headship in the kingdom of God, but absolute equality of office",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The head of every man is Christ; and the head of the woman is the man; and the head of Christ is God",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "1 Corinthians 11:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kor_052",
+      "type": "single_choice",
+      "text": "Why ought the woman to have power on her head according to 1 Corinthians 11:10?",
+      "options": [
+        {
+          "text": "For this cause ought the woman to have power on her head because of the angels",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Because civil laws of Corinth compelled women to wear veils in public assemblies",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because only veiled persons were permitted to enter into the holy sanctuary",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To conceal her face from the gaze of the ruling elders and foreign visitors",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1 Corinthians 11:7-10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "1kor_053",
+      "type": "single_choice",
+      "text": "What disorderly conduct at the Lord's supper did Paul sharply rebuke in Corinth?",
+      "options": [
+        {
+          "text": "Offering animal sacrifices upon the holy communion table before the brethren",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Divisions, selfishness, one being hungry and another drunken at the feast",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Singing foreign hymns borrowed from the mysteries of heathen temples",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Demanding payment of admission from the poor before breaking the bread",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1 Corinthians 11:17-22",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "1kor_054",
+      "type": "single_choice",
+      "text": "What words of the Lord Jesus did Paul deliver concerning the broken bread?",
+      "options": [
+        {
+          "text": "Take, eat; this is an emblem of the deliverance out of the land of Egypt",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Take, eat; this is the reward of your faithful attendance upon the sanctuary",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Take, eat: this is my body, which is broken for you: this do in remembrance of me",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Take, eat; this is the bread of sorrow which our ancient fathers did eat",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "1 Corinthians 11:23-25",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kor_055",
+      "type": "single_choice",
+      "text": "What consequence befalleth him that eateth and drinketh unworthily?",
+      "options": [
+        {
+          "text": "He is instantly deprived of his citizenship and exiled by the Roman empire",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He must pay a heavy monetary penalty unto the ruling elders of the church",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He is arrested by the civil magistrates and cast into the public prison",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He eateth and drinketh damnation to himself, not discerning the Lord's body",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "1 Corinthians 11:27-30",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "1kor_056",
+      "type": "single_choice",
+      "text": "What confession can no man make but by the Holy Ghost?",
+      "options": [
+        {
+          "text": "That Jesus is the Lord",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "That Moses is the prophet",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That the law is perpetual",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That the temple is holy",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1 Corinthians 12:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kor_057",
+      "type": "single_choice",
+      "text": "Wherefore is the manifestation of the Spirit given unto every man?",
+      "options": [
+        {
+          "text": "Unto his own personal boasting",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To profit withal for the good of all",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "To acquire abundant worldly wealth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To triumph over men in argument",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1 Corinthians 12:7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kor_058",
+      "type": "single_choice",
+      "text": "How are believers united into one body according to 1 Corinthians 12:13?",
+      "options": [
+        {
+          "text": "By signing an imperial covenant under the authority of the magistrate",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By taking an oath of allegiance unto the ruling elders of Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For by one Spirit are we all baptized into one body, whether Jews or Gentiles",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "By contributing equal portions of money unto the treasury of the saints",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "1 Corinthians 12:12-13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "1kor_059",
+      "type": "single_choice",
+      "text": "What absurdity would result if the whole body were but one single member?",
+      "options": [
+        {
+          "text": "The body would attain unto absolute perfection and divine majesty",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The body would be delivered from all disease and mortal infirmity",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The body would require no sustenance of daily bread or drink at all",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Where were the body? For the body is not one member, but many members",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "1 Corinthians 12:17-19",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "1kor_060",
+      "type": "single_choice",
+      "text": "What does Paul show unto the Corinthians after urging them to covet the best gifts?",
+      "options": [
+        {
+          "text": "And yet shew I unto you a more excellent way",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A new system of church government by councils",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A method to acquire temporal riches through trade",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A military discipline to govern the assemblies",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1 Corinthians 12:31",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "1kor_061",
+      "type": "single_choice",
+      "text": "What is a man become who speaketh with tongues of men and angels, yet hath NOT charity?",
+      "options": [
+        {
+          "text": "He is become an exalted prophet worthy of highest honour in the assembly",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I am become as sounding brass, or a tinkling cymbal",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He is become an imperial orator celebrated throughout all the cities of Greece",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He is become as a holy angel ministering before the throne of God in heaven",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1 Corinthians 13:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "1kor_062",
+      "type": "single_choice",
+      "text": "How is charity described in the famous hymn of 1 Corinthians 13:4-7?",
+      "options": [
+        {
+          "text": "Charity seeketh its own advantage, boasting of its preeminence over the brethren",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Charity is harsh and unmerciful, rebuking every infirmity found among the saints",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Charity suffereth long, and is kind; envieth not; vaunteth not itself, is not puffed up",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Charity rejoiceth in iniquity, keeping outward peace by concealing all falsehood",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "1 Corinthians 13:4-7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "1kor_063",
+      "type": "single_choice",
+      "text": "What divine virtue never faileth, though prophecies fail and tongues cease?",
+      "options": [
+        {
+          "text": "The gift of prophetic knowledge",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The utterance of unknown tongues",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Human learning and understanding",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Charity never faileth at any time",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "1 Corinthians 13:8-10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "1kor_064",
+      "type": "single_choice",
+      "text": "How do believers see now in contrast to the future face-to-face vision?",
+      "options": [
+        {
+          "text": "For now we see through a glass, darkly; but then face to face: now I know in part",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "We already possess full knowledge of all mysteries and need no further revelation",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "We shall never behold God face to face, but only hear his voice through holy angels",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "We perceive the divine majesty exclusively through the outward ceremonies of priests",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1 Corinthians 13:9-12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kor_065",
+      "type": "single_choice",
+      "text": "Which three virtues abide, and which of them is the greatest of all?",
+      "options": [
+        {
+          "text": "Wisdom, strength, and honour; and the greatest of these is worldly wisdom",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "And now abideth faith, hope, charity, these three; but the greatest of these is charity",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Fasting, praying, and almsgiving; and the greatest of these is fasting in secret",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Knowledge, prophecy, and tongues; and the greatest of these is prophecy in the church",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1 Corinthians 13:13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "1kor_066",
+      "type": "single_choice",
+      "text": "Why is he that prophesieth greater than he that speaketh with tongues, except he interpret?",
+      "options": [
+        {
+          "text": "Because prophecy is accompanied by mighty signs and thunders from heaven",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because prophets receive greater wages and honours from the congregation",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He that prophesieth edifieth the church, that the church may receive edifying",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Because speaking with tongues was borrowed from the heathen oracle of Delphi",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "1 Corinthians 14:1-5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "1kor_067",
+      "type": "single_choice",
+      "text": "What must a speaker with tongues do if there be no interpreter present in the church?",
+      "options": [
+        {
+          "text": "He must speak with a louder voice so that all men may hear him",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He must summon an ordained priest to conduct the sacred meeting",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He must go out into the public street and continue praying aloud",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "If there be no interpreter, let him keep silence in the church",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "1 Corinthians 14:27-28",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kor_068",
+      "type": "single_choice",
+      "text": "Wherefore do tongues serve for a sign according to 1 Corinthians 14:22?",
+      "options": [
+        {
+          "text": "Wherefore tongues are for a sign, not to them that believe, but to them that believe not",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Tongues serve as a sign of supreme apostolic authority over the heathen rulers",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Tongues serve as an outward token of personal sinlessness before the assembly",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Tongues are given to confound the scribes and magistrates of the Roman provinces",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1 Corinthians 14:22",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kor_069",
+      "type": "single_choice",
+      "text": "How many prophets should speak in the assembly, and in what manner?",
+      "options": [
+        {
+          "text": "Seven prophets speaking simultaneously",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Let the prophets speak two or three in order",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "All members that are seated in the room",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Only one single prophet throughout the month",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1 Corinthians 14:29-32",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "1kor_070",
+      "type": "single_choice",
+      "text": "What golden rule of order does Paul give for all church gatherings in 1 Corinthians 14:40?",
+      "options": [
+        {
+          "text": "Let all things conform unto the civil Roman custom",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Let all things be performed in absolute silence",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Let all things be done decently and in order",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Let all things be done without any fixed rule",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "1 Corinthians 14:40",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "1kor_071",
+      "type": "single_choice",
+      "text": "What fundamental gospel facts did Paul deliver unto the Corinthians first of all?",
+      "options": [
+        {
+          "text": "That believers must observe all the ceremonial fasts and feasts of the law",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That all Christians must establish a school of Greek philosophy in Corinth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That disciples must purchase weapons and resist the Roman authority by force",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Christ died for our sins, was buried, and rose again the third day by scripture",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "1 Corinthians 15:1-4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "1kor_072",
+      "type": "single_choice",
+      "text": "How does Paul humbly describe himself among the apostles in 1 Corinthians 15:9?",
+      "options": [
+        {
+          "text": "For I am the least of the apostles, as of one born out of due time",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "As the chief of all the apostles, possessing dominion over all churches",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As the most eloquent orator among all the ministers of the covenant",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As a sinless teacher who never committed any offence against the truth",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1 Corinthians 15:8-10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kor_073",
+      "type": "single_choice",
+      "text": "What dreadful consequence would follow if the dead rise NOT?",
+      "options": [
+        {
+          "text": "The Roman empire shall collapse into ruin and the whole world sink into darkness",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Then is Christ not raised, your faith is vain, and ye are yet in your sins",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The temple sacrifices in Jerusalem shall lose all their ceremonial atonement",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The heathen nations shall overpower the saints and reduce them unto slavery",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1 Corinthians 15:12-19",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kor_074",
+      "type": "single_choice",
+      "text": "What is Christ become in his glorious resurrection from the dead?",
+      "options": [
+        {
+          "text": "A second lawgiver to replace Moses the prophet",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "An earthly monarch reigning over the nations",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The firstfruits of them that slept in death",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The high priest offering blood on the altar",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "1 Corinthians 15:20-23",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "1kor_075",
+      "type": "single_choice",
+      "text": "What mystery concerning the final resurrection does Paul reveal in chapter 15?",
+      "options": [
+        {
+          "text": "All souls shall be reincarnated into new mortal bodies upon earth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Only the apostles and martyrs shall rise to life, while others perish",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The earth shall be preserved in its present state for all eternity",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "We shall not all sleep, but we shall all be changed, in a moment, at the last trump",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "1 Corinthians 15:51-53",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kor_076",
+      "type": "single_choice",
+      "text": "On what day were the saints commanded to lay by them in store for the collection?",
+      "options": [
+        {
+          "text": "Upon the first day of the week",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Upon every seventh Sabbath day",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Once in the course of the year",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "At the new moon of every month",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1 Corinthians 16:1-2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "1kor_077",
+      "type": "single_choice",
+      "text": "Where did Paul purpose to tarry until Pentecost because a great door was opened?",
+      "options": [
+        {
+          "text": "At Jerusalem until the feast of tabernacles",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "At Ephesus until the day of Pentecost",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "At Philippi until the passover season",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "At Antioch until the beginning of winter",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1 Corinthians 16:8-9",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kor_078",
+      "type": "single_choice",
+      "text": "What charge did Paul give concerning the coming of Timotheus unto Corinth?",
+      "options": [
+        {
+          "text": "That they give him great store of silver and gold for his maintenance",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That they immediately appoint him as supreme judge over the assembly",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "See that he may be with you without fear: for he worketh the work of the Lord",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "That they send him back without delay into the regions of Macedonia",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "1 Corinthians 16:10-11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kor_079",
+      "type": "single_choice",
+      "text": "What solemn Aramaic watchword stands before the apostle's final benediction?",
+      "options": [
+        {
+          "text": "Hosanna to the Son of David",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Alleluia to the eternal Lord",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Amen, the Lord is faithful",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Anathema Maranatha: our Lord cometh",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "1 Corinthians 16:22",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "1kor_080",
+      "type": "single_choice",
+      "text": "With what words of love does Paul conclude his first epistle to the Corinthians?",
+      "options": [
+        {
+          "text": "My love be with you all in Christ Jesus. Amen",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "With a stern warning against the Roman emperor",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With an injunction unto rigorous fasts and penance",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With a command to flee from the city of Corinth",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1 Corinthians 16:23-24",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    }
+  ]
+}

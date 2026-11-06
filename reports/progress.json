@@ -1,7 +1,7 @@
 {
   "branch": "review-and-english",
   "totalFiles": 66,
-  "completedCount": 45,
+  "completedCount": 46,
   "completedFiles": [
     "01_1_mose.json",
     "02_2_mose.json",
@@ -47,10 +47,10 @@
     "42_lukas.json",
     "43_johannes.json",
     "44_apostelgeschichte.json",
-    "45_roemer.json"
+    "45_roemer.json",
+    "46_1_korinther.json"
   ],
   "pendingFiles": [
-    "46_1_korinther.json",
     "47_2_korinther.json",
     "48_galater.json",
     "49_epheser.json",
@@ -387,6 +387,13 @@
       "explanationsReviewedEn": 0,
       "reportPath": "reports/45_roemer.md",
       "enPath": "en/45_roemer.json"
+    },
+    "46_1_korinther.json": {
+      "questionsCount": 80,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/46_1_korinther.md",
+      "enPath": "en/46_1_korinther.json"
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-11-06T09:14:50Z",
+  "lastUpdated": "2026-11-06T09:20:45Z",
   "language": "en",
   "categories": [
     {
@@ -923,6 +923,31 @@
       ],
       "sizeBytes": 81492,
       "downloadUrl": "./en/45_roemer.json"
+    },
+    {
+      "quizId": "nt_07_1korinther_alle_kapitel_en",
+      "category": "nt",
+      "title": "1 Corinthians",
+      "subtitle": "1 Corinthians 1:1 – 16:24 (80 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 80,
+      "difficulty": "medium",
+      "tags": [
+        "1 Corinthians",
+        "New Testament",
+        "Pauline Epistles",
+        "Epistles",
+        "Paul",
+        "Church",
+        "Spiritual Gifts",
+        "Love",
+        "Resurrection",
+        "King James Version"
+      ],
+      "sizeBytes": 82011,
+      "downloadUrl": "./en/46_1_korinther.json"
     }
   ]
 }

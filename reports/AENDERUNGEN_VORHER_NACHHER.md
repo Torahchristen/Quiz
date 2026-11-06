@@ -51,7 +51,8 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
 | `43_johannes.json` | 110 | 42 | 2 | 38 | 2 |
 | `44_apostelgeschichte.json` | 145 | 26 | 0 | 19 | 8 |
 | `45_roemer.json` | 80 | 19 | 1 | 17 | 1 |
-| **Gesamt (45 Dateien)** | **4113** | **1748** | **1030** | **1583** | **104** |
+| `46_1_korinther.json` | 80 | 19 | 0 | 19 | 1 |
+| **Gesamt (46 Dateien)** | **4193** | **1767** | **1030** | **1602** | **105** |
 
 ## 01_1_mose.json – 1. Mose (Genesis) (Schlachter (Revision von 1951))
 
@@ -24651,3 +24652,300 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
   - **Option D (Falsch):**
     - **Vorher:** Barnabas
     - **Nachher:** Aristarch
+
+## 46_1_korinther.json – 1. Korinther (Schlachter (Revision von 1951))
+
+### `1kor_003` (1. Korinther 1:21-24)
+- **Frage:** Was bedeutet das gepredigte Wort vom Kreuz für die Griechen im Unterschied zu Glaubenden?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Eine Torheit
+    - **Nachher:** Eine Torheit der Welt
+  - **Option A (Falsch):**
+    - **Vorher:** Eine tiefsinnige Weisheit
+    - **Nachher:** Eine weltliche Weisheit
+  - **Option B (Falsch):**
+    - **Vorher:** Ein politischer Aufruf
+    - **Nachher:** Ein Gesetz der Väter
+  - **Option C (Falsch):**
+    - **Vorher:** Ein Gesetz der Vorfahren
+    - **Nachher:** Ein irdisches Königtum
+
+### `1kor_013` (1. Korinther 3:11)
+- **Frage:** Welches ist das einzige verlässliche Fundament, das für die Gemeinde gelegt ist?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Jesus Christus
+    - **Nachher:** Allein der Herr Jesus Christus
+  - **Option A (Falsch):**
+    - **Vorher:** Die Lehre der Ältesten
+    - **Nachher:** Mose und die heiligen Propheten
+  - **Option C (Falsch):**
+    - **Vorher:** Das Gesetz Moses
+    - **Nachher:** Petrus und die anderen Apostel
+  - **Option D (Falsch):**
+    - **Vorher:** Die Überlieferung der Väter
+    - **Nachher:** Das geschriebene Gesetz vom Sinai
+
+### `1kor_014` (1. Korinther 3:12-15)
+- **Frage:** Wodurch wird das Bauwerk eines jeden Arbeiters am Tage des Gerichts geprüft werden?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Durch das Feuer
+    - **Nachher:** Vergängliches Holz, Heu und Stroh
+  - **Option A (Falsch):**
+    - **Vorher:** Durch die Beredsamkeit
+    - **Nachher:** Gold, Silber und kostbare Steine
+  - **Option B (Falsch):**
+    - **Vorher:** Durch die Gunst des Volkes
+    - **Nachher:** Marmor, Granit und gebrannte Ziegel
+  - **Option D (Falsch):**
+    - **Vorher:** Durch das Gold der Spenden
+    - **Nachher:** Kupfer, gehärtetes Eisen und Bronze
+
+### `1kor_020` (1. Korinther 4:17)
+- **Frage:** Welchen geliebten Sohn im Herrn sandte Paulus zu den Korinthern zur Erinnerung an seine Wege?
+- **Richtige Antwort (unverändert, Option A):** Timotheus
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Titus
+    - **Nachher:** Silvanus
+  - **Option D (Falsch):**
+    - **Vorher:** Tertius
+    - **Nachher:** Aristarch
+
+### `1kor_024` (1. Korinther 5:7-8)
+- **Frage:** Wer ist nach den Worten des Apostels Paulus als unser wahres Passahlamm geschlachtet worden?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Christus
+    - **Nachher:** Christus, das geopferte Passahlamm
+  - **Option B (Falsch):**
+    - **Vorher:** Der Hohepriester
+    - **Nachher:** Der geweihte Altar im Heiligtum
+  - **Option C (Falsch):**
+    - **Vorher:** Mose
+    - **Nachher:** Das feierlich dargebrachte Stierblut
+  - **Option D (Falsch):**
+    - **Vorher:** Der Knecht der Verheißung
+    - **Nachher:** Das ungesäuerte Festbrot der Priester
+
+### `1kor_035` (1. Korinther 7:32-35)
+- **Frage:** Welchen Vorteil nennt Paulus für diejenigen, die in Unverheiratetheit verbleiben?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Sie können dem Herrn ungeteilt dienen
+    - **Nachher:** Er kann sich ungeteilt dem Herrn weihen
+  - **Option A (Falsch):**
+    - **Vorher:** Sie sparen viel Geld
+    - **Nachher:** Er kann mehr irdische Güter erwerben
+  - **Option B (Falsch):**
+    - **Vorher:** Sie erleiden keine Verfolgung
+    - **Nachher:** Er wird von jeder Mühsal ganz befreit
+  - **Option C (Falsch):**
+    - **Vorher:** Sie werden im Volk höher geachtet
+    - **Nachher:** Er erlangt ein höheres Ansehen im Volk
+
+### `1kor_036` (1. Korinther 8:1-3)
+- **Frage:** Welcher Unterschied besteht zwischen menschlicher Erkenntnis und der göttlichen Liebe?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Erkenntnis bläht auf, die Liebe aber erbaut
+    - **Nachher:** Die Erkenntnis bläht auf, aber die Liebe erbaut
+  - **Option B (Falsch):**
+    - **Vorher:** Erkenntnis macht reich, Liebe macht arm
+    - **Nachher:** Die Erkenntnis errettet, aber die Liebe schadet
+  - **Option C (Falsch):**
+    - **Vorher:** Erkenntnis rettet, Liebe richtet
+    - **Nachher:** Die Erkenntnis verwirrt, aber die Liebe richtet
+  - **Option D (Falsch):**
+    - **Vorher:** Beides wirkt gleich
+    - **Nachher:** Beide Gaben sind vor Gott völlig gleichwertig
+
+### `1kor_038` (1. Korinther 8:7-10)
+- **Frage:** Welcher Schaden entsteht bei schwachen Glaubenden durch das Essen von Opferfleisch?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Ihr schwaches Gewissen wird befleckt
+    - **Nachher:** Ihr schwaches Gewissen wird dadurch befleckt
+  - **Option A (Falsch):**
+    - **Vorher:** Ihr Leib wird krank
+    - **Nachher:** Sie verfallen sofort einer leiblichen Krankheit
+  - **Option B (Falsch):**
+    - **Vorher:** Sie verlieren ihren Besitz
+    - **Nachher:** Sie müssen ein teures Sühnopfer darbringen
+  - **Option D (Falsch):**
+    - **Vorher:** Sie werden von den Römern verfolgt
+    - **Nachher:** Sie werden sofort aus der Gemeinde gewiesen
+
+### `1kor_047` (1. Korinther 10:4)
+- **Frage:** Wer war der geistliche Fels, der die Väter in der Wüste begleitete und tränkte?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Christus
+    - **Nachher:** Der Messias Christus
+  - **Option A (Falsch):**
+    - **Vorher:** Der Prophet Mose
+    - **Nachher:** Der Gesetzeslehrer Mose
+  - **Option B (Falsch):**
+    - **Vorher:** Der Engel des Gerichts
+    - **Nachher:** Der mächtige Erzengel
+  - **Option C (Falsch):**
+    - **Vorher:** Die Wolkensäule
+    - **Nachher:** Die führende Wolkensäule
+
+### `1kor_049` (1. Korinther 10:16-17)
+- **Frage:** Was bedeutet der Kelch des Segens beim Mahl des Herrn im geistlichen Sinn?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Er ist die Gemeinschaft des Blutes Christi
+    - **Nachher:** Die geistliche Gemeinschaft des Blutes Christi
+  - **Option A (Falsch):**
+    - **Vorher:** Ein Becher einfachen Weines
+    - **Nachher:** Ein irdischer Becher mit gewöhnlichem Wein
+  - **Option C (Falsch):**
+    - **Vorher:** Ein Trank der Opfer des Alten Bundes
+    - **Nachher:** Ein rein zeremonielles Gefäß für das Passah
+  - **Option D (Falsch):**
+    - **Vorher:** Ein Zeichen der Trauer
+    - **Nachher:** Ein symbolisches Zeichen für das Gesetz Mose
+
+### `1kor_057` (1. Korinther 12:7)
+- **Frage:** Zu welchem Zweck wird jedem Glaubenden die Offenbarung des Geistes verliehen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Zum Nutzen aller
+    - **Nachher:** Zum allgemeinen Nutzen aller
+  - **Option A (Falsch):**
+    - **Vorher:** Zum eigenen Ruhm
+    - **Nachher:** Zur eigenen Selbsterhöhung
+  - **Option C (Falsch):**
+    - **Vorher:** Zur Herrschaft über die Heiden
+    - **Nachher:** Zum persönlichen Reichtum
+  - **Option D (Falsch):**
+    - **Vorher:** Zum Erwerb von Erdengut
+    - **Nachher:** Zum Sieg in Streitgesprächen
+
+### `1kor_063` (1. Korinther 13:8-10)
+- **Frage:** Was geschieht mit den prophetischen Gaben und dem Sprachenreden in der Vollendung?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Sie werden aufhören und vergehen
+    - **Nachher:** Die Liebe vergeht nimmer
+  - **Option A (Falsch):**
+    - **Vorher:** Sie nehmen ewig zu
+    - **Nachher:** Das prophetische Weissagen
+  - **Option B (Falsch):**
+    - **Vorher:** Sie werden im Himmel geboten
+    - **Nachher:** Die Gabe der Zungenrede
+  - **Option C (Falsch):**
+    - **Vorher:** Sie werden den Engeln übertragen
+    - **Nachher:** Die menschliche Erkenntnis
+
+### `1kor_064` (1. Korinther 13:9-12)
+- **Frage:** Wie beschreibt Paulus die gegenwärtige Gotteserkenntnis im Vergleich zur künftigen Schau?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Wir sehen jetzt durch einen Spiegel in einem dunklen Wort, dann aber von Angesicht zu Angesicht
+    - **Nachher:** Wir sehen jetzt mittels eines Spiegels undeutlich, dann aber von Angesicht zu Angesicht
+  - **Option B (Falsch):**
+    - **Vorher:** Wir erkennen jetzt völlig klar, doch die künftige Schau wird noch heller und herrlicher sein
+    - **Nachher:** Wir erkennen Gott bereits vollkommen und bedürfen keiner weiteren Offenbarung mehr
+  - **Option C (Falsch):**
+    - **Vorher:** Wir erkennen jetzt nur durch menschliche Erfindungen, Träume und Spekulationen
+    - **Nachher:** Wir werden Gott niemals von Angesicht sehen, sondern nur durch Engel von ihm hören
+  - **Option D (Falsch):**
+    - **Vorher:** Wir erkennen jetzt unfehlbar und vollständig, weil der Geist uns alles lehrt und zeigt
+    - **Nachher:** Wir schauen die göttliche Herrlichkeit allein im irdischen Tempel durch die Priester
+
+### `1kor_067` (1. Korinther 14:27-28)
+- **Frage:** Welche Bedingung gilt für das Zungenreden in der öffentlichen Versammlung?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Es muss jemand auslegen
+    - **Nachher:** Er soll still sein und in der Gemeinde schweigen
+  - **Option A (Falsch):**
+    - **Vorher:** Es muss von Musik begleitet sein
+    - **Nachher:** Er soll lauter sprechen, damit jedermann ihn versteht
+  - **Option B (Falsch):**
+    - **Vorher:** Es darf nur von Ältesten gesprochen werden
+    - **Nachher:** Er soll einen Priester holen, der die Feier leitet
+  - **Option C (Falsch):**
+    - **Vorher:** Es muss leise gebetet werden
+    - **Nachher:** Er soll vor die Türe treten und dort weiterbeten
+
+### `1kor_069` (1. Korinther 14:29-32)
+- **Frage:** Wie viele Propheten sollen in einer geordneten Zusammenkunft nacheinander reden?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Zwei oder drei, nacheinander
+    - **Nachher:** Nur zwei oder drei nacheinander
+  - **Option A (Falsch):**
+    - **Vorher:** Einer allein für den ganzen Tag
+    - **Nachher:** Bis zu sieben Propheten zugleich
+  - **Option C (Falsch):**
+    - **Vorher:** Möglichst viele gleichzeitig
+    - **Nachher:** Alle, die in der Versammlung sitzen
+  - **Option D (Falsch):**
+    - **Vorher:** Genau sieben
+    - **Nachher:** Nur ein einziger Prophet im Monat
+
+### `1kor_070` (1. Korinther 14:40)
+- **Bibelstelle Vorher:** `1. Korinther 14:33; 14:40` -> **Nachher:** `1. Korinther 14:40`
+- **Frage:** Welches goldene Schlussgebot gibt Paulus für die Gestaltung aller Gottesdienste?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Alles geschehe ehrbar und in Ordnung
+    - **Nachher:** Alles geschehe mit Anstand und in Ordnung
+  - **Option B (Falsch):**
+    - **Vorher:** Alles geschehe in Schweigen
+    - **Nachher:** Alles geschehe in völligem Schweigen
+  - **Option D (Falsch):**
+    - **Vorher:** Alles geschehe ohne feste Regeln
+    - **Nachher:** Alles geschehe ohne feste Satzungen
+
+### `1kor_076` (1. Korinther 16:1-2)
+- **Frage:** An welchem Tag der Woche sollten die Glaubenden in Korinth ihre Liebesgabe zurücklegen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Am ersten Tag der Woche
+    - **Nachher:** An jedem ersten Tag der Woche
+  - **Option B (Falsch):**
+    - **Vorher:** Am Sabbat
+    - **Nachher:** An jedem siebenten Ruhetag
+  - **Option C (Falsch):**
+    - **Vorher:** Am Rüsttag
+    - **Nachher:** Einmal im gesamten Festjahr
+  - **Option D (Falsch):**
+    - **Vorher:** An jedem Neumond
+    - **Nachher:** Zu jedem Neumond im Monat
+
+### `1kor_077` (1. Korinther 16:8-9)
+- **Frage:** In welcher Region plante Paulus eine Zeitlang zu verbleiben, ehe er nach Korinth reiste?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** In Ephesus bis Pfingsten
+    - **Nachher:** In Ephesus bis zum Tage Pfingsten
+  - **Option A (Falsch):**
+    - **Vorher:** In der Wüste Judäas
+    - **Nachher:** In Jerusalem bis zum Laubhüttenfest
+  - **Option C (Falsch):**
+    - **Vorher:** Auf Kreta
+    - **Nachher:** In Philippi bis zur Passahfeier
+  - **Option D (Falsch):**
+    - **Vorher:** In Rom
+    - **Nachher:** In Antiochien bis zum Winteranfang
+
+### `1kor_079` (1. Korinther 16:22)
+- **Frage:** Welcher aramäische Ruf steht kurz vor dem persönlichen Segenswunsch des Apostels?
+- **Richtige Antwort (unverändert, Option D):** Maranatha! Unser Herr kommt
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Hosianna in der Höhe
+    - **Nachher:** Hosianna dem Sohne Davids
+  - **Option B (Falsch):**
+    - **Vorher:** Halleluja dem König der Ewigkeit
+    - **Nachher:** Halleluja dem ewigen Gott
+  - **Option C (Falsch):**
+    - **Vorher:** Amen, Gott ist treu
+    - **Nachher:** Amen, der Herr ist getreu
