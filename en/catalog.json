@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-11-06T12:40:03Z",
+  "lastUpdated": "2026-11-07T16:18:26Z",
   "language": "en",
   "categories": [
     {
@@ -1381,6 +1381,29 @@
       ],
       "sizeBytes": 4987,
       "downloadUrl": "./en/65_judas.json"
+    },
+    {
+      "quizId": "nt_27_offenbarung_alle_kapitel_en",
+      "category": "nt",
+      "title": "Revelation",
+      "subtitle": "Revelation 1:1 – 22:21 (113 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 113,
+      "difficulty": "medium",
+      "tags": [
+        "Revelation",
+        "New Testament",
+        "Prophecy",
+        "Apocalypse",
+        "Lamb",
+        "End Times",
+        "New Jerusalem",
+        "King James Version"
+      ],
+      "sizeBytes": 118012,
+      "downloadUrl": "./en/66_offenbarung.json"
     }
   ]
 }

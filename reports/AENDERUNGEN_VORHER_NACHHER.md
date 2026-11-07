@@ -71,7 +71,8 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
 | `63_2_johannes.json` | 5 | 5 | 5 | 5 | 0 |
 | `64_3_johannes.json` | 5 | 5 | 5 | 5 | 0 |
 | `65_judas.json` | 5 | 5 | 5 | 5 | 0 |
-| **Gesamt (65 Dateien)** | **4641** | **2157** | **1405** | **1987** | **119** |
+| `66_offenbarung.json` | 113 | 47 | 4 | 40 | 6 |
+| **Gesamt (66 Dateien)** | **4754** | **2204** | **1409** | **2027** | **125** |
 
 ## 01_1_mose.json – 1. Mose (Genesis) (Schlachter (Revision von 1951))
 
@@ -31228,3 +31229,644 @@ Diese Datei dokumentiert alle geänderten Fragen, Bibelstellen und Auswahlmögli
   - **Option D (Falsch):**
     - **Vorher:** Abraham, der Freund Gottes
     - **Nachher:** Abraham, der Freund des Herrn
+
+## 66_offenbarung.json – Offenbarung (Schlachter (Revision von 1951))
+
+### `off_002` (Offenbarung 1:16)
+- **Bibelstelle Vorher:** `Offenbarung 1:16; 1:20` -> **Nachher:** `Offenbarung 1:16`
+- **Frage:** Was hielt der Verklärte in Seiner rechten Hand in der ersten Vision?
+
+### `off_004` (Offenbarung 1:8)
+- **Frage:** Welcher göttliche Titel wird dem Herrn am Anfang der Offenbarung verliehen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Das A und das O, der Anfang und das Ende
+    - **Nachher:** Das A und das O, der Anfang und die Vollendung
+  - **Option B (Falsch):**
+    - **Vorher:** Der König der Herrscher Roms
+    - **Nachher:** Der Herr der Herren, der König aller Herrscher der Erde
+  - **Option C (Falsch):**
+    - **Vorher:** Der Hohepriester nach der Ordnung Aarons
+    - **Nachher:** Der ewige Hohepriester nach der Ordnung Melchisedeks
+  - **Option D (Falsch):**
+    - **Vorher:** Der Herrscher über alle Engel
+    - **Nachher:** Der Gebieter und Herrscher über alle Engel im Himmel
+
+### `off_007` (Offenbarung 2:10)
+- **Frage:** Welchen Lohn verheißt der Herr dem treuen Überwinder in der Gemeinde Smyrna?
+- **Richtige Antwort (unverändert, Option D):** Die Krone des Lebens
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Alle Schätze der Erde
+    - **Nachher:** Alle Schätze dieser Erde
+  - **Option B (Falsch):**
+    - **Vorher:** Die Herrschaft über heidnische Städte
+    - **Nachher:** Die Herrschaft über Städte
+  - **Option C (Falsch):**
+    - **Vorher:** Befreiung von jeder Arbeit
+    - **Nachher:** Befreiung von aller Mühsal
+
+### `off_010` (Offenbarung 2:20)
+- **Frage:** Welche falsche Prophetin duldet die Versammlung in Thyatira in ihrer Mitte?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Isebel, die sich eine Prophetin nennt
+    - **Nachher:** Die Frau Isebel
+  - **Option A (Falsch):**
+    - **Vorher:** Delila, die sich eine Prophetin nennt und das Volk verführt
+    - **Nachher:** Die Zauberin Herodia
+  - **Option B (Falsch):**
+    - **Vorher:** Athalja, die sich eine Prophetin nennt und die Heiligen lehrt
+    - **Nachher:** Die Prophetin Hulda
+  - **Option D (Falsch):**
+    - **Vorher:** Herodias, die sich eine Prophetin nennt und die Gemeinde verwirrt
+    - **Nachher:** Die Königin Athalia
+
+### `off_014` (Offenbarung 3:15-16)
+- **Frage:** Welcher geistliche Zustand kennzeichnet die laue Gemeinde Laodizea?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Sie ist lau, weder kalt noch heiß
+    - **Nachher:** Lau, und weder warm noch kalt im Glauben
+  - **Option A (Falsch):**
+    - **Vorher:** Sie brennt im Geist und ist voller Eifer
+    - **Nachher:** Heiß und ungeduldig im Warten auf das Ende
+  - **Option B (Falsch):**
+    - **Vorher:** Sie ist arm an Geld, aber reich im Glauben
+    - **Nachher:** Kalt und gleichgültig gegenüber dem Wort
+  - **Option D (Falsch):**
+    - **Vorher:** Sie fastet streng an jedem Tag
+    - **Nachher:** Fleißig, aber ohne aufrichtigen Glauben
+
+### `off_018` (Offenbarung 4:7)
+- **Frage:** Welche verschiedenen Gestalten besitzen die vier lebendigen Wesen am Thron?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Löwe, Stier, Menschenantlitz und fliegender Adler
+    - **Nachher:** Löwe, Kalb, Angesicht wie ein Mensch und fliegender Adler
+  - **Option A (Falsch):**
+    - **Vorher:** Bär, Leopard, Drache und Bock, wie sie Daniel in der Vision sah
+    - **Nachher:** Bär, Leopard, Drache und Widder nach der Schau des Daniel
+  - **Option B (Falsch):**
+    - **Vorher:** Taube, Lamm, Widder und feuriges Pferd, wie sie Sacharja sah
+    - **Nachher:** Taube, Lamm, Widder und feuriges Ross nach Sacharjas Schau
+  - **Option D (Falsch):**
+    - **Vorher:** Schlange, Wolf, Hirsch und Taube, wie sie die Weisen schildern
+    - **Nachher:** Wolf, Schlange, Hirsch und Adler nach den Worten der Alten
+
+### `off_022` (Offenbarung 5:4)
+- **Frage:** Warum weint Johannes im vierten Vers des fünften Kapitels bitterlich?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Weil niemand würdig war, das Buch zu öffnen und hineinzusehen
+    - **Nachher:** Weil niemand würdig erfunden wurde, die Buchrolle aufzutun
+  - **Option A (Falsch):**
+    - **Vorher:** Weil der Tempel zerstört war und die Stadt in Trümmern lag
+    - **Nachher:** Weil der Tempel zerstört war und die Stadt in Schutt lag
+  - **Option B (Falsch):**
+    - **Vorher:** Weil er auf Patmos nicht fliehen konnte und gefangen war
+    - **Nachher:** Weil er auf Patmos gefangen war und nicht fliehen konnte
+  - **Option D (Falsch):**
+    - **Vorher:** Weil die Heiligen auf Erden litten und verfolgt wurden
+    - **Nachher:** Weil die Gläubigen auf Erden litten und verfolgt wurden
+
+### `off_026` (Offenbarung 6:2)
+- **Frage:** Welches Pferd zieht beim Öffnen des ersten Siegels aus?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Ein weißes Pferd, dessen Reiter einen Bogen hatte
+    - **Nachher:** Ein weißes Pferd, und der darauf saß, hatte einen Bogen
+  - **Option A (Falsch):**
+    - **Vorher:** Ein feuerrotes Pferd mit einem Schwert
+    - **Nachher:** Ein feuerrotes Pferd, dessen Reiter ein Schwert trug
+  - **Option B (Falsch):**
+    - **Vorher:** Ein schwarzes Pferd mit einer Waage
+    - **Nachher:** Ein schwarzes Pferd, dessen Reiter eine Waage hielt
+  - **Option D (Falsch):**
+    - **Vorher:** Ein fahles Pferd, dessen Reiter der Tod ist
+    - **Nachher:** Ein grünes Pferd, und der Name des Reiters war der Tod
+
+### `off_027` (Offenbarung 6:4)
+- **Frage:** Welche Macht wird dem Reiter auf dem feuerroten Pferd gegeben?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Den Frieden von der Erde zu nehmen, dass sie einander erwürgten
+    - **Nachher:** Den Frieden von der Erde zu nehmen, dass sie einander hinschlachten
+  - **Option B (Falsch):**
+    - **Vorher:** Seuchen zu senden und das Vieh zu schlagen
+    - **Nachher:** Große Seuchen zu senden und das ganze Vieh zu schlagen
+  - **Option C (Falsch):**
+    - **Vorher:** Die Meere in Blut zu verwandeln und die Fische zu töten
+    - **Nachher:** Die Meere in Blut zu verwandeln und alle Fische zu töten
+
+### `off_030` (Offenbarung 6:9)
+- **Frage:** Wo befinden sich die Seelen der Umgebrachten beim Öffnen des fünften Siegels?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Unter dem Altar
+    - **Nachher:** Unten unter dem Altar Gottes
+  - **Option B (Falsch):**
+    - **Vorher:** In den Versammlungsräumen der Heiligen
+    - **Nachher:** In den Vorhöfen des Tempels
+  - **Option D (Falsch):**
+    - **Vorher:** Auf dem gläsernen Meer
+    - **Nachher:** Mitten auf dem gläsernen Meer
+
+### `off_033` (Offenbarung 7:9)
+- **Frage:** Was tragen die Erlösten aus allen Nationen in ihren Händen vor dem Thron?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Palmzweige in ihren Händen
+    - **Nachher:** Grüne Palmzweige in ihren Händen
+  - **Option A (Falsch):**
+    - **Vorher:** Goldene Becher voll Weihrauch
+    - **Nachher:** Goldene Kronen auf ihren Häuptern
+  - **Option C (Falsch):**
+    - **Vorher:** Kleine Schriften mit dem Namen Gottes
+    - **Nachher:** Brennende Fackeln in ihren Händen
+  - **Option D (Falsch):**
+    - **Vorher:** Schwerter des Geistes
+    - **Nachher:** Goldene Schalen voller Räucherwerk
+
+### `off_034` (Offenbarung 7:14)
+- **Frage:** Woher kommt die große Schar in den weißen Gewändern nach den Worten des Ältesten?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Aus der großen Bedrängnis
+    - **Nachher:** Aus der großen Trübsal der letzten Tage
+  - **Option A (Falsch):**
+    - **Vorher:** Aus dem Land Judäa
+    - **Nachher:** Aus den Gefängnissen und Kerkern des Kaisers
+  - **Option B (Falsch):**
+    - **Vorher:** Aus den Tempeln der römischen Städte
+    - **Nachher:** Aus den Wüsten und Höhlen der ganzen Erde
+  - **Option D (Falsch):**
+    - **Vorher:** Aus der Einsamkeit der Wüste
+    - **Nachher:** Aus den Tempeln der Heiden und Götzen
+
+### `off_038` (Offenbarung 8:7)
+- **Frage:** Was geschieht beim Schallen der ersten Posaune auf der Erde?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Hagel und Feuer, mit Blut vermengt, wurden auf die Erde geworfen
+    - **Nachher:** Hagel und Feuer, mit Blut vermischt, wurden auf die Erde geworfen
+  - **Option A (Falsch):**
+    - **Vorher:** Ein Drittel des Meeres wurde zu Blut, und Schiffe gingen unter
+    - **Nachher:** Ein Drittel des Meeres wurde zu Blut, und die Schiffe versanken
+  - **Option B (Falsch):**
+    - **Vorher:** Die Sonne verfinsterte sich, und der Mond verlor seinen Schein
+    - **Nachher:** Die Sonne verfinsterte sich ganz, und der Mond verlor allen Schein
+  - **Option D (Falsch):**
+    - **Vorher:** Der Brunnen des Abgrunds öffnete sich, und Rauch stieg auf
+    - **Nachher:** Der Brunnen des Abgrunds öffnete sich, und dichter Rauch stieg auf
+
+### `off_039` (Offenbarung 8:10-11)
+- **Frage:** Wie heißt der große brennende Stern, der beim dritten Posaunenstoß herabstürzt?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Wermut, der ein Drittel der Wasser bitter macht
+    - **Nachher:** Wermut, der den dritten Teil der Gewässer bitter macht
+  - **Option A (Falsch):**
+    - **Vorher:** Der Morgenstern, der ein Drittel der Wasser süß macht
+    - **Nachher:** Der Morgenstern, der den dritten Teil der Wasser süß macht
+  - **Option B (Falsch):**
+    - **Vorher:** Der Stern Orion, der ein Drittel der Quellen versiegen lässt
+    - **Nachher:** Der Stern Orion, der den dritten Teil der Quellen vertrocknet
+  - **Option C (Falsch):**
+    - **Vorher:** Der Stern der Himmelskönigin, der ein Drittel der Flüsse austrocknet
+    - **Nachher:** Der Stern Luzifer, der den dritten Teil aller Flüsse vergiftet
+
+### `off_040` (Offenbarung 8:13)
+- **Frage Vorher:** Welcher Vogel fliegt durch die Mitte des Himmels und ruft ein Wehe aus?
+- **Frage Nachher:** Wer fliegt durch die Mitte des Himmels und ruft ein Wehe aus?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Ein Adler
+    - **Nachher:** Ein fliegender Engel
+  - **Option B (Falsch):**
+    - **Vorher:** Eine weiße Taube
+    - **Nachher:** Ein fliegender Adler
+  - **Option C (Falsch):**
+    - **Vorher:** Ein feuriger Phönix
+    - **Nachher:** Ein mächtiger Cherub
+  - **Option D (Falsch):**
+    - **Vorher:** Ein schwarzer Rabe
+    - **Nachher:** Ein feuriger Seraph
+
+### `off_042` (Offenbarung 9:4)
+- **Frage Vorher:** Wem dürfen die Heuschrecken nach Offenbarung 9:4 keinen Schaden zufügen?
+- **Frage Nachher:** Wem dürfen die Heuschrecken nach Offenbarung 9:4 KEINEN Schaden zufügen?
+
+### `off_044` (Offenbarung 9:11)
+- **Frage:** Wer ist der König über die mörderischen Heuschrecken aus dem Abgrund?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Der Engel des Abgrunds, auf Hebräisch Abaddon, auf Griechisch Apollyon
+    - **Nachher:** Der Engel des Abgrunds, hebräisch Abaddon, griechisch Apollyon
+  - **Option B (Falsch):**
+    - **Vorher:** Der Statthalter von Rom, auf Latein Caesar, auf Griechisch Kyrios
+    - **Nachher:** Der Herrscher von Rom, lateinisch Caesar, im Griechischen Kyrios
+  - **Option C (Falsch):**
+    - **Vorher:** König Salomo, auf Hebräisch Jedidja, auf Griechisch Sophia
+    - **Nachher:** König Salomo aus Jerusalem, hebräisch Jedidja, griechisch Sophia
+  - **Option D (Falsch):**
+    - **Vorher:** Der falsche Prophet, auf Hebräisch Belial, auf Griechisch Satanas
+    - **Nachher:** Der Prophet der Bosheit, hebräisch Belial, griechisch Satanas
+
+### `off_045` (Offenbarung 9:14-15)
+- **Frage:** Wo waren die vier Engel gebunden, die bei der sechsten Posaune losgebunden werden?
+- **Richtige Antwort (unverändert, Option B):** Am großen Strom Euphrat
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Falsch):**
+    - **Vorher:** Am Berg Sinai
+    - **Nachher:** Am heiligen Berg Sinai
+  - **Option C (Falsch):**
+    - **Vorher:** Unter dem Altar im Tempel
+    - **Nachher:** Unter dem Tempelaltar
+
+### `off_046` (Offenbarung 10:2)
+- **Frage:** Was hält der starke Engel, der vom Himmel herabkommt, in seiner Hand?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Ein kleines aufgetanes Büchlein
+    - **Nachher:** Eine kleine geöffnete Buchrolle
+  - **Option A (Falsch):**
+    - **Vorher:** Eine goldene Krone mit sieben Edelsteinen
+    - **Nachher:** Eine goldene Krone mit Edelsteinen
+  - **Option B (Falsch):**
+    - **Vorher:** Das flammende Schwert des Gerichts
+    - **Nachher:** Ein flammendes Schwert des Gerichts
+  - **Option D (Falsch):**
+    - **Vorher:** Den goldenen Becher voll Zorn
+    - **Nachher:** Eine goldene Schale voll des Zorns
+
+### `off_047` (Offenbarung 10:2)
+- **Frage:** Wo stellt der starke Engel seine beiden Füße nieder?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Den rechten Fuß auf das Meer, den linken auf die Erde
+    - **Nachher:** Den rechten Fuß auf das Meer und den linken Fuß auf die Erde
+  - **Option A (Falsch):**
+    - **Vorher:** Beide Füße auf den Berg Zion, nach Osten gewandt
+    - **Nachher:** Den rechten Fuß auf den Ölberg und den linken auf den Tempelberg
+  - **Option B (Falsch):**
+    - **Vorher:** Beide Füße in die Versammlung der Heiligen und Engel
+    - **Nachher:** Den rechten Fuß auf den Himmel und den linken auf das Totenreich
+  - **Option C (Falsch):**
+    - **Vorher:** Den rechten Fuß auf den Berg, den linken auf die Wüste
+    - **Nachher:** Den rechten Fuß auf den Altar und den linken auf das Heiligtum
+
+### `off_048` (Offenbarung 10:3)
+- **Frage:** Was geschah, nachdem der Engel wie ein Löwe brüllte?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Die sieben Donner ließen ihre Stimmen erschallen
+    - **Nachher:** Die Stimmen der sieben Donner
+  - **Option B (Falsch):**
+    - **Vorher:** Ein Drittel der Bäume verbrannte, und alles grüne Gras verdorrte
+    - **Nachher:** Die Stimmen der sieben Posaunen
+  - **Option C (Falsch):**
+    - **Vorher:** Das Meer wurde zu Blut, und alle Lebewesen darin starben
+    - **Nachher:** Die Stimmen der sieben Geister
+  - **Option D (Falsch):**
+    - **Vorher:** Die Pforten des Abgrunds öffneten sich, und Heuschrecken stiegen auf
+    - **Nachher:** Die Stimmen der sieben Schalen
+
+### `off_052` (Offenbarung 11:3)
+- **Frage:** Wie lange weissagen die zwei Zeugen in Sacktuch gekleidet?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Eintausendzweihundertsechzig Tage
+    - **Nachher:** Tausendzweihundertsechzig Tage
+  - **Option B (Falsch):**
+    - **Vorher:** Eintausendzweihundertneunzig Tage
+    - **Nachher:** Sechzig Tage des Gerichts
+  - **Option C (Falsch):**
+    - **Vorher:** Eintausenddreihundertfünfunddreißig Tage
+    - **Nachher:** Dreihundertfünfundsechzig Tage
+  - **Option D (Falsch):**
+    - **Vorher:** Eintausendvierhundertsechzig Tage
+    - **Nachher:** Vierzig volle Tage und Nächte
+
+### `off_054` (Offenbarung 11:9)
+- **Frage:** Wie lange liegen die Leichname der zwei Zeugen auf der Straße der großen Stadt?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Dreieinhalb Tage
+    - **Nachher:** Drei Tage und einen halben
+  - **Option A (Falsch):**
+    - **Vorher:** Sieben Tage
+    - **Nachher:** Sieben Tage und Nächte
+  - **Option B (Falsch):**
+    - **Vorher:** Zwölf Tage
+    - **Nachher:** Zehn Tage des Wartens
+  - **Option D (Falsch):**
+    - **Vorher:** Einen Tag
+    - **Nachher:** Einen einzigen vollen Tag
+
+### `off_057` (Offenbarung 12:1)
+- **Frage:** Was trägt die Frau auf ihrem Haupt als königlichen Schmuck?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Eine Krone aus zwölf Sternen
+    - **Nachher:** Eine Krone von zwölf Sternen
+  - **Option A (Falsch):**
+    - **Vorher:** Eine goldene Krone mit sieben Edelsteinen
+    - **Nachher:** Eine goldene Krone mit Juwelen
+  - **Option C (Falsch):**
+    - **Vorher:** Einen Schleier aus Licht
+    - **Nachher:** Einen strahlenden Lichtschleier
+  - **Option D (Falsch):**
+    - **Vorher:** Eine Diamantenkrone
+    - **Nachher:** Ein Diadem aus edlen Diamanten
+
+### `off_060` (Offenbarung 12:7-8)
+- **Frage:** Wer kämpft im Himmel gegen den Drachen und seine Engel?
+- **Richtige Antwort (unverändert, Option A):** Michael und seine Engel
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Falsch):**
+    - **Vorher:** Der Apostel Paulus mit den Heiligen
+    - **Nachher:** Paulus und alle Apostel
+  - **Option C (Falsch):**
+    - **Vorher:** Melchisedek
+    - **Nachher:** Melchisedek der Priester
+
+### `off_070` (Offenbarung 14:14)
+- **Frage:** Womit ist Der sitzend auf der weißen Wolke gekrönt und bewaffnet?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Mit einer goldenen Krone auf dem Haupt und einer scharfen Sichel in der Hand
+    - **Nachher:** Eine scharfe Sichel zur Ernte
+  - **Option A (Falsch):**
+    - **Vorher:** Mit einer Silberkrone auf dem Haupt und einer eisernen Kette in der Hand
+    - **Nachher:** Ein flammendes Richtschwert
+  - **Option B (Falsch):**
+    - **Vorher:** Mit einer Sternenkrone auf dem Haupt und einem Flammenschwert in der Hand
+    - **Nachher:** Ein langes goldenes Zepter
+  - **Option D (Falsch):**
+    - **Vorher:** Mit der Krone des Lebens auf dem Haupt und einer goldenen Schale in der Hand
+    - **Nachher:** Eine hell brennende Fackel
+
+### `off_071` (Offenbarung 15:2)
+- **Frage:** Was halten die Sieger über das Tier am gläsernen Meer?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Harfen Gottes
+    - **Nachher:** Harfen Gottes in ihren Händen
+  - **Option A (Falsch):**
+    - **Vorher:** Goldene Becher mit Räucherwerk
+    - **Nachher:** Goldene Posaunen des Gerichts
+  - **Option B (Falsch):**
+    - **Vorher:** Sieben flammende Fackeln
+    - **Nachher:** Scharfe Schwerter des Himmels
+  - **Option C (Falsch):**
+    - **Vorher:** Schwerter des Geistes
+    - **Nachher:** Brennende Fackeln des Feuers
+
+### `off_075` (Offenbarung 15:8)
+- **Frage:** Wer konnte das Heiligtum betreten, bis die sieben Plagen vollendet waren?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Niemand
+    - **Nachher:** Niemand konnte hineingehen
+  - **Option A (Falsch):**
+    - **Vorher:** Nur die Ältesten
+    - **Nachher:** Nur der Hohepriester
+  - **Option B (Falsch):**
+    - **Vorher:** Nur der Erzengel Michael
+    - **Nachher:** Nur die sieben Engel
+  - **Option C (Falsch):**
+    - **Vorher:** Nur die sieben Engel
+    - **Nachher:** Die vierundzwanzig Ältesten
+
+### `off_080` (Offenbarung 16:13-14)
+- **Frage:** Welche drei unreinen Geister kommen aus dem Munde des Drachen, Tiers und Propheten?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Drei unreine Geister wie Frösche
+    - **Nachher:** Drei unreine Geister, gleich Fröschen
+  - **Option B (Falsch):**
+    - **Vorher:** Drei schwarze Raben, die auf die Könige der Erde herabstießen
+    - **Nachher:** Drei schwarze Raben der Zerstörung
+  - **Option C (Falsch):**
+    - **Vorher:** Drei giftige Schlangen, die die Könige der Erde bissen
+    - **Nachher:** Drei giftige Schlangen des Todes
+  - **Option D (Falsch):**
+    - **Vorher:** Drei mordende Wölfe, die die Könige der Erde bedrohten
+    - **Nachher:** Drei wilde Wölfe aus der Wüste
+
+### `off_081` (Offenbarung 17:1-3)
+- **Bibelstelle Vorher:** `Offenbarung 17:1; 17:3` -> **Nachher:** `Offenbarung 17:1-3`
+- **Frage:** Wo sitzt die große Hure nach der Schau im siebzehnten Kapitel?
+
+### `off_088` (Offenbarung 18:9-11)
+- **Frage:** Wer weint und klagt besonders über den plötzlichen Fall Babylons?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Die Könige der Erde und die Kaufleute
+    - **Nachher:** Die Könige der Erde und Kaufleute
+  - **Option B (Falsch):**
+    - **Vorher:** Die Engel des Himmels und alle Heiligen, die von ihrem Fall bewegt sind
+    - **Nachher:** Die Hohenpriester im Tempel
+  - **Option C (Falsch):**
+    - **Vorher:** Die vierundzwanzig Ältesten und die vier lebendigen Wesen am Thron
+    - **Nachher:** Die Scharen der Engel im Himmel
+  - **Option D (Falsch):**
+    - **Vorher:** Die versiegelten 144.000 und die Zeugen, die ihr Leben ließen
+    - **Nachher:** Alle Apostel und heiligen Zeugen
+
+### `off_091` (Offenbarung 19:1-3)
+- **Frage:** Welcher jubelnde Ruf ertönt im Himmel über den Fall der Hure Babylon?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Halleluja! Das Heil und die Kraft und die Herrlichkeit sind unseres Gottes
+    - **Nachher:** Das Heil, der Ruhm, die Ehre und die Macht sind unseres Gottes
+  - **Option A (Falsch):**
+    - **Vorher:** Sieg, Sieg, Gott hat gesiegt und das Böse endgültig überwunden
+    - **Nachher:** Ehre sei den Königen der Erde und ihren mächtigen Heeren
+  - **Option B (Falsch):**
+    - **Vorher:** Friede, Friede allen Völkern, denn der Krieg ist nun für immer beendet
+    - **Nachher:** Ruhm sei den Aposteln, die das Evangelium verkündigten
+  - **Option C (Falsch):**
+    - **Vorher:** Gerechtigkeit ist erschienen, und alles Unrecht ist nun für immer zerbrochen
+    - **Nachher:** Friede sei über Babylon, der Königin aller Völker
+
+### `off_092` (Offenbarung 19:7)
+- **Frage:** Welches freudige Ereignis wird im neunzehnten Kapitel angekündigt?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Die Hochzeit des Lammes, und seine Braut hat sich bereitet
+    - **Nachher:** Die Hochzeit des Lammes, und seine Frau hat sich bereitet
+  - **Option B (Falsch):**
+    - **Vorher:** Der Wiederaufbau des Tempels, und sein Haus ist bereitet
+    - **Nachher:** Der Untergang des Tempels, und die Stadt liegt wüst
+  - **Option C (Falsch):**
+    - **Vorher:** Das Ende aller Arbeit, und sein Volk ist zur Ruhe gekommen
+    - **Nachher:** Das Gericht über die Engel, und der Thron ist leer
+  - **Option D (Falsch):**
+    - **Vorher:** Die Krönung der Ältesten, und ihr Thron ist aufgerichtet
+    - **Nachher:** Die Krönung des Kaisers, und sein Reich ist vollendet
+
+### `off_093` (Offenbarung 19:8)
+- **Frage:** Woraus besteht die reine Leinwand der Braut des Lammes?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option B (Richtig):**
+    - **Vorher:** Sie bedeutet die Gerechtigkeit (die gerechten Taten) der Heiligen
+    - **Nachher:** Die Rechtstaten (die Gerechtigkeit) der Heiligen
+  - **Option A (Falsch):**
+    - **Vorher:** Die Gebete der Heiligen, die vor dem Thron aufsteigen und wohlgefällig sind
+    - **Nachher:** Die Opfergaben, die im Tempel dargebracht wurden
+  - **Option C (Falsch):**
+    - **Vorher:** Das Blut der Opfertiere, das ihre Kleider rein gemacht hat
+    - **Nachher:** Der Reichtum und das Gold, das sie erworben haben
+  - **Option D (Falsch):**
+    - **Vorher:** Das Gold der Kronen der Ältesten, das ihre Gewänder schmückt
+    - **Nachher:** Die Siege über die feindlichen Heere dieser Welt
+
+### `off_094` (Offenbarung 19:11-13)
+- **Bibelstelle Vorher:** `Offenbarung 19:11; 19:13` -> **Nachher:** `Offenbarung 19:11-13`
+- **Frage:** Welchen Namen trägt der siegreiche Reiter auf dem weißen Pferd?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Treu und Wahrhaftig; sein Name heißt: Das Wort Gottes
+    - **Nachher:** Ein weißes Pferd; Gewand in reines Blut getaucht
+  - **Option A (Falsch):**
+    - **Vorher:** Statthalter Gottes über die Völker und Richter der Lebenden und Toten
+    - **Nachher:** Ein schwarzes Pferd; Gewand in Purpur und Gold gehüllt
+  - **Option B (Falsch):**
+    - **Vorher:** Friedefürst aller Reiche und Herrscher der kommenden Welt
+    - **Nachher:** Ein feuerrotes Pferd; Gewand mit Löwenfell geschmückt
+  - **Option D (Falsch):**
+    - **Vorher:** König von Salem und Priester Gottes des Allerhöchsten
+    - **Nachher:** Ein grünes Pferd; Gewand aus glänzendem Silberstoff
+
+### `off_095` (Offenbarung 19:20)
+- **Frage:** Welches Schicksal erleiden das Tier und der falsche Prophet in der Schlacht?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Beide wurden lebendig in den feurigen Pfuhl geworfen, der mit Schwefel brennt
+    - **Nachher:** Beide wurden lebendig in den brennenden Feuersee geworfen
+  - **Option A (Falsch):**
+    - **Vorher:** Sie wurden für immer auf der Erde gefangen und in eiserne Ketten gelegt
+    - **Nachher:** Sie wurden auf ewig in Ketten im Kerker verwahrt
+  - **Option B (Falsch):**
+    - **Vorher:** Sie wurden von Engeln getötet und in die Tiefe des Abgrunds gestürzt
+    - **Nachher:** Sie wurden von Engeln getötet und ins Meer geworfen
+  - **Option C (Falsch):**
+    - **Vorher:** Sie wurden im Abgrund eingesperrt und tausend Jahre lang bewacht und versiegelt
+    - **Nachher:** Sie wurden im Abgrund für tausend Jahre versiegelt
+
+### `off_096` (Offenbarung 20:2)
+- **Frage:** Wie lange wird der Drache, die alte Schlange, im Abgrund gebunden?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option A (Richtig):**
+    - **Vorher:** Tausend Jahre
+    - **Nachher:** Tausend volle Jahre
+  - **Option C (Falsch):**
+    - **Vorher:** Fünfhundert Jahre
+    - **Nachher:** Fünfhundert Jahre lang
+
+### `off_098` (Offenbarung 20:3)
+- **Bibelstelle Vorher:** `Offenbarung 20:3; 20:7` -> **Nachher:** `Offenbarung 20:3`
+- **Frage:** Was geschieht mit Satan nach dem Ablauf der tausend Jahre?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Er wird für kurze Zeit losgelassen
+    - **Nachher:** Er muss noch für kurze Zeit losgelassen werden
+  - **Option A (Falsch):**
+    - **Vorher:** Er bleibt für immer im Abgrund
+    - **Nachher:** Er bleibt für immer im finsteren Abgrund
+  - **Option B (Falsch):**
+    - **Vorher:** Er wird sofort im Himmel aufgenommen
+    - **Nachher:** Er wird sofort im Himmel rein aufgenommen
+  - **Option D (Falsch):**
+    - **Vorher:** Er wird Herrscher über die Heiden
+    - **Nachher:** Er wird zum Herrscher über alle Heidenvölker
+
+### `off_099` (Offenbarung 20:8)
+- **Frage:** Welche Völker sammelt Satan zum letzten Kampf gegen das Lager der Heiligen?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Gog und Magog, an den vier Enden der Erde
+    - **Nachher:** Gog und Magog, die Völker an den vier Ecken der Erde
+  - **Option A (Falsch):**
+    - **Vorher:** Die Heere Roms und Phöniziens, an den vier Enden der Erde
+    - **Nachher:** Die Heere Roms und Phöniziens, an den vier Ecken der Erde
+  - **Option B (Falsch):**
+    - **Vorher:** Die Assyrer und Babylonier, an den vier Enden der Erde
+    - **Nachher:** Die Assyrer und Babylonier, an den vier Ecken der Erde
+  - **Option C (Falsch):**
+    - **Vorher:** Die Ägypter und Kuschiter, an den vier Enden der Erde
+    - **Nachher:** Die Ägypter und Kuschiter, an den vier Ecken der Erde
+
+### `off_103` (Offenbarung 21:2)
+- **Frage:** Wie kommt das neue Jerusalem vom Himmel herab bereitet?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Als eine für ihren Mann geschmückte Braut
+    - **Nachher:** Wie eine für ihren Mann geschmückte Braut
+  - **Option A (Falsch):**
+    - **Vorher:** Als eine Festung mit eisernen Toren
+    - **Nachher:** Wie eine feste Burg mit eisernen Toren
+  - **Option B (Falsch):**
+    - **Vorher:** Als ein goldener Tempel
+    - **Nachher:** Wie ein herrlicher Tempel aus purem Gold
+  - **Option C (Falsch):**
+    - **Vorher:** Als ein Licht der Engel
+    - **Nachher:** Wie ein strahlendes Zelt heiliger Engel
+
+### `off_105` (Offenbarung 21:22)
+- **Frage Vorher:** Warum sah Johannes keinen Tempel in der heiligen Stadt Jerusalem?
+- **Frage Nachher:** Warum sah Johannes KEINEN Tempel in der heiligen Stadt Jerusalem?
+
+### `off_106` (Offenbarung 22:1)
+- **Frage:** Was entspringt vom Thron Gottes und des Lammes in der neuen Stadt?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Richtig):**
+    - **Vorher:** Ein lauterer Strom von Wasser des Lebens, klar wie Kristall
+    - **Nachher:** Ein reiner Strom vom Wasser des Lebens, glänzend wie Kristall
+  - **Option A (Falsch):**
+    - **Vorher:** Ein Fluss aus flüssigem Gold, klar wie Kristall und fließend wie Wasser
+    - **Nachher:** Ein Strom aus flüssigem Gold, glänzend wie ein Kristall
+  - **Option B (Falsch):**
+    - **Vorher:** Ein feuriger Strom des Gerichts, der die Gottlosen verzehrt
+    - **Nachher:** Ein feuriger Strom des Gerichts, der alle Sünder verzehrt
+  - **Option D (Falsch):**
+    - **Vorher:** Ein Strom aus Engeln, die vom Thron Gottes ausgehen und dienen
+    - **Nachher:** Ein Scharenstrom heiliger Engel, die vor Gottes Throne knien
+
+### `off_107` (Offenbarung 22:2)
+- **Frage:** Wo steht der Baum des Lebens, und wie oft trägt er Früchte?
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option D (Richtig):**
+    - **Vorher:** Auf beiden Seiten des Stromes; er trägt zwölfmal Früchte, jeden Monat einmal
+    - **Nachher:** Zu beiden Seiten des Stromes; er trägt zwölfmal, jeden Monat Frucht
+  - **Option B (Falsch):**
+    - **Vorher:** Nur im Tempel der Stadt, mit sieben Früchten, jeden Tag eine
+    - **Nachher:** Nur im Tempel der Stadt, mit sieben Früchten, jeden Tag eine neue
+  - **Option C (Falsch):**
+    - **Vorher:** Vor dem Tor der Stadt, mit einundzwanzig Früchten, alle Jahre einmal
+    - **Nachher:** Vor dem Tor der Stadt, mit zwanzig Früchten, alle Jahre nur einmal
+
+### `off_108` (Offenbarung 22:2)
+- **Frage:** Wozu dienen die Blätter des Baumes des Lebens in der heiligen Stadt?
+- **Richtige Antwort (unverändert, Option A):** Zur Heilung der Völker
+- **Geänderte Auswahlmöglichkeiten:**
+  - **Option C (Falsch):**
+    - **Vorher:** Als Räucherwerk
+    - **Nachher:** Als wohlriechendes Werk
+  - **Option D (Falsch):**
+    - **Vorher:** Als Futter für die Tiere
+    - **Nachher:** Als Speise für die Tiere
+
+### `off_111` (Offenbarung 21:4)
+- **Frage Vorher:** Welche zwei Dinge wird es nach Offenbarung 21:4 nicht mehr geben?
+- **Frage Nachher:** Welche zwei Dinge wird es nach Offenbarung 21:4 NICHT mehr geben?
+
+### `off_112` (Offenbarung 2:1)
+- **Bibelstelle Vorher:** `Offenbarung 2:1; Offenbarung 2:8; Offenbarung 2:12; Offenbarung 2:18` -> **Nachher:** `Offenbarung 2:1`
+- **Frage:** Bringe die ersten vier Sendschreiben der Offenbarung in die richtige Reihenfolge.
+
+### `off_113` (Offenbarung 6:2)
+- **Bibelstelle Vorher:** `Offenbarung 6:2; Offenbarung 6:4; Offenbarung 6:5; Offenbarung 6:8` -> **Nachher:** `Offenbarung 6:2`
+- **Frage:** Bringe die vier Reiter der ersten vier Siegel nach ihrer Pferdefarbe in die richtige Reihenfolge.
