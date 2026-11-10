@@ -1541,7 +1541,7 @@
 
 - [ ] Er musste für sieben Jahre aus den Toren verbannt werden
 - [ ] Er wurde vor dem Tor der Stadt gesteinigt
-- [x] Er zahlt dem Vater 50 Silberlinge und muss sie heiraten
+- [x] Er gibt dem Vater fünfzig Schekel und muss sie heiraten
 - [ ] Er hatte das doppelte Lösegeld den Priestern zu geben
 
 **Bibelstelle:** 5. Mose 22:28-29

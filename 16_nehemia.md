@@ -299,8 +299,8 @@
 
 ### 30. Welche Abgabe legte die Gemeinde sich selbst jährlich für den Tempeldienst auf?
 
-- [ ] Einen ganzen Schekel Goldes von jedem wehrfähigen Mann im Lande
-- [x] Den dritten Teil eines Schekels zum Dienst im Hause unseres Gottes
+- [ ] Einen ganzen Silberling von jedem wehrfähigen Mann im Lande
+- [x] Den dritten Teil eines Silberlings zum Dienst im Hause unseres Gottes
 - [ ] Ein Zehntel allen Getreides für den Tisch des Landpflegers
 - [ ] Zwei fette Widder von jedem Hause zum jährlichen Passahfest
 

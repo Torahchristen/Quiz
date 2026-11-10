@@ -4850,13 +4850,13 @@
       "text": "Wie viel Manna sollte jeder Israelit pro Kopf für die Seelen in seinem Zelt täglich sammeln?",
       "options": [
         {
-          "text": "Genau zwei Omer für jeden Hausvater",
+          "text": "Genau zwei Gomer für jeden Hausvater",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "Ein halbes Omer für die Familie",
+          "text": "Ein halber Gomer für die Familie",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -4868,7 +4868,7 @@
           "isCorrect": false
         },
         {
-          "text": "Genau ein Omer pro Person im Zelt",
+          "text": "Genau ein Gomer pro Kopf im Zelt",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": true
@@ -4932,7 +4932,7 @@
           "isCorrect": false
         },
         {
-          "text": "Ein Omer davon vor dem Zeugnis aufbewahren",
+          "text": "Einen Gomer davon vor dem Zeugnis aufbewahren",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": true

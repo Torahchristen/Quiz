@@ -500,7 +500,7 @@
 ### 50. Auf welche Weise beschaffte Isebel den Weinberg Naboths für König Ahab?
 
 - [x] Sie ließ Naboth durch zwei heillose Zeugen falsch anklagen und steinigen
-- [ ] Sie kaufte das Erbteil mit tausend Schekeln Silber aus der Schatzkammer
+- [ ] Sie kaufte das Erbteil mit tausend Silberlingen aus der Schatzkammer
 - [ ] Sie vertrieb Naboths ganze Familie gewaltsam über die Grenze nach Moab
 - [ ] Sie ließ Naboth beim königlichen Gastmahl heimlich durch Gift umbringen
 

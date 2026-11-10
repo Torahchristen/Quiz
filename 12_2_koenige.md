@@ -50,7 +50,7 @@
 ### 5. Wie half Elisa der verarmten Witwe eines Prophetenjüngers vor ihren Gläubigern?
 
 - [x] Das Öl im Kruge mehrte sich, bis alle geliehenen Gefäße voll waren
-- [ ] Er schenkte ihr zehn Schekel Silber aus dem Schatz der Prophetenjünger
+- [ ] Er schenkte ihr zehn Silberlinge aus dem Schatz der Prophetenjünger
 - [ ] Er fand einen reichen Vorrat an Getreide in den geheimen Kammern der Stadt
 - [ ] Er befahl den Gläubigern im Namen des HERRN, alle Schulden zu erlassen
 
@@ -431,7 +431,7 @@
 
 - [ ] Er forderte Elia zum offenen Zweikampf vor dem Berge heraus
 - [x] Er beugte seine Knie vor Elia und bat um Schonung ihres Lebens
-- [ ] Er brachte Elia hundert Talente Silber als Schatz des Königs
+- [ ] Er brachte Elia hundert Zentner Silber als Schatz des Königs
 - [ ] Er floh mit seinen Kriegsknechten in die Felsen des Karmel
 
 **Bibelstelle:** 2. Könige 1:13-15
@@ -451,7 +451,7 @@
 
 - [ ] Zehntausend Zentner reines Gold aus den Minen Moabs
 - [ ] Tausend eherne Streitwagen und zweitausend Reitpferde
-- [ ] Jährlich fünfzigtausend Schekel Silber an den König
+- [ ] Jährlich fünfzigtausend Silberlinge an den König
 - [x] Die Wolle von hunderttausend Lämmern und hunderttausend Widdern
 
 **Bibelstelle:** 2. Könige 3:4
@@ -709,7 +709,7 @@
 
 ### 71. Mit welchen unterwürfigen Worten rief König Ahas von Juda Tiglat-Pileser zu Hilfe?
 
-- [ ] Hilf uns, denn wir zahlen dir jährlich tausend Talente Gold!
+- [ ] Hilf uns, denn wir zahlen dir jährlich tausend Zentner Gold!
 - [ ] Sei unser Schirmherr gegen den Pharao aus dem Lande Ägypten!
 - [x] Ich bin dein Knecht und dein Sohn; zieh herauf und errette mich!
 - [ ] Wir wollen deine Götter anbeten, wenn du unsere Feinde schlägst!

@@ -4013,7 +4013,7 @@
       "questionId": "ri_106",
       "type": "single_choice",
       "difficulty": "hard",
-      "text": "How many pieces of silver had Micah of Mount Ephraim originally taken from his mother?",
+      "text": "How many shekels of silver had Micah of mount Ephraim originally taken from his mother?",
       "options": [
         {
           "text": "The eleven hundred shekels of silver he had taken",
@@ -4022,7 +4022,7 @@
           "isCorrect": true
         },
         {
-          "text": "Five hundred pieces of silver from the chest",
+          "text": "Five hundred shekels of silver from the chest",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -4034,7 +4034,7 @@
           "isCorrect": false
         },
         {
-          "text": "Thirty pieces of silver from his mother's purse",
+          "text": "Thirty shekels of silver from his mother's purse",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -4051,7 +4051,7 @@
       "questionId": "ri_107",
       "type": "single_choice",
       "difficulty": "hard",
-      "text": "What did the founder make with two hundred pieces of silver for Micah's private house of gods?",
+      "text": "What did the founder make with two hundred shekels of silver for Micah's house of gods?",
       "options": [
         {
           "text": "A golden ark of the covenant for the holy tabernacle",

@@ -79,7 +79,7 @@
 
 ### 8. Welche Summe bot Haman dem König für den Befehl, alle Juden umzubringen?
 
-- [ ] Fünfzigtausend Schekel Goldes aus den Schatzkammern der Provinzen
+- [ ] Fünfzigtausend Lot Goldes aus den Schatzkammern der Provinzen
 - [ ] Einhundert edle Kriegspferde und zehn eherne Streitwagen mit Rossen
 - [ ] Fünftausend Rinder und zehntausend Schafe zur Speise des ganzen Hofes
 - [x] Zehntausend Zentner Silber, darzuwägen in die Kammer des Königs

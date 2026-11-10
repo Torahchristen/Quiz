@@ -200,8 +200,8 @@
 ### 20. Wie viel wog die goldene Krone des Königs von Rabba, die David fand?
 
 - [x] Einen Zentner Goldes samt Edelsteinen
-- [ ] Zehn Schekel reinsten Goldes im Ganzen
-- [ ] Fünfzig Schekel edles Silber aus Rabba
+- [ ] Zehn Lot reinsten Goldes im Ganzen
+- [ ] Fünfzig Silberlinge aus der Beute von Rabba
 - [ ] Zwei Zentner Erz aus den Schatzkammern
 
 **Bibelstelle:** 1. Chronik 20:1-2

@@ -1279,10 +1279,10 @@
 
 ### 128. Wie viel Manna sollte jeder Israelit pro Kopf für die Seelen in seinem Zelt täglich sammeln?
 
-- [ ] Genau zwei Omer für jeden Hausvater
-- [ ] Ein halbes Omer für die Familie
+- [ ] Genau zwei Gomer für jeden Hausvater
+- [ ] Ein halber Gomer für die Familie
 - [ ] Ein ganzes Epha für jeden Mann
-- [x] Genau ein Omer pro Person im Zelt
+- [x] Genau ein Gomer pro Kopf im Zelt
 
 **Bibelstelle:** 2. Mose 16:16
 **Erklärung:** Ein Gomer (oder Omer) entspricht etwa 2,2 Litern bzw. dem zehnten Teil eines Epha (2. Mose 16:36).
@@ -1300,7 +1300,7 @@
 ### 130. Was sollte Aaron auf Gottes Befehl hin mit einem Gefäß voll Manna für künftige Geschlechter tun?
 
 - [ ] Es auf dem Brandopferaltar verbrennen
-- [x] Ein Omer davon vor dem Zeugnis aufbewahren
+- [x] Einen Gomer davon vor dem Zeugnis aufbewahren
 - [ ] Es unter den hebräischen Armen verteilen
 - [ ] Es mit wertvollem Salböl für Priester salben
 

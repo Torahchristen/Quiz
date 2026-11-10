@@ -661,7 +661,7 @@
 
 - [ ] Die Kriegsknechte Joabs stürmten nachts die Mauern der Festung
 - [ ] Ein schweres Erdbeben riss die Wälle der bedrängten Stadt nieder
-- [ ] Die Bürger zahlten zehntausend Schekel Silber als Brandschatzung
+- [ ] Die Bürger zahlten zehntausend Silberlinge als Brandschatzung
 - [x] Ein weises Weib veranlasste, dass Schebas Kopf über die Mauer geworfen ward
 
 **Bibelstelle:** 2. Samuel 20:16-22
@@ -679,7 +679,7 @@
 
 ### 68. Was verlangten die Gibeoniter zur Sühnung der Blutschuld des Hauses Sauls?
 
-- [ ] Zehntausend Schekel Gold aus den königlichen Schatzkammern zu Jerusalem
+- [ ] Zehntausend Lot Gold aus den königlichen Schatzkammern zu Jerusalem
 - [x] Dass sieben Männer von Sauls Söhnen ihnen gegeben werden zum Aufhängen
 - [ ] Dass alle Städte des Stammes Benjamin den Gibeonitern übergeben würden
 - [ ] Ein jährliches Sühnopfer von hundert Stieren vor dem Zelt des HERRN
