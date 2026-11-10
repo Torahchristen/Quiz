@@ -329,10 +329,10 @@
 
 ### 33. Welcher Name wird Jerusalem im elften Kapitel feierlich beigelegt?
 
-- [ ] Die Festung des Südens wider alle feindlichen Heere
-- [ ] Die herrliche Krone der Könige am Rande der Wüste
-- [ ] Der Zufluchtsort aller Völker von Medien und Persien
-- [x] Die heilige Stadt des Gottesreiches in Israel
+- [ ] Die Festung des Südens
+- [ ] Die Krone der Könige
+- [ ] Die Zuflucht der Völker
+- [x] Die heilige Stadt
 
 **Bibelstelle:** Nehemia 11:1
 **Erklärung:** 

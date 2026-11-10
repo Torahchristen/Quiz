@@ -27,19 +27,19 @@
 **Bibelstelle:** Apostelgeschichte 1:9-12
 **Erklärung:** 
 
-### 3. Welcher Name trug die Stätte, die von dem Lohn der Ungerechtigkeit gekauft wurde?
+### 3. Welchen Namen trug die Stätte, die von dem Lohn der Ungerechtigkeit gekauft wurde?
 
 - [ ] Golgatha, das heißt Schädelstätte
 - [ ] Gethsemane, das heißt Ölkelter
 - [ ] Bethesda, das heißt Haus der Barmherzigkeit
-- [x] Hakeldama, das heißt Blutacker
+- [x] Akeldama, das heißt Blutacker
 
 **Bibelstelle:** Apostelgeschichte 1:18-19
 **Erklärung:** 
 
 ### 4. Welche zwei Männer wurden für die Nachfolge im Apostelamt aufgestellt?
 
-- [x] Josef, genannt Barsabbas, und Matthias
+- [x] Joseph, genannt Barsabas, und Matthias
 - [ ] Barnabas und Silas, die Begleiter des Paulus
 - [ ] Timotheus und Titus, die jungen Mitarbeiter
 - [ ] Stephanus und Philippus, zwei der Sieben
@@ -52,7 +52,7 @@
 - [ ] Durch die Wahl der Ältesten
 - [x] Durch das Werfen des Loses
 - [ ] Durch ein Zeichen des Himmels
-- [ ] Durch den Beschluss aller da
+- [ ] Durch einen Beschluss der Gemeinde
 
 **Bibelstelle:** Apostelgeschichte 1:24-26
 **Erklärung:** 
@@ -89,15 +89,15 @@
 
 ### 9. Wie viele Seelen schlossen sich nach der Predigt des Petrus der Gemeinde an?
 
-- [ ] Etwa eintausend Menschen
+- [ ] Etwa eintausend Seelen
 - [x] Etwa dreitausend Seelen
-- [ ] Etwa fünftausend Gläubige
-- [ ] Etwa siebenhundert Männer
+- [ ] Etwa fünftausend Seelen
+- [ ] Etwa siebenhundert Seelen
 
 **Bibelstelle:** Apostelgeschichte 2:41
 **Erklärung:** 
 
-### 10. Was taten die Gläubigen in der Urgemeinde täglich mit ihrem Gemeinschaftsbesitz?
+### 10. Was taten die Gläubigen der Urgemeinde mit ihren Gütern und ihrer Habe?
 
 - [ ] Sie vergruben das Geld im Acker und hielten es dort für schlechte Zeiten
 - [ ] Sie schenkten alles den Römern, um Frieden im Land zu erkaufen
@@ -107,7 +107,7 @@
 **Bibelstelle:** Apostelgeschichte 2:44-45
 **Erklärung:** 
 
-### 11. An welcher Pforte des jerusalemer Tempels saß der von Geburt an gelähmte Mann?
+### 11. An welcher Pforte des Jerusalemer Tempels saß der von Geburt an gelähmte Mann?
 
 - [ ] An der Goldenen Pforte
 - [ ] An der Schafpforte
@@ -137,7 +137,7 @@
 **Bibelstelle:** Apostelgeschichte 3:7-8
 **Erklärung:** 
 
-### 14. An welchem Säulengang im Tempel lief das erstaunte Volk zu den Aposteln zusammen?
+### 14. In welchem Säulengang im Tempel lief das erstaunte Volk zu den Aposteln zusammen?
 
 - [ ] In der Halle des Herodes
 - [ ] In der Halle der Priester
@@ -159,7 +159,7 @@
 
 ### 16. Welcher Glaubensinhalt der Apostel veranlasste die Priester zur Festnahme?
 
-- [x] Die Verkündigung der Auferstehung der Toten in Jesus
+- [x] Die Verkündigung der Auferstehung von den Toten in Jesus
 - [ ] Die Verweigerung der Steuern, die der Kaiser von den Juden forderte
 - [ ] Der Abbruch des Heiligtums, den sie im Namen Jesu angekündigt hatten
 - [ ] Der Verkauf von Feldern, dessen Erlös sie dem Tempel vorenthielten
@@ -181,7 +181,7 @@
 
 - [ ] Alle Namen sind gleich gut, wenn man nur aufrichtig und von Herzen an Gott glaubt
 - [ ] Das Gesetz Moses bringt die Rettung, wenn man es genau und von ganzem Herzen befolgt
-- [x] In keinem andern ist das Heil; kein anderer Name unter dem Himmel ist gegeben
+- [x] In keinem anderen ist die Rettung; kein anderer Name unter dem Himmel ist gegeben
 - [ ] Der Tempel sichert das Leben, solange man dort die vorgeschriebenen Opfer darbringt
 
 **Bibelstelle:** Apostelgeschichte 4:10-12
@@ -189,15 +189,15 @@
 
 ### 19. Welcher Begriff bezeichnet nach Psalm 118 den von den Bauleuten verworfenen Stein?
 
-- [ ] Er ist zum Stolperstein geworden
+- [ ] Er ist zum Grenzstein geworden
 - [ ] Er ist zum Gedenkstein geworden
-- [ ] Er ist zum Grundstein der Mauer geworden
+- [ ] Er ist zum Mühlstein geworden
 - [x] Er ist zum Eckstein geworden
 
 **Bibelstelle:** Apostelgeschichte 4:11
 **Erklärung:** 
 
-### 20. Was bedeutet der Beiname Barnabas, den die Apostel dem Leviten Josef gaben?
+### 20. Was bedeutet der Beiname Barnabas, den die Apostel dem Leviten Joses gaben?
 
 - [x] Sohn des Trostes
 - [ ] Sohn der Stärke
@@ -210,14 +210,14 @@
 ### 21. Welches Ehepaar belog den Heiligen Geist beim Verkauf ihres Ackerlandes?
 
 - [ ] Aquila und Priszilla
-- [x] Hananias und Saphira
+- [x] Ananias und Saphira
 - [ ] Zacharias und Elisabeth
 - [ ] Felix und Drusilla
 
 **Bibelstelle:** Apostelgeschichte 5:1-3
 **Erklärung:** 
 
-### 22. Welches Schicksal traf Hananias unmittelbar nach der Überführung durch Petrus?
+### 22. Welches Schicksal traf Ananias unmittelbar nach der Überführung durch Petrus?
 
 - [ ] Er erblindete vor aller Menge
 - [ ] Er floh sogleich in die Wüste
@@ -227,12 +227,12 @@
 **Bibelstelle:** Apostelgeschichte 5:4-5
 **Erklärung:** 
 
-### 23. Welches Phänomen bewirkte Heilung, als Petrus durch die Straßen ging?
+### 23. Was erhofften die Leute für die Kranken, die sie auf die Gassen trugen, wenn Petrus vorüberkam?
 
 - [ ] Dass sein Mantel sie berührte, der ihm über die Schulter hing
 - [ ] Dass seine Stimme sie rief, wenn er an ihnen vorüberging
 - [ ] Dass sein Blick sie traf, wenn er sie freundlich ansah
-- [x] Dass wenigstens sein Schatten einen von ihnen überschatte
+- [x] Dass auch nur sein Schatten einen von ihnen überschattete
 
 **Bibelstelle:** Apostelgeschichte 5:15-16
 **Erklärung:** 
@@ -279,7 +279,7 @@
 
 ### 28. Welcher unter den sieben gewählten Diakonen zeichnete sich durch Wunder aus?
 
-- [x] Stephanus, voll Gnade
+- [x] Stephanus, voll Glauben und Kraft
 - [ ] Nikolaus von Antiochia
 - [ ] Timon, einer der Sieben
 - [ ] Parmenas aus Jerusalem
@@ -307,10 +307,10 @@
 **Bibelstelle:** Apostelgeschichte 6:15
 **Erklärung:** 
 
-### 31. An welchem Ort erschien Gott dem Erzvater Abraham vor der Siedlung in Haran?
+### 31. Wo erschien nach der Rede des Stephanus der Gott der Herrlichkeit dem Erzvater Abraham?
 
 - [ ] In Ägypten, ehe er in Kanaan wohnte
-- [ ] In Kanaan, ehe er nach Ägypten zog
+- [ ] In Damaskus, ehe er nach Ägypten zog
 - [ ] In Beerscheba, ehe er in Gerar wohnte
 - [x] In Mesopotamien, ehe er in Haran wohnte
 
@@ -330,7 +330,7 @@
 ### 33. Welcher Sohn Jakobs wurde von seinen Brüdern aus Neid nach Ägypten verkauft?
 
 - [ ] Ruben, der erstgeborene Sohn
-- [x] Joseph, von Brüdern beneidet
+- [x] Joseph, der Sohn Rahels
 - [ ] Benjamin, der jüngste Bruder
 - [ ] Juda, der vierte Sohn Jakobs
 
@@ -397,7 +397,7 @@
 **Bibelstelle:** Apostelgeschichte 8:28-35
 **Erklärung:** 
 
-### 40. Was veranlasste den Kämmerer aus Äthiopien zur Bitte um die Taufe am Wege?
+### 40. Was sah der Kämmerer aus Äthiopien unterwegs, sodass er um die Taufe bat?
 
 - [x] Ein Wasser am Weg
 - [ ] Ein Brunnen in der Stadt
@@ -427,12 +427,12 @@
 **Bibelstelle:** Apostelgeschichte 9:9
 **Erklärung:** 
 
-### 43. Welcher Jünger in Damaskus wurde von Gott gesandt, um Saulus Hände aufzulegen?
+### 43. Welchen Jünger sandte der Herr, um Saulus die Hände aufzulegen?
 
 - [ ] Der Apostel Petrus aus Jerusalem
 - [ ] Barnabas, ein Levit aus Zypern
 - [ ] Philippus, der Evangelist aus Cäsarea
-- [x] Hananias, ein Jünger in Damaskus
+- [x] Ananias, ein Jünger in Damaskus
 
 **Bibelstelle:** Apostelgeschichte 9:10-17
 **Erklärung:** 
@@ -447,10 +447,10 @@
 **Bibelstelle:** Apostelgeschichte 9:23-25
 **Erklärung:** 
 
-### 45. Welche gläubige Frau in Joppe (Tabitha) erweckte Petrus durch Gebet vom Tode?
+### 45. Welche gläubige Frau in Joppe, reich an guten Werken, erweckte Petrus durch Gebet vom Tode?
 
 - [ ] Lydia, die Purpurhändlerin
-- [x] Tabita, die Dorkas genannt wird
+- [x] Tabitha, was übersetzt «Gazelle» heißt
 - [ ] Rhode, die junge Magd im Hause
 - [ ] Drusilla, die Edelfrau aus Rom
 
@@ -597,7 +597,7 @@
 **Bibelstelle:** Apostelgeschichte 12:21-23
 **Erklärung:** 
 
-### 60. Welcher Neffe begleitete Barnabas und Saulus bei der Rückkehr nach Antiochia?
+### 60. Wen nahmen Barnabas und Saulus bei ihrer Rückkehr von Jerusalem mit sich?
 
 - [x] Johannes, der auch Markus genannt wird
 - [ ] Timotheus aus Lystra, der Sohn einer Jüdin
@@ -620,7 +620,7 @@
 ### 62. Welcher Zauberer und falsche Prophet wurde auf Zypern mit Blindheit geschlagen?
 
 - [ ] Simon, der Zauberer
-- [ ] Barjesus, der Pharisäer
+- [ ] Theudas, der Aufrührer
 - [x] Elymas, der Zauberer
 - [ ] Alexander, der Schmied
 
@@ -689,7 +689,7 @@
 
 ### 69. Welches Amt setzten die Apostel beim Rückweg in den einzelnen Gemeinden ein?
 
-- [ ] Bischöfe für jede Gegend
+- [ ] Schriftgelehrte für jede Stadt
 - [x] Älteste in jeder Gemeinde
 - [ ] Priester nach dem Gesetz
 - [ ] Diakone für die Armen
@@ -700,9 +700,9 @@
 ### 70. An welchem Ort berichteten die Heimgekehrten von der Öffnung der Glaubenstür?
 
 - [ ] In der heiligen Stadt Jerusalem
-- [ ] In der Hafenstadt Tarsus in Asien
+- [ ] In der Stadt Tarsus in Zilizien
 - [x] In der großen Gemeinde Antiochia
-- [ ] In der Provinzstadt Ephesus dort
+- [ ] In der Stadt Ephesus in Asien
 
 **Bibelstelle:** Apostelgeschichte 14:26-27
 **Erklärung:** 
@@ -725,7 +725,7 @@
 - [ ] Matthäus, der ehemalige Zöllner
 
 **Bibelstelle:** Apostelgeschichte 15:13-21
-**Erklärung:** 
+**Erklärung:** Jakobus, der Bruder des Johannes, war bereits hingerichtet worden (Apg 12:2). Der hier redende Jakobus ist der Bruder des Herrn, den Paulus zu den Aposteln zählt (Gal 1:19; 2:9).
 
 ### 73. Welche Enthaltungen wurden den gläubigen Heiden im Aposteldekret auferlegt?
 
@@ -799,7 +799,7 @@
 
 ### 80. Was verhinderte die Selbsttötung des Kerkermeisters in der Nacht von Philippi?
 
-- [x] Paulus rief laut: Tu dir nichts an, wir sind alle hier!
+- [x] Paulus rief laut: Tue dir nichts Übles an, denn wir sind alle hier!
 - [ ] Das Eingreifen römischer Soldaten, die ihm das Schwert entrissen
 - [ ] Eine plötzliche Lähmung seiner Hand, die das Schwert fallen ließ
 - [ ] Der Hilferuf des Silas, der ihn aus dem Kerker zurückrief
@@ -817,7 +817,7 @@
 **Bibelstelle:** Apostelgeschichte 17:10-11
 **Erklärung:** 
 
-### 82. Welcher Umstand erboste den Geist des Paulus beim Betreten der Stadt Athen?
+### 82. Welcher Umstand stachelte den Geist des Paulus auf, während er in Athen wartete?
 
 - [ ] Die Armut des Volkes und der Hunger
 - [ ] Der Schmutz der Straßen und Märkte
@@ -827,7 +827,7 @@
 **Bibelstelle:** Apostelgeschichte 17:16
 **Erklärung:** 
 
-### 83. Auf welchem Felsenhügel hielt Paulus Seine bekannte Rede vor den Athenern?
+### 83. Auf welchem Felsenhügel hielt Paulus seine bekannte Rede vor den Athenern?
 
 - [ ] Auf dem Zionsberg
 - [ ] Auf dem Ölberg
@@ -837,7 +837,7 @@
 **Bibelstelle:** Apostelgeschichte 17:19-22
 **Erklärung:** 
 
-### 84. Welchen Altar wählte Paulus als Anknüpfungspunkt für Seine Predigt in Athen?
+### 84. Welchen Altar wählte Paulus als Anknüpfungspunkt für seine Predigt in Athen?
 
 - [x] Dem unbekannten Gott
 - [ ] Dem höchsten Jupiter
@@ -941,7 +941,7 @@
 
 - [ ] Zehntausend Goldmünzen
 - [ ] Hunderttausend Heller
-- [x] Fünfzigtausend Silberstücke
+- [x] Fünfzigtausend Silberlinge
 - [ ] Zwanzigtausend Talente
 
 **Bibelstelle:** Apostelgeschichte 19:18-19
@@ -951,13 +951,13 @@
 
 - [ ] Alexander, der Schmied
 - [ ] Hermogenes, der Silberschmied
-- [ ] Korinthos, der Goldschmied
+- [ ] Trophimus, der Goldschmied
 - [x] Demetrius, der Silberschmied
 
 **Bibelstelle:** Apostelgeschichte 19:24-27
 **Erklärung:** 
 
-### 96. Welcher Jüngling viel während der Predigt des Paulus in Troas aus dem Fenster?
+### 96. Welcher Jüngling fiel während der Predigt des Paulus in Troas aus dem Fenster?
 
 - [x] Eutychus
 - [ ] Tychikus
@@ -967,7 +967,7 @@
 **Bibelstelle:** Apostelgeschichte 20:7-9
 **Erklärung:** 
 
-### 97. Aus welchem Stockwerk stürzte Eutychus hinab, ehe Paulus ihn ins Leben rief?
+### 97. Aus welchem Stockwerk stürzte Eutychus während der langen Rede des Paulus hinab?
 
 - [ ] Aus dem zweiten Stock
 - [x] Aus dem dritten Stock
@@ -1007,12 +1007,12 @@
 **Bibelstelle:** Apostelgeschichte 20:35
 **Erklärung:** 
 
-### 101. Welcher Prophet bindet sich mit dem Gürtel des Paulus und weissagte Fesselung?
+### 101. Welcher Prophet band sich mit dem Gürtel des Paulus und weissagte dessen Fesselung?
 
 - [ ] Silas, der Prophet
 - [x] Agabus aus Judäa
 - [ ] Judas, der Zeuge
-- [ ] Barnabas der Levite
+- [ ] Barnabas, der Levit
 
 **Bibelstelle:** Apostelgeschichte 21:10-11
 **Erklärung:** 
@@ -1021,7 +1021,7 @@
 
 - [ ] Beim Hauptmann Kornelius, der ihn bei sich aufnahm und bewirtete
 - [ ] Beim Propheten Agabus, der ihm ein Haus am Hafen zur Verfügung stellte
-- [x] Beim Evangelisten Philippus, einem der sieben
+- [x] Beim Evangelisten Philippus, der einer von den Sieben war
 - [ ] Beim Ältesten Mnason, der ihn in seinem Haus bewirtete und beherbergte
 
 **Bibelstelle:** Apostelgeschichte 21:8-9
@@ -1031,7 +1031,7 @@
 
 - [ ] Er sollte Titus beschneiden lassen und dies im Tempel vor allen bezeugen
 - [ ] Er sollte ein Passalamm schlachten und es mit den Brüdern im Tempel essen
-- [ ] Er sollte dem Hofrat eine Spende geben und im Tempel öffentlich beten
+- [ ] Er sollte dem Tempelschatz eine Spende geben und im Tempel öffentlich beten
 - [x] Er sollte vier Männer, die ein Gelübde hatten, begleiten und die Reinigungsopfer bezahlen
 
 **Bibelstelle:** Apostelgeschichte 21:23-26
@@ -1040,7 +1040,7 @@
 ### 104. Welcher fälschliche Vorwurf entfachte den Tumult der asiatischen Juden?
 
 - [x] Er habe Griechen in den Tempel geführt und die heilige Stätte entweiht
-- [ ] Er habe das Gesetz gestohlen und den Tempelschatz an sich genommen
+- [ ] Er habe die heiligen Geräte gestohlen und den Tempelschatz geraubt
 - [ ] Er habe die Römer aufgehetzt und das Volk gegen den Hohenpriester gewendet
 - [ ] Er habe die Opfer verweigert und die Feste des Herrn missachtet
 
@@ -1054,10 +1054,10 @@
 - [ ] Der Statthalter Festus
 - [ ] Der Prokonsul Gallio
 
-**Bibelstelle:** Apostelgeschichte 23:26
+**Bibelstelle:** Apostelgeschichte 23:26-27
 **Erklärung:** 
 
-### 106. In welcher Sprache richtete Paulus Seine Verteidigungsrede an das Volk?
+### 106. In welcher Sprache richtete Paulus seine Verteidigungsrede an das Volk?
 
 - [ ] In griechischer Sprache des Volkes
 - [ ] In lateinischer Sprache der Römer
@@ -1121,7 +1121,7 @@
 
 - [x] Die Auferstehung der Toten
 - [ ] Die Bezahlung von Steuern
-- [ ] Das Opferdienst im Tempel
+- [ ] Der Opferdienst im Tempel
 - [ ] Der Neubau des Heiligtums
 
 **Bibelstelle:** Apostelgeschichte 23:6-8
@@ -1137,12 +1137,12 @@
 **Bibelstelle:** Apostelgeschichte 23:12-22
 **Erklärung:** 
 
-### 114. Wie viele Soldaten begleiteten Paulus in der Nacht nach Cäsarea?
+### 114. Wie viele Mann ließ der Oberst bereitstellen, um Paulus bei Nacht nach Cäsarea zu bringen?
 
-- [ ] Zweihundertachtzig (100 Soldaten, 80 Reiter, 100 Lanzenträger)
-- [ ] Dreihundertfünfzig (150 Soldaten, 50 Reiter, 150 Lanzenträger)
-- [x] Vierhundertsiebzig (200 Soldaten, 70 Reiter, 200 Lanzenträger)
-- [ ] Fünfhundertzwanzig (250 Soldaten, 70 Reiter, 200 Lanzenträger)
+- [ ] Zweihundertachtzig (100 Soldaten, 80 Reiter, 100 Schleuderer)
+- [ ] Dreihundertfünfzig (150 Soldaten, 50 Reiter, 150 Schleuderer)
+- [x] Vierhundertsiebzig (200 Soldaten, 70 Reiter, 200 Schleuderer)
+- [ ] Fünfhundertzwanzig (250 Soldaten, 70 Reiter, 200 Schleuderer)
 
 **Bibelstelle:** Apostelgeschichte 23:23-24
 **Erklärung:** 
@@ -1177,11 +1177,11 @@
 **Bibelstelle:** Apostelgeschichte 24:5-6
 **Erklärung:** 
 
-### 118. Welches Urteil fällte Statthalter Felix nach der Verteidigungsrede des Paulus?
+### 118. Wie verfuhr Statthalter Felix nach der Verteidigungsrede des Paulus?
 
 - [ ] Er sprach ihn sofort frei und ließ ihn ohne Auflage ziehen
 - [ ] Er ließ ihn sofort geißeln und zur Strafe ins Gefängnis werfen
-- [x] Er vertagte die Entscheidung, bis Lysias komme
+- [x] Er vertagte die Entscheidung, bis der Oberst Lysias herabkomme
 - [ ] Er schickte ihn nach Rom zum Kaiser, damit dieser entscheide
 
 **Bibelstelle:** Apostelgeschichte 24:22-23
@@ -1237,7 +1237,7 @@
 **Bibelstelle:** Apostelgeschichte 25:13-22
 **Erklärung:** 
 
-### 124. Welcher Vorwurf bezüglich Jesu lag nach Festus zwischen Paulus und den Juden?
+### 124. Welche Streitfrage um Jesus bestand laut Festus zwischen Paulus und den Juden?
 
 - [x] Ob ein gestorbener Jesus lebe
 - [ ] Ob der Tempel wieder gebaut werde
@@ -1257,7 +1257,7 @@
 **Bibelstelle:** Apostelgeschichte 25:12
 **Erklärung:** 
 
-### 126. Welcher jüdischen Sonderpartei gehörte Paulus vor Seiner Bekehrung an?
+### 126. Welcher jüdischen Sonderpartei gehörte Paulus vor seiner Bekehrung an?
 
 - [ ] Der Partei der Sadduzäer
 - [ ] Der Partei der Essener
@@ -1267,7 +1267,7 @@
 **Bibelstelle:** Apostelgeschichte 26:4-5
 **Erklärung:** 
 
-### 127. Welches alttestamentliche Bild gebrauchte die Himmelsstimme bei der Berufung?
+### 127. Welches sprichwörtliche Bild gebrauchte die Himmelsstimme bei der Berufung?
 
 - [ ] Es wird dir schwer werden, gegen die Felsen zu rennen
 - [ ] Es wird dir schwer werden, gegen das Feuer zu kämpfen
@@ -1277,7 +1277,7 @@
 **Bibelstelle:** Apostelgeschichte 26:14
 **Erklärung:** 
 
-### 128. Welchen Vorwurf rief Festus dazwischen, als Paulus Seine Rede beendete?
+### 128. Welchen Vorwurf rief Festus dazwischen, als Paulus sich vor Agrippa verteidigte?
 
 - [x] Paulus, du bist von Sinnen! Das viele Studieren bringt dich um den Verstand!
 - [ ] Paulus, du hast das heilige Gesetz übertreten und die Väter verleugnet!
@@ -1297,17 +1297,17 @@
 **Bibelstelle:** Apostelgeschichte 26:28-29
 **Erklärung:** 
 
-### 130. Welches Urteil fällte Agrippa nach dem Ende der Redevorstellung des Paulus?
+### 130. Welches Urteil fällte Agrippa nach der Verteidigungsrede des Paulus?
 
 - [ ] Er verdient die Geißelung, denn er hat den Frieden des Landes ernstlich gestört
 - [ ] Er soll nach Jerusalem zurück, wo der Hohe Rat in Ruhe über ihn urteilen soll
-- [x] Dieser Mensch hätte freigelassen werden können, wenn er sich nicht auf den Kaiser berufen hätte
+- [x] Man könnte diesen Menschen freilassen, wenn er sich nicht auf den Kaiser berufen hätte
 - [ ] Er muss sofort sterben, weil er die Ordnung der Römer schwer verletzt hat
 
 **Bibelstelle:** Apostelgeschichte 26:31-32
 **Erklärung:** 
 
-### 131. Welcher römische Hauptmann leitete die Gefangenentransportfahrt nach Rom?
+### 131. Welcher römische Hauptmann leitete den Gefangenentransport nach Rom?
 
 - [ ] Kornelius, ein Hauptmann der italischen Kohorte
 - [ ] Klaudius Lysias, Oberst der Garnison in Jerusalem
@@ -1317,12 +1317,12 @@
 **Bibelstelle:** Apostelgeschichte 27:1-3
 **Erklärung:** 
 
-### 132. Welcher Seewind erfasste das Schiff nahe der Insel Kreta und trieb es fort?
+### 132. Welcher Sturmwind erfasste das Schiff nahe der Insel Kreta und trieb es fort?
 
-- [x] Der Wirbelsturm Eurakylon (Nordostwind)
-- [ ] Der Südwind Notos (Südwind) vom Meer her
-- [ ] Der Westwind Zephyros (Westwind) von Italien
-- [ ] Der Südostwind Euros (Ostwind) vom Land her
+- [x] Der Wirbelsturm Euroklydon (Nordostwind)
+- [ ] Der Notos (Südwind) vom Meer her
+- [ ] Der Zephyros (Westwind) von Italien her
+- [ ] Der Euros (Ostwind) vom Land her
 
 **Bibelstelle:** Apostelgeschichte 27:14-15
 **Erklärung:** 
@@ -1359,10 +1359,10 @@
 
 ### 136. Auf welcher Insel strandete die Schiffsmannschaft nach dem Schiffbruch?
 
-- [x] Auf Zypern
+- [ ] Auf Zypern
 - [ ] Auf Kreta
 - [ ] Auf Rhodos
-- [ ] Auf Melite
+- [x] Auf Melite
 
 **Bibelstelle:** Apostelgeschichte 28:1
 **Erklärung:** 
@@ -1377,7 +1377,7 @@
 **Bibelstelle:** Apostelgeschichte 28:3-6
 **Erklärung:** 
 
-### 138. Welcher Vater eines Vornehmen auf Malta wurde durch Gebet des Paulus geheilt?
+### 138. Wessen Vater heilte Paulus auf der Insel Melite durch Gebet und Handauflegung?
 
 - [ ] Der Vater des Julius, des Hauptmanns der kaiserlichen Kohorte
 - [ ] Der Vater des Festus, des Statthalters der Provinz
@@ -1451,9 +1451,9 @@
 
 - [x] Stephanus wird vor der Stadt gesteinigt
 - [x] Der Heilige Geist wird an Pfingsten gesandt
-- [x] Das Apostelkonzil versammelt sich in Zion
+- [x] Das Apostelkonzil versammelt sich in Jerusalem
 - [x] Der Geist fällt auf Kornelius und sein Haus
 - [x] Saulus wird in der Stadt Damaskus getauft
 
-**Bibelstelle:** Apostelgeschichte 1:8
+**Bibelstelle:** Apostelgeschichte 2:1-4; 7:57-60; 9:18; 10:44; 15:6
 **Erklärung:** 

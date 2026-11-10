@@ -189,7 +189,7 @@
 
 ### 19. Worin besteht die Liebe nach 1. Johannes 4:10?
 
-- [ ] Dass wir Gott zuerst aus ganzem Herzen liebten und darum erhörten
+- [ ] Dass wir Gott zuerst aus ganzem Herzen liebten und er uns darum erhörte
 - [ ] Dass wir alle Gesetze vollkommen hielten und seinen Segen erwarben
 - [ ] Dass wir viele Gaben im Tempel opferten und seine Gunst empfingen
 - [x] Dass er uns geliebt hat und seinen Sohn sandte als Sühnopfer
@@ -250,9 +250,9 @@
 ### 25. Wovor warnt Johannes die Kindlein in 1. Johannes 5:21?
 
 - [ ] Hütet euch vor der Verfolgung
-- [x] Hütet euch vor den Götzen hier
+- [x] Hütet euch vor den Götzen
 - [ ] Hütet euch vor dem Verlust von Gut
-- [ ] Hütet euch vor fremden Lehrern da
+- [ ] Hütet euch vor fremden Lehrern
 
 **Bibelstelle:** 1. Johannes 5:21
 **Erklärung:** 

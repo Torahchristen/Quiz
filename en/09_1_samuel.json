@@ -76,7 +76,7 @@
           "isCorrect": false
         },
         {
-          "text": "To give him unto the LORD all the days of life",
+          "text": "To give him unto the LORD all the days of his life",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": true
@@ -175,28 +175,28 @@
       "questionId": "1sam_005",
       "type": "single_choice",
       "difficulty": "medium",
-      "text": "What garment did Hannah make and bring unto young Samuel from year to year at Shiloh?",
+      "text": "With what did Hannah provide her son Samuel from year to year when she came up to Shiloh?",
       "options": [
         {
-          "text": "A white linen mitre consecrated by the priests",
+          "text": "With a new robe of purple",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "A little coat which she made and brought to him",
+          "text": "With a little coat which she herself had made",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": true
         },
         {
-          "text": "A golden girdle embroidered with blue and purple",
+          "text": "With a leathern girdle after the manner of the priests",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "A pair of soft leather shoes for the holy courts",
+          "text": "With a golden headband for the ministry",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -213,16 +213,16 @@
       "questionId": "1sam_006",
       "type": "single_choice",
       "difficulty": "hard",
-      "text": "How did Hophni and Phinehas, the corrupt sons of Eli, profane the sacrifices in Shiloh?",
+      "text": "How did Hophni and Phinehas, the wicked sons of Eli, behave in the service of the sacrifices at Shiloh?",
       "options": [
         {
-          "text": "They offered strange incense upon the golden hearth",
+          "text": "They required a double tribute of silver of the people",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "They stole the consecrated gold vessels of the table",
+          "text": "They refused to slay the beasts for the sacrifices",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -234,7 +234,7 @@
           "isCorrect": true
         },
         {
-          "text": "They refused to admit the poor into the tabernacle",
+          "text": "They served the idols of the Philistines in secret",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -254,25 +254,25 @@
       "text": "What severe sentence of judgment did a man of God pronounce upon the house of Eli?",
       "options": [
         {
-          "text": "They shall be carried away into perpetual exile",
+          "text": "All his kinsmen shall be driven out into Moab",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "Their cities shall be destroyed by fire from heaven",
+          "text": "The tabernacle shall be burnt with fire forthwith",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "They shall be smitten with an incurable white plague",
+          "text": "The priesthood shall be given unto the Philistines",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "All the increase of his house shall die in their youth",
+          "text": "All the increase of his house shall die in the flower of their age",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": true
@@ -298,19 +298,19 @@
           "isCorrect": true
         },
         {
-          "text": "Seven times did the voice call him from the ark",
+          "text": "Exactly twice did the voice call him",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "Twice did the voice call him in the dark night",
+          "text": "Exactly four times did the voice call from the altar",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "Four times before the high priest understood",
+          "text": "Exactly seven times, after the holy number",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -330,7 +330,7 @@
       "text": "What words did Eli teach Samuel to answer if the voice of the LORD should call him again?",
       "options": [
         {
-          "text": "Hear, O Lord, and deliver the house of thy servant",
+          "text": "Hear, O God, for thy servant bringeth an offering",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -342,13 +342,13 @@
           "isCorrect": true
         },
         {
-          "text": "Arise, O God, and judge the sins of the congregation",
+          "text": "Here am I, thy priest in the sanctuary",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "Command thy servant, for I am ready to obey thee",
+          "text": "Forgive the sins of my father's house",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -374,7 +374,7 @@
           "isCorrect": false
         },
         {
-          "text": "From Bethel unto the coast of the great sea",
+          "text": "From Beth-el unto the coast of the great sea",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -403,22 +403,22 @@
       "questionId": "1sam_011",
       "type": "single_choice",
       "difficulty": "medium",
-      "text": "What sacred object did Israel fetch from Shiloh after their first defeat at Ebenezer?",
+      "text": "What holy thing did the Israelites fetch into the camp after their first defeat at Eben-ezer?",
       "options": [
         {
-          "text": "The ark of the covenant of the LORD out of Shiloh",
+          "text": "The golden candlestick out of the sanctuary",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "The brazen altar of burnt offering from the court",
+          "text": "The brazen serpent from the days in the wilderness",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "The sacred urim and thummim borne by the Levites",
+          "text": "The tabernacle of the congregation with the vessels of offering",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
@@ -450,19 +450,19 @@
           "isCorrect": true
         },
         {
-          "text": "They immediately dispatched ambassadors to sue for peace",
+          "text": "They fled forthwith into their cities by the sea coast",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "They offered thirty talents of silver unto the high priest",
+          "text": "They laughed at the shouting of the Israelites",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "They retreated into their five coastal strongholds in haste",
+          "text": "They straightway required conditions of peace",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -482,7 +482,7 @@
       "text": "How many footmen of Israel fell in the second disastrous battle against the Philistines?",
       "options": [
         {
-          "text": "Twelve thousand warriors of the eastern tribes",
+          "text": "Exactly four thousand men on the first day",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -494,13 +494,13 @@
           "isCorrect": true
         },
         {
-          "text": "Ten thousand seasoned spearmen of the tribe Judah",
+          "text": "Exactly twelve thousand warriors of the tribes",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "Forty thousand archers overthrown in the field",
+          "text": "Exactly seventy thousand men in the camp",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -520,13 +520,13 @@
       "text": "What double catastrophe befell the priestly house of Eli in that grievous battle?",
       "options": [
         {
-          "text": "The city of Shiloh was burned and the priests captured",
+          "text": "Eli lost his sight and was carried away captive",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "The holy vessels were broken and the altar overthrown",
+          "text": "The tabernacle was utterly burned by the Philistines",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -538,7 +538,7 @@
           "isCorrect": true
         },
         {
-          "text": "The tabernacle was spoiled and thirty priests slain",
+          "text": "All the priests were carried away as bondmen to Ashdod",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -558,19 +558,19 @@
       "text": "How old was Eli when he fell backward from his seat upon hearing that the ark was taken?",
       "options": [
         {
-          "text": "Seventy years old after judging the house of Israel",
+          "text": "Exactly fourscore years old was Eli",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "A hundred and twenty years old, matching Moses' age",
+          "text": "Exactly an hundred years old in his office",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "Eighty-four years of age when he served at Shiloh",
+          "text": "Exactly threescore and fifteen years old in the sanctuary",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
@@ -596,25 +596,25 @@
       "text": "What name did Phinehas' dying wife give to her newborn son upon hearing the tidings?",
       "options": [
         {
-          "text": "Ichabod (saying: The glory is departed from Israel)",
+          "text": "I-chabod (saying: The glory is departed from Israel)",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": true
         },
         {
-          "text": "Benoni (saying: The son of my sorrow and weeping)",
+          "text": "Samuel, in remembrance of the promise",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "Ebenezer (saying: Hitherto hath the LORD helped us)",
+          "text": "Eben-ezer, after the place of the battle",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "Ahimelech (saying: My brother is king over the house)",
+          "text": "Baruch, as a comfort in the heavy hour",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -634,7 +634,7 @@
       "text": "Into which heathen temple in Ashdod did the Philistines bring the captured ark of God?",
       "options": [
         {
-          "text": "Into the high palace of King Achish the ruler",
+          "text": "Into the house of Baal near the sea coast",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -646,13 +646,13 @@
           "isCorrect": true
         },
         {
-          "text": "Into the temple of Baal-zebub the lord of Ekron",
+          "text": "Into the house of Ashtaroth upon the mountains",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "Into the fortress storehouse of the coastal lords",
+          "text": "Into the stronghold of the king of Askelon",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -672,13 +672,13 @@
       "text": "What happened to the idol Dagon on the morning after the ark of God was set beside it?",
       "options": [
         {
-          "text": "Dagon was shattered into fine dust by lightning",
+          "text": "The roof of the house fell in upon itself",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "The idol was consumed by a sudden celestial fire",
+          "text": "The image crumbled straightway into dust",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -690,7 +690,7 @@
           "isCorrect": true
         },
         {
-          "text": "The statue was turned into a coarse block of stone",
+          "text": "Dagon was filled with devouring fire",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -754,19 +754,19 @@
           "isCorrect": true
         },
         {
-          "text": "Exactly twelve months matching the course of a year",
+          "text": "Exactly three months in Ekron",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "Three full years until the great famine had ceased",
+          "text": "Exactly one whole year by the reckoning",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "Forty days corresponding to the challenge of Goliath",
+          "text": "Exactly forty days in the house of Dagon",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -824,13 +824,13 @@
       "text": "What beasts did the Philistines tie to the new cart bearing the ark of the LORD?",
       "options": [
         {
-          "text": "Four strong horses taken from the royal chariots",
+          "text": "Two wild stallions out of the king's stables",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "Two young bulls that had been trained to the yoke",
+          "text": "Four strong oxen from the fields of Gath",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -842,7 +842,7 @@
           "isCorrect": true
         },
         {
-          "text": "Six asses chosen from the herds of the five lords",
+          "text": "Two mules out of the treasures of the merchants",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -862,19 +862,19 @@
       "text": "Whither did the two kine bear the ark of God, turning not aside to the right or to the left?",
       "options": [
         {
-          "text": "Unto the mountain refuge city of Hebron in Judah",
+          "text": "Unto Shiloh, the city of the priests, at the tabernacle of God",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "Unto the court of the tabernacle rebuilt at Shiloh",
+          "text": "Unto the stronghold of Jerusalem in the hill country",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "Unto the house of Abinadab in the hill of Kirjath",
+          "text": "Unto Mizpeh to the assembly of the people",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
@@ -906,19 +906,19 @@
           "isCorrect": true
         },
         {
-          "text": "Because they touched the golden mice with unwashed hands",
+          "text": "Because they had robbed the gold of the trespass offering",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "Because they delayed to send tidings unto Samuel at Ramah",
+          "text": "Because they burned the cart before the altars",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "Because they offered strange fire upon the great stone",
+          "text": "Because they stripped the flesh from the kine",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -938,7 +938,7 @@
       "text": "Into whose house in Kirjath-jearim was the ark of the LORD fetched from Beth-shemesh?",
       "options": [
         {
-          "text": "Into the house of Jesse the father of King David",
+          "text": "Into the tent of the priests upon mount Tabor",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -950,13 +950,13 @@
           "isCorrect": true
         },
         {
-          "text": "Into the palace of the chief ruler of the Gibeonites",
+          "text": "Into the dwelling of the prophet Samuel at Ramah",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "Into the dwelling of Eleazar the priest at Anathoth",
+          "text": "Into the stronghold of Caleb the mighty man at Hebron",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -973,28 +973,28 @@
       "questionId": "1sam_026",
       "type": "single_choice",
       "difficulty": "hard",
-      "text": "How many years did the ark of the LORD abide in Kirjath-jearim while all Israel lamented?",
+      "text": "How many years were past since the ark abode in Kirjath-jearim, when all the house of Israel lamented after the LORD?",
       "options": [
         {
-          "text": "Seven years until Saul was anointed king over Israel",
+          "text": "Exactly seven years in that place",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "Forty years during the judgeship of holy Samuel",
+          "text": "Exactly forty years, as once in the wilderness",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "And it was so, that the ark abode there twenty years",
+          "text": "Exactly twenty years",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": true
         },
         {
-          "text": "Twelve years until David brought it up into Zion",
+          "text": "Exactly ten years in the keeping of Eleazar",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -1058,7 +1058,7 @@
           "isCorrect": true
         },
         {
-          "text": "At the ancient altar of sacrifice in Bethel",
+          "text": "At the ancient altar of sacrifice in Beth-el",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -1140,13 +1140,13 @@
           "isCorrect": false
         },
         {
-          "text": "He called the name of it Ebenezer (the stone of help)",
+          "text": "He called the name of it Eben-ezer (the stone of help)",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": true
         },
         {
-          "text": "He called the name of it Bethel (the house of God)",
+          "text": "He called the name of it Beth-el (the house of God)",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -1184,7 +1184,7 @@
           "isCorrect": false
         },
         {
-          "text": "In circuit to Bethel, and Gilgal, and Mizpeh, and Ramah",
+          "text": "In circuit to Beth-el, and Gilgal, and Mizpeh, and Ramah",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": true
@@ -1812,25 +1812,25 @@
       "text": "What immediate consequence did Samuel announce unto Saul for his disobedience at Gilgal?",
       "options": [
         {
-          "text": "Thy kingdom shall not continue; LORD sought a man",
+          "text": "His kingdom should not continue",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": true
         },
         {
-          "text": "The Philistines shall burn thy palace in Gibeah",
+          "text": "He should straightway be smitten with leprosy",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "Thy sons shall be carried captive beyond the river",
+          "text": "The people should forthwith put him down",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "Thou shalt be smitten with incurable leprosy of brow",
+          "text": "His sons should fall by the sword in battle",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -1850,25 +1850,25 @@
       "text": "Why was there no smith found throughout all the land of Israel in the early days of Saul?",
       "options": [
         {
-          "text": "Because all the craftsmen had perished in the famine",
+          "text": "There lacked coal and wood in the mountains",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "Philistines said: Lest Hebrews make swords or spears",
+          "text": "For the Philistines said, Lest the Hebrews make them swords or spears",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": true
         },
         {
-          "text": "Because the law of Moses strictly forbade iron tools",
+          "text": "The priest forbade the melting of iron",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "Because all iron mines had been exhausted in the hills",
+          "text": "The people had given all their iron unto the sanctuary",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -1926,25 +1926,25 @@
       "text": "What sign of divine favor did Jonathan propose before climbing up the rock to the garrison?",
       "options": [
         {
-          "text": "If they cast three javelins down into the ravine",
+          "text": "If the watch should flee before them",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "If they sound the silver trumpet of warning in camp",
+          "text": "If a strong wind should roar in the valley",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "If they flee away into the hidden caves of the hill",
+          "text": "If the warriors should lay down their weapons",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "If they say thus: Come up unto us; for LORD delivered",
+          "text": "If they say thus, Come up unto us",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": true
@@ -2040,25 +2040,25 @@
       "text": "Into what grievous sin was the famished army driven after the victory over Philistia?",
       "options": [
         {
-          "text": "They plundered the holy sanctuary of the priests Nob",
+          "text": "They plundered the sanctuary at Nob",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "They assaulted the peaceful homes of the Gibeonites",
+          "text": "They fell upon the dwellings of the Gibeonites",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "They slew cattle on ground, and did eat with blood",
+          "text": "They slew the cattle and did eat them with the blood",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": true
         },
         {
-          "text": "They refused to obey the commandments of anointed king",
+          "text": "They refused to serve the king any longer",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -2116,25 +2116,25 @@
       "text": "What explicit divine command did Samuel give unto King Saul concerning the nation of Amalek?",
       "options": [
         {
-          "text": "Smite Amalek, and utterly destroy all that they have",
+          "text": "Utterly destroy them, and slay both man and woman",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": true
         },
         {
-          "text": "Exact only a yearly tribute of silver from cities",
+          "text": "Take only tribute of their rich cities",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "Spare the women and take warriors captive in war",
+          "text": "Spare the women and take the warriors captive",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "Drive their herds as a consecrated offering Gilgal",
+          "text": "Bring their herds as an offering unto Gilgal",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -2154,7 +2154,7 @@
       "text": "Which royal enemy did Saul spare alive, contrary to the commandment of the LORD?",
       "options": [
         {
-          "text": "Nahash the king of the children of Ammon in east",
+          "text": "King Nahash of the children of Ammon",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -2166,13 +2166,13 @@
           "isCorrect": true
         },
         {
-          "text": "Jabin the ruler of the northern stronghold Hazor",
+          "text": "King Jabin out of the strongholds of the north",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "Adoni-zedek the ancient mountain king Jerusalem",
+          "text": "King Adoni-zedek of the hill city of Jerusalem",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -2493,7 +2493,7 @@
       "questionId": "1sam_066",
       "type": "single_choice",
       "difficulty": "medium",
-      "text": "Unto whom in Beth-lehem did the LORD send Samuel to anoint a new king?",
+      "text": "Unto whom did the LORD send Samuel to anoint a new king?",
       "options": [
         {
           "id": "opt_1",
@@ -2648,13 +2648,13 @@
       "text": "What was the extraordinary stature of Goliath, the champion of the Philistines of Gath?",
       "options": [
         {
-          "text": "Seven cubits according to the ancient measure of the giants",
+          "text": "Exactly four cubits and a span was his height",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "Exactly five cubits from the sole of his foot to his crown",
+          "text": "Exactly five cubits and two spans was his height",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -2666,7 +2666,7 @@
           "isCorrect": true
         },
         {
-          "text": "Four cubits and a cubit's breadth above all other warriors",
+          "text": "Exactly seven cubits and a span was his height",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -3262,7 +3262,7 @@
           "isCorrect": false
         },
         {
-          "text": "The altar city of Bethel near the south borders",
+          "text": "The altar city of Beth-el near the south borders",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -3350,7 +3350,7 @@
           "isCorrect": false
         },
         {
-          "text": "He was a priest ministering upon Bethel heights",
+          "text": "He was a priest ministering upon Beth-el heights",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -3557,7 +3557,7 @@
       "questionId": "1sam_094",
       "type": "single_choice",
       "difficulty": "easy",
-      "text": "What grim prophecy did the apparition of Samuel announce unto King Saul at En-dor?",
+      "text": "What grim prophecy did the apparition of Samuel announce unto King Saul at Endor?",
       "options": [
         {
           "text": "The holy tabernacle shall be removed to Zion",
@@ -3636,25 +3636,25 @@
       "text": "What disaster did David and his men discover upon their return to the city of Ziklag?",
       "options": [
         {
-          "text": "The Amalekites had burned Ziklag and taken women",
+          "text": "The Amalekites had burned Ziklag and taken the women captives",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": true
         },
         {
-          "text": "Saul's warriors had overthrown and slain the men",
+          "text": "Saul's warriors had taken Ziklag and slain the men",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "The men of Judah had plundered their possessions",
+          "text": "The Philistines had spoiled Ziklag and slain all that dwelt therein",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "A great fire had consumed the city to ashes",
+          "text": "An earthquake had overthrown the city, and many had perished",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -3937,7 +3937,7 @@
       "questionId": "1sam_108",
       "type": "single_choice",
       "difficulty": "easy",
-      "text": "How did Saul react when David showed him in the cave that he had spared his life?",
+      "text": "How did Saul react when David, having gone out of the cave after him, showed him that he had spared his life?",
       "options": [
         {
           "text": "He ordered his warriors immediately to assault David's men",
@@ -3969,7 +3969,7 @@
       ],
       "explanation": "",
       "explanationReviewed": false,
-      "bibleReference": "1 Samuel 24:16-19"
+      "bibleReference": "1 Samuel 24:16-20"
     },
     {
       "questionId": "1sam_110",

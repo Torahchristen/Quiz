@@ -59,7 +59,7 @@
 
 ### 6. Mit welchen Reden machte das Volk den HERRN unwillig (Maleachi 2:17)?
 
-- [ ] Der HERR ist nicht gerecht, denn er lässt die Bösen ungestraft leben
+- [ ] Der HERR ist fern, denn er wohnt nicht mehr in seinem Tempel
 - [ ] Der HERR hat uns vergessen, denn er hört unser Gebet und unser Flehen nicht
 - [x] Wer Böses tut, gefällt dem HERRN; oder: Wo ist der Gott, der da strafe?
 - [ ] Der HERR hat uns verlassen, denn er hilft den Frommen in der Not nicht
@@ -70,7 +70,7 @@
 ### 7. Wen kündigt der HERR in Maleachi 3:1 an?
 
 - [ ] Einen König aus Davids Haus, der dem Volk den Weg bereitet und im Tempel herrscht
-- [ ] Den Propheten Elia, der den Weg bereitet, und dann den Engel des Bundes
+- [ ] Den Propheten Mose, der das Gesetz aufs Neue schreibt und das Volk zum Tempel führt
 - [ ] Den Hohenpriester Aaron, der den Weg bereitet, und dann den Fürsten im Tempel
 - [x] Seinen Engel, der den Weg bereitet, und dann den Engel des Bundes in seinem Tempel
 
@@ -162,7 +162,7 @@
 - [ ] Hat nicht jeder Stamm seinen eigenen Gott?
 - [ ] Ist nicht der Vater größer als der Sohn?
 - [x] Hat uns nicht ein Gott geschaffen?
-- [x] Haben wir nicht alle einen Vater?
+- [x] Haben nicht alle einen Vater?
 
 **Bibelstelle:** Maleachi 2:10
 **Erklärung:** 
@@ -182,7 +182,7 @@
 - [ ] Ich bin der HERR und ziehe mich von meinem Volk zurück
 - [ ] Ich bin der HERR und ändere den Bund mit den Geschlechtern
 - [ ] Ich bin der HERR und vergesse die Missetat der Väter nicht
-- [x] Ich bin der HERR und wandle mich nicht in Ewigkeit
+- [x] Ich bin der HERR und wandle mich nicht
 
 **Bibelstelle:** Maleachi 3:6
 **Erklärung:** 

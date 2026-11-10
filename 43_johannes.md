@@ -87,7 +87,7 @@
 **Bibelstelle:** Johannes 2:18-22
 **Erklärung:** 
 
-### 9. Warum anvertraute Sich Jesus den vielen Glaubenden in Jerusalem nicht an?
+### 9. Warum vertraute Sich Jesus den vielen Glaubenden in Jerusalem nicht an?
 
 - [ ] Weil sie kein Geld besaßen und seinem Dienst nichts beitragen konnten
 - [x] Weil er alle kannte und wusste, was im Menschen war
@@ -117,9 +117,9 @@
 **Bibelstelle:** Johannes 3:1-2
 **Erklärung:** 
 
-### 12. Welche Bedingung nannte Jesus für das Schauen des Reiches Gottes?
+### 12. Welche Bedingung nannte Jesus für das Eingehen in das Reich Gottes?
 
-- [x] Wenn jemand nicht aus Wasser und Geist geboren wird, kann er nicht in das Reich Gottes eingehen
+- [x] Wenn jemand nicht aus Wasser und Geist geboren wird, so kann er nicht in das Königreich Gottes eingehen
 - [ ] Wer alle Satzungen der Väter genau hält und keine einzige Vorschrift jemals auslässt
 - [ ] Wer drei Jahre lang im Heiligtum fastet und dort Tag und Nacht zu Gott fleht und betet
 - [ ] Wer reichlich den Armen spendet und sein ganzes weltliches Vermögen willig verteilt
@@ -147,7 +147,7 @@
 **Bibelstelle:** Johannes 3:16
 **Erklärung:** 
 
-### 15. Welches Haltungswort sprach der Täufer Johannes bezüglich Seines Verhältnisses zu Christus?
+### 15. Welches Haltungswort sprach der Täufer Johannes bezüglich seines Verhältnisses zu Christus?
 
 - [ ] Er muss abnehmen, ich muss wachsen
 - [ ] Wir sind beide gleich vor Gott
@@ -301,18 +301,18 @@
 
 - [ ] Du bist der König von Israel, der das Reich Davids aufrichten wird
 - [ ] Du bist der Wiedergekommene, von dem die Propheten geredet haben
-- [x] Herr, wohin sollen wir gehen? Du hast Worte des ewigen Lebens
+- [x] Herr, zu wem sollen wir gehen? Du hast Worte ewigen Lebens
 - [ ] Du bist der Hohepriester, der den Bund für uns erneuern wird
 
 **Bibelstelle:** Johannes 6:68-69
 **Erklärung:** 
 
-### 31. Warum glaubten die leiblichen Brüder Jesu zunächst nicht an Ihn?
+### 31. Wie erklärt Johannes, dass Jesu Brüder Ihn drängten, nach Judäa zu ziehen und Sich der Welt zu offenbaren?
 
-- [ ] Weil sie das Gesetz verwarfen und die Gebote des Mose nicht achteten
-- [ ] Weil sie den Tempel mieden und in Nazareth bleiben wollten
-- [ ] Weil sie die Römer fürchteten und keine Unruhe im Haus wollten
-- [x] Weil sie rein menschlich dachten und nicht an ihn glaubten
+- [ ] Sie wollten ihn vor den Juden in Galiläa schützen
+- [ ] Sie wollten selbst als seine Jünger anerkannt werden
+- [ ] Seine Mutter Maria hatte es ihnen aufgetragen
+- [x] Auch seine Brüder glaubten nicht an ihn
 
 **Bibelstelle:** Johannes 7:3-5
 **Erklärung:** 
@@ -447,10 +447,10 @@
 **Bibelstelle:** Johannes 9:22-34
 **Erklärung:** 
 
-### 45. Welche Haltung vollzog der Geheilte, als Jesus Sich ihm als Menschensohn offenbarte?
+### 45. Wie reagierte der Geheilte, als Jesus Sich ihm als Sohn Gottes offenbarte?
 
-- [ ] Er floh voller Furcht vor dem Menschensohn und verbarg sich
-- [x] Er sagte: Herr, ich glaube, und betete ihn an
+- [ ] Er floh voller Furcht vor ihm und verbarg sich
+- [x] Er sprach: Ich glaube, Herr! und fiel vor ihm nieder
 - [ ] Er dankte ihm mit Geld und brachte ein Opfer dar
 - [ ] Er ging hin und schwieg über alles, was er erlebt hatte
 
@@ -521,7 +521,7 @@
 
 - [x] Ich bin die Auferstehung und das Leben
 - [ ] Weine nicht, dein Bruder schläft nur
-- [ ] Dein Bruder wird am Ende der Tage leben
+- [ ] Dein Bruder ruht in Abrahams Schoß
 - [ ] Alle Menschen müssen sterben
 
 **Bibelstelle:** Johannes 11:25-26
@@ -592,7 +592,7 @@
 - [ ] Ich werde die Römer richten
 - [ ] Ich werde einen Tempel bauen
 - [ ] Ich werde das Gold sammeln
-- [x] Ich will alle zu mir ziehen
+- [x] Ich werde alle zu mir ziehen
 
 **Bibelstelle:** Johannes 12:32-33
 **Erklärung:** 
@@ -621,20 +621,20 @@
 
 - [ ] Er dankte ihm mit lauter Stimme und beugte sich demütig vor ihm nieder
 - [ ] Er wusch alsbald dem Herrn die Füße und begann mit den anderen Jüngern
-- [x] Keinesfalls bis in alle Ewigkeit sollst du mir die Füße waschen, Herr!
+- [x] Keinesfalls bis in Ewigkeit sollst du mir die Füße waschen!
 - [ ] Er verließ den Saal aus Scham, weil er solche Ehre nicht ertragen konnte
 
 **Bibelstelle:** Johannes 13:6-8
 **Erklärung:** 
 
-### 63. Wie bezeichnete Jesus den Bissen, den Er Judas Ischariot reichte?
+### 63. Woran sollte der Jünger, den Jesus liebte, den Verräter erkennen?
 
-- [ ] Als Zeichen der Feindschaft gegen ihn
-- [ ] Als Segen für die bevorstehende Reise
-- [ ] Als Teil des Passalamms für alle
-- [x] Als Zeichen, wer ihn verraten würde
+- [ ] Der am Tisch zuerst aus meinem Becher trinkt
+- [ ] Der im Saal zu meiner Rechten sitzt
+- [ ] Der unter den Zwölfen einen scharlachroten Mantel trägt
+- [x] Der ist's, dem ich den Bissen eintauchen und reichen werde
 
-**Bibelstelle:** Johannes 13:26-30
+**Bibelstelle:** Johannes 13:23-30
 **Erklärung:** 
 
 ### 64. Welches neue Gebot gab Jesus Seinen Jüngern vor Seinem Abschied?
@@ -657,7 +657,7 @@
 **Bibelstelle:** Johannes 13:36-38
 **Erklärung:** 
 
-### 66. Welcher Trost spendete Jesus Seinen Jüngern über das Vaterhaus?
+### 66. Welchen Trost spendete Jesus Seinen Jüngern über das Vaterhaus?
 
 - [ ] Dort gibt es goldene Paläste
 - [ ] Dort gibt es keinen Schmerz mehr
@@ -829,7 +829,7 @@
 
 ### 83. Worum bittet Jesus nach Johannes 17:15 für seine Jünger?
 
-- [ ] Er bittet, dass sie in der Welt Geld verdienen und es zu Wohlstand bringen
+- [ ] Er bittet, dass der Vater sie aus der Welt herausnimmt
 - [ ] Er bittet, dass sie das Gesetz lernen und es ihr Leben lang halten
 - [ ] Er bittet, dass der Tempel sie beschützt und vor den Feinden bewahrt
 - [x] Er bittet, dass der Vater sie vor dem Bösen bewahrt
@@ -837,9 +837,9 @@
 **Bibelstelle:** Johannes 17:14-16
 **Erklärung:** 
 
-### 84. Welches Mittel bittet Jesus zur Heiligung Seiner Nachfolger an?
+### 84. Wodurch sollen Seine Nachfolger nach dem Gebet Jesu geheiligt werden?
 
-- [x] Durch die Wahrheit: Dein Wort ist die Wahrheit
+- [x] Durch die Wahrheit: Dein Wort ist Wahrheit
 - [ ] Durch das Wasser des Teichs Siloah, das alle Unreinheit abwäscht
 - [ ] Durch Brandopfer, die sie täglich im Tempel darbringen sollen
 - [ ] Durch das Halten des Sabbatgebots und der Reinheitsvorschriften
@@ -917,10 +917,10 @@
 **Bibelstelle:** Johannes 19:1-3
 **Erklärung:** 
 
-### 92. Welche Ausrufeworte sprach Pilatus, als Er Jesus dem Volke vorführte?
+### 92. Welche Ausrufeworte sprach Pilatus, als er Jesus mit der Dornenkrone dem Volk vorführte?
 
 - [x] Seht, welch ein Mensch!
-- [ ] Seht hier euren König!
+- [ ] Seht hier den Sohn Davids!
 - [ ] Seht hier euren Richter!
 - [ ] Seht diesen Aufrührer!
 
@@ -1105,5 +1105,5 @@
 - [x] Jesus geht mit den Emmausjüngern
 - [x] Jesus erscheint Maria Magdalena am Grab
 
-**Bibelstelle:** Johannes 20:19
+**Bibelstelle:** Johannes 20:11-29; Lukas 24:13-35
 **Erklärung:** 

@@ -12,7 +12,7 @@
 - [ ] Lukas aus Antiochia
 - [x] Timotheus, der Bruder
 - [ ] Barnabas aus Zypern
-- [ ] Silas aus Jerusalem
+- [ ] Titus aus Kreta
 
 **Bibelstelle:** 1. Thessalonicher 1:1
 **Erklärung:** 
@@ -44,7 +44,7 @@
 - [ ] Sie bauten einen prachtvollen Tempel und weihten ihn dem Herrn ein
 - [ ] Sie verteilten ihr gesamtes Gold und lebten fortan in stiller Armut
 
-**Bibelstelle:** 1. Thessalonicher 1:9
+**Bibelstelle:** 1. Thessalonicher 1:9-10
 **Erklärung:** 
 
 ### 5. Auf wen warten die Gläubigen nach 1. Thessalonicher 1:10 aus dem Himmel?

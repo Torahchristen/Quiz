@@ -11,7 +11,7 @@
 
 - [x] In der Stiftshütte in der Wildnis Sinai
 - [ ] Auf der rauchenden Spitze des Berges Sinai
-- [ ] Am Fuße des Berges Horeb vor dem Aufbruch
+- [ ] In der Oase Elim bei den zwölf Wasserquellen
 - [ ] In der Oase Kadesch-Barnea in der Wüste
 
 **Bibelstelle:** 4. Mose 1:1
@@ -99,7 +99,7 @@
 
 ### 10. Welcher Stamm führte die drei Stämme an der Südseite des Wüstenlagers an?
 
-- [ ] Der erstgeborene Stamm Levi vor dem Zelt
+- [ ] Der Stamm Levi rings um das Zelt
 - [x] Der Stamm Ruben mit seinem Banner
 - [ ] Der Stamm Gad an der südlichen Grenze
 - [ ] Der Stamm Simeon im Süden des Lagers
@@ -257,7 +257,7 @@
 **Bibelstelle:** 4. Mose 4:16
 **Erklärung:** 
 
-### 26. Womit wurden die Geräte des Tischs der Schaubrote beim Transport abgedeckt?
+### 26. Womit wurde der Schaubrottisch beim Aufbruch zuerst bedeckt, bevor man die Geräte daraufsetzte?
 
 - [ ] Mit einer Decke aus rotem Widderfell
 - [x] Mit einem Tuch aus blauem Purpur
@@ -307,7 +307,7 @@
 **Bibelstelle:** 4. Mose 5:8
 **Erklärung:** 
 
-### 31. Woraus bestand das Mahlopfer der Eifersucht, das ein Ehemann bei Verdacht darbrachte?
+### 31. Woraus bestand das Speisopfer der Eifersucht, das ein Ehemann bei Verdacht darbrachte?
 
 - [ ] Aus feinem Weizenmehl mit Salböl
 - [ ] Aus zwei Turteltauben und frischem Brot
@@ -339,7 +339,7 @@
 
 ### 34. Welche Auswirkung hatte das fluchbringende Wasser auf eine tatsächlich schuldige Ehefrau?
 
-- [ ] Sie wurde augenblicklich von Blattern befallen
+- [ ] Sie wurde augenblicklich vom Aussatz befallen
 - [x] Ihr Bauch schwoll an und ihre Hüfte verfiel
 - [ ] Sie erblindete an ihren beiden Augen
 - [ ] Sie verlor ihre Stimme vor der Gemeinde
@@ -402,7 +402,7 @@
 - [ ] Gott ist unsere Zuflucht und starke Festung in den Nöten
 - [ ] Der HERR ist mein Hirte, mir wird nichts mangeln im Leben
 - [ ] Gedenke an den Sabbattag, dass du ihn heiligst vor Gott
-- [x] Der HERR segne dich und behüte dich in allen Dingen
+- [x] JHWH segne dich und behüte dich!
 
 **Bibelstelle:** 4. Mose 6:24
 **Erklärung:** 
@@ -480,7 +480,7 @@
 ### 48. Wie verhielten sich die Gaben der zwölf Stammesfürsten an den verschiedenen Tagen zueinander?
 
 - [ ] Jeder Fürst brachte völlig unterschiedliche Gaben dar
-- [ ] Die reicherer Stämme brachten doppelt so viele Tiere
+- [ ] Die reicheren Stämme brachten doppelt so viele Tiere
 - [ ] Der Stamm Levi brachte die größte Einzelgabe dar
 - [x] Alle zwölf Fürsten brachten völlig identische Gaben
 
@@ -537,7 +537,7 @@
 **Bibelstelle:** 4. Mose 8:10
 **Erklärung:** 
 
-### 54. An Wessen Stelle nahm Gott den Stamm Levi aus der Mitte der Kinder Israels an?
+### 54. An wessen Stelle nahm Gott den Stamm Levi aus der Mitte der Kinder Israel an?
 
 - [ ] Anstelle der kriegstauglichen Männer aller Stämme
 - [x] Anstelle aller Erstgeborenen im ganzen Volk Israel
@@ -669,10 +669,10 @@
 
 ### 67. Welche Verheißung gab Gott beim Blasen der Trompeten im Krieg gegen Feinde im Erdlande?
 
-- [ ] Die Feinde wurden sofort von Verwirrung geschlagen
-- [ ] Ein feuriger Hagel stürzte auf das Heer der Feinde
+- [ ] Die Feinde würden sofort von Verwirrung geschlagen
+- [ ] Ein feuriger Hagel würde auf das Heer der Feinde stürzen
 - [x] Gott würde ihrer gedenken und sie vor Feinden retten
-- [ ] Die Engel des Himmels kämpften sichtbar voran
+- [ ] Die Engel des Himmels würden sichtbar vorankämpfen
 
 **Bibelstelle:** 4. Mose 10:9
 **Erklärung:** 
@@ -771,7 +771,7 @@
 
 - [x] Gott schlug das Volk mit einer sehr großen Plage
 - [ ] Das Volk dankte Gott mit einem großen Freudenfest
-- [ ] Die Nahrung verwandelte sich in bitteres Wüstenwasser
+- [ ] Das übrige Fleisch verwandelte sich in bitteren Wüstenstaub
 - [ ] Das Volk brach sogleich ohne Schaden nach Kadesch auf
 
 **Bibelstelle:** 4. Mose 11:33-34
@@ -817,10 +817,10 @@
 **Bibelstelle:** 4. Mose 12:10
 **Erklärung:** 
 
-### 82. Welches kurze, ergreifende Gebot rief Mose vor Gott für seine aussätzige Schwester aus?
+### 82. Welches kurze, ergreifende Gebet rief Mose zu Gott für seine aussätzige Schwester?
 
 - [ ] Vergib ihr diese große Sünde um des Bundes willen
-- [x] „O Gott, heile sie doch!“ rief Mose zum HERRN
+- [x] „Ach Äl, heile sie doch!“, schrie Mose zum HERRN
 - [ ] Erlasse ihr die Strafe des Aussatzes am Altar
 - [ ] Lass sie nicht vor den Augen des Volkes sterben
 
@@ -847,7 +847,7 @@
 **Bibelstelle:** 4. Mose 12:16
 **Erklärung:** 
 
-### 85. Aus welchem Ort in der Wüste Paran wurden die zwölf Kundschafter zur Auskundschaftung ausgesandt?
+### 85. Von wo aus sandte Mose die zwölf Kundschafter nach Kanaan aus?
 
 - [x] Aus der Wüste Paran auf Gottes Befehl hin
 - [ ] Aus der Oase Elim mit ihren Palmenbäumen
@@ -857,7 +857,7 @@
 **Bibelstelle:** 4. Mose 13:2-3
 **Erklärung:** 
 
-### 86. Welchem Vertreter des Stammes Ephraim gab Mose vor der Aussendung den Namen Josua?
+### 86. Welchem Kundschafter gab Mose vor der Aussendung den Namen Josua?
 
 - [ ] Kaleb dem Sohne Jephunnes aus Juda
 - [x] Hosea dem Sohne Nuns aus dem Stamme Ephraim
@@ -987,17 +987,17 @@
 **Bibelstelle:** 4. Mose 14:37
 **Erklärung:** 
 
-### 99. Was widerfuhr den Israeliten, die trotz Moses Warnung eigenmächtig nach Horma vorrückten?
+### 99. Was widerfuhr den Israeliten, die trotz Moses Warnung eigenmächtig auf die Höhe des Gebirges zogen?
 
 - [ ] Sie eroberten die ersten Festungsstädte
 - [ ] Sie wurden von einer plötzlichen Flut überrascht
-- [x] Sie wurden von den Amalekitern geschlagen
+- [x] Amalekiter und Kanaaniter schlugen sie bis Horma
 - [ ] Sie kehrten ohne Kampf wieder um ins Lager
 
-**Bibelstelle:** 4. Mose 14:45
+**Bibelstelle:** 4. Mose 14:44-45
 **Erklärung:** 
 
-### 100. Was sollte Israel darbringen, wenn es in das Erdland seiner Wohnsitze kam?
+### 100. Was sollte im Land Kanaan zu jedem Brand- oder Schlachtopfer zusätzlich dargebracht werden?
 
 - [ ] Ein zweites Lamm als zusätzliches Dankopfer
 - [ ] Ein Maß Salz und Weihrauch auf jeden Altar
@@ -1050,7 +1050,7 @@
 ### 105. Was sollte das Volk an den Zipfeln seiner Kleider anbringen zur Erinnerung an Gottes Gebote?
 
 - [x] Quasten mit einer Schnur von blauem Purpur
-- [ ] Kleine Schalen aus geprägtem Silber blech
+- [ ] Kleine Plättchen aus geprägtem Silberblech
 - [ ] Rote Fäden aus Karmesin auf den Saum genäht
 - [ ] Kleine goldene Glöckchen wie beim Priesterrock
 
@@ -1062,7 +1062,7 @@
 - [ ] Eldad und Medad mit den siebzig Ältesten
 - [x] Korah zusammen mit Dathan, Abiram und On
 - [ ] Misael und Elzaphan aus dem Stamme Levi
-- [ ] Nadab und Abihu mit zweihundert Männern
+- [ ] Nadab und Abihu mit zweihundertfünfzig Männern
 
 **Bibelstelle:** 4. Mose 16:1-2
 **Erklärung:** 
@@ -1077,12 +1077,12 @@
 **Bibelstelle:** 4. Mose 16:6-7
 **Erklärung:** 
 
-### 108. Was antworteten Dathan und Abiram, als Mose sie zu einer Aussprache vor das Zelt rufen ließ?
+### 108. Was antworteten Dathan und Abiram, als Mose sie rufen ließ?
 
 - [ ] Sie forderten das sofortige Amt des Hohepriesters
 - [ ] Sie verlangten eine große Geldstrafe am Altar
 - [ ] Sie baten das gesamte Volk um Beistand
-- [x] Wir wollen und werden keinesfalls hinaufkommen
+- [x] Sie sprachen: Wir kommen nicht hinauf!
 
 **Bibelstelle:** 4. Mose 16:12-14
 **Erklärung:** 
@@ -1157,12 +1157,12 @@
 **Bibelstelle:** 4. Mose 17:10
 **Erklärung:** 
 
-### 116. Welche bange Frage schrie das Volk Israel nach dem Gericht vor Mose aus?
+### 116. Welche bange Klage richtete das Volk Israel nach dem Gericht an Mose?
 
 - [ ] Wann werden wir endlich im verheißenen Lande ankommen, Mose?
 - [ ] Warum hast du uns aus Ägypten herausgeführt in diese Wüste?
 - [ ] Wer soll nun unser Richter sein im Lager der Wüste, Mose?
-- [x] Siehe, wir nehmen ab, wir verderben, wir gehen alle unter!
+- [x] Siehe, wir hauchen aus, wir kommen um, wir kommen alle um!
 
 **Bibelstelle:** 4. Mose 17:12-13
 **Erklärung:** 
@@ -1339,9 +1339,9 @@
 
 ### 134. An welchem Ort in der Wüste Zin starb die Prophetin Mirjam und wurde begraben?
 
-- [ ] Auf der Höhe des rauchenden Berges Hor
+- [ ] Auf dem Gipfel des Berges Hor, wo Aaron starb
 - [x] In Kadesch in der öden Wüste Zin
-- [ ] In Hazeroth nach der Aussatzerwählung
+- [ ] In Hazeroth, wo sie mit Aussatz geschlagen wurde
 - [ ] In den fruchtbaren Ebenen des Landes Moab
 
 **Bibelstelle:** 4. Mose 20:1
@@ -1391,7 +1391,7 @@
 
 - [ ] Er verlangte den halben Ertrag des eroberten Silbers als Wegezoll
 - [ ] Er öffnete die Brunnen und wies den Israeliten freundlich den Weg
-- [x] Du sollst nicht durch mein Erdland ziehen, sonst ziehe ich mit dem Schwert aus
+- [x] Du sollst nicht durch mein Erdland ziehen, sonst will ich dir mit dem Schwert entgegentreten!
 - [ ] Er schloss einen ewigen Bund des Friedens mit Mose an der Grenze
 
 **Bibelstelle:** 4. Mose 20:18-21
@@ -1411,7 +1411,7 @@
 
 - [x] Die Städte der Kanaaniter dem Bann zu weihen
 - [ ] Den Zehnten der Beute dem Heiligtum zu opfern
-- [ ] Sieben Tage vor dem Altar in Sakk zu fasten
+- [ ] Sieben Tage im Sacktuch vor der Lade zu fasten
 - [ ] Einen Altar aus unbehauenen Steinen zu bauen
 
 **Bibelstelle:** 4. Mose 21:2
@@ -1457,12 +1457,12 @@
 **Bibelstelle:** 4. Mose 21:22-23
 **Erklärung:** 
 
-### 146. Welchem Volk hatte Sihon, der König der Amoriter, zuvor das Erdland bis zum Arnon entrissen?
+### 146. Welchem Herrscher hatte Sihon, der König der Amoriter, zuvor das Erdland bis zum Arnon entrissen?
 
-- [ ] Dem kriegerischen Stamm der Philister im Westen
-- [x] Dem ersten König der Moabiter im Ostjordanland
-- [ ] Den Edomitern aus den Bergen des Seir-Gebirges
-- [ ] Den Ammonitern aus den nördlichen Grenzzonen
+- [ ] Den kriegerischen Fürsten der Philister im Westen
+- [x] Dem früheren König der Moabiter im Ostjordanland
+- [ ] Den Fürsten Edoms aus dem Gebirge Seir
+- [ ] Dem König der Ammoniter an der Nordgrenze
 
 **Bibelstelle:** 4. Mose 21:26
 **Erklärung:** 
@@ -1517,12 +1517,12 @@
 **Bibelstelle:** 4. Mose 22:15-17
 **Erklärung:** 
 
-### 152. Warum entbrannte der Zorn Gottes, als Bileam am Morgen mit den Fürsten Moabs ritt?
+### 152. Warum entbrannte der Zorn Gottes über Bileam auf seinem Weg nach Moab?
 
 - [ ] Weil er vergessen hatte, sein Sündopfer zu bringen
 - [ ] Weil er seine Eselin mit einer Peitsche schlug
 - [ ] Weil er ohne Waffen auf dem Weg ritt
-- [x] Weil er ging und sein Herz auf den Lohn aus war
+- [x] Weil er mit den Fürsten Moabs hinging
 
 **Bibelstelle:** 4. Mose 22:22
 **Erklärung:** 
@@ -1551,7 +1551,7 @@
 
 - [ ] Dass er unverzüglich nach Pethor umkehren müsse
 - [ ] Dass Balak ein Bündnis mit Israel schließen werde
-- [x] Dass er ihn getötet, die Eselin aber geschont hätte
+- [x] Dass er ihn sonst getötet und die Eselin verschont hätte
 - [ ] Dass die Fürsten Moabs ihn betrogen hatten
 
 **Bibelstelle:** 4. Mose 22:33
@@ -1875,7 +1875,7 @@
 - [ ] Den Berg Hermon im Norden
 
 **Bibelstelle:** 4. Mose 27:12
-**Erklärung:** 
+**Erklärung:** Der Berg Nebo, auf dem Mose später das Land sah, gehört zum Gebirge Abarim (5. Mose 32:49). In 4. Mose 27:12 wird nur das Gebirge Abarim genannt.
 
 ### 188. Welchen Mann bestimmte Gott auf Moses Bitte hin zum neuen Führer der Gemeinde Israel?
 
@@ -2130,7 +2130,7 @@
 ### 213. Welcher falsche Prophet wurde zusammen mit den fünf Königen von Midian durchs Schwert getötet?
 
 - [x] Bileam der Sohn Beors mit dem Schwert
-- [ ] Balaam der moabitische Priester aus Ar
+- [ ] Balak, der König der Moabiter, der Bileam gedungen hatte
 - [ ] Og der Riesenkönig aus dem Lande Baschan
 - [ ] Sihon der amoritische König von Hesbon
 
@@ -2271,7 +2271,7 @@
 
 - [ ] Die Feinde würden sie mit schwerem Tribut belegen
 - [ ] Eine schwere Hungersnot würde über das Land kommen
-- [x] Sie würden Dornen in ihren Augen und Stacheln sein
+- [x] Sie würden zu Dornen in ihren Augen und Stacheln in ihren Seiten
 - [ ] Die Bundeslade würde ihnen von Feinden geraubt
 
 **Bibelstelle:** 4. Mose 33:55
@@ -2309,7 +2309,7 @@
 
 ### 231. Welche zwei Männer sollten das Erdland Kanaan als Erbe unter die Stämme verteilen?
 
-- [ ] Kaleb der Keneasiter und Phinehas der Priester
+- [ ] Kaleb, der Sohn Jephunnes, und Phinehas, der Priester
 - [ ] Mose der Prophet und Aaron der Hohepriester
 - [x] Der Priester Eleasar und Josua, der Sohn Nuns
 - [ ] Die beiden Fürsten der Stämme Juda und Benjamin
@@ -2357,7 +2357,7 @@
 **Bibelstelle:** 4. Mose 35:7
 **Erklärung:** 
 
-### 236. Wie viele der achtundvierzig Levitienstädte mussten als Freistädte dienen?
+### 236. Wie viele der achtundvierzig Levitenstädte mussten als Freistädte dienen?
 
 - [ ] Genau zwölf Freistädte für den Totschläger
 - [ ] Genau drei Freistädte für den Totschläger

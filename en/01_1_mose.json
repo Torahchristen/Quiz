@@ -115,7 +115,7 @@
           "isCorrect": false
         },
         {
-          "text": "The high firmament",
+          "text": "The moon",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
@@ -641,7 +641,7 @@
           "isCorrect": false
         },
         {
-          "text": "\"Ye shall not surely die, but be as gods knowing all!\"",
+          "text": "\"Ye shall not surely die!\"",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": true
@@ -723,13 +723,13 @@
           "isCorrect": false
         },
         {
-          "text": "That its head would be crowned with horns to crawl in dust",
+          "text": "That it should henceforth dwell in the wilderness without water",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "Enmity between its seed and the seed of the blessed woman",
+          "text": "Enmity between its seed and the seed of the woman",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": true
@@ -1015,7 +1015,7 @@
       "text": "What remarkable fate befell Enoch during his earthly life?",
       "options": [
         {
-          "text": "He reached the greatest age of all biblical patriarchs",
+          "text": "He reached 969 years, the greatest age of all the patriarchs",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -1147,7 +1147,7 @@
           "isCorrect": true
         },
         {
-          "text": "A shining star",
+          "text": "An everlasting northern light",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -1445,7 +1445,7 @@
           "isCorrect": false
         },
         {
-          "text": "Brick for stone, and slime for mortar in building",
+          "text": "Burnt brick for stone, and slime for mortar",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": true
@@ -2883,19 +2883,19 @@
           "isCorrect": true
         },
         {
-          "text": "That both sons would perish in battle against Egypt",
+          "text": "That both sons would become glorious kings over all the land of Egypt",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "That her firstborn son would become high priest in Salem",
+          "text": "That they would share all land and inheritance as brethren in perfect unity",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "That both sons would unite all Canaanite tribes in peace",
+          "text": "That the firstborn alone would receive all blessings and privileges",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -3187,7 +3187,7 @@
           "isCorrect": true
         },
         {
-          "text": "Beer-sheba, Bethel, and Hebron",
+          "text": "Beer-sheba, Beth-el, and Hebron",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -3427,7 +3427,7 @@
           "isCorrect": true
         },
         {
-          "text": "To hire armed Hittite warriors to drive Jacob far away",
+          "text": "To ally himself at once with Pharaoh to make war upon Canaan",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -3482,7 +3482,7 @@
       "type": "single_choice",
       "difficulty": "medium",
       "bibleReference": "Genesis 28:12",
-      "text": "What did Jacob behold in a dream at the place he later named Bethel?",
+      "text": "What did Jacob behold in a dream at the place he later named Beth-el?",
       "options": [
         {
           "text": "A ladder set up on earth, reaching to heaven, with angels ascending and descending",
@@ -3520,7 +3520,7 @@
       "type": "single_choice",
       "difficulty": "medium",
       "bibleReference": "Genesis 28:15",
-      "text": "What promise did the LORD give Jacob at Bethel regarding his personal journey?",
+      "text": "What promise did the LORD give Jacob at Beth-el regarding his personal journey?",
       "options": [
         {
           "text": "That he would return within three days laden with gold and silver",
@@ -3535,7 +3535,7 @@
           "isCorrect": true
         },
         {
-          "text": "That he should be honored as a prince and crowned in Paddan-aram",
+          "text": "That he should be honored as a prince and crowned in Padan-aram",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
@@ -3596,7 +3596,7 @@
       "type": "single_choice",
       "difficulty": "easy",
       "bibleReference": "Genesis 28:20-22",
-      "text": "What vow did Jacob vow at Bethel before God?",
+      "text": "What vow did Jacob vow at Beth-el before God?",
       "options": [
         {
           "text": "He swore never to eat flesh and to fast strictly",
@@ -3671,7 +3671,7 @@
       "questionId": "1mose_097",
       "type": "single_choice",
       "difficulty": "medium",
-      "bibleReference": "Genesis 29:35",
+      "bibleReference": "Genesis 29:32-35",
       "text": "What were the names of the first four sons Leah bare to Jacob, and what does Judah mean?",
       "options": [
         {
@@ -3827,7 +3827,7 @@
       "text": "How did Jacob respond to Rachel's cry, \"Give me children, or else I die\"?",
       "options": [
         {
-          "text": "He comforted her gently and promised to offer a sacrifice at Bethel",
+          "text": "He comforted her gently and promised to offer a sacrifice at Beth-el",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -3871,7 +3871,7 @@
           "isCorrect": false
         },
         {
-          "text": "Naphtali; \"With great wrestlings have I wrestled, and have prevailed\"",
+          "text": "Gad; \"A troop cometh: for a band of valiant sons goeth forth to battle for me!\"",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -4131,7 +4131,7 @@
       "text": "What names did Laban and Jacob give to the heap of stones as witness of their covenant?",
       "options": [
         {
-          "text": "Laban called it Bethel, but Jacob called it Peniel in peace",
+          "text": "Laban called it Mahanaim, but Jacob called it Peniel",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -4143,13 +4143,13 @@
           "isCorrect": true
         },
         {
-          "text": "Laban called it Beer-sheba, but Jacob called it Mahanaim",
+          "text": "Laban called it Hebron, but Jacob called it Succoth",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "Both agreed upon the name Mizpah to mark their covenant",
+          "text": "Laban called it Beer-sheba, but Jacob called it Beth-el",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -4169,7 +4169,7 @@
       "text": "What did Jacob call the place where the angels of God met him on his return?",
       "options": [
         {
-          "text": "Bethel",
+          "text": "Beth-el",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -4321,7 +4321,7 @@
       "text": "What did Jacob call the place of the wrestling, and for what reason?",
       "options": [
         {
-          "text": "Bethel; \"This is none other but the house of God and gate of heaven!\"",
+          "text": "Beth-el; \"This is none other but the house of God and gate of heaven!\"",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -4508,7 +4508,7 @@
       "type": "single_choice",
       "difficulty": "easy",
       "bibleReference": "Genesis 35:2-4",
-      "text": "What did Jacob command his household to do before going up to Bethel to build an altar?",
+      "text": "What did Jacob command his household to do before going up to Beth-el to build an altar?",
       "options": [
         {
           "text": "To melt down all their gold and silver to make a sacred ark",
@@ -4663,7 +4663,7 @@
       "text": "How did Joseph's brethren react to their father's favouritism toward him?",
       "options": [
         {
-          "text": "They demanded that their father banish Joseph from the pastures",
+          "text": "They demanded that their father keep Joseph from the flocks and disinherit him",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -4675,7 +4675,7 @@
           "isCorrect": false
         },
         {
-          "text": "They refused to eat bread at the same table with him for a month",
+          "text": "They spake not a word unto Joseph for a month and shunned him",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
@@ -4745,7 +4745,7 @@
           "isCorrect": false
         },
         {
-          "text": "The sun, moon, and eleven stars made obeisance; Jacob rebuked him but kept saying",
+          "text": "The sun, moon, and eleven stars made obeisance; Jacob rebuked him but observed the saying",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": true
@@ -4777,7 +4777,7 @@
       "text": "Whither did Israel send Joseph to see whether it were well with his brethren and well with the flocks?",
       "options": [
         {
-          "text": "He sent him to Beer-sheba; Joseph found them grazing in Bethel",
+          "text": "He sent him to Beer-sheba; Joseph found them grazing in Beth-el",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -4833,7 +4833,7 @@
           "isCorrect": false
         },
         {
-          "text": "\"Behold, this dreamer cometh unto us in the field!\"",
+          "text": "\"Behold, this dreamer cometh.\"",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": true
@@ -5017,13 +5017,13 @@
           "isCorrect": false
         },
         {
-          "text": "He ran immediately to Hebron to confess the deed unto his father Jacob",
+          "text": "He ran at once unto his father and accused his brethren",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "He pursued after the merchant caravan to ransom his brother with silver",
+          "text": "He secretly rejoiced that his father's favourite was removed",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -5043,7 +5043,7 @@
       "text": "How did the brothers deceive their father concerning Joseph's fate?",
       "options": [
         {
-          "text": "They claimed they found his torn sandals in the desert sands",
+          "text": "They claimed that Joseph was drowned in a well and carried away by the waters",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -5055,13 +5055,13 @@
           "isCorrect": true
         },
         {
-          "text": "They declared that a company of Midianites had slain him with sword",
+          "text": "They told their father that Canaanite robbers had slain Joseph in the mountains",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "They produced a broken staff covered with dried blood in the field",
+          "text": "They buried the coat in the sand and said he had fled into the wilderness",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -5078,28 +5078,28 @@
       "type": "single_choice",
       "difficulty": "easy",
       "bibleReference": "Genesis 37:35",
-      "text": "How did heartbroken Jacob respond to the presentation of Joseph's bloody coat?",
+      "text": "What words did mourning Jacob speak when he refused to be comforted by his sons and daughters?",
       "options": [
         {
-          "text": "He offered a solemn burnt sacrifice and fell silent before the elders",
+          "text": "\"God hath forsaken me; my life hath no meaning any more!\"",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "He called for armed servants to pursue the wild beasts in the mountains",
+          "text": "\"Bring me the head of the beast that hath torn my beloved son!\"",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "He rent his clothes and vowed: \"I will go down into the grave mourning\"",
+          "text": "\"I will go down into the grave unto my son mourning.\"",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": true
         },
         {
-          "text": "He departed into the wilderness of Paran to mourn forty days alone",
+          "text": "\"I will fast and pray until God giveth Joseph back unto me!\"",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -5119,19 +5119,19 @@
       "text": "Unto whom did the Midianites sell Joseph when they arrived in Egypt?",
       "options": [
         {
-          "text": "Unto Pharaoh the king of Egypt as a royal cupbearer",
+          "text": "Unto the chief butler at the court of the reigning Pharaoh",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "Unto a wealthy grain merchant in the royal city of Memphis",
+          "text": "Unto a heathen chief priest of the city of On",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "Unto the high priest of On to serve in the temple of the sun",
+          "text": "Unto the chief builder of the royal storehouses of corn",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
@@ -5176,7 +5176,7 @@
         },
         {
           "id": "opt_4",
-          "text": "He made a military league with the Philistines of Gaza and refused to return unto Bethel",
+          "text": "He made a military league with the Philistines of Gaza and refused to return unto Beth-el",
           "isCorrect": false,
           "explanation": ""
         }
@@ -5271,25 +5271,25 @@
       "text": "What were the names of the twin sons Tamar bare unto Judah?",
       "options": [
         {
-          "text": "Er and Onan, who were restored to life in Judah",
+          "text": "Er and Onan",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "Esau and Jacob, born together in the same tent",
+          "text": "Shelah and Zarah",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "Manasseh and Ephraim, adopted into the patriarchs",
+          "text": "Hezron and Hamul",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "Pharez and Zarah, of whom Pharez became forefather of David",
+          "text": "Pharez and Zarah",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": true
@@ -5701,13 +5701,13 @@
           "isCorrect": false
         },
         {
-          "text": "His signet ring, fine linen, and gold chain; named Zaphenath-paaneah with Asenath",
+          "text": "His signet ring, fine linen, and gold chain; named Zaphnath-paaneah with Asenath",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": true
         },
         {
-          "text": "Iron armour and chariot; he called him Prince of Nile with a Canaanite wife",
+          "text": "Iron armour and the second chariot; he called him El-shaddai and gave him Sarai",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -5961,7 +5961,7 @@
           "isCorrect": false
         },
         {
-          "text": "He wept, saying they bereaved him; Reuben offered his two sons as pledge",
+          "text": "He lamented that they had bereaved him of his children; Reuben offered his two sons as pledge",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": true
@@ -6195,13 +6195,13 @@
           "isCorrect": false
         },
         {
-          "text": "\"Art thou indeed the youngest?\"; he commanded a golden garment for him",
+          "text": "\"Thou shalt be my cupbearer\"; he commanded a golden garment for him",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "\"God be gracious unto thee, my son\"; he sought where to weep, into his chamber",
+          "text": "\"God be gracious unto thee, my son\"; he sought where to weep and entered into his chamber",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": true
@@ -6256,28 +6256,28 @@
       "type": "single_choice",
       "difficulty": "easy",
       "bibleReference": "Genesis 43:33",
-      "text": "Why were Joseph's brethren astonished when they sat down to dine before him?",
+      "text": "In what astonishing order were the brethren seated before Joseph?",
       "options": [
         {
-          "text": "They were served with gold vessels stolen from temple of Baal in Canaan",
+          "text": "In a random order which the steward determined by lot",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "They sat the firstborn according to birthright, youngest according to youth",
+          "text": "The firstborn according to his birthright, and the youngest according to his youth",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": true
         },
         {
-          "text": "They heard the servants sing ancient Hebrew songs taught in Beersheba",
+          "text": "According to the value of the presents they had brought out of Canaan",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "They were offered sacrificial meat consecrated to Egyptian holy gods",
+          "text": "The sons of Leah on the right, the sons of the handmaids on the left",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -6303,7 +6303,7 @@
           "isCorrect": false
         },
         {
-          "text": "It was twice as much as any of theirs at table",
+          "text": "It was twice as much as any of theirs",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -6315,7 +6315,7 @@
           "isCorrect": true
         },
         {
-          "text": "It was served upon pure gold while others had clay",
+          "text": "It was four times as much as any of theirs",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -6332,28 +6332,28 @@
       "type": "single_choice",
       "difficulty": "medium",
       "bibleReference": "Genesis 44:1-2",
-      "text": "What final test did Joseph command his house steward to arrange in the sacks of his brethren?",
+      "text": "What object did Joseph cause to be hidden in the sack of the youngest, Benjamin?",
       "options": [
         {
-          "text": "To place a golden idol of Osiris in Reuben's sack to accuse him of theft",
+          "text": "Pharaoh's golden sceptre",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "To hide royal palace documents in Judah's sack to charge him with treason",
+          "text": "A precious Egyptian robe of office",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "To take all their weapons secretly by night and leave them defenceless",
+          "text": "A golden signet chain",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "To put my cup, the silver cup, in the sack's mouth of the youngest",
+          "text": "His cup, the silver cup",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": true
@@ -6417,7 +6417,7 @@
           "isCorrect": false
         },
         {
-          "text": "\"God hath found out the iniquity of thy servants: behold, we are servants!\"",
+          "text": "\"God hath found out the iniquity of thy servants: behold, we are my lord's servants\"",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": true
@@ -7247,19 +7247,19 @@
       "text": "What special portion did dying Jacob bestow upon Joseph above his brethren?",
       "options": [
         {
-          "text": "All the silver and gold brought out of Haran into the land of Canaan",
+          "text": "The burial place in the cave of Machpelah, which Abraham bought of the Hittites",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "One portion taken out of the hand of the Amorite with his sword and bow",
+          "text": "The precious birthright with a double portion of all the flocks and silver",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "The cave of Machpelah to be Joseph's exclusive family burial tomb",
+          "text": "The deep well of Beer-sheba with the fruitful pastures in the south of the land",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
@@ -7291,19 +7291,19 @@
           "isCorrect": true
         },
         {
-          "text": "To command them to return immediately to Canaan before Pharaoh died",
+          "text": "To have them swear never again to strive among themselves",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "To divide all his cattle and household goods among them equally",
+          "text": "To divide all his gold and silver into exactly twelve parts",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "To hear each son confess his secret sins committed during his youth",
+          "text": "To have them offer together a farewell sacrifice for Pharaoh",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -7320,7 +7320,7 @@
       "type": "single_choice",
       "difficulty": "easy",
       "bibleReference": "Genesis 49:3-4",
-      "text": "What solemn sentence did Jacob pronounce over his firstborn son Reuben?",
+      "text": "Why did Reuben, the firstborn, lose the excellency of his birthright according to Jacob's sentence?",
       "options": [
         {
           "text": "Because he secretly sold Joseph of old unto travelling merchants",
@@ -7335,7 +7335,7 @@
           "isCorrect": true
         },
         {
-          "text": "\"Thou shalt reign as king over all thy brethren until Shiloh cometh\"",
+          "text": "Because he refused to be surety for Benjamin",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
@@ -7399,25 +7399,25 @@
       "text": "What royal promise did Jacob bestow upon the tribe of Judah?",
       "options": [
         {
-          "text": "He will dwell in mountain strongholds and never engage in battle",
+          "text": "He shall conquer the fenced cities of Canaan, heap up the gold of all nations, and rule the trade routes to the sea",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "He will trade with the ships of Tarshish and bring gold from afar",
+          "text": "He shall receive the holy priesthood, keep the ark in the tabernacle of the LORD, and make atonement for all the tribes",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "He will be an humble shepherd tribe serving the house of Joseph",
+          "text": "He shall receive the inheritance of the nations in peace without weapons, and kings from far countries shall bring him gifts",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "His brethren shall praise him, and his father's children shall bow before him",
+          "text": "His brethren shall praise him, his hand shall be in the neck of his enemies, and his father's children shall bow down before him",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": true
@@ -7434,28 +7434,28 @@
       "type": "single_choice",
       "difficulty": "easy",
       "bibleReference": "Genesis 49:9",
-      "text": "With what majestic animal did Jacob compare Judah in his blessing?",
+      "text": "With what animal did Jacob compare Judah, and how did he describe his rising up?",
       "options": [
         {
-          "text": "With a young lion (lion's whelp) stooping down and couching",
+          "text": "A lion's whelp, gone up from the prey",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": true
         },
         {
-          "text": "With an high-soaring eagle building its nest on rocky crags",
+          "text": "A strong bull goring his enemies",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "With an horned wild bull tearing down heathen defensive walls",
+          "text": "A swift hart leaping upon the mountains",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "With a swift leopard watching silently over the mountain roads",
+          "text": "A bold eagle circling high over Canaan",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -7475,25 +7475,25 @@
       "text": "What prophecy did Jacob declare concerning Judah's sceptre and Shiloh?",
       "options": [
         {
-          "text": "The sceptre shall be broken in battle when the Philistines invade their land",
+          "text": "The sceptre shall pass to Levi when the people reach the wilderness of Sinai",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "The sceptre shall not depart from Judah until Shiloh come; unto him shall gathering be",
+          "text": "The sceptre shall not depart from Judah until Shiloh come; and unto him shall the gathering of the people be",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": true
         },
         {
-          "text": "The sceptre shall be given to Joseph until a prophet ariseth like unto Moses",
+          "text": "The sceptre shall be broken when Israel's first king disobeyeth God",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "Judah shall lose royal power when the temple of Jerusalem is built by Solomon",
+          "text": "The sceptre shall be given to Pharaoh as a token of everlasting covenant",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -7513,13 +7513,13 @@
       "text": "What poetic imagery illustrated the boundless agricultural abundance of Judah's territory?",
       "options": [
         {
-          "text": "Pressing sweet oil from olives that flowed like mighty rivers into the plains",
+          "text": "Washing his feet in flowing olive oil and building houses of fig wood",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "Harvesting golden wheat seven times each year from the rocky hills of Judea",
+          "text": "His kine giving so much milk that the brooks overflow with it",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -7531,7 +7531,7 @@
           "isCorrect": true
         },
         {
-          "text": "Building granaries of carved cedar wood to hold the endless harvest of figs",
+          "text": "Reaping corn in the winter and sowing in the summer",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -7548,10 +7548,10 @@
       "type": "single_choice",
       "difficulty": "easy",
       "bibleReference": "Genesis 49:12",
-      "text": "How are the countenance and beauty of the ruler from Judah described?",
+      "text": "How is the appearance of Judah described as a result of this abundance?",
       "options": [
         {
-          "text": "His hair is like fine gold and his brow crowned with stars",
+          "text": "His hair is like wool and his arms like bars of iron",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -8025,7 +8025,7 @@
           "isCorrect": false
         },
         {
-          "text": "Blessings of Bethel altar, Salem tithe, and Beer-sheba sacrifice",
+          "text": "Blessings of Beth-el altar, Salem tithe, and Beer-sheba sacrifice",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -8089,7 +8089,7 @@
           "isCorrect": false
         },
         {
-          "text": "He gathered up his feet into the bed, yielded up the ghost, and was gathered",
+          "text": "He gathered up his feet into the bed, yielded up the ghost, and was gathered unto his people",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": true
@@ -8231,29 +8231,29 @@
       "questionId": "1mose_225",
       "type": "single_choice",
       "difficulty": "medium",
-      "bibleReference": "Genesis 50:4",
-      "text": "Why did Joseph speak unto the house of Pharaoh rather than to Pharaoh himself to ask leave?",
+      "bibleReference": "Genesis 50:4-5",
+      "text": "Through whom did Joseph ask Pharaoh's leave to bury his father in Canaan?",
       "options": [
         {
-          "text": "Because Pharaoh was sick and unable to receive visitors",
+          "text": "Through his brethren, who stood before Pharaoh",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "Because he was in mourning apparel and unshaven for his father",
+          "text": "Through the house of Pharaoh (his court)",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": true
         },
         {
-          "text": "Because Joseph had forgotten the court language of Egypt",
+          "text": "Through Potiphar, the captain of the guard",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "Because he feared Pharaoh would arrest him for treason",
+          "text": "Through the priest of On, his father-in-law",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -8387,7 +8387,7 @@
       "text": "What message did the brethren send unto Joseph to entreat his mercy?",
       "options": [
         {
-          "text": "They presented a covenant wherein Jacob made Joseph lord of all",
+          "text": "They presented a deed wherein Jacob made Joseph his sole heir",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -8399,7 +8399,7 @@
           "isCorrect": true
         },
         {
-          "text": "They promised to transfer all their cattle into Joseph's private hand",
+          "text": "They threatened him with the curse of God if he should harm but a hair of them",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
@@ -8463,19 +8463,19 @@
       "text": "What fundamental question of faith did Joseph ask his frightened brethren?",
       "options": [
         {
-          "text": "\"Know ye not that Pharaoh hath committed your lives into my hands?\"",
+          "text": "\"Have ye forgotten who is lord of this land?\"",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "\"Why did ye delay so long to seek my face and confess your guilt?\"",
+          "text": "\"Why do ye doubt my love and faithfulness?\"",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "\"Can silver or gold ever atone for the tears I shed in the pit?\"",
+          "text": "\"Should I do harm unto mine own flesh and blood?\"",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
@@ -8498,7 +8498,7 @@
       "type": "single_choice",
       "difficulty": "easy",
       "bibleReference": "Genesis 50:20",
-      "text": "With what great theological declaration did Joseph comfort his brethren?",
+      "text": "In what words did Joseph express the chief theological theme of the whole book of Genesis?",
       "options": [
         {
           "text": "\"Ye thought evil against me; but God meant it unto good, to save much people\"",
@@ -8507,19 +8507,19 @@
           "isCorrect": true
         },
         {
-          "text": "\"Pharaoh hath decreed that all past offences in his realm be blotted out\"",
+          "text": "\"All things upon earth pass away; only the love of brethren outlasteth death\"",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "\"The gods of Egypt have vindicated my righteousness over your wickedness\"",
+          "text": "\"By my diligence and wisdom have I saved the land from certain death\"",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "\"My dreams were fulfilled, and now ye must serve me as willing bondmen\"",
+          "text": "\"Fate parted us, but the famine hath united us again in peace\"",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -8539,7 +8539,7 @@
       "text": "With what practical promises did Joseph comfort his brethren and remove their fears?",
       "options": [
         {
-          "text": "He promised to build fortified cities for their dwellings in Goshen",
+          "text": "He gave them rich palaces in the royal city and many Egyptian servants",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -8551,7 +8551,7 @@
           "isCorrect": true
         },
         {
-          "text": "He promised to exempt them and their seed from all Egyptian taxes",
+          "text": "He bade them leave Goshen at once and return unto Canaan",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
@@ -8697,13 +8697,13 @@
           "isCorrect": false
         },
         {
-          "text": "He died being 110 years old; they embalmed him, put in a coffin in Egypt",
+          "text": "He died being 110 years old; they embalmed him, and he was put in a coffin in Egypt",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": true
         },
         {
-          "text": "He died at 175 years old, even as his grandfather Abraham had died",
+          "text": "He died at 175 years old, even as his great-grandfather Abraham had died",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
@@ -8802,7 +8802,7 @@
       "type": "single_choice",
       "difficulty": "easy",
       "bibleReference": "Genesis 28:19",
-      "text": "What was the name of the Canaanite city at the first which Jacob called Bethel?",
+      "text": "What was the name of the Canaanite city at the first which Jacob called Beth-el?",
       "options": [
         {
           "text": "Luz",
@@ -8899,7 +8899,7 @@
           "isCorrect": true
         },
         {
-          "text": "El-bethel (The God of the house of God)",
+          "text": "El-beth-el (The God of the house of God)",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -9001,7 +9001,7 @@
           "isCorrect": true
         },
         {
-          "text": "Bethel",
+          "text": "Beth-el",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -9143,29 +9143,29 @@
       "questionId": "1mose_264",
       "type": "single_choice",
       "difficulty": "hard",
-      "bibleReference": "Genesis 15:12",
-      "text": "Where did the covenant between the pieces take place, when deep sleep and horror of darkness fell upon Abram?",
+      "bibleReference": "Genesis 13:18; 14:13",
+      "text": "Where did Abram dwell at the time when God made the covenant between the pieces with him?",
       "options": [
         {
-          "text": "At the plain of Mamre (in Hebron)",
+          "text": "In the plain of Mamre (in Hebron)",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": true
         },
         {
-          "text": "At Haran in northern Mesopotamia",
+          "text": "In Haran in Mesopotamia",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "At the city of Jerusalem (Salem)",
+          "text": "In the city of Jerusalem (Salem)",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "At Gerar in land of the Philistines",
+          "text": "In Gerar in the land of the Philistines",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -9174,8 +9174,8 @@
       "correctAnswers": [
         0
       ],
-      "explanation": "",
-      "explanationReviewed": false
+      "explanation": "Chapter 15 itself names no place. According to Genesis 13:18 and 14:13, Abram dwelt at that time in the plain of Mamre, which is in Hebron.",
+      "explanationReviewed": true
     },
     {
       "questionId": "1mose_265",
@@ -9539,13 +9539,13 @@
           "isCorrect": false
         },
         {
-          "text": "The golden crown worn by the kings of Judah when going to battle",
+          "text": "The future trumpet (shofar) sounding at the judgment on Sinai",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "The brazen serpent lifted up upon a pole in the barren wilderness",
+          "text": "The unbearable yoke of the Mosaic law",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -9554,7 +9554,7 @@
       "correctAnswers": [
         0
       ],
-      "explanation": "The ram sacrificed in Isaac's stead is an Old Testament type of the substitutionary sacrifice of Jesus Christ [ref:John 1:29; Hebrews 10:10-14].",
+      "explanation": "The ram was caught by its horns in a thicket; since the fall, thorns are a sign of the curse [ref:Genesis 3:18], and Christ as our substitute wore the crown of thorns [ref:John 19:2]. Thus the ram offered in Isaac's stead points to the substitutionary sacrifice of Jesus Christ [ref:Hebrews 10:10-14].",
       "explanationReviewed": true
     },
     {
@@ -9565,7 +9565,7 @@
       "text": "According to Christian typological interpretation, what scene is foreshadowed by the butler and the baker in prison?",
       "options": [
         {
-          "text": "The two disciples walking together on the dusty road to Emmaus",
+          "text": "The two kings Saul and David: the disobedient rejected from the kingdom, the faithful brought to the throne",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -9577,13 +9577,13 @@
           "isCorrect": true
         },
         {
-          "text": "Moses and Aaron standing before Pharaoh demanding Israel's freedom",
+          "text": "The two tables of the covenant from Sinai: the written law condemning the sinner, the blood of sacrifice granting grace",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "Peter and John healing the lame man at the beautiful temple gate",
+          "text": "Israel and the heathen nations: the impenitent fall under judgment, while the elect find grace",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -9714,28 +9714,28 @@
       "type": "single_choice",
       "difficulty": "medium",
       "bibleReference": "Genesis 15:9-18",
-      "text": "According to Christian typological interpretation, why did God alone pass between the divided pieces in Genesis 15?",
+      "text": "According to Christian typological interpretation, why did the sacrificial animals at Abram's covenant have to be divided exactly in two, and what did God's fiery passing between the pieces signify?",
       "options": [
         {
-          "text": "Abram had fallen asleep and forgotten the solemn covenant ritual",
+          "text": "The dividing served only to burn the pieces faster upon the altar",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "Because human beings were forbidden to walk upon blood of sacrifice",
+          "text": "Abram had to pass through to prove his complete sinlessness",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "To show that God alone bound Himself unilaterally to fulfill covenant",
+          "text": "God alone passed through, taking the whole covenant obligation upon Himself as surety",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": true
         },
         {
-          "text": "To prove that Abram's seed would never suffer any earthly hardship",
+          "text": "The dividing pictured the future division of the twelve tribes of Israel",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -9755,25 +9755,25 @@
       "text": "According to Christian typological interpretation, how does Joseph's exaltation from prison foreshadow Jesus Christ?",
       "options": [
         {
-          "text": "Joseph established an earthly dynasty of Hebrew kings over Egypt",
+          "text": "Joseph overthrew Pharaoh and reigned as a worldly monarch",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "He built magnificent granaries which typified the temple of God",
+          "text": "Joseph married the heathen idol priestesses against God's will",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "He used his power to punish all pagan priests throughout the land",
+          "text": "Joseph seized the throne with a mighty army of Hebrew mercenaries",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "His humiliation in prison followed by exaltation typifieth Christ",
+          "text": "After the deepest humiliation he was exalted and set over all the land",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": true
@@ -9790,28 +9790,28 @@
       "type": "single_choice",
       "difficulty": "medium",
       "bibleReference": "Genesis 48:13-19",
-      "text": "According to Christian typological interpretation, what mystery is revealed by Jacob crossing his hands to bless Ephraim?",
+      "text": "According to Christian typological interpretation, what messianic mystery is revealed by Jacob crossing his hands when he blessed Joseph's sons Ephraim and Manasseh?",
       "options": [
         {
-          "text": "The cross of Christ, through which blessing passeth by sovereign grace",
+          "text": "That the highest blessing is bestowed not after the flesh, but by grace",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": true
         },
         {
-          "text": "The rejection of all Hebrew patriarchs in favour of Egyptian lords",
+          "text": "Jacob was feeble with age and made a mistake which he later regretted",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "A royal priestly ritual that could only be performed by the aged",
+          "text": "Crossing the arms was an ancient Egyptian rite to ward off evil spirits",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "A sign of physical weakness because Jacob could not lift his arms",
+          "text": "It was to show that both brothers received exactly the same inheritance",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -9831,7 +9831,7 @@
       "text": "According to Christian typological interpretation, how does Joseph's marriage to Asenath foreshadow Christ and the church?",
       "options": [
         {
-          "text": "It showed that Hebrew patriarchs should take wives of the heathen",
+          "text": "Joseph forsook the faith of his fathers and took up the religion of Egypt",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -9843,13 +9843,13 @@
           "isCorrect": true
         },
         {
-          "text": "Asenath was a prophetess who converted Pharaoh to worship of God",
+          "text": "The union showed that Israel should wholly give up its own peculiarity",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "It symbolized the political union of Egyptian and Hebrew nations",
+          "text": "Asenath was appointed high priestess of the sanctuary at Jerusalem",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -9869,13 +9869,13 @@
       "text": "According to Christian typological interpretation, what was foreshadowed when God made coats of skins for Adam and Eve?",
       "options": [
         {
-          "text": "That man should henceforth live solely by hunting wild woodland beasts",
+          "text": "Fallen man should learn to protect himself by laborious handiwork of wool and flax",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "That human clothing must always be fashioned from pure white sheep",
+          "text": "The rough skins should daily remind men of the hardship and want of the cursed ground",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -9887,7 +9887,7 @@
           "isCorrect": true
         },
         {
-          "text": "That human works of righteousness are sufficient to please the LORD",
+          "text": "God showed that perishable things must be put off to receive eternal purity in spirit",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -9951,7 +9951,7 @@
           "isCorrect": false
         },
         {
-          "text": "He vowed to give the tenth and take the LORD as his God in Bethel",
+          "text": "He vowed to give the tenth and take the LORD as his God in Beth-el",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": true
@@ -9963,7 +9963,7 @@
           "isCorrect": false
         },
         {
-          "text": "He vowed to sacrifice his firstborn son upon the rock of Bethel",
+          "text": "He vowed to sacrifice his firstborn son upon the rock of Beth-el",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -10103,7 +10103,7 @@
           "isCorrect": false
         },
         {
-          "text": "It was the only physical possession the patriarchs legally acquired in Canaan",
+          "text": "It was Abraham's first lawfully purchased possession in the promised land, a buryingplace as a pledge of the promise",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": true
@@ -10200,7 +10200,7 @@
       "correctAnswers": [
         3
       ],
-      "explanation": "Abraham giving tithes to Melchizedek demonstrates the superiority of Melchizedek's priesthood over the Levitical priesthood [ref:Hebrews 7:4-7].",
+      "explanation": "Melchizedek's bread and wine are understood typologically as a figure of the Lord's supper [ref:Luke 22:19-20], and his priesthood as a figure of the eternal priesthood of Christ [ref:Hebrews 7:1-3].",
       "explanationReviewed": true
     },
     {
@@ -10369,7 +10369,7 @@
           "isCorrect": true
         },
         {
-          "text": "A white dove, which returned immediately with an olive branch in beak",
+          "text": "A white dove, which returned immediately with an olive leaf in her mouth",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -10664,28 +10664,28 @@
       "type": "single_choice",
       "difficulty": "hard",
       "bibleReference": "Genesis 20:1-3",
-      "text": "What did Abraham tell Abimelech king of Gerar concerning his wife Sarah?",
+      "text": "What solemn warning did Abimelech king of Gerar receive from God in a dream by night?",
       "options": [
         {
-          "text": "He declared she was his adopted daughter taken out of Mesopotamia",
+          "text": "That his fields would be smitten with locusts because he harboured foreign herdsmen",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "\"She is my sister\"; and Abimelech king of Gerar sent, and took Sarah",
+          "text": "\"Behold, thou art but a dead man, for the woman which thou hast taken; for she is a man's wife\"",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": true
         },
         {
-          "text": "He said she was a consecrated priestess of the Most High God of Salem",
+          "text": "That Abraham was hiring warriors out of Egypt to storm the fenced royal city of Gerar",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "He claimed she was a noble stranger travelling under his protection",
+          "text": "That he must yield his throne to Pharaoh unless he let the Hebrew people go",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -10739,11 +10739,11 @@
       "questionId": "1mose_316",
       "type": "single_choice",
       "difficulty": "medium",
-      "bibleReference": "Genesis 21:1-3",
+      "bibleReference": "Genesis 21:1-6",
       "text": "What name did Abraham give unto his son of promise born of Sarah?",
       "options": [
         {
-          "text": "Ishmael ('God heareth'), for God heard the cry of the lad in desert",
+          "text": "Ishmael ('God heareth'), because the LORD had heard Hagar's affliction in the wilderness",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -11250,7 +11250,7 @@
       "questionId": "1mose_329",
       "type": "ordering",
       "difficulty": "easy",
-      "bibleReference": "Genesis 6:14-22",
+      "bibleReference": "Genesis 6:14-22; Genesis 7:11-12; Genesis 8:4-11; Genesis 9:12-17",
       "text": "Arrange these events surrounding Noah and the flood in the correct chronological order.",
       "options": [
         {

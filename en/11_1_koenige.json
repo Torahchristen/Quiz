@@ -292,22 +292,22 @@
     {
       "questionId": "1kön_010",
       "type": "single_choice",
-      "text": "Unto which great river did the dominion of king Solomon reach?",
+      "text": "From which great river did the dominion of king Solomon extend?",
       "options": [
         {
-          "text": "Unto the great river Euphrates in the east",
+          "text": "From the great river Euphrates in the east",
           "explanation": ""
         },
         {
-          "text": "Unto the border of Egypt in the distant south",
+          "text": "From the river Nile in distant Egypt",
           "explanation": ""
         },
         {
-          "text": "Unto the river Jordan in the pleasant valleys",
+          "text": "From the river Jordan in the wide valleys",
           "explanation": ""
         },
         {
-          "text": "Unto the brook Kishon beside the mount Carmel",
+          "text": "From the brook Kishon beside mount Carmel",
           "explanation": ""
         }
       ],
@@ -315,8 +315,8 @@
         0
       ],
       "bibleReference": "1 Kings 4:21",
-      "explanation": "",
-      "explanationReviewed": false,
+      "explanation": "The verse speaks only of \"the river\"; in the Old Testament this means the Euphrates (compare Genesis 15:18; 1 Kings 4:24).",
+      "explanationReviewed": true,
       "difficulty": "easy"
     },
     {
@@ -325,7 +325,7 @@
       "text": "How many proverbs did king Solomon speak according to 1 Kings 4:32?",
       "options": [
         {
-          "text": "He spake an hundred wise proverbs",
+          "text": "He spake a thousand wise proverbs",
           "explanation": ""
         },
         {
@@ -367,7 +367,7 @@
           "explanation": ""
         },
         {
-          "text": "Almug trees and cypress timber from Ophir",
+          "text": "Almond wood and cypress out of Egypt",
           "explanation": ""
         }
       ],
@@ -412,7 +412,7 @@
     {
       "questionId": "1kön_014",
       "type": "single_choice",
-      "text": "Wherewith did Solomon overlay the inside of the house and the altar in the oracle?",
+      "text": "Wherewith did Solomon overlay the inside of the house and the altar that was by the oracle?",
       "options": [
         {
           "text": "He overlaid it all with pure gold",
@@ -427,7 +427,7 @@
           "explanation": ""
         },
         {
-          "text": "He lined it with carved ivory from Ophir",
+          "text": "He clothed it all with pure ivory",
           "explanation": ""
         }
       ],
@@ -963,7 +963,7 @@
           "explanation": ""
         },
         {
-          "text": "The one in Bethel, and the other put he in Dan",
+          "text": "The one in Beth-el, and the other put he in Dan",
           "explanation": ""
         },
         {
@@ -982,7 +982,7 @@
     {
       "questionId": "1kön_033",
       "type": "single_choice",
-      "text": "What sign came to pass at the altar in Bethel at the word of the man of God out of Judah?",
+      "text": "What sign came to pass at the altar in Beth-el at the word of the man of God out of Judah?",
       "options": [
         {
           "text": "The altar sank down into a deep opening of the earth",
@@ -1027,7 +1027,7 @@
           "explanation": ""
         },
         {
-          "text": "A bolt of lightning smote him in the way before Bethel",
+          "text": "A bolt of lightning smote him in the way before Beth-el",
           "explanation": ""
         }
       ],
@@ -1439,7 +1439,7 @@
           "explanation": ""
         },
         {
-          "text": "He was offering burnt offerings at the altar in Bethel",
+          "text": "He was offering burnt offerings at the altar in Beth-el",
           "explanation": ""
         },
         {
@@ -1822,7 +1822,7 @@
     {
       "questionId": "1kön_063",
       "type": "single_choice",
-      "text": "What curse of Joshua was fulfilled in Hiel the Bethelite when he builded Jericho?",
+      "text": "What curse of Joshua was fulfilled in Hiel the Beth-elite when he builded Jericho?",
       "options": [
         {
           "text": "He was smitten with blindness at the finishing of the high walls",
@@ -2069,11 +2069,11 @@
           "explanation": ""
         },
         {
-          "text": "Ravens bring Elijah bread by brook Cherith",
+          "text": "Ravens bring Elijah bread by the brook Cherith",
           "explanation": ""
         },
         {
-          "text": "Fire of the LORD consumeth the burnt sacrifice",
+          "text": "The fire of the LORD consumeth the burnt sacrifice on Carmel",
           "explanation": ""
         },
         {
@@ -2092,7 +2092,7 @@
         0,
         3
       ],
-      "bibleReference": "1 Kings 17:6",
+      "bibleReference": "1 Kings 17:6; 1 Kings 17:9; 1 Kings 18:38; 1 Kings 19:12; 2 Kings 2:11",
       "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"

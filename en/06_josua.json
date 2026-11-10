@@ -500,7 +500,7 @@
           "isCorrect": true
         },
         {
-          "text": "If she took down the scarlet cord during the seven days",
+          "text": "If she had sold her house before the city was taken",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -555,7 +555,7 @@
       "questionId": "jos_015",
       "type": "single_choice",
       "difficulty": "medium",
-      "text": "What sacred object went before the camp of Israel when departing from Shittim toward Jordan?",
+      "text": "What went before the people when they removed from their camp at Jordan?",
       "options": [
         {
           "text": "The ark of the covenant of the LORD borne by the priests",
@@ -804,7 +804,7 @@
           "isCorrect": true
         },
         {
-          "text": "Beside the ancient altars of Bethel in mount Ephraim",
+          "text": "Beside the ancient altars of Beth-el in mount Ephraim",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -2008,7 +2008,7 @@
           "isCorrect": false
         },
         {
-          "text": "He fled into the desert wilderness toward Bethel",
+          "text": "He fled into the desert wilderness toward Beth-el",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -2344,7 +2344,7 @@
       "text": "Which four cities belonged unto the league of the preserved Gibeonites?",
       "options": [
         {
-          "text": "Jericho, Ai, Bethel, and Ophrah in the mountains",
+          "text": "Jericho, Ai, Beth-el, and Ophrah in the mountains",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -2534,7 +2534,7 @@
       "text": "In which cave did the five Amorite kings hide themselves from the face of Israel?",
       "options": [
         {
-          "text": "In a cave at Makkedah in the lowlands",
+          "text": "In a cave at Makkedah",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": true
@@ -2876,7 +2876,7 @@
       "text": "In which three Philistine cities only did remnants of the Anakims remain?",
       "options": [
         {
-          "text": "In Jericho, Ai, and Bethel along the valley",
+          "text": "In Jericho, Ai, and Beth-el along the valley",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -2914,19 +2914,19 @@
       "text": "What blessed condition came upon the land after Joshua had finished his major conquests?",
       "options": [
         {
-          "text": "The tribes returned across the river",
+          "text": "The tribes returned again into Egypt",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "A solemn fast was proclaimed in Israel",
+          "text": "A fast of three years was proclaimed",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "And the whole land rested from further war",
+          "text": "And the land rested from war",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": true
@@ -3122,7 +3122,7 @@
           "isCorrect": false
         },
         {
-          "text": "The river Arnon, which is in the midst of the river",
+          "text": "The river Arnon, upon whose bank Aroer lieth",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": true
@@ -3177,16 +3177,16 @@
       "questionId": "jos_084",
       "type": "single_choice",
       "difficulty": "hard",
-      "text": "Which northern sea lay within the borders of the kingdom of giant King Og?",
+      "text": "Which sea in the north is named as a border of the dominion of Sihon king of the Amorites?",
       "options": [
         {
-          "text": "The great Salt Sea bordering the desert of Judah",
+          "text": "The great sea by the coast of the Philistines",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "The inland sea of Chinneroth (Chinnereth)",
+          "text": "The sea of Chinneroth (Gennesaret)",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": true
@@ -3209,7 +3209,7 @@
       ],
       "explanation": "",
       "explanationReviewed": false,
-      "bibleReference": "Joshua 12:3"
+      "bibleReference": "Joshua 12:2-3"
     },
     {
       "questionId": "jos_085",
@@ -3306,7 +3306,7 @@
           "isCorrect": false
         },
         {
-          "text": "The tenth part of all the fruit of the oliveyards and vineyards",
+          "text": "The half of all the increase of the vineyards",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
@@ -3648,7 +3648,7 @@
           "isCorrect": true
         },
         {
-          "text": "The ancient altar city of Bethel in Mount Ephraim",
+          "text": "The ancient altar city of Beth-el in Mount Ephraim",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
@@ -4218,7 +4218,7 @@
           "isCorrect": false
         },
         {
-          "text": "In Bethel upon the sacred heights of Mount Ephraim",
+          "text": "In Beth-el upon the sacred heights of Mount Ephraim",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
@@ -4364,7 +4364,7 @@
           "isCorrect": true
         },
         {
-          "text": "The ancient altar city Bethel in the midst of the hills",
+          "text": "The fortress city Hebron in the mountains of the south",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -4376,7 +4376,7 @@
           "isCorrect": false
         },
         {
-          "text": "The fortress city Kirjath-arba given unto Caleb in Judah",
+          "text": "The border city Beth-el among the hills",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -4586,13 +4586,13 @@
       "text": "How many cities with their suburbs were given unto the Levites out of the tribes of Israel?",
       "options": [
         {
-          "text": "Twelve cities, one city yielded up by each tribe",
+          "text": "Exactly twelve cities for the four families",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "Seventy cities scattered throughout the territories",
+          "text": "Exactly thirty cities throughout all the land",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -4604,7 +4604,7 @@
           "isCorrect": true
         },
         {
-          "text": "Twenty-four cities bordering upon the tabernacle at Shiloh",
+          "text": "Exactly seventy cities after the number of the elders",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -4852,7 +4852,7 @@
       "text": "What name did the children of Reuben and Gad give unto the altar by Jordan?",
       "options": [
         {
-          "text": "They called the altar Bethel",
+          "text": "They called the altar Beth-el",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -4864,7 +4864,7 @@
           "isCorrect": true
         },
         {
-          "text": "They called the altar Ebenezer",
+          "text": "They called the altar Eben-ezer",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
@@ -4925,7 +4925,7 @@
       "questionId": "jos_130",
       "type": "single_choice",
       "difficulty": "easy",
-      "text": "Which father of Abraham dwelt on the other side of the flood and served other gods?",
+      "text": "Which of Israel's fathers, according to Joshua, dwelt on the other side of the flood in old time and served other gods?",
       "options": [
         {
           "text": "Isaac in the land of Canaan",

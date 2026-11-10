@@ -37,12 +37,12 @@
 **Bibelstelle:** 2. Timotheus 1:6
 **Erklärung:** 
 
-### 4. Wessen Haus erquickte Paulus in Rom und schämte sich seiner Ketten nicht?
+### 4. Für wessen Haus erbittet Paulus Barmherzigkeit, weil der Hausherr ihn oft erquickte und sich seiner Ketten nicht schämte (2. Timotheus 1:16)?
 
 - [x] Das Haus des Onesiphorus
 - [ ] Das Haus des Aquila in Rom
-- [ ] Der Hohepriester in Judäa
-- [ ] Der Ratsherr der Stadt Rom
+- [ ] Das Haus des Hohenpriesters in Judäa
+- [ ] Das Haus des Ratsherrn der Stadt Rom
 
 **Bibelstelle:** 2. Timotheus 1:16-17
 **Erklärung:** 

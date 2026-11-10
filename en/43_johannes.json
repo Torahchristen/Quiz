@@ -276,12 +276,12 @@
           "explanation": ""
         },
         {
-          "text": "Of the second sanctuary in Zion",
+          "text": "Of the sanctuary of the Samaritans",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Of the tabernacle made by Moses",
+          "text": "Of God's dwelling place in heaven",
           "isCorrect": false,
           "explanation": ""
         }
@@ -300,22 +300,22 @@
       "text": "Why did Jesus not commit himself unto many that believed in Jerusalem?",
       "options": [
         {
-          "text": "Because he feared the chief priests and the rulers of the council",
+          "text": "Because they had no money and could add nothing unto his ministry",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Because he knew all men, and needed not that any should testify",
+          "text": "Because he knew all men, and knew what was in man",
           "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "Because he was purposed to go into Galilee before the passover",
+          "text": "Because the Romans guarded the city and hindered every assembly",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Because they asked of him a sign from heaven before all the people",
+          "text": "Because the law forbade him so to commit himself unto men",
           "isCorrect": false,
           "explanation": ""
         }
@@ -334,22 +334,22 @@
       "text": "What was the effect of Jesus' first miracle upon his disciples in Cana?",
       "options": [
         {
-          "text": "They marvelled and returned each one to his own occupation",
+          "text": "They fled from his power",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "They were filled with fear and fled out of the feast at once",
+          "text": "They built him an house",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "He manifested forth his glory; and his disciples believed on him",
+          "text": "His disciples believed on him",
           "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "They proclaimed him king before all the guests at the marriage",
+          "text": "They held their peace for fear",
           "isCorrect": false,
           "explanation": ""
         }
@@ -399,7 +399,7 @@
     {
       "questionId": "joh_012",
       "type": "single_choice",
-      "text": "What condition did Jesus declare unto Nicodemus for seeing the kingdom of God?",
+      "text": "What condition did Jesus declare unto Nicodemus for entering into the kingdom of God?",
       "options": [
         {
           "text": "Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God",
@@ -470,22 +470,22 @@
       "text": "What moved God to give his only begotten Son for the world?",
       "options": [
         {
-          "text": "Because mankind offered up many sacrifices in the holy place",
+          "text": "His wrath against the Gentiles",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Because the holy angels made intercession before his throne",
+          "text": "His desire for the sacrifices of the temple",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "For God so loved the world, that he gave his only begotten Son",
+          "text": "His love for the world",
           "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "Because the ancient law of Moses required a holy sin offering",
+          "text": "His desire for a new law",
           "isCorrect": false,
           "explanation": ""
         }
@@ -504,17 +504,17 @@
       "text": "What did John the Baptist say concerning his relation to Christ?",
       "options": [
         {
-          "text": "We must reign together as kings upon earth",
+          "text": "He must decrease, but I must increase",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "I must prepare his throne in the wilderness",
+          "text": "We are both equal before God",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "He shall be greater in Jerusalem and Judaea",
+          "text": "I am the lord, and he is my servant",
           "isCorrect": false,
           "explanation": ""
         },
@@ -543,7 +543,7 @@
           "explanation": ""
         },
         {
-          "text": "At the well in Beersheba",
+          "text": "At the well in Beer-sheba",
           "isCorrect": false,
           "explanation": ""
         },
@@ -572,7 +572,7 @@
       "text": "What water did Jesus offer unto the woman of Samaria in their conversation?",
       "options": [
         {
-          "text": "Water mingled with wine from the feast",
+          "text": "Cool water out of the deep well of Jacob",
           "isCorrect": false,
           "explanation": ""
         },
@@ -582,12 +582,12 @@
           "explanation": ""
         },
         {
-          "text": "Pure water drawn out of the holy temple pool",
+          "text": "Hallowed water out of the pool of Bethesda",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Cold water brought down from mount Gerizim",
+          "text": "Fresh rain water out of the cisterns",
           "isCorrect": false,
           "explanation": ""
         }
@@ -742,12 +742,12 @@
       "text": "What accusation did the Jews bring against Jesus after the healing at Bethesda?",
       "options": [
         {
-          "text": "He had demanded tribute money for himself from the sick",
+          "text": "He had demanded money of the sick and sold his healing",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "He had refused to attend the appointed feast at Jerusalem",
+          "text": "He had despised the fasting and led his disciples to do likewise",
           "isCorrect": false,
           "explanation": ""
         },
@@ -757,7 +757,7 @@
           "explanation": ""
         },
         {
-          "text": "He had spoken evil words against the elders of the council",
+          "text": "He had fled from the temple guards and hid himself",
           "isCorrect": false,
           "explanation": ""
         }
@@ -807,25 +807,25 @@
     {
       "questionId": "joh_024",
       "type": "single_choice",
-      "text": "What did Jesus say concerning the Holy Scriptures?",
+      "text": "Whereunto, according to the words of Jesus, do the scriptures serve?",
       "options": [
         {
-          "text": "Search the scriptures; for they are they which testify of me",
+          "text": "They testify of Christ himself",
           "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "They contain the traditions of the elders of old time only",
+          "text": "They teach worldly wisdom",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "They were written for the priests and the rulers of the temple",
+          "text": "They serve only the priesthood",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "They shall pass away when the kingdom is set up in Israel",
+          "text": "They contain the laws of the Romans",
           "isCorrect": false,
           "explanation": ""
         }
@@ -875,15 +875,15 @@
     {
       "questionId": "joh_026",
       "type": "single_choice",
-      "text": "What food was found before Jesus fed the five thousand in the wilderness?",
+      "text": "How much food was at hand before Jesus fed the five thousand?",
       "options": [
         {
-          "text": "Seven loaves of fine flour and three small fishes",
+          "text": "Five loaves and three fishes",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Three barley cakes and a cruse of sweet honey",
+          "text": "Seven loaves and a few small fishes",
           "isCorrect": false,
           "explanation": ""
         },
@@ -893,7 +893,7 @@
           "explanation": ""
         },
         {
-          "text": "Twelve loaves of shewbread taken from the temple",
+          "text": "Ten loaves for the apostles",
           "isCorrect": false,
           "explanation": ""
         }
@@ -943,7 +943,7 @@
     {
       "questionId": "joh_028",
       "type": "single_choice",
-      "text": "What did Jesus declare concerning the living bread in contrast to the manna?",
+      "text": "To what did Jesus liken his flesh, in contrast to the manna in the wilderness?",
       "options": [
         {
           "text": "He is the living bread from heaven: if any man eat, he shall live for ever",
@@ -951,17 +951,17 @@
           "explanation": ""
         },
         {
-          "text": "He is the hidden manna which Moses gave unto the fathers in the wilderness",
+          "text": "He is as the blood of the sacrifices, which maketh atonement for the people",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "He that eateth thereof shall never suffer any sickness or bodily hunger",
+          "text": "He is as the meat of the prophets, which were strengthened in the wilderness",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "He that receiveth it shall rule over all the kingdoms of the Gentiles",
+          "text": "He is as the fine flour in the sanctuary, which is offered upon the altar",
           "isCorrect": false,
           "explanation": ""
         }
@@ -980,7 +980,7 @@
       "text": "How did many of Jesus' disciples react to his hard saying concerning the bread?",
       "options": [
         {
-          "text": "They took up stones to cast at him within the synagogue",
+          "text": "They made a booth and kept the feast of tabernacles with him",
           "isCorrect": false,
           "explanation": ""
         },
@@ -990,12 +990,12 @@
           "explanation": ""
         },
         {
-          "text": "They brought him straightway before the chief priests and the rulers",
+          "text": "They served him with joy and followed him the more zealously",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "They asked of him another miraculous sign from heaven to confirm it",
+          "text": "They required a new sign and remained sitting with him",
           "isCorrect": false,
           "explanation": ""
         }
@@ -1014,12 +1014,12 @@
       "text": "What confession did Peter make in the name of the twelve disciples?",
       "options": [
         {
-          "text": "Lord, make us rulers over the twelve tribes in thy kingdom",
+          "text": "Thou art the King of Israel, which shall set up the kingdom of David",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Lord, show us the Father, and it shall suffice us for ever",
+          "text": "Thou art he that is come again, of whom the prophets spake",
           "isCorrect": false,
           "explanation": ""
         },
@@ -1029,7 +1029,7 @@
           "explanation": ""
         },
         {
-          "text": "Lord, we will fight for thee with the sword unto death",
+          "text": "Thou art the high priest, which shall renew the covenant for us",
           "isCorrect": false,
           "explanation": ""
         }
@@ -1045,25 +1045,25 @@
     {
       "questionId": "joh_031",
       "type": "single_choice",
-      "text": "Why did Jesus' brethren urge him to go into Judaea to show his works?",
+      "text": "How doth John explain that Jesus' brethren urged him to go into Judæa and shew himself to the world?",
       "options": [
         {
-          "text": "Because they rejected the law and kept not the commandments of Moses",
+          "text": "They would protect him from the Jews in Galilee",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Because they refrained from the temple and desired to stay in Nazareth",
+          "text": "They desired themselves to be known as his disciples",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Because they feared the Romans and sought no disturbance in the city",
+          "text": "His mother Mary had charged them so to do",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Because neither did his brethren believe in him at that season",
+          "text": "Neither did his brethren believe in him",
           "isCorrect": true,
           "explanation": ""
         }
@@ -1223,17 +1223,17 @@
           "explanation": ""
         },
         {
-          "text": "Let the high priest examine her according to the ancient statutes",
+          "text": "He that knoweth the law by heart, let him first cast a stone at her",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Bring two or three witnesses that saw the deed with their own eyes",
+          "text": "He that giveth tithes unto the temple, let him first cast a stone at her",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Take her unto the governor that he may pronounce judgment on her",
+          "text": "He that is a judge in the council, let him first cast a stone at her",
           "isCorrect": false,
           "explanation": ""
         }
@@ -1524,22 +1524,22 @@
       "text": "What did the man healed of blindness do when Jesus revealed himself as the Son of God?",
       "options": [
         {
-          "text": "He asked for another sign to confirm his faith before the council",
+          "text": "He fled from him in fear and hid himself",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "He said, Lord, I believe. And he worshipped him with joy",
+          "text": "He said, Lord, I believe. And he worshipped him",
           "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "He departed into the temple to show himself unto the priests",
+          "text": "He thanked him with money and brought an offering",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "He went through the city proclaiming his name unto all the people",
+          "text": "He went his way and held his peace of all that befell him",
           "isCorrect": false,
           "explanation": ""
         }
@@ -1660,7 +1660,7 @@
       "text": "What promise did Jesus give concerning the eternal security of his sheep?",
       "options": [
         {
-          "text": "They shall inherit all the earthly goods of the nations",
+          "text": "They shall be spared from all suffering",
           "isCorrect": false,
           "explanation": ""
         },
@@ -1670,12 +1670,12 @@
           "explanation": ""
         },
         {
-          "text": "They shall be delivered from all earthly persecutions",
+          "text": "They shall become rich in this world",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "They shall sit upon twelve thrones judging the tribes",
+          "text": "They shall rule over the Romans",
           "isCorrect": false,
           "explanation": ""
         }
@@ -1694,12 +1694,12 @@
       "text": "What confession of his unity with the Father did Jesus speak in the temple?",
       "options": [
         {
-          "text": "The Father is in heaven and I have dominion upon the earth",
+          "text": "I am the Father in heaven",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "The Father hath made me second in authority over all things",
+          "text": "I serve the Father as a servant",
           "isCorrect": false,
           "explanation": ""
         },
@@ -1709,7 +1709,7 @@
           "explanation": ""
         },
         {
-          "text": "I serve the Father as a servant in the presence of angels",
+          "text": "I know not the Father",
           "isCorrect": false,
           "explanation": ""
         }
@@ -1762,22 +1762,22 @@
       "text": "What comfort did Jesus speak unto Martha before raising her brother?",
       "options": [
         {
-          "text": "I am the resurrection, and the life: he that believeth, though he were dead, yet shall he live",
+          "text": "I am the resurrection, and the life",
           "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "Thy brother shall sleep in peace until the trumpet of the archangel soundeth on the last day",
+          "text": "Weep not, thy brother only sleepeth",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Weep not, for Lazarus resteth in the bosom of Abraham with all the righteous of old time",
+          "text": "Thy brother resteth in Abraham's bosom",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Thy brother shall be raised up when the Son of man is glorified before the kings of the earth",
+          "text": "All men must die",
           "isCorrect": false,
           "explanation": ""
         }
@@ -2000,22 +2000,22 @@
       "text": "What did Jesus say would happen if he were lifted up from the earth?",
       "options": [
         {
-          "text": "I will call twelve legions of angels to deliver me",
+          "text": "I will judge the Romans",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "I will establish an earthly kingdom in Jerusalem",
+          "text": "I will build a temple",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "I will destroy the temple and rebuild it with stones",
+          "text": "I will gather the gold",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "I, if I be lifted up from the earth, will draw all men unto me",
+          "text": "I will draw all men unto me",
           "isCorrect": true,
           "explanation": ""
         }
@@ -2034,22 +2034,22 @@
       "text": "Why did many of the chief rulers not confess Jesus openly?",
       "options": [
         {
-          "text": "Lest they should be put out of the synagogue; for they loved the praise of men",
+          "text": "For fear lest they should be put out of the synagogue",
           "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "Because they feared the soldiers of Rome, which guarded the gates of the city",
+          "text": "Because they rejected the law and would rather serve the Romans",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Because they waited for a greater sign from heaven before the whole council",
+          "text": "Because they had no money and could not pay the tribute of the temple",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Because they were commanded by the high priest to keep silence in all things",
+          "text": "Because the Romans had forbidden it and threatened punishment",
           "isCorrect": false,
           "explanation": ""
         }
@@ -2112,12 +2112,12 @@
           "explanation": ""
         },
         {
-          "text": "Lord, thou shalt never wash my feet while the world standeth anywhere",
+          "text": "Thou shalt never wash my feet.",
           "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "He rose up and departed out of the chamber, not suffering to receive it",
+          "text": "He left the chamber for shame, because he could not bear such honour",
           "isCorrect": false,
           "explanation": ""
         }
@@ -2133,7 +2133,7 @@
     {
       "questionId": "joh_063",
       "type": "single_choice",
-      "text": "How did Jesus identify his betrayer unto the disciple whom he loved?",
+      "text": "By what should the disciple whom Jesus loved know the betrayer?",
       "options": [
         {
           "text": "He that drinketh out of my cup first at the table",
@@ -2159,7 +2159,7 @@
       "correctAnswers": [
         3
       ],
-      "bibleReference": "John 13:26-30",
+      "bibleReference": "John 13:23-30",
       "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
@@ -2175,17 +2175,17 @@
           "explanation": ""
         },
         {
-          "text": "That ye fast twice in the week and keep all the ordinances of the temple",
+          "text": "That ye fast continually and keep the feasts of the Lord",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "That ye offer up burnt offerings in the holy place every morning and evening",
+          "text": "That ye shun the Gentiles and separate yourselves from them",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "That ye keep silence before the rulers and princes of the Gentile nations",
+          "text": "That ye build new houses of prayer and come together there daily",
           "isCorrect": false,
           "explanation": ""
         }
@@ -2204,7 +2204,7 @@
       "text": "What did Jesus foretell concerning Peter in the night of his betrayal?",
       "options": [
         {
-          "text": "That Peter should draw his sword and smite the high priest in the garden",
+          "text": "That Peter should become his most faithful disciple and follow him unto the end",
           "isCorrect": false,
           "explanation": ""
         },
@@ -2214,12 +2214,12 @@
           "explanation": ""
         },
         {
-          "text": "That Peter should flee away into the wilderness of Galilee in fear",
+          "text": "That Peter should die with him on the cross before the cock crow",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "That Peter should be bound with chains and led before the Roman Caesar",
+          "text": "That Peter should flee unto Rome before the cock crow",
           "isCorrect": false,
           "explanation": ""
         }
@@ -2238,12 +2238,12 @@
       "text": "What comfort did Jesus give his disciples concerning his Father's house?",
       "options": [
         {
-          "text": "The temple in Jerusalem shall stand for ever against all the heathen",
+          "text": "There are palaces of gold in that place",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "The house of the Father shall be adorned with gold and costly stones",
+          "text": "There shall be no more pain in that place",
           "isCorrect": false,
           "explanation": ""
         },
@@ -2253,7 +2253,7 @@
           "explanation": ""
         },
         {
-          "text": "The twelve apostles shall possess palaces of cedar within the holy city",
+          "text": "All the apostles shall reign in that place",
           "isCorrect": false,
           "explanation": ""
         }
@@ -2816,17 +2816,17 @@
       "text": "What did Jesus pray in John 17:15 concerning his disciples in the world?",
       "options": [
         {
-          "text": "That thou shouldest take them forthwith out of this present world",
+          "text": "That thou shouldest take them out of the world",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "That thou shouldest give them dominion over all the nations of earth",
+          "text": "That they should learn the law and keep it all their days",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "That thou shouldest deliver them from all earthly labor and sorrow",
+          "text": "That the temple should defend them and keep them from their enemies",
           "isCorrect": false,
           "explanation": ""
         },
@@ -2855,17 +2855,17 @@
           "explanation": ""
         },
         {
-          "text": "Through the blood of bullocks and of goats offered upon the altar",
+          "text": "Through the water of the pool of Siloam, which washeth away all uncleanness",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Through the holy anointing oil kept within the temple sanctuary",
+          "text": "Through burnt offerings, which they should offer daily in the temple",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Through long fastings and prayers observed before the presence of God",
+          "text": "Through keeping the sabbath and the ordinances of purifying",
           "isCorrect": false,
           "explanation": ""
         }
@@ -2884,22 +2884,22 @@
       "text": "For whom did Jesus pray in the second part of his high priestly prayer?",
       "options": [
         {
-          "text": "Only for the disciples that followed him through Galilee and Judaea",
+          "text": "Only for the high priests, that they might shew the people the right way",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "For them also which shall believe on me through their word in all ages",
+          "text": "For them also which shall believe on me through their word",
           "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "For the chief priests and rulers of the temple that they might repent",
+          "text": "Only for the inhabitants of Jerusalem that had received him",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "For all the heathen nations of the earth that they might be converted",
+          "text": "For the Roman soldiers that should watch him at the cross",
           "isCorrect": false,
           "explanation": ""
         }
@@ -3127,7 +3127,7 @@
           "explanation": ""
         },
         {
-          "text": "Behold your King!",
+          "text": "Behold the Son of David!",
           "isCorrect": false,
           "explanation": ""
         },
@@ -3428,7 +3428,7 @@
       "text": "At what sea did Jesus show himself again unto the disciples when they were fishing?",
       "options": [
         {
-          "text": "At the lake of Gennesaret",
+          "text": "At the salt sea",
           "isCorrect": false,
           "explanation": ""
         },
@@ -3438,7 +3438,7 @@
           "explanation": ""
         },
         {
-          "text": "At the Salt Sea in the plain",
+          "text": "At the Red sea",
           "isCorrect": false,
           "explanation": ""
         },
@@ -3770,7 +3770,7 @@
         0,
         1
       ],
-      "bibleReference": "John 20:19",
+      "bibleReference": "John 20:11-29; Luke 24:13-35",
       "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"

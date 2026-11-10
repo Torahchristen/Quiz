@@ -120,7 +120,7 @@
 ### 12. Welche vier Ströme gingen von dem einen Strom aus, der den Garten Eden bewässerte?
 
 - [x] Pison, Gichon, Hidekel und Euphrat
-- [ ] Jordan, Euphrat, Tigris und Pharpbar
+- [ ] Jordan, Euphrat, Tigris und Pharpar
 - [ ] Pison, Gichon, Jordan und Arnon
 - [ ] Tigris, Euphrat, Jordan und Jabbok
 
@@ -191,7 +191,7 @@
 
 - [ ] Dass sie für immer fliegen und im Meer leben müsse
 - [ ] Dass sie fortan nur noch giftige Pflanzen fressen darf
-- [ ] Dass sie den Kopf zertreten bekommt und in die Ferse sticht
+- [ ] Dass sie fortan in der Wüste ohne Wasser leben müsse
 - [x] Feindschaft zwischen ihrem Samen und dem Samen der Frau
 
 **Bibelstelle:** 1. Mose 3:15
@@ -381,7 +381,7 @@
 
 - [ ] Ungehauene Natursteine und Lehm aus dem Fluss Euphrat
 - [ ] Zedernbalken und Pech aus den Wäldern des Libanon
-- [x] Ziegel für Steine und gebrannten Asphalt für Kalk
+- [x] Gebrannte Ziegel für Steine und Asphalt für Kalk
 - [ ] Behauene Quadersteine und Kalkmörtel aus dem Gebirge
 
 **Bibelstelle:** 1. Mose 11:3
@@ -607,7 +607,7 @@
 **Bibelstelle:** 1. Mose 16:13-14
 **Erklärung:** 
 
-### 61. Was befahl Gott Abraham bezüglich seines Söhnes Isaak auf dem Berge Morija?
+### 61. Was befahl Gott Abraham bezüglich seines Sohnes Isaak auf dem Berge Morija?
 
 - [ ] Er sollte ihn dort zum König über alle Kanaaniter salben
 - [x] Er sollte ihn dort als Brandopfer darbringen
@@ -617,7 +617,7 @@
 **Bibelstelle:** 1. Mose 22:2
 **Erklärung:** 
 
-### 62. Welches Tier opferte Abraham schließlich anstelle seines Söhnes Isaak?
+### 62. Welches Tier opferte Abraham schließlich anstelle seines Sohnes Isaak?
 
 - [ ] Ein einjähriges, vollkommen makelloses Lamm aus seiner Herde
 - [ ] Eine weiße Turteltaube, die sich auf den Steinaltar niederließ
@@ -712,7 +712,7 @@
 - [ ] Eine feine Perlenkette und zwei silberne Ringe
 - [ ] Einen Siegelring aus Silber für ihre rechte Hand
 - [ ] Eine goldene Krone und zwei silberne Spangen
-- [x] Einen goldenen Stirnreif und zwei Armspangen
+- [x] Einen goldenen Reif und zwei Armspangen
 
 **Bibelstelle:** 1. Mose 24:22
 **Erklärung:** 
@@ -970,11 +970,11 @@
 ### 97. Wie hießen die ersten vier Söhne, die Lea dem Jakob gebar, und was bedeutet der Name des vierten Sohnes?
 
 - [ ] Dan, Naphtali, Gad und Asser; Juda bedeutet „Gott hat mein Recht verschafft“
-- [x] Reuben, Simeon, Levi und Juda; Juda bedeutet „Dieses Mal will ich den HERRN preisen“
+- [x] Reuben, Simeon, Levi und Juda; Juda bedeutet „Nun will ich den HERRN preisen“
 - [ ] Issaschar, Sebulon, Joseph und Benjamin; Juda bedeutet „Ein glücklicher Stern“
 - [ ] Ephraim, Manasse, Juda und Levi; Juda bedeutet „Gott hat mich vergessen“
 
-**Bibelstelle:** 1. Mose 29:35
+**Bibelstelle:** 1. Mose 29:32-35
 **Erklärung:** 
 
 ### 98. Wie war der Unterschied im Aussehen zwischen den Schwestern Lea und Rahel?
@@ -1090,7 +1090,7 @@
 ### 109. Welchen Namen gaben Laban und Jakob dem aufgerichteten Steinhaufen als Zeugen ihres Friedensbündnisses?
 
 - [ ] Laban nannte ihn Machanaim, Jakob aber nannte ihn Pniel
-- [x] Laban nannte ihn Jegar-Sahadutha, Jakob aber nannte ihn Galeed
+- [x] Laban nannte ihn Jegar-Sahaduta, Jakob aber nannte ihn Galed
 - [ ] Laban nannte ihn Hebron, Jakob aber nannte ihn Sukkot
 - [ ] Laban nannte ihn Beerscheba, Jakob aber nannte ihn Bethel
 
@@ -1104,7 +1104,7 @@
 - [x] Mahanaim
 - [ ] Sichem
 
-**Bibelstelle:** 1. Mose 32:2-3
+**Bibelstelle:** 1. Mose 32:1-2
 **Erklärung:** 
 
 ### 111. Welches theologische Bekenntnis der Demut legte Jakob in seinem verzweifelten Gebet vor der Begegnung mit Esau ab?
@@ -1114,7 +1114,7 @@
 - [ ] «Sende mir deine feurigen Engelsscharen voraus, damit sie das kriegerische Heer meines Bruders vernichten!»
 - [x] «Ich bin zu gering aller Barmherzigkeit und aller Treue, die du an deinem Knechte getan hast...»
 
-**Bibelstelle:** 1. Mose 32:10-11
+**Bibelstelle:** 1. Mose 32:9-10
 **Erklärung:** 
 
 ### 112. Was geschah in der Nacht am Fluss Jabbok, bevor Jakob seinem Bruder Esau gegenübertrat?
@@ -1124,7 +1124,7 @@
 - [ ] Ein schrecklicher Sturmwind zerbrach die Zelte und trieb die Kamele in den reißenden Fluss
 - [ ] Er opferte auf einem Steinaltar und sah feurige Streitwagen am Ufer des Jabbok aufziehen
 
-**Bibelstelle:** 1. Mose 32:25-26
+**Bibelstelle:** 1. Mose 32:24-25
 **Erklärung:** 
 
 ### 113. Welchen neuen Namen erhielt Jakob nach seinem nächtlichen Ringen am Jabbok und warum?
@@ -1134,17 +1134,17 @@
 - [ ] Jeschurun; „denn du bist der Gerechte und Aufrichtige, den der Herr erwählt hat“
 - [ ] Melchisedek; „denn du bist nun König des Friedens und Priester des Allerhöchsten“
 
-**Bibelstelle:** 1. Mose 32:28-29
+**Bibelstelle:** 1. Mose 32:27-28
 **Erklärung:** 
 
 ### 114. Wie nannte Jakob den Ort des nächtlichen Kampfes und was war seine Begründung?
 
 - [ ] Bethel; „Hier ist nichts anderes als ein Haus Gottes und die offene Pforte des Himmels!“
 - [ ] Mahanaim; „Dies ist das Heerlager Gottes, dessen Engel mir auf dem Wege begegnet sind!“
-- [x] Pniel; „Denn ich habe Gott von Angesicht zu Angesicht gesehen, und meine Seele ist errettet worden!“
+- [x] Pniel; „Denn ich habe Gott von Angesicht zu Angesicht gesehen, und meine Seele ist gerettet worden!“
 - [ ] Mizpa; „Der HERR sei Wächter zwischen mir und dir, wenn wir voneinander geschieden sind!“
 
-**Bibelstelle:** 1. Mose 32:31
+**Bibelstelle:** 1. Mose 32:30
 **Erklärung:** 
 
 ### 115. Wie verlief die tatsächliche Begegnung zwischen Jakob und Esau nach all den Jahren der Trennung?
@@ -1319,7 +1319,7 @@
 
 ### 132. Wie reagierte Ruben, als er zur Zisterne zurückkehrte und feststellte, dass Joseph verschwunden war?
 
-- [x] Er zerriss seine Gewänder und rief: »Der Knabe ist nicht da!«
+- [x] Er zerriss seine Gewänder und rief: »Der geborene Jüngling ist verschwunden! Wo soll ich hin?«
 - [ ] Er schwieg feige aus Furcht vor dem Zorne der anderen Brüder
 - [ ] Er lief sofort zu seinem Vater und klagte seine Brüder an
 - [ ] Er freute sich heimlich über die Beseitigung des Vaterslieblings
@@ -1387,12 +1387,12 @@
 **Bibelstelle:** 1. Mose 38:17-18
 **Erklärung:** 
 
-### 139. Wie hießen die Zwillinge, die Tamar gebar, und welche theologische Bedeutung hat der Erstgeborene in Bezug auf den Messias?
+### 139. Wie hießen die Zwillinge, die Tamar dem Juda gebar?
 
-- [ ] Pharez und Zarah; Serach wurde der Stammvater des Priestertums Aarons
-- [ ] Esau und Jakob; Esau trat sein Erstgeburtsrecht an Perez im Mutterleib ab
-- [ ] Er und Onan; sie wurden wiedergeboren, um den göttlichen Fluch zu tilgen
-- [x] Perez und Serach; Perez wurde der Stammvater des königlichen Hauses Juda
+- [ ] Er und Onan
+- [ ] Sela und Serach
+- [ ] Hezron und Hamul
+- [x] Perez und Serach
 
 **Bibelstelle:** 1. Mose 38:29-30
 **Erklärung:** 
@@ -1570,7 +1570,7 @@
 ### 157. Wie reagierte Jakob auf die Nachricht, dass auch Benjamin mit nach Ägypten reisen müsse, und welches extreme Angebot machte ihm Ruben?
 
 - [ ] Er verfluchte Ruben sogleich; Ruben bot an, sich selbst als Sklave nach Ägypten zu verkaufen
-- [x] Er weinte bitterlich, sie beraubten ihn seiner Söhne; Ruben bot seine Söhne als Bürgen an
+- [x] Er klagte, sie hätten ihn seiner Kinder beraubt; Ruben bot seine beiden Söhne als Pfand an
 - [ ] Er willigte sofort ein; Ruben schwor, die gesamte königliche Palastwache zu vernichten
 - [ ] Er forderte die Freilassung Simeons; Ruben schlug vor, mit bewaffnetem Heere aufzubrechen
 
@@ -1627,12 +1627,12 @@
 **Bibelstelle:** 1. Mose 43:23
 **Erklärung:** 
 
-### 163. Wie reagierte Joseph emotional, als er seinen leiblichen Bruder Benjamin erblickte?
+### 163. Was sagte Joseph, als er Benjamin, den Sohn seiner Mutter, erblickte, und was tat er unmittelbar danach?
 
-- [ ] Er umarmte ihn sofort stürmisch vor allen Ägyptern und rief seinen Namen
-- [ ] Er blieb völlig kalt und distanziert, um keinen Verdacht zu erregen
-- [ ] Er fragte ihn streng aus, ob der Vater noch am Leben sei
-- [x] Sein Herz wühlte sich auf gegen seinen Bruder
+- [ ] „Willkommen in Ägypten!“; er ließ ihm mit seinem Wagen die königlichen Paläste zeigen
+- [ ] „Siehe, mein geliebter Bruder!“; er umarmte ihn unter Tränen vor allen Dienern
+- [ ] „Du sollst mein Mundschenk sein!“; er ließ ihm ein goldenes Gewand bringen
+- [x] „Gott sei dir gnädig, mein Sohn!“; er suchte einen Ort zum Weinen und ging in sein Gemach
 
 **Bibelstelle:** 1. Mose 43:29-30
 **Erklärung:** 
@@ -1659,10 +1659,10 @@
 
 ### 166. Um wie viel größer war der Anteil, den Benjamin von Josephs Tisch erhielt?
 
-- [ ] Benjamin erhielt eine doppelte Portion; sie tranken schweigend und besorgt
-- [ ] Benjamin erhielt das Essen auf einer goldenen Schale; sie blieben nüchtern
-- [x] Dem Benjamin wurde fünfmal mehr aufgetragen als allen
-- [ ] Benjamin wurde von Joseph persönlich gefüttert; sie feierten ein lautes Dankfest
+- [ ] Er erhielt dreimal so viel wie jeder von ihnen
+- [ ] Er erhielt doppelt so viel wie jeder von ihnen
+- [x] Dem Benjamin wurde fünfmal mehr aufgetragen als ihnen allen
+- [ ] Er erhielt viermal so viel wie jeder von ihnen
 
 **Bibelstelle:** 1. Mose 43:34
 **Erklärung:** 
@@ -1689,10 +1689,10 @@
 
 ### 169. Mit welchen theologischen Worten gestand Juda Joseph die ausweglose Lage der Brüder ein?
 
-- [ ] „Gott hat unsere geheime Schuld aufgedeckt; nimm nun unser ganzes Leben als Strafe!“
+- [ ] „Die ägyptischen Wachen haben uns fälschlich beschuldigt! Wir sind ehrliche Händler!“
 - [x] „Gott hat die Missetat deiner Knechte gefunden! Siehe, wir sind unseres Herrn Knechte...“
-- [ ] „Der Herr hat das Unrecht unserer Väter heimgesucht; wir beugen uns dem Urteil deines Hauses!“
-- [ ] „Wir vermögen uns nicht zu rechtfertigen, denn der Höchste hat unser Vergehen offenbart!“
+- [ ] „Nimm all unsere Kamele und unser Silber, aber lass uns in Frieden nach Kanaan ziehen!“
+- [ ] „Unser Vater Jakob ist ein heiliger Prophet; tastet seine geliebten Kinder nicht an!“
 
 **Bibelstelle:** 1. Mose 44:16
 **Erklärung:** 
@@ -1970,7 +1970,7 @@
 ### 197. Wie lautet die fundamentale messianische Prophezeiung bezüglich des königlichen Zepters Judas?
 
 - [ ] Das Zepter wird an Levi übergehen, sobald das Volk die Wüste des Sinai erreicht
-- [x] Das Zepter weicht nicht von Juda, bis der Schilo kommt und Ihm die Völker dienen
+- [x] Das Zepter weicht nicht von Juda, bis der Schilo kommt und ihm die Völkerschaften anhangen
 - [ ] Das Zepter wird zerbrechen, wenn der erste König Israels gegen Gott ungehorsam wird
 - [ ] Das Zepter wird dem Pharao übergeben als feierliches Zeichen ewiger Bündnistreue
 
@@ -1987,12 +1987,12 @@
 **Bibelstelle:** 1. Mose 49:11
 **Erklärung:** 
 
-### 199. Wie wird das physische Erscheinungsbild Judas infolge dieses Überflusses?
+### 199. Wie wird das physische Erscheinungsbild Judas infolge dieses Überflusses beschrieben?
 
 - [ ] Seine Haare sind wie Wolle und seine Arme wie eiserne Stangen
 - [ ] Sein Angesicht leuchtet wie die Sonne am Mittag
 - [ ] Seine Füße sind schnell wie die einer Hirschkuh
-- [x] Seine Augen sind dunkler als Wein und seine Zähne weißer als Milch
+- [x] Seine Augen sind dunkelfarbig vom Wein und seine Zähne weiß von Milch
 
 **Bibelstelle:** 1. Mose 49:12
 **Erklärung:** 
@@ -2139,7 +2139,7 @@
 
 ### 214. Wie drückte Joseph seine tiefe Trauer über den Tod seines Vaters aus?
 
-- [ ] Er zerriß sein buntes Gewand und rasiert sich den Kopf vor Trauer
+- [ ] Er zerriß sein buntes Gewand und rasierte sich den Kopf vor Trauer
 - [ ] Er verbot jegliches Weinen im gesamten Palast des Pharao
 - [x] Er fiel auf seines Vaters Angesicht, weinte über ihn und küßte ihn
 - [ ] Er errichtete ein goldenes Standbild Jakobs am Nilufer
@@ -2167,14 +2167,14 @@
 **Bibelstelle:** 1. Mose 50:3
 **Erklärung:** 
 
-### 217. Warum bat Joseph das Haus des Pharao und nicht den Pharao selbst um Erlaubnis zur Reise nach Kanaan?
+### 217. Über wen ließ Joseph den Pharao um Erlaubnis bitten, seinen Vater in Kanaan zu begraben?
 
-- [ ] Weil der Pharao schwer krank war und niemanden empfing
-- [x] Weil er sich in Trauerkleidung befand und sich das Haar nicht schor
-- [ ] Weil Joseph die ägyptische Sprache verlernt hatte
-- [ ] Weil er Angst hatte, der Pharao würde ihn wegen Hochverrats verhaften lassen
+- [ ] Über seine Brüder, die vor den Pharao traten
+- [x] Über das Haus des Pharao (seinen Hof)
+- [ ] Über Potiphar, den Obersten der Leibwache
+- [ ] Über den Priester von On, seinen Schwiegervater
 
-**Bibelstelle:** 1. Mose 50:4
+**Bibelstelle:** 1. Mose 50:4-5
 **Erklärung:** 
 
 ### 218. Wer begleitete Joseph und seine Brüder auf dem monumentalen Trauerzug hinauf nach Kanaan?
@@ -2207,10 +2207,10 @@
 **Bibelstelle:** 1. Mose 50:15
 **Erklärung:** 
 
-### 221. Welche Botschaft (Todesurkunde / Testament) ließen die Brüder Joseph ausrichten, um sein Herz gnädig zu stimmen?
+### 221. Welche Botschaft ließen die Brüder Joseph ausrichten, um sein Herz gnädig zu stimmen?
 
 - [ ] Sie legten einen Vertrag vor, in dem Jakob Joseph als alleinigen Erben einsetzte
-- [x] Der Vater habe vor seinem Tod befohlen: »Vergib doch die Übertretung deiner Brüder«
+- [x] Der Vater habe vor seinem Tod befohlen: »Ertrage doch deiner Brüder Missetat und ihre Sünde!«
 - [ ] Sie drohten ihm mit dem Fluch Gottes, falls er ihnen auch nur ein Haar krümmen würde
 - [ ] Sie versprachen ihm reuevoll, ihm all ihre Erstgeborenen als Sklaven zu übergeben
 
@@ -2231,17 +2231,17 @@
 
 - [ ] „Habt ihr vergessen, wer der Herr dieses Landes ist?“
 - [ ] „Warum zweifelt ihr an meiner Liebe und Treue?“
-- [ ] „Sollte ich meinen eigenen Fleisch und Blut Schaden zufügen?“
-- [x] „Fürchtet euch nicht! Bin ich denn an Gottes Statt?“
+- [ ] „Sollte ich meinem eigenen Fleisch und Blut Schaden zufügen?“
+- [x] „Fürchtet euch nicht! Bin ich denn an Gottes Stelle?“
 
 **Bibelstelle:** 1. Mose 50:19
 **Erklärung:** 
 
 ### 224. Wie formuliert Joseph das theologische Hauptthema des gesamten 1. Buches Mose?
 
-- [x] »Ihr gedachtet es böse zu machen, aber Gott gedachte es gut zu machen«
+- [x] »Ihr gedachtet zwar Böses wider mich; aber Gott gedachte es gut zu machen«
 - [ ] »Alles ist vergänglich auf Erden; nur die Liebe unter Brüdern überdauert den Tod«
-- [ ] »Durch meinen Fleiß und Weisheit habe ich das Land vor dem sicheren Tod bewahrt«
+- [ ] »Durch meinen Fleiß und meine Weisheit habe ich das Land vor dem sicheren Tod bewahrt«
 - [ ] »Das Schicksal trennte uns, aber die Hungersnot hat uns wieder vereint im Frieden«
 
 **Bibelstelle:** 1. Mose 50:20
@@ -2290,8 +2290,8 @@
 ### 229. Welches Alter erreichte Joseph bei seinem Tod, und wie wurde sein Leichnam in Ägypten aufbewahrt?
 
 - [ ] Er starb 120 Jahre alt und wurde in einem prunkvollen Steinsarkophag begraben
-- [x] Er starb 110 Jahre alt; man balsamierte ihn ein und legte ihn in eine Lade in Ägypten
-- [ ] Er starb 175 Jahre alt, genau wie sein Großvater Abraham
+- [x] Er starb 110 Jahre alt; man balsamierte ihn ein und legte ihn in einen Sarg in Ägypten
+- [ ] Er starb 175 Jahre alt, genau wie sein Urgroßvater Abraham
 - [ ] Er starb 90 Jahre alt und wurde im Nil bestattet
 
 **Bibelstelle:** 1. Mose 50:26
@@ -2367,12 +2367,12 @@
 **Bibelstelle:** 1. Mose 10:10
 **Erklärung:** 
 
-### 237. Welcher geschichtsträchtige Ort im Süden Kanaan verdankt seinen Namen einem Eidschwur und sieben Lämmern zwischen Abraham und Abimelech?
+### 237. Welcher geschichtsträchtige Ort im Süden Kanaans verdankt seinen Namen einem Eidschwur und sieben Lämmern zwischen Abraham und Abimelech?
 
-- [x] Beerseba
+- [x] Beer-Seba
 - [ ] Bethel
 - [ ] Hebron
-- [ ] Peniel
+- [ ] Pniel
 
 **Bibelstelle:** 1. Mose 21:28-31
 **Erklärung:** 
@@ -2407,15 +2407,15 @@
 **Bibelstelle:** 1. Mose 5:32
 **Erklärung:** 
 
-### 241. Wo fand der schauerliche Bundesschluss zwischen den Stücken statt, bei dem Abram in einen tiefen Schlaf und dichte Finsternis fiel?
+### 241. Bei welchem Ort wohnte Abram in der Zeit, als Gott mit ihm den Bund zwischen den Stücken schloss?
 
 - [x] Bei den Eichen von Mamre (Hebron)
 - [ ] In Haran in Mesopotamien
 - [ ] In Jerusalem (Salem)
 - [ ] In Gerar im Land der Philister
 
-**Bibelstelle:** 1. Mose 15:12
-**Erklärung:** 
+**Bibelstelle:** 1. Mose 13:18; 14:13
+**Erklärung:** Kapitel 15 nennt selbst keinen Ort. Nach 1. Mose 13:18 und 14:13 wohnte Abram in dieser Zeit bei den Äl-Bäumen Mamres zu Hebron.
 
 ### 242. Wie retteten die Engel in Sodom Lot, seine zögernde Frau und seine Töchter vor dem Untergang?
 
@@ -2507,7 +2507,7 @@
 **Bibelstelle:** 1. Mose 35:18
 **Erklärung:** Die beiden Namen spiegeln die zwei Aspekte des Messias wider: den leidenden Schmerzensmann [ref:Jesaja 53:3] und den zur Rechten Gottes erhöhten Herrscher [ref:Hebräer 1:3].
 
-### 251. Nach christlicher (typologischer) Auslegung – Der Widder, den Abraham stellvertretend für Isaak opferte, war „mit seinen Hörnern im Gestrüpp verwickelt“. Welches neutestamentliche Schattenbild deutet sich hier an?
+### 251. Nach christlicher (typologischer) Auslegung – Der Widder, den Abraham stellvertretend für Isaak opferte, war „mit den Hörnern in den Hecken verwickelt“. Welches neutestamentliche Schattenbild deutet sich hier an?
 
 - [x] Die Dornenkrone auf dem Haupt Jesu Christi bei Seiner Kreuzigung
 - [ ] Der Hirtenstab, mit dem Mose später das Rote Meer teilte
@@ -2515,7 +2515,7 @@
 - [ ] Das unlösbare Joch des mosaischen Gesetzes
 
 **Bibelstelle:** 1. Mose 22:13
-**Erklärung:** Der anstelle Isaaks geopferte Widder ist ein alttestamentliches Vorbild auf das stellvertretende Sühnopfer Jesu Christi [ref:Johannes 1:29; Hebräer 10:10-14].
+**Erklärung:** Der Widder hing mit den Hörnern im Dorngestrüpp fest; Dornen sind seit dem Sündenfall Zeichen des Fluches [ref:1. Mose 3:18], und Christus trug als Stellvertreter die Dornenkrone [ref:Johannes 19:2]. So weist der anstelle Isaaks geopferte Widder auf das stellvertretende Opfer Jesu Christi hin [ref:Hebräer 10:10-14].
 
 ### 252. Nach christlicher (typologischer) Auslegung – Josephs zwei Mitgefangene im Gefängnis des Pharao (der Mundschenk und der Bäcker) erleben zwei völlig unterschiedliche Schicksale (1. Mose 40). Welches Golgatha-Schattenbild verbirgt sich hier?
 
@@ -2592,7 +2592,7 @@
 - [ ] Joseph verwarf den Glauben seiner Väter und übernahm die Religion Ägyptens
 - [x] Während Seiner Verwerfung gewinnt der Messias eine Braut aus den Heidenvölkern
 - [ ] Die Verbindung zeigte, dass Israel seine Eigenart völlig aufgeben sollte
-- [ ] Asnath wurde zur Hohepriesterin des jerusalemer Heiligtums ernannt
+- [ ] Asnath wurde zur Hohepriesterin des Jerusalemer Heiligtums ernannt
 
 **Bibelstelle:** 1. Mose 41:45
 **Erklärung:** Dass Joseph in der Zeit seiner Verwerfung durch seine Brüder eine heidnische Braut nahm, deutet typologisch auf die Errettung der Heiden hin [ref:Epheser 3:6].
@@ -2660,7 +2660,7 @@
 ### 266. Welche theologische Tragweite hat der Kauf des Ackers Machpelah von den Söhnen Heths durch Abraham?
 
 - [ ] Es bewies nach hethitischem Recht, dass Abraham ein mächtiger Kaufmann war, der weite Ländereien aufkaufte
-- [x] Es war der einzige physische Landbesitz, den die Erzväter im verheißenen Land Kanaan zu Lebzeiten legal erwarben
+- [x] Es war der erste rechtmäßig erworbene Grundbesitz Abrahams im verheißenen Land, ein Erbbegräbnis als Unterpfand der Verheißung
 - [ ] Abraham wurde dadurch von allen hethitischen Stadtältesten feierlich zum erblichen Fürsten und König gekrönt
 - [ ] Es war ein juristischer Scheinkauf, da das felsige Ackerland von den Söhnen Heths bald darauf wieder eingezogen wurde
 
@@ -2685,7 +2685,7 @@
 - [x] Ein prophetisches Vorbild auf das Mahl des Herrn und das Priestertum Christi
 
 **Bibelstelle:** 1. Mose 14:18-19
-**Erklärung:** Abrahams Zehntabgabe an Melchisedek bezeugt laut Hebräerbrief die Überlegenheit dieses Priestertums über das levitische Priestertum [ref:Hebräer 7:4-7].
+**Erklärung:** Melchisedeks Brot und Wein werden typologisch als Vorbild auf das Mahl des Herrn gedeutet [ref:Lukas 22:19-20], sein Priestertum als Vorbild auf das ewige Priestertum Christi [ref:Hebräer 7:1-3].
 
 ### 269. Welches prophetische Meisterwerk vollendet das gesamte 1. Buch Mose (Genesis) in seiner letzten Szene?
 
@@ -2730,7 +2730,7 @@
 ### 273. Welchen Vogel ließ Noah zuerst aus der Arche fliegen, um zu sehen, ob das Wasser abgelaufen war?
 
 - [x] Einen Raben, der hin und her flog, bis die Wasser auf der Erde vertrocknet waren
-- [ ] Eine weiße Taube, die sofort mit einem grünen Palmzweig im Schnabel zurückkehrte
+- [ ] Eine weiße Taube, die sofort mit einem Ölblatt im Schnabel zurückkehrte
 - [ ] Einen Falken, der über die Gipfel der Berge flog und auf dem Felsen Ararat nistete
 - [ ] Eine Schwalbe, die erst nach sieben Tagen erschöpft wieder am Schiffsfenster anklopfte
 
@@ -2810,7 +2810,7 @@
 ### 281. Welche ernste Warnung empfing Abimelech, der König von Gerar, nachts im Traum von Gott?
 
 - [ ] Dass seine Felder von Heuschrecken heimgesucht würden, weil er fremde Hirten beherbergte
-- [x] „Siehe, du bist des Todes wegen der Frau, die du genommen hast; denn sie ist verehelicht!“
+- [x] „Siehe da, du bist des Todes um der Frau willen, die du genommen hast; denn sie ist im Besitz eines Eigentümers!“
 - [ ] Dass Abraham Krieger aus Ägypten anwerbe, um die befestigte Königsstadt Gerar zu stürmen
 - [ ] Dass er seinen Thron an Pharao abtreten müsse, wenn er das hebräische Volk nicht freilasse
 
@@ -2829,12 +2829,12 @@
 
 ### 283. Welchen Namen gab Abraham seinem von Sara geborenen Sohn der Verheißung?
 
-- [ ] Ismael ('Gott erhört'), weil Gott das bittere Weinen Hiobs in der Wüste vernommen hatte
+- [ ] Ismael ('Gott erhört'), weil der HERR das Elend Hagars in der Wüste erhört hatte
 - [ ] Jakob ('Fersenhalter'), weil er sich bei der Geburt an der Ferse seines Bruders festhielt
 - [ ] Joseph ('Er fügt hinzu'), weil Gott die Schmach der Unfruchtbarkeit für immer wegnahm
-- [x] Isaak ('Lachen'), denn Sara sprach: 'Gott hat mir ein Lachen zugerichtet zum Freudentag!'
+- [x] Isaak ('Lachen'), denn Sara sprach: 'Älohim hat mir ein Lachen bereitet!'
 
-**Bibelstelle:** 1. Mose 21:1-3
+**Bibelstelle:** 1. Mose 21:1-6
 **Erklärung:** 
 
 ### 284. Wie rettete Gott Hagar und den Knaben Ismael in der Wüste Beerscheba vor dem Verdursten?
@@ -2966,5 +2966,5 @@
 - [x] Die Arche setzt auf dem Gebirge Ararat auf
 - [x] Gott setzt den Regenbogen als Bundeszeichen
 
-**Bibelstelle:** 1. Mose 6:14-22
+**Bibelstelle:** 1. Mose 6:14-22; 1. Mose 7:11-12; 1. Mose 8:4-11; 1. Mose 9:12-17
 **Erklärung:** 

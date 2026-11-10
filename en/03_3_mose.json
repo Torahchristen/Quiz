@@ -70,19 +70,19 @@
           "explanation": ""
         },
         {
-          "text": "A female heifer of three years of age",
+          "text": "A young female breeding calf",
           "id": "opt_2",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "A young suckling calf without any spot",
+          "text": "A fatted beast of three years old",
           "id": "opt_3",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "A firstling heifer born in the holy camp",
+          "text": "A white firstborn calf",
           "id": "opt_4",
           "isCorrect": false,
           "explanation": ""
@@ -254,7 +254,7 @@
       "text": "What became of the skin of any man's burnt offering after the animal was slain?",
       "options": [
         {
-          "text": "It had to be burnt completely outside the camp",
+          "text": "It was burnt together with the flesh",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -266,13 +266,13 @@
           "isCorrect": true
         },
         {
-          "text": "It was given back to the offerer for his tent",
+          "text": "It was buried in the court before the people",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "It was laid before the ark in the most holy place",
+          "text": "It was given to the poor of the camp",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -292,13 +292,13 @@
       "text": "What were the three essential ingredients of an uncooked meat offering brought unto the LORD?",
       "options": [
         {
-          "text": "Barley flour, pure water, and sweet honey",
+          "text": "Barley meal, fresh honey, and salt",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "Crushed wheat, sweet wine, and bitter herbs",
+          "text": "Wheat flour, fine leaven, and oil",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -310,7 +310,7 @@
           "isCorrect": true
         },
         {
-          "text": "Coarse meal, sheep fat, and fragrant myrrh",
+          "text": "Fine flour, red wine, and white salt",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -374,19 +374,19 @@
           "isCorrect": true
         },
         {
-          "text": "Unto the offerer and his family for a sacred feast",
+          "text": "Unto the poor and the fatherless of the camp",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "Unto the poor strangers and widows in the gate",
+          "text": "Unto the offerer, that he might eat it",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "Unto the Levites who carried the sacred vessels",
+          "text": "Unto the Levitical singers in the court",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -403,10 +403,10 @@
       "questionId": "lev_011",
       "type": "single_choice",
       "difficulty": "easy",
-      "text": "Which two substances were strictly forbidden to be burnt in ANY meat offering unto the LORD?",
+      "text": "Which two substances were forbidden to be burnt in ANY offering of the LORD made by fire?",
       "options": [
         {
-          "text": "Pure olive oil and white salt of the sea",
+          "text": "Frankincense and pure olive oil",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -418,13 +418,13 @@
           "isCorrect": true
         },
         {
-          "text": "Sweet wine and bitter mountain herbs",
+          "text": "White salt and fine flour",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "Fine frankincense and dried myrrh",
+          "text": "Sheep's fat and fresh olive oil",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -444,13 +444,13 @@
       "text": "What seasoning was commanded to accompany every meat offering as an enduring sign of the covenant?",
       "options": [
         {
-          "text": "Pure frankincense from the merchants",
+          "text": "Fragrant myrrh from the south",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "Sweet olive oil from the sacred presses",
+          "text": "Fine calamus from far countries",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -462,7 +462,7 @@
           "isCorrect": true
         },
         {
-          "text": "Fragrant cinnamon from the southern land",
+          "text": "Ground cummin of the field",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -482,7 +482,7 @@
       "text": "In what manner were the firstfruits of the harvest to be offered as a meat offering unto the LORD?",
       "options": [
         {
-          "text": "As heavy sheaves of wheat freshly cut down",
+          "text": "As finely ground white flour in a basket",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -494,7 +494,7 @@
           "isCorrect": false
         },
         {
-          "text": "As unground barley seeds steeped in wine",
+          "text": "As unbaked grain bound in a bundle",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
@@ -526,19 +526,19 @@
           "isCorrect": true
         },
         {
-          "text": "Leavened loaves baked with dried sweet raisins",
+          "text": "Leavened cakes spread with honey",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "Boiled flour dumplings seasoned with fresh salt",
+          "text": "Roasted pieces of flesh with flour",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "Thin wafers rubbed with the sweet fat of sheep",
+          "text": "Loaves sodden in water in a pot",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -570,13 +570,13 @@
           "isCorrect": true
         },
         {
-          "text": "Only a young female heifer born in that year",
+          "text": "Only mother beasts with their young",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "Only twin bullocks brought from the home fold",
+          "text": "Only firstborn males",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -596,13 +596,13 @@
       "text": "Which inward portions of the peace offering were to be offered as an offering made by fire unto the LORD?",
       "options": [
         {
-          "text": "The heart, the lungs, and the flesh of the ribs",
+          "text": "The legs and the whole breast",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "The entire shoulder, the tongue, and the throat",
+          "text": "The maw and the fore legs",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -614,7 +614,7 @@
           "isCorrect": true
         },
         {
-          "text": "The hide of the breast, the marrow, and the spleen",
+          "text": "All the lean flesh of the beast",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -1052,13 +1052,13 @@
       "text": "What consequence befell a person who heard the voice of swearing and did not utter what he had seen?",
       "options": [
         {
-          "text": "He was banished from the camp for forty days",
+          "text": "He remained wholly guiltless before the law",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "He had to restore fourfold the hidden goods",
+          "text": "He was thrust out of the camp at once",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -1070,7 +1070,7 @@
           "isCorrect": true
         },
         {
-          "text": "He was disqualified from offering gifts at the altar",
+          "text": "He had to pay a threefold recompense",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -1172,19 +1172,19 @@
           "isCorrect": false
         },
         {
-          "text": "For it is a sin offering, and not a sweet savour",
+          "text": "For it is a sin offering",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": true
         },
         {
-          "text": "Because frankincense was reserved solely for the princes",
+          "text": "Because frankincense would spoil the flour",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "Because mourning rites forbade the use of sweet spices",
+          "text": "Because the priest might not touch any oil",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -1242,19 +1242,19 @@
       "text": "What restitution was the trespasser required to add to the valuation of the holy thing he had harmed?",
       "options": [
         {
-          "text": "A tenth part added unto the principal value",
+          "text": "Double the value of the thing",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "A third part added unto the estimated price",
+          "text": "The half part of the whole value",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "Double the amount of the damage that was done",
+          "text": "A tenth part of the damage done",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
@@ -2151,10 +2151,10 @@
       "questionId": "lev_059",
       "type": "single_choice",
       "difficulty": "easy",
-      "text": "What animal was Aaron commanded to take for his own personal sin offering on that day?",
+      "text": "What animals was Aaron commanded to take for his own sin offering and burnt offering?",
       "options": [
         {
-          "text": "An old male goat without blemish from the desert fold",
+          "text": "An he goat and a young she goat",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -2166,13 +2166,13 @@
           "isCorrect": true
         },
         {
-          "text": "A pair of young turtledoves brought from the holy mountain",
+          "text": "Two lambs without blemish from the pasture",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "A strong bullock of three years chosen from the home herd",
+          "text": "A young bullock and two young pigeons",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -2645,16 +2645,16 @@
       "questionId": "lev_072",
       "type": "single_choice",
       "difficulty": "medium",
-      "text": "Why was the swine declared unclean unto the children of Israel, though he divide the hoof?",
+      "text": "Why was the swine declared unclean according to the laws of clean and unclean beasts?",
       "options": [
         {
-          "text": "Because he feedeth upon unclean carrion in the mire",
+          "text": "Because he neither divideth the hoof nor cheweth the cud",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "Because he hath no horns upon his head to defend him",
+          "text": "Because he was kept as a tame beast only in the stall",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -2666,7 +2666,7 @@
           "isCorrect": true
         },
         {
-          "text": "Because he walloweth continually in damp marshland",
+          "text": "Because he was fed only at evening and never by day",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -3101,16 +3101,16 @@
       "questionId": "lev_084",
       "type": "single_choice",
       "difficulty": "hard",
-      "text": "How long did the priest shut up him that had the doubtful plague of leprosy for observation?",
+      "text": "How long did the priest at first shut up him that had a doubtful plague of leprosy?",
       "options": [
         {
-          "text": "Three days and nights in a private tent",
+          "text": "Three days for a first observation",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "For forty full days outside the camp gate",
+          "text": "Ten days without interruption",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -3122,7 +3122,7 @@
           "isCorrect": true
         },
         {
-          "text": "Twelve days until the new moon appeareth",
+          "text": "Forty days out in the wilderness",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -3177,28 +3177,28 @@
       "questionId": "lev_086",
       "type": "single_choice",
       "difficulty": "easy",
-      "text": "What signs was the leper in whom the plague is commanded to display before all men?",
+      "text": "What threefold sign was the leper commanded to bear in his clothes and appearance?",
       "options": [
         {
-          "text": "His clothes shall be rent, his head bare, and he shall cry, Unclean, unclean",
+          "text": "His clothes rent, his head bare, and a covering upon his upper lip",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": true
         },
         {
-          "text": "He had to wear black sackcloth, cast dust on his head, and carry a bell",
+          "text": "A black garment, shaven eyebrows, and a staff in his hand",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "He had to shave his eyebrows, wear wooden shoes, and walk backward",
+          "text": "A yellow band upon his arm, bare feet, and silence",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "He was required to cover his entire body with a heavy purple veil",
+          "text": "A white linen cloth about his loins and a layer of ashes",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -3712,13 +3712,13 @@
       "text": "What was done with a house if the plague returned and broke out again after the stones were taken out?",
       "options": [
         {
-          "text": "It was sealed up forever and shunned by the congregation",
+          "text": "It might still be used as a stall for cattle",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "It was cleansed again with twice the amount of cedar wood",
+          "text": "It was cleansed with a great offering",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -3730,7 +3730,7 @@
           "isCorrect": true
         },
         {
-          "text": "It was given to foreign merchants as a storage warehouse",
+          "text": "It was given over to the heathen neighbours",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -3937,28 +3937,28 @@
       "questionId": "lev_106",
       "type": "single_choice",
       "difficulty": "hard",
-      "text": "Under what condition alone was Aaron permitted to enter within the veil before the mercy seat?",
+      "text": "How often and under what condition was Aaron permitted to enter within the vail before the mercy seat?",
       "options": [
         {
-          "text": "Not at all times, but with a cloud of incense covering the mercy seat, lest he die",
+          "text": "Once a year, with a cloud of incense upon the mercy seat",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": true
         },
         {
-          "text": "At any time during the holy feasts when clothed in his glorious ephod",
+          "text": "Every sabbath after the burnt offering was offered",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "Whenever the seventy elders requested a solemn judgment from God",
+          "text": "Daily in the morning to burn the incense",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "On every new moon festival accompanied by the sound of silver trumpets",
+          "text": "At every new moon with the sin offering of the people",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -3967,7 +3967,7 @@
       "correctAnswers": [
         0
       ],
-      "bibleReference": "Leviticus 16:2",
+      "bibleReference": "Leviticus 16:2; Leviticus 16:13; Leviticus 16:34",
       "explanation": "",
       "explanationReviewed": false
     },
@@ -4510,19 +4510,19 @@
       "text": "What fundamental moral prohibition begins the statutes concerning near kindred?",
       "options": [
         {
-          "text": "Trading with heathen strangers upon the holy Sabbath day",
+          "text": "Trading in the gold of strangers",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "Eating the fat of any beast offered upon private altars",
+          "text": "Eating the fat of the beasts of sacrifice",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "Building houses within forty cubits of a brother's tent",
+          "text": "Doing any work upon the holy sabbath",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
@@ -5124,13 +5124,13 @@
           "isCorrect": false
         },
         {
-          "text": "He was sentenced to seven years of hard bondage",
+          "text": "He lost his birthright in the house for ever",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "He was beaten with rods before the city elders",
+          "text": "He was beaten with forty stripes before the elders",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
@@ -5305,16 +5305,16 @@
       "questionId": "lev_142",
       "type": "single_choice",
       "difficulty": "medium",
-      "text": "Which woman was a common priest strictly forbidden NOT to marry according to the law?",
+      "text": "Which woman was a common priest strictly forbidden to marry according to the law?",
       "options": [
         {
-          "text": "A whore, or profane, or a woman put away by husband",
+          "text": "A whore, or profane, or a woman put away from her husband",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": true
         },
         {
-          "text": "A maiden born of the daughters of the house of Levi",
+          "text": "A virgin of the tribes of the people of Israel",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -5326,7 +5326,7 @@
           "isCorrect": false
         },
         {
-          "text": "A young virgin chosen from the twelve tribes of Israel",
+          "text": "A daughter of the Levitical house of Aaron",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -5761,28 +5761,28 @@
       "questionId": "lev_154",
       "type": "single_choice",
       "difficulty": "medium",
-      "text": "What boughs and branches were Israel commanded to take on the first day to rejoice before the LORD?",
+      "text": "What were the Israelites to take on the first day of the feast of tabernacles to rejoice before the LORD?",
       "options": [
         {
-          "text": "Boughs of goodly trees, palm branches, and willows",
+          "text": "Boughs of goodly trees, palm branches, boughs of thick trees, and willows",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": true
         },
         {
-          "text": "Branches of cedar wood, olive boughs, and hyssop",
+          "text": "Cedar branches, olive boughs, bunches of hyssop, and tamarisk twigs",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "Oak leaves, cypress twigs, and fragrant myrtle",
+          "text": "Oak leaves, cypress twigs, bay branches, and reeds",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "Pomegranate boughs, fig tree leaves, and vines",
+          "text": "Pomegranate boughs, fig leaves, vine branches, and ears of corn",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -5814,13 +5814,13 @@
           "isCorrect": true
         },
         {
-          "text": "On the fourteenth day at twilight even as passover",
+          "text": "On the fifteenth day of the seventh month",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "On the fifteenth day when feast of booths began",
+          "text": "On the last day of the month at the new moon",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -5840,13 +5840,13 @@
       "text": "What kind of oil was commanded to be brought for the golden candlestick to cause lamps to burn continually?",
       "options": [
         {
-          "text": "Fine sesame oil scented with sweet mountain myrrh",
+          "text": "Oil pressed from boiled olives of the harvest",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "Sweet almond oil pressed from blossoms of Hermon",
+          "text": "Olive oil mingled with fine balm",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -5858,7 +5858,7 @@
           "isCorrect": true
         },
         {
-          "text": "Clarified animal fat seasoned with fine white salt",
+          "text": "Oil of the first unripe olives of the spring",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -5878,25 +5878,25 @@
       "text": "How many cakes of shewbread were set in order upon the pure table every Sabbath day?",
       "options": [
         {
-          "text": "Seven loaves set in a circle around the golden cup",
+          "text": "Seven loaves of shewbread for the feast days",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "Twenty-four small cakes divided into four equal rows",
+          "text": "Ten loaves according to the commandments",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "Ten loaves according to the commandments of the law",
+          "text": "Twenty-four loaves for the priests",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "Twelve cakes set in two rows, six upon a row, table",
+          "text": "Twelve cakes set in two rows, six on a row",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": true
@@ -5905,7 +5905,7 @@
       "correctAnswers": [
         3
       ],
-      "bibleReference": "Leviticus 24:5-6",
+      "bibleReference": "Leviticus 24:5-8",
       "explanation": "",
       "explanationReviewed": false
     },
@@ -5913,7 +5913,7 @@
       "questionId": "lev_158",
       "type": "single_choice",
       "difficulty": "medium",
-      "text": "What crime did the son of an Israelitish woman whose father was an Egyptian commit in the camp?",
+      "text": "What crime did the son of Shelomith, an Israelitish woman, commit in the camp?",
       "options": [
         {
           "text": "He blasphemed the name of the LORD, and cursed",
@@ -5922,19 +5922,19 @@
           "isCorrect": true
         },
         {
-          "text": "He stole the consecrated shewbread from the table",
+          "text": "He stole the gold out of the court of the tabernacle",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "He refused to be circumcised before the elders",
+          "text": "He broke the law of the holy sabbath",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "He entered into the most holy place in bad linen",
+          "text": "He offered an unclean beast upon the altar",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -5954,7 +5954,7 @@
       "text": "What judgment did the congregation execute upon the blasphemer outside the camp?",
       "options": [
         {
-          "text": "He was banished into the desert for forty full days",
+          "text": "He was banished out of the land for ever with shame and reproach",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -5966,13 +5966,13 @@
           "isCorrect": true
         },
         {
-          "text": "He was beaten with forty stripes save one in the gate",
+          "text": "He had to pay a sevenfold ransom unto the sanctuary",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "He had to bring seven rams for a trespass offering",
+          "text": "He was given unto the Levitical priests as a bondman for ever",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -5992,25 +5992,25 @@
       "text": "How is the principle of retributive justice for bodily injury expressed in the law?",
       "options": [
         {
-          "text": "A monetary compensation set by the judges in gate",
+          "text": "Fivefold restitution for every damage suffered",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "Double restitution paid unto the injured household",
+          "text": "Threefold payment unto the judge of the house",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "Breach for breach, eye for eye, and tooth for tooth",
+          "text": "Breach for breach, eye for eye, tooth for tooth",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": true
         },
         {
-          "text": "Seven years of bondage in the house of the injured",
+          "text": "Lifelong bondage for the offender",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -6030,19 +6030,19 @@
       "text": "What was commanded concerning the land in the seventh year (sabbatical year)?",
       "options": [
         {
-          "text": "It was given over to foreign strangers to cultivate",
+          "text": "It was to be sown and reaped twice over",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "It was planted solely with barley and bitter herbs",
+          "text": "It had to be let out unto strange husbandmen",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "It was fertilized with ashes from the sacred altar",
+          "text": "Its increase belonged to the priests in the court alone",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
@@ -6074,19 +6074,19 @@
           "isCorrect": true
         },
         {
-          "text": "The year of double tribute paid unto the sanctuary",
+          "text": "The year of a double harvest for the priests",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "The year of solemn repentance throughout all tribes",
+          "text": "A year of fasting and mourning throughout the land",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "The year of building new fortified desert cities",
+          "text": "The year of firstfruits in the land of Canaan",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -6530,19 +6530,19 @@
           "isCorrect": true
         },
         {
-          "text": "It could be redeemed after three years for double",
+          "text": "It could be redeemed again after three years",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "A third part of its value was returned to the man",
+          "text": "A third part of it belonged to the man that offered it",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "It was given unto poor strangers lodging outside",
+          "text": "It could be redeemed for double the money",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false

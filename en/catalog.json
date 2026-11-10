@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-11-07T16:18:43Z",
+  "lastUpdated": "2026-11-10T15:01:29Z",
   "language": "en",
   "categories": [
     {
@@ -61,7 +61,7 @@
         "Bible Quiz",
         "KJV"
       ],
-      "sizeBytes": 328832,
+      "sizeBytes": 329379,
       "downloadUrl": "./en/01_1_mose.json"
     },
     {
@@ -80,7 +80,7 @@
         "law",
         "KJV"
       ],
-      "sizeBytes": 317140,
+      "sizeBytes": 316324,
       "downloadUrl": "./en/02_2_mose.json"
     },
     {
@@ -99,7 +99,7 @@
         "law",
         "KJV"
       ],
-      "sizeBytes": 189573,
+      "sizeBytes": 188782,
       "downloadUrl": "./en/03_3_mose.json"
     },
     {
@@ -118,7 +118,7 @@
         "law",
         "KJV"
       ],
-      "sizeBytes": 273112,
+      "sizeBytes": 272640,
       "downloadUrl": "./en/04_4_mose.json"
     },
     {
@@ -137,7 +137,7 @@
         "law",
         "KJV"
       ],
-      "sizeBytes": 219874,
+      "sizeBytes": 219491,
       "downloadUrl": "./en/05_5_mose.json"
     },
     {
@@ -156,7 +156,7 @@
         "history",
         "KJV"
       ],
-      "sizeBytes": 159346,
+      "sizeBytes": 159283,
       "downloadUrl": "./en/06_josua.json"
     },
     {
@@ -175,7 +175,7 @@
         "history",
         "KJV"
       ],
-      "sizeBytes": 150899,
+      "sizeBytes": 149826,
       "downloadUrl": "./en/07_richter.json"
     },
     {
@@ -194,7 +194,7 @@
         "history",
         "KJV"
       ],
-      "sizeBytes": 27025,
+      "sizeBytes": 27073,
       "downloadUrl": "./en/08_rut.json"
     },
     {
@@ -213,7 +213,7 @@
         "history",
         "KJV"
       ],
-      "sizeBytes": 121545,
+      "sizeBytes": 121162,
       "downloadUrl": "./en/09_1_samuel.json"
     },
     {
@@ -232,7 +232,7 @@
         "history",
         "KJV"
       ],
-      "sizeBytes": 68479,
+      "sizeBytes": 68481,
       "downloadUrl": "./en/10_2_samuel.json"
     },
     {
@@ -251,7 +251,7 @@
         "history",
         "KJV"
       ],
-      "sizeBytes": 60989,
+      "sizeBytes": 61174,
       "downloadUrl": "./en/11_1_koenige.json"
     },
     {
@@ -270,7 +270,7 @@
         "history",
         "KJV"
       ],
-      "sizeBytes": 69074,
+      "sizeBytes": 69086,
       "downloadUrl": "./en/12_2_koenige.json"
     },
     {
@@ -289,7 +289,7 @@
         "history",
         "KJV"
       ],
-      "sizeBytes": 72411,
+      "sizeBytes": 72418,
       "downloadUrl": "./en/13_1_chronik.json"
     },
     {
@@ -308,7 +308,7 @@
         "history",
         "KJV"
       ],
-      "sizeBytes": 86956,
+      "sizeBytes": 87023,
       "downloadUrl": "./en/14_2_chronik.json"
     },
     {
@@ -327,7 +327,7 @@
         "history",
         "KJV"
       ],
-      "sizeBytes": 27578,
+      "sizeBytes": 27576,
       "downloadUrl": "./en/15_esra.json"
     },
     {
@@ -346,7 +346,7 @@
         "history",
         "KJV"
       ],
-      "sizeBytes": 35692,
+      "sizeBytes": 35555,
       "downloadUrl": "./en/16_nehemia.json"
     },
     {
@@ -365,7 +365,7 @@
         "history",
         "KJV"
       ],
-      "sizeBytes": 28295,
+      "sizeBytes": 28264,
       "downloadUrl": "./en/17_esther.json"
     },
     {
@@ -384,7 +384,7 @@
         "wisdom",
         "KJV"
       ],
-      "sizeBytes": 143036,
+      "sizeBytes": 143091,
       "downloadUrl": "./en/18_hiob.json"
     },
     {
@@ -404,7 +404,7 @@
         "poetry",
         "KJV"
       ],
-      "sizeBytes": 120104,
+      "sizeBytes": 117960,
       "downloadUrl": "./en/19_psalmen.json"
     },
     {
@@ -424,7 +424,7 @@
         "poetry",
         "KJV"
       ],
-      "sizeBytes": 87242,
+      "sizeBytes": 87523,
       "downloadUrl": "./en/20_sprueche.json"
     },
     {
@@ -444,7 +444,7 @@
         "poetry",
         "KJV"
       ],
-      "sizeBytes": 40734,
+      "sizeBytes": 40628,
       "downloadUrl": "./en/21_prediger.json"
     },
     {
@@ -483,7 +483,7 @@
         "prophets",
         "KJV"
       ],
-      "sizeBytes": 189411,
+      "sizeBytes": 188991,
       "downloadUrl": "./en/23_jesaja.json"
     },
     {
@@ -502,7 +502,7 @@
         "prophets",
         "KJV"
       ],
-      "sizeBytes": 154479,
+      "sizeBytes": 154478,
       "downloadUrl": "./en/24_jeremia.json"
     },
     {
@@ -522,7 +522,7 @@
         "prophets",
         "KJV"
       ],
-      "sizeBytes": 19219,
+      "sizeBytes": 19183,
       "downloadUrl": "./en/25_klagelieder.json"
     },
     {
@@ -541,7 +541,7 @@
         "prophets",
         "KJV"
       ],
-      "sizeBytes": 136984,
+      "sizeBytes": 136573,
       "downloadUrl": "./en/26_hesekiel.json"
     },
     {
@@ -560,7 +560,7 @@
         "prophets",
         "KJV"
       ],
-      "sizeBytes": 37053,
+      "sizeBytes": 37608,
       "downloadUrl": "./en/27_daniel.json"
     },
     {
@@ -579,7 +579,7 @@
         "prophets",
         "KJV"
       ],
-      "sizeBytes": 43732,
+      "sizeBytes": 43269,
       "downloadUrl": "./en/28_hosea.json"
     },
     {
@@ -598,7 +598,7 @@
         "prophets",
         "KJV"
       ],
-      "sizeBytes": 18294,
+      "sizeBytes": 18176,
       "downloadUrl": "./en/29_joel.json"
     },
     {
@@ -617,7 +617,7 @@
         "prophets",
         "KJV"
       ],
-      "sizeBytes": 27203,
+      "sizeBytes": 27198,
       "downloadUrl": "./en/30_amos.json"
     },
     {
@@ -655,7 +655,7 @@
         "prophets",
         "KJV"
       ],
-      "sizeBytes": 20435,
+      "sizeBytes": 20460,
       "downloadUrl": "./en/32_jona.json"
     },
     {
@@ -674,7 +674,7 @@
         "prophets",
         "KJV"
       ],
-      "sizeBytes": 21924,
+      "sizeBytes": 21929,
       "downloadUrl": "./en/33_micha.json"
     },
     {
@@ -712,7 +712,7 @@
         "prophets",
         "King James Version"
       ],
-      "sizeBytes": 16616,
+      "sizeBytes": 16618,
       "downloadUrl": "./en/35_habakuk.json"
     },
     {
@@ -731,7 +731,7 @@
         "prophets",
         "King James Version"
       ],
-      "sizeBytes": 16268,
+      "sizeBytes": 16217,
       "downloadUrl": "./en/36_zephanja.json"
     },
     {
@@ -769,7 +769,7 @@
         "prophets",
         "King James Version"
       ],
-      "sizeBytes": 38159,
+      "sizeBytes": 38432,
       "downloadUrl": "./en/38_sacharja.json"
     },
     {
@@ -788,7 +788,7 @@
         "prophets",
         "King James Version"
       ],
-      "sizeBytes": 18170,
+      "sizeBytes": 18329,
       "downloadUrl": "./en/39_maleachi.json"
     },
     {
@@ -810,7 +810,7 @@
         "Messiah",
         "King James Version"
       ],
-      "sizeBytes": 139657,
+      "sizeBytes": 139878,
       "downloadUrl": "./en/40_matthaeus.json"
     },
     {
@@ -831,7 +831,7 @@
         "Messiah",
         "King James Version"
       ],
-      "sizeBytes": 76638,
+      "sizeBytes": 76518,
       "downloadUrl": "./en/41_markus.json"
     },
     {
@@ -852,7 +852,7 @@
         "Messiah",
         "King James Version"
       ],
-      "sizeBytes": 116634,
+      "sizeBytes": 116763,
       "downloadUrl": "./en/42_lukas.json"
     },
     {
@@ -874,7 +874,7 @@
         "Incarnation",
         "King James Version"
       ],
-      "sizeBytes": 105946,
+      "sizeBytes": 104582,
       "downloadUrl": "./en/43_johannes.json"
     },
     {
@@ -897,7 +897,7 @@
         "Peter",
         "King James Version"
       ],
-      "sizeBytes": 136023,
+      "sizeBytes": 131597,
       "downloadUrl": "./en/44_apostelgeschichte.json"
     },
     {
@@ -921,7 +921,7 @@
         "Grace",
         "King James Version"
       ],
-      "sizeBytes": 81492,
+      "sizeBytes": 81072,
       "downloadUrl": "./en/45_roemer.json"
     },
     {
@@ -946,7 +946,7 @@
         "Resurrection",
         "King James Version"
       ],
-      "sizeBytes": 82011,
+      "sizeBytes": 79649,
       "downloadUrl": "./en/46_1_korinther.json"
     },
     {
@@ -971,7 +971,7 @@
         "Giving",
         "King James Version"
       ],
-      "sizeBytes": 67945,
+      "sizeBytes": 66842,
       "downloadUrl": "./en/47_2_korinther.json"
     },
     {
@@ -994,7 +994,7 @@
         "Spirit",
         "King James Version"
       ],
-      "sizeBytes": 28904,
+      "sizeBytes": 28897,
       "downloadUrl": "./en/48_galater.json"
     },
     {
@@ -1017,7 +1017,7 @@
         "Armor of God",
         "King James Version"
       ],
-      "sizeBytes": 29513,
+      "sizeBytes": 29508,
       "downloadUrl": "./en/49_epheser.json"
     },
     {
@@ -1040,7 +1040,7 @@
         "Christ Jesus",
         "King James Version"
       ],
-      "sizeBytes": 19508,
+      "sizeBytes": 19496,
       "downloadUrl": "./en/50_philipper.json"
     },
     {
@@ -1062,7 +1062,7 @@
         "Reconciliation",
         "King James Version"
       ],
-      "sizeBytes": 19435,
+      "sizeBytes": 19456,
       "downloadUrl": "./en/51_kolosser.json"
     },
     {
@@ -1085,7 +1085,7 @@
         "Hope",
         "King James Version"
       ],
-      "sizeBytes": 24615,
+      "sizeBytes": 24636,
       "downloadUrl": "./en/52_1_thessalonicher.json"
     },
     {
@@ -1107,7 +1107,7 @@
         "Man of Sin",
         "King James Version"
       ],
-      "sizeBytes": 16075,
+      "sizeBytes": 16077,
       "downloadUrl": "./en/53_2_thessalonicher.json"
     },
     {
@@ -1152,7 +1152,7 @@
         "Scripture",
         "King James Version"
       ],
-      "sizeBytes": 19985,
+      "sizeBytes": 20054,
       "downloadUrl": "./en/55_2_timotheus.json"
     },
     {
@@ -1176,7 +1176,7 @@
         "Good Works",
         "King James Version"
       ],
-      "sizeBytes": 15476,
+      "sizeBytes": 15480,
       "downloadUrl": "./en/56_titus.json"
     },
     {
@@ -1222,7 +1222,7 @@
         "New Covenant",
         "King James Version"
       ],
-      "sizeBytes": 62833,
+      "sizeBytes": 62810,
       "downloadUrl": "./en/58_hebraeer.json"
     },
     {
@@ -1245,7 +1245,7 @@
         "Tongue",
         "King James Version"
       ],
-      "sizeBytes": 23977,
+      "sizeBytes": 23928,
       "downloadUrl": "./en/59_jakobus.json"
     },
     {
@@ -1290,7 +1290,7 @@
         "Day of the Lord",
         "King James Version"
       ],
-      "sizeBytes": 14559,
+      "sizeBytes": 14576,
       "downloadUrl": "./en/61_2_petrus.json"
     },
     {
@@ -1313,7 +1313,7 @@
         "Commandments",
         "King James Version"
       ],
-      "sizeBytes": 23766,
+      "sizeBytes": 23798,
       "downloadUrl": "./en/62_1_johannes.json"
     },
     {
@@ -1357,7 +1357,7 @@
         "Demetrius",
         "King James Version"
       ],
-      "sizeBytes": 5297,
+      "sizeBytes": 5300,
       "downloadUrl": "./en/64_3_johannes.json"
     },
     {
@@ -1402,7 +1402,7 @@
         "New Jerusalem",
         "King James Version"
       ],
-      "sizeBytes": 118012,
+      "sizeBytes": 118514,
       "downloadUrl": "./en/66_offenbarung.json"
     }
   ]

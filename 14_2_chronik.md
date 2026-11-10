@@ -99,7 +99,7 @@
 
 ### 10. Wo trat König Abia von Juda dem Heer Jerobeams mit deutlichen Worten entgegen?
 
-- [ ] Auf dem Gebirge Ephraim bei der alten Stadt Sichem
+- [ ] Auf dem Berge Gilboa in der Ebene Jesreel
 - [ ] Im Tal Rephaim vor den Toren der Stadt Jerusalem
 - [ ] Vor den heiligen Pforten der Priesterstadt Bethel
 - [x] Auf dem Berge Zemarajim, der auf dem Gebirge Ephraim liegt
@@ -164,7 +164,7 @@
 - [ ] Die Ägypter, die Babylonier und die starken Scharen Assurs
 - [ ] Die Chaldäer, die Phönizier und die Räuber der Wüste Paran
 
-**Bibelstelle:** 2. Chronik 20:1-3
+**Bibelstelle:** 2. Chronik 20:1-3, 10
 **Erklärung:** 
 
 ### 17. Welche Anordnung traf Josaphat für den Auszug des Heeres in die Wüste Thekoa?
@@ -317,7 +317,7 @@
 **Bibelstelle:** 2. Chronik 34:26-28
 **Erklärung:** 
 
-### 32. Welche Botschaft sandte Pharao Necho an Josia, als dieser ihm bei Karchemis entgegentrat?
+### 32. Welche Botschaft sandte Pharao Necho an Josia, als dieser ihm auf dem Zug gegen Karchemis entgegenzog?
 
 - [ ] Er wolle ganz Juda erobern und den Tempel niederbrennen
 - [x] Gott habe ihm geboten zu eilen; Josia solle Gott nicht widerstehen
@@ -339,7 +339,7 @@
 
 ### 34. Warum lag das Land siebzig Jahre lang wüst, nachdem das Volk gen Babel weggeführt war?
 
-- [ ] Um alle geraubten Schätze des Tempels zu tilgen
+- [ ] Bis alle heiligen Geräte des Tempels zurückgebracht wären
 - [ ] Bis die Könige von Ägypten gänzlich fielen
 - [ ] Bis der große Palast zu Babel verbrannt war
 - [x] Bis das Land an seinen Sabbaten genug hatte
@@ -372,7 +372,7 @@
 - [ ] Er forderte das Doppelte an Weizen und verweigerte Bauholz
 - [ ] Er rüstete eine Kriegsflotte gegen Salomo aus im Meere
 - [ ] Er verlangte heidnische Götzenbilder für den Tempelvorhof
-- [x] Er lobte den HERRN und sandte den Meister Huram, seinen Rat
+- [x] Er lobte den HERRN und sandte den weisen Meister Huram
 
 **Bibelstelle:** 2. Chronik 2:10-13
 **Erklärung:** 
@@ -481,7 +481,7 @@
 
 - [ ] Er werde die Mauern Jerusalems durch Erdbeben brechen
 - [ ] Er werde alle Priester absetzen und Opfer verwerfen
-- [x] Er werde sie aus seinem Land auswurzeln zum Sprichwort
+- [x] Er werde sie auswurzeln aus seinem Land, das er ihnen gegeben hat
 - [ ] Er werde dem Volk für sieben Jahre den Regen wehren
 
 **Bibelstelle:** 2. Chronik 7:20
@@ -531,7 +531,7 @@
 
 - [ ] Fünfundzwanzig Jahre in großem Reichtum
 - [ ] Dreißig Jahre, bis sein Sohn König wurde
-- [ ] Fünfzig Jahre bis zu seinem hohem Alter
+- [ ] Fünfzig Jahre bis zu seinem hohen Alter
 - [x] Vierzig Jahre regierte Salomo in Frieden
 
 **Bibelstelle:** 2. Chronik 9:30
@@ -561,7 +561,7 @@
 
 - [ ] Mein Vater züchtigte mit Ruten; ich lasse euch frei!
 - [ ] Ich erlasse euch alle Dienste für zehntausend Krieger!
-- [x] Mein kleiner Finger ist dicker als meines Vaters Lenden!
+- [x] Mein Vater hat euch mit Peitschen gezüchtigt, ich aber mit Skorpionen!
 - [ ] Wer sich mir widersetzt, dessen Sippe wird verbannt!
 
 **Bibelstelle:** 2. Chronik 10:10-14

@@ -60,15 +60,15 @@
           "explanation": ""
         },
         {
-          "text": "From Beth-lehem-judah in the land Judah",
+          "text": "From the city of Beth-lehem-judah",
           "explanation": ""
         },
         {
-          "text": "From the tabernacle city Shiloh in land",
+          "text": "From Shiloh, the city of the tabernacle",
           "explanation": ""
         },
         {
-          "text": "From Bethel in the hill of Mount Ephraim",
+          "text": "From the city of Beth-el in mount Ephraim",
           "explanation": ""
         }
       ],
@@ -390,15 +390,15 @@
           "explanation": ""
         },
         {
-          "text": "The LORD give thee rich flocks upon mountains",
+          "text": "The LORD give thee rich flocks upon the mountains",
           "explanation": ""
         },
         {
-          "text": "The LORD make thee a queen over land Canaan",
+          "text": "The LORD make thee a queen over the land of Canaan",
           "explanation": ""
         },
         {
-          "text": "The LORD build thee palaces in tribe Judah",
+          "text": "The LORD give thee many palaces in the tribe of Judah",
           "explanation": ""
         }
       ],
@@ -443,8 +443,8 @@
       "correctAnswers": [
         1
       ],
-      "explanation": "",
-      "explanationReviewed": false,
+      "explanation": "An ephah was an ancient biblical dry measure for grain, equal to about 20 to 22 liters (Ruth 2:17).",
+      "explanationReviewed": true,
       "bibleReference": "Ruth 2:17"
     },
     {
@@ -481,8 +481,8 @@
       "correctAnswers": [
         2
       ],
-      "explanation": "An ephah was an ancient biblical dry measure for grain, equal to about 20 to 22 liters (Ruth 2:17).",
-      "explanationReviewed": true,
+      "explanation": "",
+      "explanationReviewed": false,
       "bibleReference": "Ruth 2:20"
     },
     {
@@ -595,7 +595,7 @@
       "questionId": "rut_019",
       "type": "single_choice",
       "difficulty": "easy",
-      "text": "What testimony did Boaz give concerning Ruth in Ruth 3:11?",
+      "text": "What testimony did Boaz give unto Ruth by night at the threshingfloor?",
       "options": [
         {
           "text": "That she was the richest woman among the strangers",
@@ -606,11 +606,11 @@
           "explanation": ""
         },
         {
-          "text": "All the city doth know thou art a virtuous woman",
+          "text": "That all the city of his people did know she was a virtuous woman",
           "explanation": ""
         },
         {
-          "text": "That she was sole heir of all house of Elimelech",
+          "text": "That she was sole heir of all the house of Elimelech",
           "explanation": ""
         }
       ],
@@ -786,7 +786,7 @@
           "explanation": ""
         },
         {
-          "text": "They poured a full measure of barley upon the city thresh",
+          "text": "They poured a full measure of barley upon the threshold",
           "explanation": ""
         },
         {

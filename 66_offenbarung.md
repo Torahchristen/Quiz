@@ -87,7 +87,7 @@
 **Bibelstelle:** Offenbarung 2:13
 **Erklärung:** 
 
-### 9. Welches Manna wird dem Überwinder im Schreiben an Pergamon versprochen?
+### 9. Was wird dem Überwinder in Pergamon verheißen?
 
 - [ ] Von dem Brot aus dem Tempel und einem schwarzen Stein mit dem Namen des Königs
 - [x] Von dem verborgenen Manna und einem weißen Stein mit einem neuen Namen
@@ -127,7 +127,7 @@
 **Bibelstelle:** Offenbarung 3:8
 **Erklärung:** 
 
-### 13. Zu was wird der Überwinder im künftigen Tempel Gottes gemacht?
+### 13. Wozu will der Herr den Überwinder in Philadelphia machen?
 
 - [ ] Zu einem Diener des Hohenpriesters
 - [x] Zu einer Säule im Tempel meines Gottes
@@ -199,7 +199,7 @@
 
 ### 20. Was rufen die vier lebendigen Wesen unaufhörlich Tag und Nacht vor Gott?
 
-- [x] Heilig, heilig, heilig ist Gott der Herr, der da war und der da ist und der da kommt
+- [x] Heilig, heilig, heilig ist der Herr, Gott der Allmächtige, der da war und der da ist und der da kommt
 - [ ] Gericht, Gericht, Gericht ist der Herr, der Richter über alle Völker der Erde
 - [ ] Gerecht, gerecht, gerecht sind seine Wege, die er gegangen ist und noch gehen wird
 - [ ] Gnade, Gnade, Gnade für alle Menschen, die zu ihm rufen und zu ihm kommen
@@ -317,7 +317,7 @@
 **Bibelstelle:** Offenbarung 7:4
 **Erklärung:** 
 
-### 32. Aus wie vielen Einzelnen besteht die Versiegeltenzahl pro Stamm Israels?
+### 32. Wie viele wurden aus jedem Stamm Israels versiegelt?
 
 - [x] Zwölftausend aus jedem Stamm
 - [ ] Eintausend aus jedem Stamm
@@ -427,7 +427,7 @@
 **Bibelstelle:** Offenbarung 9:4
 **Erklärung:** 
 
-### 43. Wie lange dauert die Qual, die den unbußfertigen Menschen geschlagen wird?
+### 43. Wie lange dürfen die Heuschrecken die Menschen ohne das Siegel Gottes quälen?
 
 - [ ] Drei Monate lang ohne Unterbrechung, wie der Stich einer Schlange
 - [ ] Sieben Jahre lang, wie der Biss eines Wolfes
@@ -587,7 +587,7 @@
 **Bibelstelle:** Offenbarung 12:3
 **Erklärung:** 
 
-### 59. Wohin wird das knabenhafte Kind der Frau nach der Geburt gerückt?
+### 59. Wohin wird der Sohn der Frau nach der Geburt entrückt?
 
 - [ ] In die Wüste, wo ihm Gott eine Stätte bereitet hatte
 - [ ] In den Tempel, wo ihm die Priester ein Haus bauten
@@ -697,7 +697,7 @@
 **Bibelstelle:** Offenbarung 14:8
 **Erklärung:** 
 
-### 70. Womit ist Der sitzend auf der weißen Wolke gekrönt und bewaffnet?
+### 70. Was hält der, der auf der weißen Wolke sitzt, in seiner Hand?
 
 - [ ] Ein flammendes Richtschwert
 - [ ] Ein langes goldenes Zepter
@@ -937,11 +937,11 @@
 **Bibelstelle:** Offenbarung 19:8
 **Erklärung:** 
 
-### 94. Welchen Namen trägt der siegreiche Reiter auf dem weißen Pferd?
+### 94. Auf welchem Pferd reitet der Treue und Wahrhaftige, und wie ist sein Gewand beschaffen?
 
 - [ ] Ein schwarzes Pferd; Gewand in Purpur und Gold gehüllt
 - [ ] Ein feuerrotes Pferd; Gewand mit Löwenfell geschmückt
-- [x] Ein weißes Pferd; Gewand in reines Blut getaucht
+- [x] Ein weißes Pferd; Gewand in Blut getaucht
 - [ ] Ein grünes Pferd; Gewand aus glänzendem Silberstoff
 
 **Bibelstelle:** Offenbarung 19:11-13
@@ -1124,7 +1124,7 @@
 - [x] Smyrna
 - [x] Pergamon
 
-**Bibelstelle:** Offenbarung 2:1
+**Bibelstelle:** Offenbarung 2:1-18
 **Erklärung:** 
 
 ### 113. Bringe die vier Reiter der ersten vier Siegel nach ihrer Pferdefarbe in die richtige Reihenfolge.
@@ -1134,5 +1134,5 @@
 - [x] Das feuerrote Pferd
 - [x] Das weiße Pferd
 
-**Bibelstelle:** Offenbarung 6:2
+**Bibelstelle:** Offenbarung 6:1-8
 **Erklärung:** 

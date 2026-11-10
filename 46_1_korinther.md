@@ -69,12 +69,12 @@
 
 ### 7. Worauf stützte sich die Verkündigung des Paulus bei den Korinthern nicht?
 
-- [ ] Auf den Beistand des Geistes und die Kraft der Zeichen
-- [ ] Auf das Gesetz der Väter und die Überlieferung der Ältesten
-- [ ] Auf die Heilige Schrift und die Auslegung der Gelehrten
+- [ ] Auf die Erweisung des Geistes und der Kraft
+- [ ] Auf das Zeugnis Gottes, das er ihnen verkündigte
+- [ ] Auf Jesus Christus, und zwar als den Gekreuzigten
 - [x] Auf überredende Worte menschlicher Weisheit
 
-**Bibelstelle:** 1. Korinther 2:4-5
+**Bibelstelle:** 1. Korinther 2:1-5
 **Erklärung:** 
 
 ### 8. Wer erforscht die verborgenen Tiefen der Gottheit nach den Worten des Paulus?
@@ -90,7 +90,7 @@
 ### 9. Warum vermag der natürliche Mensch die Dinge des Geistes Gottes nicht anzunehmen?
 
 - [ ] Das Gesetz verbietet es ihm, und er darf es daher nicht annehmen oder verstehen
-- [x] Es ist ihm eine Torheit, und er kann es nicht erkennen, weil es geistlich beurteilt wird
+- [x] Es ist ihm eine Torheit, und er kann es nicht verstehen, weil es geistlich beurteilt werden muss
 - [ ] Er besitzt keine Schriften und Lehrer, aus denen er die Wahrheit lernen könnte
 - [ ] Böse Mächte hindern ihn daran, und so bleibt ihm das Geistliche verborgen
 
@@ -117,7 +117,7 @@
 **Bibelstelle:** 1. Korinther 3:1-3
 **Erklärung:** 
 
-### 12. Welches Bild aus der Landwirtschaft gebraucht Paulus für Seinen Dienst und den des Apollos?
+### 12. Welches Bild aus der Landwirtschaft gebraucht Paulus für seinen Dienst und den des Apollos?
 
 - [x] Paulus pflanzte, Apollos begoss, aber Gott gab das Gedeihen
 - [ ] Paulus erntete, Apollos säte, aber Gott gab die Frucht
@@ -139,10 +139,10 @@
 
 ### 14. Wodurch wird das Bauwerk eines jeden Arbeiters am Tage des Gerichts geprüft werden?
 
-- [ ] Gold, Silber und kostbare Steine
-- [ ] Marmor, Granit und gebrannte Ziegel
-- [x] Vergängliches Holz, Heu und Stroh
-- [ ] Kupfer, gehärtetes Eisen und Bronze
+- [ ] Durch das Urteil eines römischen Richters
+- [ ] Durch die Abstimmung der versammelten Brüder
+- [x] Durch das Feuer, das jedes Werk erprobt
+- [ ] Durch das Abwägen irdischer Reichtümer
 
 **Bibelstelle:** 1. Korinther 3:12-15
 **Erklärung:** 
@@ -159,7 +159,7 @@
 
 ### 16. Als was sollen die Menschen die Apostel und Verkündiger des Evangeliums ansehen?
 
-- [x] Als Diener Christi und Haushalter über Gottes Geheimnisse
+- [x] Als Untergebene Christi und Verwalter der Geheimnisse Gottes
 - [ ] Als Herren über den Glauben, denen die Gemeinde gehorchen muss
 - [ ] Als Richter der Gemeinde, die über Schuld und Unschuld entscheiden
 - [ ] Als Könige der Weltzeit, die im Namen Christi herrschen
@@ -297,7 +297,7 @@
 **Bibelstelle:** 1. Korinther 6:15-17
 **Erklärung:** 
 
-### 30. Wozu ist der leibliche Körper des Glaubenden nach den Schlussversen von Kapitel 6 geweiht?
+### 30. Was ist der Leib des Glaubenden nach den Schlussversen von Kapitel 6?
 
 - [ ] Der Leib ist Wohnsitz der Seele, die nach dem Tod zu Gott zurückkehrt
 - [ ] Der Leib ist Haus irdischer Schätze, die man hier erwirbt
@@ -412,7 +412,7 @@
 - [ ] Auf das Recht, in der Gemeinde zu predigen
 - [x] Auf den Lebensunterhalt durch die Gemeinde
 - [ ] Auf das Recht, Briefe an Gemeinden zu schreiben
-- [ ] Auf das Recht, Gläubige zu taufen und zu lehren
+- [ ] Auf das Recht, Älteste in den Gemeinden einzusetzen
 
 **Bibelstelle:** 1. Korinther 9:4-15
 **Erklärung:** 
@@ -421,7 +421,7 @@
 
 - [ ] Du sollst nicht stehlen, noch deinen Nächsten berauben
 - [ ] Bringe die Erstlinge der Ernte in das Haus des Herrn
-- [x] Du sollst dem Ochsen, der da drischt, nicht das Maul verbinden
+- [x] Du sollst dem Rind das Maul nicht verbinden, wenn es drischt
 - [ ] Du sollst den Sabbat heiligen, indem du keine Arbeit tust
 
 **Bibelstelle:** 1. Korinther 9:9-10
@@ -500,7 +500,7 @@
 ### 50. Welches umfassende Leitprinzip stellt Paulus für das ganze Verhalten des Christen auf?
 
 - [ ] Immer auf den eigenen Nutzen sehen
-- [ ] Sich allen Bräuchen anpassen
+- [ ] Sich allein nach den Bräuchen der Väter richten
 - [x] Alles zur Ehre Gottes tun
 - [ ] Den Umgang mit Menschen meiden
 
@@ -519,7 +519,7 @@
 
 ### 52. Warum soll die Frau beim Beten oder Weissagen eine Bedeckung auf dem Haupt haben?
 
-- [x] Um der Engel willen soll sie ein Zeichen der Vollmacht auf dem Haupt haben
+- [x] Um der Engel willen soll sie ein Zeichen der Gewalt auf dem Haupt haben
 - [ ] Um ihr Haar vor Staub zu schützen, den die Straßen aufwirbeln
 - [ ] Weil es das Gesetz Moses gebietet, das jeder Frau die Hülle vorschreibt
 - [ ] Weil es römische Sitte war, die jede ehrbare Frau beachtete
@@ -552,7 +552,7 @@
 - [ ] Er verliert seinen Besitz und wird von der Gemeinde ausgestoßen
 - [ ] Er wird aus der Stadt verbannt und darf nicht wiederkommen
 - [ ] Er darf nie mehr im Tempel beten und das Heiligtum nicht betreten
-- [x] Er isst und trinkt sich selbst zum Gericht
+- [x] Er isst und trinkt sich selbst ein Gericht
 
 **Bibelstelle:** 1. Korinther 11:27-30
 **Erklärung:** 
@@ -581,7 +581,7 @@
 
 - [ ] Durch die Erfüllung des Gesetzes, die allen Gläubigen aufgetragen ist
 - [ ] Durch das Wohnen in einer Stadt und den gemeinsamen Besitz
-- [x] Wir sind durch einen Geist alle zu einem Leib getauft
+- [x] Wir wurden alle in einem Geist zu einem Leib getauft
 - [ ] Durch den Beschluss der Apostel, die alle zu einer Gemeinde ordneten
 
 **Bibelstelle:** 1. Korinther 12:12-13
@@ -627,12 +627,12 @@
 **Bibelstelle:** 1. Korinther 13:4-7
 **Erklärung:** 
 
-### 63. Was geschieht mit den prophetischen Gaben und dem Sprachenreden in der Vollendung?
+### 63. Was hört niemals auf, auch wenn die Weissagungen abgetan werden und das Sprachenreden aufhört?
 
 - [ ] Das prophetische Weissagen
 - [ ] Die Gabe der Zungenrede
 - [ ] Die menschliche Erkenntnis
-- [x] Die Liebe vergeht nimmer
+- [x] Die Liebe hört niemals auf
 
 **Bibelstelle:** 1. Korinther 13:8-10
 **Erklärung:** 
@@ -657,7 +657,7 @@
 **Bibelstelle:** 1. Korinther 13:13
 **Erklärung:** 
 
-### 66. Warum ist das prophetische Reden wertvoller für die Gemeinde als das Sprachenreden?
+### 66. Warum ist die Weissagung wertvoller für die Gemeinde als das Sprachenreden?
 
 - [ ] Sie kostet weniger Mühe
 - [ ] Sie lässt die Heiden staunen
@@ -667,7 +667,7 @@
 **Bibelstelle:** 1. Korinther 14:1-5
 **Erklärung:** 
 
-### 67. Welche Bedingung gilt für das Zungenreden in der öffentlichen Versammlung?
+### 67. Was soll der Zungenredner tun, wenn kein Ausleger in der Gemeinde da ist?
 
 - [ ] Er soll lauter sprechen, damit jedermann ihn versteht
 - [ ] Er soll einen Priester holen, der die Feier leitet
@@ -691,7 +691,7 @@
 
 - [ ] Bis zu sieben Propheten zugleich
 - [x] Nur zwei oder drei nacheinander
-- [ ] Alle, die in der Versammlung sitzen
+- [ ] Nur die Ältesten der Gemeinde
 - [ ] Nur ein einziger Prophet im Monat
 
 **Bibelstelle:** 1. Korinther 14:29-32
@@ -717,7 +717,7 @@
 **Bibelstelle:** 1. Korinther 15:1-4
 **Erklärung:** 
 
-### 72. Als was bezeichnet Sich Paulus Selbst voller Demut unter allen Aposteln?
+### 72. Als was bezeichnet sich Paulus selbst voller Demut unter allen Aposteln?
 
 - [x] Als den Geringsten der Apostel, wie einer unzeitigen Geburt
 - [ ] Als den Größten der Zwölf, der zuerst den Herrn gesehen hat
@@ -730,7 +730,7 @@
 ### 73. Welche schlimme Konsequenz ergäbe sich, wenn die Toten nicht auferstehen würden?
 
 - [ ] Dann würden die Heiden herrschen und das Volk Gottes unterdrücken
-- [x] Dann ist auch Christus nicht auferstanden, und unser Glaube ist vergeblich
+- [x] Dann ist auch Christus nicht auferstanden, und euer Glaube ist vergeblich
 - [ ] Dann verlöre das Gesetz seine Kraft und die Propheten ihre Geltung
 - [ ] Dann verfielen die Tempelopfer und der Gottesdienst in Jerusalem
 
@@ -782,7 +782,7 @@
 - [ ] Dass sie ihm viel Geld mitgeben
 - [ ] Dass sie ihn sofort als Richter einsetzen
 - [x] Dass er ohne Furcht bei ihnen sei
-- [ ] Dass sie ihn bald zurückschicken
+- [ ] Dass sie ihn bei sich festhalten
 
 **Bibelstelle:** 1. Korinther 16:10-11
 **Erklärung:** 

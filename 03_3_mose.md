@@ -57,12 +57,12 @@
 **Bibelstelle:** 3. Mose 1:9
 **Erklärung:** 
 
-### 6. Welche Vögel durfte ein sozial Armer als vollwertiges Brandopfer dem HERRN darbringen?
+### 6. Welche Vögel durften als Brandopfer aus Geflügel dem HERRN dargebracht werden?
 
-- [x] Turteltauben oder junge Felsentauben
-- [ ] Junge Tauben oder frische Wachteln
-- [ ] Junge Hühner oder kleine Turteltauben
-- [ ] Sperlinge oder wild gefangene Raben
+- [x] Turteltauben oder junge Tauben
+- [ ] Sperlinge oder Wildvögel der Berge
+- [ ] Wachteln oder Rebhühner vom Feld
+- [ ] Schwalben oder weiße Vögel am Bach
 
 **Bibelstelle:** 3. Mose 1:14
 **Erklärung:** 
@@ -277,7 +277,7 @@
 **Bibelstelle:** 3. Mose 4:30
 **Erklärung:** 
 
-### 28. Welche Sünde lag vor, wenn jemand eine Verfluchung hörte, aber als Zeuge schwieg?
+### 28. Welche Folge hatte es, wenn jemand den Eidfluch hörte, aber als Zeuge schwieg?
 
 - [ ] Er blieb völlig schuldlos vor dem Gesetz
 - [ ] Er wurde sofort aus dem Lager gestoßen
@@ -310,7 +310,7 @@
 ### 31. Warum durfte dem Mehl beim ärmsten Sündopfer KEIN Öl und KEIN Weihrauch beigegeben werden?
 
 - [ ] Weil Öl und Weihrauch zu teuer waren
-- [x] Weil es ein ernsthaftes Sündopfer war
+- [x] Weil es ein Sündopfer war
 - [ ] Weil Weihrauch das Mehl verderben würde
 - [ ] Weil der Priester kein Öl berühren durfte
 
@@ -619,7 +619,7 @@
 
 ### 62. Welche schwerwiegende Verfehlung begingen Nadab und Abihu, die Söhne Aarons?
 
-- [ ] Sie verweigerten das Schachten des Widders
+- [ ] Sie verweigerten das Schächten des Widders
 - [ ] Sie stahlen das Gold aus dem Stiftszelt
 - [x] Sie brachten fremdes Feuer vor den HERRN
 - [ ] Sie betraten das Heiligtum in unreinem Gewand
@@ -629,7 +629,7 @@
 
 ### 63. Auf welche Weise brach das Gericht Gottes über Nadab und Abihu herein?
 
-- [ ] Sie wurden auf der Stelle vom Aussatz befällt
+- [ ] Sie wurden auf der Stelle vom Aussatz befallen
 - [ ] Ein Erdbeben verschlang sie im Zeltvorhof
 - [ ] Sie wurden vom Priesteramt ausgeschlossen
 - [x] Feuer ging aus vom HERRN und verzehrte sie
@@ -697,7 +697,7 @@
 **Bibelstelle:** 3. Mose 11:3
 **Erklärung:** 
 
-### 70. Warum wurde das Schwein nach den landwirtschaftlichen Bestimmungen der Tora als unrein erklärt?
+### 70. Warum wurde das Schwein nach den Speisegesetzen als unrein erklärt?
 
 - [ ] Weil es weder die Hufe spaltet noch als Tier wiederkäut
 - [ ] Weil es als Haustier ausschließlich im Stalle gehalten wurde
@@ -817,10 +817,10 @@
 **Bibelstelle:** 3. Mose 13:2-3
 **Erklärung:** 
 
-### 82. Wie lange musste ein Mann bei zweifelhaftem Aussatzverdacht vom Priester eingeschlossen werden?
+### 82. Wie lange musste ein Mann bei zweifelhaftem Aussatzverdacht zunächst vom Priester eingeschlossen werden?
 
 - [ ] Drei Tage lang zur ersten Beobachtung
-- [ ] Vierzehn Tage lang ohne Unterbrechung
+- [ ] Zehn Tage lang ohne Unterbrechung
 - [x] Sieben Tage lang zur genauen Prüfung
 - [ ] Vierzig Tage lang in der Wüste draußen
 
@@ -837,9 +837,9 @@
 **Bibelstelle:** 3. Mose 13:12-13
 **Erklärung:** 
 
-### 84. Welches dreifache Zeichen musste ein unheilbar Aussätziger an seiner Kleidung und Erscheinung tragen?
+### 84. Welches dreifache Zeichen musste ein Aussätziger an seiner Kleidung und Erscheinung tragen?
 
-- [x] Zerrissene Kleider, entblößtes Haupt und verhüllter Bart
+- [x] Zerrissene Kleider, entblößtes Haupt und verhüllter Lippenbart
 - [ ] Ein schwarzes Gewand, geschorene Augenbrauen und ein Stab
 - [ ] Ein gelbes Band am Arm, barfüßiger Gang und Stillschweigen
 - [ ] Ein weißes Leinentuch um die Hüften und eine Ascheschicht
@@ -979,7 +979,7 @@
 
 ### 98. Was geschah unweigerlich mit einem Haus, wenn der Aussatz nach dem Neuverputzen wieder ausbrach?
 
-- [ ] Es durfte als Viehstuhl weitergenutzt werden
+- [ ] Es durfte als Viehstall weitergenutzt werden
 - [ ] Es wurde mit großem Opfer gereinigt
 - [x] Es musste völlig abgebrochen und entsorgt werden
 - [ ] Es wurde den heidnischen Nachbarn überlassen
@@ -1037,14 +1037,14 @@
 **Bibelstelle:** 3. Mose 15:29-30
 **Erklärung:** 
 
-### 104. An welchem Tag und unter welcher Bedingung durfte Aaron das Allerheiligste betreten?
+### 104. Wie oft und unter welcher Bedingung durfte Aaron hinter den Vorhang ins Allerheiligste gehen?
 
-- [x] Einmal im Jahr am Versöhnungstag mit Rauchwerk
+- [x] Einmal im Jahr, mit einer Wolke von Räucherwerk
 - [ ] An jedem Sabbat nach dem Darbringen des Brandopfers
 - [ ] Täglich am Morgen zur Verbrennung des Weihrauchs
 - [ ] An jedem Neumond des Jahreslaufs mit dem Volkssündopfer
 
-**Bibelstelle:** 3. Mose 16:2
+**Bibelstelle:** 3. Mose 16:2; 3. Mose 16:13; 3. Mose 16:34
 **Erklärung:** 
 
 ### 105. Welche Kleidung musste der Hohepriester am Versöhnungstag beim Dienst im Allerheiligsten tragen?
@@ -1187,12 +1187,12 @@
 **Bibelstelle:** 3. Mose 18:3
 **Erklärung:** 
 
-### 119. Welches fundamentale Verbot zieht sich durch die Regelungen?
+### 119. Welches grundlegende Verbot steht am Anfang der Bestimmungen über nahe Verwandte?
 
 - [ ] Das Verbot des Handels mit fremdem Gold
-- [ ] Das Verbot des Essens von Fettauswüchsen
+- [ ] Das Verbot, das Fett der Opfertiere zu essen
 - [ ] Das Verbot der Arbeit am heiligen Sabbat
-- [x] Die Verhüllung der Blöße naher Blutsverwandter
+- [x] Das Verbot, sich Blutsverwandten zu nahen, um ihre Scham zu entblößen
 
 **Bibelstelle:** 3. Mose 18:6
 **Erklärung:** 
@@ -1347,7 +1347,7 @@
 **Bibelstelle:** 3. Mose 20:10
 **Erklärung:** 
 
-### 135. Welche Strafe traf einen Sohn, der seinen Vater oder seine Mutter fluchte?
+### 135. Welche Strafe traf einen Sohn, der seinem Vater oder seiner Mutter fluchte?
 
 - [ ] Er musste unverzüglich aus dem Erbteil der Sippe weichen
 - [ ] Er verlor für immer das gesamte Erstgeburtsrecht im Hause
@@ -1399,7 +1399,7 @@
 
 ### 140. Welche Frau durfte ein gewöhnlicher Priester nach den Bestimmungen des Gesetzes NICHT heiraten?
 
-- [x] Eine Hure, eine Entweihte oder eine Verstoßene
+- [x] Eine Hure, eine Entehrte oder eine Verstoßene
 - [ ] Eine Jungfrau aus den Stämmen des Volkes Israel
 - [ ] Die leibliche Witwe eines verstorbenen Priesters
 - [ ] Eine Tochter aus dem levitischen Hause Aarons
@@ -1517,12 +1517,12 @@
 **Bibelstelle:** 3. Mose 23:42
 **Erklärung:** 
 
-### 152. Welches Holz und welche Zweige wurden zum Flechten der Laubhütten verwendet?
+### 152. Was sollten die Israeliten am ersten Tag des Laubhüttenfestes nehmen, um sich vor dem HERRN zu freuen?
 
-- [x] Schönheitsbäume, Palmen, Bachweiden und Myrthen
-- [ ] Nur dicke Aststücke von den stolzen Zedern
-- [ ] Ausschließlich Akazienholz aus der Wüste
-- [ ] Trockenes Stroh und Schilfrohr vom Meere
+- [x] Früchte schöner Bäume, Palmzweige, Zweige dichtbelaubter Bäume und Bachweiden
+- [ ] Zedernzweige, Ölbaumzweige, Ysopbüschel und Tamariskenzweige
+- [ ] Eichenlaub, Zypressenzweige, Lorbeerzweige und Schilfrohr
+- [ ] Granatapfelzweige, Feigenblätter, Weinranken und Ähren
 
 **Bibelstelle:** 3. Mose 23:40
 **Erklärung:** 
@@ -1554,15 +1554,15 @@
 - [ ] Genau vierundzwanzig Brote für die Priester
 - [x] Genau zwölf Schaubrote in zwei Schichten
 
-**Bibelstelle:** 3. Mose 24:5-6
+**Bibelstelle:** 3. Mose 24:5-8
 **Erklärung:** 
 
-### 156. Welches Verbrechen beging der Sohn der israelitischen Frau Shelomit im Lager?
+### 156. Welches Verbrechen beging der Sohn der israelitischen Frau Selomit im Lager?
 
 - [x] Er lästerte und verfluchte den heiligen Namen
 - [ ] Er stahl das Gold aus dem Zeltvorhof
 - [ ] Er brach das Gesetz des heiligen Sabbats
-- [ ] Er opferte ein unreinem Tier am Altar
+- [ ] Er opferte ein unreines Tier am Altar
 
 **Bibelstelle:** 3. Mose 24:11
 **Erklärung:** 
@@ -1589,7 +1589,7 @@
 
 ### 159. Was sollte im siebenten Jahr (Sabbatjahr) mit dem Ackerland geschehen?
 
-- [ ] Es sollte doppelt besät und erntet werden
+- [ ] Es sollte doppelt besät und geerntet werden
 - [ ] Es musste an fremde Bauern verpachtet werden
 - [ ] Der Ertrag gehörte allein den Priestern im Hof
 - [x] Das Erdland soll einen Sabbat der Ruhe haben
@@ -1601,7 +1601,7 @@
 
 - [x] Das große Jubeljahr im fünfzigsten Jahr
 - [ ] Das Jahr der doppelten Ernte für die Priester
-- [ ] Das zweite Sabbatjahr in Folge ohne Aussaat
+- [ ] Ein Jahr des Fastens und der Trauer im ganzen Land
 - [ ] Das Jahr der Erstlingsfrüchte im Land Kanaan
 
 **Bibelstelle:** 3. Mose 25:8-10

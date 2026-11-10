@@ -141,7 +141,7 @@
 
 - [ ] Weil sie das Gesetz Moses aufhebt und die Gebote der Väter missachtet
 - [ ] Weil sie den Tempel entweiht und das Heiligtum Gottes beschmutzt
-- [x] Weil sie ein bewusstes Verwerfen des Wirkens des Geistes Gottes ist
+- [x] Weil sie sagten: Er hat einen unreinen Geist
 - [ ] Weil die Schriftgelehrten sie nicht vergeben wollen und den Bann verhängen
 
 **Bibelstelle:** Markus 3:28-30
@@ -207,22 +207,22 @@
 **Bibelstelle:** Markus 4:35-41
 **Erklärung:** 
 
-### 21. Wo hatte der Besessene im Gebiet der Gerasener seinen Aufenthalt?
+### 21. Wo hatte der Besessene im Gebiet der Gadarener seine Wohnung?
 
 - [ ] In einer Felsenhöhle
 - [x] In den Totengräbern
 - [ ] Im tiefen Waldgebüsch
-- [ ] Auf den hohen Bergen
+- [ ] In einem verlassenen Dorf
 
 **Bibelstelle:** Markus 5:1-5
 **Erklärung:** 
 
 ### 22. Welchen Namen nannte der unreine Geist auf die Frage Jesu?
 
-- [ ] Beelzebul, Fürst der Finsternis
-- [ ] Leviatan, Schrecken des Meeres
+- [ ] Beelzebul, Oberster der Dämonen
+- [ ] Belial, Herrscher der Finsternis
 - [x] Legion, denn wir sind viele
-- [ ] Asmodi, Geist des Verderbens
+- [ ] Apollyon, Verderber der Menschen
 
 **Bibelstelle:** Markus 5:9
 **Erklärung:** 
@@ -249,10 +249,10 @@
 
 ### 25. Welche Worte sprach Jesus bei der Auferweckung der Tochter des Jairus?
 
-- [ ] Effata! (Tu dich auf!) und sie öffnete die Augen
-- [x] Talitha kum! (Mädchen, ich sage dir, steh auf!)
+- [ ] Ephata! (Tu dich auf!) und sie öffnete die Augen
+- [x] Talita kumi! (Mädchen, ich sage dir, stehe auf!)
 - [ ] Maranatha! (Unser Herr kommt!) und sie öffnete die Augen
-- [ ] Eli, Eli! (Mein Gott!) und sie öffnete die Augen
+- [ ] Eloi, Eloi! (Mein Gott!) und sie öffnete die Augen
 
 **Bibelstelle:** Markus 5:40-42
 **Erklärung:** 
@@ -599,7 +599,7 @@
 
 ### 60. Was stellte Jesus beim Blick auf den Opferkasten bezüglich der armen Witwe fest?
 
-- [x] Sie hat mehr in den Gotteskasten geworfen als alle andern
+- [x] Sie hat mehr in den Opferkasten gelegt als alle andern
 - [ ] Sie hätte ihre beiden Scherflein besser behalten sollen
 - [ ] Sie hat aus ihrem Überfluss nur wenig gegeben
 - [ ] Sie hat mit ihrer kleinen Gabe gegen das Gesetz gesündigt
@@ -792,7 +792,7 @@
 - [ ] Bleibt in Jerusalem und gründet eine Schule für das heilige Gesetz
 - [ ] Zieht durch das Land und erbaut ein neues Heiligtum auf dem Zion
 - [ ] Geht zu den Heidenvölkern und fordert reiches Tempelgeld für Rom
-- [x] Geht hin in alle Welt und verkündigt das Evangelium der Schöpfung
+- [x] Geht hin in alle Welt und verkündigt das Evangelium der ganzen Schöpfung
 
 **Bibelstelle:** Markus 16:14-16
 **Erklärung:** 

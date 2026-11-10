@@ -58,11 +58,11 @@
           "explanation": ""
         },
         {
-          "text": "Aus der Stadt Bethlehem-Juda im Land",
+          "text": "Aus der Stadt Bethlehem-Juda",
           "explanation": ""
         },
         {
-          "text": "Aus der Bundeslade-Stadt Silo im Land",
+          "text": "Aus Silo, der Stadt der Stiftshütte",
           "explanation": ""
         },
         {
@@ -434,8 +434,8 @@
         1
       ],
       "bibleReference": "Rut 2:17",
-      "explanation": "",
-      "explanationReviewed": false,
+      "explanation": "Ein Epha war ein altes biblisches Hohlmaß für Getreide und entsprach etwa 20 bis 22 Litern (Rut 2:17).",
+      "explanationReviewed": true,
       "difficulty": "hard"
     },
     {
@@ -464,8 +464,8 @@
         2
       ],
       "bibleReference": "Rut 2:20",
-      "explanation": "Ein Epha war ein altes biblisches Hohlmaß für Getreide und entsprach etwa 20 bis 22 Litern (Rut 2:17).",
-      "explanationReviewed": true,
+      "explanation": "",
+      "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
@@ -561,7 +561,7 @@
     {
       "questionId": "rut_019",
       "type": "single_choice",
-      "text": "Welches Zeugnis gab Boas der Rut vor dem ganzen Tor seines Volkes?",
+      "text": "Welches Zeugnis stellte Boas der Rut in der Nacht auf der Tenne aus?",
       "options": [
         {
           "text": "Dass sie die reichste Frau unter den Fremdlingen sei",
@@ -572,7 +572,7 @@
           "explanation": ""
         },
         {
-          "text": "Dass das ganze Tor weiß, dass sie ein tugendsam Weib ist",
+          "text": "Dass die ganze Stadt weiß, dass sie ein tugendsam Weib ist",
           "explanation": ""
         },
         {

@@ -52,7 +52,7 @@
 - [ ] Sie meinten, der König habe ihnen Korn, Most und Öl gegeben
 - [x] Sie wollten nicht wissen, dass der HERR ihnen Korn, Most und Öl gegeben hat
 - [ ] Sie dachten, die Ernte komme durch ihre eigene Arbeit und Klugheit
-- [ ] Sie glaubten, die Götter der Nachbarn schützten die Felder
+- [ ] Sie meinten, ihre Väter hätten ihnen Korn, Most und Öl vererbt
 
 **Bibelstelle:** Hosea 2:8
 **Erklärung:** 
@@ -349,8 +349,8 @@
 
 ### 35. Woran erinnert Hosea 12:4 im Leben Jakobs?
 
-- [ ] Er baute einen Altar in Bethel und opferte dort dem HERRN
-- [ ] Er träumte von der Himmelsleiter und erkannte den HERRN
+- [ ] Er zog mit seinem ganzen Haus zu Josef nach Ägypten hinab
+- [ ] Er segnete die Söhne Josefs mit gekreuzten Händen
 - [ ] Er kaufte das Erstgeburtsrecht und gewann den Segen
 - [x] Er kämpfte mit dem Engel und siegte, denn er weinte und bat ihn
 

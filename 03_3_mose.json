@@ -211,28 +211,28 @@
     {
       "questionId": "lev_006",
       "type": "single_choice",
-      "text": "Welche Vögel durfte ein sozial Armer als vollwertiges Brandopfer dem HERRN darbringen?",
+      "text": "Welche Vögel durften als Brandopfer aus Geflügel dem HERRN dargebracht werden?",
       "options": [
         {
-          "text": "Turteltauben oder junge Felsentauben",
+          "text": "Turteltauben oder junge Tauben",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": true
         },
         {
-          "text": "Junge Tauben oder frische Wachteln",
+          "text": "Sperlinge oder Wildvögel der Berge",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "Junge Hühner oder kleine Turteltauben",
+          "text": "Wachteln oder Rebhühner vom Feld",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "Sperlinge oder wild gefangene Raben",
+          "text": "Schwalben oder weiße Vögel am Bach",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -1047,7 +1047,7 @@
     {
       "questionId": "lev_028",
       "type": "single_choice",
-      "text": "Welche Sünde lag vor, wenn jemand eine Verfluchung hörte, aber als Zeuge schwieg?",
+      "text": "Welche Folge hatte es, wenn jemand den Eidfluch hörte, aber als Zeuge schwieg?",
       "options": [
         {
           "text": "Er blieb völlig schuldlos vor dem Gesetz",
@@ -1170,7 +1170,7 @@
           "isCorrect": false
         },
         {
-          "text": "Weil es ein ernsthaftes Sündopfer war",
+          "text": "Weil es ein Sündopfer war",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": true
@@ -2342,7 +2342,7 @@
       "text": "Welche schwerwiegende Verfehlung begingen Nadab und Abihu, die Söhne Aarons?",
       "options": [
         {
-          "text": "Sie verweigerten das Schachten des Widders",
+          "text": "Sie verweigerten das Schächten des Widders",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -2380,7 +2380,7 @@
       "text": "Auf welche Weise brach das Gericht Gottes über Nadab und Abihu herein?",
       "options": [
         {
-          "text": "Sie wurden auf der Stelle vom Aussatz befällt",
+          "text": "Sie wurden auf der Stelle vom Aussatz befallen",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -2643,7 +2643,7 @@
     {
       "questionId": "lev_072",
       "type": "single_choice",
-      "text": "Warum wurde das Schwein nach den landwirtschaftlichen Bestimmungen der Tora als unrein erklärt?",
+      "text": "Warum wurde das Schwein nach den Speisegesetzen als unrein erklärt?",
       "options": [
         {
           "text": "Weil es weder die Hufe spaltet noch als Tier wiederkäut",
@@ -3099,7 +3099,7 @@
     {
       "questionId": "lev_084",
       "type": "single_choice",
-      "text": "Wie lange musste ein Mann bei zweifelhaftem Aussatzverdacht vom Priester eingeschlossen werden?",
+      "text": "Wie lange musste ein Mann bei zweifelhaftem Aussatzverdacht zunächst vom Priester eingeschlossen werden?",
       "options": [
         {
           "text": "Drei Tage lang zur ersten Beobachtung",
@@ -3108,7 +3108,7 @@
           "isCorrect": false
         },
         {
-          "text": "Vierzehn Tage lang ohne Unterbrechung",
+          "text": "Zehn Tage lang ohne Unterbrechung",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -3175,10 +3175,10 @@
     {
       "questionId": "lev_086",
       "type": "single_choice",
-      "text": "Welches dreifache Zeichen musste ein unheilbar Aussätziger an seiner Kleidung und Erscheinung tragen?",
+      "text": "Welches dreifache Zeichen musste ein Aussätziger an seiner Kleidung und Erscheinung tragen?",
       "options": [
         {
-          "text": "Zerrissene Kleider, entblößtes Haupt und verhüllter Bart",
+          "text": "Zerrissene Kleider, entblößtes Haupt und verhüllter Lippenbart",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": true
@@ -3710,7 +3710,7 @@
       "text": "Was geschah unweigerlich mit einem Haus, wenn der Aussatz nach dem Neuverputzen wieder ausbrach?",
       "options": [
         {
-          "text": "Es durfte als Viehstuhl weitergenutzt werden",
+          "text": "Es durfte als Viehstall weitergenutzt werden",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -3935,10 +3935,10 @@
     {
       "questionId": "lev_106",
       "type": "single_choice",
-      "text": "An welchem Tag und unter welcher Bedingung durfte Aaron das Allerheiligste betreten?",
+      "text": "Wie oft und unter welcher Bedingung durfte Aaron hinter den Vorhang ins Allerheiligste gehen?",
       "options": [
         {
-          "text": "Einmal im Jahr am Versöhnungstag mit Rauchwerk",
+          "text": "Einmal im Jahr, mit einer Wolke von Räucherwerk",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": true
@@ -3965,7 +3965,7 @@
       "correctAnswers": [
         0
       ],
-      "bibleReference": "3. Mose 16:2",
+      "bibleReference": "3. Mose 16:2; 3. Mose 16:13; 3. Mose 16:34",
       "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
@@ -4505,7 +4505,7 @@
     {
       "questionId": "lev_121",
       "type": "single_choice",
-      "text": "Welches fundamentale Verbot zieht sich durch die Regelungen?",
+      "text": "Welches grundlegende Verbot steht am Anfang der Bestimmungen über nahe Verwandte?",
       "options": [
         {
           "text": "Das Verbot des Handels mit fremdem Gold",
@@ -4514,7 +4514,7 @@
           "isCorrect": false
         },
         {
-          "text": "Das Verbot des Essens von Fettauswüchsen",
+          "text": "Das Verbot, das Fett der Opfertiere zu essen",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -4526,7 +4526,7 @@
           "isCorrect": false
         },
         {
-          "text": "Die Verhüllung der Blöße naher Blutsverwandter",
+          "text": "Das Verbot, sich Blutsverwandten zu nahen, um ihre Scham zu entblößen",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": true
@@ -5113,7 +5113,7 @@
     {
       "questionId": "lev_137",
       "type": "single_choice",
-      "text": "Welche Strafe traf einen Sohn, der seinen Vater oder seine Mutter fluchte?",
+      "text": "Welche Strafe traf einen Sohn, der seinem Vater oder seiner Mutter fluchte?",
       "options": [
         {
           "text": "Er musste unverzüglich aus dem Erbteil der Sippe weichen",
@@ -5306,7 +5306,7 @@
       "text": "Welche Frau durfte ein gewöhnlicher Priester nach den Bestimmungen des Gesetzes NICHT heiraten?",
       "options": [
         {
-          "text": "Eine Hure, eine Entweihte oder eine Verstoßene",
+          "text": "Eine Hure, eine Entehrte oder eine Verstoßene",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": true
@@ -5759,28 +5759,28 @@
     {
       "questionId": "lev_154",
       "type": "single_choice",
-      "text": "Welches Holz und welche Zweige wurden zum Flechten der Laubhütten verwendet?",
+      "text": "Was sollten die Israeliten am ersten Tag des Laubhüttenfestes nehmen, um sich vor dem HERRN zu freuen?",
       "options": [
         {
-          "text": "Schönheitsbäume, Palmen, Bachweiden und Myrthen",
+          "text": "Früchte schöner Bäume, Palmzweige, Zweige dichtbelaubter Bäume und Bachweiden",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": true
         },
         {
-          "text": "Nur dicke Aststücke von den stolzen Zedern",
+          "text": "Zedernzweige, Ölbaumzweige, Ysopbüschel und Tamariskenzweige",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "Ausschließlich Akazienholz aus der Wüste",
+          "text": "Eichenlaub, Zypressenzweige, Lorbeerzweige und Schilfrohr",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "Trockenes Stroh und Schilfrohr vom Meere",
+          "text": "Granatapfelzweige, Feigenblätter, Weinranken und Ähren",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -5903,7 +5903,7 @@
       "correctAnswers": [
         3
       ],
-      "bibleReference": "3. Mose 24:5-6",
+      "bibleReference": "3. Mose 24:5-8",
       "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
@@ -5911,7 +5911,7 @@
     {
       "questionId": "lev_158",
       "type": "single_choice",
-      "text": "Welches Verbrechen beging der Sohn der israelitischen Frau Shelomit im Lager?",
+      "text": "Welches Verbrechen beging der Sohn der israelitischen Frau Selomit im Lager?",
       "options": [
         {
           "text": "Er lästerte und verfluchte den heiligen Namen",
@@ -5932,7 +5932,7 @@
           "isCorrect": false
         },
         {
-          "text": "Er opferte ein unreinem Tier am Altar",
+          "text": "Er opferte ein unreines Tier am Altar",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -6028,7 +6028,7 @@
       "text": "Was sollte im siebenten Jahr (Sabbatjahr) mit dem Ackerland geschehen?",
       "options": [
         {
-          "text": "Es sollte doppelt besät und erntet werden",
+          "text": "Es sollte doppelt besät und geerntet werden",
           "id": "opt_1",
           "isCorrect": false,
           "explanation": ""
@@ -6078,7 +6078,7 @@
           "isCorrect": false
         },
         {
-          "text": "Das zweite Sabbatjahr in Folge ohne Aussaat",
+          "text": "Ein Jahr des Fastens und der Trauer im ganzen Land",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false

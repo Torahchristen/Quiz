@@ -581,12 +581,12 @@
           "explanation": ""
         },
         {
-          "text": "The book of the prophet Ezekiel",
+          "text": "The book of the prophet Daniel",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "The book of the prophet Daniel",
+          "text": "The book of the prophet Malachi",
           "isCorrect": false,
           "explanation": ""
         }
@@ -605,22 +605,22 @@
       "text": "How did the people of Nazareth react to Jesus' words in the synagogue?",
       "options": [
         {
-          "text": "They received him with great joy and honour",
+          "text": "They fell down and worshipped him, and praised him as the Anointed",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "They asked him to perform many mighty miracles",
+          "text": "They led him in triumph through the city and proclaimed him king",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "They were filled with wrath, and thrust him out of city",
+          "text": "They were filled with wrath, and thrust him out of the city",
           "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "They brought all their sick to be healed at once",
+          "text": "They besought him to abide with them for ever and to preach unto them",
           "isCorrect": false,
           "explanation": ""
         }
@@ -678,17 +678,17 @@
           "explanation": ""
         },
         {
-          "text": "Because they blasphemed God with loud cries",
+          "text": "Because they cried too loud in the synagogue",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Because the people were afraid of their words",
+          "text": "Because the people understood not his doctrine",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Because it was not lawful on the sabbath day",
+          "text": "Because the Pharisees were offended",
           "isCorrect": false,
           "explanation": ""
         }
@@ -806,7 +806,7 @@
     {
       "questionId": "lk_024",
       "type": "single_choice",
-      "text": "Whom did Jesus see sitting at the receipt of custom and call as a disciple?",
+      "text": "Which publican did Jesus call with the words, Follow me?",
       "options": [
         {
           "text": "Levi, a publican at the receipt of custom",
@@ -814,7 +814,7 @@
           "explanation": ""
         },
         {
-          "text": "Zacchaeus, the chief among the publicans",
+          "text": "Zacchæus, the chief publican on the way to Jericho",
           "isCorrect": false,
           "explanation": ""
         },
@@ -874,25 +874,25 @@
     {
       "questionId": "lk_026",
       "type": "single_choice",
-      "text": "How did Jesus answer when the Pharisees accused His disciples on the sabbath?",
+      "text": "With what did Jesus defend His disciples for plucking the ears of corn on the sabbath?",
       "options": [
         {
-          "text": "By commanding that the sabbath laws be set aside entirely for all time",
+          "text": "With the law of gleaning, that suffereth the poor to gather the ears",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "By denying that his disciples had plucked or eaten the ears of corn",
+          "text": "With the custom of the fathers, who walked and did eat on the sabbath",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "By recalling what David did, when he did eat the shewbread",
+          "text": "With what David did, when he did eat the shewbread",
           "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "By calling down fire from heaven upon the murmuring Pharisees",
+          "text": "With the leave of the governor, who opened the fields unto the people",
           "isCorrect": false,
           "explanation": ""
         }
@@ -979,7 +979,7 @@
       "text": "What promise did Jesus speak unto the poor in the Beatitudes?",
       "options": [
         {
-          "text": "For they shall inherit the whole earth",
+          "text": "Yours are riches and honour",
           "isCorrect": false,
           "explanation": ""
         },
@@ -994,7 +994,7 @@
           "explanation": ""
         },
         {
-          "text": "Ye shall have a long life and many goods",
+          "text": "Ye shall have a long life",
           "isCorrect": false,
           "explanation": ""
         }
@@ -1028,7 +1028,7 @@
           "explanation": ""
         },
         {
-          "text": "Upon wooden pillars fastened in the river",
+          "text": "Upon wooden piles by the river, which he drove in deep",
           "isCorrect": false,
           "explanation": ""
         }
@@ -1418,10 +1418,10 @@
     {
       "questionId": "lk_042",
       "type": "single_choice",
-      "text": "Who was it said by some that Jesus was, causing Herod the tetrarch perplexity?",
+      "text": "Which rumour concerning Jesus did Herod answer with the words, John have I beheaded?",
       "options": [
         {
-          "text": "That Elias had appeared again to gather the people of Israel",
+          "text": "That he was a sorcerer out of Egypt who deceived the people",
           "isCorrect": false,
           "explanation": ""
         },
@@ -1962,15 +1962,15 @@
     {
       "questionId": "lk_058",
       "type": "single_choice",
-      "text": "Which birds did Jesus tell His disciples to consider, that neither sow nor reap?",
+      "text": "What example from creation did Jesus give against taking thought for food?",
       "options": [
         {
-          "text": "The eagles",
+          "text": "The ants",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "The sparrows",
+          "text": "The fishes",
           "isCorrect": false,
           "explanation": ""
         },
@@ -1980,7 +1980,7 @@
           "explanation": ""
         },
         {
-          "text": "The doves",
+          "text": "The sheep",
           "isCorrect": false,
           "explanation": ""
         }
@@ -1996,20 +1996,20 @@
     {
       "questionId": "lk_059",
       "type": "single_choice",
-      "text": "What did Jesus say concerning the heart in relation to earthly and heavenly treasure?",
+      "text": "Where, according to the words of Jesus, is the heart of a man?",
       "options": [
         {
-          "text": "Gold in the hand maketh the heart joyful and strong",
+          "text": "In the storehouse of the temple, where the offerings of the faithful are laid up",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "A divided heart can gather treasures both here and above",
+          "text": "In the palaces of kings, where the treasures of the nations are gathered",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "The heart of man careth only for that which perisheth",
+          "text": "Under the earth in the field, where the riches of the fathers lie buried",
           "isCorrect": false,
           "explanation": ""
         },
@@ -2038,17 +2038,17 @@
           "explanation": ""
         },
         {
-          "text": "He shall be beaten with few stripes",
+          "text": "He shall be driven out of the house for ever",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "He shall be cast into outer darkness",
+          "text": "He shall pay back his wages",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "He shall be pardoned for his neglect",
+          "text": "He shall be cast into prison thirty days",
           "isCorrect": false,
           "explanation": ""
         }
@@ -2064,25 +2064,25 @@
     {
       "questionId": "lk_061",
       "type": "single_choice",
-      "text": "Which two calamities did Jesus mention as warnings unto all except they repent?",
+      "text": "What calamity in Jerusalem did Jesus speak of to call men to repentance?",
       "options": [
         {
-          "text": "The famine in Samaria and the pestilence in the valley of Jordan",
+          "text": "The destruction of the walls of the temple",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "The fall of the tower in Siloam and the Galileans whose blood Pilate mingled",
+          "text": "The fall of the tower in Siloam",
           "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "The burning of the temple gates and the earthquake in the wilderness",
+          "text": "The drought in all Judæa",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "The destruction of Sodom and the drowning of Pharaoh's host in the sea",
+          "text": "The pestilence among the herds",
           "isCorrect": false,
           "explanation": ""
         }
@@ -2116,7 +2116,7 @@
           "explanation": ""
         },
         {
-          "text": "Thirty years",
+          "text": "Twenty years",
           "isCorrect": false,
           "explanation": ""
         }
@@ -2174,17 +2174,17 @@
           "explanation": ""
         },
         {
-          "text": "Through the wide door",
+          "text": "Through the golden gate of the temple",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Over the high wall",
+          "text": "By the broad way of the multitude",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Into the broad path",
+          "text": "Through the open gate of grace",
           "isCorrect": false,
           "explanation": ""
         }
@@ -2237,12 +2237,12 @@
       "text": "What disease had the man whom Jesus healed on the sabbath in the Pharisee's house?",
       "options": [
         {
-          "text": "The palsy",
+          "text": "The leprosy",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "The leprosy",
+          "text": "The blindness",
           "isCorrect": false,
           "explanation": ""
         },
@@ -2252,7 +2252,7 @@
           "explanation": ""
         },
         {
-          "text": "A fever",
+          "text": "The dumbness",
           "isCorrect": false,
           "explanation": ""
         }
@@ -2339,7 +2339,7 @@
       "text": "What work did Jesus use as an example of sitting down first and counting the cost?",
       "options": [
         {
-          "text": "Building a city wall",
+          "text": "Buying a piece of ground",
           "isCorrect": false,
           "explanation": ""
         },
@@ -2349,12 +2349,12 @@
           "explanation": ""
         },
         {
-          "text": "Digging a great well",
+          "text": "Buying ten yoke of oxen",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Planting a new vineyard",
+          "text": "Building a ship",
           "isCorrect": false,
           "explanation": ""
         }
@@ -2373,12 +2373,12 @@
       "text": "What did Jesus say concerning salt that hath lost his savour?",
       "options": [
         {
-          "text": "It can be salted again by fire and renewed unto good use",
+          "text": "It is burned in the fire, and the ashes thereof strewn upon the fields",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "It is kept within the storehouse against the winter days",
+          "text": "It is given unto the cattle to eat and used in the stall",
           "isCorrect": false,
           "explanation": ""
         },
@@ -2404,20 +2404,20 @@
     {
       "questionId": "lk_071",
       "type": "single_choice",
-      "text": "How did the shepherd react in the parable upon finding his lost sheep?",
+      "text": "How doth the shepherd in the parable react upon finding his lost sheep?",
       "options": [
         {
-          "text": "He beat it back into the fold with many stripes and bound it",
+          "text": "He beateth it back into the fold with many stripes and bindeth it",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "He sold it in the market and returned unto the ninety and nine",
+          "text": "He selleth it in the market and returneth unto the ninety and nine",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "He shut it up thirty days that it might not wander anymore",
+          "text": "He shutteth it up thirty days, that it wander no more",
           "isCorrect": false,
           "explanation": ""
         },
@@ -2676,7 +2676,7 @@
     {
       "questionId": "lk_079",
       "type": "single_choice",
-      "text": "Where was the soul of the beggar Lazarus carried by the angels after he died?",
+      "text": "Whither was the beggar Lazarus carried by the angels after he died?",
       "options": [
         {
           "text": "Unto the holy mount of Zion",
@@ -2684,12 +2684,12 @@
           "explanation": ""
         },
         {
-          "text": "Into the garden of paradise",
+          "text": "Into the garden of Eden of the Lord",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Into the glory of heaven",
+          "text": "Into the house of the rich man",
           "isCorrect": false,
           "explanation": ""
         },
@@ -2786,7 +2786,7 @@
           "explanation": ""
         },
         {
-          "text": "Five of the men returned, being Jews of the country",
+          "text": "Five men returned, the others went unto their own households",
           "isCorrect": false,
           "explanation": ""
         },
@@ -2796,7 +2796,7 @@
           "explanation": ""
         },
         {
-          "text": "None of them returned, for all ran unto the priests",
+          "text": "Three men returned, among them two priests from Jerusalem",
           "isCorrect": false,
           "explanation": ""
         }
@@ -3084,7 +3084,7 @@
     {
       "questionId": "lk_091",
       "type": "single_choice",
-      "text": "What office and condition did Zacchaeus have in the city of Jericho?",
+      "text": "What office and condition did Zacchæus have in the city of Jericho?",
       "options": [
         {
           "text": "He was a poor beggar at the gate living of common alms",
@@ -3118,7 +3118,7 @@
     {
       "questionId": "lk_092",
       "type": "single_choice",
-      "text": "Into what tree did Zacchaeus climb up to see Jesus as He passed by?",
+      "text": "Into what tree did Zacchæus climb up to see Jesus as He passed by?",
       "options": [
         {
           "text": "He climbed up into a sycomore tree",
@@ -3152,7 +3152,7 @@
     {
       "questionId": "lk_093",
       "type": "single_choice",
-      "text": "What vow did Zacchaeus make unto the Lord after receiving Him joyfully into his house?",
+      "text": "What vow did Zacchæus make unto the Lord after receiving Him joyfully into his house?",
       "options": [
         {
           "text": "To give away all his goods at once and live as a poor beggar",
@@ -3330,7 +3330,7 @@
           "explanation": ""
         },
         {
-          "text": "A piece of silver money",
+          "text": "A brass mite",
           "isCorrect": false,
           "explanation": ""
         },
@@ -3364,12 +3364,12 @@
           "explanation": ""
         },
         {
-          "text": "The Herodians",
+          "text": "The Essenes",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "The Essenes",
+          "text": "The Zealots",
           "isCorrect": false,
           "explanation": ""
         },
@@ -3427,22 +3427,22 @@
       "text": "What did the poor widow cast into the treasury of the temple?",
       "options": [
         {
-          "text": "One silver denarius",
+          "text": "A piece of silver",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Two mites of brass",
+          "text": "Two mites",
           "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "Ten pieces of silver",
+          "text": "Ten pieces of brass",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "A golden half-shekel",
+          "text": "A golden denarius",
           "isCorrect": false,
           "explanation": ""
         }
@@ -3458,15 +3458,15 @@
     {
       "questionId": "lk_102",
       "type": "single_choice",
-      "text": "What signs did Jesus foretell before the destruction of the temple?",
+      "text": "What signs did Jesus name when he was asked when the temple should be destroyed?",
       "options": [
         {
-          "text": "The parting of the Jordan, falling of stars, and opening of tombs",
+          "text": "A long peace in all the world, which shall quiet the nations and make the land fruitful",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "The drying up of the Euphrates and the fall of the walls of Rome",
+          "text": "The departing of the Romans, the fall of their power, and rest in the land",
           "isCorrect": false,
           "explanation": ""
         },
@@ -3476,7 +3476,7 @@
           "explanation": ""
         },
         {
-          "text": "A rain of fire on the mount of Olives and darkness for forty days",
+          "text": "The riches of the temple servants, the abundance of gifts, and the glory of the house",
           "isCorrect": false,
           "explanation": ""
         }
@@ -3495,17 +3495,17 @@
       "text": "Until when did Jesus say Jerusalem shall be trodden down of the Gentiles?",
       "options": [
         {
-          "text": "Until the sanctuary is rebuilt",
+          "text": "Until the temple be built again",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Until seventy weeks are accomplished",
+          "text": "Until all the Romans depart out of the land",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Until all the tribes return from exile",
+          "text": "Until an hundred years be past",
           "isCorrect": false,
           "explanation": ""
         },
@@ -3560,10 +3560,10 @@
     {
       "questionId": "lk_105",
       "type": "single_choice",
-      "text": "Where did Jesus abide at night when teaching in the temple by day?",
+      "text": "Where did Jesus abide at night during his last days at Jerusalem?",
       "options": [
         {
-          "text": "In the city of Capernaum",
+          "text": "In a house at Rome",
           "isCorrect": false,
           "explanation": ""
         },
@@ -3573,12 +3573,12 @@
           "explanation": ""
         },
         {
-          "text": "In the palace of Pilate",
+          "text": "In the court of the temple",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "In the town of Nazareth",
+          "text": "In the wilderness by Jordan",
           "isCorrect": false,
           "explanation": ""
         }
@@ -3670,17 +3670,17 @@
           "explanation": ""
         },
         {
-          "text": "Who should bear the bag of money for the feast",
+          "text": "Which of them should give the most money",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Who should sit on the right hand of the Master",
+          "text": "Which of them should kill the passover lamb",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Which of them should draw the sword first",
+          "text": "Which of them should remain in Jerusalem",
           "isCorrect": false,
           "explanation": ""
         }
@@ -3733,22 +3733,22 @@
       "text": "What happened unto Jesus as He prayed in agony in the mount of Olives?",
       "options": [
         {
-          "text": "He was smitten with sudden blindness and fell upon the rocky earth",
+          "text": "A voice cried from heaven, and the disciples saw a bright light",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Legions of holy angels surrounded him and bore him up on wings",
+          "text": "The earth quaked in the garden, and the disciples fell asleep for fear",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "His sweat was as it were great drops of blood falling to ground",
+          "text": "His sweat was as it were great drops of blood falling down to the ground",
           "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "The stars were darkened and thick blackness covered the mount",
+          "text": "The stars went out in heaven, and darkness lay upon the mount of Olives",
           "isCorrect": false,
           "explanation": ""
         }
@@ -3767,17 +3767,17 @@
       "text": "Unto whom did Pilate send Jesus when he heard that He was of Galilee?",
       "options": [
         {
-          "text": "Unto Caesar at Rome",
+          "text": "Unto Tiberius Cæsar",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Unto the ruler of Tyre",
+          "text": "Unto the governor of Samaria",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Unto the council of Athens",
+          "text": "Unto the council at Alexandria",
           "isCorrect": false,
           "explanation": ""
         },
@@ -3806,7 +3806,7 @@
           "explanation": ""
         },
         {
-          "text": "Simon of Cyrene, coming out of country",
+          "text": "Simon of Cyrene, coming out of the country",
           "isCorrect": false,
           "explanation": ""
         },
@@ -3840,12 +3840,12 @@
           "explanation": ""
         },
         {
-          "text": "Simon of Cyrene, coming out of field",
+          "text": "Simon of Cyrene, coming out of the country",
           "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "Joseph of Arimathaea, the counsellor",
+          "text": "Joseph of Arimathæa, the counsellor",
           "isCorrect": false,
           "explanation": ""
         },
@@ -4005,7 +4005,7 @@
       "text": "In what action did the two disciples at Emmaus recognize the risen Lord?",
       "options": [
         {
-          "text": "When beholding the wounds in hands",
+          "text": "When they beheld the prints of his wounds",
           "isCorrect": false,
           "explanation": ""
         },
@@ -4020,7 +4020,7 @@
           "explanation": ""
         },
         {
-          "text": "When he blessed the evening cup",
+          "text": "At their common evening prayer",
           "isCorrect": false,
           "explanation": ""
         }
@@ -4276,7 +4276,7 @@
         2,
         0
       ],
-      "bibleReference": "Luke 1:38",
+      "bibleReference": "Luke 1:26-38; Luke 2:1-20; Matthew 2:1-15",
       "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"

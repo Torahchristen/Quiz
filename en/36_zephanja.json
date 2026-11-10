@@ -67,7 +67,7 @@
           "explanation": ""
         },
         {
-          "text": "The altars of Bethel, worshippers of the sun on walls, and swearers by Chemosh",
+          "text": "The altars of Beth-el, worshippers of the sun on walls, and swearers by Chemosh",
           "explanation": ""
         }
       ],
@@ -97,7 +97,7 @@
           "explanation": ""
         },
         {
-          "text": "Against them that are settled on their lees, that say: The LORD will not do evil",
+          "text": "Against them that are settled on their lees, that say: The LORD will not do good, neither will he do evil",
           "explanation": ""
         }
       ],
@@ -202,22 +202,22 @@
     {
       "questionId": "zef_007",
       "type": "single_choice",
-      "text": "How are the princes and judges described in Zephaniah 3:3?",
+      "text": "How does Zephaniah 3:3 judge the rulers of Jerusalem?",
       "options": [
         {
-          "text": "As ravening bears and as eagles that watch for prey",
+          "text": "Her priests are faithful and teach the people the law in truth",
           "explanation": ""
         },
         {
-          "text": "As dumb dogs and as jackals that wait in secret places",
+          "text": "Her princes are wise shepherds that care for the flock",
           "explanation": ""
         },
         {
-          "text": "As wild bulls and as serpents that pervert judgment",
+          "text": "Her judges are just and judge without respect of persons",
           "explanation": ""
         },
         {
-          "text": "As roaring lions and as evening wolves that leave nothing",
+          "text": "Her princes are roaring lions; her judges are evening wolves",
           "explanation": ""
         }
       ],
@@ -262,22 +262,22 @@
     {
       "questionId": "zef_009",
       "type": "single_choice",
-      "text": "How will the LORD rejoice over Zion according to Zephaniah 3:17?",
+      "text": "What promise is given in Zephaniah 3:17?",
       "options": [
         {
-          "text": "He will rule over her with an iron sceptre and judge her with fury",
+          "text": "The LORD sendeth thee a Saviour and will be with thee from afar off",
           "explanation": ""
         },
         {
-          "text": "He will rejoice over her with joy, rest in love, and joy with singing",
+          "text": "The LORD thy God in the midst of thee is mighty; he will save, he will rejoice over thee",
           "explanation": ""
         },
         {
-          "text": "He will build her strong walls and defend her against all adversaries",
+          "text": "The LORD will judge thee once more and rejoice over thy destruction",
           "explanation": ""
         },
         {
-          "text": "He will bring many nations to enrich her with all earthly treasures",
+          "text": "The LORD forgetteth thee not, but calleth thee back into his house",
           "explanation": ""
         }
       ],
@@ -299,15 +299,15 @@
           "explanation": ""
         },
         {
+          "text": "In the days of Jehoiakim the son of Josiah",
+          "explanation": ""
+        },
+        {
+          "text": "In the days of Manasseh the son of Hezekiah",
+          "explanation": ""
+        },
+        {
           "text": "In the days of Hezekiah the son of Ahaz",
-          "explanation": ""
-        },
-        {
-          "text": "In the days of Manasseh son of Hezekiah",
-          "explanation": ""
-        },
-        {
-          "text": "In the days of David the son of Jesse",
           "explanation": ""
         }
       ],
@@ -322,22 +322,22 @@
     {
       "questionId": "zef_011",
       "type": "single_choice",
-      "text": "Why should all hold their peace before the Lord GOD in Zephaniah 1:7?",
+      "text": "What has the LORD prepared according to Zephaniah 1:7?",
       "options": [
         {
-          "text": "Because the holy temple is filled with his glorious brightness and power",
+          "text": "A burnt offering which he alone will consume upon the altar",
           "explanation": ""
         },
         {
-          "text": "Because the judgment against the heathen hath already been accomplished",
+          "text": "A feast of reconciliation unto which he calleth all nations",
           "explanation": ""
         },
         {
-          "text": "Because the day of the LORD is at hand and he hath prepared a sacrifice",
+          "text": "A sacrifice, and he hath bid his guests",
           "explanation": ""
         },
         {
-          "text": "Because his mighty angels keep watch upon the high walls of Jerusalem",
+          "text": "A feast unto which he hath bidden the poor of the land",
           "explanation": ""
         }
       ],
@@ -352,18 +352,18 @@
     {
       "questionId": "zef_012",
       "type": "single_choice",
-      "text": "From where does the noise of a cry arise according to Zephaniah 1:10?",
+      "text": "From which gate shall the noise of a cry arise according to Zephaniah 1:10?",
       "options": [
         {
+          "text": "From the water gate",
+          "explanation": ""
+        },
+        {
+          "text": "From the horse gate",
+          "explanation": ""
+        },
+        {
           "text": "From the sheep gate",
-          "explanation": ""
-        },
-        {
-          "text": "From the dung gate",
-          "explanation": ""
-        },
-        {
-          "text": "From the corner gate",
           "explanation": ""
         },
         {
@@ -540,15 +540,15 @@
           "explanation": ""
         },
         {
-          "text": "Her law, and he hath given her a foreign king",
+          "text": "Her law, and he hath given her a new covenant",
           "explanation": ""
         },
         {
-          "text": "Her reproach, and he hath set her an earthly rod",
+          "text": "Her king, and he hath set over her a judge",
           "explanation": ""
         },
         {
-          "text": "Her sorrow, and he hath broken open her gates",
+          "text": "Her walls, and he hath opened her gates",
           "explanation": ""
         }
       ],

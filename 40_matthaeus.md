@@ -341,7 +341,7 @@
 
 - [ ] An ihren Prachtgewändern
 - [ ] An Wundern und Zeichen
-- [x] An ihren guten Früchten
+- [x] An ihren Früchten
 - [ ] An der Schar der Jünger
 
 **Bibelstelle:** Matthäus 7:15-20
@@ -387,12 +387,12 @@
 **Bibelstelle:** Matthäus 8:14-15
 **Erklärung:** 
 
-### 39. Mit welchem Rufen weckten die verängstigten Jünger Jesus im Seesturm?
+### 39. Mit welchem Rufen weckten die verängstigten Jünger Jesus im Seesturm nach Matthäus 8:25?
 
 - [ ] Meister, wach auf und steuere das Schiff!
 - [ ] Herr, gebiete den Winden und den Wellen!
-- [ ] Lehrer, siehst du nicht, wie wir leiden!
-- [x] Herr, rette uns, wir gehen zugrunde!
+- [ ] Herr, lass uns ans Ufer fahren!
+- [x] Herr, rette uns, wir kommen um!
 
 **Bibelstelle:** Matthäus 8:23-27
 **Erklärung:** 
@@ -770,7 +770,7 @@
 ### 77. Welches Bekenntnis sprach Petrus bei Cäsarea Philippi über Jesus aus?
 
 - [ ] Du bist Elia, der wiedergekommen ist, wie die Schrift verheißen hat
-- [x] Du bist der Christus, des lebendigen Gottes Sohn
+- [x] Du bist der Christus, der Sohn des lebendigen Gottes
 - [ ] Du bist Johannes der Täufer, der von den Toten auferstanden ist
 - [ ] Du bist einer der Propheten, die das Volk lange erwartet hat
 
@@ -829,7 +829,7 @@
 
 ### 83. Warum konnten die Jünger den mondsüchtigen Knaben nicht heilen?
 
-- [ ] Weil sie nicht nüchtern geblieben waren
+- [ ] Weil der Knabe noch zu jung war
 - [ ] Weil der Vater zu wenig gebetet hatte
 - [ ] Weil die Schriftgelehrten spotteten
 - [x] Weil sie zu wenig Glauben hatten
@@ -1291,7 +1291,7 @@
 
 - [ ] Sende Engel zum Schutz vor den Feinden
 - [x] Nicht wie ich will, sondern wie du willst
-- [ ] Lass diesen Kelch ohne Leiden vergehen
+- [ ] Nimm die Macht der Finsternis sogleich von der Erde
 - [ ] Nimm mich sogleich zu dir in den Himmel
 
 **Bibelstelle:** Matthäus 26:36-44
@@ -1330,7 +1330,7 @@
 ### 133. Welche Verspottung fügten Soldaten Jesus im Prätorium zu?
 
 - [ ] Sie schlugen ihn mit eisernen Ketten und banden ihm einen Strick um den Leib
-- [x] Sie setzten ihm eine Dornenkrone auf und hängten ihm einen Purpurmantel um
+- [x] Sie setzten ihm eine Dornenkrone auf und legten ihm einen scharlachroten Mantel um
 - [ ] Sie verbrannten seine Kleider und gaben ihm einen Fetzen zum Anziehen
 - [ ] Sie zwangen ihn zur Arbeit im Steinbruch und gaben ihm kein Wasser
 
@@ -1377,12 +1377,12 @@
 **Bibelstelle:** Matthäus 28:5-7
 **Erklärung:** 
 
-### 138. Welchen Ruf richtete der auferstandene Jesus an die Frauen auf dem Wege?
+### 138. Mit welchem Gruß begegnete der auferstandene Jesus den Frauen auf dem Weg?
 
-- [ ] Fürchtet euch!
-- [ ] Gehet hin!
+- [ ] Friede sei mit euch!
+- [ ] Seid getrost!
 - [x] Freuet euch!
-- [ ] Friede sei!
+- [ ] Wachet und betet!
 
 **Bibelstelle:** Matthäus 28:9-10
 **Erklärung:** 
@@ -1485,5 +1485,5 @@
 - [x] Das Verhör vor Pontius Pilatus
 - [x] Die Auferstehung von den Toten
 
-**Bibelstelle:** Matthäus 26:26
+**Bibelstelle:** Matthäus 26:19; 26:36; 26:49; 27:2; 27:35; 28:6
 **Erklärung:** 

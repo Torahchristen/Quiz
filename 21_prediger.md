@@ -41,7 +41,7 @@
 
 - [x] Es geht dem einen wie dem andern: der Tod
 - [ ] Dasselbe hohe Alter und dieselbe Armut im Tod
-- [ ] Dieselbe Schande und dieselbe Vergessenheit
+- [ ] Dieselbe Schande und dieselbe Gefangenschaft
 - [ ] Dieselbe schwere Krankheit und dasselbe Leid
 
 **Bibelstelle:** Prediger 2:14-16
@@ -77,7 +77,7 @@
 **Bibelstelle:** Prediger 4:9-12
 **Erklärung:** 
 
-### 8. Was rät der Prediger in Prediger 5:3 zum Gelübde?
+### 8. Was rät der Prediger in Prediger 5:4 zum Gelübde?
 
 - [x] Nicht zu verziehen, es zu halten
 - [ ] Gelübde nur vor Priestern zu tun
@@ -182,7 +182,7 @@
 - [ ] Mose, der Knecht des HERRN, der das Gesetz empfing
 - [ ] Jesaja, der Sohn des Amoz, der das Wort sah
 - [x] Der Prediger, der Sohn Davids, König zu Jerusalem
-- [ ] Ahija von Silo, der den König salbte
+- [ ] Ahija von Silo, der Jerobeam das Königtum ankündigte
 
 **Bibelstelle:** Prediger 1:1
 **Erklärung:** 

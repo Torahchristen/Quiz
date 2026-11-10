@@ -120,11 +120,11 @@
 ### 12. Wie bezeichnete Hiob seine drei Freunde angesichts ihrer harten Zurechtweisungen?
 
 - [ ] Als treue Ratgeber und erleuchtete Propheten des HERRN
-- [x] Als mühselige Tröster und unnütze Ärzte allezumal
+- [x] Als leidige Tröster und unnütze Ärzte allzumal
 - [ ] Als gerechte Richter über die Verfehlungen seines Hauses
 - [ ] Als barmherzige Hirten auf den öden Bergen der Wüste
 
-**Bibelstelle:** Hiob 16:2
+**Bibelstelle:** Hiob 13:4; 16:2
 **Erklärung:** 
 
 ### 13. Welches herrliche Glaubensbekenntnis legte Hiob inmitten tiefster Not ab?
@@ -194,7 +194,7 @@
 - [ ] Der Löwe des Waldes und der Stier des Gebirges
 - [ ] Der Adler des Himmels und die Schlange im Schilf
 
-**Bibelstelle:** Hiob 40:15
+**Bibelstelle:** Hiob 40:15; 41:1
 **Erklärung:** 
 
 ### 20. Wie reagierte Hiob, nachdem der HERR zu ihm aus dem Wetter geredet hatte?
@@ -302,14 +302,14 @@
 - [ ] Und Hiob ward begraben in der Königsgruft zu Hebron
 - [ ] Und seine Söhne teilten das väterliche Erbe im Frieden
 - [ ] Und sein Name ward gepriesen unter allen Völkern des Ostens
-- [x] Und Hiob starb alt und lebenssatt vor dem HERRN
+- [x] Und Hiob starb alt und lebenssatt
 
 **Bibelstelle:** Hiob 42:17
 **Erklärung:** 
 
 ### 31. Welchen Reichtum an Vieh besaß Hiob zu Beginn des Buches im Lande Uz?
 
-- [x] Siebentausend Schafe, dreitausend Kamele und tausend Rinder
+- [x] Siebentausend Schafe, dreitausend Kamele und fünfhundert Joch Rinder
 - [ ] Zehntausend Schafe, fünftausend Kamele und zweitausend Rinder
 - [ ] Dreitausend Schafe, tausend Kamele und fünfhundert Rinder
 - [ ] Fünftausend Schafe, zweitausend Kamele und achthundert Rinder
@@ -911,7 +911,7 @@
 
 - [ ] Fliehe in die Wüste und baue eine Einsiedelei fernab von allen Menschen
 - [ ] Kaufe neue Knechte und Mägde, um deinen Haushalt wieder aufzurichten
-- [ ] Bringe tausend Widder als Brandopfer dar, um den Grimme zu besänftigen
+- [ ] Bringe tausend Widder als Brandopfer dar, um den Grimm zu besänftigen
 - [x] So vertrage dich nun mit ihm und habe Frieden; daraus kommt viel Gutes
 
 **Bibelstelle:** Hiob 22:21
@@ -952,7 +952,7 @@
 - [ ] Warum werden heidnische Altäre auf den Bergen nicht vom Blitz verzehrt?
 - [ ] Warum besitzen gottlose Fürsten mehr Reichtum als alle treuen Propheten?
 - [ ] Warum schuf der Schöpfer giftige Schlangen und Dornen auf allen Feldern?
-- [x] Warum sind von dem Allmächtigen nicht Zeiten und Tage vorbehalten worden?
+- [x] Warum sind von dem Allmächtigen nicht Zeiten vorbehalten, und warum sehen, die ihn kennen, seine Tage nicht?
 
 **Bibelstelle:** Hiob 24:1
 **Erklärung:** 
@@ -1130,11 +1130,11 @@
 ### 113. Wie beschrieb Hiob seine Schmerzen im geschlagenen Leibe?
 
 - [ ] Er empfand kaum Schmerzen, litt aber unter großem Heimweh nach Uz
-- [x] Des Nachts wird sein Gebein durchbohrt, und die nagen, schlafen nicht
+- [x] Des Nachts wird sein Gebein durchbohrt, und die ihn nagen, legen sich nicht schlafen
 - [ ] Seine Wunden heilten schnell ab und hinterließen nur weiße Flecken
 - [ ] Er verlor sein Gehör, behielt aber die volle Sehkraft seiner Augen
 
-**Bibelstelle:** Hiob 30:17-30
+**Bibelstelle:** Hiob 30:17
 **Erklärung:** 
 
 ### 114. Zu welchen Tieren gesellte sich Hiob in seiner Einsamkeit?
@@ -1152,7 +1152,7 @@
 - [ ] Niemals die Gestirne anzusehen, um allen Götzendienst zu meiden
 - [ ] Niemals fremdes Gold anzuschauen, um vor Begierde frei zu bleiben
 - [ ] Keine heidnischen Altäre auf den Höhen des Landes zu betrachten
-- [x] Einen Bund, dass er nicht blickend achtete auf eine Jungfrau
+- [x] Einen Bund, dass er nicht achtete auf eine Jungfrau
 
 **Bibelstelle:** Hiob 31:1
 **Erklärung:** 
@@ -1199,7 +1199,7 @@
 
 ### 120. Welcher Beistand kann laut Elihu für den Menschen eintreten?
 
-- [x] Ein Engel als Mittler, einer aus tausend, der Versöhnung findet
+- [x] Ein Engel als Mittler, einer aus tausend, der dem Menschen verkündigt, wie er recht tun soll
 - [ ] Ein irdischer Hohepriester, der am Altar das Versöhnungsblut sprengt
 - [ ] Der Geist eines Altvordern, der Fürbitte vor dem himmlischen Thron tut
 - [ ] Die Gemeinde der Ältesten, die vor den Toren der Stadt für ihn fastet
@@ -1362,7 +1362,7 @@
 - [ ] Er erhob laute Gegenklage und forderte trotzig ein gerechtes Urteil ein
 - [ ] Er zerriss sein Gewand und floh vor der Majestät des HERRN in die Felsen
 - [ ] Er forderte seine Gefährten auf, nun als Fürsprecher vor Gott zu treten
-- [x] Siehe, ich bin zu gering; was soll ich antworten? Ich lege die Hand auf!
+- [x] Siehe, ich bin zu leichtfertig gewesen; ich will meine Hand auf meinen Mund legen
 
 **Bibelstelle:** Hiob 40:3-5
 **Erklärung:** 

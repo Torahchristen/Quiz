@@ -85,7 +85,7 @@
     {
       "questionId": "apg_003",
       "type": "single_choice",
-      "text": "Welcher Name trug die Stätte, die von dem Lohn der Ungerechtigkeit gekauft wurde?",
+      "text": "Welchen Namen trug die Stätte, die von dem Lohn der Ungerechtigkeit gekauft wurde?",
       "options": [
         {
           "text": "Golgatha, das heißt Schädelstätte",
@@ -100,7 +100,7 @@
           "explanation": ""
         },
         {
-          "text": "Hakeldama, das heißt Blutacker",
+          "text": "Akeldama, das heißt Blutacker",
           "explanation": ""
         }
       ],
@@ -118,7 +118,7 @@
       "text": "Welche zwei Männer wurden für die Nachfolge im Apostelamt aufgestellt?",
       "options": [
         {
-          "text": "Josef, genannt Barsabbas, und Matthias",
+          "text": "Joseph, genannt Barsabas, und Matthias",
           "explanation": ""
         },
         {
@@ -160,7 +160,7 @@
           "explanation": ""
         },
         {
-          "text": "Durch den Beschluss aller da",
+          "text": "Durch einen Beschluss der Gemeinde",
           "explanation": ""
         }
       ],
@@ -268,7 +268,7 @@
       "text": "Wie viele Seelen schlossen sich nach der Predigt des Petrus der Gemeinde an?",
       "options": [
         {
-          "text": "Etwa eintausend Menschen",
+          "text": "Etwa eintausend Seelen",
           "explanation": ""
         },
         {
@@ -276,11 +276,11 @@
           "explanation": ""
         },
         {
-          "text": "Etwa fünftausend Gläubige",
+          "text": "Etwa fünftausend Seelen",
           "explanation": ""
         },
         {
-          "text": "Etwa siebenhundert Männer",
+          "text": "Etwa siebenhundert Seelen",
           "explanation": ""
         }
       ],
@@ -295,7 +295,7 @@
     {
       "questionId": "apg_010",
       "type": "single_choice",
-      "text": "Was taten die Gläubigen in der Urgemeinde täglich mit ihrem Gemeinschaftsbesitz?",
+      "text": "Was taten die Gläubigen der Urgemeinde mit ihren Gütern und ihrer Habe?",
       "options": [
         {
           "text": "Sie vergruben das Geld im Acker und hielten es dort für schlechte Zeiten",
@@ -325,7 +325,7 @@
     {
       "questionId": "apg_011",
       "type": "single_choice",
-      "text": "An welcher Pforte des jerusalemer Tempels saß der von Geburt an gelähmte Mann?",
+      "text": "An welcher Pforte des Jerusalemer Tempels saß der von Geburt an gelähmte Mann?",
       "options": [
         {
           "text": "An der Goldenen Pforte",
@@ -415,7 +415,7 @@
     {
       "questionId": "apg_014",
       "type": "single_choice",
-      "text": "An welchem Säulengang im Tempel lief das erstaunte Volk zu den Aposteln zusammen?",
+      "text": "In welchem Säulengang im Tempel lief das erstaunte Volk zu den Aposteln zusammen?",
       "options": [
         {
           "text": "In der Halle des Herodes",
@@ -478,7 +478,7 @@
       "text": "Welcher Glaubensinhalt der Apostel veranlasste die Priester zur Festnahme?",
       "options": [
         {
-          "text": "Die Verkündigung der Auferstehung der Toten in Jesus",
+          "text": "Die Verkündigung der Auferstehung von den Toten in Jesus",
           "explanation": ""
         },
         {
@@ -546,7 +546,7 @@
           "explanation": ""
         },
         {
-          "text": "In keinem andern ist das Heil; kein anderer Name unter dem Himmel ist gegeben",
+          "text": "In keinem anderen ist die Rettung; kein anderer Name unter dem Himmel ist gegeben",
           "explanation": ""
         },
         {
@@ -568,7 +568,7 @@
       "text": "Welcher Begriff bezeichnet nach Psalm 118 den von den Bauleuten verworfenen Stein?",
       "options": [
         {
-          "text": "Er ist zum Stolperstein geworden",
+          "text": "Er ist zum Grenzstein geworden",
           "explanation": ""
         },
         {
@@ -576,7 +576,7 @@
           "explanation": ""
         },
         {
-          "text": "Er ist zum Grundstein der Mauer geworden",
+          "text": "Er ist zum Mühlstein geworden",
           "explanation": ""
         },
         {
@@ -595,7 +595,7 @@
     {
       "questionId": "apg_020",
       "type": "single_choice",
-      "text": "Was bedeutet der Beiname Barnabas, den die Apostel dem Leviten Josef gaben?",
+      "text": "Was bedeutet der Beiname Barnabas, den die Apostel dem Leviten Joses gaben?",
       "options": [
         {
           "text": "Sohn des Trostes",
@@ -632,7 +632,7 @@
           "explanation": ""
         },
         {
-          "text": "Hananias und Saphira",
+          "text": "Ananias und Saphira",
           "explanation": ""
         },
         {
@@ -655,7 +655,7 @@
     {
       "questionId": "apg_022",
       "type": "single_choice",
-      "text": "Welches Schicksal traf Hananias unmittelbar nach der Überführung durch Petrus?",
+      "text": "Welches Schicksal traf Ananias unmittelbar nach der Überführung durch Petrus?",
       "options": [
         {
           "text": "Er erblindete vor aller Menge",
@@ -685,7 +685,7 @@
     {
       "questionId": "apg_023",
       "type": "single_choice",
-      "text": "Welches Phänomen bewirkte Heilung, als Petrus durch die Straßen ging?",
+      "text": "Was erhofften die Leute für die Kranken, die sie auf die Gassen trugen, wenn Petrus vorüberkam?",
       "options": [
         {
           "text": "Dass sein Mantel sie berührte, der ihm über die Schulter hing",
@@ -700,7 +700,7 @@
           "explanation": ""
         },
         {
-          "text": "Dass wenigstens sein Schatten einen von ihnen überschatte",
+          "text": "Dass auch nur sein Schatten einen von ihnen überschattete",
           "explanation": ""
         }
       ],
@@ -838,7 +838,7 @@
       "text": "Welcher unter den sieben gewählten Diakonen zeichnete sich durch Wunder aus?",
       "options": [
         {
-          "text": "Stephanus, voll Gnade",
+          "text": "Stephanus, voll Glauben und Kraft",
           "explanation": ""
         },
         {
@@ -925,14 +925,14 @@
     {
       "questionId": "apg_031",
       "type": "single_choice",
-      "text": "An welchem Ort erschien Gott dem Erzvater Abraham vor der Siedlung in Haran?",
+      "text": "Wo erschien nach der Rede des Stephanus der Gott der Herrlichkeit dem Erzvater Abraham?",
       "options": [
         {
           "text": "In Ägypten, ehe er in Kanaan wohnte",
           "explanation": ""
         },
         {
-          "text": "In Kanaan, ehe er nach Ägypten zog",
+          "text": "In Damaskus, ehe er nach Ägypten zog",
           "explanation": ""
         },
         {
@@ -992,7 +992,7 @@
           "explanation": ""
         },
         {
-          "text": "Joseph, von Brüdern beneidet",
+          "text": "Joseph, der Sohn Rahels",
           "explanation": ""
         },
         {
@@ -1195,7 +1195,7 @@
     {
       "questionId": "apg_040",
       "type": "single_choice",
-      "text": "Was veranlasste den Kämmerer aus Äthiopien zur Bitte um die Taufe am Wege?",
+      "text": "Was sah der Kämmerer aus Äthiopien unterwegs, sodass er um die Taufe bat?",
       "options": [
         {
           "text": "Ein Wasser am Weg",
@@ -1285,7 +1285,7 @@
     {
       "questionId": "apg_043",
       "type": "single_choice",
-      "text": "Welcher Jünger in Damaskus wurde von Gott gesandt, um Saulus Hände aufzulegen?",
+      "text": "Welchen Jünger sandte der Herr, um Saulus die Hände aufzulegen?",
       "options": [
         {
           "text": "Der Apostel Petrus aus Jerusalem",
@@ -1300,7 +1300,7 @@
           "explanation": ""
         },
         {
-          "text": "Hananias, ein Jünger in Damaskus",
+          "text": "Ananias, ein Jünger in Damaskus",
           "explanation": ""
         }
       ],
@@ -1345,14 +1345,14 @@
     {
       "questionId": "apg_045",
       "type": "single_choice",
-      "text": "Welche gläubige Frau in Joppe (Tabitha) erweckte Petrus durch Gebet vom Tode?",
+      "text": "Welche gläubige Frau in Joppe, reich an guten Werken, erweckte Petrus durch Gebet vom Tode?",
       "options": [
         {
           "text": "Lydia, die Purpurhändlerin",
           "explanation": ""
         },
         {
-          "text": "Tabita, die Dorkas genannt wird",
+          "text": "Tabitha, was übersetzt «Gazelle» heißt",
           "explanation": ""
         },
         {
@@ -1795,7 +1795,7 @@
     {
       "questionId": "apg_060",
       "type": "single_choice",
-      "text": "Welcher Neffe begleitete Barnabas und Saulus bei der Rückkehr nach Antiochia?",
+      "text": "Wen nahmen Barnabas und Saulus bei ihrer Rückkehr von Jerusalem mit sich?",
       "options": [
         {
           "text": "Johannes, der auch Markus genannt wird",
@@ -1862,7 +1862,7 @@
           "explanation": ""
         },
         {
-          "text": "Barjesus, der Pharisäer",
+          "text": "Theudas, der Aufrührer",
           "explanation": ""
         },
         {
@@ -2068,7 +2068,7 @@
       "text": "Welches Amt setzten die Apostel beim Rückweg in den einzelnen Gemeinden ein?",
       "options": [
         {
-          "text": "Bischöfe für jede Gegend",
+          "text": "Schriftgelehrte für jede Stadt",
           "explanation": ""
         },
         {
@@ -2102,7 +2102,7 @@
           "explanation": ""
         },
         {
-          "text": "In der Hafenstadt Tarsus in Asien",
+          "text": "In der Stadt Tarsus in Zilizien",
           "explanation": ""
         },
         {
@@ -2110,7 +2110,7 @@
           "explanation": ""
         },
         {
-          "text": "In der Provinzstadt Ephesus dort",
+          "text": "In der Stadt Ephesus in Asien",
           "explanation": ""
         }
       ],
@@ -2178,8 +2178,8 @@
         0
       ],
       "bibleReference": "Apostelgeschichte 15:13-21",
-      "explanation": "",
-      "explanationReviewed": false,
+      "explanation": "Jakobus, der Bruder des Johannes, war bereits hingerichtet worden (Apg 12:2). Der hier redende Jakobus ist der Bruder des Herrn, den Paulus zu den Aposteln zählt (Gal 1:19; 2:9).",
+      "explanationReviewed": true,
       "difficulty": "easy"
     },
     {
@@ -2398,7 +2398,7 @@
       "text": "Was verhinderte die Selbsttötung des Kerkermeisters in der Nacht von Philippi?",
       "options": [
         {
-          "text": "Paulus rief laut: Tu dir nichts an, wir sind alle hier!",
+          "text": "Paulus rief laut: Tue dir nichts Übles an, denn wir sind alle hier!",
           "explanation": ""
         },
         {
@@ -2455,7 +2455,7 @@
     {
       "questionId": "apg_082",
       "type": "single_choice",
-      "text": "Welcher Umstand erboste den Geist des Paulus beim Betreten der Stadt Athen?",
+      "text": "Welcher Umstand stachelte den Geist des Paulus auf, während er in Athen wartete?",
       "options": [
         {
           "text": "Die Armut des Volkes und der Hunger",
@@ -2485,7 +2485,7 @@
     {
       "questionId": "apg_083",
       "type": "single_choice",
-      "text": "Auf welchem Felsenhügel hielt Paulus Seine bekannte Rede vor den Athenern?",
+      "text": "Auf welchem Felsenhügel hielt Paulus seine bekannte Rede vor den Athenern?",
       "options": [
         {
           "text": "Auf dem Zionsberg",
@@ -2515,7 +2515,7 @@
     {
       "questionId": "apg_084",
       "type": "single_choice",
-      "text": "Welchen Altar wählte Paulus als Anknüpfungspunkt für Seine Predigt in Athen?",
+      "text": "Welchen Altar wählte Paulus als Anknüpfungspunkt für seine Predigt in Athen?",
       "options": [
         {
           "text": "Dem unbekannten Gott",
@@ -2826,7 +2826,7 @@
           "explanation": ""
         },
         {
-          "text": "Fünfzigtausend Silberstücke",
+          "text": "Fünfzigtausend Silberlinge",
           "explanation": ""
         },
         {
@@ -2856,7 +2856,7 @@
           "explanation": ""
         },
         {
-          "text": "Korinthos, der Goldschmied",
+          "text": "Trophimus, der Goldschmied",
           "explanation": ""
         },
         {
@@ -2875,7 +2875,7 @@
     {
       "questionId": "apg_096",
       "type": "single_choice",
-      "text": "Welcher Jüngling viel während der Predigt des Paulus in Troas aus dem Fenster?",
+      "text": "Welcher Jüngling fiel während der Predigt des Paulus in Troas aus dem Fenster?",
       "options": [
         {
           "text": "Eutychus",
@@ -2905,7 +2905,7 @@
     {
       "questionId": "apg_097",
       "type": "single_choice",
-      "text": "Aus welchem Stockwerk stürzte Eutychus hinab, ehe Paulus ihn ins Leben rief?",
+      "text": "Aus welchem Stockwerk stürzte Eutychus während der langen Rede des Paulus hinab?",
       "options": [
         {
           "text": "Aus dem zweiten Stock",
@@ -3025,7 +3025,7 @@
     {
       "questionId": "apg_101",
       "type": "single_choice",
-      "text": "Welcher Prophet bindet sich mit dem Gürtel des Paulus und weissagte Fesselung?",
+      "text": "Welcher Prophet band sich mit dem Gürtel des Paulus und weissagte dessen Fesselung?",
       "options": [
         {
           "text": "Silas, der Prophet",
@@ -3040,7 +3040,7 @@
           "explanation": ""
         },
         {
-          "text": "Barnabas der Levite",
+          "text": "Barnabas, der Levit",
           "explanation": ""
         }
       ],
@@ -3066,7 +3066,7 @@
           "explanation": ""
         },
         {
-          "text": "Beim Evangelisten Philippus, einem der sieben",
+          "text": "Beim Evangelisten Philippus, der einer von den Sieben war",
           "explanation": ""
         },
         {
@@ -3096,7 +3096,7 @@
           "explanation": ""
         },
         {
-          "text": "Er sollte dem Hofrat eine Spende geben und im Tempel öffentlich beten",
+          "text": "Er sollte dem Tempelschatz eine Spende geben und im Tempel öffentlich beten",
           "explanation": ""
         },
         {
@@ -3122,7 +3122,7 @@
           "explanation": ""
         },
         {
-          "text": "Er habe das Gesetz gestohlen und den Tempelschatz an sich genommen",
+          "text": "Er habe die heiligen Geräte gestohlen und den Tempelschatz geraubt",
           "explanation": ""
         },
         {
@@ -3167,7 +3167,7 @@
       "correctAnswers": [
         1
       ],
-      "bibleReference": "Apostelgeschichte 23:26",
+      "bibleReference": "Apostelgeschichte 23:26-27",
       "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
@@ -3175,7 +3175,7 @@
     {
       "questionId": "apg_106",
       "type": "single_choice",
-      "text": "In welcher Sprache richtete Paulus Seine Verteidigungsrede an das Volk?",
+      "text": "In welcher Sprache richtete Paulus seine Verteidigungsrede an das Volk?",
       "options": [
         {
           "text": "In griechischer Sprache des Volkes",
@@ -3366,7 +3366,7 @@
           "explanation": ""
         },
         {
-          "text": "Das Opferdienst im Tempel",
+          "text": "Der Opferdienst im Tempel",
           "explanation": ""
         },
         {
@@ -3415,22 +3415,22 @@
     {
       "questionId": "apg_114",
       "type": "single_choice",
-      "text": "Wie viele Soldaten begleiteten Paulus in der Nacht nach Cäsarea?",
+      "text": "Wie viele Mann ließ der Oberst bereitstellen, um Paulus bei Nacht nach Cäsarea zu bringen?",
       "options": [
         {
-          "text": "Zweihundertachtzig (100 Soldaten, 80 Reiter, 100 Lanzenträger)",
+          "text": "Zweihundertachtzig (100 Soldaten, 80 Reiter, 100 Schleuderer)",
           "explanation": ""
         },
         {
-          "text": "Dreihundertfünfzig (150 Soldaten, 50 Reiter, 150 Lanzenträger)",
+          "text": "Dreihundertfünfzig (150 Soldaten, 50 Reiter, 150 Schleuderer)",
           "explanation": ""
         },
         {
-          "text": "Vierhundertsiebzig (200 Soldaten, 70 Reiter, 200 Lanzenträger)",
+          "text": "Vierhundertsiebzig (200 Soldaten, 70 Reiter, 200 Schleuderer)",
           "explanation": ""
         },
         {
-          "text": "Fünfhundertzwanzig (250 Soldaten, 70 Reiter, 200 Lanzenträger)",
+          "text": "Fünfhundertzwanzig (250 Soldaten, 70 Reiter, 200 Schleuderer)",
           "explanation": ""
         }
       ],
@@ -3535,7 +3535,7 @@
     {
       "questionId": "apg_118",
       "type": "single_choice",
-      "text": "Welches Urteil fällte Statthalter Felix nach der Verteidigungsrede des Paulus?",
+      "text": "Wie verfuhr Statthalter Felix nach der Verteidigungsrede des Paulus?",
       "options": [
         {
           "text": "Er sprach ihn sofort frei und ließ ihn ohne Auflage ziehen",
@@ -3546,7 +3546,7 @@
           "explanation": ""
         },
         {
-          "text": "Er vertagte die Entscheidung, bis Lysias komme",
+          "text": "Er vertagte die Entscheidung, bis der Oberst Lysias herabkomme",
           "explanation": ""
         },
         {
@@ -3715,7 +3715,7 @@
     {
       "questionId": "apg_124",
       "type": "single_choice",
-      "text": "Welcher Vorwurf bezüglich Jesu lag nach Festus zwischen Paulus und den Juden?",
+      "text": "Welche Streitfrage um Jesus bestand laut Festus zwischen Paulus und den Juden?",
       "options": [
         {
           "text": "Ob ein gestorbener Jesus lebe",
@@ -3775,7 +3775,7 @@
     {
       "questionId": "apg_126",
       "type": "single_choice",
-      "text": "Welcher jüdischen Sonderpartei gehörte Paulus vor Seiner Bekehrung an?",
+      "text": "Welcher jüdischen Sonderpartei gehörte Paulus vor seiner Bekehrung an?",
       "options": [
         {
           "text": "Der Partei der Sadduzäer",
@@ -3805,7 +3805,7 @@
     {
       "questionId": "apg_127",
       "type": "single_choice",
-      "text": "Welches alttestamentliche Bild gebrauchte die Himmelsstimme bei der Berufung?",
+      "text": "Welches sprichwörtliche Bild gebrauchte die Himmelsstimme bei der Berufung?",
       "options": [
         {
           "text": "Es wird dir schwer werden, gegen die Felsen zu rennen",
@@ -3835,7 +3835,7 @@
     {
       "questionId": "apg_128",
       "type": "single_choice",
-      "text": "Welchen Vorwurf rief Festus dazwischen, als Paulus Seine Rede beendete?",
+      "text": "Welchen Vorwurf rief Festus dazwischen, als Paulus sich vor Agrippa verteidigte?",
       "options": [
         {
           "text": "Paulus, du bist von Sinnen! Das viele Studieren bringt dich um den Verstand!",
@@ -3895,7 +3895,7 @@
     {
       "questionId": "apg_130",
       "type": "single_choice",
-      "text": "Welches Urteil fällte Agrippa nach dem Ende der Redevorstellung des Paulus?",
+      "text": "Welches Urteil fällte Agrippa nach der Verteidigungsrede des Paulus?",
       "options": [
         {
           "text": "Er verdient die Geißelung, denn er hat den Frieden des Landes ernstlich gestört",
@@ -3906,7 +3906,7 @@
           "explanation": ""
         },
         {
-          "text": "Dieser Mensch hätte freigelassen werden können, wenn er sich nicht auf den Kaiser berufen hätte",
+          "text": "Man könnte diesen Menschen freilassen, wenn er sich nicht auf den Kaiser berufen hätte",
           "explanation": ""
         },
         {
@@ -3925,7 +3925,7 @@
     {
       "questionId": "apg_131",
       "type": "single_choice",
-      "text": "Welcher römische Hauptmann leitete die Gefangenentransportfahrt nach Rom?",
+      "text": "Welcher römische Hauptmann leitete den Gefangenentransport nach Rom?",
       "options": [
         {
           "text": "Kornelius, ein Hauptmann der italischen Kohorte",
@@ -3955,22 +3955,22 @@
     {
       "questionId": "apg_132",
       "type": "single_choice",
-      "text": "Welcher Seewind erfasste das Schiff nahe der Insel Kreta und trieb es fort?",
+      "text": "Welcher Sturmwind erfasste das Schiff nahe der Insel Kreta und trieb es fort?",
       "options": [
         {
-          "text": "Der Wirbelsturm Eurakylon (Nordostwind)",
+          "text": "Der Wirbelsturm Euroklydon (Nordostwind)",
           "explanation": ""
         },
         {
-          "text": "Der Südwind Notos (Südwind) vom Meer her",
+          "text": "Der Notos (Südwind) vom Meer her",
           "explanation": ""
         },
         {
-          "text": "Der Westwind Zephyros (Westwind) von Italien",
+          "text": "Der Zephyros (Westwind) von Italien her",
           "explanation": ""
         },
         {
-          "text": "Der Südostwind Euros (Ostwind) vom Land her",
+          "text": "Der Euros (Ostwind) vom Land her",
           "explanation": ""
         }
       ],
@@ -4095,7 +4095,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "Apostelgeschichte 28:1",
       "explanation": "",
@@ -4135,7 +4135,7 @@
     {
       "questionId": "apg_138",
       "type": "single_choice",
-      "text": "Welcher Vater eines Vornehmen auf Malta wurde durch Gebet des Paulus geheilt?",
+      "text": "Wessen Vater heilte Paulus auf der Insel Melite durch Gebet und Handauflegung?",
       "options": [
         {
           "text": "Der Vater des Julius, des Hauptmanns der kaiserlichen Kohorte",
@@ -4358,7 +4358,7 @@
           "explanation": ""
         },
         {
-          "text": "Das Apostelkonzil versammelt sich in Zion",
+          "text": "Das Apostelkonzil versammelt sich in Jerusalem",
           "explanation": ""
         },
         {
@@ -4377,7 +4377,7 @@
         3,
         2
       ],
-      "bibleReference": "Apostelgeschichte 1:8",
+      "bibleReference": "Apostelgeschichte 2:1-4; 7:57-60; 9:18; 10:44; 15:6",
       "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"

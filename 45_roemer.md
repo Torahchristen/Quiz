@@ -7,7 +7,7 @@
 
 ---
 
-### 1. Wie bezeichnet Sich Paulus selbst in den einleitenden Grüßen des Römerbriefs?
+### 1. Wie bezeichnet sich Paulus selbst in den einleitenden Grüßen des Römerbriefs?
 
 - [ ] Als Hohepriester der Gemeinde in Rom, berufen zum Dienst am Altar
 - [x] Als Knecht Jesu Christi, berufener Apostel, ausgesondert zum Evangelium Gottes
@@ -407,7 +407,7 @@
 **Bibelstelle:** Römer 8:38-39
 **Erklärung:** 
 
-### 41. Welchen tiefen Schmerz trägt Paulus in Seinem Herzen bezüglich Israels?
+### 41. Welchen tiefen Schmerz trägt Paulus in seinem Herzen bezüglich Israels?
 
 - [ ] Die Zerstörung des Heiligtums, die er mit eigenen Augen gesehen hatte
 - [x] Große Traurigkeit und ein beständiger Schmerz über sein Volk Israel
@@ -547,7 +547,7 @@
 **Bibelstelle:** Römer 11:25-26
 **Erklärung:** 
 
-### 55. Womit beschließt der Apostel Paulus das elf Kapitel lange Heilslehre-Kapitel?
+### 55. Womit beschließt Paulus den lehrhaften Teil des Römerbriefs (Kapitel 1–11)?
 
 - [ ] Mit einer Klage über die Sünde der Menschen und das kommende Gericht Gottes
 - [ ] Mit Geboten für die Gemeinde und Weisungen für den Alltag der Gläubigen
@@ -597,7 +597,7 @@
 **Bibelstelle:** Römer 12:17-21
 **Erklärung:** 
 
-### 60. Wer besitzt das ausschließliche Recht zur Rache und Vergelten nach der Schrift?
+### 60. Wer besitzt das ausschließliche Recht zur Rache und Vergeltung nach der Schrift?
 
 - [x] Gott allein: Die Rache ist mein, ich will vergelten
 - [ ] Der Statthalter der Region, der im Namen des Kaisers Recht spricht
@@ -687,12 +687,12 @@
 **Bibelstelle:** Römer 14:10-12
 **Erklärung:** 
 
-### 69. Worin besteht das Reich Gottes nach den klaren Worten des Paulus nicht?
+### 69. Worin besteht das Reich Gottes nach den klaren Worten des Paulus?
 
 - [ ] Im Beten und Fasten, im Verzicht auf Speise und Trank und in strenger Disziplin
 - [x] Nicht in Essen und Trinken, sondern in Gerechtigkeit, Friede und Freude im Heiligen Geist
-- [ ] Im Glauben an Christus, im Hören auf sein Wort und im Gehorsam gegen seine Gebote
-- [ ] In der Liebe zum Nächsten, im Dienst an den Armen und im Teilen mit den Bedürftigen
+- [ ] Im Halten der Feste, im Opfer am Altar und im Befolgen äußerer Satzungen
+- [ ] In Macht und Reichtum, in irdischer Herrschaft und im Glanz der Könige
 
 **Bibelstelle:** Römer 14:17
 **Erklärung:** 
@@ -737,7 +737,7 @@
 **Bibelstelle:** Römer 15:19
 **Erklärung:** 
 
-### 74. Welches ferne Reiseziel plante Paulus nach Seinem beabsichtigten Besuch in Rom?
+### 74. Welches ferne Reiseziel plante Paulus nach seinem beabsichtigten Besuch in Rom?
 
 - [ ] Eine Reise nach Kreta
 - [ ] Die Rückkehr nach Tarsus
@@ -747,7 +747,7 @@
 **Bibelstelle:** Römer 15:24
 **Erklärung:** 
 
-### 75. Welche dringende Aufgabe führte Paulus vor Seiner Romreise nach Jerusalem?
+### 75. Welche dringende Aufgabe führte Paulus vor seiner Romreise nach Jerusalem?
 
 - [ ] Das Tempelweihfest zu feiern und dort ein Dankopfer darzubringen
 - [ ] Sich vor dem Hohen Rat zu verteidigen und seine Anklage zu widerlegen
@@ -767,7 +767,7 @@
 **Bibelstelle:** Römer 16:1-2
 **Erklärung:** 
 
-### 77. Welches Ehepaar von Mitarbeitern wog für das Leben des Paulus den eigenen Hals?
+### 77. Welches Ehepaar hat für das Leben des Paulus den eigenen Hals hingehalten?
 
 - [ ] Hananias und Saphira, die für die Gemeinde alles verkauft hatten
 - [x] Priscilla und Aquila, meine Mitarbeiter in Christus Jesus
@@ -797,7 +797,7 @@
 **Bibelstelle:** Römer 16:20
 **Erklärung:** 
 
-### 80. Welcher Schreiber verfasste den Römerbrief im Gruße im Auftrag des Paulus?
+### 80. Welcher Schreiber schrieb den Römerbrief für Paulus nieder und grüßt die Leser im Herrn?
 
 - [x] Tertius
 - [ ] Silvanus

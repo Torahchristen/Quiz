@@ -228,7 +228,7 @@
           "explanation": ""
         },
         {
-          "text": "Ein Teil verbrennen, einen mit dem Schwert schlagen, einen in den Wind streuen",
+          "text": "Einen Teil verbrennen, einen mit dem Schwert schlagen, einen in den Wind streuen",
           "explanation": ""
         }
       ],
@@ -352,7 +352,7 @@
           "explanation": ""
         },
         {
-          "text": "Als Siegelring, voll Weisheit und schön, im Garten Eden und gesalbter Cherub",
+          "text": "Als reinliches Siegel, voller Weisheit und schön, im Lustgarten Gottes und wie ein Cherub",
           "explanation": ""
         }
       ],
@@ -682,7 +682,7 @@
           "explanation": ""
         },
         {
-          "text": "Er machte sein Angesicht hart wie Diamant, härter als Fels",
+          "text": "Er machte seine Stirn hart wie Demant, härter als Fels",
           "explanation": ""
         },
         {
@@ -1252,11 +1252,11 @@
           "explanation": ""
         },
         {
-          "text": "Wie die Väter, so die Söhne, der Tag des HERRN ist ferne",
+          "text": "Die Väter haben Herlinge gegessen, aber den Kindern sind die Zähne stumpf geworden",
           "explanation": ""
         },
         {
-          "text": "Der Tag des HERRN ist fern, und seine Weissagung wird nicht erfüllt",
+          "text": "Hier ist des HERRN Tempel, uns kann kein Unglück treffen",
           "explanation": ""
         },
         {
@@ -1308,7 +1308,7 @@
       "text": "Wie beschreibt Hesekiel 13:10 die falschen Propheten bildhaft?",
       "options": [
         {
-          "text": "Sie bauen Wände und tünchen sie mit losem Kalk, indem sie rufen: Friede!",
+          "text": "Sie tünchen die Wand, die das Volk baut, mit losem Kalk und sagen: Friede!",
           "explanation": ""
         },
         {
@@ -2547,7 +2547,7 @@
     {
       "questionId": "hes_090",
       "type": "single_choice",
-      "text": "Als was wird Tyrus in Hesekiel 27:3 dargestellt?",
+      "text": "Als was wird Tyrus in Hesekiel 27:3-5 dargestellt?",
       "options": [
         {
           "text": "Als ein Garten, der alle Früchte der Erde trägt",
@@ -2569,9 +2569,9 @@
       "correctAnswers": [
         2
       ],
-      "bibleReference": "Hesekiel 27:3",
-      "explanation": "",
-      "explanationReviewed": false,
+      "bibleReference": "Hesekiel 27:3-5",
+      "explanation": "Tyrus spricht in Vers 3: „Ich bin die Allerschönste“. In den Versen 4-5 wird die Stadt dann mit Bauleuten, Tafelwerk und Mastbäumen wie ein Schiff beschrieben.",
+      "explanationReviewed": true,
       "difficulty": "hard"
     },
     {
@@ -2678,7 +2678,7 @@
           "explanation": ""
         },
         {
-          "text": "Als ein glänzender Cherub, auf dem heiligen Berg Gottes",
+          "text": "Als ein Cherub, der sich weit ausbreitet und deckt, auf dem heiligen Berg Gottes",
           "explanation": ""
         },
         {
@@ -2911,10 +2911,10 @@
     {
       "questionId": "hes_102",
       "type": "single_choice",
-      "text": "Warum wurde die Zeder nach Hesekiel 31:10 gefällt?",
+      "text": "Warum wurde der Zedernbaum nach Hesekiel 31:10 gefällt?",
       "options": [
         {
-          "text": "Weil es dürr wurde und seine Blätter verlor",
+          "text": "Weil er dürr wurde und seine Blätter verlor",
           "explanation": ""
         },
         {
@@ -2926,7 +2926,7 @@
           "explanation": ""
         },
         {
-          "text": "Weil ein Sturm sie brach und niemand sie rettete",
+          "text": "Weil ein Sturm ihn brach und niemand ihn rettete",
           "explanation": ""
         }
       ],
@@ -2986,7 +2986,7 @@
           "explanation": ""
         },
         {
-          "text": "Ich verbanne dich in die Wüste und überlasse dich den Tieren",
+          "text": "Ich stoße dich vom Thron und setze einen Fremden an deine Stelle",
           "explanation": ""
         }
       ],
@@ -3616,7 +3616,7 @@
       "text": "Wie wurde der hölzerne Altar in Hesekiel 41:22 genannt?",
       "options": [
         {
-          "text": "Der Schaubrottisch, auf dem die zwölf Brote liegen",
+          "text": "Die Lade des Bundes, in der die Tafeln liegen",
           "explanation": ""
         },
         {
@@ -3864,7 +3864,7 @@
       "text": "Warum soll das Tor nach Hesekiel 44:2 verschlossen bleiben?",
       "options": [
         {
-          "text": "Weil der Fürst es für sich benutzt und niemand sonst",
+          "text": "Weil die Feinde des Landes dadurch einfallen könnten",
           "explanation": ""
         },
         {

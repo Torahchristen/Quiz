@@ -114,7 +114,7 @@
 - [ ] Aus vornehmem Geschlecht Athens, bekehrt am Areopag und getauft im Fluss Jordan
 - [x] Am achten Tag beschnitten, vom Volk Israel, vom Stamm Benjamin, ein Pharisäer
 
-**Bibelstelle:** Philipper 3:5-6
+**Bibelstelle:** Philipper 3:4-6
 **Erklärung:** 
 
 ### 12. Wie bewertet Paulus seine früheren Vorzüge um Christi willen (Philipper 3:7-8)?

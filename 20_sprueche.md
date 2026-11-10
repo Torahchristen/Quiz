@@ -97,7 +97,7 @@
 **Bibelstelle:** Sprüche 6:16-19
 **Erklärung:** 
 
-### 10. Wie nähert sich die Törin dem unverständigen Jüngling in Sprüche 7?
+### 10. Wie nähert sich das fremde Weib dem unverständigen Jüngling in Sprüche 7?
 
 - [ ] Sie droht ihm mit strengen Worten und treibt ihn fort
 - [x] Sie erwischt ihn, küsst ihn und redet ihm unverschämt zu
@@ -319,10 +319,10 @@
 
 ### 32. Was gilt nach Sprüche 28:13 für den, der seine Missetat leugnet?
 
-- [ ] Der Gerechte
-- [ ] Der Törigte
-- [ ] Der Heuchler
-- [x] Der Gottlose
+- [ ] Ihm vergeben die Menschen, aber Gott im Himmel richtet ihn
+- [ ] Er hat eine Zeit lang Glück, doch sein Andenken vergeht
+- [ ] Er findet Frieden bei Gefährten, die seine Schuld nicht kennen
+- [x] Dem wird's nicht gelingen; wer sie aber bekennt und läßt, der wird Barmherzigkeit erlangen
 
 **Bibelstelle:** Sprüche 28:13
 **Erklärung:** 
@@ -342,7 +342,7 @@
 - [ ] Silber, sie ist viel edler als dieses
 - [ ] Gold, sie ist viel edler als dieses
 - [x] Perlen, sie ist viel edler als diese
-- [ ] Edelsteinen, sie ist viel edler als diese
+- [ ] Elfenbein, sie ist viel edler als dieses
 
 **Bibelstelle:** Sprüche 31:10
 **Erklärung:** 
@@ -511,7 +511,7 @@
 
 - [x] Schmach, aber bei den Demütigen ist Weisheit
 - [ ] Armut, aber bei den Demütigen ist Reichtum
-- [ ] Schande, aber bei den Demütigen ist die Ehre
+- [ ] Furcht, aber bei den Demütigen ist die Ehre
 - [ ] Ohnmacht, aber bei den Demütigen ist die Macht
 
 **Bibelstelle:** Sprüche 11:2
@@ -609,7 +609,7 @@
 
 ### 61. Was bewirkt nach Sprüche 17:22 ein fröhliches Herz?
 
-- [ ] Es macht den Leib gesund
+- [ ] Es macht den Menschen reich
 - [ ] Es macht die Augen hell
 - [x] Es macht das Leben lustig
 - [ ] Es macht den Geist stark
@@ -891,7 +891,7 @@
 
 - [ ] Um Reichtum und Ehre, damit er den HERRN verherrliche
 - [ ] Um langes Leben und Weisheit, damit er das Volk führe
-- [x] Um Armut noch Reichtum, nur um sein bescheiden Teil Speise
+- [x] Weder um Armut noch um Reichtum, sondern um sein bescheiden Teil Speise
 - [ ] Um Sieg über die Feinde und Frieden im Land
 
 **Bibelstelle:** Sprüche 30:7-9

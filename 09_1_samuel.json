@@ -404,7 +404,7 @@
       "text": "Welches Heiligtum holten die Israeliten nach der ersten Niederlage bei Eben-Ezer ins Feldlager?",
       "options": [
         {
-          "text": "Die Lade des Bundes des HERRN von Silo",
+          "text": "Den goldenen Leuchter aus dem Heiligtum",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -422,7 +422,7 @@
           "isCorrect": false
         },
         {
-          "text": "Die Bundeslade des Bundes Gottes aus Silo",
+          "text": "Die Lade des Bundes des HERRN von Silo",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": true
@@ -568,7 +568,7 @@
           "isCorrect": false
         },
         {
-          "text": "Genau siebzigundfünf Jahre alt im Heiligtum",
+          "text": "Genau fünfundsiebzig Jahre alt im Heiligtum",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
@@ -971,7 +971,7 @@
     {
       "questionId": "1sam_026",
       "type": "single_choice",
-      "text": "Wie viele Jahre verblieb die Bundeslade Gottes im Hause Abinadabs in Kirjath-Jearim?",
+      "text": "Wie viele Jahre waren vergangen, seit die Lade in Kirjath-Jearim blieb, als das ganze Haus Israel vor dem HERRN weinte?",
       "options": [
         {
           "text": "Genau sieben Jahre lang am Orte",
@@ -980,7 +980,7 @@
           "isCorrect": false
         },
         {
-          "text": "Genau vierzig Jahre bis zur Thronbesteigung",
+          "text": "Genau vierzig Jahre wie einst in der Wüste",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -2491,28 +2491,28 @@
     {
       "questionId": "1sam_066",
       "type": "single_choice",
-      "text": "In welcher judäischen Stadt sollte Samuel einen der Söhne Isais zum neuen König salben?",
+      "text": "Zu wem sandte der HERR Samuel, um einen neuen König zu salben?",
       "options": [
         {
-          "text": "In der Priesterstadt Nob nahe den Hügeln",
+          "text": "Zu Ahimelech, dem Priester in der Stadt Nob",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "In der Festung Hebron auf dem Gebirge",
+          "text": "Zu Kaleb, dem Fürsten in der Festung Hebron",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "In der Stadt Bethlehem im Lande Juda",
+          "text": "Zu Isai, dem Bethlehemiter, unter dessen Söhnen ein König war",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": true
         },
         {
-          "text": "In der Stadt Gibea im Stamme Benjamin",
+          "text": "Zu Abner, dem Feldhauptmann in der Stadt Gibea",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -2643,7 +2643,7 @@
     {
       "questionId": "1sam_070",
       "type": "single_choice",
-      "text": "Wie groß war der philisterische Hüne Goliath aus der Küstenstadt Gath laut dem Bericht?",
+      "text": "Wie groß war der Riese Goliath aus der Philisterstadt Gath laut dem Bericht?",
       "options": [
         {
           "text": "Genau vier Ellen und eine Handbreit betrug seine Höhe",
@@ -2674,7 +2674,7 @@
         2
       ],
       "bibleReference": "1. Samuel 17:4",
-      "explanation": "Sechs Ellen und eine Handbreit entsprechen einer Körpergröße von etwa 2,90 bis 3,00 Metern (eine Elle ca. 45–50 cm, eine Spanne ca. 22 cm).",
+      "explanation": "Sechs Ellen und eine Handbreit entsprechen etwa 2,90 Metern (eine Elle ca. 45 cm; „Handbreit“ steht hier für die hebräische Spanne von ca. 22 cm).",
       "explanationReviewed": true,
       "difficulty": "hard"
     },
@@ -3228,7 +3228,7 @@
           "isCorrect": true
         },
         {
-          "text": "Pinchas der Nachkommen des Hauses Eli",
+          "text": "Pinchas, ein Nachkomme aus dem Hause Elis",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
@@ -3935,7 +3935,7 @@
     {
       "questionId": "1sam_108",
       "type": "single_choice",
-      "text": "Wie reagierte Saul, als David ihm in der Höhle zeigte, dass er ihn verschont hatte?",
+      "text": "Wie reagierte Saul, als David ihm nach dem Verlassen der Höhle zeigte, dass er ihn verschont hatte?",
       "options": [
         {
           "text": "Er ließ seine Krieger sofort zum Angriff auf David und seine Männer antreten",
@@ -3965,7 +3965,7 @@
       "correctAnswers": [
         3
       ],
-      "bibleReference": "1. Samuel 24:16-19",
+      "bibleReference": "1. Samuel 24:16-20",
       "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"

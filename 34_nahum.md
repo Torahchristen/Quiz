@@ -142,7 +142,7 @@
 - [ ] Als Schlange, die mit finsterem Gifte die Völker im Tal lähmte
 - [x] Als schöne Hure, die mit Zauberei Land und Leute knechtete
 - [ ] Als Königin, die mit vielem Golde die Fürsten der Erde kaufte
-- [ ] Als Löwin, die mit großer Grausamkeit die schwachen Becher fing
+- [ ] Als Löwin, die mit großer Grausamkeit die Schwachen zerriss
 
 **Bibelstelle:** Nahum 3:4
 **Erklärung:** 

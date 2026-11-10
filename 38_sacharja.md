@@ -120,7 +120,7 @@
 ### 12. Wen stellen die zwei Ölbäume dar (Sacharja 4:14)?
 
 - [x] Die zwei Gesalbten, die bei dem Herrscher aller Lande stehen
-- [ ] Die zwei Zeugen, die vor dem Herrscher aller Lande Zeugnis geben
+- [ ] Die zwei Engel, die an den Toren des Heiligtums Wache halten
 - [ ] Die zwei Könige, die über Juda und Israel regieren und herrschen
 - [ ] Die zwei Hirten, die die Herde des HERRN weiden und beschützen
 
@@ -167,7 +167,7 @@
 **Bibelstelle:** Sacharja 6:1
 **Erklärung:** 
 
-### 17. Auf wessen Haupt soll Sacharja die Krone setzen (Sacharja 6:11)?
+### 17. Auf wessen Haupt soll Sacharja die Kronen setzen (Sacharja 6:11)?
 
 - [ ] Auf das Haupt Serubbabels, des Sohnes Sealthiels, des Statthalters
 - [x] Auf das Haupt Josuas, des Sohnes Jozadaks, des Hohenpriesters
@@ -257,12 +257,12 @@
 **Bibelstelle:** Sacharja 9:9
 **Erklärung:** 
 
-### 26. Wie weit reicht die Herrschaft des Königs nach Sacharja 9:10?
+### 26. Was will der HERR nach Sacharja 9:10 abtun?
 
-- [ ] Er wird die Wagen in Ephraim und die Rosse zu Jerusalem mehren
-- [ ] Er wird die Rosse und Wagen der Heiden für sein eigenes Heer nehmen
-- [x] Er wird die Wagen aus Ephraim und die Rosse aus Jerusalem ausrotten
-- [ ] Er wird die Heere aller Völker versammeln und mit ihnen einherziehen
+- [ ] Die Mauern von Ephraim und die Türme von Jerusalem
+- [ ] Die Schiffe von Tyrus und die Wagen von Ägypten
+- [x] Die Wagen von Ephraim und die Rosse von Jerusalem
+- [ ] Die Höhen von Samaria und die Haine von Jerusalem
 
 **Bibelstelle:** Sacharja 9:10
 **Erklärung:** 

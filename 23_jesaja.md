@@ -69,7 +69,7 @@
 
 ### 7. Welches Bild des Friedens zeichnet Jesaja 11:6?
 
-- [ ] Der Wolf wohnt beim Schaf und der Löwe frisst Stroh
+- [ ] Der Löwe jagt das Lamm, und der Bär meidet die Kuh
 - [x] Wölfe wohnen bei Lämmern und Parder bei Böcken
 - [ ] Der Wolf meidet das Lamm und der Pardel das Kalb
 - [ ] Die wilden Tiere fliehen in die ferne Wüste
@@ -170,7 +170,7 @@
 ### 17. Was tut der Knecht Gottes nach Jesaja 42:3 mit dem zerstoßenen Rohr?
 
 - [ ] Er weist es aus dem Lande
-- [ ] Er setzt es mit Härte durch
+- [ ] Er zerschlägt es mit eisernem Stab
 - [ ] Er verbrennt es mit Feuer
 - [x] Er zerbricht es nicht
 
@@ -221,7 +221,7 @@
 
 - [x] Auf, ihr Durstigen, kommt her zum Wasser
 - [ ] Wohlan, alle, die ihr hungrig seid, kommt zu meinem Mahl
-- [ ] Auf, ihr Armen, kommt und kauft Brot ohne Geld
+- [ ] Auf, ihr Reichen, kauft Wein und Milch mit Geld
 - [ ] Wohlan, alle, die ihr müde seid, kommt zum Berg
 
 **Bibelstelle:** Jesaja 55:1-3
@@ -291,7 +291,7 @@
 
 - [x] Der Ochse kennt seinen Herrn und der Esel die Krippe seines Herrn
 - [ ] Der Hund kennt seinen Herrn und die Taube ihren Schlag
-- [ ] Der Esel kennt seinen Stall und der Ochse seine Weide
+- [ ] Das Kamel kennt seine Last und das Pferd seinen Weg
 - [ ] Das Pferd kennt seinen Reiter und das Schaf seinen Hirten
 
 **Bibelstelle:** Jesaja 1:3
@@ -317,7 +317,7 @@
 **Bibelstelle:** Jesaja 2:3
 **Erklärung:** 
 
-### 32. Wovon rät Jesaja 2:22 ab?
+### 32. Wovor warnt Jesaja 2:22?
 
 - [ ] Vor dem Götzendienst der Völker
 - [ ] Vor dem Bündnis mit Ägypten
@@ -349,10 +349,10 @@
 
 ### 35. Wie straft Gott den Hochmut der Töchter Zions (Jesaja 3:24)?
 
-- [ ] Statt der Spangen wird Armut sein, statt des Schmucks ein Sack
+- [ ] Statt der Spangen wird Armut sein, statt des Goldes Blei
 - [ ] Statt der Kleider wird Schmach sein, statt der Ketten ein Joch
 - [x] Statt des Wohlgeruchs wird Gestank sein, statt der Gürtel ein Strick
-- [ ] Statt des Gürtels wird ein Strick sein, statt des Haars ein Tuch
+- [ ] Statt der Ringe wird Rost sein, statt der Krone ein Kranz aus Dornen
 
 **Bibelstelle:** Jesaja 3:24
 **Erklärung:** 
@@ -439,8 +439,8 @@
 
 ### 44. Wie nannte Jesaja Rezin und Pekach vor Ahas (Jesaja 7:4)?
 
-- [ ] Zwei glimmende Docht
-- [x] Zwei rauchende Brandscheite
+- [ ] Zwei glimmende Dochte
+- [x] Zwei rauchende Löschbrände
 - [ ] Zwei hungrige Löwen
 - [ ] Zwei zerbrochene Rohre
 
@@ -459,8 +459,8 @@
 
 ### 46. Welches Land sah nach Jesaja 9:1-2 ein großes Licht?
 
-- [ ] Das Land jenseits des Jordan, Gad und Ruben im Osten
-- [x] Sebulon und Naftali, das galiläische Land der Heiden
+- [ ] Das Land Juda und Benjamin rings um Jerusalem
+- [x] Sebulon und Naphthali, der Heiden Galiläa
 - [ ] Das Land Moab und Edom, die Wüste im Süden
 - [ ] Das Land der Philister, die Küstenebene im Westen
 
@@ -547,7 +547,7 @@
 **Bibelstelle:** Jesaja 12:6
 **Erklärung:** 
 
-### 55. Welcher Stadt gilt die Last in Jesaja 13:1?
+### 55. Über wen ergeht die Last in Jesaja 13:1?
 
 - [ ] Über Edom
 - [ ] Über Tarsis
@@ -621,7 +621,7 @@
 
 - [ ] Sein Herz freut sich über den Fall Moabs
 - [ ] Sein Herz ruft zu Moab um Umkehr zum HERRN
-- [x] Sein Herz brummt über Moab wie eine Harfe
+- [x] Sein Herz schreit über Moab
 - [ ] Sein Herz verflucht Moab für alle Zeiten
 
 **Bibelstelle:** Jesaja 15:5
@@ -629,9 +629,9 @@
 
 ### 63. Was rät Jesaja 16:1 den Moabitern?
 
-- [ ] Zinsen in Silber zum Herrscher des Landes zu bringen
-- [ ] Boten als Gesandte zum Herrscher von Damaskus zu schicken
-- [ ] Gold und Gaben zum Tempel nach Jerusalem zu senden
+- [ ] Tribut in Silber und Gold zum Herrscher von Damaskus zu bringen
+- [ ] Schnelle Boten zu den mächtigen Fürsten Ägyptens zu schicken
+- [ ] Brandopfer auf den Höhen des Kemosch darzubringen
 - [x] Lämmer als Tribut zum Herrscher des Landes zu senden
 
 **Bibelstelle:** Jesaja 16:1
@@ -689,8 +689,8 @@
 
 ### 69. Welchem Land gilt das Wehe in Jesaja 18:1?
 
-- [ ] Dem Land Äthiopiens im Süden von Ägypten
-- [x] Dem Land jenseits der Wasser von Kusch
+- [ ] Dem Land Edom am Rand der Wüste
+- [x] Dem Land jenseits der Wasser des Mohrenlandes
 - [ ] Dem Land der Chaldäer im Osten des Euphrat
 - [ ] Dem Land Tarsis im Westen am Meer
 
@@ -770,7 +770,7 @@
 ### 77. Was sollten die Bewohner der Küste nach Jesaja 20:6 erkennen?
 
 - [ ] Auf Ägypten haben wir gehofft, aber Assur hat uns befreit
-- [x] Wie sollen wir entrinnen, wenn so steht, wohin wir um Hilfe flohen?
+- [x] Ist das unsre Zuversicht, dahin wir um Hilfe flohen? Wie könnten wir entrinnen?
 - [ ] Auf die Hilfe der Völker haben wir gesetzt, aber der Feind hat uns verschont
 - [ ] Wohin wir um Hilfe flohen, dort sind wir gerettet worden
 
@@ -919,10 +919,10 @@
 
 ### 92. Welches Lied wird nach Jesaja 26:1 in Juda gesungen?
 
-- [x] Wir haben eine feste Stadt; Mauern und Wehr schafft er zum Heil
+- [x] Wir haben eine feste Stadt, Mauern und Wehre sind Heil
 - [ ] Wir haben ein starkes Heer; Wagen und Rosse schaffen uns Sieg
 - [ ] Wir haben einen reichen König; sein Thron gibt uns Schutz
-- [ ] Wir haben ein altes Gesetz; seine Mauern geben uns Heil
+- [ ] Wir haben ein altes Gesetz; seine Gebote sind unsre Wehr
 
 **Bibelstelle:** Jesaja 26:1-2
 **Erklärung:** 
@@ -1080,7 +1080,7 @@
 ### 108. Mit welchem Bild verheißt Jesaja 31:5 Schutz für Jerusalem?
 
 - [ ] Wie eine Mauer, die ihre Stadt umgibt und nicht fällt
-- [x] Wie Vögel, die ihre Jungen beschirmen
+- [x] Wie die Vögel, die mit ihren Flügeln beschirmen
 - [ ] Wie ein Hirte, der seine Schafe sammelt und trägt
 - [ ] Wie ein Schild, der Pfeile abwehrt und nicht bricht
 
@@ -1091,8 +1091,8 @@
 
 - [ ] Jeder wird wie ein Schutz vor Feinden sein, ein Schild in der Schlacht
 - [ ] Jeder wird wie eine Burg sein, die Zuflucht vor dem Krieg gibt
-- [x] Jeder wird wie ein Bergungsort vor Wind und Sturm sein
-- [ ] Jeder wird wie ein Brunnen sein, der den Durstigen tränkt
+- [x] Jeder wird wie eine Zuflucht vor dem Wind und ein Schirm vor dem Platzregen sein
+- [ ] Jeder wird wie ein Löwe sein, der seine Beute zerreißt
 
 **Bibelstelle:** Jesaja 32:1-2
 **Erklärung:** 
@@ -1149,10 +1149,10 @@
 
 ### 115. Über welches Volk hält der HERR nach Jesaja 34:5-6 ein Schlachten in Bozra?
 
-- [x] Auf Edom
-- [ ] Auf Moab
-- [ ] Auf Ammon
-- [ ] Auf Tyrus
+- [x] Über Edom
+- [ ] Über Moab
+- [ ] Über Ammon
+- [ ] Über die Philister
 
 **Bibelstelle:** Jesaja 34:5-6
 **Erklärung:** 
@@ -1302,7 +1302,7 @@
 - [ ] Als mächtigen Löwen, der die Völker niederreißt und ihre Burgen zerbricht
 - [ ] Als starken Felsen, der den Stürmen standhält und die Seinen schützend umgibt
 - [ ] Als weisen Hirten, der seine Herde sammelt und sie sicher zur Weide führt
-- [x] Als du Würmlein Jakob, den er zum neuen scharfen Dreschwagen macht
+- [x] Als Würmlein Jakob, das er zum scharfen, neuen Dreschwagen macht
 
 **Bibelstelle:** Jesaja 41:14-15
 **Erklärung:** 
@@ -1409,10 +1409,10 @@
 
 ### 141. Welche Einladung ergeht in Jesaja 45:22?
 
-- [ ] Wendet euch an die Götter, so werdet ihr gerettet, aller Welt Enden
-- [ ] Zieht nach Jerusalem, so werdet ihr gerettet, aller Welt Enden
-- [x] Wendet euch zu mir, so werdet ihr gerettet, aller Welt Enden
-- [ ] Opfert dem HERRN, so werdet ihr gerettet, aller Welt Enden
+- [ ] Wendet euch an die Götter, so werdet ihr selig, aller Welt Enden
+- [ ] Zieht nach Jerusalem, so werdet ihr selig, aller Welt Enden
+- [x] Wendet euch zu mir, so werdet ihr selig, aller Welt Enden
+- [ ] Opfert dem HERRN, so werdet ihr selig, aller Welt Enden
 
 **Bibelstelle:** Jesaja 45:22-23
 **Erklärung:** 
@@ -1449,7 +1449,7 @@
 
 ### 145. Was kündigt Jesaja 47:1-3 der Tochter Babel an?
 
-- [ ] Sie wird verbannt, von ihrem Thron gestürzt und muss in der Fremde dienen
+- [ ] Sie wird sieben Jahre belagert und muss schweren Tribut zahlen
 - [ ] Sie wird verschont, aber ihre Kinder werden den Feinden preisgegeben
 - [ ] Sie wird belagert, bleibt aber auf dem Thron und herrscht lange weiter
 - [x] Sie muss vom Thron in den Staub, soll Mühle drehen und ihre Schande wird aufgedeckt
@@ -1531,8 +1531,8 @@
 
 - [ ] Sie bekämpfen es und fordern Tribut von seinen Bewohnern
 - [ ] Sie meiden es und suchen ihr Heil bei den Götzen
-- [ ] Sie verehren es und bringen ihm Gold und Weihrauch
-- [x] Könige werden ihre Pfleger und Fürstinnen ihre Ammen sein
+- [ ] Sie plündern es und tragen sein Gold und Silber fort
+- [x] Könige werden seine Pfleger und Fürstinnen seine Säugammen sein
 
 **Bibelstelle:** Jesaja 49:22-23
 **Erklärung:** 
@@ -1700,8 +1700,8 @@
 ### 170. Als was beschimpft Jesaja 56:10 die blinden Wächter Israels?
 
 - [x] Als stumme Hunde, die nicht strafen können
-- [ ] Als blinde Führer, die in die Grube fallen
-- [ ] Als faule Hirten, die ihre Herde zerstreuen
+- [ ] Als wachsame Adler, die alles von fern sehen
+- [ ] Als reißende Wölfe, die die Herde fressen
 - [ ] Als taube Wächter, die den Feind nicht hören
 
 **Bibelstelle:** Jesaja 56:10-11
@@ -1747,10 +1747,10 @@
 **Bibelstelle:** Jesaja 58:8-9
 **Erklärung:** 
 
-### 175. Was verheißt Jesaja 58:14 dem, der den Sabbat ein Lust nennt?
+### 175. Was verheißt Jesaja 58:14 dem, der den Sabbat eine Lust nennt?
 
 - [ ] Sieg über seine Feinde und Herrschaft über das ganze Land
-- [x] Lust am HERRN und Fahren über die Höhen der Erde
+- [x] Lust am HERRN und Schweben über die Höhen auf Erden
 - [ ] Ein langes Leben und viele Nachkommen im Land
 - [ ] Reichen Ertrag auf dem Feld und Frieden im Haus
 
@@ -1761,7 +1761,7 @@
 
 - [ ] Weil das Volk zu wenig opfert und die Feste vernachlässigt
 - [ ] Weil das Volk zu klein ist und die Zeit noch nicht erfüllt
-- [x] Weil die Missetaten eine Scheidung zwischen ihm und Gott machen
+- [x] Weil ihre Untugenden sie und ihren Gott voneinander scheiden
 - [ ] Weil Gott schweigt und seine Pläne vor ihnen verbirgt
 
 **Bibelstelle:** Jesaja 59:1-2
@@ -1790,7 +1790,7 @@
 ### 179. Warum stehen Zions Tore nach Jesaja 60:11 stets offen?
 
 - [ ] Damit Feinde ungehindert einziehen und die Stadt einnehmen können
-- [x] Damit der Reichtum der Heiden und ihre Könige hereingebracht werden
+- [x] Damit der Heiden Macht hereingebracht und ihre Könige herzugeführt werden
 - [ ] Damit Priester ein- und ausgehen und die Opfer darbringen
 - [ ] Damit Händler Zugang haben und ihre Waren verkaufen
 
@@ -1837,11 +1837,11 @@
 **Bibelstelle:** Jesaja 62:4
 **Erklärung:** 
 
-### 184. Welchen Auftrag haben die Wächter auf Zions Mauern nach Jesaja 62:6-7?
+### 184. Welchen Auftrag haben die Wächter auf den Mauern Jerusalems nach Jesaja 62:6-7?
 
 - [ ] Das Tor zu bewachen, die Feinde zu melden und die ganze Stadt zu schützen
 - [ ] Tag und Nacht die Feinde zu erspähen und Alarm zu schlagen
-- [x] Nicht zu schweigen und dem HERRN keine Ruhe zu lassen, bis er Jerusalem gründet
+- [x] Nimmer stillzuschweigen, bis Jerusalem gesetzt werde zum Lobe auf Erden
 - [ ] Dem HERRN Opfer zu bringen, bis er Jerusalem wieder aufbaut und gründet
 
 **Bibelstelle:** Jesaja 62:6-7
@@ -1851,7 +1851,7 @@
 
 - [ ] Die Gesegneten des HERRN, die Auserwählten seines Hauses
 - [ ] Die Starken des Landes, die Helden der Schlacht
-- [ ] Die Auserwählten Gottes, das gerettete Volk der Endzeit
+- [ ] Die Kinder Gottes, das Volk des Bundes
 - [x] Das heilige Volk, die Erlösten des HERRN
 
 **Bibelstelle:** Jesaja 62:11-12
@@ -1897,20 +1897,20 @@
 **Bibelstelle:** Jesaja 64:1
 **Erklärung:** 
 
-### 190. Wie bekennt das Volk seine Sünde in Jesaja 64:5?
+### 190. Wie bekennt das Volk seine Sünde in Jesaja 64:6?
 
 - [ ] Wir sind ein heiliges Volk und unsere Werke sind rein
 - [ ] Wir haben gesündigt, doch sind wir wie ein gewaschenes Kleid
 - [ ] Wir haben das Gesetz treu gehalten und stehen ohne Tadel
-- [x] Wir sind alle unrein, und Gerechtigkeit ist wie ein unflätig Kleid
+- [x] Wir sind allesamt wie die Unreinen, und alle unsre Gerechtigkeit ist wie ein unflätig Kleid
 
 **Bibelstelle:** Jesaja 64:6
 **Erklärung:** 
 
-### 191. Mit welchem Bild unterwirft sich das Volk in Jesaja 64:7 dem HERRN?
+### 191. Mit welchem Bild unterwirft sich das Volk in Jesaja 64:8 dem HERRN?
 
 - [ ] Wir sind Schafe, du bist der gute Hirte
-- [x] Wir sind der Ton, du bist unser Töpfer
+- [x] Wir sind der Ton, du bist der Töpfer
 - [ ] Wir sind Reben, du bist der rechte Weinstock
 - [ ] Wir sind das Haus, du bist der weise Bauherr
 
@@ -1952,7 +1952,7 @@
 - [ ] Ein neues Jerusalem steigt herab und kein Tod ist mehr
 - [ ] Das Volk kehrt heim und David regiert für alle Zeiten
 - [ ] Alle Feinde werden bekehrt und bringen Geschenke dar
-- [x] Alles Fleisch betet an; ihr Wurm stirbt nicht und Feuer lischt nicht
+- [x] Alles Fleisch betet an; ihr Wurm wird nicht sterben und ihr Feuer nicht verlöschen
 
 **Bibelstelle:** Jesaja 66:23-24
 **Erklärung:** 

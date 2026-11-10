@@ -745,7 +745,7 @@
       "questionId": "ex_020",
       "type": "single_choice",
       "difficulty": "medium",
-      "text": "Which of the Ten Commandments commands to honour father and mother with a promise?",
+      "text": "According to the Jewish and Reformed numbering, which of the Ten Commandments commands to honour father and mother with a promise?",
       "options": [
         {
           "text": "The third commandment concerning the holy name of the LORD",
@@ -776,8 +776,8 @@
         1
       ],
       "bibleReference": "Exodus 20:12",
-      "explanation": "",
-      "explanationReviewed": false
+      "explanation": "In the Lutheran and Roman Catholic numbering, which counts the prohibition of images as part of the first commandment, honouring parents is the fourth commandment and the sabbath the third.",
+      "explanationReviewed": true
     },
     {
       "questionId": "ex_021",
@@ -1698,25 +1698,25 @@
       "text": "Who was the father of Moses and Aaron of the tribe of Levi?",
       "options": [
         {
-          "text": "Kohath the son of Levi born in Egypt",
+          "text": "Kohath the son of Levi",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "Izhar the brother of Kohath in Canaan",
+          "text": "Izhar the son of Kohath",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "Amram who took him Jochebed to wife",
+          "text": "Amram the son of Kohath",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": true
         },
         {
-          "text": "Uzziel the youngest son of Kohath's house",
+          "text": "Uzziel the youngest son of Kohath",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -1812,7 +1812,7 @@
       "text": "What relation did the LORD establish between Moses and Aaron before Pharaoh?",
       "options": [
         {
-          "text": "Aaron was made the captain of the host and Moses the judge",
+          "text": "Aaron was made the captain of the host and Moses the priest",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -2230,13 +2230,13 @@
       "text": "What did the magicians confess when they could not bring forth lice with their enchantments?",
       "options": [
         {
-          "text": "That their magic spells were powerless",
+          "text": "That their spells had been blown away by the wind",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "\"This wonder is the finger of God\"",
+          "text": "\"This is the finger of God\"",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": true
@@ -3712,7 +3712,7 @@
       "text": "What happened to the chariots of the Egyptians when they pursued Israel into the sea?",
       "options": [
         {
-          "text": "He took off their chariot wheels, that they drave them heavily",
+          "text": "A storm overturned the chariots and dashed them to pieces",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -3730,7 +3730,7 @@
           "isCorrect": false
         },
         {
-          "text": "The LORD took off their chariot wheels, that they drave heavily",
+          "text": "The LORD took off their chariot wheels, that they drave them heavily",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": true
@@ -3788,13 +3788,13 @@
       "text": "What instrument did Miriam the prophetess take in her hand when leading the song of triumph?",
       "options": [
         {
-          "text": "A timbrel in her hand to lead the praise",
+          "text": "A silver trumpet of the priests",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "Miriam the prophetess took a timbrel in her hand",
+          "text": "A timbrel in her hand",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": true
@@ -3876,7 +3876,7 @@
           "isCorrect": false
         },
         {
-          "text": "\"Where shall we find good water to drink?\"",
+          "text": "\"When shall we reach the oases?\"",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
@@ -5048,7 +5048,7 @@
           "isCorrect": true
         },
         {
-          "text": "Bethel and Peniel, because of the vision",
+          "text": "Beth-el and Peniel, because of the vision",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -5542,7 +5542,7 @@
           "isCorrect": false
         },
         {
-          "text": "A kingdom of priests, and an holy nation",
+          "text": "A nation of warriors and conquerors",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -5630,7 +5630,7 @@
           "isCorrect": false
         },
         {
-          "text": "Death by stoning or being shot through with weapon",
+          "text": "He was to remain forty days without the camp",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -6150,19 +6150,19 @@
           "isCorrect": true
         },
         {
-          "text": "The ox was stoned, and the owner was fined thirty shekels",
+          "text": "The owner had to restore two oxen",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "The owner had to pay double the value of the slain person",
+          "text": "The owner forfeited all his cattle",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "The owner had to offer five rams as a guilt offering",
+          "text": "The owner was banished for seven years",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -6226,7 +6226,7 @@
           "isCorrect": false
         },
         {
-          "text": "Three sheep for the one taken from the fold",
+          "text": "Exactly six sheep as restitution",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -6258,25 +6258,25 @@
       "text": "What was a man required to do if he enticed a maid that was not betrothed and lay with her?",
       "options": [
         {
-          "text": "He had to pay a double dowry to her father without marriage",
+          "text": "He shall surely endow her to be his wife",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": true
         },
         {
-          "text": "He shall surely endow her to be his wife",
+          "text": "He had to pay her father double silver",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "He was banished from the tribe of his fathers for three years",
+          "text": "He had to serve her father for three years",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "He had to offer a ram for a trespass offering at the altar",
+          "text": "He was cut off from the congregation of Israel",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -6296,7 +6296,7 @@
       "text": "What unalterable commandment did God give regarding a witch or sorceress?",
       "options": [
         {
-          "text": "She was to be banished forever beyond the river",
+          "text": "She was to be banished for seven years",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -6308,13 +6308,13 @@
           "isCorrect": true
         },
         {
-          "text": "She had to pay fifty shekels of pure silver to priests",
+          "text": "She had to pay a great fine of money",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "She was to be secluded in her house all her lifetime",
+          "text": "She was to be cleansed at the sanctuary",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -6334,13 +6334,13 @@
       "text": "With what did God threaten anyone who afflicted any widow or fatherless child?",
       "options": [
         {
-          "text": "He would strip them of their cattle and their vineyards",
+          "text": "With the loss of the yearly harvest of corn",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "He would bring drought and pestilence upon their harvest",
+          "text": "With the immediate removal of all the judges",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -6352,7 +6352,7 @@
           "isCorrect": true
         },
         {
-          "text": "He would cause their names to be blotted out from Israel",
+          "text": "With an outbreak of grievous leprosy",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -6372,19 +6372,19 @@
       "text": "What restriction applied when lending money to any poor person among God's people?",
       "options": [
         {
-          "text": "Loans had to be witnessed by two elders of the gate",
+          "text": "Only silver and no gold might be lent",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "No money could be lent for longer than thirty days",
+          "text": "The money had to be repaid within three months",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "A pledge of garments could never be accepted at all",
+          "text": "A surety had to be appointed",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
@@ -6416,19 +6416,19 @@
           "isCorrect": true
         },
         {
-          "text": "He was to leave it where it was without touching it",
+          "text": "He might keep the beast for himself",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "He was to drive it into his own fold for safekeeping",
+          "text": "He was to give it to the priest for safekeeping",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "He was to report it to the nearest tribal magistrate",
+          "text": "He might bring it back only after three days",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -6460,13 +6460,13 @@
           "isCorrect": true
         },
         {
-          "text": "Their entire harvest was to be given to the priests",
+          "text": "They were to be leased to strangers dwelling in the land",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "They were to be leased to strangers dwelling in the land",
+          "text": "They were to be given to the sanctuary",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -6492,7 +6492,7 @@
           "isCorrect": false
         },
         {
-          "text": "The feast of sabbaths, circumcision, and rejoicing of the law",
+          "text": "The feast of sabbaths, the feast of circumcision, and a feast of joy",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -6504,7 +6504,7 @@
           "isCorrect": true
         },
         {
-          "text": "The feast of trumpets, fasting, and the year of jubilee",
+          "text": "The feast of firstfruits, a feast of fasting, and the new year feast",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -6749,7 +6749,7 @@
       "questionId": "ex_204",
       "type": "single_choice",
       "difficulty": "easy",
-      "text": "What did Moses do with half of the sacrificial blood at the ratification of the covenant?",
+      "text": "At the ratification of the covenant, what did Moses finally do with the half of the blood that he had put in basons?",
       "options": [
         {
           "text": "He poured it out entirely at the base of the mountain altar",
@@ -6764,7 +6764,7 @@
           "isCorrect": true
         },
         {
-          "text": "He filled the golden bowls of the sanctuary with it",
+          "text": "He buried it at the foot of the mount",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
@@ -7220,7 +7220,7 @@
           "isCorrect": false
         },
         {
-          "text": "Of rams' skins dyed red, and a covering of badgers' skins",
+          "text": "Of goats' skins and the hides of oxen",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
@@ -7252,13 +7252,13 @@
           "isCorrect": true
         },
         {
-          "text": "Of oak wood taken from the mountain slopes",
+          "text": "Of fragrant cedar wood felled in Lebanon",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "Of fragrant cedar wood felled in Lebanon",
+          "text": "Of oak wood taken from the mountain slopes",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
@@ -7284,7 +7284,7 @@
       "text": "How many sockets of silver were placed under the two tenons of each standing board?",
       "options": [
         {
-          "text": "Four cast sockets of brass for each standing board",
+          "text": "One single heavy socket of cast brass",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -7296,13 +7296,13 @@
           "isCorrect": true
         },
         {
-          "text": "One socket of gold under every board of the court",
+          "text": "Four sockets of silver at the corners of the wall",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "Seven sockets of silver along the northern side",
+          "text": "Six sockets of shittim wood overlaid with gold",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -7322,13 +7322,13 @@
       "text": "What design was cunningly wrought into the inner vail of blue, purple, and scarlet?",
       "options": [
         {
-          "text": "Figures of palm trees and blossoming lilies",
+          "text": "Figures of palm branches and blossoming almonds",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "The radiant symbols of the sun, moon, and stars",
+          "text": "The twelve names of the tribes of Israel",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -7340,7 +7340,7 @@
           "isCorrect": true
         },
         {
-          "text": "The sacred names of the twelve sons of Israel",
+          "text": "The fiery tables of the law from Mount Sinai",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -7360,19 +7360,19 @@
       "text": "Which sacred vessel was placed within the inner vail in the most holy place?",
       "options": [
         {
-          "text": "The golden candlestick beaten out of pure gold",
+          "text": "The golden table for the twelve loaves of shewbread",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "The golden altar of incense before the vail",
+          "text": "The candlestick of seven branches of pure gold",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "The table of shewbread set with twelve loaves",
+          "text": "The altar for the daily burning of incense",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
@@ -7398,7 +7398,7 @@
       "text": "What were the dimensions of the altar of burnt offering made of shittim wood?",
       "options": [
         {
-          "text": "Five cubits long, and five cubits broad; foursquare",
+          "text": "Five cubits long, five cubits broad, and three cubits high",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": true
@@ -7410,13 +7410,13 @@
           "isCorrect": false
         },
         {
-          "text": "Three cubits long, three cubits broad, one high",
+          "text": "Three cubits long, three cubits broad, two high",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "Seven cubits long and seven cubits broad square",
+          "text": "Two hundred cubits long and an hundred cubits broad",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -7436,7 +7436,7 @@
       "text": "Of what metal were all the pans, shovels, basons, and fleshhooks of the altar made?",
       "options": [
         {
-          "text": "They were beaten entirely out of refined silver",
+          "text": "Of pure beaten gold",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -7448,13 +7448,13 @@
           "isCorrect": true
         },
         {
-          "text": "They were fashioned of shittim wood with gold",
+          "text": "Of solid forged iron",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "They were forged of iron from the mountain ore",
+          "text": "Of shittim wood overlaid with silver",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -7471,28 +7471,28 @@
       "questionId": "ex_225",
       "type": "single_choice",
       "difficulty": "medium",
-      "text": "What was placed under the compass of the altar beneath, even to the midst of the altar?",
+      "text": "Of what was the grate of network made that was put under the compass of the altar of burnt offering?",
       "options": [
         {
-          "text": "A thick layer of stones gathered from the brook",
+          "text": "Of shittim wood overlaid with gold, with rings",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "A solid golden plate to catch the fallen coals",
+          "text": "Of cast silver from the offerings",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "A grate of network of brass with four rings",
+          "text": "Of a network of pure brass",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": true
         },
         {
-          "text": "A silver basin designed to hold the ashes safe",
+          "text": "Of plaited iron wrought by the craftsmen",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -7501,7 +7501,7 @@
       "correctAnswers": [
         2
       ],
-      "bibleReference": "Exodus 27:4",
+      "bibleReference": "Exodus 27:4-5",
       "explanation": "",
       "explanationReviewed": false
     },
@@ -7512,19 +7512,19 @@
       "text": "What material was used for the hangings of the court of the tabernacle?",
       "options": [
         {
-          "text": "Coarse goats' hair spun by the women in camp",
+          "text": "Thick cloth of red and blue wool",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "Badgers' skins stitched together into long walls",
+          "text": "Braided goats' hair from the flocks",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "Blue, purple, and scarlet wool interwoven well",
+          "text": "Tanned leather of rams' skins",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
@@ -7556,19 +7556,19 @@
           "isCorrect": true
         },
         {
-          "text": "Pure white linen with wreaths of beaten gold wire",
+          "text": "Only of pure purple, without fine linen",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "Crimson wool embellished with silver embroidery",
+          "text": "Of gold thread, silver thread, and black wool",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "Curtains of goats' hair dyed with bright red bark",
+          "text": "Of brown goats' hair and fine wool",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -8012,7 +8012,7 @@
           "isCorrect": true
         },
         {
-          "text": "Placing the golden signet ring upon his right hand",
+          "text": "Putting a chain of pure gold about his neck",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -8088,7 +8088,7 @@
           "isCorrect": false
         },
         {
-          "text": "The wave breast and the heave shoulder of the ram",
+          "text": "The neck and the horns of the ram",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -8348,7 +8348,7 @@
       "text": "Which spices and oil were compounded to make the holy anointing oil?",
       "options": [
         {
-          "text": "Olive oil, wild honey, beeswax, and powdered frankincense",
+          "text": "Olive oil, wild honey, beeswax, and myrrh",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -8360,7 +8360,7 @@
           "isCorrect": true
         },
         {
-          "text": "Frankincense, stacte, onycha, galbanum, and spring water",
+          "text": "Frankincense, stacte, galbanum, and salt water",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
@@ -8690,19 +8690,19 @@
       "text": "Why did the people gather themselves together unto Aaron and demand gods to go before them?",
       "options": [
         {
-          "text": "Because an Egyptian prince urged them to make idols",
+          "text": "Because the water in the camp had run out",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "Because they were attacked by the wilderness tribes",
+          "text": "Because they would no longer eat the manna",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "Because they had run entirely out of food and water",
+          "text": "Because the Amalekites attacked the camp",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
@@ -9114,13 +9114,13 @@
           "isCorrect": false
         },
         {
-          "text": "\"Grant me power over all the kings of Canaan\"",
+          "text": "\"Grant me power over all the nations of Canaan\"",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "\"I beseech thee, shew me thy glory\"",
+          "text": "\"Give the people water out of the rock\"",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
@@ -9222,13 +9222,13 @@
       "text": "How did the LORD proclaim His name before Moses when He descended in the cloud?",
       "options": [
         {
-          "text": "Merciful, gracious, longsuffering, abundant in goodness",
+          "text": "As a God who never visits iniquity",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "As the eternal, sovereign Creator and Preserver of the entire world",
+          "text": "As the Creator of the stars of heaven",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -9240,7 +9240,7 @@
           "isCorrect": true
         },
         {
-          "text": "As the strict, righteous Judge executing doom upon all heathen nations",
+          "text": "As the Judge over all the heathen nations",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -9336,13 +9336,13 @@
       "text": "What did Aaron and all the children of Israel see when Moses came down from the mount?",
       "options": [
         {
-          "text": "That the skin of his face shone",
+          "text": "That his hair had turned completely grey",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "The skin of his face shone; and they were afraid to come nigh him",
+          "text": "That the skin of his face shone",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": true
@@ -9564,7 +9564,7 @@
       "text": "What spirit characterized all who brought the LORD's offering for the tabernacle of congregation?",
       "options": [
         {
-          "text": "A strict statutory tribute demanded by the elders",
+          "text": "The people gave only out of fear of punishment",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -9576,13 +9576,13 @@
           "isCorrect": true
         },
         {
-          "text": "Fear of sudden divine punishment upon their homes",
+          "text": "A compulsory tribute according to a table of laws",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "A desire to gain praise before all the congregation",
+          "text": "Compulsion by the elders of the tribes",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -9602,25 +9602,25 @@
       "text": "Which colors of wool and linen did every man with whom it was found bring for the hangings?",
       "options": [
         {
-          "text": "White, silver grey, dark brown, and unbleached cotton threads",
+          "text": "White, yellow, green, and dark black",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "Bright yellow, forest green, deep black, and fine twined flax",
+          "text": "Silver thread, gold thread, brown, and grey",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "Blue, and purple, and scarlet, and fine linen, and goats' hair",
+          "text": "Blue, and purple, and scarlet, and fine linen",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": true
         },
         {
-          "text": "Pure crimson, sky blue, golden thread, and dyed sheep wool",
+          "text": "Plain linen without any dye at all",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -9646,13 +9646,13 @@
           "isCorrect": false
         },
         {
-          "text": "Because Moses desired to begin the construction immediately",
+          "text": "Because Pharaoh forbade the carrying out of more gold",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "Because the workmen had fallen sick of a grievous pestilence",
+          "text": "Because Bezaleel laid down the work for weariness",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
@@ -9716,7 +9716,7 @@
       "text": "How many curtains of goats' hair were made for the tent over the tabernacle?",
       "options": [
         {
-          "text": "Ten curtains joined with loops of pure blue lace",
+          "text": "Ten curtains of fine white linen",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -9734,7 +9734,7 @@
           "isCorrect": false
         },
         {
-          "text": "Seven curtains covering the western wall of the sanctuary",
+          "text": "Fifteen curtains of red rams' skins",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -9751,28 +9751,28 @@
       "questionId": "ex_289",
       "type": "single_choice",
       "difficulty": "hard",
-      "text": "Of what skins was the outermost covering made above the tent of the tabernacle?",
+      "text": "Of what was the outermost covering made above the tent of the tabernacle?",
       "options": [
         {
-          "text": "A vast canopy of white bleached lambskins sewn with wire",
+          "text": "A fine covering of woven linen",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "A heavy covering woven of thick camel fleece and sheepskins",
+          "text": "A thick layer of twined goats' hair",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "A covering of rams' skins dyed red, and badgers' skins above that",
+          "text": "A weatherproof covering of badgers' skins",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": true
         },
         {
-          "text": "An oiled leather covering stripped from desert cattle",
+          "text": "A covering of sheep's wool threads dyed red",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -9792,19 +9792,19 @@
       "text": "What were the dimensions of each standing board of shittim wood for the tabernacle?",
       "options": [
         {
-          "text": "Five cubits was the length of a board, and one cubit broad",
+          "text": "Five cubits long and two cubits broad",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "Seven cubits was the height, and half a cubit the thickness",
+          "text": "Twelve cubits long and three cubits broad",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "Twelve cubits was the length, and two cubits the broad side",
+          "text": "Three cubits long and one cubit broad",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
@@ -10093,28 +10093,28 @@
       "questionId": "ex_298",
       "type": "single_choice",
       "difficulty": "medium",
-      "text": "How were the holy anointing oil and the pure incense of sweet spices prepared?",
+      "text": "Who made the holy anointing oil and the pure incense of sweet spices?",
       "options": [
         {
-          "text": "By Aaron and his sons in their priestly garments",
+          "text": "Aaron the priest and his sons themselves",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "By the wise-hearted women of the congregation",
+          "text": "The skilful women of the camp in the wilderness",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "By the seventy elders representing all the tribes",
+          "text": "The seventy elders of the people of Israel",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "According to the work of the apothecary",
+          "text": "Bezaleel, according to the work of the apothecary",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": true
@@ -10254,7 +10254,7 @@
           "isCorrect": true
         },
         {
-          "text": "Eleazar the firstborn son of Aaron the high priest",
+          "text": "Eleazar the third son of Aaron the high priest",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -10617,7 +10617,7 @@
       "correctAnswers": [
         3
       ],
-      "bibleReference": "Exodus 40:2",
+      "bibleReference": "Exodus 40:2; Exodus 40:17",
       "explanation": "",
       "explanationReviewed": false
     },
@@ -10704,13 +10704,13 @@
       "text": "What did Moses put into the ark before bringing it into the tabernacle and hanging the vail?",
       "options": [
         {
-          "text": "Aaron's rod that budded with ripe almonds",
+          "text": "The golden pot containing the preserved manna",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "The golden pot containing the preserved manna",
+          "text": "Aaron's rod that budded with ripe almonds",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -10748,19 +10748,19 @@
           "isCorrect": true
         },
         {
-          "text": "Because he had not yet washed his feet at the laver",
+          "text": "Because the people barred the gate of the court",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "Because Aaron and his sons had not yet offered incense",
+          "text": "Because he was not yet anointed with oil",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "Because the inner vail had not been hung upon hooks",
+          "text": "Because the high priest alone might enter in",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -10780,7 +10780,7 @@
       "text": "How did the children of Israel know when to journey throughout all their journeys?",
       "options": [
         {
-          "text": "By the sounding of two silver trumpets by priests",
+          "text": "By the rising of the morning star over the camp",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -10792,13 +10792,13 @@
           "isCorrect": true
         },
         {
-          "text": "By direct verbal commandments given to the elders",
+          "text": "By the daily melting of the manna",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "At every new moon when the lunar crescent appeared",
+          "text": "By the command of Joshua the captain in the camp",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -10894,13 +10894,13 @@
       "text": "What did God command Moses when he turned aside to see the burning bush at Horeb?",
       "options": [
         {
-          "text": "\"Put off thy shoes from off thy feet, for the place is holy ground\"",
+          "text": "\"Put off thy shoes from off thy feet, for the place whereon thou standest is holy ground\"",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": true
         },
         {
-          "text": "\"Put off thy shoes from off thy feet, for the place is holy ground\"",
+          "text": "He was to return at once to Pharaoh and bow down before him",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false

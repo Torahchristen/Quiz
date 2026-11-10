@@ -130,7 +130,7 @@
 ### 13. Wie ist die Zeitrechnung vor dem Herrn nach 2. Petrus 3:8?
 
 - [ ] Ein Jahr ist vor ihm wie hundert Tage und hundert Tage wie ein Jahr
-- [x] Ein Tag ist vor dem Herrn wie tausend Jahre und tausend wie ein Tag
+- [x] Ein Tag ist vor dem Herrn wie tausend Jahre und tausend Jahre wie ein Tag
 - [ ] Ein Monat ist vor ihm wie zehn Jahre und zehn Jahre wie ein Monat
 - [ ] Eine Stunde ist vor ihm wie hundert Jahre und hundert wie eine Stunde
 

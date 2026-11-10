@@ -118,7 +118,7 @@
           "explanation": ""
         },
         {
-          "text": "Dass er die Mühe und Streitigkeiten nicht allein trug",
+          "text": "Dass er die Last und die Streitigkeiten nicht allein tragen konnte",
           "id": "opt_4",
           "isCorrect": true,
           "explanation": ""
@@ -1085,7 +1085,7 @@
     {
       "questionId": "dtn_029",
       "type": "single_choice",
-      "text": "Wo erneuerte Mose den Bund der Zehn Gebote mit der neuen Generation Israels?",
+      "text": "Wo hatte der HERR, unser Gott, laut Mose den Bund der Zehn Gebote mit den heute Lebenden geschlossen?",
       "options": [
         {
           "text": "Direkt im Allerheiligsten der Stiftshütte",
@@ -1351,7 +1351,7 @@
     {
       "questionId": "dtn_036",
       "type": "single_choice",
-      "text": "Welches fundamentale Bekenntnis richtete Mose mit dem Bekannten „Höre Israel“ an das Volk?",
+      "text": "Welches grundlegende Bekenntnis richtete Mose mit dem bekannten „Höre, Israel“ an das Volk?",
       "options": [
         {
           "text": "Der HERR, unser Gott, ist ein einziger HERR",
@@ -1468,7 +1468,7 @@
       "text": "Wovor warnte Mose das Volk, wenn es in das reiche Erdland kam?",
       "options": [
         {
-          "text": "Vor den Giftnattern in den Tälern Kanaanitern",
+          "text": "Vor den Giftnattern in den Tälern Kanaans",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -2018,7 +2018,7 @@
           "explanation": ""
         },
         {
-          "text": "Ein bewaldetes Bergland voller Weinberge und Zedernholz",
+          "text": "Ein bewaldetes Bergland voller Zedern, aber ohne Ackerland",
           "id": "opt_4",
           "isCorrect": false,
           "explanation": ""
@@ -2512,7 +2512,7 @@
           "isCorrect": true
         },
         {
-          "text": "Die siebzig Ältesten schrieben auf den Berg",
+          "text": "Die siebzig Ältesten schrieben sie auf dem Berg",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -2719,10 +2719,10 @@
     {
       "questionId": "dtn_072",
       "type": "single_choice",
-      "text": "Worin unterschied sich das Erdland Kanaan vom Erdlande Ägypten bei der Bewässerung?",
+      "text": "Womit verglich Mose das Land Ägypten im Gegensatz zum verheißenen Land?",
       "options": [
         {
-          "text": "Mit einem Gemüsegarten, den man mit dem Fuß wässert",
+          "text": "Mit einem Gemüsegarten, den man mit dem Fuß bewässerte",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": true
@@ -2734,7 +2734,7 @@
           "isCorrect": false
         },
         {
-          "text": "Mit einer dörren Wüste ohne jeglichen Regen im ganzen Jahr",
+          "text": "Mit einer dürren Wüste ohne jeglichen Regen im ganzen Jahr",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
@@ -2757,22 +2757,22 @@
     {
       "questionId": "dtn_073",
       "type": "single_choice",
-      "text": "Worauf richten sich die Augen des HERRN im verheißenen Land Kanaan beständig?",
+      "text": "Wie beständig ruhen die Augen des HERRN auf dem verheißenen Land Kanaan?",
       "options": [
         {
-          "text": "Auf das Salböl auf dem Haupt des Hohepriesters im Hof",
+          "text": "Nur solange das Räucherwerk im Vorhof des Heiligtums brennt",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "Vom Anfang des Jahres bis zum Ende des Jahres darauf",
+          "text": "Immerdar, vom Anfang bis zum Ende des Jahres",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": true
         },
         {
-          "text": "Auf die festen Mauern der Städte des Stammes Juda",
+          "text": "Nur in den Jahren, in denen Israel in den Krieg zieht",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
@@ -3099,7 +3099,7 @@
     {
       "questionId": "dtn_082",
       "type": "single_choice",
-      "text": "Warum ist das Blut eines Tieres nach den Worten der Tora ausdrücklich heilig?",
+      "text": "Warum durfte das Blut eines Tieres nach dem Gesetz nicht gegessen werden?",
       "options": [
         {
           "text": "Weil im Blut die Kraft des Salböls wirkt",
@@ -3289,7 +3289,7 @@
     {
       "questionId": "dtn_087",
       "type": "single_choice",
-      "text": "Wer sollte gesteinigt werden, wenn er heimlich zum Abfall vom HERRN verführte?",
+      "text": "Was war gefordert, wenn ein naher Angehöriger heimlich zum Dienst fremder Götter verleitete?",
       "options": [
         {
           "text": "Man sollte die Sache vor der Familie verschweigen",
@@ -3310,7 +3310,7 @@
           "isCorrect": false
         },
         {
-          "text": "Du sollst ihm nicht einwilligen und ihn anzeigen",
+          "text": "Nicht einwilligen, ihn nicht verbergen; deine Hand soll als erste an ihm sein, ihn zu töten",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": true
@@ -3830,7 +3830,7 @@
           "explanation": ""
         },
         {
-          "text": "Es soll gar kein Armer unter dir sein im guten Erdlande",
+          "text": "Es sollte gar kein Bedürftiger unter euch sein im Erdlande",
           "id": "opt_2",
           "isCorrect": true,
           "explanation": ""
@@ -4286,7 +4286,7 @@
           "isCorrect": false
         },
         {
-          "text": "Ein Blinder, lahmender oder fehlerhafter Zustand",
+          "text": "Irgendein Mangel oder sonst etwas Böses an dem Tier",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": true
@@ -4394,7 +4394,7 @@
       "text": "Wohin sollten schwierige Rechtsfälle gebracht werden, die vor Ort NICHT lösbar waren?",
       "options": [
         {
-          "text": "An die von Gott erwählte Zentrale Stätte",
+          "text": "An den Ort, den Gott erwählen wird, zu den Priestern und dem Richter",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": true
@@ -4672,7 +4672,7 @@
           "isCorrect": false
         },
         {
-          "text": "Das Verweigern des Namens am achten Tag",
+          "text": "Das Verweigern der Beschneidung am achten Tag",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
@@ -4824,7 +4824,7 @@
           "isCorrect": false
         },
         {
-          "text": "Wasserbrände entlang der Grenzen anlegen",
+          "text": "Wassergräben entlang der Grenzen anlegen",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
@@ -5151,10 +5151,10 @@
     {
       "questionId": "dtn_136",
       "type": "single_choice",
-      "text": "Welche zwei weiteren Gründe befreiten einen Mann rechtmäßig vom Kriegsdienst?",
+      "text": "Welche weiteren Gründe befreiten einen Mann rechtmäßig vom Kriegsdienst?",
       "options": [
         {
-          "text": "Ein neuer Weinberg ohne Ernte und eine Verlobte",
+          "text": "Ein neuer Weinberg ohne Ernte, eine Verlobte oder ein verzagtes Herz",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": true
@@ -5227,7 +5227,7 @@
     {
       "questionId": "dtn_138",
       "type": "single_choice",
-      "text": "Welches unerbittliche Gebot galt für die Städte der sieben heidnischen Völker Kanaaniter?",
+      "text": "Welches unerbittliche Gebot galt für die Städte der Völker Kanaans, die Gott Israel zum Erbe gab?",
       "options": [
         {
           "text": "Sie durften Frieden schließen und Bündnisse eingehen",
@@ -5265,7 +5265,7 @@
     {
       "questionId": "dtn_139",
       "type": "single_choice",
-      "text": "Warum verlangte Gott die vollkommene Ausrottung der heidnischen Völker Kanaaniter?",
+      "text": "Warum verlangte Gott die vollkommene Ausrottung der heidnischen Völker Kanaans?",
       "options": [
         {
           "text": "Um ihre reichen Schätze allein zu besitzen",
@@ -5569,7 +5569,7 @@
     {
       "questionId": "dtn_147",
       "type": "single_choice",
-      "text": "Was taten die Ältesten der Nächstgelegenen Stadt zum Zeichen ihrer Schuldlosigkeit?",
+      "text": "Was taten die Ältesten der nächstgelegenen Stadt zum Zeichen ihrer Schuldlosigkeit?",
       "options": [
         {
           "text": "Sie brachten ein feierliches Speisopfer am Altar dar",
@@ -6975,28 +6975,28 @@
     {
       "questionId": "dtn_184",
       "type": "single_choice",
-      "text": "Welches Eisenwerkzeug durfte beim Bau des Altars auf dem Berg Ebal keinesfalls verwendet werden?",
+      "text": "Welche Vorschrift galt für die Steine des Altars auf dem Berg Ebal?",
       "options": [
         {
-          "text": "Du sollst kein eisernes Werkzeug darüber schwingen",
+          "text": "Über die Steine sollte man kein Eisen schwingen",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": true
         },
         {
-          "text": "Ein eiserner Hammer zum Zertrümmern der Steine",
+          "text": "Sie mussten mit eisernen Hämmern behauen werden",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "Ein kupferner Meißel der heidnischen Steinmetze",
+          "text": "Sie mussten mit kupfernen Meißeln geglättet werden",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "Eine eiserne Säge zur Glättung der Blöcke",
+          "text": "Sie mussten aus dem Land Ägypten mitgebracht werden",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -7364,7 +7364,7 @@
           "isCorrect": false
         },
         {
-          "text": "Gott wird dein Gedächtnis vollkommen auslöschen und leeren",
+          "text": "Gott lässt dich die Sprache deiner Väter gänzlich vergessen",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -7376,7 +7376,7 @@
           "isCorrect": true
         },
         {
-          "text": "Gott verleiht deinen Fürsten blinde und verblendete Augen",
+          "text": "Gott liefert deine Fürsten einem trügerischen Friedenswahn aus",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -8685,7 +8685,7 @@
     {
       "questionId": "dtn_229",
       "type": "single_choice",
-      "text": "Welches Metall wird im Segen für den Stamm Asser für seine Riegel an den Toren verheißen?",
+      "text": "Welche Metalle werden Asser im Segen Moses für sein Schuhwerk verheißen?",
       "options": [
         {
           "text": "Massives Silber von den Inseln",
@@ -8694,13 +8694,13 @@
           "isCorrect": false
         },
         {
-          "text": "Eisen und Erz sollen deine Riegel sein",
+          "text": "Eisen und Kupfer seien dein Schuhwerk",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": true
         },
         {
-          "text": "Pures Gold aus den Schätzen Ophis",
+          "text": "Pures Gold aus den Schätzen Ophirs",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
@@ -8723,7 +8723,7 @@
     {
       "questionId": "dtn_230",
       "type": "single_choice",
-      "text": "Mit welchen trostreichen Worten über den ewigen Gott schließt der Segen Moses?",
+      "text": "Welche trostreichen Worte über den ewigen Gott finden sich gegen Ende des Segens Moses?",
       "options": [
         {
           "text": "Gott thront auf den Höhen der Berge Kanaan",

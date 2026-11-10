@@ -7,10 +7,10 @@
 
 ---
 
-### 1. Welcher persische König erließ das Dekret zur Rückkehr und zum Tempelbau?
+### 1. Welcher persische König ließ durch sein ganzes Königreich ausrufen, dem HERRN ein Haus zu Jerusalem zu bauen?
 
 - [ ] König Darius, der die Verwaltung des Reiches neu ordnete
-- [ ] König Arthahsastha in seiner Winterresidenz zu Susa am Nil
+- [ ] König Arthahsastha, der in der königlichen Burg zu Susa regierte
 - [ ] König Ahasveros, der Herrscher über viele Provinzen Asiens
 - [x] König Kores in Persien, der den Ruf im ganzen Reich erließ
 

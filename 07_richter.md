@@ -117,12 +117,12 @@
 **Bibelstelle:** Richter 2:21-22
 **Erklärung:** 
 
-### 12. Wie viele Fürsten der Philister blieben unter anderem im Lande zur Prüfung Israels bestehen?
+### 12. Wie viele Fürsten der Philister ließ der HERR im Lande bleiben, um Israel durch sie zu versuchen?
 
-- [ ] Zwölf Fürsten der Nomaden aus den Wüstengebieten
-- [ ] Sieben Könige der kanaanitischen Städte im Norden
-- [x] Genau fünf Fürsten der Philister zur Prüfung da
-- [ ] Drei Herrscher der Amoriter aus dem Bergland her
+- [ ] Zwölf Fürsten der Philister
+- [ ] Sieben Fürsten der Philister
+- [x] Fünf Fürsten der Philister
+- [ ] Drei Fürsten der Philister
 
 **Bibelstelle:** Richter 3:3
 **Erklärung:** 
@@ -310,9 +310,9 @@
 ### 31. Welcher Mangel an Rüstzeug herrschte unter vierzigtausend in Israel?
 
 - [ ] Es gab keine eisernen Streitwagen im ganzen Volk
-- [x] Kein Schild noch Lanze war unter ihnen zu sehen
-- [ ] Die Schwerter waren alle aus weichem Kupfer erz
-- [ ] Es fehlte an Bögen und Köchern für den Kampf her
+- [x] Kein Schild noch Speer war unter ihnen zu sehen
+- [ ] Die Schwerter waren alle aus weichem Kupfer
+- [ ] Es fehlte an Bögen und Köchern für den Kampf
 
 **Bibelstelle:** Richter 5:8
 **Erklärung:** 
@@ -361,7 +361,7 @@
 
 - [ ] Auf der hohen Tenne auf dem Gipfel des Berges
 - [ ] In einer finstern Höhle in der Wüste zu En-Gedi
-- [x] In der Kelter zu Ophra unter der Eiche
+- [x] In der Kelter zu Ophra
 - [ ] In einer verlassenen Zisterne hinter der Mauer
 
 **Bibelstelle:** Richter 6:11
@@ -430,7 +430,7 @@
 ### 43. An welchem Brunnen lagerte sich Gideon früh mit allem Volk?
 
 - [ ] Am Brunnen zu Kadesch in der Wüste Sin
-- [x] An dem Brunnen Harod am Gebirge
+- [x] Am Brunnen Harod
 - [ ] An den Quellen zu Jericho im Gefilde
 - [ ] Am Brunnen Bet-Schean im Tal Jesreel
 
@@ -822,7 +822,7 @@
 - [x] Kein Schermesser durfte sein Haupt berühren
 - [ ] Ein linnenes Kopfband der heidnischen Priester
 - [ ] Öl zur Salbung aus den Krügen des Heiligtums
-- [ ] Staub von den Wüstenseiten des Landes Edom
+- [ ] Staub aus den Wüsten des Landes Edom
 
 **Bibelstelle:** Richter 13:5
 **Erklärung:** 
@@ -880,7 +880,7 @@
 ### 88. Was entdeckte Simson im Aas des getöteten Löwen, als er später zur Hochzeit reiste?
 
 - [ ] Eine Giftnatter unter den Knochen des Tieres
-- [ ] Eine scharfe Klinge aus geharztem Silber
+- [ ] Eine scharfe Klinge aus blankem Silber
 - [x] Einen Bienenschwarm und süßen Honig
 - [ ] Eine edle Quelle klaren Flusswassers
 
@@ -922,12 +922,12 @@
 - [ ] Sie floh in das Heiligtum der Zufluchtsstadt
 - [ ] Sie wurde von den Ältesten aus dem Lande vertrieben
 - [x] Ihr Vater gab sie seinem liebsten Brautführer
-- [ ] Sie diente als Magd in den Altären Dagons
+- [ ] Sie diente als Magd im Tempel Dagons
 
 **Bibelstelle:** Richter 14:20
 **Erklärung:** 
 
-### 93. Womit steckte Simson die Getreidegarben, Olivenhaine und Weinberg der Philister in Brand?
+### 93. Womit steckte Simson die Getreidegarben, Olivenhaine und Weinberge der Philister in Brand?
 
 - [ ] Mit glühenden Kohlen aus dem Herd seines Vaters, die er auf die Felder warf
 - [ ] Mit pechgetränkten Pfeilen, die er in die Felder schoss
@@ -937,14 +937,14 @@
 **Bibelstelle:** Richter 15:4-5
 **Erklärung:** 
 
-### 94. Wie reagierten die erzürnten Philister auf die Zerstörung ihrer gesamten Olivenernte?
+### 94. Wie rächten sich die erzürnten Philister für die Verbrennung ihres Korns, ihrer Weinberge und Ölbäume?
 
 - [x] Sie verbrannten die Frau und ihren Vater mit Feuer
 - [ ] Sie zerstörten die Altäre im Lande Juda
 - [ ] Sie forderten zehntausend Silberlinge von Juda
 - [ ] Sie belagerten die Zufluchtsstadt Kedes
 
-**Bibelstelle:** Richter 15:6
+**Bibelstelle:** Richter 15:5-6
 **Erklärung:** 
 
 ### 95. Wie viele Männer aus Juda zogen hinab zur Felsenkluft Etam, um Simson zu binden?
@@ -1037,7 +1037,7 @@
 **Bibelstelle:** Richter 16:17
 **Erklärung:** 
 
-### 104. Was taten die Philister mit Simson, nachdem sie ihn überwältigt und geblendet hatten?
+### 104. Was taten die Philister mit Simson, nachdem ihm Delila die Locken hatte abscheren lassen?
 
 - [ ] Sie warfen ihn in den tiefen Schacht von Jericho
 - [ ] Sie steinigten ihn vor den Toren der Stadt Aschkelon
@@ -1051,8 +1051,8 @@
 
 - [ ] Um die Wiederherstellung seiner vollen Sehkraft
 - [ ] Um das Überleben seines Vaters im Lande Juda
-- [ ] Um das Feuer des Himmels auf das heilige Dach
-- [x] Gedenke meiner und stärke mich nur noch diesmal!
+- [ ] Um Feuer vom Himmel auf das Dach des Tempels
+- [x] Gedenke mein und stärke mich doch diesmal!
 
 **Bibelstelle:** Richter 16:28
 **Erklärung:** 
@@ -1111,7 +1111,7 @@
 
 - [ ] An seinem priesterlichen Brustschild mit Steinen
 - [x] Sie erkannten die Stimme des Jünglings, des Leviten
-- [ ] An einem Brandmal an seiner rechten Hand da
+- [ ] An einem Brandmal an seiner rechten Hand
 - [ ] An seinem langen Gewand aus weißer Leinwand
 
 **Bibelstelle:** Richter 18:3
@@ -1162,7 +1162,7 @@
 - [ ] Sie nannten sie Mahane-Dan am Gebirge
 - [ ] Sie nannten sie Kedes-Naphtali im Norden
 - [x] Sie nannten die Stadt Dan; zuvor hieß sie Lais
-- [ ] Sie nannten sie Gilgal zur Erinnerung her
+- [ ] Sie nannten sie Gilgal zur Erinnerung
 
 **Bibelstelle:** Richter 18:29
 **Erklärung:** 
@@ -1181,7 +1181,7 @@
 
 - [x] Er nahm ein Kebsweib von Bethlehem-Juda zu sich
 - [ ] Aus der Priesterstadt Hebron im Gebirge Juda
-- [ ] Aus der Stadt Sichem im Gebirge Ephraim her
+- [ ] Aus der Stadt Sichem im Gebirge Ephraim
 - [ ] Aus den Töchtern der Kanaaniter im Tale Jesreel
 
 **Bibelstelle:** Richter 19:1-2
@@ -1321,7 +1321,7 @@
 
 - [ ] Sie flohen über den Jordan in das Land Moab hinein
 - [ ] Sie verbargen sich in den Höhlen der Stadt Jerusalem
-- [x] Sie flohen zum Fels Rimmon in die Wüste vier Monate
+- [x] Sie flohen zum Fels Rimmon in der Wüste und blieben dort vier Monate
 - [ ] Sie suchten Zuflucht bei den Philistern am Meere
 
 **Bibelstelle:** Richter 20:45-47
@@ -1332,7 +1332,7 @@
 - [ ] Keinen Handel mehr mit den Städten Benjamins zu treiben
 - [ ] Alle Städte Benjamins für ewig wüst liegen zu lassen
 - [ ] Den Namen Benjamins aus der Schrift zu streichen
-- [x] Niemandem seine Tochter einem Benjaminiten zur Frau zu geben
+- [x] Keine Tochter einem Benjaminiten zum Weib zu geben
 
 **Bibelstelle:** Richter 21:1
 **Erklärung:** 
@@ -1405,5 +1405,5 @@
 - [x] Ehud
 - [x] Othniel
 
-**Bibelstelle:** Richter 3:9
+**Bibelstelle:** Richter 3:9; Richter 3:15; Richter 4:4; Richter 6:11; Richter 13:24
 **Erklärung:** 

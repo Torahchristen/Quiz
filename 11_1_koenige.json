@@ -291,22 +291,22 @@
     {
       "questionId": "1kön_010",
       "type": "single_choice",
-      "text": "Bis zu welchem großen Strom reichte der Herrschaftsbereich Salomos?",
+      "text": "Von welchem großen Strom an erstreckte sich Salomos Herrschaft?",
       "options": [
         {
-          "text": "Bis zum großen Strom Euphrat im Osten",
+          "text": "Vom großen Strom Euphrat im Osten",
           "explanation": ""
         },
         {
-          "text": "Bis zum Strome Ägyptens im fernen Süden",
+          "text": "Vom Strom Nil im fernen Ägypten",
           "explanation": ""
         },
         {
-          "text": "Bis zum Fluss Jordan in den weiten Tälern",
+          "text": "Vom Fluss Jordan in den weiten Tälern",
           "explanation": ""
         },
         {
-          "text": "Bis zum Bachtal Kison nahe dem Berge Karmel",
+          "text": "Vom Bach Kison nahe dem Berge Karmel",
           "explanation": ""
         }
       ],
@@ -314,8 +314,8 @@
         0
       ],
       "bibleReference": "1. Könige 4:21",
-      "explanation": "",
-      "explanationReviewed": false,
+      "explanation": "Der Vers nennt nur „den Strom“; damit ist im Alten Testament der Euphrat gemeint (vgl. 1. Mose 15:18; 1. Könige 4:24).",
+      "explanationReviewed": true,
       "difficulty": "easy"
     },
     {
@@ -366,7 +366,7 @@
           "explanation": ""
         },
         {
-          "text": "Mandelbaumholz und Zypressen aus Ophir",
+          "text": "Mandelbaumholz und Zypressen aus Ägypten",
           "explanation": ""
         }
       ],
@@ -411,7 +411,7 @@
     {
       "questionId": "1kön_014",
       "type": "single_choice",
-      "text": "Womit überzog Salomo das Innere des Hauses und den Altar im Allerheiligsten?",
+      "text": "Womit überzog Salomo das Innere des Hauses und den Altar vor dem Chor (dem Allerheiligsten)?",
       "options": [
         {
           "text": "Er überzog alles mit lauterem Golde",
@@ -632,7 +632,7 @@
           "explanation": ""
         },
         {
-          "text": "Dass sein Sohn Salomo keinen Erben auf dem Thron haben werde",
+          "text": "Dass sein Sohn keinen Erben auf dem Thron Davids haben werde",
           "explanation": ""
         },
         {
@@ -1104,7 +1104,7 @@
       "text": "Welcher König von Juda tat die Götzen ab und stieß Maacha vom Thron wegen ihres Greuelbildes?",
       "options": [
         {
-          "text": "König Abiam, der auf den Bergen regierte",
+          "text": "König Abiam, der in allen Sünden seines Vaters wandelte",
           "explanation": ""
         },
         {
@@ -2076,7 +2076,7 @@
           "explanation": ""
         },
         {
-          "text": "Elia fährt im feurigen Wagen gen Himmel",
+          "text": "Elia fährt im Wetter gen Himmel",
           "explanation": ""
         },
         {
@@ -2091,7 +2091,7 @@
         0,
         3
       ],
-      "bibleReference": "1. Könige 17:6",
+      "bibleReference": "1. Könige 17:6; 1. Könige 17:9; 1. Könige 18:38; 1. Könige 19:12; 2. Könige 2:11",
       "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"

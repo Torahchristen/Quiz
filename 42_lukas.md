@@ -241,8 +241,8 @@
 
 - [x] Levi, den Zöllner an der Zollstätte
 - [ ] Zachäus, den Oberzöllner an der Straße nach Jericho
-- [ ] Matthäus aus Nain, den Zöllner an der Stadtmauer
-- [ ] Barabbas aus der Gegend, den Zöllner im Hafen
+- [ ] Simon, einen vornehmen und reichen Pharisäer
+- [ ] Nikodemus, einen Obersten des Hohen Rates
 
 **Bibelstelle:** Lukas 5:27-28
 **Erklärung:** 
@@ -301,7 +301,7 @@
 
 - [ ] Auf festen Lehmboden, den er sorgfältig geebnet hat
 - [ ] Auf Sand am Meer, den er mit Steinen befestigt hat
-- [x] Auf einen Felsen, dem er tief gegraben hat
+- [x] Auf einen Felsen, nachdem er tief gegraben hatte
 - [ ] Auf Holzpfähle am Fluss, die er tief eingerammt hat
 
 **Bibelstelle:** Lukas 6:47-49
@@ -417,9 +417,9 @@
 **Bibelstelle:** Lukas 9:1-6
 **Erklärung:** 
 
-### 42. Für wen hielt Herodes Antipas nach den Gerüchten Jesus?
+### 42. Welches Gerücht über Jesus beantwortete Herodes mit den Worten: „Johannes habe ich enthauptet“?
 
-- [ ] Dass er der wiedergekommene Elia sei, der das Volk Israel sammeln solle
+- [ ] Dass er ein Zauberer aus Ägypten sei, der das Volk verführe
 - [ ] Dass er der König der Juden sei, der Rom bekämpfen werde
 - [x] Dass Johannes der Täufer von den Toten auferstanden sei
 - [ ] Dass er der Hohepriester des neuen Bundes sei und im Tempel diene
@@ -701,7 +701,7 @@
 
 - [ ] Es wird im Feuer verbrannt und seine Asche auf die Felder gestreut
 - [ ] Es wird den Tieren zu fressen gegeben und im Stall verwendet
-- [x] Es taugt weder für das Land noch für den Mist und wird weggeworfen
+- [x] Es ist weder für das Erdreich noch für den Dünger tauglich; man wirft es hinaus
 - [ ] Es wird zum Bau von Mauern verwendet und fest in die Wand gesetzt
 
 **Bibelstelle:** Lukas 14:34-35
@@ -709,10 +709,10 @@
 
 ### 71. Wie reagiert der Hirte im Gleichnis bei dem Fund des verlorenen Schafes?
 
-- [ ] Große Ehre für Gerechte, die das Gesetz halten
-- [ ] Reiche Belohnung für treue Knechte im Himmel
-- [ ] Hohen Lohn bei der Auferstehung der Gerechten
-- [x] Mehr Freude über einen bußfertigen Sünder
+- [ ] Er treibt es mit vielen Schlägen in den Pferch zurück und bindet es
+- [ ] Er verkauft es auf dem Markt und kehrt zu den neunundneunzig zurück
+- [ ] Er sperrt es dreißig Tage ein, damit es nicht mehr fortläuft
+- [x] Er nimmt es auf seine Schulter mit Freuden
 
 **Bibelstelle:** Lukas 15:3-7
 **Erklärung:** 
@@ -787,12 +787,12 @@
 **Bibelstelle:** Lukas 16:13
 **Erklärung:** 
 
-### 79. Wo befand sich die Seele des armen Lazarus nach seinem Sterben?
+### 79. Wohin wurde der arme Lazarus nach seinem Sterben von den Engeln getragen?
 
 - [ ] Auf den heiligen Berg Zion
 - [ ] In den Garten Eden des Herrn
-- [ ] In das herrliche Paradies
-- [x] In Abrahams Schoß getragen
+- [ ] In das Haus des reichen Mannes
+- [x] In Abrahams Schoß
 
 **Bibelstelle:** Lukas 16:19-31
 **Erklärung:** 
@@ -957,9 +957,9 @@
 **Bibelstelle:** Lukas 19:41-44
 **Erklärung:** 
 
-### 96. Welches Gegenfrage stellte Jesus den Hohepriestern nach Seiner Vollmacht?
+### 96. Welche Gegenfrage stellte Jesus den Hohenpriestern auf die Frage nach Seiner Vollmacht?
 
-- [x] Die Taufe des Johannes, war sie vom Himmel oder von Menschen?
+- [x] War die Taufe des Johannes vom Himmel oder von Menschen?
 - [ ] War das Opfer Salomos vom Himmel oder von Menschen angenommen?
 - [ ] Welches Gebot ist das erste von allen und wer hat es gegeben?
 - [ ] Wer befahl den Bau des Tempels, und wer hat ihn vollendet?
@@ -980,9 +980,9 @@
 ### 98. Welche Münze ließ Sich Jesus zeigen bei der Fangfrage nach der Steuer?
 
 - [ ] Einen goldenen Schekel
-- [ ] Eine silberne Münze
+- [ ] Ein kupfernes Scherflein
 - [x] Einen römischen Denar
-- [ ] Drei Silberlinge
+- [ ] Dreißig Silberlinge
 
 **Bibelstelle:** Lukas 20:20-26
 **Erklärung:** 
@@ -1017,7 +1017,7 @@
 **Bibelstelle:** Lukas 21:1-4
 **Erklärung:** 
 
-### 102. Welche Vorboten kündigen das Ende nach der Endzeitrede Jesu an?
+### 102. Welche Zeichen nannte Jesus auf die Frage, wann der Tempel zerstört werde?
 
 - [ ] Ein langer Weltfriede, der die Völker beruhigt und das Land fruchtbar macht
 - [ ] Das Verschwinden der Römer, der Fall ihrer Macht und Ruhe im Land
@@ -1032,7 +1032,7 @@
 - [ ] Bis der Tempel neu gebaut ist
 - [ ] Bis alle Römer das Land verlassen
 - [ ] Bis hundert Jahre vergangen sind
-- [x] Bis die Zeiten der Heiden erfüllt sind
+- [x] Bis die Zeitfristen der Nationenvölker erfüllt sind
 
 **Bibelstelle:** Lukas 21:20-24
 **Erklärung:** 
@@ -1130,7 +1130,7 @@
 ### 113. Wer wurde gezwungen, das Kreuz Jesu nachzuführen?
 
 - [ ] Johannes, der Jünger, den Jesus liebhatte
-- [x] Simon von Kyrene, der vom Felde kam
+- [x] Simon von Kyrene, der vom Feld kam
 - [ ] Josef von Arimathäa, der edle Ratsherr
 - [ ] Simon Petrus, der ihm von ferne nachfolgte
 
@@ -1255,7 +1255,7 @@
 - [x] Jesus wird zu Bethlehem in einer Krippe geboren
 - [x] Der Engel kündigt Maria die Geburt des Heilands an
 
-**Bibelstelle:** Lukas 1:38
+**Bibelstelle:** Lukas 1:26-38; Lukas 2:1-20; Matthäus 2:1-15
 **Erklärung:** 
 
 ### 126. Bringe die Stationen im Gleichnis vom verlorenen Sohn nach Lukas 15 in die richtige Reihenfolge.

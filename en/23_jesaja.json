@@ -229,17 +229,17 @@
       "text": "What picture of peace doth Isaiah 11:6 describe?",
       "options": [
         {
-          "text": "The lion shall feed with the ox and the bear with the fat calf",
+          "text": "The lion shall hunt the lamb, and the bear shall flee from the cow",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "The wolf shall dwell with the lamb and leopard with the kid",
+          "text": "The wolf shall dwell with the lamb, and the leopard shall lie down with the kid",
           "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "The leopard shall sleep with the lion and wolf with the ass",
+          "text": "The wolf shall shun the lamb, and the leopard the calf",
           "isCorrect": false,
           "explanation": ""
         },
@@ -744,7 +744,7 @@
           "explanation": ""
         },
         {
-          "text": "Come, all ye that hunger, feast at the king's table",
+          "text": "Ho, every one that hungereth, come ye to my feast",
           "isCorrect": false,
           "explanation": ""
         },
@@ -754,7 +754,7 @@
           "explanation": ""
         },
         {
-          "text": "Come, all ye weary, bring your offerings to the altar",
+          "text": "Ho, every one that is weary, come ye to the mountain",
           "isCorrect": false,
           "explanation": ""
         }
@@ -773,7 +773,7 @@
       "text": "What fast is acceptable unto the LORD according to Isaiah 58:6-7?",
       "options": [
         {
-          "text": "To renew the altar and offer many burnt offerings continually",
+          "text": "To keep silence many days and to sprinkle ashes",
           "isCorrect": false,
           "explanation": ""
         },
@@ -783,12 +783,12 @@
           "explanation": ""
         },
         {
-          "text": "To bow down the head like a bulrush and spread sackcloth and ashes",
+          "text": "To bring all offerings faithfully unto the temple",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "To pay the solemn tithes of all increase unto the priests",
+          "text": "To be clothed in sackcloth and to weep aloud",
           "isCorrect": false,
           "explanation": ""
         }
@@ -841,17 +841,17 @@
       "text": "What commission is declared in Isaiah 61:1, which Jesus read in Nazareth?",
       "options": [
         {
-          "text": "To subdue all the heathen kingdoms with a rod of iron",
+          "text": "To restore the kingdom of David by war",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "To erect a magnificent palace for the son of David",
+          "text": "To declare judgment unto the heathen nations",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "To restore the ancient ordinances of the Levitical priests",
+          "text": "To consecrate a new priesthood in the temple",
           "isCorrect": false,
           "explanation": ""
         },
@@ -982,7 +982,7 @@
           "explanation": ""
         },
         {
-          "text": "The dog knoweth his shepherd, and the sheep his fold",
+          "text": "The dog knoweth his master, and the dove her cote",
           "isCorrect": false,
           "explanation": ""
         },
@@ -992,7 +992,7 @@
           "explanation": ""
         },
         {
-          "text": "The dove knoweth her window, and the bird her nest",
+          "text": "The horse knoweth his rider, and the sheep his shepherd",
           "isCorrect": false,
           "explanation": ""
         }
@@ -1079,17 +1079,17 @@
       "text": "From what doth Isaiah 2:22 warn the people to cease?",
       "options": [
         {
-          "text": "From seeking alliances with horses and chariots",
-          "isCorrect": false,
-          "explanation": ""
-        },
-        {
-          "text": "From laying up silver and treasures in secret",
-          "isCorrect": false,
-          "explanation": ""
-        },
-        {
           "text": "From serving the strange gods of the heathen",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "From making a league with Egypt",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "From the riches of the palaces",
           "isCorrect": false,
           "explanation": ""
         },
@@ -1181,12 +1181,12 @@
       "text": "How shall the Lord humble the pride of the daughters of Zion in Isaiah 3:24?",
       "options": [
         {
-          "text": "Instead of fine robes there shall be sackcloth and shame",
+          "text": "Instead of bracelets there shall be poverty, instead of gold lead",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Instead of golden chains there shall be iron fetters",
+          "text": "Instead of raiment there shall be reproach, instead of chains a yoke",
           "isCorrect": false,
           "explanation": ""
         },
@@ -1196,7 +1196,7 @@
           "explanation": ""
         },
         {
-          "text": "Instead of well-set hair there shall be costly kerchiefs",
+          "text": "Instead of rings there shall be rust, instead of a crown a wreath of thorns",
           "isCorrect": false,
           "explanation": ""
         }
@@ -1249,22 +1249,22 @@
       "text": "What shall the branch of the LORD be in that day (Isaiah 4:2)?",
       "options": [
         {
-          "text": "An iron rod of judgment to dash the heathen nations in pieces",
+          "text": "An invincible wall round about the sanctuary",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Beautiful and glorious, excellent and comely for the escaped",
+          "text": "The branch of the LORD shall be beautiful and glorious",
           "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "A consuming fire of vengeance against all ungodly oppressors",
+          "text": "A rich inheritance of gold from strange lands",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "An impenetrable fortress and high tower for the mighty captains",
+          "text": "A mighty host to set the captives free",
           "isCorrect": false,
           "explanation": ""
         }
@@ -1429,7 +1429,7 @@
           "explanation": ""
         },
         {
-          "text": "In the fortieth year of king Solomon's reign",
+          "text": "In the seventh year of king Solomon's reign",
           "isCorrect": false,
           "explanation": ""
         },
@@ -1458,17 +1458,17 @@
           "explanation": ""
         },
         {
-          "text": "Blessed is the LORD God of Israel: the heavens declare His wondrous majesty",
+          "text": "Holy is the LORD, the Lord of the world: all the heavens are full of his glory",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Great and marvellous are Thy works, LORD God Almighty: just and true are Thy ways",
+          "text": "Blessed is the LORD of hosts: all the nations are full of his praise",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Praise the LORD from the heavens: praise Him in the heights, all ye His hosts",
+          "text": "Holy, holy is the LORD: the earth is full of his goodness",
           "isCorrect": false,
           "explanation": ""
         }
@@ -1487,7 +1487,7 @@
       "text": "What did Isaiah call Rezin and the son of Remaliah before Ahaz (Isaiah 7:4)?",
       "options": [
         {
-          "text": "Two bruised reeds of the marsh",
+          "text": "Two smoking wicks",
           "isCorrect": false,
           "explanation": ""
         },
@@ -1502,7 +1502,7 @@
           "explanation": ""
         },
         {
-          "text": "Two fierce serpents of the desert",
+          "text": "Two broken reeds",
           "isCorrect": false,
           "explanation": ""
         }
@@ -1555,7 +1555,7 @@
       "text": "What land saw a great light according to Isaiah 9:1-2?",
       "options": [
         {
-          "text": "The plains beyond Jordan, the border of Gad and Reuben",
+          "text": "The land of Judah and Benjamin round about Jerusalem",
           "isCorrect": false,
           "explanation": ""
         },
@@ -1858,7 +1858,7 @@
     {
       "questionId": "jes_058",
       "type": "single_choice",
-      "text": "Against which city is the burden pronounced in Isaiah 13:1?",
+      "text": "Against whom is the burden pronounced in Isaiah 13:1?",
       "options": [
         {
           "text": "Against Edom",
@@ -1871,7 +1871,7 @@
           "explanation": ""
         },
         {
-          "text": "Against Damascus",
+          "text": "Against Moab",
           "isCorrect": false,
           "explanation": ""
         },
@@ -2104,17 +2104,17 @@
           "explanation": ""
         },
         {
-          "text": "His heart calleth upon Moab to turn unto the king",
+          "text": "His heart calleth upon Moab to turn unto the LORD",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "His heart crieth out for the affliction of Moab",
+          "text": "His heart crieth out for Moab",
           "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "His heart despiseth Moab and forgetteth its sorrow",
+          "text": "His heart curseth Moab for ever",
           "isCorrect": false,
           "explanation": ""
         }
@@ -2609,22 +2609,22 @@
       "text": "What shall the inhabitant of the isle say in that day (Isaiah 20:6)?",
       "options": [
         {
-          "text": "In Egypt did we put our trust, and they have delivered us",
+          "text": "We trusted in Egypt, but Assyria hath delivered us",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Behold, such is our expectation, whither we flee: how escape?",
+          "text": "Behold, such is our expectation, whither we flee for help: how shall we escape?",
           "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "The confederacy of the nations hath saved us from destruction",
+          "text": "We trusted in the help of the nations, but the enemy hath spared us",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "In the princes of Ethiopia have we found a sure hiding place",
+          "text": "Whither we fled for help, there have we been delivered",
           "isCorrect": false,
           "explanation": ""
         }
@@ -2818,12 +2818,12 @@
           "explanation": ""
         },
         {
-          "text": "The fishers of sea",
+          "text": "The fishers of the sea",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "The priests of land",
+          "text": "The priests of the land",
           "isCorrect": false,
           "explanation": ""
         },
@@ -3119,7 +3119,7 @@
       "text": "What song shall be sung in the land of Judah according to Isaiah 26:1?",
       "options": [
         {
-          "text": "We have a strong city; salvation will God appoint for walls",
+          "text": "We have a strong city; salvation will God appoint for walls and bulwarks",
           "isCorrect": true,
           "explanation": ""
         },
@@ -3129,12 +3129,12 @@
           "explanation": ""
         },
         {
-          "text": "We have an ancient law; its commandments are our defense",
+          "text": "We have a wealthy king; his throne is our refuge",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "We have a wealthy king; his strong palace is our refuge",
+          "text": "We have an ancient law; its commandments are our defence",
           "isCorrect": false,
           "explanation": ""
         }
@@ -3362,17 +3362,17 @@
           "explanation": ""
         },
         {
-          "text": "The plowman ploweth all the year and never soweth seed",
+          "text": "God acteth after his own whim and leaveth the land without order",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "The ground bringeth forth harvest without care or plan",
+          "text": "The plowman ploweth all the year and never reapeth",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Man ordereth his own labour without the wisdom of God",
+          "text": "The ground bringeth forth fruit of itself, without care or plan",
           "isCorrect": false,
           "explanation": ""
         }
@@ -3668,7 +3668,7 @@
           "explanation": ""
         },
         {
-          "text": "As birds flying, so will the LORD defend Zion",
+          "text": "As birds flying, so will the LORD of hosts defend Jerusalem",
           "isCorrect": true,
           "explanation": ""
         },
@@ -3697,12 +3697,12 @@
       "text": "What shall a man be under the reign of a righteous king (Isaiah 32:2)?",
       "options": [
         {
-          "text": "A buckler against all the arrows of the ungodly heathen",
+          "text": "As a defence against enemies, a shield in the battle",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "A strong tower of stone giving refuge from armed hosts",
+          "text": "As a strong tower giving refuge from war",
           "isCorrect": false,
           "explanation": ""
         },
@@ -3712,7 +3712,7 @@
           "explanation": ""
         },
         {
-          "text": "A living spring of fresh water in the midst of cities",
+          "text": "As a lion that teareth his prey",
           "isCorrect": false,
           "explanation": ""
         }
@@ -3872,12 +3872,12 @@
           "explanation": ""
         },
         {
-          "text": "Our Priest, our Prophet, and our Deliverer",
+          "text": "Our Priest, our King, and our Prophet",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Our Father, our Shield, and our Fortress",
+          "text": "Father, Son, and Spirit",
           "isCorrect": false,
           "explanation": ""
         },
@@ -4110,7 +4110,7 @@
           "explanation": ""
         },
         {
-          "text": "As a proud merchant city that trusteth only in gold",
+          "text": "As a rich land that defendeth itself with silver and gold",
           "isCorrect": false,
           "explanation": ""
         },
@@ -4120,7 +4120,7 @@
           "explanation": ""
         },
         {
-          "text": "As a treacherous friend that turneth against its own",
+          "text": "As a faithful ally that falleth upon the enemy from behind",
           "isCorrect": false,
           "explanation": ""
         }
@@ -4207,7 +4207,7 @@
       "text": "What befell the camp of the Assyrians in Isaiah 37:36?",
       "options": [
         {
-          "text": "A grievous pestilence consumed the entire host of soldiers",
+          "text": "A pestilence broke out and slew 185,000 men in the camp",
           "isCorrect": false,
           "explanation": ""
         },
@@ -4426,7 +4426,7 @@
           "explanation": ""
         },
         {
-          "text": "Thou worm Jacob made a new sharp threshing instrument",
+          "text": "As the worm Jacob, made a new sharp threshing instrument",
           "isCorrect": true,
           "explanation": ""
         }
@@ -4615,22 +4615,22 @@
       "text": "What new thing doth the LORD announce in Isaiah 43:19?",
       "options": [
         {
-          "text": "Behold, I give a new law written on tables of stone",
+          "text": "Behold, I will give a new law: it shall be written upon the hearts",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "A way in the wilderness, and rivers in the desert",
+          "text": "Behold, I will do a new thing: a way in the wilderness, and rivers in the desert",
           "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "A new temple built upon the heights of mount Zion",
+          "text": "Behold, I will build a new temple: it shall stand upon mount Zion",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "A glorious city founded in the borders of the sea",
+          "text": "Behold, I will found a new city: it shall lie in the wilderness",
           "isCorrect": false,
           "explanation": ""
         }
@@ -4756,17 +4756,17 @@
           "explanation": ""
         },
         {
-          "text": "I form the light, and create darkness: I make peace and evil",
+          "text": "He formeth the light, and createth darkness: he maketh peace, and createth evil",
           "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "He established the earth and left the heavens unto angels",
+          "text": "He made light and darkness, yet good and evil are wrought by others",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "He governeth the righteous and ignoreth the heathen rulers",
+          "text": "He shareth creation with other gods and ruleth only over the light",
           "isCorrect": false,
           "explanation": ""
         }
@@ -4785,12 +4785,12 @@
       "text": "What universal invitation is proclaimed in Isaiah 45:22?",
       "options": [
         {
-          "text": "Come with rich offerings of gold unto the temple in Zion",
+          "text": "Turn unto the gods, and be ye saved, all the ends of the earth",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Obey the ordinances of the covenant, all ye seed of Israel",
+          "text": "Go up to Jerusalem, and be ye saved, all the ends of the earth",
           "isCorrect": false,
           "explanation": ""
         },
@@ -4800,7 +4800,7 @@
           "explanation": ""
         },
         {
-          "text": "Bow down before the king of Jerusalem, all ye far nations",
+          "text": "Sacrifice unto the LORD, and be ye saved, all the ends of the earth",
           "isCorrect": false,
           "explanation": ""
         }
@@ -4887,12 +4887,12 @@
       "text": "Whom doth the LORD call like a ravenous bird from the east (Isaiah 46:11)?",
       "options": [
         {
-          "text": "A holy prophet to proclaim repentance unto all the nations",
+          "text": "A prophet out of Israel to save the people",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "An angel of destruction to consume the cities of Chaldea",
+          "text": "A king of the house of David that ruleth afar off",
           "isCorrect": false,
           "explanation": ""
         },
@@ -4902,7 +4902,7 @@
           "explanation": ""
         },
         {
-          "text": "A high priest to restore the worship of God upon mount Zion",
+          "text": "An angel from heaven to finish his work",
           "isCorrect": false,
           "explanation": ""
         }
@@ -4921,22 +4921,22 @@
       "text": "What humiliation is foretold for the daughter of Babylon in Isaiah 47:1-3?",
       "options": [
         {
-          "text": "She shall be besieged for seven years and pay heavy tribute",
+          "text": "She shall be besieged seven years and pay heavy tribute",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "She shall flee into the Arabian desert and dwell in tents",
+          "text": "She shall be spared, but her children given up unto the enemies",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "She shall rebuild her walls after being conquered by Medes",
+          "text": "She shall be besieged, yet keep her throne and reign long",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Sit in the dust, take the millstones, grind: shame revealed",
+          "text": "She must sit in the dust, take the millstones and grind, and her shame shall be seen",
           "isCorrect": true,
           "explanation": ""
         }
@@ -5198,12 +5198,12 @@
           "explanation": ""
         },
         {
-          "text": "They shall avoid her borders and seek refuge in secret shrines",
+          "text": "They shall shun her and seek help from their idols",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "They shall bring gold and frankincense to build up their own",
+          "text": "They shall spoil her and carry away her silver and gold",
           "isCorrect": false,
           "explanation": ""
         },
@@ -5363,22 +5363,22 @@
       "text": "What shall happen unto heaven and earth compared to God's salvation (Isaiah 51:6)?",
       "options": [
         {
-          "text": "Heaven and earth vanish, but my salvation shall be for ever",
+          "text": "Heaven and earth vanish away, but his salvation shall be for ever",
           "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "Heaven and earth abide for ever, while salvation waxeth old",
+          "text": "Both abide for ever, even as his salvation endureth for ever",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Both shall be restored together, yet salvation shall vanish",
+          "text": "Both shall be renewed, but his salvation shall pass away with them",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "The earth collapseth in ruin, and salvation endureth a year",
+          "text": "Both shall fall, and his salvation lasteth but for a season",
           "isCorrect": false,
           "explanation": ""
         }
@@ -5567,12 +5567,12 @@
       "text": "How steadfast is the kindness of the LORD according to Isaiah 54:10?",
       "options": [
         {
-          "text": "Like the fixed stars of heaven that remain in their appointed courses",
+          "text": "A new covenant of pure gold",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Like the rolling years of time that never cease to bring forth seasons",
+          "text": "The kingdom of David ruleth upon the earth",
           "isCorrect": false,
           "explanation": ""
         },
@@ -5582,7 +5582,7 @@
           "explanation": ""
         },
         {
-          "text": "Like the sanctuary on mount Zion that can never be moved nor shaken",
+          "text": "The enemies shall be bound a thousand years",
           "isCorrect": false,
           "explanation": ""
         }
@@ -5616,7 +5616,7 @@
           "explanation": ""
         },
         {
-          "text": "No weapon that is formed against thee shall prosper in war",
+          "text": "No weapon that is formed against thee shall prosper",
           "isCorrect": true,
           "explanation": ""
         }
@@ -5771,22 +5771,22 @@
       "text": "What does Isaiah 56:10 call the blind watchmen of Israel?",
       "options": [
         {
-          "text": "Dumb dogs, they cannot bark; sleeping and slumbering",
+          "text": "Dumb dogs, that cannot bark",
           "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "Sleeping shepherds, who heed not the peril of sheep",
+          "text": "Watchful eagles, that see all things afar off",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Ravening wolves, who devour the scattered little flock",
+          "text": "Ravening wolves, that devour the flock",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Blind guides, who stumble together into the deep pit",
+          "text": "Deaf watchmen, that hear not the enemy",
           "isCorrect": false,
           "explanation": ""
         }
@@ -5941,7 +5941,7 @@
       "text": "What doth Isaiah 58:14 promise unto him that calleth the sabbath a delight?",
       "options": [
         {
-          "text": "Great abundance of corn and wine throughout all his generations",
+          "text": "Victory over his enemies and dominion over all the land",
           "isCorrect": false,
           "explanation": ""
         },
@@ -5951,12 +5951,12 @@
           "explanation": ""
         },
         {
-          "text": "A crown of gold and victory over every adversary in the field",
+          "text": "Long life and many children in the land",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Long life and peace with all the kings that dwell round about",
+          "text": "Rich increase in the field and peace in the house",
           "isCorrect": false,
           "explanation": ""
         }
@@ -5975,12 +5975,12 @@
       "text": "Why doth God NOT hear His people according to Isaiah 59:1-2?",
       "options": [
         {
-          "text": "Because their burnt offerings are too few upon the holy altar",
+          "text": "Because the people offer too little and neglect the feasts",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Because they ceased to pay tithes unto the house of the priests",
+          "text": "Because the people are too few, and the time is not yet fulfilled",
           "isCorrect": false,
           "explanation": ""
         },
@@ -5990,7 +5990,7 @@
           "explanation": ""
         },
         {
-          "text": "Because the Lord hath departed forever from the borders of Zion",
+          "text": "Because God keepeth silence and hideth his counsel from them",
           "isCorrect": false,
           "explanation": ""
         }
@@ -6009,22 +6009,22 @@
       "text": "How did the LORD intervene when there was no man (Isaiah 59:16-17)?",
       "options": [
         {
-          "text": "He sent a mighty prophet to turn the hearts of the people",
+          "text": "He sent an angel to work righteousness and smite the enemies",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "He summoned the armies of the heathen to chastise Israel",
+          "text": "He called a prophet to stand for the people and save them",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "He called down fire from heaven to consume all ungodliness",
+          "text": "He sent an host to set the people free and drive out the enemy",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "His arm brought salvation: put on righteousness as breastplate",
+          "text": "His arm brought salvation; he put on righteousness as a breastplate",
           "isCorrect": true,
           "explanation": ""
         }
@@ -6043,22 +6043,22 @@
       "text": "What covenant concerning His spirit and words doth the LORD make in Isaiah 59:21?",
       "options": [
         {
-          "text": "They shall not depart out of thy mouth, nor of thy seed's mouth",
+          "text": "They shall not depart out of thy mouth, nor out of the mouth of thy seed",
           "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "They shall be written in secret books and hidden from Gentiles",
+          "text": "They shall be taken back if the people turn away from him",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "They shall be committed unto the priests to keep in the sanctuary",
+          "text": "They are only for the priests and the prophets in Zion",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "They shall endure until the second generation and then pass away",
+          "text": "They are for one generation only, and not for their seed",
           "isCorrect": false,
           "explanation": ""
         }
@@ -6077,22 +6077,22 @@
       "text": "Why shall Zion's gates be open continually according to Isaiah 60:11?",
       "options": [
         {
-          "text": "That the watchmen may see the approach of enemies afar off",
+          "text": "That enemies may enter freely and take the city",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "That men may bring unto thee the forces and wealth of Gentiles",
+          "text": "That men may bring the forces of the Gentiles, and that their kings may be brought",
           "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "That the poor of the land may gather into the city for safety",
+          "text": "That the priests may go in and out and offer the sacrifices",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "That the priests may carry out the sacrifices into the valley",
+          "text": "That merchants may have access and sell their wares",
           "isCorrect": false,
           "explanation": ""
         }
@@ -6145,17 +6145,17 @@
       "text": "What shall the redeemed people be called according to Isaiah 61:6?",
       "options": [
         {
-          "text": "The mighty captains of the host of David",
+          "text": "Kings and princes over all the nations of the earth",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "The wealthy merchants of all the islands",
+          "text": "Watchmen of Zion and keepers of the city walls",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "The righteous judges over the heathen realms",
+          "text": "Judges of the nations and teachers of the law",
           "isCorrect": false,
           "explanation": ""
         },
@@ -6184,17 +6184,17 @@
           "explanation": ""
         },
         {
-          "text": "With purple of kings, and a golden crown of victory",
+          "text": "With purple and gold as a bridegroom",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "With linen of the priests, and a girdle of pure gold",
+          "text": "With royal robes of honour and a crown",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "With armor of brass, and a shield of sovereign grace",
+          "text": "With white wool and a girdle of the priests",
           "isCorrect": false,
           "explanation": ""
         }
@@ -6213,7 +6213,7 @@
       "text": "What new names shall Zion and her land receive in Isaiah 62:4?",
       "options": [
         {
-          "text": "The fair queen and the sovereign city",
+          "text": "The Fair and the Highly Esteemed",
           "isCorrect": false,
           "explanation": ""
         },
@@ -6223,12 +6223,12 @@
           "explanation": ""
         },
         {
-          "text": "The holy mountain and the fruitful valley",
+          "text": "The Blessed and the Pure City",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "The city of peace and the joyful sanctuary",
+          "text": "The Queen and the Rich City",
           "isCorrect": false,
           "explanation": ""
         }
@@ -6247,22 +6247,22 @@
       "text": "What charge is given unto the watchmen upon the walls of Jerusalem (Isaiah 62:6-7)?",
       "options": [
         {
-          "text": "Guard the gates, sound the trumpet, and keep watch against hosts",
+          "text": "To guard the gate, report the enemies, and protect the whole city",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Cast down the stones of stumbling and prepare the royal highway",
+          "text": "To spy out the enemies day and night and sound the alarm",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Never hold peace, give the LORD no rest, till He establish Zion",
+          "text": "To keep not silence, till he make Jerusalem a praise in the earth",
           "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "Offer sacrifices day and night upon the altars in the sanctuary",
+          "text": "To offer sacrifices unto the LORD, till he build up and establish Jerusalem",
           "isCorrect": false,
           "explanation": ""
         }
@@ -6281,22 +6281,22 @@
       "text": "What shall the people of Zion be called according to Isaiah 62:12?",
       "options": [
         {
-          "text": "The blessed of the LORD, the heirs of the kingdom",
+          "text": "The blessed of the LORD, the chosen of his house",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "The mighty of the earth, the conquerors of nations",
+          "text": "The mighty of the land, the valiant men of battle",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "The chosen flock of God, the generation of the just",
+          "text": "The children of God, the people of the covenant",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "The holy people, The redeemed of the LORD, Sought out",
+          "text": "The holy people, The redeemed of the LORD",
           "isCorrect": true,
           "explanation": ""
         }
@@ -6451,12 +6451,12 @@
       "text": "How doth the people confess their sin in Isaiah 64:6?",
       "options": [
         {
-          "text": "We are holy before thee, for we have kept all thy statutes",
+          "text": "We are an holy people, and our works are pure",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "We have sinned, yet are our souls like a washed clean robe",
+          "text": "We have sinned, yet are we as a washed garment",
           "isCorrect": false,
           "explanation": ""
         },
@@ -6466,7 +6466,7 @@
           "explanation": ""
         },
         {
-          "text": "We are all as an unclean thing; righteousness as filthy rags",
+          "text": "We are all as an unclean thing, and all our righteousnesses are as filthy rags",
           "isCorrect": true,
           "explanation": ""
         }
@@ -6490,7 +6490,7 @@
           "explanation": ""
         },
         {
-          "text": "We are the clay, and thou our potter: work of thy hand",
+          "text": "We are the clay, and thou our potter",
           "isCorrect": true,
           "explanation": ""
         },
@@ -6621,22 +6621,22 @@
       "text": "How doth the book of Isaiah conclude in Isaiah 66:23-24?",
       "options": [
         {
-          "text": "The Gentiles worship, but the seed of Israel is cast out forever",
+          "text": "A new Jerusalem cometh down, and there is no more death",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "All nations remain silent, and no song is heard upon the mount",
+          "text": "The people return home, and David reigneth for ever",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "The earth is consumed, and a new generation inhabits the ruins",
+          "text": "All enemies are converted and bring gifts",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "All flesh worships: their worm dieth not, nor is fire quenched",
+          "text": "All flesh worshippeth; their worm shall not die, neither shall their fire be quenched",
           "isCorrect": true,
           "explanation": ""
         }

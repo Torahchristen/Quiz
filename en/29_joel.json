@@ -31,7 +31,7 @@
           "explanation": ""
         },
         {
-          "text": "A plague of locusts that devoureth what the palmerworm and cankerworm left",
+          "text": "A plague of insects: what the palmerworm left the locust ate, the rest the cankerworm and caterpiller",
           "isCorrect": true,
           "explanation": ""
         },
@@ -162,7 +162,7 @@
       "text": "What true repentance does the LORD require according to Joel 2:13?",
       "options": [
         {
-          "text": "Offer a thousand spotless rams and pour out sweet oil upon the altar",
+          "text": "Rend your garments and offer burnt offerings in abundance unto the LORD",
           "isCorrect": false,
           "explanation": ""
         },
@@ -172,12 +172,12 @@
           "explanation": ""
         },
         {
-          "text": "Fast forty days in the desolate wilderness and speak no word to any man",
+          "text": "Fast seven days and keep silence before the LORD in sackcloth and ashes",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Bring rich tithes of gold and silver to restore the house of the LORD",
+          "text": "Bring the tithes into the house of the LORD and offer there abundantly",
           "isCorrect": false,
           "explanation": ""
         }
@@ -193,25 +193,25 @@
     {
       "questionId": "joe_006",
       "type": "single_choice",
-      "text": "What does the LORD promise to restore in Joel 2:25?",
+      "text": "What does the LORD promise in Joel 2:25?",
       "options": [
         {
-          "text": "The royal throne of David and all the cities that were broken down",
+          "text": "To give a plenteous harvest in the next year",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "The holy vessels of silver and gold that foreign nations carried off",
+          "text": "To rid the land of the locusts and sow it anew",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "The years that the locust hath eaten, the cankerworm, and caterpiller",
+          "text": "To restore the years that the locust hath eaten",
           "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "The borders of the twelve tribes from the river unto the Great Sea",
+          "text": "To give new fields in the valley of Jehoshaphat and bless them",
           "isCorrect": false,
           "explanation": ""
         }
@@ -230,22 +230,22 @@
       "text": "What prophecy did Peter quote on the day of Pentecost from Joel 2:28?",
       "options": [
         {
-          "text": "Behold, the day of vengeance is come upon all the ungodly nations of earth",
+          "text": "I will bring you again into your land and make you one people again",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "A star shall come out of Jacob, and a sceptre shall rise out of Israel",
+          "text": "I will make a new covenant with Israel and build up his house anew",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "The mountain of the LORD's house shall be established in the top of hills",
+          "text": "I will send my messenger before thee, which shall prepare thy way before thee",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "I will pour out my spirit upon all flesh; and your sons shall prophesy",
+          "text": "I will pour out my spirit upon all flesh; and your sons and your daughters shall prophesy",
           "isCorrect": true,
           "explanation": ""
         }
@@ -298,7 +298,7 @@
       "text": "What summons is proclaimed unto the Gentiles in Joel 3:10?",
       "options": [
         {
-          "text": "Bring gifts of gold to Zion and bow down before the holy temple of God",
+          "text": "Beat your swords into plowshares, and your spears into pruninghooks",
           "isCorrect": false,
           "explanation": ""
         },
@@ -308,12 +308,12 @@
           "explanation": ""
         },
         {
-          "text": "Lay down all weapons of war and learn the righteous ways of peace",
+          "text": "Build walls about your cities and arm your men of war",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Flee into the remote mountains, for the day of judgment is at hand",
+          "text": "Lay down your weapons and proclaim peace",
           "isCorrect": false,
           "explanation": ""
         }
@@ -337,17 +337,17 @@
           "explanation": ""
         },
         {
-          "text": "The son of Berechiah",
-          "isCorrect": false,
-          "explanation": ""
-        },
-        {
-          "text": "The son of Amittai",
+          "text": "The son of Amoz",
           "isCorrect": false,
           "explanation": ""
         },
         {
           "text": "The son of Hilkiah",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The son of Beeri",
           "isCorrect": false,
           "explanation": ""
         }
@@ -403,22 +403,22 @@
       "text": "How was the land commanded to lament in Joel 1:8?",
       "options": [
         {
-          "text": "Like an aged mother weeping for her only son taken captive",
+          "text": "Like a widow that casteth ashes upon her head for her son",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Like an abandoned child wandering in the desolate wilderness",
+          "text": "Like a mother that burieth her child and holdeth her peace",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Lament like a virgin girded with sackcloth for husband of youth",
+          "text": "Like a virgin girded with sackcloth for the husband of her youth",
           "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "Like a lonely widow sitting in silence outside the city gates",
+          "text": "Like a shepherd that hath lost all his flock and weepeth",
           "isCorrect": false,
           "explanation": ""
         }
@@ -437,22 +437,22 @@
       "text": "How does Joel 2:3 describe the land before and behind the host?",
       "options": [
         {
-          "text": "Before them as a dry desert, behind them as an overflowing flood",
+          "text": "Before them as a field, behind them as a quarry",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Before them as a fruitful vineyard, behind them as deep waters",
+          "text": "Before them as a vineyard, behind them as a marsh",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Before them as a walled fortress, behind them as broken stones",
+          "text": "Before them as a wilderness, behind them as the garden of Eden",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "The land is as garden of Eden before them, behind a desolate waste",
+          "text": "Before them as the garden of Eden, behind them a desolate wilderness",
           "isCorrect": true,
           "explanation": ""
         }
@@ -511,17 +511,17 @@
           "explanation": ""
         },
         {
-          "text": "Send down consuming fire from heaven to burn up all the adversary hosts",
+          "text": "That the LORD would chasten his people sore, that they might come to themselves",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Enrich thy servants with silver and corn that they may praise thy name",
+          "text": "That the LORD would destroy the heathen and utterly lay waste their cities",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Establish the kingdom of David and subdue all foreign realms under feet",
+          "text": "That the LORD would raise up a new king over his people Israel",
           "isCorrect": false,
           "explanation": ""
         }

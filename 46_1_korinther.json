@@ -207,15 +207,15 @@
       "text": "Worauf stützte sich die Verkündigung des Paulus bei den Korinthern nicht?",
       "options": [
         {
-          "text": "Auf den Beistand des Geistes und die Kraft der Zeichen",
+          "text": "Auf die Erweisung des Geistes und der Kraft",
           "explanation": ""
         },
         {
-          "text": "Auf das Gesetz der Väter und die Überlieferung der Ältesten",
+          "text": "Auf das Zeugnis Gottes, das er ihnen verkündigte",
           "explanation": ""
         },
         {
-          "text": "Auf die Heilige Schrift und die Auslegung der Gelehrten",
+          "text": "Auf Jesus Christus, und zwar als den Gekreuzigten",
           "explanation": ""
         },
         {
@@ -226,7 +226,7 @@
       "correctAnswers": [
         3
       ],
-      "bibleReference": "1. Korinther 2:4-5",
+      "bibleReference": "1. Korinther 2:1-5",
       "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
@@ -271,7 +271,7 @@
           "explanation": ""
         },
         {
-          "text": "Es ist ihm eine Torheit, und er kann es nicht erkennen, weil es geistlich beurteilt wird",
+          "text": "Es ist ihm eine Torheit, und er kann es nicht verstehen, weil es geistlich beurteilt werden muss",
           "explanation": ""
         },
         {
@@ -354,7 +354,7 @@
     {
       "questionId": "1kor_012",
       "type": "single_choice",
-      "text": "Welches Bild aus der Landwirtschaft gebraucht Paulus für Seinen Dienst und den des Apollos?",
+      "text": "Welches Bild aus der Landwirtschaft gebraucht Paulus für seinen Dienst und den des Apollos?",
       "options": [
         {
           "text": "Paulus pflanzte, Apollos begoss, aber Gott gab das Gedeihen",
@@ -417,19 +417,19 @@
       "text": "Wodurch wird das Bauwerk eines jeden Arbeiters am Tage des Gerichts geprüft werden?",
       "options": [
         {
-          "text": "Gold, Silber und kostbare Steine",
+          "text": "Durch das Urteil eines römischen Richters",
           "explanation": ""
         },
         {
-          "text": "Marmor, Granit und gebrannte Ziegel",
+          "text": "Durch die Abstimmung der versammelten Brüder",
           "explanation": ""
         },
         {
-          "text": "Vergängliches Holz, Heu und Stroh",
+          "text": "Durch das Feuer, das jedes Werk erprobt",
           "explanation": ""
         },
         {
-          "text": "Kupfer, gehärtetes Eisen und Bronze",
+          "text": "Durch das Abwägen irdischer Reichtümer",
           "explanation": ""
         }
       ],
@@ -477,7 +477,7 @@
       "text": "Als was sollen die Menschen die Apostel und Verkündiger des Evangeliums ansehen?",
       "options": [
         {
-          "text": "Als Diener Christi und Haushalter über Gottes Geheimnisse",
+          "text": "Als Untergebene Christi und Verwalter der Geheimnisse Gottes",
           "explanation": ""
         },
         {
@@ -894,7 +894,7 @@
     {
       "questionId": "1kor_030",
       "type": "single_choice",
-      "text": "Wozu ist der leibliche Körper des Glaubenden nach den Schlussversen von Kapitel 6 geweiht?",
+      "text": "Was ist der Leib des Glaubenden nach den Schlussversen von Kapitel 6?",
       "options": [
         {
           "text": "Der Leib ist Wohnsitz der Seele, die nach dem Tod zu Gott zurückkehrt",
@@ -1239,7 +1239,7 @@
           "explanation": ""
         },
         {
-          "text": "Auf das Recht, Gläubige zu taufen und zu lehren",
+          "text": "Auf das Recht, Älteste in den Gemeinden einzusetzen",
           "explanation": ""
         }
       ],
@@ -1265,7 +1265,7 @@
           "explanation": ""
         },
         {
-          "text": "Du sollst dem Ochsen, der da drischt, nicht das Maul verbinden",
+          "text": "Du sollst dem Rind das Maul nicht verbinden, wenn es drischt",
           "explanation": ""
         },
         {
@@ -1501,7 +1501,7 @@
           "explanation": ""
         },
         {
-          "text": "Sich allen Bräuchen anpassen",
+          "text": "Sich allein nach den Bräuchen der Väter richten",
           "explanation": ""
         },
         {
@@ -1557,7 +1557,7 @@
       "text": "Warum soll die Frau beim Beten oder Weissagen eine Bedeckung auf dem Haupt haben?",
       "options": [
         {
-          "text": "Um der Engel willen soll sie ein Zeichen der Vollmacht auf dem Haupt haben",
+          "text": "Um der Engel willen soll sie ein Zeichen der Gewalt auf dem Haupt haben",
           "explanation": ""
         },
         {
@@ -1659,7 +1659,7 @@
           "explanation": ""
         },
         {
-          "text": "Er isst und trinkt sich selbst zum Gericht",
+          "text": "Er isst und trinkt sich selbst ein Gericht",
           "explanation": ""
         }
       ],
@@ -1745,7 +1745,7 @@
           "explanation": ""
         },
         {
-          "text": "Wir sind durch einen Geist alle zu einem Leib getauft",
+          "text": "Wir wurden alle in einem Geist zu einem Leib getauft",
           "explanation": ""
         },
         {
@@ -1884,7 +1884,7 @@
     {
       "questionId": "1kor_063",
       "type": "single_choice",
-      "text": "Was geschieht mit den prophetischen Gaben und dem Sprachenreden in der Vollendung?",
+      "text": "Was hört niemals auf, auch wenn die Weissagungen abgetan werden und das Sprachenreden aufhört?",
       "options": [
         {
           "text": "Das prophetische Weissagen",
@@ -1899,7 +1899,7 @@
           "explanation": ""
         },
         {
-          "text": "Die Liebe vergeht nimmer",
+          "text": "Die Liebe hört niemals auf",
           "explanation": ""
         }
       ],
@@ -1974,7 +1974,7 @@
     {
       "questionId": "1kor_066",
       "type": "single_choice",
-      "text": "Warum ist das prophetische Reden wertvoller für die Gemeinde als das Sprachenreden?",
+      "text": "Warum ist die Weissagung wertvoller für die Gemeinde als das Sprachenreden?",
       "options": [
         {
           "text": "Sie kostet weniger Mühe",
@@ -2004,7 +2004,7 @@
     {
       "questionId": "1kor_067",
       "type": "single_choice",
-      "text": "Welche Bedingung gilt für das Zungenreden in der öffentlichen Versammlung?",
+      "text": "Was soll der Zungenredner tun, wenn kein Ausleger in der Gemeinde da ist?",
       "options": [
         {
           "text": "Er soll lauter sprechen, damit jedermann ihn versteht",
@@ -2075,7 +2075,7 @@
           "explanation": ""
         },
         {
-          "text": "Alle, die in der Versammlung sitzen",
+          "text": "Nur die Ältesten der Gemeinde",
           "explanation": ""
         },
         {
@@ -2154,7 +2154,7 @@
     {
       "questionId": "1kor_072",
       "type": "single_choice",
-      "text": "Als was bezeichnet Sich Paulus Selbst voller Demut unter allen Aposteln?",
+      "text": "Als was bezeichnet sich Paulus selbst voller Demut unter allen Aposteln?",
       "options": [
         {
           "text": "Als den Geringsten der Apostel, wie einer unzeitigen Geburt",
@@ -2191,7 +2191,7 @@
           "explanation": ""
         },
         {
-          "text": "Dann ist auch Christus nicht auferstanden, und unser Glaube ist vergeblich",
+          "text": "Dann ist auch Christus nicht auferstanden, und euer Glaube ist vergeblich",
           "explanation": ""
         },
         {
@@ -2349,7 +2349,7 @@
           "explanation": ""
         },
         {
-          "text": "Dass sie ihn bald zurückschicken",
+          "text": "Dass sie ihn bei sich festhalten",
           "explanation": ""
         }
       ],

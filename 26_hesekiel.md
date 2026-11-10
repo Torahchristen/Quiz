@@ -72,7 +72,7 @@
 - [ ] Alle drei den Priestern geben und im Heiligtum sorgfältig verwahren lassen
 - [ ] Alle drei im Heiligtum opfern und die Asche auf dem Altar ausschütten
 - [ ] Alle drei vergraben und mit Erde bedecken, damit sie niemand mehr findet
-- [x] Ein Teil verbrennen, einen mit dem Schwert schlagen, einen in den Wind streuen
+- [x] Einen Teil verbrennen, einen mit dem Schwert schlagen, einen in den Wind streuen
 
 **Bibelstelle:** Hesekiel 5:1-4
 **Erklärung:** 
@@ -112,7 +112,7 @@
 - [ ] Als Hirte in den Tälern, der die Herde der Völker weidet und sie zu den Quellen führt
 - [ ] Als Krieger auf dem heiligen Berg, der die Feinde besiegt und die Beute teilt
 - [ ] Als Priester im Tempel, der das Räucherwerk darbringt und das Volk segnet
-- [x] Als Siegelring, voll Weisheit und schön, im Garten Eden und gesalbter Cherub
+- [x] Als reinliches Siegel, voller Weisheit und schön, im Lustgarten Gottes und wie ein Cherub
 
 **Bibelstelle:** Hesekiel 28:12-14
 **Erklärung:** 
@@ -221,7 +221,7 @@
 
 - [ ] Er gab ihm ein scharfes Schwert, um sich gegen das Volk zu wehren
 - [ ] Er gab ihm einen eisernen Schild, der alle Pfeile abhielt
-- [x] Er machte sein Angesicht hart wie Diamant, härter als Fels
+- [x] Er machte seine Stirn hart wie Demant, härter als Fels
 - [ ] Er machte ihn unsichtbar, damit ihn niemand ergreifen konnte
 
 **Bibelstelle:** Hesekiel 3:8-9
@@ -410,8 +410,8 @@
 ### 41. Welches Sprichwort weist der HERR in Hesekiel 12:22 zurück?
 
 - [x] Es verzieht sich so lange, es wird nichts aus der Weissagung
-- [ ] Wie die Väter, so die Söhne, der Tag des HERRN ist ferne
-- [ ] Der Tag des HERRN ist fern, und seine Weissagung wird nicht erfüllt
+- [ ] Die Väter haben Herlinge gegessen, aber den Kindern sind die Zähne stumpf geworden
+- [ ] Hier ist des HERRN Tempel, uns kann kein Unglück treffen
 - [ ] Die Zeit ist erfüllt, und die Weissagung ist wahr geworden
 
 **Bibelstelle:** Hesekiel 12:22-28
@@ -429,7 +429,7 @@
 
 ### 43. Wie beschreibt Hesekiel 13:10 die falschen Propheten bildhaft?
 
-- [x] Sie bauen Wände und tünchen sie mit losem Kalk, indem sie rufen: Friede!
+- [x] Sie tünchen die Wand, die das Volk baut, mit losem Kalk und sagen: Friede!
 - [ ] Sie säen Dornen aus und rufen dabei laut: Es kommt kein Friede
 - [ ] Sie bauen Türme aus Stein und rufen dabei: Wir sind sicher und stark
 - [ ] Sie graben Brunnen im Land und rufen dabei: Wasser ist genug da
@@ -837,15 +837,15 @@
 **Bibelstelle:** Hesekiel 26:7
 **Erklärung:** 
 
-### 84. Als was wird Tyrus in Hesekiel 27:3 dargestellt?
+### 84. Als was wird Tyrus in Hesekiel 27:3-5 dargestellt?
 
 - [ ] Als ein Garten, der alle Früchte der Erde trägt
 - [ ] Als eine Festung, die kein Feind einnehmen kann
 - [x] Als ein Schiff, das sagt: Ich bin die Allerschönste
 - [ ] Als ein Tempel, in dem alle Völker beten
 
-**Bibelstelle:** Hesekiel 27:3
-**Erklärung:** 
+**Bibelstelle:** Hesekiel 27:3-5
+**Erklärung:** Tyrus spricht in Vers 3: „Ich bin die Allerschönste“. In den Versen 4-5 wird die Stadt dann mit Bauleuten, Tafelwerk und Mastbäumen wie ein Schiff beschrieben.
 
 ### 85. Welche Waren brachten Juda und Israel nach Hesekiel 27:17 nach Tyrus?
 
@@ -881,7 +881,7 @@
 
 - [ ] Als weiser Priester im Tempel, der das Volk lehrt
 - [ ] Als mächtiger Stiergott, der die Völker zerstampft
-- [x] Als ein glänzender Cherub, auf dem heiligen Berg Gottes
+- [x] Als ein Cherub, der sich weit ausbreitet und deckt, auf dem heiligen Berg Gottes
 - [ ] Als Löwe auf dem Berg, der die Herden schützt
 
 **Bibelstelle:** Hesekiel 28:14
@@ -957,12 +957,12 @@
 **Bibelstelle:** Hesekiel 31:3
 **Erklärung:** 
 
-### 96. Warum wurde die Zeder nach Hesekiel 31:10 gefällt?
+### 96. Warum wurde der Zedernbaum nach Hesekiel 31:10 gefällt?
 
-- [ ] Weil es dürr wurde und seine Blätter verlor
+- [ ] Weil er dürr wurde und seine Blätter verlor
 - [ ] Weil Holzfäller kamen und das Holz für Schiffe brauchten
 - [x] Weil sein Herz sich erhob, als er so hoch geworden war
-- [ ] Weil ein Sturm sie brach und niemand sie rettete
+- [ ] Weil ein Sturm ihn brach und niemand ihn rettete
 
 **Bibelstelle:** Hesekiel 31:10
 **Erklärung:** 
@@ -982,7 +982,7 @@
 - [x] Ich werfe mein Netz über dich und lasse dich in mein Garn jagen
 - [ ] Ich lasse dich im Meer ertrinken und dein Heer vernichten
 - [ ] Ich lasse dich in einem Käfig fangen und nach Babel führen
-- [ ] Ich verbanne dich in die Wüste und überlasse dich den Tieren
+- [ ] Ich stoße dich vom Thron und setze einen Fremden an deine Stelle
 
 **Bibelstelle:** Hesekiel 32:3-4
 **Erklärung:** 
@@ -1189,7 +1189,7 @@
 
 ### 119. Wie wurde der hölzerne Altar in Hesekiel 41:22 genannt?
 
-- [ ] Der Schaubrottisch, auf dem die zwölf Brote liegen
+- [ ] Die Lade des Bundes, in der die Tafeln liegen
 - [ ] Der Brandopferaltar, auf dem die Opfer verbrannt werden
 - [ ] Der Räucheraltar, auf dem das Räucherwerk brennt
 - [x] Der Tisch, der vor dem HERRN stehen soll
@@ -1269,7 +1269,7 @@
 
 ### 127. Warum soll das Tor nach Hesekiel 44:2 verschlossen bleiben?
 
-- [ ] Weil der Fürst es für sich benutzt und niemand sonst
+- [ ] Weil die Feinde des Landes dadurch einfallen könnten
 - [ ] Weil es zerbrochen ist und nicht mehr zu schließen geht
 - [ ] Weil es unrein ist und die Priester es meiden
 - [x] Weil der HERR, der Gott Israels, dadurch eingegangen ist

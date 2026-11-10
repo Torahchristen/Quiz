@@ -32,7 +32,7 @@
 - [ ] Dass das Volk kein Manna mehr essen wollte und murrte
 - [ ] Dass die Stammesfürsten ihm das Gold verweigerten
 - [ ] Dass die Feinde die Stiftshütte im Lager angriffen
-- [x] Dass er die Mühe und Streitigkeiten nicht allein trug
+- [x] Dass er die Last und die Streitigkeiten nicht allein tragen konnte
 
 **Bibelstelle:** 5. Mose 1:9-12
 **Erklärung:** 
@@ -287,7 +287,7 @@
 **Bibelstelle:** 5. Mose 4:41-43
 **Erklärung:** 
 
-### 29. Wo erneuerte Mose den Bund der Zehn Gebote mit der neuen Generation Israels?
+### 29. Wo hatte der HERR, unser Gott, laut Mose den Bund der Zehn Gebote mit den heute Lebenden geschlossen?
 
 - [ ] Direkt im Allerheiligsten der Stiftshütte
 - [x] Am Berg Horeb schloss Gott diesen Bund mit uns
@@ -357,7 +357,7 @@
 **Bibelstelle:** 5. Mose 5:24-27
 **Erklärung:** 
 
-### 36. Welches fundamentale Bekenntnis richtete Mose mit dem Bekannten „Höre Israel“ an das Volk?
+### 36. Welches grundlegende Bekenntnis richtete Mose mit dem bekannten „Höre, Israel“ an das Volk?
 
 - [x] Der HERR, unser Gott, ist ein einziger HERR
 - [ ] Der HERR ist der Gott aller Könige auf Erden
@@ -389,7 +389,7 @@
 
 ### 39. Wovor warnte Mose das Volk, wenn es in das reiche Erdland kam?
 
-- [ ] Vor den Giftnattern in den Tälern Kanaanitern
+- [ ] Vor den Giftnattern in den Tälern Kanaans
 - [ ] Vor dem Mangel an frischem Wasser in den Brunnen
 - [ ] Vor dem Fehlen von Saatgut für die Felder im Herbst
 - [x] Vor dem Vergessen Gottes im Wohlstand des Landes
@@ -532,7 +532,7 @@
 - [ ] Ein ebenes Wüstenland mit tiefen Brunnen und Oasenpalmen
 - [x] Ein Erdland von Bächen, Quellen, Weizen, Feigen und Erz
 - [ ] Ein Handelsland mit prächtigen Palästen und Goldminen
-- [ ] Ein bewaldetes Bergland voller Weinberge und Zedernholz
+- [ ] Ein bewaldetes Bergland voller Zedern, aber ohne Ackerland
 
 **Bibelstelle:** 5. Mose 8:7-9
 **Erklärung:** 
@@ -662,7 +662,7 @@
 - [ ] Mose schrieb sie mit der Tinte des Zeltes
 - [ ] Aaron der Hohepriester meißelte die Buchstaben
 - [x] Gott Selbst schrieb die zehn Worte wie zuvor
-- [ ] Die siebzig Ältesten schrieben auf den Berg
+- [ ] Die siebzig Ältesten schrieben sie auf dem Berg
 
 **Bibelstelle:** 5. Mose 10:4
 **Erklärung:** 
@@ -717,21 +717,21 @@
 **Bibelstelle:** 5. Mose 11:2-7
 **Erklärung:** 
 
-### 72. Worin unterschied sich das Erdland Kanaan vom Erdlande Ägypten bei der Bewässerung?
+### 72. Womit verglich Mose das Land Ägypten im Gegensatz zum verheißenen Land?
 
-- [x] Mit einem Gemüsegarten, den man mit dem Fuß wässert
+- [x] Mit einem Gemüsegarten, den man mit dem Fuß bewässerte
 - [ ] Mit einer fruchtbaren Oase inmitten von dichten Dattelpalmen
-- [ ] Mit einer dörren Wüste ohne jeglichen Regen im ganzen Jahr
+- [ ] Mit einer dürren Wüste ohne jeglichen Regen im ganzen Jahr
 - [ ] Mit einem felsigen Gebirge ohne Weideplätze für Herden
 
 **Bibelstelle:** 5. Mose 11:10
 **Erklärung:** 
 
-### 73. Worauf richten sich die Augen des HERRN im verheißenen Land Kanaan beständig?
+### 73. Wie beständig ruhen die Augen des HERRN auf dem verheißenen Land Kanaan?
 
-- [ ] Auf das Salböl auf dem Haupt des Hohepriesters im Hof
-- [x] Vom Anfang des Jahres bis zum Ende des Jahres darauf
-- [ ] Auf die festen Mauern der Städte des Stammes Juda
+- [ ] Nur solange das Räucherwerk im Vorhof des Heiligtums brennt
+- [x] Immerdar, vom Anfang bis zum Ende des Jahres
+- [ ] Nur in den Jahren, in denen Israel in den Krieg zieht
 - [ ] Ausschließlich während der drei großen Wallfahrtsfeste
 
 **Bibelstelle:** 5. Mose 11:12
@@ -817,7 +817,7 @@
 **Bibelstelle:** 5. Mose 12:16
 **Erklärung:** 
 
-### 82. Warum ist das Blut eines Tieres nach den Worten der Tora ausdrücklich heilig?
+### 82. Warum durfte das Blut eines Tieres nach dem Gesetz nicht gegessen werden?
 
 - [ ] Weil im Blut die Kraft des Salböls wirkt
 - [ ] Weil das Blut den Altar vor Verfall schützt
@@ -867,12 +867,12 @@
 **Bibelstelle:** 5. Mose 13:3
 **Erklärung:** 
 
-### 87. Wer sollte gesteinigt werden, wenn er heimlich zum Abfall vom HERRN verführte?
+### 87. Was war gefordert, wenn ein naher Angehöriger heimlich zum Dienst fremder Götter verleitete?
 
 - [ ] Man sollte die Sache vor der Familie verschweigen
 - [ ] Man sollte ihn mit Geld aus dem Lande schicken
 - [ ] Man sollte für ihn ein privates Sündopfer bringen
-- [x] Du sollst ihm nicht einwilligen und ihn anzeigen
+- [x] Nicht einwilligen, ihn nicht verbergen; deine Hand soll als erste an ihm sein, ihn zu töten
 
 **Bibelstelle:** 5. Mose 13:6-9
 **Erklärung:** 
@@ -1010,7 +1010,7 @@
 ### 101. Welche Verheißung gab Gott bezüglich der Armut, wenn das Volk den Geboten gehorchte?
 
 - [ ] Jeder Knecht sollte nach drei Jahren freigelassen werden
-- [x] Es soll gar kein Armer unter dir sein im guten Erdlande
+- [x] Es sollte gar kein Bedürftiger unter euch sein im Erdlande
 - [ ] Die Zinsen für geliehenes Silber sollten halbiert werden
 - [ ] Alle Zehnten sollten ausschließlich an die Witwen gehen
 
@@ -1130,7 +1130,7 @@
 ### 113. Welcher Mangel an einem Opfertier machte die Darbringung vor Gott zum Gräuel?
 
 - [ ] Ein dunkles Fell bei einem Schaf oder einer Ziege
-- [x] Ein Blinder, lahmender oder fehlerhafter Zustand
+- [x] Irgendein Mangel oder sonst etwas Böses an dem Tier
 - [ ] Ein zu hohes Alter des Stieres oder Widders
 - [ ] Eine fehlende Kennzeichnung am Ohr des Tieres
 
@@ -1159,7 +1159,7 @@
 
 ### 116. Wohin sollten schwierige Rechtsfälle gebracht werden, die vor Ort NICHT lösbar waren?
 
-- [x] An die von Gott erwählte Zentrale Stätte
+- [x] An den Ort, den Gott erwählen wird, zu den Priestern und dem Richter
 - [ ] An die Grenze des Nachbarstammes
 - [ ] In das Zelt des ältesten Stammesfürsten
 - [ ] Zur Entscheidung an den König Moabs
@@ -1231,7 +1231,7 @@
 
 - [ ] Das Tätowieren von heidnischen Zeichen
 - [ ] Das Verkaufen von Kindern an Fremde
-- [ ] Das Verweigern des Namens am achten Tag
+- [ ] Das Verweigern der Beschneidung am achten Tag
 - [x] Das Durchs-Feuer-Lassen von Sohn oder Tochter
 
 **Bibelstelle:** 5. Mose 18:10
@@ -1271,7 +1271,7 @@
 
 - [ ] Hohe Wachtürme an den Toren zu errichten
 - [ ] Silberne Signaltrompeten auf den Mauern blasen
-- [ ] Wasserbrände entlang der Grenzen anlegen
+- [ ] Wassergräben entlang der Grenzen anlegen
 - [x] Du sollst dir den Weg dorthin zubereiten
 
 **Bibelstelle:** 5. Mose 19:3
@@ -1357,9 +1357,9 @@
 **Bibelstelle:** 5. Mose 20:5
 **Erklärung:** 
 
-### 136. Welche zwei weiteren Gründe befreiten einen Mann rechtmäßig vom Kriegsdienst?
+### 136. Welche weiteren Gründe befreiten einen Mann rechtmäßig vom Kriegsdienst?
 
-- [x] Ein neuer Weinberg ohne Ernte und eine Verlobte
+- [x] Ein neuer Weinberg ohne Ernte, eine Verlobte oder ein verzagtes Herz
 - [ ] Ein hoher Viehbestand oder Altersschwäche
 - [ ] Das Amt des Richters oder der Priesterdienst
 - [ ] Ein fehlendes Pferd oder mangelnder Helm
@@ -1377,7 +1377,7 @@
 **Bibelstelle:** 5. Mose 20:10-11
 **Erklärung:** 
 
-### 138. Welches unerbittliche Gebot galt für die Städte der sieben heidnischen Völker Kanaaniter?
+### 138. Welches unerbittliche Gebot galt für die Städte der Völker Kanaans, die Gott Israel zum Erbe gab?
 
 - [ ] Sie durften Frieden schließen und Bündnisse eingehen
 - [ ] Nur die kriegstauglichen Männer mussten getötet werden
@@ -1387,7 +1387,7 @@
 **Bibelstelle:** 5. Mose 20:16-17
 **Erklärung:** 
 
-### 139. Warum verlangte Gott die vollkommene Ausrottung der heidnischen Völker Kanaaniter?
+### 139. Warum verlangte Gott die vollkommene Ausrottung der heidnischen Völker Kanaans?
 
 - [ ] Um ihre reichen Schätze allein zu besitzen
 - [ ] Weil sie das Land völlig verwüstet hatten
@@ -1467,7 +1467,7 @@
 **Bibelstelle:** 5. Mose 21:23
 **Erklärung:** 
 
-### 147. Was taten die Ältesten der Nächstgelegenen Stadt zum Zeichen ihrer Schuldlosigkeit?
+### 147. Was taten die Ältesten der nächstgelegenen Stadt zum Zeichen ihrer Schuldlosigkeit?
 
 - [ ] Sie brachten ein feierliches Speisopfer am Altar dar
 - [ ] Sie schütteten Asche über ihre Häupter vor allen
@@ -1837,12 +1837,12 @@
 **Bibelstelle:** 5. Mose 27:2-3
 **Erklärung:** 
 
-### 184. Welches Eisenwerkzeug durfte beim Bau des Altars auf dem Berg Ebal keinesfalls verwendet werden?
+### 184. Welche Vorschrift galt für die Steine des Altars auf dem Berg Ebal?
 
-- [x] Du sollst kein eisernes Werkzeug darüber schwingen
-- [ ] Ein eiserner Hammer zum Zertrümmern der Steine
-- [ ] Ein kupferner Meißel der heidnischen Steinmetze
-- [ ] Eine eiserne Säge zur Glättung der Blöcke
+- [x] Über die Steine sollte man kein Eisen schwingen
+- [ ] Sie mussten mit eisernen Hämmern behauen werden
+- [ ] Sie mussten mit kupfernen Meißeln geglättet werden
+- [ ] Sie mussten aus dem Land Ägypten mitgebracht werden
 
 **Bibelstelle:** 5. Mose 27:5
 **Erklärung:** 
@@ -1940,9 +1940,9 @@
 ### 194. Welches schreckliche Gebrechen beschreibt die Fluchandrohung für den Geisteszustand des abtrünnigen Volkes?
 
 - [ ] Gott wird dich mit dauerhaftem Stummsein und Taubheit schlagen
-- [ ] Gott wird dein Gedächtnis vollkommen auslöschen und leeren
+- [ ] Gott lässt dich die Sprache deiner Väter gänzlich vergessen
 - [x] Gott schlägt dich mit Wahnsinn, Blindheit und Verwirrung
-- [ ] Gott verleiht deinen Fürsten blinde und verblendete Augen
+- [ ] Gott liefert deine Fürsten einem trügerischen Friedenswahn aus
 
 **Bibelstelle:** 5. Mose 28:28-29
 **Erklärung:** 
@@ -2287,17 +2287,17 @@
 **Bibelstelle:** 5. Mose 33:13-17
 **Erklärung:** 
 
-### 229. Welches Metall wird im Segen für den Stamm Asser für seine Riegel an den Toren verheißen?
+### 229. Welche Metalle werden Asser im Segen Moses für sein Schuhwerk verheißen?
 
 - [ ] Massives Silber von den Inseln
-- [x] Eisen und Erz sollen deine Riegel sein
-- [ ] Pures Gold aus den Schätzen Ophis
+- [x] Eisen und Kupfer seien dein Schuhwerk
+- [ ] Pures Gold aus den Schätzen Ophirs
 - [ ] Geharztes Akazienholz der Wüste
 
 **Bibelstelle:** 5. Mose 33:25
 **Erklärung:** 
 
-### 230. Mit welchen trostreichen Worten über den ewigen Gott schließt der Segen Moses?
+### 230. Welche trostreichen Worte über den ewigen Gott finden sich gegen Ende des Segens Moses?
 
 - [ ] Gott thront auf den Höhen der Berge Kanaan
 - [ ] Der HERR wohnt im Zelt mitten im Lager

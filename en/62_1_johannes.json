@@ -231,7 +231,7 @@
       "questionId": "1joh_007",
       "type": "single_choice",
       "difficulty": "medium",
-      "text": "Hereby do we know that we know him in 1 John 2:3?",
+      "text": "Whereby do we know that we know him according to 1 John 2:3?",
       "bibleReference": "1 John 2:3-4",
       "correctAnswers": [
         3
@@ -537,14 +537,14 @@
       "questionId": "1joh_016",
       "type": "single_choice",
       "difficulty": "easy",
-      "text": "Hereby know ye the Spirit of God in 1 John 4:2?",
+      "text": "Whereby know ye the Spirit of God according to 1 John 4:2?",
       "bibleReference": "1 John 4:1-3",
       "correctAnswers": [
         0
       ],
       "options": [
         {
-          "text": "Every spirit that confesseth Jesus Christ come in flesh",
+          "text": "He confesseth that Jesus Christ is come in the flesh",
           "isCorrect": true,
           "explanation": ""
         },
@@ -639,14 +639,14 @@
       "questionId": "1joh_019",
       "type": "single_choice",
       "difficulty": "medium",
-      "text": "Herein is love according to 1 John 4:10?",
+      "text": "Wherein is love according to 1 John 4:10?",
       "bibleReference": "1 John 4:10",
       "correctAnswers": [
         3
       ],
       "options": [
         {
-          "text": "That we first loved God with all our heart and received his grace",
+          "text": "That we first loved God with all our heart, and he therefore heard us",
           "isCorrect": false,
           "explanation": ""
         },
@@ -661,7 +661,7 @@
           "explanation": ""
         },
         {
-          "text": "Not that we loved God, but he loved us, and sent his Son for us",
+          "text": "That he loved us, and sent his Son to be the propitiation",
           "isCorrect": true,
           "explanation": ""
         }
@@ -843,7 +843,7 @@
       "questionId": "1joh_025",
       "type": "single_choice",
       "difficulty": "easy",
-      "text": "What do little children hear in 1 John 5:21?",
+      "text": "Against what doth John warn the little children in 1 John 5:21?",
       "bibleReference": "1 John 5:21",
       "correctAnswers": [
         1
@@ -855,7 +855,7 @@
           "explanation": ""
         },
         {
-          "text": "Keep yourselves from idols always",
+          "text": "Keep yourselves from idols",
           "isCorrect": true,
           "explanation": ""
         },
@@ -865,7 +865,7 @@
           "explanation": ""
         },
         {
-          "text": "Keep yourselves from worldly crowns",
+          "text": "Keep yourselves from strange teachers",
           "isCorrect": false,
           "explanation": ""
         }

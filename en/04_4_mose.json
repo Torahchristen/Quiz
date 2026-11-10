@@ -32,19 +32,19 @@
           "explanation": ""
         },
         {
-          "text": "Upon the burning mount of sacred Sinai",
+          "text": "Upon the smoking top of mount Sinai",
           "id": "opt_2",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "At the foot of Mount Horeb in the desert",
+          "text": "At Elim by the twelve wells of water",
           "id": "opt_3",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "In the plains of Moab opposite to Jericho",
+          "text": "At Kadesh-barnea in the wilderness",
           "id": "opt_4",
           "isCorrect": false,
           "explanation": ""
@@ -254,25 +254,25 @@
       "text": "Which tribe had the smallest number of fighting men at the first census in the wilderness of Sinai?",
       "options": [
         {
-          "text": "The tribe of Benjamin numbering thirty-five thousand",
+          "text": "The tribe of Benjamin numbering thirty and five thousand and four hundred",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "The tribe of Zebulun numbering fifty-seven thousand",
+          "text": "The tribe of Zebulun numbering fifty and seven thousand and four hundred",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "The tribe of Manasseh numbering thirty-two thousand two hundred",
+          "text": "The tribe of Manasseh numbering thirty and two thousand and two hundred",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": true
         },
         {
-          "text": "The tribe of Gad numbering forty-five thousand six hundred",
+          "text": "The tribe of Gad numbering forty and five thousand six hundred and fifty",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -368,7 +368,7 @@
       "text": "Which tribe led the three-tribe division encamped on the south side of the tabernacle?",
       "options": [
         {
-          "text": "The tribe of Levi pitching before the sanctuary",
+          "text": "The tribe of Levi round about the tabernacle",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -973,7 +973,7 @@
       "questionId": "num_026",
       "type": "single_choice",
       "difficulty": "easy",
-      "text": "What kind of cloth was first spread over the table of shewbread when the camp set forward?",
+      "text": "With what was the table of shewbread first covered when the camp set forward, before the vessels were put thereon?",
       "options": [
         {
           "text": "A covering of rams' skins dyed red for protection",
@@ -1280,7 +1280,7 @@
       "text": "What physical judgment came upon an unfaithful wife after drinking the bitter water of curse?",
       "options": [
         {
-          "text": "She was instantly smitten with white leprosy from head to foot",
+          "text": "She was instantly smitten with leprosy",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -1318,7 +1318,7 @@
       "text": "What was the outcome if the accused woman was NOT defiled, but clean before the LORD?",
       "options": [
         {
-          "text": "Her husband paid her twenty pieces of silver in restitution",
+          "text": "She had to pay a ransom unto her husband",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -1526,7 +1526,7 @@
           "isCorrect": false
         },
         {
-          "text": "The LORD bless thee, and keep thee in all thy ways",
+          "text": "The LORD bless thee, and keep thee",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": true
@@ -2534,7 +2534,7 @@
       "text": "What promise did God give when an alarm was blown with the trumpets against oppressors?",
       "options": [
         {
-          "text": "The enemy hosts would instantly be smitten with blindness",
+          "text": "The enemy hosts would instantly be smitten with confusion",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -2920,7 +2920,7 @@
           "isCorrect": true
         },
         {
-          "text": "The congregation kept a seven-day feast of rejoicing",
+          "text": "The people thanked the LORD with a great feast of joy",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -3253,7 +3253,7 @@
       "questionId": "num_086",
       "type": "single_choice",
       "difficulty": "easy",
-      "text": "What ruler of the tribe of Ephraim did Moses rename Jehoshua before sending out the spies?",
+      "text": "Which of the spies did Moses rename Jehoshua before sending them out?",
       "options": [
         {
           "text": "Caleb the son of Jephunneh from the tribe of Judah",
@@ -3408,25 +3408,25 @@
       "text": "What evil report did the ten fearful spies bring up concerning the land of Canaan?",
       "options": [
         {
-          "text": "That the land was utterly parched and devoid of water",
+          "text": "They called it a barren land full of stones",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "It is a land that eateth up the inhabitants thereof",
+          "text": "A land that eateth up the inhabitants thereof, with men of great stature",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": true
         },
         {
-          "text": "That the cities were desolate and stricken with plague",
+          "text": "That the rivers were poisoned by their enemies",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "That the forests were infested with venomous serpents",
+          "text": "That there were neither vines nor sweet fig trees",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -3762,7 +3762,7 @@
           "isCorrect": false
         },
         {
-          "text": "The Amalekites and Canaanites smote and discomfited them",
+          "text": "The Amalekites and Canaanites smote them unto Hormah",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": true
@@ -3779,7 +3779,7 @@
       ],
       "explanation": "",
       "explanationReviewed": false,
-      "bibleReference": "Numbers 14:45"
+      "bibleReference": "Numbers 14:44-45"
     },
     {
       "questionId": "num_100",
@@ -3984,7 +3984,7 @@
           "isCorrect": true
         },
         {
-          "text": "Small plates of polished silver inscribed with the law",
+          "text": "Small plates of stamped silver",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -4089,7 +4089,7 @@
       "questionId": "num_108",
       "type": "single_choice",
       "difficulty": "easy",
-      "text": "What defiant reply did Dathan and Abiram return when Moses sent to call them to the tabernacle?",
+      "text": "What reply did Dathan and Abiram return when Moses sent to call them?",
       "options": [
         {
           "text": "They demanded to be invested in the high priestly vestments",
@@ -4098,19 +4098,19 @@
           "isCorrect": false
         },
         {
-          "text": "They required a restitution of hundred silver shekels",
+          "text": "They demanded a great fine at the altar",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "They appealed to the princes of the camp for armed help",
+          "text": "They besought all the people for help",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "They obstinately declared, We will NOT come up unto thee",
+          "text": "They said, We will not come up",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": true
@@ -4402,7 +4402,7 @@
           "isCorrect": false
         },
         {
-          "text": "Why hast thou brought us up out of Egypt to die in desert?",
+          "text": "Why hast thou brought us up out of Egypt into this wilderness?",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -4414,7 +4414,7 @@
           "isCorrect": false
         },
         {
-          "text": "Behold, we die, we perish, we all perish before the LORD!",
+          "text": "Behold, we die, we perish, we all perish.",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": true
@@ -4697,28 +4697,28 @@
       "questionId": "num_124",
       "type": "single_choice",
       "difficulty": "medium",
-      "text": "What territorial inheritance was given unto Aaron and the priests in the land of Canaan?",
+      "text": "What inheritance did Aaron receive in the land of the children of Israel?",
       "options": [
         {
-          "text": "The fertile pasturelands in the southern borders of Judah",
+          "text": "The most fruitful farmland in the hill country of Judah",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "The finest fortified cities along the banks of the Jordan",
+          "text": "All the pasture land along the river Jordan",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "A double portion taken from the fruitful allotment of Judah",
+          "text": "Fifty fenced cities with their suburbs",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "NO inheritance in the land, for the LORD was their part",
+          "text": "The LORD himself was his part and his inheritance",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": true
@@ -5267,28 +5267,28 @@
       "questionId": "num_139",
       "type": "single_choice",
       "difficulty": "medium",
-      "text": "How did the king of Edom respond to Israel's peaceful request to pass through his highway?",
+      "text": "What did the king of Edom answer when Israel wished to pass through his land?",
       "options": [
         {
-          "text": "He welcomed his brethren of Israel with gifts of grain",
+          "text": "He demanded half of the captured silver as toll",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "He demanded double payment for every measure of water drawn",
+          "text": "He opened the wells and kindly showed them the way",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "He refused passage and came out with much people and a strong hand",
+          "text": "Thou shalt not pass by me, lest I come out against thee with the sword",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": true
         },
         {
-          "text": "He permitted only the priests and elders to walk through",
+          "text": "He made an everlasting covenant of peace with Moses at the border",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -5364,7 +5364,7 @@
           "isCorrect": false
         },
         {
-          "text": "They would build a large stone altar upon the battlefield",
+          "text": "They would build an altar of unhewn stones",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -5504,13 +5504,13 @@
           "isCorrect": true
         },
         {
-          "text": "A request to purchase timber and stones for their wagons",
+          "text": "A request for timber and stones for building the camp",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "Permission to pitch their camp around the fountains of water",
+          "text": "A request to buy water and corn along the way",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
@@ -5554,7 +5554,7 @@
           "isCorrect": false
         },
         {
-          "text": "From the children of Ammon occupying the northern border",
+          "text": "From the king of the children of Ammon on the northern border",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -5761,7 +5761,7 @@
       "questionId": "num_152",
       "type": "single_choice",
       "difficulty": "hard",
-      "text": "Why was God's anger kindled when Balaam rose up in the morning and went with the princes?",
+      "text": "Why was God's anger kindled against Balaam on his way to Moab?",
       "options": [
         {
           "text": "Because he forgot to offer his morning sacrifice on the road",
@@ -5782,7 +5782,7 @@
           "isCorrect": false
         },
         {
-          "text": "Because he went, and the angel of the LORD stood in his way",
+          "text": "Because he went with the princes of Moab",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": true
@@ -5878,13 +5878,13 @@
       "text": "What did the angel of the LORD declare unto Balaam after his eyes were opened to see him?",
       "options": [
         {
-          "text": "That he must immediately return in shame to his native city",
+          "text": "That he must return at once unto Pethor",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "That Balak was secretly planning to destroy him upon the mount",
+          "text": "That Balak would make a league with Israel",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -5896,7 +5896,7 @@
           "isCorrect": true
         },
         {
-          "text": "That the princes of Moab had lied regarding their king's reward",
+          "text": "That the princes of Moab had deceived him",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -6378,7 +6378,7 @@
           "isCorrect": false
         },
         {
-          "text": "He pleaded with Balaam to prepare an eighth set of altars",
+          "text": "He besought Balaam to offer a fourth time",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -6752,7 +6752,7 @@
       "text": "What was the total number of the children of Israel numbered in the second census in Moab?",
       "options": [
         {
-          "text": "Six hundred thousand and three thousand five hundred fifty",
+          "text": "Six hundred thousand and three hundred and fifty",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -7094,25 +7094,25 @@
       "text": "Unto which mountain was Moses commanded to go up and see the land before his death?",
       "options": [
         {
-          "text": "Unto Mount Sinai in the midst of the southern desert",
+          "text": "Unto mount Sinai in the wilderness",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "Unto Mount Hor bordering the rugged borders of Edom",
+          "text": "Unto mount Hor by the border of Edom",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "Get thee up into this mount Abarim in the land of Moab",
+          "text": "Unto this mount Abarim (Nebo)",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": true
         },
         {
-          "text": "Unto Mount Carmel overlooking the waters of the great sea",
+          "text": "Unto mount Hermon in the north",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -7121,8 +7121,8 @@
       "correctAnswers": [
         2
       ],
-      "explanation": "",
-      "explanationReviewed": false,
+      "explanation": "Mount Nebo, from which Moses later viewed the land, belongs to the mountains of Abarim (Deuteronomy 32:49). Numbers 27:12 names only mount Abarim.",
+      "explanationReviewed": true,
       "bibleReference": "Numbers 27:12"
     },
     {
@@ -7664,7 +7664,7 @@
       "text": "How many young bullocks were offered on the seventh day of the feast of tabernacles?",
       "options": [
         {
-          "text": "Only one single bullock sacrificed upon the holy altar",
+          "text": "Exactly one bullock for the solemn close of the feast",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -7676,13 +7676,13 @@
           "isCorrect": true
         },
         {
-          "text": "Exactly three bullocks representing the three great fathers",
+          "text": "Exactly five bullocks for the princes of the tribes",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "Twelve young bullocks representing the twelve tribal houses",
+          "text": "Exactly ten bullocks according to the law",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -8088,7 +8088,7 @@
           "isCorrect": true
         },
         {
-          "text": "Balak the king of Moab who had hired diviners from Aram",
+          "text": "Balak the king of Moab, who had hired Balaam",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -8611,28 +8611,28 @@
       "questionId": "num_227",
       "type": "single_choice",
       "difficulty": "medium",
-      "text": "What would the inhabitants of the land become unto Israel if they were NOT driven out?",
+      "text": "What threatened Israel if they did NOT drive out the inhabitants of the land?",
       "options": [
         {
-          "text": "Faithful servants tilling the vineyards and olive orchards",
+          "text": "The enemies would lay heavy tribute upon them",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "Helpful allies assisting Israel in wars against foreign kings",
+          "text": "A grievous famine would come upon the land",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "Pricks in your eyes, and thorns in your sides to vex you",
+          "text": "Those left would be pricks in their eyes and thorns in their sides",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": true
         },
         {
-          "text": "An easy spoil for the neighboring nomadic tribes of the desert",
+          "text": "The ark of the covenant would be taken by enemies",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -8766,25 +8766,25 @@
       "text": "Which two leaders were appointed by name to divide the land of Canaan for an inheritance?",
       "options": [
         {
-          "text": "Moses the prophet and Joshua the captain of the host",
+          "text": "Caleb the son of Jephunneh and Phinehas the priest",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "Caleb the son of Jephunneh and Phinehas the priest of God",
+          "text": "Moses the prophet and Aaron the high priest",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "Eleazar the priest, and Joshua the son of Nun to divide",
+          "text": "Eleazar the priest, and Joshua the son of Nun",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": true
         },
         {
-          "text": "Ithamar the priest and Hobab the Midianite desert guide",
+          "text": "The two princes of the tribes of Judah and Benjamin",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -8804,19 +8804,19 @@
       "text": "Who was appointed to assist Eleazar and Joshua in dividing the land among the tribes?",
       "options": [
         {
-          "text": "The seventy elders who had served throughout the wilderness",
+          "text": "The Levites that bare the ark of the covenant",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "All the chief captains commanding thousands in the armies",
+          "text": "The seventy elders that judged the people",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "The appointed scribes chosen from the families of the Levites",
+          "text": "The captains over thousands, men expert in war",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
@@ -9143,28 +9143,28 @@
       "questionId": "num_241",
       "type": "single_choice",
       "difficulty": "easy",
-      "text": "What concern did the chief fathers of Gilead raise concerning the daughters of Zelophehad?",
+      "text": "What did the chief fathers of the families of Gilead complain of concerning the land?",
       "options": [
         {
-          "text": "That their inheritance be taken and put to another tribe",
+          "text": "That the inheritance of Zelophehad's daughters would pass to other tribes",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": true
         },
         {
-          "text": "That the daughters would sell their land unto foreign buyers",
+          "text": "That the Levites claimed too many of their cities",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "That they would refuse to pay their tithes unto the Levites",
+          "text": "That they had too little pasture for their many cattle",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "That they would migrate away into the peaceful plains of Moab",
+          "text": "That the Canaanites refused to yield up their strongholds",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -9202,7 +9202,7 @@
           "isCorrect": false
         },
         {
-          "text": "They had to sell their territorial possessions to their cousins",
+          "text": "They had to sell their inheritance unto their nearest brethren",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false

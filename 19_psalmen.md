@@ -539,9 +539,9 @@
 ### 54. Was spricht der Beter nach Psalm 56:8 zu Gott über seine Tränen?
 
 - [x] Fasse meine Tränen in deinen Krug
-- [ ] Fasse meine Tränen in deinen Schlauch
+- [ ] Gieße meine Tränen aus auf deinen Altar
 - [ ] Wische meine Tränen mit deiner Hand ab
-- [ ] Bewahre meine Tränen in deinem Buch
+- [ ] Wasche meine Tränen ab in deinem Brunnen
 
 **Bibelstelle:** Psalmen 56:8
 **Erklärung:** 
@@ -609,9 +609,9 @@
 ### 61. Was tat der HERR nach Psalm 107:29 mit dem Ungewitter?
 
 - [ ] Er vertreibt das Ungewitter, dass die Wolken verfliegen
-- [ ] Er stillt das Ungewitter, dass sich die Wellen legen
+- [x] Er stillt das Ungewitter, dass sich die Wellen legen
 - [ ] Er gebietet dem Ungewitter, dass der Regen aufhört
-- [x] Er verwandelt das Ungewitter, dass sanfter Wind weht
+- [ ] Er verwandelt das Ungewitter, dass sanfter Wind weht
 
 **Bibelstelle:** Psalmen 107:29
 **Erklärung:** 
@@ -629,9 +629,9 @@
 ### 63. Was sagt der HERR nach Psalm 110:4 über den Gesalbten?
 
 - [ ] Du bist ein König ewiglich über alle Völker der ganzen Erde
-- [x] Du bist ein Richter ewiglich im Hause und Geschlecht Davids
+- [ ] Du bist ein Richter ewiglich im Hause und Geschlecht Davids
 - [ ] Du bist ein Prophet ewiglich nach dem Vorbild des Mose
-- [ ] Du bist ein Priester ewiglich nach der Weise Melchisedeks
+- [x] Du bist ein Priester ewiglich nach der Weise Melchisedeks
 
 **Bibelstelle:** Psalmen 110:4
 **Erklärung:** 
@@ -678,7 +678,7 @@
 
 ### 68. Wozu ist nach Psalm 118:22 der Stein geworden, den die Bauleute verworfen haben?
 
-- [ ] Zum Schlussstein
+- [ ] Zum Gedenkstein
 - [ ] Zum Prellstein
 - [x] Zum Eckstein
 - [ ] Zum Grundstein
@@ -738,8 +738,8 @@
 
 ### 74. Worüber freute sich der Beter nach Psalm 122:1?
 
-- [x] Über die Worte: „Wir wollen zur heiligen Stadt ziehen“
-- [ ] Über die Worte: „Wir wollen ins Haus des HERRN gehen“
+- [ ] Über die Worte: „Wir wollen zur heiligen Stadt ziehen“
+- [x] Über die Worte: „Wir wollen ins Haus des HERRN gehen“
 - [ ] Über die Worte: „Wir wollen dem König die Treue schwören“
 - [ ] Über die Worte: „Wir wollen am Altar ein Opfer darbringen“
 
@@ -756,7 +756,7 @@
 **Bibelstelle:** Psalmen 126:5
 **Erklärung:** 
 
-### 76. Wer baut nach Psalm 127:1 umsonst, wenn der HERR das Haus NICHT baut?
+### 76. Was geschieht nach Psalm 127:1, wenn der HERR das Haus NICHT baut?
 
 - [ ] Dann bleibt das Haus ohne Segen und Frieden
 - [ ] Dann wird kein Mensch darin wohnen können
@@ -776,7 +776,7 @@
 **Bibelstelle:** Psalmen 127:3
 **Erklärung:** 
 
-### 78. Wohin ruft der Beter nach Psalm 130:1 zu dem HERRN?
+### 78. Woher ruft der Beter nach Psalm 130:1 zu dem HERRN?
 
 - [x] Aus der Tiefe
 - [ ] Aus der Not
@@ -806,14 +806,14 @@
 **Bibelstelle:** Psalmen 137:1
 **Erklärung:** 
 
-### 81. Wohin kann der Beter nach Psalm 139:7 vor dem Geist des HERRN fliehen?
+### 81. Wohin kann der Beter nach Psalm 139:7-10 vor dem Geist des HERRN fliehen?
 
 - [ ] Auf die hohen Berge, wo kein Sterblicher den verborgenen Pfad findet
 - [ ] In die öde Wüste, wo kein Mensch die einsame Spur entdecken kann
 - [ ] In die finstere Nacht, wo kein einziges Licht die Schritte erhellt
 - [x] Nirgendwohin, denn Gott ist im Himmel, in der Hölle und am Meer
 
-**Bibelstelle:** Psalmen 139:7
+**Bibelstelle:** Psalmen 139:7-10
 **Erklärung:** 
 
 ### 82. Wofür dankt der Beter nach Psalm 139:14 dem HERRN?
@@ -871,7 +871,7 @@
 - [ ] Er hängt sie auf und gibt ihnen ihre Bahnen
 - [x] Er zählt sie und nennt sie alle mit Namen
 - [ ] Er sät sie aus und lässt sie leuchten
-- [ ] Er ruft sie und stellt sie auf ihren Platz
+- [ ] Er sammelt sie und stellt sie an ihren Ort
 
 **Bibelstelle:** Psalmen 147:4
 **Erklärung:** 
@@ -909,7 +909,7 @@
 ### 91. Wie nennt Psalm 18:30 die Wege Gottes?
 
 - [x] Vollkommen
-- [ ] Untadelig
+- [ ] Unerforschlich
 - [ ] Wunderbar
 - [ ] Verborgen
 
@@ -1059,7 +1059,7 @@
 ### 106. Was ist nach Psalm 63:3 besser als Leben?
 
 - [ ] Die Treue des HERRN
-- [ ] Die Gnade des HERRN
+- [ ] Die Macht des HERRN
 - [ ] Die Weisheit des HERRN
 - [x] Die Güte des HERRN
 
@@ -1071,7 +1071,7 @@
 - [x] Seines Herzens Trost und sein Teil
 - [ ] Seines Weges Licht und sein Fels
 - [ ] Seiner Seele Ruhe und sein Hirte
-- [ ] Seines Lebens Kraft und sein Schild
+- [ ] Seines Armes Kraft und sein Schild
 
 **Bibelstelle:** Psalmen 73:26
 **Erklärung:** 
@@ -1179,7 +1179,7 @@
 ### 118. Was ist nach Psalm 118:8 gut?
 
 - [ ] Dem HERRN zu danken und sich nicht von den Gottlosen zu entfernen
-- [ ] Dem HERRN zu opfern und sich nicht von Götzen zu verführen zu lassen
+- [ ] Dem HERRN zu opfern und sich nicht von Götzen verführen zu lassen
 - [ ] Dem HERRN zu dienen und sich nicht auf Reichtum zu stützen
 - [x] Auf den HERRN zu vertrauen und sich nicht auf Menschen zu verlassen
 

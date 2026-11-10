@@ -179,7 +179,7 @@
 
 ### 18. Welcher Bruder überbringt den Kolossern Bericht über Paulus (Kolosser 4:7)?
 
-- [ ] Timothy, der junge Mitarbeiter, der Paulus treu diente
+- [ ] Timotheus, der junge Mitarbeiter, der Paulus treu diente
 - [ ] Titus aus Griechenland, der Paulus auf Reisen begleitete
 - [x] Tychikus, der geliebte Bruder, treue Diener und Mitknecht
 - [ ] Barnabas aus Zypern, der einst mit Paulus gewirkt hatte

@@ -667,7 +667,7 @@
     {
       "questionId": "ex_018",
       "type": "single_choice",
-      "text": "Welchen praktischen Rat gab Jethro seinem Schwiegervater Mose zur Bewältigung der Rechtsprechung?",
+      "text": "Welchen praktischen Rat gab Jethro seinem Schwiegersohn Mose zur Bewältigung der Rechtsprechung?",
       "options": [
         {
           "text": "Er sollte alle Rechtsfälle allein bis zum Abend hin entscheiden",
@@ -743,7 +743,7 @@
     {
       "questionId": "ex_020",
       "type": "single_choice",
-      "text": "Welches Gebot der Zehn Gebote fordert, Vater und Mutter wertzuschätzen, mit einer Verheißung?",
+      "text": "Welches der Zehn Gebote fordert nach jüdischer und reformierter Zählung, Vater und Mutter wertzuschätzen, mit einer Verheißung?",
       "options": [
         {
           "text": "Das dritte Gebot über den heiligen Namen des HERRN auf der Tafel",
@@ -774,8 +774,8 @@
         1
       ],
       "bibleReference": "2. Mose 20:12",
-      "explanation": "",
-      "explanationReviewed": false,
+      "explanation": "Nach lutherischer und katholischer Zählung, die das Bilderverbot zum ersten Gebot rechnet, ist das Elterngebot das vierte und das Sabbatgebot das dritte Gebot.",
+      "explanationReviewed": true,
       "difficulty": "medium"
     },
     {
@@ -933,7 +933,7 @@
     {
       "questionId": "ex_025",
       "type": "single_choice",
-      "text": "Aus welchem Holz sollten die Bundeslade und die Tische der Stiftshütte angefertigt werden?",
+      "text": "Aus welchem Holz sollten die Bundeslade und der Schaubrottisch der Stiftshütte angefertigt werden?",
       "options": [
         {
           "text": "Aus dem Holz der stolzen Libanonzeder",
@@ -1582,7 +1582,7 @@
       "text": "Aus welchem Grund hörten die Söhne Israel nicht auf die Errettungszusage durch Mose?",
       "options": [
         {
-          "text": "Wegen des Fehlens von sichtbaren Wundzeichen im Lager",
+          "text": "Wegen des Fehlens von sichtbaren Wunderzeichen im Lager",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -1696,25 +1696,25 @@
       "text": "Wer war der leibliche Vater von Mose und Aaron aus dem Stamm Levi?",
       "options": [
         {
-          "text": "Kehat der Sohn Levis aus Ägypten",
+          "text": "Kehat, der Sohn Levis",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "Jhar der Bruder Kehats aus Kanaan",
+          "text": "Jizhar, der Sohn Kehats",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "Amram der Urgroßsohn des Patriarchen",
+          "text": "Amram, der Sohn Kehats",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": true
         },
         {
-          "text": "Ussiel der jüngste Sohn der Sippe Levis",
+          "text": "Ussiel, der jüngste Sohn Kehats",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -1807,7 +1807,7 @@
     {
       "questionId": "ex_048",
       "type": "single_choice",
-      "text": "In welches Verhältnis setzte Gott den Propheten Aaron zu seinem Bruder Mose?",
+      "text": "In welches Verhältnis setzte Gott Mose und seinen Bruder Aaron gegenüber dem Pharao?",
       "options": [
         {
           "text": "Aaron wurde zum Heeresführer bestimmt und Mose zum Priester",
@@ -2234,7 +2234,7 @@
           "isCorrect": false
         },
         {
-          "text": "Dass dieses Wundzeichen eindeutig der Finger Gottes sei",
+          "text": "Dass dieses Wunderzeichen eindeutig der Finger Gottes sei",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": true
@@ -2681,7 +2681,7 @@
     {
       "questionId": "ex_073",
       "type": "single_choice",
-      "text": "Wie beschaffte sich die neunte Plage der Finsternis ihren Raum über Ägypten?",
+      "text": "Wie wurde die neunte Plage der Finsternis über Ägypten herbeigeführt?",
       "options": [
         {
           "text": "Durch eine Sonnenfinsternis, die wenige Stunden andauerte",
@@ -3520,7 +3520,7 @@
       "text": "Welches Zeichen wies dem Volk Israel in der Dunkelheit der Nacht den Weg durch die Wüste?",
       "options": [
         {
-          "text": "Das Leuchten des Sternsbildes am Himmel",
+          "text": "Das Leuchten eines Sternbildes am Himmel",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -3710,7 +3710,7 @@
       "text": "Was geschah mit den Streitwagen der Ägypter, als sie Israel in das Meer folgten?",
       "options": [
         {
-          "text": "Er stieß die Räder von ihren Wagen und trieb sie ins Gedränge",
+          "text": "Ein Sturm warf die Wagen um und zerschmetterte sie",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -3728,7 +3728,7 @@
           "isCorrect": false
         },
         {
-          "text": "Gott hemmte die Räder, sodass sie schwer gewohnt waren",
+          "text": "Gott stieß die Räder von ihren Wagen, sodass sie nur mühsam vorankamen",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": true
@@ -3786,13 +3786,13 @@
       "text": "Welches Instrument nahm Miriam die Prophetin beim Jubelgesang am Schilfmeer?",
       "options": [
         {
-          "text": "Eine wohlklingende Handpauke in ihre Hand",
+          "text": "Eine silberne Trompete der Priester",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "Eine Handpauke in ihre rechte Hand",
+          "text": "Eine Handpauke (Tamburin) in ihre Hand",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": true
@@ -5540,13 +5540,13 @@
           "isCorrect": false
         },
         {
-          "text": "Ein Priesterkönigtum und eine heilige Nation",
+          "text": "Ein Volk von Kriegern und Eroberern",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "Ein Priesterkönigtum und heilig Volk",
+          "text": "Ein Königreich von Priestern und eine heilige Nation",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": true
@@ -5607,7 +5607,7 @@
     {
       "questionId": "ex_171",
       "type": "single_choice",
-      "text": "Welche Strafe drohte jedem Mensch oder Tier, das den heiligen Berg Sinai berührte?",
+      "text": "Welche Strafe drohte jedem Menschen oder Tier, das den heiligen Berg Sinai berührte?",
       "options": [
         {
           "text": "Der Tod durch Steinigung oder Pfeile",
@@ -5628,7 +5628,7 @@
           "isCorrect": false
         },
         {
-          "text": "Der Tod durch Steinigung oder mit einem Geschoß",
+          "text": "Er musste vierzig Tage außerhalb des Lagers bleiben",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -5648,7 +5648,7 @@
       "text": "Welche gewaltigen Naturerscheinungen kündigten die Ankunft Gottes am dritten Morgen an?",
       "options": [
         {
-          "text": "Ein stilles Sanftmütiges Sausen",
+          "text": "Ein stilles, sanftes Sausen",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -6025,7 +6025,7 @@
     {
       "questionId": "ex_184",
       "type": "single_choice",
-      "text": "Welches Gericht traf einen Menschenraub, der eine Person entführte und verkaufte?",
+      "text": "Welches Gericht traf einen Menschenräuber, der eine Person entführte und verkaufte?",
       "options": [
         {
           "text": "Er musste das dreifache Lösegeld erstatten",
@@ -6034,7 +6034,7 @@
           "isCorrect": false
         },
         {
-          "text": "Der Betroffene musste unweigerlich sterben",
+          "text": "Der Menschenräuber musste unweigerlich sterben",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": true
@@ -6262,7 +6262,7 @@
           "isCorrect": true
         },
         {
-          "text": "Ihr das doppelte Silber des Vaters zahlen",
+          "text": "Dem Vater das doppelte Silber zahlen",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -6329,7 +6329,7 @@
     {
       "questionId": "ex_193",
       "type": "single_choice",
-      "text": "Womit drohte Gott, falls Fremdlinge, Witwen und Waisen im Volk unterdrückt würden?",
+      "text": "Womit drohte Gott, falls Witwen und Waisen im Volk bedrückt würden?",
       "options": [
         {
           "text": "Mit dem Verlust der jährlichen Getreideernte",
@@ -6747,7 +6747,7 @@
     {
       "questionId": "ex_204",
       "type": "single_choice",
-      "text": "Was tat Mose mit der Hälfte des Opferblutes beim feierlichen Bundesschluss?",
+      "text": "Was tat Mose beim feierlichen Bundesschluss schließlich mit der Hälfte des Opferblutes, die er in Becken getan hatte?",
       "options": [
         {
           "text": "Er goss es vollständig am Altar aus",
@@ -6762,7 +6762,7 @@
           "isCorrect": true
         },
         {
-          "text": "Er füllte es in die goldenen Schalen",
+          "text": "Er vergrub es am Fuß des Berges",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
@@ -6785,7 +6785,7 @@
     {
       "questionId": "ex_206",
       "type": "single_choice",
-      "text": "Wer begleitete Mose, als er auf den Berg Gottes stieg, um die steinerne Tafeln zu empfangen?",
+      "text": "Wer begleitete Mose, als er auf den Berg Gottes stieg, um die steinernen Tafeln zu empfangen?",
       "options": [
         {
           "text": "Sein Bruder Aaron der Hohepriester",
@@ -7218,13 +7218,13 @@
           "isCorrect": false
         },
         {
-          "text": "Aus rötlichen Widderfellen und Seehundsfellen",
+          "text": "Aus Ziegenfellen und Rinderhäuten",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "Aus rot gefärbten Widderfellen und Seekuhfellen",
+          "text": "Aus rötlichen Widderfellen und Seehundsfellen",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": true
@@ -7499,7 +7499,7 @@
       "correctAnswers": [
         2
       ],
-      "bibleReference": "2. Mose 27:4",
+      "bibleReference": "2. Mose 27:4-5",
       "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
@@ -7586,7 +7586,7 @@
       "text": "Welches Öl musste das Volk Israel für den goldenen Leuchter im Heiligtum darbringen?",
       "options": [
         {
-          "text": "Lauteres, gestoßenes Olivenöl für den Leuchter",
+          "text": "Gewürztes Zedernöl von den Bäumen der Berge",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -8077,7 +8077,7 @@
     {
       "questionId": "ex_241",
       "type": "single_choice",
-      "text": "Welcher Teil des Widders wurde beim Einweihungsopfer als Schwingopfer dargebracht?",
+      "text": "Welche Teile des Widders der Einsetzung sollten als Webe- und Hebeopfer geheiligt werden?",
       "options": [
         {
           "text": "Der Kopf und die Hinterläufe des Widders",
@@ -8086,13 +8086,13 @@
           "isCorrect": false
         },
         {
-          "text": "Die Webebrust und die Hebeschulter des Widders",
+          "text": "Der Hals und die Hörner des Widders",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "Die Brust und die rechte Keule des Widders",
+          "text": "Die Webebrust und die Hebeschulter des Widders",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": true
@@ -8609,7 +8609,7 @@
     {
       "questionId": "ex_256",
       "type": "single_choice",
-      "text": "Wie oft ruhte Gott nach dem Schöpfungswerk laut der Zusage im Sabbatgebot?",
+      "text": "An welchem Tag ruhte Gott nach dem Schöpfungswerk laut der Begründung des Sabbatgebots?",
       "options": [
         {
           "text": "Gott ruhte am sechsten Tage nach dem Werk",
@@ -8761,7 +8761,7 @@
     {
       "questionId": "ex_260",
       "type": "single_choice",
-      "text": "Was rief das verführte Volk aus, als es das gegossene Kalb am Altar erblickte?",
+      "text": "Was rief das verführte Volk aus, als Aaron das gegossene Kalb gemacht hatte?",
       "options": [
         {
           "text": "Dies ist das Bildnis des Gottes Abraham",
@@ -9004,7 +9004,7 @@
           "isCorrect": false
         },
         {
-          "text": "Ein starker Erdbeben erschütterte den Ort",
+          "text": "Ein starkes Erdbeben erschütterte den Ort",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
@@ -9118,13 +9118,13 @@
           "isCorrect": false
         },
         {
-          "text": "«Lass mich doch deine Herrlichkeit sehen»",
+          "text": "Gib dem Volk Wasser aus dem Felsen",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "Lass mich doch Deine Herrlichkeit schauen",
+          "text": "So lass mich deine Herrlichkeit sehen!",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": true
@@ -9220,7 +9220,7 @@
       "text": "Wie offenbarte Sich Gott vor Mose, als Er in der Wolke herabstieg?",
       "options": [
         {
-          "text": "Barmherzig, gnädig, langsam zum Zorn und von großer Huld",
+          "text": "Als der Gott, der Missetat niemals heimsucht",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -9232,7 +9232,7 @@
           "isCorrect": false
         },
         {
-          "text": "Barmherzig, gnädig, geduldig und von großer Güte",
+          "text": "Barmherzig, gnädig, langsam zum Zorn und von großer Huld",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": true
@@ -9334,13 +9334,13 @@
       "text": "Was stellten Aaron und die Israeliten fest, als Mose mit den Tafeln herabstieg?",
       "options": [
         {
-          "text": "Dass die Haut seines Angesichts strahlte",
+          "text": "Dass sein Haar völlig ergraut war",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "Dass die Haut seines Angesichts leuchtete",
+          "text": "Dass die Haut seines Angesichts strahlte",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": true
@@ -9521,7 +9521,7 @@
     {
       "questionId": "ex_283",
       "type": "single_choice",
-      "text": "Woraus bestanden die Gaben der Männer und Frauen zur Verschönerung der Heiligtumsgeräte?",
+      "text": "Welche goldenen Gaben brachten die willigen Männer und Frauen dem HERRN?",
       "options": [
         {
           "text": "Spangen, Ohrringe, Ringe und goldenes Geschmeide",
@@ -9530,19 +9530,19 @@
           "isCorrect": true
         },
         {
-          "text": "Silbermünzen, Ringe und Geschmeide aus Bronze",
+          "text": "Goldmünzen aus den königlichen Schatzkammern Ägyptens",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "Silberne Schwerter, Schilde und Helme der Ägypter",
+          "text": "Goldene Speere und Rüstungen der gefallenen Reiter",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "Edelsteine, Perlen und Ketten aus den Wüstenfelsen",
+          "text": "Goldene Kronen und Bildsäulen früherer Heidenkönige",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -9787,7 +9787,7 @@
     {
       "questionId": "ex_290",
       "type": "single_choice",
-      "text": "Wie lang war jedes der aufrecht stehenden Wandbretter der Stiftshütte bemessen?",
+      "text": "Welche Maße hatte jedes der aufrecht stehenden Wandbretter der Stiftshütte?",
       "options": [
         {
           "text": "Genau fünf Ellen lang und zwei Ellen breit",
@@ -10106,7 +10106,7 @@
           "isCorrect": false
         },
         {
-          "text": "Die Ältesten der siebzig Männer Israels",
+          "text": "Die siebzig Ältesten des Volkes Israel",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
@@ -10129,7 +10129,7 @@
     {
       "questionId": "ex_299",
       "type": "single_choice",
-      "text": "Wie viele Ringe aus reinem Gold gosse Bezaleel an den vier Ecken der Bundeslade fest?",
+      "text": "Wie viele Ringe aus reinem Gold goss Bezaleel an den vier Ecken der Bundeslade fest?",
       "options": [
         {
           "text": "Vier goldene Ringe an den vier Füßen",
@@ -10252,7 +10252,7 @@
           "isCorrect": true
         },
         {
-          "text": "Eleasar der erstgeborene Sohn Aarons",
+          "text": "Eleasar der dritte Sohn Aarons",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -10615,7 +10615,7 @@
       "correctAnswers": [
         3
       ],
-      "bibleReference": "2. Mose 40:2",
+      "bibleReference": "2. Mose 40:2; 2. Mose 40:17",
       "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
@@ -10661,28 +10661,28 @@
     {
       "questionId": "ex_316",
       "type": "single_choice",
-      "text": "Was geschah mit Aaron und seinen Söhnen, als sie am Eingang des Zeltes gewaschen wurden?",
+      "text": "Welchem Zweck diente die Salbung Aarons und seiner Söhne mit dem heiligen Öl?",
       "options": [
         {
-          "text": "Sie wurden zu Richtern des Volkes gewählt",
+          "text": "Sie lebenslang von aller körperlichen Arbeit zu befreien",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "Sie wurden bekleidet und gesalbt zum Dienst",
+          "text": "Die Salbung sollte ihnen ein ewiges Priestertum verschaffen",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": true
         },
         {
-          "text": "Sie wurden in das Land Midian gesandt",
+          "text": "Sie zu Kriegsherren über die zwölf Stämme zu machen",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "Sie legten ein Fastengelübde ab",
+          "text": "Ihnen die Geräte der Stiftshütte zu eigen zu geben",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -10778,7 +10778,7 @@
       "text": "Woran erkannten die Israeliten während all ihrer Wüstenreisen, wann sie aufbrechen sollten?",
       "options": [
         {
-          "text": "Am Blasen der silbernen Priestertrompeten",
+          "text": "Am Aufgang des Morgensterns über dem Lager",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -10892,13 +10892,13 @@
       "text": "Was gebot Gott dem Mose, als dieser sich dem brennenden Dornbusch am Horeb näherte?",
       "options": [
         {
-          "text": "Er sollte seine Schuhe von den Füßen ausziehen, denn der Ort, darauf er stand, war heiliges Land",
+          "text": "Er sollte die Sandalen von seinen Füßen ausziehen, denn der Ort, darauf er stand, war heiliges Erdland",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": true
         },
         {
-          "text": "Er sollte seine Schuhe von den Füßen ablegen, denn der Ort war heilig",
+          "text": "Er sollte sofort zum Pharao zurückkehren und sich vor ihm niederwerfen",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false

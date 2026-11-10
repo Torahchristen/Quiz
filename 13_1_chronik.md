@@ -47,7 +47,7 @@
 **Bibelstelle:** 1. Chronik 4:9-10
 **Erklärung:** 
 
-### 5. Warum ging das Erstgeburtsrecht des ersten Sohnes Rubens an die Kinder Josephs über?
+### 5. Warum ging das Erstgeburtsrecht Rubens, des ersten Sohnes Israels, an die Kinder Josephs über?
 
 - [ ] Weil Ruben das Gold der Beute verheimlichte
 - [x] Weil er das Bett seines Vaters entweiht hatte
@@ -87,7 +87,7 @@
 **Bibelstelle:** 1. Chronik 10:13-14
 **Erklärung:** 
 
-### 9. Welches Versprechen gaben die Ältesten Israels David bei seiner Salbung zum König in Hebron?
+### 9. Was sprach ganz Israel zu David, als es sich zu ihm gen Hebron versammelte?
 
 - [ ] Sie versprachen zehntausend Silberlinge
 - [x] Siehe, wir sind dein Bein und dein Fleisch
@@ -159,7 +159,7 @@
 
 ### 16. Womit beschenkte David das ganze Volk Israel nach dem Aufstellen der Lade im Zelt?
 
-- [x] Jedermann, Mann und Weib, einen Laib Brot, Fleisch und ein Maß Wein
+- [x] Jedermann, Mann und Weib, einen Laib Brot, ein Stück Fleisch und ein halbes Maß Wein
 - [ ] Jedem Hause gab er fünf Silberlinge und ein neues gewebtes Kleid
 - [ ] Er verteilte unter dem Volk ein Maß feinsten Öls aus den Speichern
 - [ ] Er ließ jedem Manne einen Scheffel Weizen und ein junges Lamm geben
@@ -289,7 +289,7 @@
 
 ### 29. Wer war nach 1. Chronik 26:24 Fürst über die Schätze des Hauses Gottes?
 
-- [ ] Asaph, der Sohn Berachjas aus Kehat
+- [ ] Asaph, der Sohn Berechjas, der Sänger
 - [x] Sebuel, Sohn Gersoms, des Sohns Moses
 - [ ] Benaja, der Sohn Jojadas, der Priester
 - [ ] Obed-Edom, der Torhüter am Heiligtum

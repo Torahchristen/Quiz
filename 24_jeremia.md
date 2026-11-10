@@ -72,7 +72,7 @@
 - [ ] Er schickte ihn in die Verbannung nach Babel
 - [ ] Er hörte auf seine Rede und ließ ihn gehen
 - [ ] Er ließ ihn ohne Strafe frei und lobte ihn
-- [x] Er ließ ihn schlagen und in den Stock legen
+- [x] Er schlug ihn und legte ihn in den Stock
 
 **Bibelstelle:** Jeremia 20:1-2
 **Erklärung:** 
@@ -169,7 +169,7 @@
 
 ### 17. Wohin warfen die Fürsten Jeremia nach Jeremia 38:6?
 
-- [ ] In ein Verlies im Palast
+- [ ] In eine Höhle vor der Stadt
 - [ ] In ein Gefängnis in Anathoth
 - [ ] In einen Kerker im Tempel
 - [x] In die Zisterne Malchias
@@ -199,10 +199,10 @@
 
 ### 20. Wem brachten die Frauen in Ägypten nach Jeremia 44:17-19 Opfer?
 
-- [ ] Den Gestirnen des Himmels
+- [ ] Dem Dagon der Philister
 - [ ] Den Götzenbildern Babels
 - [ ] Dem Sonnengott der Heiden
-- [x] Der Himmelskönigin allein
+- [x] Der Himmelskönigin
 
 **Bibelstelle:** Jeremia 44:15-19
 **Erklärung:** 
@@ -339,7 +339,7 @@
 
 ### 34. Wie verhielten sich die Großen des Volks nach Jeremia 5:5?
 
-- [x] Sie haben das Joch zerbrochen und die Bande zerrissen
+- [x] Sie hatten das Joch zerbrochen und die Seile zerrissen
 - [ ] Sie hielten das Gesetz und trugen das Joch des HERRN willig
 - [ ] Sie flohen vor dem Feind und verließen die Stadt
 - [ ] Sie beteten zum HERRN und baten um Verschonung
@@ -382,7 +382,7 @@
 - [ ] Als unreines und wertloses Erz
 - [ ] Als dürres und welkes Holz
 - [ ] Als zerbrochenes Tongeschirr
-- [x] Als ganz verworfenes Silber
+- [x] Als verworfenes Silber
 
 **Bibelstelle:** Jeremia 6:30
 **Erklärung:** 
@@ -429,10 +429,10 @@
 
 ### 43. Was wirft Jeremia 8:8 den Schriftgelehrten vor?
 
-- [ ] Dass sie das Gesetz des HERRN verfälschen und böse Lügen lehren
-- [x] Dass der Lügengriffel der Schreiber das Gesetz zur Lüge macht
+- [ ] Dass sie das Gesetz zu viel auslegen und die Hörer verwirren
+- [x] Dass es eitel Lüge ist, was die Schriftgelehrten setzen
 - [ ] Dass sie die Gebote Gottes vergessen und fremden Götzen dienen
-- [ ] Dass sie das Wort des HERRN verachten und den Propheten wehren
+- [ ] Dass sie zu jung sind und die Schrift nicht verstehen
 
 **Bibelstelle:** Jeremia 8:8
 **Erklärung:** 
@@ -451,7 +451,7 @@
 
 - [x] Dass sein Haupt Wasser und seine Augen Tränenquellen wären
 - [ ] Dass er schweigen könnte und die Not des Volkes nicht mehr sähe
-- [ ] Dass er fliehen könnte in die Wüste, fern von allen Menschen
+- [ ] Dass er ein Kriegsmann wäre und die Chaldäer schlagen könnte
 - [ ] Dass er ein Hirte wäre auf dem Feld, fern vom Tempel
 
 **Bibelstelle:** Jeremia 9:1
@@ -469,10 +469,10 @@
 
 ### 47. Was sagt der HERR in Jeremia 9:26 über das Haus Israel?
 
-- [ ] Es ist gerecht und beschnitten, aber unrein im Herzen
+- [ ] Es ist gerecht im Fleisch und rein in seinen Taten
 - [ ] Es ist beschnitten am Leib und im Geist
 - [x] Es hat ein unbeschnittenes Herz
-- [ ] Es ist treu im Äußeren, aber verachtet das Gesetz
+- [ ] Es hat ein beschnittenes, gehorsames Herz
 
 **Bibelstelle:** Jeremia 9:26
 **Erklärung:** 
@@ -480,8 +480,8 @@
 ### 48. Wie verspottet Jeremia 10:5 die Götzenbilder?
 
 - [x] Sie können nicht reden und müssen getragen werden, denn sie können nicht gehen
-- [ ] Sie sind zu klein und können dem Volk nicht helfen und es nicht schützen
-- [ ] Sie sind aus Gold und Silber gemacht, aber sie sind völlig unnütz und kraftlos
+- [ ] Sie laufen umher wie die Tiere des Feldes und lassen sich nicht fangen
+- [ ] Sie sind aus Stein gehauen und reden zu ihren Priestern
 - [ ] Sie haben keinen Namen und werden von niemandem verehrt oder gefürchtet
 
 **Bibelstelle:** Jeremia 10:5
@@ -540,7 +540,7 @@
 ### 54. Welche Frage stellt Jeremia in Jeremia 12:1?
 
 - [ ] Warum schweigst du, wenn deine Feinde Zion zertreten und verspotten?
-- [x] Warum geht es den Gottlosen wohl und alle Verächter haben gut Glück?
+- [x] Warum geht's den Gottlosen so wohl, und die Verächter haben alles die Fülle?
 - [ ] Warum bist du so fern, wenn wir deine Hilfe doch so dringend brauchen?
 - [ ] Warum straft Gott seine Frommen, die ihm doch treu und gehorsam dienen?
 
@@ -550,7 +550,7 @@
 ### 55. Welches Gleichnis hält der HERR Jeremia in Jeremia 12:5 vor?
 
 - [ ] Wenn du ein Joch trägst und ermüdest, wie willst du zwei Joche tragen und weitergehen?
-- [x] Wenn du mit Läufern läufst und müde wirst, wie willst du mit Rossen laufen?
+- [x] Wenn dich die müde machen, die zu Fuße gehen, wie willst du mit den Reitern laufen?
 - [ ] Wenn du Wasser trinkst und davon müde wirst, wie willst du Wein trinken und stehen?
 - [ ] Wenn du fällst und dich verletzt, wie willst du wieder aufstehen und im Wald gehen?
 
@@ -559,7 +559,7 @@
 
 ### 56. Welche Bedingung stellt der HERR den Heiden in Jeremia 12:16?
 
-- [ ] Dass sie ihre Götzen vernichten und nur noch dem HERRN dienen wollen
+- [ ] Dass sie ihre Könige verlassen und Richter aus Juda über sich setzen
 - [ ] Dass sie dem Volk Tribut zahlen und sich Israel völlig unterwerfen
 - [x] Dass sie die Wege seines Volks lernen und bei seinem Namen schwören
 - [ ] Dass sie nach Jerusalem ziehen und dort am Heiligtum beten und opfern
@@ -589,10 +589,10 @@
 
 ### 59. Welche Not war der Anlass für Jeremias Gebet in Jeremia 14:1-3?
 
-- [ ] Eine schwere Pest
-- [x] Die teure Zeit
-- [ ] Ein hartes Schwert
-- [ ] Der große Hunger
+- [ ] Ein schwerer Krieg
+- [x] Die teure Zeit (Dürre)
+- [ ] Eine tödliche Pest
+- [ ] Ein großes Erdbeben
 
 **Bibelstelle:** Jeremia 14:1-3
 **Erklärung:** 
@@ -601,7 +601,7 @@
 
 - [ ] Er gewährte die Fürbitte und sandte sogleich Regen auf das dürre Land
 - [ ] Er schwieg und ließ Jeremia ohne Antwort, weil er ihn nicht erhören wollte
-- [x] Du sollst nicht für dies Volk bitten; wenn sie fasten, höre ich nicht ihr Flehen
+- [x] Du sollst nicht für dies Volk bitten; ob sie gleich fasten, will ich ihr Flehen nicht hören
 - [ ] Er sandte Regen, weil das Volk gefastet und Opfer im Tempel gebracht hatte
 
 **Bibelstelle:** Jeremia 14:11-12
@@ -609,7 +609,7 @@
 
 ### 61. Was weissagten die falschen Propheten in der Dürre (Jeremia 14:13)?
 
-- [x] Ihr werdet kein Schwert sehen und keinen Hunger leiden, sondern guten Frieden
+- [x] Ihr werdet kein Schwert sehen und keine Teuerung haben, sondern guten Frieden
 - [ ] Gott straft euch für eure Sünden; kehrt um, so hilft er euch aus der Not
 - [ ] Es kommt ein Feind ins Land, aber ihr werdet ihn besiegen und guten Frieden haben
 - [ ] Es kommt bald Regen, und die Dürre hat ein Ende, wenn ihr nur betet und opfert
@@ -629,20 +629,20 @@
 
 ### 63. Wie erlebte Jeremia die Worte des HERRN nach Jeremia 15:16?
 
-- [ ] Als Last, die ihn niederdrückte, und als Fremde
+- [ ] Als Last, die ihn niederdrückte und bedrängte
 - [ ] Als Gericht, das er verkünden musste, und als Qual
 - [x] Als Speise, Freude und Trost seines Herzens
-- [ ] Als Fremde, die er nicht verstand, und als Rätsel
+- [ ] Als Fremdes, das er nicht verstand, und als Rätsel
 
 **Bibelstelle:** Jeremia 15:16
 **Erklärung:** 
 
 ### 64. Was verheißt der HERR Jeremia in Jeremia 15:20?
 
-- [x] Dich zur festen ehernen Mauer wider dies Volk zu machen
+- [x] Ihn zur festen, ehernen Mauer wider dies Volk zu machen
 - [ ] Ihn in ein anderes Land zu führen und dort zu bewahren
 - [ ] Ihn zum König über Juda zu machen und zu schützen
-- [ ] Ihn vor dem Tod zu retten und ihm Ruhe zu geben
+- [ ] Ihn zum Hohenpriester im Tempel zu machen
 
 **Bibelstelle:** Jeremia 15:20
 **Erklärung:** 
@@ -680,7 +680,7 @@
 ### 68. Womit ist die Sünde Judas nach Jeremia 17:1 aufgeschrieben?
 
 - [ ] Mit einem Schreibrohr und Tinte auf dem Pergament der Schriftgelehrten, das man im Tempel hütet
-- [x] Mit einem eisernen Griffel und diamantener Spitze, auf die Tafel ihres Herzens
+- [x] Mit eisernen Griffeln und spitzigen Demanten, auf die Tafel ihres Herzens gegraben
 - [ ] Mit Tinte, die man leicht abwischen kann, auf die Tafeln der Priester im Heiligtum
 - [ ] Mit einem Messer in die Mauern der Stadt geritzt, die ihr Volk beherbergt
 
@@ -709,7 +709,7 @@
 
 ### 71. Wie reagierten die Hörer auf die Mahnung vom Töpfer (Jeremia 18:12)?
 
-- [x] Es ist umsonst; wir wollen nach unseren Gedanken wandeln
+- [x] Daraus wird nichts; wir wollen nach unsern Gedanken wandeln
 - [ ] Wir wollen umkehren und nach deinen Wegen leben
 - [ ] Wir wollen fasten und dem HERRN Opfer bringen
 - [ ] Wir wollen fliehen und uns vor dem Gericht verbergen
@@ -947,20 +947,20 @@
 **Bibelstelle:** Jeremia 27:18
 **Erklärung:** 
 
-### 95. Was verkündete Hananja nach Jeremia 28:3?
+### 95. Was verkündete Hananja nach Jeremia 28:3-4?
 
 - [ ] Babel werde das Land verwüsten und das Volk gefangen wegführen in die Fremde
 - [x] Binnen zwei Jahren will der HERR alle Geräte und Jechonja aus Babel zurückbringen
 - [ ] Die babylonische Gefangenschaft dauere siebzig Jahre und dann kehre alles zurück
 - [ ] Der Tempel werde fallen, und alle Geräte werden nach Babel gebracht werden
 
-**Bibelstelle:** Jeremia 28:3
+**Bibelstelle:** Jeremia 28:3-4
 **Erklärung:** 
 
 ### 96. Was kündigt Jeremia nach Jeremia 28:13 dem Hananja an?
 
-- [x] Du hast hölzerne Joche zerbrochen; nun wirst du eiserne an ihrer Statt machen
-- [ ] Du wirst bald sterben, weil du dich dem HERRN widersetzt hast und lügst
+- [x] Du hast das hölzerne Joch zerbrochen und hast nun ein eisernes an jenes Statt gemacht
+- [ ] Du sollst das Joch wieder auf deinen Hals legen und es tragen
 - [ ] Du wirst gefangen nach Babel ziehen und dort noch viele Jahre weissagen
 - [ ] Du wirst Prophet bleiben und noch viele Jahre in Frieden weissagen
 
@@ -1244,7 +1244,7 @@
 - [ ] Johanan, den Sohn Kareachs
 - [ ] Paschhur, den Sohn Immers
 
-**Bibelstelle:** Jeremia 40:5-6
+**Bibelstelle:** Jeremia 40:5
 **Erklärung:** 
 
 ### 125. Wovor warnte Johanan den Gedalja (Jeremia 40:14)?
@@ -1310,7 +1310,7 @@
 ### 131. Was droht der HERR in Jeremia 42:16 denen, die nach Ägypten ziehen?
 
 - [x] Das Schwert, vor dem ihr euch fürchtet, wird euch in Ägypten treffen
-- [ ] Eine große Dürre wird euch in Ägypten verzehren, und der Hunger, vor dem ihr flieht, bleibt
+- [ ] Eine große Dürre wird Ägypten treffen, doch ihr werdet dort satt werden und sicher wohnen
 - [ ] Die Sklaverei, aus der ich euch einst befreite, wird euch in Ägypten wieder treffen
 - [ ] Keine Strafe wird euch in Ägypten ereilen, denn dort seid ihr vor dem Schwert sicher
 
@@ -1510,7 +1510,7 @@
 ### 151. Wie kommen Israel und Juda nach Jeremia 50:4-5 heim?
 
 - [ ] Mit Kriegsgeschrei, sie suchen den Feind und fordern Rache an Babel
-- [ ] Mit Beute beladen, sie dankten dem HERRN und fragen nach dem Königsweg
+- [ ] Mit Beute beladen, sie danken dem HERRN und fragen nach dem Königsweg
 - [ ] Mit Gesang und Freude, sie loben den HERRN und ziehen nach Zion
 - [x] Weinend, sie suchen den HERRN, ihren Gott, und fragen nach dem Weg gen Zion
 
@@ -1530,8 +1530,8 @@
 ### 153. Was ist Babel nach Jeremia 51:7 in der Hand des HERRN?
 
 - [ ] Ein scharfes Schwert, das alle Völker durchbohrte
-- [x] Ein goldener Becher, der alle Welt trunken machte
-- [ ] Ein starker Hammer, der alle Reiche zertrümmerte
+- [x] Ein goldener Kelch, der alle Welt trunken machte
+- [ ] Ein fester Turm, der alle Völker beschützte
 - [ ] Eine eiserne Rute, die alle Länder züchtigte
 
 **Bibelstelle:** Jeremia 51:7

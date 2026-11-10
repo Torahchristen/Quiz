@@ -177,7 +177,7 @@
 **Bibelstelle:** 2. Mose 17:12
 **Erklärung:** 
 
-### 18. Welchen praktischen Rat gab Jethro seinem Schwiegervater Mose zur Bewältigung der Rechtsprechung?
+### 18. Welchen praktischen Rat gab Jethro seinem Schwiegersohn Mose zur Bewältigung der Rechtsprechung?
 
 - [ ] Er sollte alle Rechtsfälle allein bis zum Abend hin entscheiden
 - [ ] Er sollte das Richten den hebräischen Priestern ganz übergeben
@@ -197,7 +197,7 @@
 **Bibelstelle:** 2. Mose 19:10-15
 **Erklärung:** 
 
-### 20. Welches Gebot der Zehn Gebote fordert, Vater und Mutter wertzuschätzen, mit einer Verheißung?
+### 20. Welches der Zehn Gebote fordert nach jüdischer und reformierter Zählung, Vater und Mutter wertzuschätzen, mit einer Verheißung?
 
 - [ ] Das dritte Gebot über den heiligen Namen des HERRN auf der Tafel
 - [x] Das fünfte Gebot mit Verheißung des Lebens auf dem Erdboden
@@ -205,7 +205,7 @@
 - [ ] Das siebente Gebot über die Treue und Reinheit in der Ehe
 
 **Bibelstelle:** 2. Mose 20:12
-**Erklärung:** 
+**Erklärung:** Nach lutherischer und katholischer Zählung, die das Bilderverbot zum ersten Gebot rechnet, ist das Elterngebot das vierte und das Sabbatgebot das dritte Gebot.
 
 ### 21. Wie viele Jahre sollte ein hebräischer Knecht laut 2. Mose 21:2 dienen, bevor er frei ausging?
 
@@ -247,7 +247,7 @@
 **Bibelstelle:** 2. Mose 24:10
 **Erklärung:** 
 
-### 25. Aus welchem Holz sollten die Bundeslade und die Tische der Stiftshütte angefertigt werden?
+### 25. Aus welchem Holz sollten die Bundeslade und der Schaubrottisch der Stiftshütte angefertigt werden?
 
 - [ ] Aus dem Holz der stolzen Libanonzeder
 - [ ] Aus dem harten Holz des Eichenbaumes
@@ -419,7 +419,7 @@
 
 ### 42. Aus welchem Grund hörten die Söhne Israel nicht auf die Errettungszusage durch Mose?
 
-- [ ] Wegen des Fehlens von sichtbaren Wundzeichen im Lager
+- [ ] Wegen des Fehlens von sichtbaren Wunderzeichen im Lager
 - [ ] Wegen des mangelnden Vertrauens in die Herkunft Aarons
 - [ ] Wegen der Drohung des Pharaos mit der Todesstrafe
 - [x] Wegen der schweren Herzensangst und der harten Knechtschaft
@@ -449,10 +449,10 @@
 
 ### 45. Wer war der leibliche Vater von Mose und Aaron aus dem Stamm Levi?
 
-- [ ] Kehat der Sohn Levis aus Ägypten
-- [ ] Jhar der Bruder Kehats aus Kanaan
-- [x] Amram der Urgroßsohn des Patriarchen
-- [ ] Ussiel der jüngste Sohn der Sippe Levis
+- [ ] Kehat, der Sohn Levis
+- [ ] Jizhar, der Sohn Kehats
+- [x] Amram, der Sohn Kehats
+- [ ] Ussiel, der jüngste Sohn Kehats
 
 **Bibelstelle:** 2. Mose 6:20
 **Erklärung:** 
@@ -477,7 +477,7 @@
 **Bibelstelle:** 2. Mose 6:23
 **Erklärung:** 
 
-### 48. In welches Verhältnis setzte Gott den Propheten Aaron zu seinem Bruder Mose?
+### 48. In welches Verhältnis setzte Gott Mose und seinen Bruder Aaron gegenüber dem Pharao?
 
 - [ ] Aaron wurde zum Heeresführer bestimmt und Mose zum Priester
 - [x] Aaron wurde zum Propheten gesetzt und Mose zum Gott für Pharao
@@ -590,7 +590,7 @@
 ### 59. Was bekannten die Zauberer, als sie die Mückenplage nicht nachahmen konnten?
 
 - [ ] Dass ihre Zaubersprüche durch den Wind verweht worden seien
-- [x] Dass dieses Wundzeichen eindeutig der Finger Gottes sei
+- [x] Dass dieses Wunderzeichen eindeutig der Finger Gottes sei
 - [ ] Dass die Hebräer eine geheime Zauberkunst im Lager nutzten
 - [ ] Dass die ägyptischen Götter das Land für Sünden bestraften
 
@@ -707,7 +707,7 @@
 **Bibelstelle:** 2. Mose 10:19
 **Erklärung:** 
 
-### 71. Wie beschaffte sich die neunte Plage der Finsternis ihren Raum über Ägypten?
+### 71. Wie wurde die neunte Plage der Finsternis über Ägypten herbeigeführt?
 
 - [ ] Durch eine Sonnenfinsternis, die wenige Stunden andauerte
 - [ ] Durch dichte Aschewolken, die vom Berg Sinai herbeiflogen
@@ -929,7 +929,7 @@
 
 ### 93. Welches Zeichen wies dem Volk Israel in der Dunkelheit der Nacht den Weg durch die Wüste?
 
-- [ ] Das Leuchten des Sternsbildes am Himmel
+- [ ] Das Leuchten eines Sternbildes am Himmel
 - [x] Eine leuchtende Feuersäule vor dem Volk
 - [ ] Eine feurige Fackel in den Händen Moses
 - [ ] Ein helles Signalfeuer auf den Bergen
@@ -979,10 +979,10 @@
 
 ### 98. Was geschah mit den Streitwagen der Ägypter, als sie Israel in das Meer folgten?
 
-- [ ] Er stieß die Räder von ihren Wagen und trieb sie ins Gedränge
+- [ ] Ein Sturm warf die Wagen um und zerschmetterte sie
 - [ ] Die Streitwagen versanken im grundlosen Meeresboden
 - [ ] Die feurigen Pferde rissen aus und warfen Reiter ab
-- [x] Gott hemmte die Räder, sodass sie schwer gewohnt waren
+- [x] Gott stieß die Räder von ihren Wagen, sodass sie nur mühsam vorankamen
 
 **Bibelstelle:** 2. Mose 14:24-25
 **Erklärung:** 
@@ -999,8 +999,8 @@
 
 ### 100. Welches Instrument nahm Miriam die Prophetin beim Jubelgesang am Schilfmeer?
 
-- [ ] Eine wohlklingende Handpauke in ihre Hand
-- [x] Eine Handpauke in ihre rechte Hand
+- [ ] Eine silberne Trompete der Priester
+- [x] Eine Handpauke (Tamburin) in ihre Hand
 - [ ] Eine zehnsaitige Harfe aus Elfenbein
 - [ ] Ein altes Wüstenhorn aus Widderhorn
 
@@ -1460,8 +1460,8 @@
 ### 146. Was versprach Gott dem Volk Israel zu werden, wenn es Seiner Stimme gehorchen würde?
 
 - [ ] Das reichste Volk unter allen Reichen
-- [ ] Ein Priesterkönigtum und eine heilige Nation
-- [x] Ein Priesterkönigtum und heilig Volk
+- [ ] Ein Volk von Kriegern und Eroberern
+- [x] Ein Königreich von Priestern und eine heilige Nation
 - [ ] Die Herren über alle Könige der Erde
 
 **Bibelstelle:** 2. Mose 19:5-6
@@ -1477,19 +1477,19 @@
 **Bibelstelle:** 2. Mose 19:10-11
 **Erklärung:** 
 
-### 148. Welche Strafe drohte jedem Mensch oder Tier, das den heiligen Berg Sinai berührte?
+### 148. Welche Strafe drohte jedem Menschen oder Tier, das den heiligen Berg Sinai berührte?
 
 - [x] Der Tod durch Steinigung oder Pfeile
 - [ ] Eine schwere Geldstrafe an die Priester
 - [ ] Der Ausschluss aus dem Lager Israels
-- [ ] Der Tod durch Steinigung oder mit einem Geschoß
+- [ ] Er musste vierzig Tage außerhalb des Lagers bleiben
 
 **Bibelstelle:** 2. Mose 19:12-13
 **Erklärung:** 
 
 ### 149. Welche gewaltigen Naturerscheinungen kündigten die Ankunft Gottes am dritten Morgen an?
 
-- [ ] Ein stilles Sanftmütiges Sausen
+- [ ] Ein stilles, sanftes Sausen
 - [x] Donner, Blitze, Wolke und Posaunenschall
 - [ ] Ein plötzlicher Sonnenuntergang am Mittag
 - [ ] Ein gewaltiger Regenguss vom Himmel
@@ -1587,10 +1587,10 @@
 **Bibelstelle:** 2. Mose 21:15
 **Erklärung:** 
 
-### 159. Welches Gericht traf einen Menschenraub, der eine Person entführte und verkaufte?
+### 159. Welches Gericht traf einen Menschenräuber, der eine Person entführte und verkaufte?
 
 - [ ] Er musste das dreifache Lösegeld erstatten
-- [x] Der Betroffene musste unweigerlich sterben
+- [x] Der Menschenräuber musste unweigerlich sterben
 - [ ] Er wurde für sieben Jahre Knecht im Land
 - [ ] Er wurde in eine Zufluchtsstadt verbannt
 
@@ -1650,7 +1650,7 @@
 ### 165. Was musste ein Mann tun, der eine unverlobte Jungfrau verführte und bei ihr lag?
 
 - [x] Sie gegen Brautgeld zur Frau nehmen
-- [ ] Ihr das doppelte Silber des Vaters zahlen
+- [ ] Dem Vater das doppelte Silber zahlen
 - [ ] Für drei Jahre in den Dienst des Vaters treten
 - [ ] Aus der Gemeinde Israels ausgeschlossen werden
 
@@ -1667,7 +1667,7 @@
 **Bibelstelle:** 2. Mose 22:18
 **Erklärung:** 
 
-### 167. Womit drohte Gott, falls Fremdlinge, Witwen und Waisen im Volk unterdrückt würden?
+### 167. Womit drohte Gott, falls Witwen und Waisen im Volk bedrückt würden?
 
 - [ ] Mit dem Verlust der jährlichen Getreideernte
 - [ ] Mit der sofortigen Absetzung aller Richter
@@ -1777,17 +1777,17 @@
 **Bibelstelle:** 2. Mose 24:4
 **Erklärung:** 
 
-### 178. Was tat Mose mit der Hälfte des Opferblutes beim feierlichen Bundesschluss?
+### 178. Was tat Mose beim feierlichen Bundesschluss schließlich mit der Hälfte des Opferblutes, die er in Becken getan hatte?
 
 - [ ] Er goss es vollständig am Altar aus
 - [x] Er besprengte damit das Volk Israel
-- [ ] Er füllte es in die goldenen Schalen
+- [ ] Er vergrub es am Fuß des Berges
 - [ ] Er salbte damit die Stirn der Priester
 
 **Bibelstelle:** 2. Mose 24:6-8
 **Erklärung:** 
 
-### 179. Wer begleitete Mose, als er auf den Berg Gottes stieg, um die steinerne Tafeln zu empfangen?
+### 179. Wer begleitete Mose, als er auf den Berg Gottes stieg, um die steinernen Tafeln zu empfangen?
 
 - [ ] Sein Bruder Aaron der Hohepriester
 - [ ] Jethro sein Schwiegervater aus Midian
@@ -1901,8 +1901,8 @@
 
 - [ ] Aus weißer Schafwolle und feinem Ziegenhaar
 - [ ] Aus gewobenem Byssus und purpurner Wolle
-- [ ] Aus rötlichen Widderfellen und Seehundsfellen
-- [x] Aus rot gefärbten Widderfellen und Seekuhfellen
+- [ ] Aus Ziegenfellen und Rinderhäuten
+- [x] Aus rötlichen Widderfellen und Seehundsfellen
 
 **Bibelstelle:** 2. Mose 26:14
 **Erklärung:** 
@@ -1974,7 +1974,7 @@
 - [x] Aus einem Netzgitter von reinem Erz
 - [ ] Aus geflochtenem Eisen der Handwerker
 
-**Bibelstelle:** 2. Mose 27:4
+**Bibelstelle:** 2. Mose 27:4-5
 **Erklärung:** 
 
 ### 198. Welches Material wurde für die Umhangtücher des Vorhofs der Stiftshütte verwendet?
@@ -1999,7 +1999,7 @@
 
 ### 200. Welches Öl musste das Volk Israel für den goldenen Leuchter im Heiligtum darbringen?
 
-- [ ] Lauteres, gestoßenes Olivenöl für den Leuchter
+- [ ] Gewürztes Zedernöl von den Bäumen der Berge
 - [x] Reines Öl aus gestampften Oliven
 - [ ] Heiliges Salböl nach Priesterrezept
 - [ ] Feines Myrrenöl aus dem Land Arabia
@@ -2127,11 +2127,11 @@
 **Bibelstelle:** 2. Mose 29:20
 **Erklärung:** 
 
-### 213. Welcher Teil des Widders wurde beim Einweihungsopfer als Schwingopfer dargebracht?
+### 213. Welche Teile des Widders der Einsetzung sollten als Webe- und Hebeopfer geheiligt werden?
 
 - [ ] Der Kopf und die Hinterläufe des Widders
-- [ ] Die Webebrust und die Hebeschulter des Widders
-- [x] Die Brust und die rechte Keule des Widders
+- [ ] Der Hals und die Hörner des Widders
+- [x] Die Webebrust und die Hebeschulter des Widders
 - [ ] Die Wolle und die Haut des Opfertieres
 
 **Bibelstelle:** 2. Mose 29:27
@@ -2267,7 +2267,7 @@
 **Bibelstelle:** 2. Mose 31:18
 **Erklärung:** 
 
-### 227. Wie oft ruhte Gott nach dem Schöpfungswerk laut der Zusage im Sabbatgebot?
+### 227. An welchem Tag ruhte Gott nach dem Schöpfungswerk laut der Begründung des Sabbatgebots?
 
 - [ ] Gott ruhte am sechsten Tage nach dem Werk
 - [x] Er ruhte am siebenten Tag und erquickte Sich
@@ -2307,7 +2307,7 @@
 **Bibelstelle:** 2. Mose 32:2-4
 **Erklärung:** 
 
-### 231. Was rief das verführte Volk aus, als es das gegossene Kalb am Altar erblickte?
+### 231. Was rief das verführte Volk aus, als Aaron das gegossene Kalb gemacht hatte?
 
 - [ ] Dies ist das Bildnis des Gottes Abraham
 - [x] Das sind deine Götter, die dich herausführten
@@ -2371,7 +2371,7 @@
 
 - [x] Die Wolkensäule stieg herab und stand dort
 - [ ] Ein helles Feuer verzehrte das Holz
-- [ ] Ein starker Erdbeben erschütterte den Ort
+- [ ] Ein starkes Erdbeben erschütterte den Ort
 - [ ] Alle Ältesten fielen auf ihr Angesicht
 
 **Bibelstelle:** 2. Mose 33:9
@@ -2401,8 +2401,8 @@
 
 - [ ] Er bat um das sofortige Sterben Ägyptens
 - [ ] Gib mir die Macht über alle Völker Kanaans
-- [ ] «Lass mich doch deine Herrlichkeit sehen»
-- [x] Lass mich doch Deine Herrlichkeit schauen
+- [ ] Gib dem Volk Wasser aus dem Felsen
+- [x] So lass mich deine Herrlichkeit sehen!
 
 **Bibelstelle:** 2. Mose 33:18
 **Erklärung:** 
@@ -2429,9 +2429,9 @@
 
 ### 243. Wie offenbarte Sich Gott vor Mose, als Er in der Wolke herabstieg?
 
-- [ ] Barmherzig, gnädig, langsam zum Zorn und von großer Huld
+- [ ] Als der Gott, der Missetat niemals heimsucht
 - [ ] Als der Schöpfer der Sterne am Himmel
-- [x] Barmherzig, gnädig, geduldig und von großer Güte
+- [x] Barmherzig, gnädig, langsam zum Zorn und von großer Huld
 - [ ] Als der Richter über alle Heidenvölker
 
 **Bibelstelle:** 2. Mose 34:6-7
@@ -2459,8 +2459,8 @@
 
 ### 246. Was stellten Aaron und die Israeliten fest, als Mose mit den Tafeln herabstieg?
 
-- [ ] Dass die Haut seines Angesichts strahlte
-- [x] Dass die Haut seines Angesichts leuchtete
+- [ ] Dass sein Haar völlig ergraut war
+- [x] Dass die Haut seines Angesichts strahlte
 - [ ] Dass die Steintafeln in feurigen Flammen brannten
 - [ ] Dass seine Gewänder vollkommen weiß wurden
 
@@ -2507,12 +2507,12 @@
 **Bibelstelle:** 2. Mose 35:34
 **Erklärung:** 
 
-### 251. Woraus bestanden die Gaben der Männer und Frauen zur Verschönerung der Heiligtumsgeräte?
+### 251. Welche goldenen Gaben brachten die willigen Männer und Frauen dem HERRN?
 
 - [x] Spangen, Ohrringe, Ringe und goldenes Geschmeide
-- [ ] Silbermünzen, Ringe und Geschmeide aus Bronze
-- [ ] Silberne Schwerter, Schilde und Helme der Ägypter
-- [ ] Edelsteine, Perlen und Ketten aus den Wüstenfelsen
+- [ ] Goldmünzen aus den königlichen Schatzkammern Ägyptens
+- [ ] Goldene Speere und Rüstungen der gefallenen Reiter
+- [ ] Goldene Kronen und Bildsäulen früherer Heidenkönige
 
 **Bibelstelle:** 2. Mose 35:22
 **Erklärung:** 
@@ -2577,7 +2577,7 @@
 **Bibelstelle:** 2. Mose 36:19
 **Erklärung:** 
 
-### 258. Wie lang war jedes der aufrecht stehenden Wandbretter der Stiftshütte bemessen?
+### 258. Welche Maße hatte jedes der aufrecht stehenden Wandbretter der Stiftshütte?
 
 - [ ] Genau fünf Ellen lang und zwei Ellen breit
 - [ ] Genau zwölf Ellen lang und drei Ellen breit
@@ -2661,13 +2661,13 @@
 
 - [ ] Die Priester Aaron und seine Söhne persönlich
 - [ ] Die kunstfertigen Frauen aus dem Wüstenlager
-- [ ] Die Ältesten der siebzig Männer Israels
+- [ ] Die siebzig Ältesten des Volkes Israel
 - [x] Bezaleel nach der Kunst der Salbenbereiter
 
 **Bibelstelle:** 2. Mose 37:29
 **Erklärung:** 
 
-### 267. Wie viele Ringe aus reinem Gold gosse Bezaleel an den vier Ecken der Bundeslade fest?
+### 267. Wie viele Ringe aus reinem Gold goss Bezaleel an den vier Ecken der Bundeslade fest?
 
 - [x] Vier goldene Ringe an den vier Füßen
 - [ ] Zwei goldene Ringe an den Schmalseiten
@@ -2700,7 +2700,7 @@
 ### 270. Welcher Priester leitete die genaue Berechnung und Inventur des Materials der Stiftshütte?
 
 - [x] Ithamar der Sohn des Priesters Aaron
-- [ ] Eleasar der erstgeborene Sohn Aarons
+- [ ] Eleasar der dritte Sohn Aarons
 - [ ] Pinchas der Eiferer aus dem Hause Levis
 - [ ] Abihu der zweite Sohn des Priesters Aaron
 
@@ -2794,7 +2794,7 @@
 - [ ] Am siebenten Tag des dritten Monats im zweiten Jahr
 - [x] Am ersten Tag des ersten Monats im zweiten Jahr
 
-**Bibelstelle:** 2. Mose 40:2
+**Bibelstelle:** 2. Mose 40:2; 2. Mose 40:17
 **Erklärung:** 
 
 ### 280. Womit salbte Mose die Stiftshütte, den Altar und alle Gerätschaften bei der Aufrichtung?
@@ -2807,12 +2807,12 @@
 **Bibelstelle:** 2. Mose 40:9
 **Erklärung:** 
 
-### 281. Was geschah mit Aaron und seinen Söhnen, als sie am Eingang des Zeltes gewaschen wurden?
+### 281. Welchem Zweck diente die Salbung Aarons und seiner Söhne mit dem heiligen Öl?
 
-- [ ] Sie wurden zu Richtern des Volkes gewählt
-- [x] Sie wurden bekleidet und gesalbt zum Dienst
-- [ ] Sie wurden in das Land Midian gesandt
-- [ ] Sie legten ein Fastengelübde ab
+- [ ] Sie lebenslang von aller körperlichen Arbeit zu befreien
+- [x] Die Salbung sollte ihnen ein ewiges Priestertum verschaffen
+- [ ] Sie zu Kriegsherren über die zwölf Stämme zu machen
+- [ ] Ihnen die Geräte der Stiftshütte zu eigen zu geben
 
 **Bibelstelle:** 2. Mose 40:13-15
 **Erklärung:** 
@@ -2839,7 +2839,7 @@
 
 ### 284. Woran erkannten die Israeliten während all ihrer Wüstenreisen, wann sie aufbrechen sollten?
 
-- [ ] Am Blasen der silbernen Priestertrompeten
+- [ ] Am Aufgang des Morgensterns über dem Lager
 - [x] Wenn sich die Wolke von der Wohnung erhob
 - [ ] Am täglichen Schmelzen des Mannabrots
 - [ ] Am Befehl des Anführers Josua im Lager
@@ -2869,8 +2869,8 @@
 
 ### 287. Was gebot Gott dem Mose, als dieser sich dem brennenden Dornbusch am Horeb näherte?
 
-- [x] Er sollte seine Schuhe von den Füßen ausziehen, denn der Ort, darauf er stand, war heiliges Land
-- [ ] Er sollte seine Schuhe von den Füßen ablegen, denn der Ort war heilig
+- [x] Er sollte die Sandalen von seinen Füßen ausziehen, denn der Ort, darauf er stand, war heiliges Erdland
+- [ ] Er sollte sofort zum Pharao zurückkehren und sich vor ihm niederwerfen
 - [ ] Er sollte mit der Hand in die Flammen greifen, um seine persönliche Unversehrtheit zu erproben
 - [ ] Er sollte Wasser aus dem Felsen schlagen, um den brennenden Busch vor der Vernichtung zu löschen
 

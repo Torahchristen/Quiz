@@ -97,15 +97,15 @@
 **Bibelstelle:** 1. Könige 3:24-27
 **Erklärung:** 
 
-### 10. Bis zu welchem großen Strom reichte der Herrschaftsbereich Salomos?
+### 10. Von welchem großen Strom an erstreckte sich Salomos Herrschaft?
 
-- [x] Bis zum großen Strom Euphrat im Osten
-- [ ] Bis zum Strome Ägyptens im fernen Süden
-- [ ] Bis zum Fluss Jordan in den weiten Tälern
-- [ ] Bis zum Bachtal Kison nahe dem Berge Karmel
+- [x] Vom großen Strom Euphrat im Osten
+- [ ] Vom Strom Nil im fernen Ägypten
+- [ ] Vom Fluss Jordan in den weiten Tälern
+- [ ] Vom Bach Kison nahe dem Berge Karmel
 
 **Bibelstelle:** 1. Könige 4:21
-**Erklärung:** 
+**Erklärung:** Der Vers nennt nur „den Strom“; damit ist im Alten Testament der Euphrat gemeint (vgl. 1. Mose 15:18; 1. Könige 4:24).
 
 ### 11. Wie viele Sprüche dichtete König Salomo laut 1. Könige 4:32?
 
@@ -122,7 +122,7 @@
 - [ ] Eichenholz und Akazienholz aus Basan
 - [ ] Olivenholz und Feigenholz aus den Bergen
 - [x] Zedernholz und Tannenholz vom Libanon
-- [ ] Mandelbaumholz und Zypressen aus Ophir
+- [ ] Mandelbaumholz und Zypressen aus Ägypten
 
 **Bibelstelle:** 1. Könige 5:6-9
 **Erklärung:** 
@@ -137,7 +137,7 @@
 **Bibelstelle:** 1. Könige 6:1
 **Erklärung:** 
 
-### 14. Womit überzog Salomo das Innere des Hauses und den Altar im Allerheiligsten?
+### 14. Womit überzog Salomo das Innere des Hauses und den Altar vor dem Chor (dem Allerheiligsten)?
 
 - [x] Er überzog alles mit lauterem Golde
 - [ ] Er belegte alles mit feinstem Silber
@@ -211,7 +211,7 @@
 
 - [ ] Dass die Tore des Tempels zu eng gebaut seien für die Feste
 - [ ] Dass er kein Gold mehr von den Schiffen aus Ophir holen solle
-- [ ] Dass sein Sohn Salomo keinen Erben auf dem Thron haben werde
+- [ ] Dass sein Sohn keinen Erben auf dem Thron Davids haben werde
 - [x] Dass bei Abfall zu fremden Göttern Er Israel ausrotten werde
 
 **Bibelstelle:** 1. Könige 9:6-9
@@ -369,7 +369,7 @@
 
 ### 37. Welcher König von Juda tat die Götzen ab und stieß Maacha vom Thron wegen ihres Greuelbildes?
 
-- [ ] König Abiam, der auf den Bergen regierte
+- [ ] König Abiam, der in allen Sünden seines Vaters wandelte
 - [ ] König Josaphat, der Richter im Lande bestellte
 - [ ] König Joram, der die Festungen Judas ausbaute
 - [x] König Asa, der ihr Greuelbild am Bach Kidron verbrannte
@@ -692,10 +692,10 @@
 - [x] Gott spricht zu Elia im stillen, sanften Sausen
 - [x] Raben bringen Elia am Bach Krith Brot
 - [x] Feuer vom Himmel verzehrt das Opfer auf dem Karmel
-- [x] Elia fährt im feurigen Wagen gen Himmel
+- [x] Elia fährt im Wetter gen Himmel
 - [x] Elia wohnt bei der Witwe zu Zarpath
 
-**Bibelstelle:** 1. Könige 17:6
+**Bibelstelle:** 1. Könige 17:6; 1. Könige 17:9; 1. Könige 18:38; 1. Könige 19:12; 2. Könige 2:11
 **Erklärung:** 
 
 ### 70. Was gab Gott Salomo nach 1. Könige 3:13 zusätzlich, obwohl er NICHT darum gebeten hatte?

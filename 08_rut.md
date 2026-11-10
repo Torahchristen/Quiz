@@ -20,8 +20,8 @@
 ### 2. Aus welcher Stadt stammten Elimelech, sein Weib Naemi und ihre zwei Söhne?
 
 - [ ] Aus der Priesterstadt Hebron in Juda
-- [x] Aus der Stadt Bethlehem-Juda im Land
-- [ ] Aus der Bundeslade-Stadt Silo im Land
+- [x] Aus der Stadt Bethlehem-Juda
+- [ ] Aus Silo, der Stadt der Stiftshütte
 - [ ] Aus der Stadt Bethel im Gebirge Ephraim
 
 **Bibelstelle:** Rut 1:1-2
@@ -145,7 +145,7 @@
 - [ ] Nur eine kleine Handvoll dörrer Halme
 
 **Bibelstelle:** Rut 2:17
-**Erklärung:** 
+**Erklärung:** Ein Epha war ein altes biblisches Hohlmaß für Getreide und entsprach etwa 20 bis 22 Litern (Rut 2:17).
 
 ### 15. Welche Bedeutung hatte Boas für die Familie Naemis nach den Worten der Schwiegermutter?
 
@@ -155,7 +155,7 @@
 - [ ] Er war der Hauptmann des Heeres Judas
 
 **Bibelstelle:** Rut 2:20
-**Erklärung:** Ein Epha war ein altes biblisches Hohlmaß für Getreide und entsprach etwa 20 bis 22 Litern (Rut 2:17).
+**Erklärung:** 
 
 ### 16. Welchen Rat gab Naemi der Rut für die Nacht des Worfelns auf der Tenne des Boas?
 
@@ -187,11 +187,11 @@
 **Bibelstelle:** Rut 3:9
 **Erklärung:** 
 
-### 19. Welches Zeugnis gab Boas der Rut vor dem ganzen Tor seines Volkes?
+### 19. Welches Zeugnis stellte Boas der Rut in der Nacht auf der Tenne aus?
 
 - [ ] Dass sie die reichste Frau unter den Fremdlingen sei
 - [ ] Dass ihre Klugheit die Worte der Ältesten übertreffe
-- [x] Dass das ganze Tor weiß, dass sie ein tugendsam Weib ist
+- [x] Dass die ganze Stadt weiß, dass sie ein tugendsam Weib ist
 - [ ] Dass sie die Erbin des gesamten Hauses Elimelech sei
 
 **Bibelstelle:** Rut 3:11

@@ -68,7 +68,7 @@
           "isCorrect": false
         },
         {
-          "text": "Das Ausrüsten des Heeres mit eisernen Rüstungen her",
+          "text": "Das Ausrüsten des Heeres mit eisernen Rüstungen",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -308,7 +308,7 @@
           "isCorrect": false
         },
         {
-          "text": "Vier Männer aus dem Stamm Ephraim her",
+          "text": "Vier Männer aus dem Stamm Ephraim",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -498,7 +498,7 @@
           "isCorrect": true
         },
         {
-          "text": "Wenn sie das rote Seil während der Belagerung einholte",
+          "text": "Wenn sie ihr Haus vor der Eroberung verkauft hätte",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -553,7 +553,7 @@
     {
       "questionId": "jos_015",
       "type": "single_choice",
-      "text": "Welches Heiligtum zog dem Volk Israel beim Aufbruch vom Lager Sittim voran?",
+      "text": "Was zog dem Volk Israel beim Aufbruch vom Lager am Jordan voran?",
       "options": [
         {
           "text": "Die Bundeslade Gottes getragen von den Priestern",
@@ -2246,7 +2246,7 @@
           "isCorrect": false
         },
         {
-          "text": "Nach vierzig Tagen, als das Land unter den Stämmen verteilt wurde",
+          "text": "Nach vierzig Tagen, als die Stiftshütte in Silo aufgerichtet wurde",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -2532,7 +2532,7 @@
       "text": "In welcher Höhle verbargen sich die fünf Amoriterkönige auf der Flucht vor Israel?",
       "options": [
         {
-          "text": "In der Höhle bei Makkeda im Gebirge",
+          "text": "In der Höhle zu Makkeda",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": true
@@ -3108,7 +3108,7 @@
           "isCorrect": false
         },
         {
-          "text": "Der Jabbokfluss an den Grenzen Ammoniter",
+          "text": "Der Jabbokfluss an der Grenze der Ammoniter",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -3175,16 +3175,16 @@
     {
       "questionId": "jos_084",
       "type": "single_choice",
-      "text": "Welches Gewässer im Norden gehörte zum Herrschaftsgebiet des Riesenkönigs Og?",
+      "text": "Welches Meer im Norden wird als Grenze des Gebiets des Amoriterkönigs Sihon genannt?",
       "options": [
         {
-          "text": "Das große Salzmeer an den Wüstengrenzen",
+          "text": "Das große Meer an der Küste der Philister",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "Das Binnenmeer Kinnereth (Genezareth)",
+          "text": "Das Meer Kinneroth (Genezareth)",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": true
@@ -3205,7 +3205,7 @@
       "correctAnswers": [
         1
       ],
-      "bibleReference": "Josua 12:3",
+      "bibleReference": "Josua 12:2-3",
       "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
@@ -3292,7 +3292,7 @@
       "text": "Was diente dem Stamm Levi stattdessen als sein zugewiesener Anteil im Lande Kanaan?",
       "options": [
         {
-          "text": "Die Feueropfer des HERRN sind ihr Erbteil",
+          "text": "Das Opfer des HERRN, des Gottes Israels, ist ihr Erbteil",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": true
@@ -3880,7 +3880,7 @@
           "isCorrect": false
         },
         {
-          "text": "Othniel, der Sohn des Kenas, des Bruders Kalebs",
+          "text": "Othniel, der Sohn des Kenas, der Bruder Kalebs",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": true
@@ -4923,7 +4923,7 @@
     {
       "questionId": "jos_130",
       "type": "single_choice",
-      "text": "Welcher Vater Abrahams wohnte vorzeiten jenseit des Stroms und diente andern Göttern?",
+      "text": "Welcher Vorfahr Israels wohnte nach Josuas Rede vorzeiten jenseit des Stroms und diente andern Göttern?",
       "options": [
         {
           "text": "Isaak im Lande Kanaan",

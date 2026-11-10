@@ -36,7 +36,7 @@
           "explanation": ""
         },
         {
-          "text": "Timotheus, brother",
+          "text": "Timotheus, the brother",
           "isCorrect": true,
           "explanation": ""
         },
@@ -46,7 +46,7 @@
           "explanation": ""
         },
         {
-          "text": "Silas of Jerusalem",
+          "text": "Titus of Crete",
           "isCorrect": false,
           "explanation": ""
         }
@@ -436,7 +436,7 @@
       "type": "single_choice",
       "difficulty": "hard",
       "text": "What tidings did Timotheus bring according to 1 Thessalonians 3:6?",
-      "bibleReference": "1 Thessalonians 3:6",
+      "bibleReference": "1 Thessalonians 3:6-7",
       "options": [
         {
           "text": "That civil rulers provided abundance of silver",
@@ -504,7 +504,7 @@
       "type": "single_choice",
       "difficulty": "easy",
       "text": "In what does the Lord make believers abound (1 Thessalonians 3:12)?",
-      "bibleReference": "1 Thessalonians 3:12",
+      "bibleReference": "1 Thessalonians 3:12-13",
       "options": [
         {
           "text": "Abundance of earthly possessions",
@@ -658,7 +658,7 @@
           "explanation": ""
         },
         {
-          "text": "The Lord himself descend from heaven, and dead in Christ rise first",
+          "text": "The Lord himself shall descend from heaven, and the dead in Christ shall rise first",
           "isCorrect": true,
           "explanation": ""
         }

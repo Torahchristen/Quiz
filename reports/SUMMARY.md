@@ -87,6 +87,8 @@
 
 Bei keiner der 4.754 Fragen musste das Array `correctAnswers` gegenüber dem Ausgangszustand (`main`) geändert werden; wo Antwortoptionen sprachlich an die Bibelübersetzung angepasst wurden, blieb die richtige Antwort durchgehend am bestehenden Lösungsindex.
 
+> **Nachtrag (Inhaltsprüfung):** Die Prüfung in [`PRUEFBERICHT_INHALT_UEBERSETZUNG.md`](./PRUEFBERICHT_INHALT_UEBERSETZUNG.md) ergab, dass bei `ps_061`, `ps_063`, `ps_074` und `apg_136` durch das Umsortieren der Optionen der unveränderte Index auf einen falschen Distraktor zeigte. Diese Lösungen wurden in DE und EN korrigiert; alle weiteren Korrekturen stehen in [`KORREKTUREN_UMSETZUNG.md`](./KORREKTUREN_UMSETZUNG.md).
+
 ## 4. Korrigierte und präzisierte Bibelstellen (`bibleReference`)
 
 | Datei | questionId | Vorher (DE) | Nachher (DE) | Nachher (EN KJV) | Frage |

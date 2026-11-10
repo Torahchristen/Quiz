@@ -37,7 +37,7 @@
 **Bibelstelle:** Habakuk 1:13
 **Erklärung:** 
 
-### 4. Wie nimmt Habakuk nach Habakuk 2:1 die Antwort des HERRN auf?
+### 4. Wie erwartet Habakuk nach Habakuk 2:1 die Antwort des HERRN?
 
 - [x] Er stellt sich auf seine Hut und wartet auf einer Feste, was ihm gesagt werde
 - [ ] Er zieht sich in die Wüste zurück und betet dort um eine Antwort des HERRN
@@ -150,14 +150,14 @@
 ### 15. Was sagt Habakuk 2:19 über den, der zum Holz spricht: Wache auf!?
 
 - [ ] Wohl ihm, denn was mit Gold und Silber überzogen ist, erhört sein Flehen
-- [ ] Weh ihm, denn was mit Gold und Silber überzogen ist, bietet keinen Schutz
+- [ ] Weh ihm, denn das Holz wird aufwachen und ihn für seinen Frevel strafen
 - [x] Weh ihm, denn es ist mit Gold und Silber überzogen und ist kein Odem in ihm
 - [ ] Wohl ihm, denn was mit Gold und Silber überzogen ist, zeigt Gottes Nähe
 
 **Bibelstelle:** Habakuk 2:19
 **Erklärung:** 
 
-### 16. Wem gleicht der HERR nach Habakuk 3:19 die Füße des Propheten?
+### 16. Wem macht der HERR nach Habakuk 3:19 die Füße des Propheten gleich?
 
 - [ ] Löwenpranken, die ihn auf seinen Wegen schützen
 - [ ] Rosshufen, die ihn durch das Tal der Not führen

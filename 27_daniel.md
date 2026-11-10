@@ -284,7 +284,7 @@
 - [ ] Tyrus und Sidon, die um die Meere kämpften
 - [ ] Arabien und Kusch, die um das Land am Nil rangen
 
-**Bibelstelle:** Daniel 11:5
+**Bibelstelle:** Daniel 11:5-6
 **Erklärung:** 
 
 ### 29. Welchen Frevel begeht der Herrscher nach Daniel 11:31?

@@ -691,7 +691,7 @@
 
 - [ ] Sie umgab die Leichen mit einer Wache von hundert benjaminitischen Kriegern
 - [ ] Sie errichtete ein steinernes Gewölbe über den Leibern auf dem Fels
-- [x] Sie breitete ein Häslein auf den Fels und wehrte den Vögeln und Tieren
+- [x] Sie breitete einen Sack auf den Fels und wehrte den Vögeln und Tieren
 - [ ] Sie klagte sieben Tage laut und salbte die Gebeine täglich mit Myrrhe
 
 **Bibelstelle:** 2. Samuel 21:10

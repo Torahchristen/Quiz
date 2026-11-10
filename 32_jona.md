@@ -61,7 +61,7 @@
 
 - [ ] Ich will dir ewige Opfer bringen
 - [ ] Gelobt sei der Name des HERRN
-- [x] Die Hilfe ist des HERRN allein
+- [x] Die Hilfe ist des HERRN
 - [ ] Der HERR hat mich hart gestraft
 
 **Bibelstelle:** Jona 2:9
@@ -135,7 +135,7 @@
 - [x] Der Rizinus verdorrt durch den Wurm
 - [x] Die Schiffsleute werfen Jona ins Meer
 
-**Bibelstelle:** Jona 1:3
+**Bibelstelle:** Jona 1:3; 1:7; 1:15; 2:1; 4:7
 **Erklärung:** 
 
 ### 14. Wie stellt sich Jona den Schiffsleuten nach Jona 1:9 vor?

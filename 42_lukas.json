@@ -725,11 +725,11 @@
           "explanation": ""
         },
         {
-          "text": "Matthäus aus Nain, den Zöllner an der Stadtmauer",
+          "text": "Simon, einen vornehmen und reichen Pharisäer",
           "explanation": ""
         },
         {
-          "text": "Barabbas aus der Gegend, den Zöllner im Hafen",
+          "text": "Nikodemus, einen Obersten des Hohen Rates",
           "explanation": ""
         }
       ],
@@ -905,7 +905,7 @@
           "explanation": ""
         },
         {
-          "text": "Auf einen Felsen, dem er tief gegraben hat",
+          "text": "Auf einen Felsen, nachdem er tief gegraben hatte",
           "explanation": ""
         },
         {
@@ -1254,10 +1254,10 @@
     {
       "questionId": "lk_042",
       "type": "single_choice",
-      "text": "Für wen hielt Herodes Antipas nach den Gerüchten Jesus?",
+      "text": "Welches Gerücht über Jesus beantwortete Herodes mit den Worten: „Johannes habe ich enthauptet“?",
       "options": [
         {
-          "text": "Dass er der wiedergekommene Elia sei, der das Volk Israel sammeln solle",
+          "text": "Dass er ein Zauberer aus Ägypten sei, der das Volk verführe",
           "explanation": ""
         },
         {
@@ -2105,7 +2105,7 @@
           "explanation": ""
         },
         {
-          "text": "Es taugt weder für das Land noch für den Mist und wird weggeworfen",
+          "text": "Es ist weder für das Erdreich noch für den Dünger tauglich; man wirft es hinaus",
           "explanation": ""
         },
         {
@@ -2127,19 +2127,19 @@
       "text": "Wie reagiert der Hirte im Gleichnis bei dem Fund des verlorenen Schafes?",
       "options": [
         {
-          "text": "Große Ehre für Gerechte, die das Gesetz halten",
+          "text": "Er treibt es mit vielen Schlägen in den Pferch zurück und bindet es",
           "explanation": ""
         },
         {
-          "text": "Reiche Belohnung für treue Knechte im Himmel",
+          "text": "Er verkauft es auf dem Markt und kehrt zu den neunundneunzig zurück",
           "explanation": ""
         },
         {
-          "text": "Hohen Lohn bei der Auferstehung der Gerechten",
+          "text": "Er sperrt es dreißig Tage ein, damit es nicht mehr fortläuft",
           "explanation": ""
         },
         {
-          "text": "Mehr Freude über einen bußfertigen Sünder",
+          "text": "Er nimmt es auf seine Schulter mit Freuden",
           "explanation": ""
         }
       ],
@@ -2364,7 +2364,7 @@
     {
       "questionId": "lk_079",
       "type": "single_choice",
-      "text": "Wo befand sich die Seele des armen Lazarus nach seinem Sterben?",
+      "text": "Wohin wurde der arme Lazarus nach seinem Sterben von den Engeln getragen?",
       "options": [
         {
           "text": "Auf den heiligen Berg Zion",
@@ -2375,11 +2375,11 @@
           "explanation": ""
         },
         {
-          "text": "In das herrliche Paradies",
+          "text": "In das Haus des reichen Mannes",
           "explanation": ""
         },
         {
-          "text": "In Abrahams Schoß getragen",
+          "text": "In Abrahams Schoß",
           "explanation": ""
         }
       ],
@@ -2874,10 +2874,10 @@
     {
       "questionId": "lk_096",
       "type": "single_choice",
-      "text": "Welches Gegenfrage stellte Jesus den Hohepriestern nach Seiner Vollmacht?",
+      "text": "Welche Gegenfrage stellte Jesus den Hohenpriestern auf die Frage nach Seiner Vollmacht?",
       "options": [
         {
-          "text": "Die Taufe des Johannes, war sie vom Himmel oder von Menschen?",
+          "text": "War die Taufe des Johannes vom Himmel oder von Menschen?",
           "explanation": ""
         },
         {
@@ -2941,7 +2941,7 @@
           "explanation": ""
         },
         {
-          "text": "Eine silberne Münze",
+          "text": "Ein kupfernes Scherflein",
           "explanation": ""
         },
         {
@@ -2949,7 +2949,7 @@
           "explanation": ""
         },
         {
-          "text": "Drei Silberlinge",
+          "text": "Dreißig Silberlinge",
           "explanation": ""
         }
       ],
@@ -3054,7 +3054,7 @@
     {
       "questionId": "lk_102",
       "type": "single_choice",
-      "text": "Welche Vorboten kündigen das Ende nach der Endzeitrede Jesu an?",
+      "text": "Welche Zeichen nannte Jesus auf die Frage, wann der Tempel zerstört werde?",
       "options": [
         {
           "text": "Ein langer Weltfriede, der die Völker beruhigt und das Land fruchtbar macht",
@@ -3099,7 +3099,7 @@
           "explanation": ""
         },
         {
-          "text": "Bis die Zeiten der Heiden erfüllt sind",
+          "text": "Bis die Zeitfristen der Nationenvölker erfüllt sind",
           "explanation": ""
         }
       ],
@@ -3391,7 +3391,7 @@
           "explanation": ""
         },
         {
-          "text": "Simon von Kyrene, der vom Felde kam",
+          "text": "Simon von Kyrene, der vom Feld kam",
           "explanation": ""
         },
         {
@@ -3775,7 +3775,7 @@
         2,
         0
       ],
-      "bibleReference": "Lukas 1:38",
+      "bibleReference": "Lukas 1:26-38; Lukas 2:1-20; Matthäus 2:1-15",
       "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"

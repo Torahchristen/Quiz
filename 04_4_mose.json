@@ -36,7 +36,7 @@
           "explanation": ""
         },
         {
-          "text": "Am Fuße des Berges Horeb vor dem Aufbruch",
+          "text": "In der Oase Elim bei den zwölf Wasserquellen",
           "id": "opt_3",
           "isCorrect": false,
           "explanation": ""
@@ -366,7 +366,7 @@
       "text": "Welcher Stamm führte die drei Stämme an der Südseite des Wüstenlagers an?",
       "options": [
         {
-          "text": "Der erstgeborene Stamm Levi vor dem Zelt",
+          "text": "Der Stamm Levi rings um das Zelt",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -971,7 +971,7 @@
     {
       "questionId": "num_026",
       "type": "single_choice",
-      "text": "Womit wurden die Geräte des Tischs der Schaubrote beim Transport abgedeckt?",
+      "text": "Womit wurde der Schaubrottisch beim Aufbruch zuerst bedeckt, bevor man die Geräte daraufsetzte?",
       "options": [
         {
           "text": "Mit einer Decke aus rotem Widderfell",
@@ -1161,7 +1161,7 @@
     {
       "questionId": "num_031",
       "type": "single_choice",
-      "text": "Woraus bestand das Mahlopfer der Eifersucht, das ein Ehemann bei Verdacht darbrachte?",
+      "text": "Woraus bestand das Speisopfer der Eifersucht, das ein Ehemann bei Verdacht darbrachte?",
       "options": [
         {
           "text": "Aus feinem Weizenmehl mit Salböl",
@@ -1278,7 +1278,7 @@
       "text": "Welche Auswirkung hatte das fluchbringende Wasser auf eine tatsächlich schuldige Ehefrau?",
       "options": [
         {
-          "text": "Sie wurde augenblicklich von Blattern befallen",
+          "text": "Sie wurde augenblicklich vom Aussatz befallen",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -1524,7 +1524,7 @@
           "isCorrect": false
         },
         {
-          "text": "Der HERR segne dich und behüte dich in allen Dingen",
+          "text": "JHWH segne dich und behüte dich!",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": true
@@ -1816,7 +1816,7 @@
           "isCorrect": false
         },
         {
-          "text": "Die reicherer Stämme brachten doppelt so viele Tiere",
+          "text": "Die reicheren Stämme brachten doppelt so viele Tiere",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -2035,7 +2035,7 @@
     {
       "questionId": "num_054",
       "type": "single_choice",
-      "text": "An Wessen Stelle nahm Gott den Stamm Levi aus der Mitte der Kinder Israels an?",
+      "text": "An wessen Stelle nahm Gott den Stamm Levi aus der Mitte der Kinder Israel an?",
       "options": [
         {
           "text": "Anstelle der kriegstauglichen Männer aller Stämme",
@@ -2532,13 +2532,13 @@
       "text": "Welche Verheißung gab Gott beim Blasen der Trompeten im Krieg gegen Feinde im Erdlande?",
       "options": [
         {
-          "text": "Die Feinde wurden sofort von Verwirrung geschlagen",
+          "text": "Die Feinde würden sofort von Verwirrung geschlagen",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "Ein feuriger Hagel stürzte auf das Heer der Feinde",
+          "text": "Ein feuriger Hagel würde auf das Heer der Feinde stürzen",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -2550,7 +2550,7 @@
           "isCorrect": true
         },
         {
-          "text": "Die Engel des Himmels kämpften sichtbar voran",
+          "text": "Die Engel des Himmels würden sichtbar vorankämpfen",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -2924,7 +2924,7 @@
           "isCorrect": false
         },
         {
-          "text": "Die Nahrung verwandelte sich in bitteres Wüstenwasser",
+          "text": "Das übrige Fleisch verwandelte sich in bitteren Wüstenstaub",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
@@ -3099,7 +3099,7 @@
     {
       "questionId": "num_082",
       "type": "single_choice",
-      "text": "Welches kurze, ergreifende Gebot rief Mose vor Gott für seine aussätzige Schwester aus?",
+      "text": "Welches kurze, ergreifende Gebet rief Mose zu Gott für seine aussätzige Schwester?",
       "options": [
         {
           "text": "Vergib ihr diese große Sünde um des Bundes willen",
@@ -3108,7 +3108,7 @@
           "isCorrect": false
         },
         {
-          "text": "„O Gott, heile sie doch!“ rief Mose zum HERRN",
+          "text": "„Ach Äl, heile sie doch!“, schrie Mose zum HERRN",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": true
@@ -3213,7 +3213,7 @@
     {
       "questionId": "num_085",
       "type": "single_choice",
-      "text": "Aus welchem Ort in der Wüste Paran wurden die zwölf Kundschafter zur Auskundschaftung ausgesandt?",
+      "text": "Von wo aus sandte Mose die zwölf Kundschafter nach Kanaan aus?",
       "options": [
         {
           "text": "Aus der Wüste Paran auf Gottes Befehl hin",
@@ -3251,7 +3251,7 @@
     {
       "questionId": "num_086",
       "type": "single_choice",
-      "text": "Welchem Vertreter des Stammes Ephraim gab Mose vor der Aussendung den Namen Josua?",
+      "text": "Welchem Kundschafter gab Mose vor der Aussendung den Namen Josua?",
       "options": [
         {
           "text": "Kaleb dem Sohne Jephunnes aus Juda",
@@ -3745,7 +3745,7 @@
     {
       "questionId": "num_099",
       "type": "single_choice",
-      "text": "Was widerfuhr den Israeliten, die trotz Moses Warnung eigenmächtig nach Horma vorrückten?",
+      "text": "Was widerfuhr den Israeliten, die trotz Moses Warnung eigenmächtig auf die Höhe des Gebirges zogen?",
       "options": [
         {
           "text": "Sie eroberten die ersten Festungsstädte",
@@ -3760,7 +3760,7 @@
           "isCorrect": false
         },
         {
-          "text": "Sie wurden von den Amalekitern geschlagen",
+          "text": "Amalekiter und Kanaaniter schlugen sie bis Horma",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": true
@@ -3775,7 +3775,7 @@
       "correctAnswers": [
         2
       ],
-      "bibleReference": "4. Mose 14:45",
+      "bibleReference": "4. Mose 14:44-45",
       "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
@@ -3783,7 +3783,7 @@
     {
       "questionId": "num_100",
       "type": "single_choice",
-      "text": "Was sollte Israel darbringen, wenn es in das Erdland seiner Wohnsitze kam?",
+      "text": "Was sollte im Land Kanaan zu jedem Brand- oder Schlachtopfer zusätzlich dargebracht werden?",
       "options": [
         {
           "text": "Ein zweites Lamm als zusätzliches Dankopfer",
@@ -3982,7 +3982,7 @@
           "isCorrect": true
         },
         {
-          "text": "Kleine Schalen aus geprägtem Silber blech",
+          "text": "Kleine Plättchen aus geprägtem Silberblech",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -4032,7 +4032,7 @@
           "isCorrect": false
         },
         {
-          "text": "Nadab und Abihu mit zweihundert Männern",
+          "text": "Nadab und Abihu mit zweihundertfünfzig Männern",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -4087,7 +4087,7 @@
     {
       "questionId": "num_108",
       "type": "single_choice",
-      "text": "Was antworteten Dathan und Abiram, als Mose sie zu einer Aussprache vor das Zelt rufen ließ?",
+      "text": "Was antworteten Dathan und Abiram, als Mose sie rufen ließ?",
       "options": [
         {
           "text": "Sie forderten das sofortige Amt des Hohepriesters",
@@ -4108,7 +4108,7 @@
           "isCorrect": false
         },
         {
-          "text": "Wir wollen und werden keinesfalls hinaufkommen",
+          "text": "Sie sprachen: Wir kommen nicht hinauf!",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": true
@@ -4391,7 +4391,7 @@
     {
       "questionId": "num_116",
       "type": "single_choice",
-      "text": "Welche bange Frage schrie das Volk Israel nach dem Gericht vor Mose aus?",
+      "text": "Welche bange Klage richtete das Volk Israel nach dem Gericht an Mose?",
       "options": [
         {
           "text": "Wann werden wir endlich im verheißenen Lande ankommen, Mose?",
@@ -4412,7 +4412,7 @@
           "isCorrect": false
         },
         {
-          "text": "Siehe, wir nehmen ab, wir verderben, wir gehen alle unter!",
+          "text": "Siehe, wir hauchen aus, wir kommen um, wir kommen alle um!",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": true
@@ -5078,7 +5078,7 @@
       "text": "An welchem Ort in der Wüste Zin starb die Prophetin Mirjam und wurde begraben?",
       "options": [
         {
-          "text": "Auf der Höhe des rauchenden Berges Hor",
+          "text": "Auf dem Gipfel des Berges Hor, wo Aaron starb",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
@@ -5090,7 +5090,7 @@
           "isCorrect": true
         },
         {
-          "text": "In Hazeroth nach der Aussatzerwählung",
+          "text": "In Hazeroth, wo sie mit Aussatz geschlagen wurde",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
@@ -5280,7 +5280,7 @@
           "explanation": ""
         },
         {
-          "text": "Du sollst nicht durch mein Erdland ziehen, sonst ziehe ich mit dem Schwert aus",
+          "text": "Du sollst nicht durch mein Erdland ziehen, sonst will ich dir mit dem Schwert entgegentreten!",
           "id": "opt_3",
           "isCorrect": true,
           "explanation": ""
@@ -5356,7 +5356,7 @@
           "isCorrect": false
         },
         {
-          "text": "Sieben Tage vor dem Altar in Sakk zu fasten",
+          "text": "Sieben Tage im Sacktuch vor der Lade zu fasten",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
@@ -5531,28 +5531,28 @@
     {
       "questionId": "num_146",
       "type": "single_choice",
-      "text": "Welchem Volk hatte Sihon, der König der Amoriter, zuvor das Erdland bis zum Arnon entrissen?",
+      "text": "Welchem Herrscher hatte Sihon, der König der Amoriter, zuvor das Erdland bis zum Arnon entrissen?",
       "options": [
         {
-          "text": "Dem kriegerischen Stamm der Philister im Westen",
+          "text": "Den kriegerischen Fürsten der Philister im Westen",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "Dem ersten König der Moabiter im Ostjordanland",
+          "text": "Dem früheren König der Moabiter im Ostjordanland",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": true
         },
         {
-          "text": "Den Edomitern aus den Bergen des Seir-Gebirges",
+          "text": "Den Fürsten Edoms aus dem Gebirge Seir",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "Den Ammonitern aus den nördlichen Grenzzonen",
+          "text": "Dem König der Ammoniter an der Nordgrenze",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -5759,7 +5759,7 @@
     {
       "questionId": "num_152",
       "type": "single_choice",
-      "text": "Warum entbrannte der Zorn Gottes, als Bileam am Morgen mit den Fürsten Moabs ritt?",
+      "text": "Warum entbrannte der Zorn Gottes über Bileam auf seinem Weg nach Moab?",
       "options": [
         {
           "text": "Weil er vergessen hatte, sein Sündopfer zu bringen",
@@ -5780,7 +5780,7 @@
           "isCorrect": false
         },
         {
-          "text": "Weil er ging und sein Herz auf den Lohn aus war",
+          "text": "Weil er mit den Fürsten Moabs hinging",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": true
@@ -5888,7 +5888,7 @@
           "isCorrect": false
         },
         {
-          "text": "Dass er ihn getötet, die Eselin aber geschont hätte",
+          "text": "Dass er ihn sonst getötet und die Eselin verschont hätte",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": true
@@ -7120,8 +7120,8 @@
         2
       ],
       "bibleReference": "4. Mose 27:12",
-      "explanation": "",
-      "explanationReviewed": false,
+      "explanation": "Der Berg Nebo, auf dem Mose später das Land sah, gehört zum Gebirge Abarim (5. Mose 32:49). In 4. Mose 27:12 wird nur das Gebirge Abarim genannt.",
+      "explanationReviewed": true,
       "difficulty": "easy"
     },
     {
@@ -8086,7 +8086,7 @@
           "isCorrect": true
         },
         {
-          "text": "Balaam der moabitische Priester aus Ar",
+          "text": "Balak, der König der Moabiter, der Bileam gedungen hatte",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -8624,7 +8624,7 @@
           "explanation": ""
         },
         {
-          "text": "Sie würden Dornen in ihren Augen und Stacheln sein",
+          "text": "Sie würden zu Dornen in ihren Augen und Stacheln in ihren Seiten",
           "id": "opt_3",
           "isCorrect": true,
           "explanation": ""
@@ -8764,7 +8764,7 @@
       "text": "Welche zwei Männer sollten das Erdland Kanaan als Erbe unter die Stämme verteilen?",
       "options": [
         {
-          "text": "Kaleb der Keneasiter und Phinehas der Priester",
+          "text": "Kaleb, der Sohn Jephunnes, und Phinehas, der Priester",
           "id": "opt_1",
           "isCorrect": false,
           "explanation": ""
@@ -8951,7 +8951,7 @@
     {
       "questionId": "num_236",
       "type": "single_choice",
-      "text": "Wie viele der achtundvierzig Levitienstädte mussten als Freistädte dienen?",
+      "text": "Wie viele der achtundvierzig Levitenstädte mussten als Freistädte dienen?",
       "options": [
         {
           "text": "Genau zwölf Freistädte für den Totschläger",

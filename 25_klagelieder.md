@@ -49,10 +49,10 @@
 
 ### 5. Wie beschreibt Klagelieder 2:1 den Zorn des Herrn über Zion?
 
-- [ ] Der Herr hat die Tore Jerusalems zerbrochen und die Königssöhne weggeführt
-- [ ] Der Herr hat seinen Altar verlassen und sein Heiligtum verworfen
+- [ ] Der Herr hat Zion eine Frist zur Buße gegeben und seinen Zorn aufgeschoben
+- [ ] Der Herr hat Zion verschont und seinen Zorn von ihr abgewandt
 - [x] Der Herr hat die Herrlichkeit Israels vom Himmel auf die Erde geworfen
-- [ ] Der Herr hat die Fürsten Judas wie Hirsche ohne Weide fliehen lassen
+- [ ] Der Herr hat Zion mit Hagel und Heuschrecken geschlagen
 
 **Bibelstelle:** Klagelieder 2:1
 **Erklärung:** 

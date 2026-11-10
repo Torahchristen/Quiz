@@ -439,28 +439,28 @@
     {
       "questionId": "ri_012",
       "type": "single_choice",
-      "text": "Wie viele Fürsten der Philister blieben unter anderem im Lande zur Prüfung Israels bestehen?",
+      "text": "Wie viele Fürsten der Philister ließ der HERR im Lande bleiben, um Israel durch sie zu versuchen?",
       "options": [
         {
-          "text": "Zwölf Fürsten der Nomaden aus den Wüstengebieten",
+          "text": "Zwölf Fürsten der Philister",
           "explanation": "",
           "id": "opt_1",
           "isCorrect": false
         },
         {
-          "text": "Sieben Könige der kanaanitischen Städte im Norden",
+          "text": "Sieben Fürsten der Philister",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
         },
         {
-          "text": "Genau fünf Fürsten der Philister zur Prüfung da",
+          "text": "Fünf Fürsten der Philister",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": true
         },
         {
-          "text": "Drei Herrscher der Amoriter aus dem Bergland her",
+          "text": "Drei Fürsten der Philister",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -1170,19 +1170,19 @@
           "isCorrect": false
         },
         {
-          "text": "Kein Schild noch Lanze war unter ihnen zu sehen",
+          "text": "Kein Schild noch Speer war unter ihnen zu sehen",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": true
         },
         {
-          "text": "Die Schwerter waren alle aus weichem Kupfer erz",
+          "text": "Die Schwerter waren alle aus weichem Kupfer",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "Es fehlte an Bögen und Köchern für den Kampf her",
+          "text": "Es fehlte an Bögen und Köchern für den Kampf",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -1366,7 +1366,7 @@
           "isCorrect": false
         },
         {
-          "text": "In der Kelter zu Ophra unter der Eiche",
+          "text": "In der Kelter zu Ophra",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": true
@@ -1626,7 +1626,7 @@
           "isCorrect": false
         },
         {
-          "text": "An dem Brunnen Harod am Gebirge",
+          "text": "Am Brunnen Harod",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": true
@@ -3120,7 +3120,7 @@
           "isCorrect": false
         },
         {
-          "text": "Staub von den Wüstenseiten des Landes Edom",
+          "text": "Staub aus den Wüsten des Landes Edom",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -3336,7 +3336,7 @@
           "isCorrect": false
         },
         {
-          "text": "Eine scharfe Klinge aus geharztem Silber",
+          "text": "Eine scharfe Klinge aus blankem Silber",
           "explanation": "",
           "id": "opt_2",
           "isCorrect": false
@@ -3500,7 +3500,7 @@
           "isCorrect": true
         },
         {
-          "text": "Sie diente als Magd in den Altären Dagons",
+          "text": "Sie diente als Magd im Tempel Dagons",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -3517,7 +3517,7 @@
     {
       "questionId": "ri_093",
       "type": "single_choice",
-      "text": "Womit steckte Simson die Getreidegarben, Olivenhaine und Weinberg der Philister in Brand?",
+      "text": "Womit steckte Simson die Getreidegarben, Olivenhaine und Weinberge der Philister in Brand?",
       "options": [
         {
           "text": "Mit glühenden Kohlen aus dem Herd seines Vaters, die er auf die Felder warf",
@@ -3555,7 +3555,7 @@
     {
       "questionId": "ri_094",
       "type": "single_choice",
-      "text": "Wie reagierten die erzürnten Philister auf die Zerstörung ihrer gesamten Olivenernte?",
+      "text": "Wie rächten sich die erzürnten Philister für die Verbrennung ihres Korns, ihrer Weinberge und Ölbäume?",
       "options": [
         {
           "text": "Sie verbrannten die Frau und ihren Vater mit Feuer",
@@ -3585,7 +3585,7 @@
       "correctAnswers": [
         0
       ],
-      "bibleReference": "Richter 15:6",
+      "bibleReference": "Richter 15:5-6",
       "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
@@ -3935,7 +3935,7 @@
     {
       "questionId": "ri_104",
       "type": "single_choice",
-      "text": "Was taten die Philister mit Simson, nachdem sie ihn überwältigt und geblendet hatten?",
+      "text": "Was taten die Philister mit Simson, nachdem ihm Delila die Locken hatte abscheren lassen?",
       "options": [
         {
           "text": "Sie warfen ihn in den tiefen Schacht von Jericho",
@@ -3988,13 +3988,13 @@
           "isCorrect": false
         },
         {
-          "text": "Um das Feuer des Himmels auf das heilige Dach",
+          "text": "Um Feuer vom Himmel auf das Dach des Tempels",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
         },
         {
-          "text": "Gedenke meiner und stärke mich nur noch diesmal!",
+          "text": "Gedenke mein und stärke mich doch diesmal!",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": true
@@ -4216,7 +4216,7 @@
           "isCorrect": true
         },
         {
-          "text": "An einem Brandmal an seiner rechten Hand da",
+          "text": "An einem Brandmal an seiner rechten Hand",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
@@ -4412,7 +4412,7 @@
           "isCorrect": true
         },
         {
-          "text": "Sie nannten sie Gilgal zur Erinnerung her",
+          "text": "Sie nannten sie Gilgal zur Erinnerung",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": false
@@ -4482,7 +4482,7 @@
           "isCorrect": false
         },
         {
-          "text": "Aus der Stadt Sichem im Gebirge Ephraim her",
+          "text": "Aus der Stadt Sichem im Gebirge Ephraim",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": false
@@ -5014,7 +5014,7 @@
           "isCorrect": false
         },
         {
-          "text": "Sie flohen zum Fels Rimmon in die Wüste vier Monate",
+          "text": "Sie flohen zum Fels Rimmon in der Wüste und blieben dort vier Monate",
           "explanation": "",
           "id": "opt_3",
           "isCorrect": true
@@ -5058,7 +5058,7 @@
           "isCorrect": false
         },
         {
-          "text": "Niemandem seine Tochter einem Benjaminiten zur Frau zu geben",
+          "text": "Keine Tochter einem Benjaminiten zum Weib zu geben",
           "explanation": "",
           "id": "opt_4",
           "isCorrect": true
@@ -5344,7 +5344,7 @@
         0,
         2
       ],
-      "bibleReference": "Richter 3:9",
+      "bibleReference": "Richter 3:9; Richter 3:15; Richter 4:4; Richter 6:11; Richter 13:24",
       "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"

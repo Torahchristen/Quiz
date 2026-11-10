@@ -358,7 +358,7 @@
           "explanation": ""
         },
         {
-          "text": "Jordan, Euphrat, Tigris und Pharpbar",
+          "text": "Jordan, Euphrat, Tigris und Pharpar",
           "explanation": ""
         },
         {
@@ -572,7 +572,7 @@
           "explanation": ""
         },
         {
-          "text": "Dass sie den Kopf zertreten bekommt und in die Ferse sticht",
+          "text": "Dass sie fortan in der Wüste ohne Wasser leben müsse",
           "explanation": ""
         },
         {
@@ -1142,7 +1142,7 @@
           "explanation": ""
         },
         {
-          "text": "Ziegel für Steine und gebrannten Asphalt für Kalk",
+          "text": "Gebrannte Ziegel für Steine und Asphalt für Kalk",
           "explanation": ""
         },
         {
@@ -1821,7 +1821,7 @@
     {
       "questionId": "1mose_061",
       "type": "single_choice",
-      "text": "Was befahl Gott Abraham bezüglich seines Söhnes Isaak auf dem Berge Morija?",
+      "text": "Was befahl Gott Abraham bezüglich seines Sohnes Isaak auf dem Berge Morija?",
       "options": [
         {
           "text": "Er sollte ihn dort zum König über alle Kanaaniter salben",
@@ -1851,7 +1851,7 @@
     {
       "questionId": "1mose_062",
       "type": "single_choice",
-      "text": "Welches Tier opferte Abraham schließlich anstelle seines Söhnes Isaak?",
+      "text": "Welches Tier opferte Abraham schließlich anstelle seines Sohnes Isaak?",
       "options": [
         {
           "text": "Ein einjähriges, vollkommen makelloses Lamm aus seiner Herde",
@@ -2136,7 +2136,7 @@
           "explanation": ""
         },
         {
-          "text": "Einen goldenen Stirnreif und zwei Armspangen",
+          "text": "Einen goldenen Reif und zwei Armspangen",
           "explanation": ""
         }
       ],
@@ -2908,7 +2908,7 @@
           "explanation": ""
         },
         {
-          "text": "Reuben, Simeon, Levi und Juda; Juda bedeutet „Dieses Mal will ich den HERRN preisen“",
+          "text": "Reuben, Simeon, Levi und Juda; Juda bedeutet „Nun will ich den HERRN preisen“",
           "explanation": ""
         },
         {
@@ -2923,7 +2923,7 @@
       "correctAnswers": [
         1
       ],
-      "bibleReference": "1. Mose 29:35",
+      "bibleReference": "1. Mose 29:32-35",
       "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
@@ -3268,7 +3268,7 @@
           "explanation": ""
         },
         {
-          "text": "Laban nannte ihn Jegar-Sahadutha, Jakob aber nannte ihn Galeed",
+          "text": "Laban nannte ihn Jegar-Sahaduta, Jakob aber nannte ihn Galed",
           "explanation": ""
         },
         {
@@ -3313,7 +3313,7 @@
       "correctAnswers": [
         2
       ],
-      "bibleReference": "1. Mose 32:2-3",
+      "bibleReference": "1. Mose 32:1-2",
       "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
@@ -3343,7 +3343,7 @@
       "correctAnswers": [
         3
       ],
-      "bibleReference": "1. Mose 32:10-11",
+      "bibleReference": "1. Mose 32:9-10",
       "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
@@ -3373,7 +3373,7 @@
       "correctAnswers": [
         0
       ],
-      "bibleReference": "1. Mose 32:25-26",
+      "bibleReference": "1. Mose 32:24-25",
       "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
@@ -3403,7 +3403,7 @@
       "correctAnswers": [
         1
       ],
-      "bibleReference": "1. Mose 32:28-29",
+      "bibleReference": "1. Mose 32:27-28",
       "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
@@ -3422,7 +3422,7 @@
           "explanation": ""
         },
         {
-          "text": "Pniel; „Denn ich habe Gott von Angesicht zu Angesicht gesehen, und meine Seele ist errettet worden!“",
+          "text": "Pniel; „Denn ich habe Gott von Angesicht zu Angesicht gesehen, und meine Seele ist gerettet worden!“",
           "explanation": ""
         },
         {
@@ -3433,7 +3433,7 @@
       "correctAnswers": [
         2
       ],
-      "bibleReference": "1. Mose 32:31",
+      "bibleReference": "1. Mose 32:30",
       "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
@@ -3954,7 +3954,7 @@
       "text": "Wie reagierte Ruben, als er zur Zisterne zurückkehrte und feststellte, dass Joseph verschwunden war?",
       "options": [
         {
-          "text": "Er zerriss seine Gewänder und rief: »Der Knabe ist nicht da!«",
+          "text": "Er zerriss seine Gewänder und rief: »Der geborene Jüngling ist verschwunden! Wo soll ich hin?«",
           "explanation": ""
         },
         {
@@ -4161,22 +4161,22 @@
     {
       "questionId": "1mose_139",
       "type": "single_choice",
-      "text": "Wie hießen die Zwillinge, die Tamar gebar, und welche theologische Bedeutung hat der Erstgeborene in Bezug auf den Messias?",
+      "text": "Wie hießen die Zwillinge, die Tamar dem Juda gebar?",
       "options": [
         {
-          "text": "Pharez und Zarah; Serach wurde der Stammvater des Priestertums Aarons",
+          "text": "Er und Onan",
           "explanation": ""
         },
         {
-          "text": "Esau und Jakob; Esau trat sein Erstgeburtsrecht an Perez im Mutterleib ab",
+          "text": "Sela und Serach",
           "explanation": ""
         },
         {
-          "text": "Er und Onan; sie wurden wiedergeboren, um den göttlichen Fluch zu tilgen",
+          "text": "Hezron und Hamul",
           "explanation": ""
         },
         {
-          "text": "Perez und Serach; Perez wurde der Stammvater des königlichen Hauses Juda",
+          "text": "Perez und Serach",
           "explanation": ""
         }
       ],
@@ -4708,7 +4708,7 @@
           "explanation": ""
         },
         {
-          "text": "Er weinte bitterlich, sie beraubten ihn seiner Söhne; Ruben bot seine Söhne als Bürgen an",
+          "text": "Er klagte, sie hätten ihn seiner Kinder beraubt; Ruben bot seine beiden Söhne als Pfand an",
           "explanation": ""
         },
         {
@@ -4881,22 +4881,22 @@
     {
       "questionId": "1mose_163",
       "type": "single_choice",
-      "text": "Wie reagierte Joseph emotional, als er seinen leiblichen Bruder Benjamin erblickte?",
+      "text": "Was sagte Joseph, als er Benjamin, den Sohn seiner Mutter, erblickte, und was tat er unmittelbar danach?",
       "options": [
         {
-          "text": "Er umarmte ihn sofort stürmisch vor allen Ägyptern und rief seinen Namen",
+          "text": "„Willkommen in Ägypten!“; er ließ ihm mit seinem Wagen die königlichen Paläste zeigen",
           "explanation": ""
         },
         {
-          "text": "Er blieb völlig kalt und distanziert, um keinen Verdacht zu erregen",
+          "text": "„Siehe, mein geliebter Bruder!“; er umarmte ihn unter Tränen vor allen Dienern",
           "explanation": ""
         },
         {
-          "text": "Er fragte ihn streng aus, ob der Vater noch am Leben sei",
+          "text": "„Du sollst mein Mundschenk sein!“; er ließ ihm ein goldenes Gewand bringen",
           "explanation": ""
         },
         {
-          "text": "Sein Herz wühlte sich auf gegen seinen Bruder",
+          "text": "„Gott sei dir gnädig, mein Sohn!“; er suchte einen Ort zum Weinen und ging in sein Gemach",
           "explanation": ""
         }
       ],
@@ -4974,19 +4974,19 @@
       "text": "Um wie viel größer war der Anteil, den Benjamin von Josephs Tisch erhielt?",
       "options": [
         {
-          "text": "Benjamin erhielt eine doppelte Portion; sie tranken schweigend und besorgt",
+          "text": "Er erhielt dreimal so viel wie jeder von ihnen",
           "explanation": ""
         },
         {
-          "text": "Benjamin erhielt das Essen auf einer goldenen Schale; sie blieben nüchtern",
+          "text": "Er erhielt doppelt so viel wie jeder von ihnen",
           "explanation": ""
         },
         {
-          "text": "Dem Benjamin wurde fünfmal mehr aufgetragen als allen",
+          "text": "Dem Benjamin wurde fünfmal mehr aufgetragen als ihnen allen",
           "explanation": ""
         },
         {
-          "text": "Benjamin wurde von Joseph persönlich gefüttert; sie feierten ein lautes Dankfest",
+          "text": "Er erhielt viermal so viel wie jeder von ihnen",
           "explanation": ""
         }
       ],
@@ -5064,7 +5064,7 @@
       "text": "Mit welchen theologischen Worten gestand Juda Joseph die ausweglose Lage der Brüder ein?",
       "options": [
         {
-          "text": "„Gott hat unsere geheime Schuld aufgedeckt; nimm nun unser ganzes Leben als Strafe!“",
+          "text": "„Die ägyptischen Wachen haben uns fälschlich beschuldigt! Wir sind ehrliche Händler!“",
           "explanation": ""
         },
         {
@@ -5072,11 +5072,11 @@
           "explanation": ""
         },
         {
-          "text": "„Der Herr hat das Unrecht unserer Väter heimgesucht; wir beugen uns dem Urteil deines Hauses!“",
+          "text": "„Nimm all unsere Kamele und unser Silber, aber lass uns in Frieden nach Kanaan ziehen!“",
           "explanation": ""
         },
         {
-          "text": "„Wir vermögen uns nicht zu rechtfertigen, denn der Höchste hat unser Vergehen offenbart!“",
+          "text": "„Unser Vater Jakob ist ein heiliger Prophet; tastet seine geliebten Kinder nicht an!“",
           "explanation": ""
         }
       ],
@@ -5908,7 +5908,7 @@
           "explanation": ""
         },
         {
-          "text": "Das Zepter weicht nicht von Juda, bis der Schilo kommt und Ihm die Völker dienen",
+          "text": "Das Zepter weicht nicht von Juda, bis der Schilo kommt und ihm die Völkerschaften anhangen",
           "explanation": ""
         },
         {
@@ -5961,7 +5961,7 @@
     {
       "questionId": "1mose_199",
       "type": "single_choice",
-      "text": "Wie wird das physische Erscheinungsbild Judas infolge dieses Überflusses?",
+      "text": "Wie wird das physische Erscheinungsbild Judas infolge dieses Überflusses beschrieben?",
       "options": [
         {
           "text": "Seine Haare sind wie Wolle und seine Arme wie eiserne Stangen",
@@ -5976,7 +5976,7 @@
           "explanation": ""
         },
         {
-          "text": "Seine Augen sind dunkler als Wein und seine Zähne weißer als Milch",
+          "text": "Seine Augen sind dunkelfarbig vom Wein und seine Zähne weiß von Milch",
           "explanation": ""
         }
       ],
@@ -6414,7 +6414,7 @@
       "text": "Wie drückte Joseph seine tiefe Trauer über den Tod seines Vaters aus?",
       "options": [
         {
-          "text": "Er zerriß sein buntes Gewand und rasiert sich den Kopf vor Trauer",
+          "text": "Er zerriß sein buntes Gewand und rasierte sich den Kopf vor Trauer",
           "explanation": ""
         },
         {
@@ -6501,29 +6501,29 @@
     {
       "questionId": "1mose_225",
       "type": "single_choice",
-      "text": "Warum bat Joseph das Haus des Pharao und nicht den Pharao selbst um Erlaubnis zur Reise nach Kanaan?",
+      "text": "Über wen ließ Joseph den Pharao um Erlaubnis bitten, seinen Vater in Kanaan zu begraben?",
       "options": [
         {
-          "text": "Weil der Pharao schwer krank war und niemanden empfing",
+          "text": "Über seine Brüder, die vor den Pharao traten",
           "explanation": ""
         },
         {
-          "text": "Weil er sich in Trauerkleidung befand und sich das Haar nicht schor",
+          "text": "Über das Haus des Pharao (seinen Hof)",
           "explanation": ""
         },
         {
-          "text": "Weil Joseph die ägyptische Sprache verlernt hatte",
+          "text": "Über Potiphar, den Obersten der Leibwache",
           "explanation": ""
         },
         {
-          "text": "Weil er Angst hatte, der Pharao würde ihn wegen Hochverrats verhaften lassen",
+          "text": "Über den Priester von On, seinen Schwiegervater",
           "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
-      "bibleReference": "1. Mose 50:4",
+      "bibleReference": "1. Mose 50:4-5",
       "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
@@ -6621,14 +6621,14 @@
     {
       "questionId": "1mose_229",
       "type": "single_choice",
-      "text": "Welche Botschaft (Todesurkunde / Testament) ließen die Brüder Joseph ausrichten, um sein Herz gnädig zu stimmen?",
+      "text": "Welche Botschaft ließen die Brüder Joseph ausrichten, um sein Herz gnädig zu stimmen?",
       "options": [
         {
           "text": "Sie legten einen Vertrag vor, in dem Jakob Joseph als alleinigen Erben einsetzte",
           "explanation": ""
         },
         {
-          "text": "Der Vater habe vor seinem Tod befohlen: »Vergib doch die Übertretung deiner Brüder«",
+          "text": "Der Vater habe vor seinem Tod befohlen: »Ertrage doch deiner Brüder Missetat und ihre Sünde!«",
           "explanation": ""
         },
         {
@@ -6692,11 +6692,11 @@
           "explanation": ""
         },
         {
-          "text": "„Sollte ich meinen eigenen Fleisch und Blut Schaden zufügen?“",
+          "text": "„Sollte ich meinem eigenen Fleisch und Blut Schaden zufügen?“",
           "explanation": ""
         },
         {
-          "text": "„Fürchtet euch nicht! Bin ich denn an Gottes Statt?“",
+          "text": "„Fürchtet euch nicht! Bin ich denn an Gottes Stelle?“",
           "explanation": ""
         }
       ],
@@ -6714,7 +6714,7 @@
       "text": "Wie formuliert Joseph das theologische Hauptthema des gesamten 1. Buches Mose?",
       "options": [
         {
-          "text": "»Ihr gedachtet es böse zu machen, aber Gott gedachte es gut zu machen«",
+          "text": "»Ihr gedachtet zwar Böses wider mich; aber Gott gedachte es gut zu machen«",
           "explanation": ""
         },
         {
@@ -6722,7 +6722,7 @@
           "explanation": ""
         },
         {
-          "text": "»Durch meinen Fleiß und Weisheit habe ich das Land vor dem sicheren Tod bewahrt«",
+          "text": "»Durch meinen Fleiß und meine Weisheit habe ich das Land vor dem sicheren Tod bewahrt«",
           "explanation": ""
         },
         {
@@ -6868,11 +6868,11 @@
           "explanation": ""
         },
         {
-          "text": "Er starb 110 Jahre alt; man balsamierte ihn ein und legte ihn in eine Lade in Ägypten",
+          "text": "Er starb 110 Jahre alt; man balsamierte ihn ein und legte ihn in einen Sarg in Ägypten",
           "explanation": ""
         },
         {
-          "text": "Er starb 175 Jahre alt, genau wie sein Großvater Abraham",
+          "text": "Er starb 175 Jahre alt, genau wie sein Urgroßvater Abraham",
           "explanation": ""
         },
         {
@@ -7101,10 +7101,10 @@
     {
       "questionId": "1mose_256",
       "type": "single_choice",
-      "text": "Welcher geschichtsträchtige Ort im Süden Kanaan verdankt seinen Namen einem Eidschwur und sieben Lämmern zwischen Abraham und Abimelech?",
+      "text": "Welcher geschichtsträchtige Ort im Süden Kanaans verdankt seinen Namen einem Eidschwur und sieben Lämmern zwischen Abraham und Abimelech?",
       "options": [
         {
-          "text": "Beerseba",
+          "text": "Beer-Seba",
           "explanation": ""
         },
         {
@@ -7116,7 +7116,7 @@
           "explanation": ""
         },
         {
-          "text": "Peniel",
+          "text": "Pniel",
           "explanation": ""
         }
       ],
@@ -7221,7 +7221,7 @@
     {
       "questionId": "1mose_264",
       "type": "single_choice",
-      "text": "Wo fand der schauerliche Bundesschluss zwischen den Stücken statt, bei dem Abram in einen tiefen Schlaf und dichte Finsternis fiel?",
+      "text": "Bei welchem Ort wohnte Abram in der Zeit, als Gott mit ihm den Bund zwischen den Stücken schloss?",
       "options": [
         {
           "text": "Bei den Eichen von Mamre (Hebron)",
@@ -7243,9 +7243,9 @@
       "correctAnswers": [
         0
       ],
-      "bibleReference": "1. Mose 15:12",
-      "explanation": "",
-      "explanationReviewed": false,
+      "bibleReference": "1. Mose 13:18; 14:13",
+      "explanation": "Kapitel 15 nennt selbst keinen Ort. Nach 1. Mose 13:18 und 14:13 wohnte Abram in dieser Zeit bei den Äl-Bäumen Mamres zu Hebron.",
+      "explanationReviewed": true,
       "difficulty": "hard"
     },
     {
@@ -7521,7 +7521,7 @@
     {
       "questionId": "1mose_276",
       "type": "single_choice",
-      "text": "Nach christlicher (typologischer) Auslegung – Der Widder, den Abraham stellvertretend für Isaak opferte, war „mit seinen Hörnern im Gestrüpp verwickelt“. Welches neutestamentliche Schattenbild deutet sich hier an?",
+      "text": "Nach christlicher (typologischer) Auslegung – Der Widder, den Abraham stellvertretend für Isaak opferte, war „mit den Hörnern in den Hecken verwickelt“. Welches neutestamentliche Schattenbild deutet sich hier an?",
       "options": [
         {
           "text": "Die Dornenkrone auf dem Haupt Jesu Christi bei Seiner Kreuzigung",
@@ -7544,7 +7544,7 @@
         0
       ],
       "bibleReference": "1. Mose 22:13",
-      "explanation": "Der anstelle Isaaks geopferte Widder ist ein alttestamentliches Vorbild auf das stellvertretende Sühnopfer Jesu Christi [ref:Johannes 1:29; Hebräer 10:10-14].",
+      "explanation": "Der Widder hing mit den Hörnern im Dorngestrüpp fest; Dornen sind seit dem Sündenfall Zeichen des Fluches [ref:1. Mose 3:18], und Christus trug als Stellvertreter die Dornenkrone [ref:Johannes 19:2]. So weist der anstelle Isaaks geopferte Widder auf das stellvertretende Opfer Jesu Christi hin [ref:Hebräer 10:10-14].",
       "explanationReviewed": true,
       "difficulty": "medium"
     },
@@ -7776,7 +7776,7 @@
           "explanation": ""
         },
         {
-          "text": "Asnath wurde zur Hohepriesterin des jerusalemer Heiligtums ernannt",
+          "text": "Asnath wurde zur Hohepriesterin des Jerusalemer Heiligtums ernannt",
           "explanation": ""
         }
       ],
@@ -7978,7 +7978,7 @@
           "explanation": ""
         },
         {
-          "text": "Es war der einzige physische Landbesitz, den die Erzväter im verheißenen Land Kanaan zu Lebzeiten legal erwarben",
+          "text": "Es war der erste rechtmäßig erworbene Grundbesitz Abrahams im verheißenen Land, ein Erbbegräbnis als Unterpfand der Verheißung",
           "explanation": ""
         },
         {
@@ -8054,7 +8054,7 @@
         3
       ],
       "bibleReference": "1. Mose 14:18-19",
-      "explanation": "Abrahams Zehntabgabe an Melchisedek bezeugt laut Hebräerbrief die Überlegenheit dieses Priestertums über das levitische Priestertum [ref:Hebräer 7:4-7].",
+      "explanation": "Melchisedeks Brot und Wein werden typologisch als Vorbild auf das Mahl des Herrn gedeutet [ref:Lukas 22:19-20], sein Priestertum als Vorbild auf das ewige Priestertum Christi [ref:Hebräer 7:1-3].",
       "explanationReviewed": true,
       "difficulty": "hard"
     },
@@ -8188,7 +8188,7 @@
           "explanation": ""
         },
         {
-          "text": "Eine weiße Taube, die sofort mit einem grünen Palmzweig im Schnabel zurückkehrte",
+          "text": "Eine weiße Taube, die sofort mit einem Ölblatt im Schnabel zurückkehrte",
           "explanation": ""
         },
         {
@@ -8428,7 +8428,7 @@
           "explanation": ""
         },
         {
-          "text": "„Siehe, du bist des Todes wegen der Frau, die du genommen hast; denn sie ist verehelicht!“",
+          "text": "„Siehe da, du bist des Todes um der Frau willen, die du genommen hast; denn sie ist im Besitz eines Eigentümers!“",
           "explanation": ""
         },
         {
@@ -8484,7 +8484,7 @@
       "text": "Welchen Namen gab Abraham seinem von Sara geborenen Sohn der Verheißung?",
       "options": [
         {
-          "text": "Ismael ('Gott erhört'), weil Gott das bittere Weinen Hiobs in der Wüste vernommen hatte",
+          "text": "Ismael ('Gott erhört'), weil der HERR das Elend Hagars in der Wüste erhört hatte",
           "explanation": ""
         },
         {
@@ -8496,14 +8496,14 @@
           "explanation": ""
         },
         {
-          "text": "Isaak ('Lachen'), denn Sara sprach: 'Gott hat mir ein Lachen zugerichtet zum Freudentag!'",
+          "text": "Isaak ('Lachen'), denn Sara sprach: 'Älohim hat mir ein Lachen bereitet!'",
           "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
-      "bibleReference": "1. Mose 21:1-3",
+      "bibleReference": "1. Mose 21:1-6",
       "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
@@ -8916,7 +8916,7 @@
         0,
         4
       ],
-      "bibleReference": "1. Mose 6:14-22",
+      "bibleReference": "1. Mose 6:14-22; 1. Mose 7:11-12; 1. Mose 8:4-11; 1. Mose 9:12-17",
       "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"

@@ -199,7 +199,7 @@
 
 ### 20. Was hielt der Herr nach Amos 7:7 in seiner Hand?
 
-- [x] Eine Bleischnur, mit der er die Mauer maß
+- [x] Eine Bleischnur, mit der die Mauer gemessen war
 - [ ] Ein Richtschwert, mit dem er Feinde schlug
 - [ ] Eine eherne Waage, mit der er Frevel wog
 - [ ] Einen Hirtenstab, womit er Schafe zählte

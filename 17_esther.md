@@ -220,7 +220,7 @@
 ### 22. Was übergab König Ahasveros an Mardochai nach dem Tode Hamans?
 
 - [ ] Die goldene Krone, die zuvor die Königin Vasthi getragen hatte
-- [x] Seinen Siegelring, den er Haman abgenommen hatte, und Hamans Haus
+- [x] Seinen Siegelring, den er Haman abgenommen hatte
 - [ ] Ein kaiserliches Heer von zehntausend persischen Reitern zu Ross
 - [ ] Die uneingeschränkte Herrschaft über ganz Babylon und Medien
 
@@ -257,7 +257,7 @@
 **Bibelstelle:** Esther 9:10, 15-16
 **Erklärung:** 
 
-### 26. Welche Tage bestimmten Mardochai und Esther als jährliches Freudenfest?
+### 26. Welche Tage bestimmte Mardochai als jährliches Freudenfest?
 
 - [ ] Den ersten und zweiten Tag des ersten Monats Nisan
 - [x] Den vierzehnten und fünfzehnten Tag des Monats Adar alle Jahre

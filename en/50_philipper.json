@@ -300,7 +300,7 @@
       "type": "single_choice",
       "difficulty": "hard",
       "text": "How should believers work out their own salvation (Philippians 2:12)?",
-      "bibleReference": "Philippians 2:12",
+      "bibleReference": "Philippians 2:12-13",
       "options": [
         {
           "text": "With pride and vain glory",
@@ -334,7 +334,7 @@
       "type": "single_choice",
       "difficulty": "medium",
       "text": "Whom did Paul trust to send shortly unto Philippi (Philippians 2:19)?",
-      "bibleReference": "Philippians 2:19-20",
+      "bibleReference": "Philippians 2:19-22",
       "options": [
         {
           "text": "Luke, the beloved physician",
@@ -546,7 +546,7 @@
           "explanation": ""
         },
         {
-          "text": "Mary and Magdalene",
+          "text": "Mary and Salome",
           "isCorrect": false,
           "explanation": ""
         },
@@ -556,7 +556,7 @@
           "explanation": ""
         },
         {
-          "text": "Chloe and Phoebe",
+          "text": "Chloe and Bernice",
           "isCorrect": false,
           "explanation": ""
         }
@@ -580,7 +580,7 @@
           "explanation": ""
         },
         {
-          "text": "Rejoice in the Lord alway: and again I say unto you all, Rejoice",
+          "text": "Rejoice in the Lord alway: and again I say, Rejoice",
           "isCorrect": true,
           "explanation": ""
         },

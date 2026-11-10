@@ -37,7 +37,7 @@
 **Bibelstelle:** 2. Korinther 1:4
 **Erklärung:** 
 
-### 4. Welches Wort ist in Jesus Christus nach den Worten des Paulus für die Gläubigen worden?
+### 4. Was sind nach den Worten des Paulus alle Verheißungen Gottes in Jesus Christus?
 
 - [x] In ihm ist das Ja, und in ihm das Amen
 - [ ] In ihm ist das Gesetz und das Wort
@@ -317,7 +317,7 @@
 **Bibelstelle:** 2. Korinther 7:1
 **Erklärung:** 
 
-### 32. Welche Freude erlebte Paulus durch die Ankunft des Mitarbeiter Titus in Makedonien?
+### 32. Welche Freude erlebte Paulus durch die Ankunft seines Mitarbeiters Titus in Makedonien?
 
 - [x] Gott, der die Niedrigen tröstet, tröstete ihn durch die Ankunft des Titus
 - [ ] Titus brachte viel Geld für die Armen und stärkte so seinen Mut
@@ -407,7 +407,7 @@
 **Bibelstelle:** 2. Korinther 8:20-21
 **Erklärung:** 
 
-### 41. Welcher Satz beschreibt die Haltung der Hand beim Gesegneten Geben im neunten Kapitel?
+### 41. Welcher Grundsatz über das Säen und Ernten gilt nach Paulus für das Geben?
 
 - [ ] Wer viel gibt, verliert bald alles, und wer wenig gibt, behält mehr
 - [x] Wer kärglich sät, wird kärglich ernten; wer im Segen sät, erntet im Segen
@@ -472,7 +472,7 @@
 - [ ] Nur die Pläne der Weltherrscher, die gegen die Gläubigen gerichtet sind
 - [ ] Die Gesetze der heidnischen Reiche, die dem Evangelium widerstehen
 - [ ] Die Lehren der alten Dichter, die die Weisheit der Griechen preisen
-- [x] Alles Denken, das er in den Gehorsam Christi gefangen nimmt
+- [x] Jeden Gedanken, gefangen genommen zum Gehorsam des Christus
 
 **Bibelstelle:** 2. Korinther 10:5
 **Erklärung:** 
@@ -537,7 +537,7 @@
 **Bibelstelle:** 2. Korinther 11:22
 **Erklärung:** 
 
-### 54. Welche gewaltigen Leiden erlitt Paulus in Seinem apostolischen Dienst für Christus?
+### 54. Welche gewaltigen Leiden erlitt Paulus in seinem apostolischen Dienst für Christus?
 
 - [ ] Reichtum, Ehre und Ansehen bei den Menschen und große Macht
 - [ ] Schutz durch die kaiserliche Garde und Geleit bei allen Reisen
@@ -547,7 +547,7 @@
 **Bibelstelle:** 2. Korinther 11:23-27
 **Erklärung:** 
 
-### 55. Durch welches Fenster entkam Paulus in einem Korb der Verfolgung in Damaskus?
+### 55. Durch welche Öffnung entkam Paulus dem Landesfürsten in Damaskus?
 
 - [ ] Durch eine Geheimtür des Tempels, die ihm ein Priester öffnete
 - [ ] Durch das Tor eines römischen Hauses, das ihm ein Freund aufschloss
@@ -597,7 +597,7 @@
 **Bibelstelle:** 2. Korinther 12:12
 **Erklärung:** 
 
-### 60. Welche Gesinnung sucht Paulus nicht bei der Gemeinde, wenn er zu ihnen kommt?
+### 60. Was sucht Paulus bei der Gemeinde, wenn er zum dritten Mal zu ihr kommt?
 
 - [x] Nicht das Eure, sondern euch selbst
 - [ ] Nicht euer Heil, sondern Geld

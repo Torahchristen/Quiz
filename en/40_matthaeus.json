@@ -331,25 +331,25 @@
     {
       "questionId": "mt_010",
       "type": "single_choice",
-      "text": "In which city of Galilee did Joseph dwell after the death of Herod?",
+      "text": "Where did Joseph settle with his family after the return out of Egypt?",
       "options": [
         {
-          "text": "In Capernaum by the sea",
+          "text": "In Jericho by Jordan",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "In Cana of Galilee",
+          "text": "In Bethany at the mount of Olives",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "In a city called Nazareth",
+          "text": "In Nazareth of Galilee",
           "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "In the village of Nain",
+          "text": "In Capernaum by the sea",
           "isCorrect": false,
           "explanation": ""
         }
@@ -433,25 +433,25 @@
     {
       "questionId": "mt_013",
       "type": "single_choice",
-      "text": "Why did Jesus insist on being baptized by John in Jordan?",
+      "text": "What reason did Jesus give when John hesitated to baptize Him in Jordan?",
       "options": [
         {
-          "text": "To wash away original sin and be cleansed before all men",
+          "text": "Because he needed to be cleansed from his sins",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "For thus it becometh us to fulfil all righteousness",
+          "text": "Because thus it becometh us to fulfil all righteousness",
           "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "To prove to the multitude that he was a disciple of John",
+          "text": "Because he would give the priests an example",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Because the law of Moses commanded water baptism for all kings",
+          "text": "Because he was to be delivered from the Romans",
           "isCorrect": false,
           "explanation": ""
         }
@@ -569,25 +569,25 @@
     {
       "questionId": "mt_017",
       "type": "single_choice",
-      "text": "With which scripture did Jesus answer the tempter who bade Him make stones bread?",
+      "text": "With what words did Jesus refuse the first temptation to make stones bread?",
       "options": [
         {
-          "text": "The righteous shall live by his faith alone",
+          "text": "He that fasteth needeth no more bread, for the spirit alone nourisheth the body",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Man shall not live by bread alone, but by every word of God",
+          "text": "Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God",
           "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "The Lord is my shepherd; I shall not want bread",
+          "text": "Angels feed them that fast and trust in the Lord with bread from heaven",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Blessed are they which do hunger and thirst after righteousness",
+          "text": "Miracles are done only for the poor that cry and pray unto God in their need",
           "isCorrect": false,
           "explanation": ""
         }
@@ -640,22 +640,22 @@
       "text": "What condition did Satan set for giving Jesus all the kingdoms of the world?",
       "options": [
         {
-          "text": "That he should turn all stones into pure gold",
+          "text": "That he should offer a burnt offering upon the altar",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "That he should break the holy covenant of Moses",
+          "text": "That he should forsake the cross",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "That he should leave the wilderness and dwell in Rome",
+          "text": "That he should give him all the treasures of the world",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "If thou wilt fall down and worship me",
+          "text": "That he should fall down and worship him",
           "isCorrect": true,
           "explanation": ""
         }
@@ -723,7 +723,7 @@
           "explanation": ""
         },
         {
-          "text": "They shall obtain mercy before all judges",
+          "text": "They shall see God",
           "isCorrect": false,
           "explanation": ""
         }
@@ -841,25 +841,25 @@
     {
       "questionId": "mt_025",
       "type": "single_choice",
-      "text": "What command did Jesus give regarding enemies in the Sermon on the Mount?",
+      "text": "What attitude does Jesus require toward enemies and persecutors?",
       "options": [
         {
-          "text": "Avoid them in the street and render no answer to them",
+          "text": "Render like for like, and seek your right before the judge",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Love your enemies, bless them that curse you, and pray for them",
+          "text": "Love your enemies, and pray for them which persecute you",
           "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "Demand an eye for an eye and a tooth for a tooth in the court",
+          "text": "Always avoid your enemies, and keep out of every strife",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Take the sword and drive them out of the congregation",
+          "text": "Shun the company of the heathen, and keep away from them",
           "isCorrect": false,
           "explanation": ""
         }
@@ -1189,17 +1189,17 @@
           "explanation": ""
         },
         {
-          "text": "Unto a merchant seeking goodly pearls",
+          "text": "Unto a vine planted by the rivers of water",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Unto a husbandman planting a vineyard",
+          "text": "Unto a merchant man seeking goodly pearls",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Unto a wise man, which built his house upon a rock",
+          "text": "Unto a man which built his house upon a rock",
           "isCorrect": true,
           "explanation": ""
         }
@@ -1317,20 +1317,20 @@
     {
       "questionId": "mt_039",
       "type": "single_choice",
-      "text": "With what cry did the fearful disciples awake Jesus during the great tempest?",
+      "text": "With what cry did the fearful disciples awake Jesus during the tempest according to Matthew 8:25?",
       "options": [
         {
-          "text": "Master, awake and guide the ship through the storm!",
+          "text": "Master, awake and steer the ship!",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Lord, rebuke the wind and the raging billows!",
+          "text": "Lord, command the winds and the waves!",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Master, carest thou not that we perish in the sea?",
+          "text": "Lord, bring us unto the shore!",
           "isCorrect": false,
           "explanation": ""
         },
@@ -1456,22 +1456,22 @@
       "text": "With whom did Jesus compare Himself when the Pharisees murmured that He ate with publicans?",
       "options": [
         {
-          "text": "A shepherd who seeketh the lost sheep",
+          "text": "A shepherd in the field, whom the lost sheep need",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "A king making a marriage feast for his son",
+          "text": "A father at the feast, whom the lost sons need",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "A sower who went forth to sow good seed",
+          "text": "A king upon the throne, whom his subjects need",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "A physician whom they that are sick need",
+          "text": "A physician, whom they that are sick need",
           "isCorrect": true,
           "explanation": ""
         }
@@ -1500,12 +1500,12 @@
           "explanation": ""
         },
         {
-          "text": "She drank from the well of living water",
+          "text": "She dipped herself seven times in Jordan",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "The disciples prayed over her in faith",
+          "text": "Jesus spake a word of power over her",
           "isCorrect": false,
           "explanation": ""
         }
@@ -1521,10 +1521,10 @@
     {
       "questionId": "mt_045",
       "type": "single_choice",
-      "text": "What did Jesus do when He took the ruler's dead daughter by the hand?",
+      "text": "What did Jesus do to raise the ruler's dead daughter?",
       "options": [
         {
-          "text": "He wept aloud and the maid arose",
+          "text": "He gave her blessed water to drink, and the maid arose",
           "isCorrect": false,
           "explanation": ""
         },
@@ -1534,12 +1534,12 @@
           "explanation": ""
         },
         {
-          "text": "He called the priests to offer prayer",
+          "text": "He prayed three hours by her bed, and the maid arose",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "He commanded her to wash in the pool",
+          "text": "He called the name of the Lord over her, and the maid arose",
           "isCorrect": false,
           "explanation": ""
         }
@@ -1631,17 +1631,17 @@
           "explanation": ""
         },
         {
-          "text": "Because the angels shall immediately strike down every adversary",
+          "text": "Because God destroyeth all enemies at once and protecteth the believers",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Because God will grant them rich crowns of gold in this earthly life",
+          "text": "Because angels ward off every blow of the persecutors and spare the believers",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Because Roman magistrates are commanded by law to defend all believers",
+          "text": "Because the emperor giveth the believers letters of protection and preserveth them",
           "isCorrect": false,
           "explanation": ""
         }
@@ -1699,7 +1699,7 @@
           "explanation": ""
         },
         {
-          "text": "He that leaveth all his inheritance unto the poor is worthy",
+          "text": "He that no longer supporteth nor honoureth his parents is worthy of him",
           "isCorrect": false,
           "explanation": ""
         },
@@ -1709,7 +1709,7 @@
           "explanation": ""
         },
         {
-          "text": "He that fasteth forty days in the wilderness is worthy of him",
+          "text": "He that giveth all his inheritance unto the poor is worthy of him",
           "isCorrect": false,
           "explanation": ""
         }
@@ -2136,17 +2136,17 @@
       "text": "What did the merchant do when he found one pearl of great price?",
       "options": [
         {
-          "text": "He showed his goodly treasure unto all the men of the city",
+          "text": "He shared his find with all the neighbours in the village",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "He laid it in the treasury of the temple of Jerusalem",
+          "text": "He had it set in gold by the goldsmith",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "He divided the pearl among his brethren and companions",
+          "text": "He brought it as an offering into the temple",
           "isCorrect": false,
           "explanation": ""
         },
@@ -2337,25 +2337,25 @@
     {
       "questionId": "mt_069",
       "type": "single_choice",
-      "text": "How did Jesus come unto His disciples in the fourth watch of the night on the sea?",
+      "text": "Why did Peter begin to sink when he walked on the water?",
       "options": [
         {
-          "text": "In a Roman galley",
+          "text": "A great fish held him by the feet and drew him down",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Walking on the sea",
+          "text": "He saw the wind boisterous, and was afraid",
           "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "Borne up by angels",
+          "text": "Jesus turned away from him and left him alone upon the water",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "In a chariot of fire",
+          "text": "His wet garment grew too heavy, and he lost his footing",
           "isCorrect": false,
           "explanation": ""
         }
@@ -2439,25 +2439,25 @@
     {
       "questionId": "mt_072",
       "type": "single_choice",
-      "text": "What defileth a man according to the teaching of Jesus in Matthew 15:11?",
+      "text": "What defileth a man before God according to the words of Jesus?",
       "options": [
         {
-          "text": "Eating food with unwashen hands at table",
+          "text": "That which cometh out of the mouth and proceedeth from the heart",
           "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "Not that which goeth into the mouth; but that which cometh out",
+          "text": "Eating with unwashen hands and touching unclean meats",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Touching the dead body of an unclean beast",
+          "text": "Touching heathen coins and dealing with strangers in the house",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Walking in the way of the Gentiles and Samaritans",
+          "text": "Eating unsalted bread and the flesh of unclean beasts",
           "isCorrect": false,
           "explanation": ""
         }
@@ -2473,25 +2473,25 @@
     {
       "questionId": "mt_073",
       "type": "single_choice",
-      "text": "What did Jesus praise in the woman of Canaan whose daughter was vexed with a devil?",
+      "text": "What disposition of the woman of Canaan moved Jesus to grant her request?",
       "options": [
         {
-          "text": "Her great alms to the poor of Israel",
+          "text": "Her generous alms",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Her noble lineage from ancient kings",
+          "text": "Her persistent faith",
           "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "Her persistent and great faith",
+          "text": "Her knowledge of the law",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Her knowledge of the holy scriptures",
+          "text": "The entreaty of the disciples",
           "isCorrect": false,
           "explanation": ""
         }
@@ -2549,17 +2549,17 @@
           "explanation": ""
         },
         {
-          "text": "Seven baskets full",
-          "isCorrect": false,
-          "explanation": ""
-        },
-        {
-          "text": "Ten baskets full",
-          "isCorrect": false,
-          "explanation": ""
-        },
-        {
           "text": "Three baskets full",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Not one basket",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Seven baskets full",
           "isCorrect": true,
           "explanation": ""
         }
@@ -2612,22 +2612,22 @@
       "text": "What confession did Simon Peter make at Caesarea Philippi in answer to Jesus?",
       "options": [
         {
-          "text": "Thou art the prophet Elijah who was to appear",
+          "text": "Thou art Elias, who is come again, as the scripture promised",
           "isCorrect": false,
-          "explanation": ""
-        },
-        {
-          "text": "Thou art John the Baptist risen from the dead",
-          "isCorrect": true,
           "explanation": ""
         },
         {
           "text": "Thou art the Christ, the Son of the living God",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Thou art John the Baptist, risen from the dead",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Thou art Jeremiah or one of the ancient prophets",
+          "text": "Thou art one of the prophets for whom the people have long waited",
           "isCorrect": false,
           "explanation": ""
         }
@@ -2745,25 +2745,25 @@
     {
       "questionId": "mt_081",
       "type": "single_choice",
-      "text": "Which two figures appeared talking with Jesus upon the holy mount of transfiguration?",
+      "text": "What happened to the appearance of Jesus at the transfiguration upon the mount?",
       "options": [
         {
-          "text": "Abraham and Isaac",
+          "text": "He fasted three days in the mist",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Moses and Elias",
+          "text": "His face did shine as the sun",
           "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "David and Solomon",
+          "text": "He hovered above the disciples",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Samuel and Daniel",
+          "text": "Angels surrounded him with swords",
           "isCorrect": false,
           "explanation": ""
         }
@@ -2779,25 +2779,25 @@
     {
       "questionId": "mt_082",
       "type": "single_choice",
-      "text": "What affliction did the lunatic child have whom the disciples could not cure?",
+      "text": "Which two persons appeared at the transfiguration and talked with Jesus?",
       "options": [
         {
-          "text": "He was blind from his mother's womb and begged",
+          "text": "Abraham and Isaac",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "He was sick of the palsy and lay bedridden",
+          "text": "David and Solomon",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "He was lunatick, sore vexed, and fell oft into fire and water",
+          "text": "Moses and Elias",
           "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "He was a leper dwelling in the caves of the mountains",
+          "text": "Noah and Daniel",
           "isCorrect": false,
           "explanation": ""
         }
@@ -2816,7 +2816,7 @@
       "text": "Why could the disciples not cast out the devil from the lunatic child?",
       "options": [
         {
-          "text": "Because they had not fasted for three days",
+          "text": "Because the child was yet too young",
           "isCorrect": false,
           "explanation": ""
         },
@@ -3561,25 +3561,25 @@
     {
       "questionId": "mt_105",
       "type": "single_choice",
-      "text": "What did the wicked husbandmen do when the lord sent his son to receive the fruits?",
+      "text": "To what did Jesus liken himself at the end of the parable of the husbandmen?",
       "options": [
         {
-          "text": "They received him with honour and delivered the fruits to him",
+          "text": "To the branch in the vine, that beareth much fruit and abideth with him always",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "They fled out of the vineyard into the desert wilderness",
+          "text": "To the stone which the builders rejected, which is become the head of the corner",
           "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "They caught him, and cast him out, and slew him",
+          "text": "To the hedge about the vineyard, that keepeth out all enemies and guardeth the vines",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "They set him upon the judgment seat as their lawful master",
+          "text": "To the faithful servant in the field, that waiteth for his lord and keepeth watch",
           "isCorrect": false,
           "explanation": ""
         }
@@ -3731,25 +3731,25 @@
     {
       "questionId": "mt_110",
       "type": "single_choice",
-      "text": "With which question concerning David did Jesus silence the Pharisees in Matthew 22:42-45?",
+      "text": "Which second commandment is like unto the first commandment, to love God?",
       "options": [
         {
-          "text": "Why did David eat the shewbread in the house of God?",
+          "text": "Honour thy father and thy mother, that thy days may be long",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "If David then call him Lord, how is he his son?",
+          "text": "Thou shalt not steal, neither bear false witness",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Why did David build an altar upon the threshingfloor?",
+          "text": "Thou shalt love thy neighbour as thyself",
           "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "How did David slay the Philistine without sword or spear?",
+          "text": "Thou shalt give the tithe of all thine increase",
           "isCorrect": false,
           "explanation": ""
         }
@@ -4390,12 +4390,12 @@
           "explanation": ""
         },
         {
-          "text": "Let me return straightway unto the glory of the Father",
+          "text": "Take away the power of darkness from the earth at once",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Take away the power of darkness from the earth at once",
+          "text": "Take me straightway unto thee into heaven",
           "isCorrect": false,
           "explanation": ""
         }
@@ -4516,7 +4516,7 @@
       "text": "How did the Roman soldiers mock Jesus within the common hall?",
       "options": [
         {
-          "text": "They clothed him in sackcloth and poured ashes on his head",
+          "text": "They smote him with chains of iron and bound a cord about his body",
           "isCorrect": false,
           "explanation": ""
         },
@@ -4526,12 +4526,12 @@
           "explanation": ""
         },
         {
-          "text": "They cast lots for his garments and gave him vinegar to drink",
+          "text": "They burned his garments and gave him a rag to put on",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "They bound him with golden chains before the council",
+          "text": "They compelled him to labour in the quarry and gave him no water",
           "isCorrect": false,
           "explanation": ""
         }
@@ -4691,7 +4691,7 @@
           "explanation": ""
         },
         {
-          "text": "Go into Galilee!",
+          "text": "Be of good cheer!",
           "isCorrect": false,
           "explanation": ""
         },
@@ -4701,7 +4701,7 @@
           "explanation": ""
         },
         {
-          "text": "Fear not the rulers!",
+          "text": "Watch and pray!",
           "isCorrect": false,
           "explanation": ""
         }
@@ -5065,7 +5065,7 @@
         1,
         5
       ],
-      "bibleReference": "Matthew 26:26",
+      "bibleReference": "Matthew 26:19; 26:36; 26:49; 27:2; 27:35; 28:6",
       "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"

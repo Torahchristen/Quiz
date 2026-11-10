@@ -257,7 +257,7 @@
 **Bibelstelle:** Galater 5:22-23
 **Erklärung:** 
 
-### 26. Wie sollen die Geistlichen einen Übereilten nach Galater 6:1 zurechthelfen?
+### 26. Wie sollen die Geistlichen einem Übereilten nach Galater 6:1 zurechthelfen?
 
 - [ ] Mit strenger Zucht vor der ganzen Gemeinde
 - [ ] Durch sofortigen Ausschluss aus dem Dienst

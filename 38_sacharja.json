@@ -358,7 +358,7 @@
           "explanation": ""
         },
         {
-          "text": "Die zwei Zeugen, die vor dem Herrscher aller Lande Zeugnis geben",
+          "text": "Die zwei Engel, die an den Toren des Heiligtums Wache halten",
           "explanation": ""
         },
         {
@@ -501,7 +501,7 @@
     {
       "questionId": "sach_017",
       "type": "single_choice",
-      "text": "Auf wessen Haupt soll Sacharja die Krone setzen (Sacharja 6:11)?",
+      "text": "Auf wessen Haupt soll Sacharja die Kronen setzen (Sacharja 6:11)?",
       "options": [
         {
           "text": "Auf das Haupt Serubbabels, des Sohnes Sealthiels, des Statthalters",
@@ -771,22 +771,22 @@
     {
       "questionId": "sach_026",
       "type": "single_choice",
-      "text": "Wie weit reicht die Herrschaft des Königs nach Sacharja 9:10?",
+      "text": "Was will der HERR nach Sacharja 9:10 abtun?",
       "options": [
         {
-          "text": "Er wird die Wagen in Ephraim und die Rosse zu Jerusalem mehren",
+          "text": "Die Mauern von Ephraim und die Türme von Jerusalem",
           "explanation": ""
         },
         {
-          "text": "Er wird die Rosse und Wagen der Heiden für sein eigenes Heer nehmen",
+          "text": "Die Schiffe von Tyrus und die Wagen von Ägypten",
           "explanation": ""
         },
         {
-          "text": "Er wird die Wagen aus Ephraim und die Rosse aus Jerusalem ausrotten",
+          "text": "Die Wagen von Ephraim und die Rosse von Jerusalem",
           "explanation": ""
         },
         {
-          "text": "Er wird die Heere aller Völker versammeln und mit ihnen einherziehen",
+          "text": "Die Höhen von Samaria und die Haine von Jerusalem",
           "explanation": ""
         }
       ],

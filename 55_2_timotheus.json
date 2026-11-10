@@ -126,7 +126,7 @@
     {
       "questionId": "2tim_004",
       "type": "single_choice",
-      "text": "Wessen Haus erquickte Paulus in Rom und schämte sich seiner Ketten nicht?",
+      "text": "Für wessen Haus erbittet Paulus Barmherzigkeit, weil der Hausherr ihn oft erquickte und sich seiner Ketten nicht schämte (2. Timotheus 1:16)?",
       "options": [
         {
           "text": "Das Haus des Onesiphorus",
@@ -139,12 +139,12 @@
           "isCorrect": false
         },
         {
-          "text": "Der Hohepriester in Judäa",
+          "text": "Das Haus des Hohenpriesters in Judäa",
           "explanation": "",
           "isCorrect": false
         },
         {
-          "text": "Der Ratsherr der Stadt Rom",
+          "text": "Das Haus des Ratsherrn der Stadt Rom",
           "explanation": "",
           "isCorrect": false
         }

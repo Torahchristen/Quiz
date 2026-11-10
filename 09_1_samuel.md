@@ -109,10 +109,10 @@
 
 ### 11. Welches Heiligtum holten die Israeliten nach der ersten Niederlage bei Eben-Ezer ins Feldlager?
 
-- [ ] Die Lade des Bundes des HERRN von Silo
+- [ ] Den goldenen Leuchter aus dem Heiligtum
 - [ ] Die eherne Schlange aus den Wüstentagen
 - [ ] Das Stiftszelt samt den Opfergeräten
-- [x] Die Bundeslade des Bundes Gottes aus Silo
+- [x] Die Lade des Bundes des HERRN von Silo
 
 **Bibelstelle:** 1. Samuel 4:3-4
 **Erklärung:** 
@@ -151,7 +151,7 @@
 
 - [ ] Genau achtzig Jahre alt war Eli
 - [ ] Genau einhundert Jahre alt im Amt
-- [ ] Genau siebzigundfünf Jahre alt im Heiligtum
+- [ ] Genau fünfundsiebzig Jahre alt im Heiligtum
 - [x] Genau achtundneunzig Jahre alt war er
 
 **Bibelstelle:** 1. Samuel 4:15-18
@@ -257,10 +257,10 @@
 **Bibelstelle:** 1. Samuel 7:1
 **Erklärung:** 
 
-### 26. Wie viele Jahre verblieb die Bundeslade Gottes im Hause Abinadabs in Kirjath-Jearim?
+### 26. Wie viele Jahre waren vergangen, seit die Lade in Kirjath-Jearim blieb, als das ganze Haus Israel vor dem HERRN weinte?
 
 - [ ] Genau sieben Jahre lang am Orte
-- [ ] Genau vierzig Jahre bis zur Thronbesteigung
+- [ ] Genau vierzig Jahre wie einst in der Wüste
 - [x] Genau zwanzig Jahre lang
 - [ ] Genau zehn Jahre in der Hut Eleasars
 
@@ -657,12 +657,12 @@
 **Bibelstelle:** 1. Samuel 15:35
 **Erklärung:** 
 
-### 66. In welcher judäischen Stadt sollte Samuel einen der Söhne Isais zum neuen König salben?
+### 66. Zu wem sandte der HERR Samuel, um einen neuen König zu salben?
 
-- [ ] In der Priesterstadt Nob nahe den Hügeln
-- [ ] In der Festung Hebron auf dem Gebirge
-- [x] In der Stadt Bethlehem im Lande Juda
-- [ ] In der Stadt Gibea im Stamme Benjamin
+- [ ] Zu Ahimelech, dem Priester in der Stadt Nob
+- [ ] Zu Kaleb, dem Fürsten in der Festung Hebron
+- [x] Zu Isai, dem Bethlehemiter, unter dessen Söhnen ein König war
+- [ ] Zu Abner, dem Feldhauptmann in der Stadt Gibea
 
 **Bibelstelle:** 1. Samuel 16:1
 **Erklärung:** 
@@ -697,7 +697,7 @@
 **Bibelstelle:** 1. Samuel 16:23
 **Erklärung:** 
 
-### 70. Wie groß war der philisterische Hüne Goliath aus der Küstenstadt Gath laut dem Bericht?
+### 70. Wie groß war der Riese Goliath aus der Philisterstadt Gath laut dem Bericht?
 
 - [ ] Genau vier Ellen und eine Handbreit betrug seine Höhe
 - [ ] Genau fünf Ellen und zwei Handbreit betrug seine Höhe
@@ -705,7 +705,7 @@
 - [ ] Genau sieben Ellen und eine Handbreit betrug seine Höhe
 
 **Bibelstelle:** 1. Samuel 17:4
-**Erklärung:** Sechs Ellen und eine Handbreit entsprechen einer Körpergröße von etwa 2,90 bis 3,00 Metern (eine Elle ca. 45–50 cm, eine Spanne ca. 22 cm).
+**Erklärung:** Sechs Ellen und eine Handbreit entsprechen etwa 2,90 Metern (eine Elle ca. 45 cm; „Handbreit“ steht hier für die hebräische Spanne von ca. 22 cm).
 
 ### 71. Welchen ursprünglichen Auftrag erfüllte David, als er das Heer im Eichgrund erreichte?
 
@@ -851,7 +851,7 @@
 
 - [ ] Sacharja der jüngste Priester des Hauses
 - [x] Abjathar, der Sohn Ahimelechs
-- [ ] Pinchas der Nachkommen des Hauses Eli
+- [ ] Pinchas, ein Nachkomme aus dem Hause Elis
 - [ ] Eleasar der Hüter der Lade in Kirjath
 
 **Bibelstelle:** 1. Samuel 22:20-23
@@ -1037,14 +1037,14 @@
 **Bibelstelle:** 1. Samuel 23:26-28
 **Erklärung:** 
 
-### 104. Wie reagierte Saul, als David ihm in der Höhle zeigte, dass er ihn verschont hatte?
+### 104. Wie reagierte Saul, als David ihm nach dem Verlassen der Höhle zeigte, dass er ihn verschont hatte?
 
 - [ ] Er ließ seine Krieger sofort zum Angriff auf David und seine Männer antreten
 - [ ] Er forderte David zum Zweikampf heraus, um den wahren König zu ermitteln
 - [ ] Er bot David die Hälfte seines Reiches an, wenn er künftig Frieden halte
 - [x] Er weinte, nannte David gerechter als sich selbst und erkannte sein künftiges Königtum
 
-**Bibelstelle:** 1. Samuel 24:16-19
+**Bibelstelle:** 1. Samuel 24:16-20
 **Erklärung:** 
 
 ### 105. Welchen Vorwurf machte David Abner, nachdem er in Sauls Lager eingedrungen war?

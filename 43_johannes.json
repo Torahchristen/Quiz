@@ -264,7 +264,7 @@
     {
       "questionId": "joh_009",
       "type": "single_choice",
-      "text": "Warum anvertraute Sich Jesus den vielen Glaubenden in Jerusalem nicht an?",
+      "text": "Warum vertraute Sich Jesus den vielen Glaubenden in Jerusalem nicht an?",
       "options": [
         {
           "text": "Weil sie kein Geld besaßen und seinem Dienst nichts beitragen konnten",
@@ -354,10 +354,10 @@
     {
       "questionId": "joh_012",
       "type": "single_choice",
-      "text": "Welche Bedingung nannte Jesus für das Schauen des Reiches Gottes?",
+      "text": "Welche Bedingung nannte Jesus für das Eingehen in das Reich Gottes?",
       "options": [
         {
-          "text": "Wenn jemand nicht aus Wasser und Geist geboren wird, kann er nicht in das Reich Gottes eingehen",
+          "text": "Wenn jemand nicht aus Wasser und Geist geboren wird, so kann er nicht in das Königreich Gottes eingehen",
           "explanation": ""
         },
         {
@@ -444,7 +444,7 @@
     {
       "questionId": "joh_015",
       "type": "single_choice",
-      "text": "Welches Haltungswort sprach der Täufer Johannes bezüglich Seines Verhältnisses zu Christus?",
+      "text": "Welches Haltungswort sprach der Täufer Johannes bezüglich seines Verhältnisses zu Christus?",
       "options": [
         {
           "text": "Er muss abnehmen, ich muss wachsen",
@@ -905,7 +905,7 @@
           "explanation": ""
         },
         {
-          "text": "Herr, wohin sollen wir gehen? Du hast Worte des ewigen Lebens",
+          "text": "Herr, zu wem sollen wir gehen? Du hast Worte ewigen Lebens",
           "explanation": ""
         },
         {
@@ -924,22 +924,22 @@
     {
       "questionId": "joh_031",
       "type": "single_choice",
-      "text": "Warum glaubten die leiblichen Brüder Jesu zunächst nicht an Ihn?",
+      "text": "Wie erklärt Johannes, dass Jesu Brüder Ihn drängten, nach Judäa zu ziehen und Sich der Welt zu offenbaren?",
       "options": [
         {
-          "text": "Weil sie das Gesetz verwarfen und die Gebote des Mose nicht achteten",
+          "text": "Sie wollten ihn vor den Juden in Galiläa schützen",
           "explanation": ""
         },
         {
-          "text": "Weil sie den Tempel mieden und in Nazareth bleiben wollten",
+          "text": "Sie wollten selbst als seine Jünger anerkannt werden",
           "explanation": ""
         },
         {
-          "text": "Weil sie die Römer fürchteten und keine Unruhe im Haus wollten",
+          "text": "Seine Mutter Maria hatte es ihnen aufgetragen",
           "explanation": ""
         },
         {
-          "text": "Weil sie rein menschlich dachten und nicht an ihn glaubten",
+          "text": "Auch seine Brüder glaubten nicht an ihn",
           "explanation": ""
         }
       ],
@@ -1344,14 +1344,14 @@
     {
       "questionId": "joh_045",
       "type": "single_choice",
-      "text": "Welche Haltung vollzog der Geheilte, als Jesus Sich ihm als Menschensohn offenbarte?",
+      "text": "Wie reagierte der Geheilte, als Jesus Sich ihm als Sohn Gottes offenbarte?",
       "options": [
         {
-          "text": "Er floh voller Furcht vor dem Menschensohn und verbarg sich",
+          "text": "Er floh voller Furcht vor ihm und verbarg sich",
           "explanation": ""
         },
         {
-          "text": "Er sagte: Herr, ich glaube, und betete ihn an",
+          "text": "Er sprach: Ich glaube, Herr! und fiel vor ihm nieder",
           "explanation": ""
         },
         {
@@ -1565,7 +1565,7 @@
           "explanation": ""
         },
         {
-          "text": "Dein Bruder wird am Ende der Tage leben",
+          "text": "Dein Bruder ruht in Abrahams Schoß",
           "explanation": ""
         },
         {
@@ -1779,7 +1779,7 @@
           "explanation": ""
         },
         {
-          "text": "Ich will alle zu mir ziehen",
+          "text": "Ich werde alle zu mir ziehen",
           "explanation": ""
         }
       ],
@@ -1865,7 +1865,7 @@
           "explanation": ""
         },
         {
-          "text": "Keinesfalls bis in alle Ewigkeit sollst du mir die Füße waschen, Herr!",
+          "text": "Keinesfalls bis in Ewigkeit sollst du mir die Füße waschen!",
           "explanation": ""
         },
         {
@@ -1884,29 +1884,29 @@
     {
       "questionId": "joh_063",
       "type": "single_choice",
-      "text": "Wie bezeichnete Jesus den Bissen, den Er Judas Ischariot reichte?",
+      "text": "Woran sollte der Jünger, den Jesus liebte, den Verräter erkennen?",
       "options": [
         {
-          "text": "Als Zeichen der Feindschaft gegen ihn",
+          "text": "Der am Tisch zuerst aus meinem Becher trinkt",
           "explanation": ""
         },
         {
-          "text": "Als Segen für die bevorstehende Reise",
+          "text": "Der im Saal zu meiner Rechten sitzt",
           "explanation": ""
         },
         {
-          "text": "Als Teil des Passalamms für alle",
+          "text": "Der unter den Zwölfen einen scharlachroten Mantel trägt",
           "explanation": ""
         },
         {
-          "text": "Als Zeichen, wer ihn verraten würde",
+          "text": "Der ist's, dem ich den Bissen eintauchen und reichen werde",
           "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
-      "bibleReference": "Johannes 13:26-30",
+      "bibleReference": "Johannes 13:23-30",
       "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
@@ -1974,7 +1974,7 @@
     {
       "questionId": "joh_066",
       "type": "single_choice",
-      "text": "Welcher Trost spendete Jesus Seinen Jüngern über das Vaterhaus?",
+      "text": "Welchen Trost spendete Jesus Seinen Jüngern über das Vaterhaus?",
       "options": [
         {
           "text": "Dort gibt es goldene Paläste",
@@ -2487,7 +2487,7 @@
       "text": "Worum bittet Jesus nach Johannes 17:15 für seine Jünger?",
       "options": [
         {
-          "text": "Er bittet, dass sie in der Welt Geld verdienen und es zu Wohlstand bringen",
+          "text": "Er bittet, dass der Vater sie aus der Welt herausnimmt",
           "explanation": ""
         },
         {
@@ -2514,10 +2514,10 @@
     {
       "questionId": "joh_084",
       "type": "single_choice",
-      "text": "Welches Mittel bittet Jesus zur Heiligung Seiner Nachfolger an?",
+      "text": "Wodurch sollen Seine Nachfolger nach dem Gebet Jesu geheiligt werden?",
       "options": [
         {
-          "text": "Durch die Wahrheit: Dein Wort ist die Wahrheit",
+          "text": "Durch die Wahrheit: Dein Wort ist Wahrheit",
           "explanation": ""
         },
         {
@@ -2754,14 +2754,14 @@
     {
       "questionId": "joh_092",
       "type": "single_choice",
-      "text": "Welche Ausrufeworte sprach Pilatus, als Er Jesus dem Volke vorführte?",
+      "text": "Welche Ausrufeworte sprach Pilatus, als er Jesus mit der Dornenkrone dem Volk vorführte?",
       "options": [
         {
           "text": "Seht, welch ein Mensch!",
           "explanation": ""
         },
         {
-          "text": "Seht hier euren König!",
+          "text": "Seht hier den Sohn Davids!",
           "explanation": ""
         },
         {
@@ -3328,7 +3328,7 @@
         0,
         1
       ],
-      "bibleReference": "Johannes 20:19",
+      "bibleReference": "Johannes 20:11-29; Lukas 24:13-35",
       "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"

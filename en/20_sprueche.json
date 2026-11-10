@@ -128,17 +128,17 @@
       "text": "In whom should man trust with all his heart according to Proverbs 3:5?",
       "options": [
         {
-          "text": "In the words of the wise elders and faithful priests",
+          "text": "In the counsel of the elders of the city, not in his own feelings",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "In the abundance of riches gathered throughout his life",
+          "text": "In his own feelings and experience, not in the counsel of others",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "In the strength of his own arm and the counsel of friends",
+          "text": "In the signs of heaven, not in the understanding of men",
           "isCorrect": false,
           "explanation": ""
         },
@@ -167,17 +167,17 @@
           "explanation": ""
         },
         {
-          "text": "Flee far away from his rebuke and lament in deep sorrow",
+          "text": "As a token of his wrath upon the disobedience of the son",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Complain of his severity before the elders of the gate",
+          "text": "As a hard punishment that must be borne in silence",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Seek after human healers to remove the heavy affliction",
+          "text": "As a trial that cometh upon the wicked only",
           "isCorrect": false,
           "explanation": ""
         }
@@ -196,22 +196,22 @@
       "text": "Unto what is the path of the just compared in Proverbs 4:18?",
       "options": [
         {
-          "text": "Unto a river that floweth silently through all the valley",
+          "text": "Unto a quiet river that floweth on evenly",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "As the shining light, that shineth unto the perfect day",
+          "text": "As the shining light, that shineth more and more unto the perfect day",
           "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "Unto a cedar of Lebanon that withstandeth every tempest",
+          "text": "Unto a firm rock that withstandeth every storm",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Unto a tower of brass that never can be shaken by storm",
+          "text": "Unto a tree by the rivers of water, that bringeth forth fruit in his season",
           "isCorrect": false,
           "explanation": ""
         }
@@ -264,17 +264,17 @@
       "text": "Which creature is set before the sluggard as an example in Proverbs 6:6?",
       "options": [
         {
+          "text": "The bee",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
           "text": "The spider",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "The coney",
-          "isCorrect": false,
-          "explanation": ""
-        },
-        {
-          "text": "The locust",
+          "text": "The swallow",
           "isCorrect": false,
           "explanation": ""
         },
@@ -303,17 +303,17 @@
           "explanation": ""
         },
         {
-          "text": "Four things he hateth in the earth, and five are an abomination",
+          "text": "Three things doth he hate: yea, four are an abomination",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Three things are hateful unto him, and four are an abomination",
+          "text": "Ten things doth he hate: yea, eleven are an abomination",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Eight things are despised of God, and nine are an abomination",
+          "text": "Twelve things doth he hate: yea, thirteen are an abomination",
           "isCorrect": false,
           "explanation": ""
         }
@@ -332,22 +332,22 @@
       "text": "How doth the strange woman approach the simple young man in Proverbs 7:13?",
       "options": [
         {
-          "text": "She inviteth him into her garden with sweet words of peace",
+          "text": "She threateneth him with sharp words and driveth him away",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "She caught him, and kissed him, and with an impudent face spake",
+          "text": "So she caught him, and kissed him, and with an impudent face said unto him",
           "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "She sendeth her maidens to bring him secretly to her chamber",
+          "text": "She offereth him gold and silver for sale in the market",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "She offereh him precious gold and rich coverings of tapestry",
+          "text": "She challengeth him to a contest in the gate before all the people",
           "isCorrect": false,
           "explanation": ""
         }
@@ -366,22 +366,22 @@
       "text": "What doth wisdom declare in Proverbs 8:22 concerning her origin?",
       "options": [
         {
-          "text": "She was created in the days of the patriarchs before flood",
+          "text": "She was first revealed unto the wise men of the east, and taught by them",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "She was born in the sacred temple of God upon Mount Zion",
+          "text": "She sprang from Solomon's meditation upon the ways of man",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "The LORD possessed me in the beginning of his way, of old",
+          "text": "The LORD possessed me in the beginning of his way, before his works of old",
           "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "She was given unto the kings of the earth at their rising",
+          "text": "She is given only unto kings in their palaces, and unto none else",
           "isCorrect": false,
           "explanation": ""
         }
@@ -400,17 +400,17 @@
       "text": "How many pillars hath wisdom hewn out for her house according to Proverbs 9:1?",
       "options": [
         {
-          "text": "Twelve pillars",
-          "isCorrect": false,
-          "explanation": ""
-        },
-        {
           "text": "Three pillars",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Ten pillars",
+          "text": "Four pillars",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Twelve pillars",
           "isCorrect": false,
           "explanation": ""
         },
@@ -468,7 +468,7 @@
       "text": "What doth the blessing of the LORD do according to Proverbs 10:22?",
       "options": [
         {
-          "text": "It giveth long life without sickness",
+          "text": "It keepeth a man from sickness",
           "isCorrect": false,
           "explanation": ""
         },
@@ -478,12 +478,12 @@
           "explanation": ""
         },
         {
-          "text": "It giveth victory over all enemies in war",
+          "text": "It giveth dominion over cities forthwith",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "It maketh a man honourable before all kings",
+          "text": "It giveth knowledge without measure",
           "isCorrect": false,
           "explanation": ""
         }
@@ -499,25 +499,25 @@
     {
       "questionId": "spr_015",
       "type": "single_choice",
-      "text": "What is a false balance according to Proverbs 11:1?",
+      "text": "How doth the LORD regard a false balance according to Proverbs 11:1?",
       "options": [
         {
-          "text": "An error of the merchant",
+          "text": "He leaveth the punishment unto the judges",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "A folly before the elders",
+          "text": "He overlooketh it when a poor man deceiveth",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "An abomination to the LORD",
+          "text": "A false balance is abomination to the LORD",
           "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "A loss unto the city gate",
+          "text": "He requireth only double the amount again",
           "isCorrect": false,
           "explanation": ""
         }
@@ -570,22 +570,22 @@
       "text": "What distinguisheth the righteous from the wicked in regard to animals in Proverbs 12:10?",
       "options": [
         {
-          "text": "A righteous man regardeth the life of his beast: but the wicked are cruel",
+          "text": "A righteous man regardeth the life of his beast: but the tender mercies of the wicked are cruel",
           "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "A righteous man offereth all his cattle in sacrifice, but the wicked spareth",
+          "text": "The righteous useth his cattle only for labour, but the wicked letteth them rest",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "A righteous man selleth his cattle for fair gain, but the wicked cheateth",
+          "text": "The wicked tendeth his flocks better than the righteous tendeth his own",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "A righteous man keepeth many flocks on hills, but the wicked neglecteth them",
+          "text": "Both deal alike with their cattle, for they are but possessions",
           "isCorrect": false,
           "explanation": ""
         }
@@ -1095,7 +1095,7 @@
           "explanation": ""
         },
         {
-          "text": "He that covereth his sins shall not prosper: but whoso confesseth shall have mercy",
+          "text": "He that covereth his sins shall not prosper: but whoso confesseth and forsaketh them shall have mercy",
           "isCorrect": true,
           "explanation": ""
         }
@@ -1163,7 +1163,7 @@
           "explanation": ""
         },
         {
-          "text": "Above all precious pearls",
+          "text": "Above the finest ivory",
           "isCorrect": false,
           "explanation": ""
         }
@@ -1726,22 +1726,22 @@
       "text": "What followeth when pride cometh according to Proverbs 11:2?",
       "options": [
         {
-          "text": "When pride cometh, then cometh shame: but with lowly is wisdom",
+          "text": "When pride cometh, then cometh shame: but with the lowly is wisdom",
           "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "When pride cometh, then cometh wealth: but with lowly is poverty",
+          "text": "When pride cometh, then cometh poverty: but with the lowly is wealth",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "When pride cometh, then cometh honour: but with lowly is disgrace",
+          "text": "When pride cometh, then cometh fear: but with the lowly is honour",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "When pride cometh, then cometh power: but with lowly is weakness",
+          "text": "When pride cometh, then cometh weakness: but with the lowly is power",
           "isCorrect": false,
           "explanation": ""
         }
@@ -2066,7 +2066,7 @@
       "text": "What doth a merry heart do according to Proverbs 17:22?",
       "options": [
         {
-          "text": "It maketh the body strong",
+          "text": "It maketh a man rich",
           "isCorrect": false,
           "explanation": ""
         },
@@ -2081,7 +2081,7 @@
           "explanation": ""
         },
         {
-          "text": "It maketh the spirit bold",
+          "text": "It maketh the spirit strong",
           "isCorrect": false,
           "explanation": ""
         }
@@ -2644,22 +2644,22 @@
       "text": "What is the glory of God and the honour of kings in Proverbs 25:2?",
       "options": [
         {
-          "text": "God's glory is judgment; the king's honour is mercy to poor",
+          "text": "God's glory is righteousness; the honour of kings is might and power in the land",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "God's glory is power; the king's honour is victory in battle",
+          "text": "God's glory is grace; the honour of kings is riches, renown and fame",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "God's glory is holiness; the king's honour is just sentence",
+          "text": "God's glory is wisdom; the honour of kings is obedience and service among the people",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "It is glory of God to conceal a thing: honour of kings to search",
+          "text": "It is the glory of God to conceal a thing: but the honour of kings is to search out a matter",
           "isCorrect": true,
           "explanation": ""
         }
@@ -2882,22 +2882,22 @@
       "text": "How do the wicked and the righteous differ according to Proverbs 28:1?",
       "options": [
         {
-          "text": "The wicked perish in youth, but the righteous attain old age",
+          "text": "The wicked are bold and sure of victory, but the righteous are fearful and timid as hares",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "The wicked seek after war, but the righteous delight in peace",
+          "text": "Both flee when no man pursueth, because their conscience doth vex and trouble them",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "The wicked flee when no man pursueth: but righteous are bold as lion",
+          "text": "The wicked flee when no man pursueth: but the righteous are bold as a lion",
           "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "The wicked gather silver, but the righteous inherit wisdom",
+          "text": "Both are bold as young lions when the LORD is with them and defendeth them",
           "isCorrect": false,
           "explanation": ""
         }
@@ -3015,25 +3015,25 @@
     {
       "questionId": "spr_090",
       "type": "single_choice",
-      "text": "What two things doth Agur require of the LORD in Proverbs 30:7-8?",
+      "text": "What doth Agur ask of the LORD according to Proverbs 30:8?",
       "options": [
         {
-          "text": "Victory over enemies and long peaceful life in the land",
+          "text": "Riches and honour, that he might glorify the LORD",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Wisdom of Solomon and understanding to judge the people",
+          "text": "Long life and wisdom, that he might lead the people",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Remove far from me vanity and lies: give me neither poverty nor riches",
+          "text": "Give me neither poverty nor riches; feed me with food convenient for me",
           "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "Great abundance of cattle and an inheritance for children",
+          "text": "Victory over his enemies and peace in the land",
           "isCorrect": false,
           "explanation": ""
         }

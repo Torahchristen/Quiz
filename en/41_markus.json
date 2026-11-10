@@ -469,12 +469,12 @@
       "text": "Why hath blasphemy against the Holy Ghost no forgiveness in Mark 3:29-30?",
       "options": [
         {
-          "text": "Because they refused to wash their hands before eating bread",
+          "text": "Because it maketh void the law of Moses and despiseth the commandments of the fathers",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Because they neglected the sacrifices of the feast of Passover",
+          "text": "Because it profaneth the temple and defileth the sanctuary of God",
           "isCorrect": false,
           "explanation": ""
         },
@@ -484,7 +484,7 @@
           "explanation": ""
         },
         {
-          "text": "Because they brake the holy covenant of circumcision",
+          "text": "Because the scribes will not forgive it and lay the ban upon it",
           "isCorrect": false,
           "explanation": ""
         }
@@ -503,17 +503,17 @@
       "text": "Whom did Jesus acknowledge as His brother, sister, and mother in Mark 3:35?",
       "options": [
         {
-          "text": "Only those of the lineage and royal family of King David",
+          "text": "All the inhabitants of Nazareth",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "The disciples who left all their earthly possessions behind",
+          "text": "The chief priests and scribes",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "The priests and Levites ministering daily at the altar",
+          "text": "The chief men of Galilee",
           "isCorrect": false,
           "explanation": ""
         },
@@ -552,7 +552,7 @@
           "explanation": ""
         },
         {
-          "text": "A violent tempest washed it down into the deep sea",
+          "text": "It brought forth fruit abundantly at once, because the earth was thin",
           "isCorrect": false,
           "explanation": ""
         }
@@ -571,7 +571,7 @@
       "text": "What does the seed represent in the parable of the sower in Mark 4:14?",
       "options": [
         {
-          "text": "Earthly riches and gold",
+          "text": "The works of men",
           "isCorrect": false,
           "explanation": ""
         },
@@ -581,12 +581,12 @@
           "explanation": ""
         },
         {
-          "text": "The deeds of the priests",
+          "text": "Earthly riches",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "The blood of the sacrifice",
+          "text": "The tradition of the elders",
           "isCorrect": false,
           "explanation": ""
         }
@@ -602,7 +602,7 @@
     {
       "questionId": "mk_018",
       "type": "single_choice",
-      "text": "Which parable of the growth of seed is found only in the Gospel of Mark?",
+      "text": "Which parable describeth the secret growth of the kingdom of God?",
       "options": [
         {
           "text": "The parable of the tares sown among the wheat field",
@@ -636,20 +636,20 @@
     {
       "questionId": "mk_019",
       "type": "single_choice",
-      "text": "Unto what grain did Jesus liken the kingdom of God in Mark 4:30-32?",
+      "text": "Unto what did Jesus liken the kingdom of God because of its marvellous growth?",
       "options": [
         {
-          "text": "Unto a grain of fine wheat",
+          "text": "Unto a fig tree",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Unto a kernel of sweet corn",
+          "text": "Unto an almond tree",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Unto a seed of the olive tree",
+          "text": "Unto a vine",
           "isCorrect": false,
           "explanation": ""
         },
@@ -704,7 +704,7 @@
     {
       "questionId": "mk_021",
       "type": "single_choice",
-      "text": "Where did the man with the unclean spirit dwell in the country of the Gadarenes?",
+      "text": "Where had the man with the unclean spirit his dwelling in the country of the Gadarenes?",
       "options": [
         {
           "text": "In a rocky cavern",
@@ -722,7 +722,7 @@
           "explanation": ""
         },
         {
-          "text": "Upon the mountains",
+          "text": "In a deserted village",
           "isCorrect": false,
           "explanation": ""
         }
@@ -775,17 +775,17 @@
       "text": "What became of the herd of swine after the unclean spirits entered into them?",
       "options": [
         {
-          "text": "They fled into the wilderness and scattered across the mountains",
+          "text": "They ran in a panic over the fields and scattered every way",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "They turned fiercely upon the keepers and destroyed their tents",
+          "text": "They set upon the herdsmen and fled into the mountains, where men sought them",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "They were smitten with a plague and died upon the rocky hillside",
+          "text": "They fell down dead by the way before they came unto the sea",
           "isCorrect": false,
           "explanation": ""
         },
@@ -814,17 +814,17 @@
           "explanation": ""
         },
         {
-          "text": "Jesus laid both his hands upon her and prayed",
+          "text": "Jesus laid his hand upon her and spake a word of healing over her",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "She washed seven times in the pool of Siloam",
+          "text": "She washed three times in Jordan and was thereby made whole",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "The apostles made intercession for her at table",
+          "text": "Jesus spake a word of power over her, and the plague departed straightway",
           "isCorrect": false,
           "explanation": ""
         }
@@ -843,7 +843,7 @@
       "text": "What Aramaic words did Jesus speak when raising Jairus' daughter from the dead?",
       "options": [
         {
-          "text": "Ephphatha! (Be opened!) and her ears were opened",
+          "text": "Ephphatha! (Be opened!) and she opened her eyes",
           "isCorrect": false,
           "explanation": ""
         },
@@ -858,7 +858,7 @@
           "explanation": ""
         },
         {
-          "text": "Eloi, Eloi! (My God!) and she straightway arose",
+          "text": "Eloi, Eloi! (My God!) and she opened her eyes",
           "isCorrect": false,
           "explanation": ""
         }
@@ -1693,7 +1693,7 @@
       "text": "What was the name of the blind beggar near Jericho whom Jesus healed?",
       "options": [
         {
-          "text": "Zacchaeus",
+          "text": "Zacchæus",
           "isCorrect": false,
           "explanation": ""
         },
@@ -1703,7 +1703,7 @@
           "explanation": ""
         },
         {
-          "text": "Bartimaeus",
+          "text": "Bartimæus",
           "isCorrect": true,
           "explanation": ""
         },
@@ -1863,17 +1863,17 @@
       "text": "With what counter-question did Jesus answer the rulers concerning His authority?",
       "options": [
         {
-          "text": "Did David eat the shewbread lawfully in the house of God?",
+          "text": "Who founded the temple of Solomon, and who renewed it?",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Can a man serve two masters and love them both equally?",
+          "text": "How great is the tribute unto Cæsar, and who appointeth it?",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Is it lawful to heal a sick man upon the sabbath day?",
+          "text": "Of what family is the high priest, and who appointed him?",
           "isCorrect": false,
           "explanation": ""
         },
@@ -1931,22 +1931,22 @@
       "text": "What answer did Jesus give concerning the tribute money in Mark 12:17?",
       "options": [
         {
-          "text": "Pay tribute only to the high priest and the elders at Jerusalem",
+          "text": "Pay no tribute to the Romans, for they are heathen",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Render to Caesar the things that are Caesar's, and to God the things that are God's",
+          "text": "Render to Cæsar the things that are Cæsar's, and to God the things that are God's",
           "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "No man of Israel ought ever to pay tribute to a heathen Caesar",
+          "text": "Give all dues unto the temple at Jerusalem alone",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Withhold all taxes until the promised kingdom of God shall come",
+          "text": "Refuse all tribute, for the kingdom of God is come",
           "isCorrect": false,
           "explanation": ""
         }
@@ -1965,12 +1965,12 @@
       "text": "What error did Jesus point out to the Sadducees concerning the resurrection?",
       "options": [
         {
-          "text": "They rejected the five books of Moses the servant of God",
+          "text": "They rejected the books of Moses and believed only the prophets",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "They neglected to offer burnt sacrifices in the temple",
+          "text": "They gave no alms to the poor and regarded not the widows",
           "isCorrect": false,
           "explanation": ""
         },
@@ -1980,7 +1980,7 @@
           "explanation": ""
         },
         {
-          "text": "They followed the false traditions of the Greeks and heathen",
+          "text": "They despised the ordinances of the fathers and the law of the priests",
           "isCorrect": false,
           "explanation": ""
         }
@@ -2004,12 +2004,12 @@
           "explanation": ""
         },
         {
-          "text": "Honor thy father and thy mother, that thy days may be long",
+          "text": "Thou shalt offer burnt offerings daily and keep the feasts of the Lord",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Bring all thy tithes and firstfruits into the storehouse",
+          "text": "Thou shalt fast twice in the week and give tithes",
           "isCorrect": false,
           "explanation": ""
         },
@@ -2038,17 +2038,17 @@
           "explanation": ""
         },
         {
-          "text": "Her offering was too small to be accepted upon the altar of the sanctuary",
+          "text": "She should rather have kept her two mites for herself",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "She ought to have kept the two mites for her own food and sustenance",
+          "text": "She hath given but little of her abundance",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "The chief priests should have returned the money unto her with an increase",
+          "text": "She hath sinned against the law with her small gift",
           "isCorrect": false,
           "explanation": ""
         }
@@ -2067,7 +2067,7 @@
       "text": "What prophesied destruction of the temple did Jesus announce in Mark 13:2?",
       "options": [
         {
-          "text": "The temple shall be burned with fire and rebuilt in three days",
+          "text": "The walls shall stand in glory for ever, and the temple shall remain holy",
           "isCorrect": false,
           "explanation": ""
         },
@@ -2077,12 +2077,12 @@
           "explanation": ""
         },
         {
-          "text": "The Roman soldiers shall pillage the golden vessels from the holy place",
+          "text": "The apostles shall set up their thrones there and judge the people",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "The walls of the temple shall stand unshaken through all generations",
+          "text": "Angels shall guard the gates, and no enemy shall touch them",
           "isCorrect": false,
           "explanation": ""
         }
@@ -2101,12 +2101,12 @@
       "text": "What signs did Jesus name as the beginning of sorrows in Mark 13:7-8?",
       "options": [
         {
-          "text": "The downfall of earthly commerce and the ruin of merchants",
+          "text": "The quenching of the stars and the darkening of the whole earth",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Wondrous signs in the sun, moon, and bright morning stars",
+          "text": "The peaceful conversion of all nations and the end of all wars",
           "isCorrect": false,
           "explanation": ""
         },
@@ -2116,7 +2116,7 @@
           "explanation": ""
         },
         {
-          "text": "Prosperity and peace established among all the nations",
+          "text": "The setting up of a new high priest and the fall of the temple",
           "isCorrect": false,
           "explanation": ""
         }
@@ -2135,17 +2135,17 @@
       "text": "What promise did Jesus give to His followers amid severe persecution in Mark 13:13?",
       "options": [
         {
-          "text": "They shall be delivered from every prison by legions of angels",
+          "text": "They shall be honoured and protected by the rulers",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "They shall reign over their adversaries in this earthly life",
+          "text": "The Roman authorities shall preserve them",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "They shall receive crowns of gold before the Roman governors",
+          "text": "They shall never suffer tribulation",
           "isCorrect": false,
           "explanation": ""
         },
@@ -2166,25 +2166,25 @@
     {
       "questionId": "mk_064",
       "type": "single_choice",
-      "text": "What signs in the heavens will precede the coming of the Son of man?",
+      "text": "What sign announced the imminent coming of the Son of man?",
       "options": [
         {
-          "text": "The sun shall be darkened, the moon shall not give her light, and the stars shall fall",
+          "text": "The sun shall be darkened, the moon shall not give her light, the powers in heaven shall be shaken",
           "isCorrect": true,
           "explanation": ""
         },
         {
-          "text": "A fiery rainbow shall appear over all the mountains of the earth",
+          "text": "The throne of David shall be set up again in Judæa, and all nations shall do homage to it",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "The sea shall dry up and the rivers shall turn into bitter wormwood",
+          "text": "A new altar shall be built upon Sinai, and a pillar of fire shall appear",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "Clouds of incense shall descend and cover the city of Jerusalem",
+          "text": "The sea shall overflow its banks, and the mountains shall fall into the valleys",
           "isCorrect": false,
           "explanation": ""
         }
@@ -2213,7 +2213,7 @@
           "explanation": ""
         },
         {
-          "text": "The prophets who searched diligently concerning the time",
+          "text": "The scribes, who have reckoned it and proclaimed it to the people",
           "isCorrect": false,
           "explanation": ""
         },
@@ -2234,15 +2234,15 @@
     {
       "questionId": "mk_066",
       "type": "single_choice",
-      "text": "What act of love was performed upon Jesus in the house of Simon the leper?",
+      "text": "What act of love did a woman shew unto Jesus in the house of Simon the leper?",
       "options": [
         {
-          "text": "A woman washed his feet with water from the holy well",
+          "text": "She washed his feet with her tears and wiped them with her hair",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "A disciple presented him with forty silver shekels of the sanctuary",
+          "text": "She gave thirty pieces of silver for the disciples and the poor",
           "isCorrect": false,
           "explanation": ""
         },
@@ -2252,7 +2252,7 @@
           "explanation": ""
         },
         {
-          "text": "A ruler clothed him with a royal robe of purple silk and gold",
+          "text": "She made him a linen garment and laid it upon his shoulders",
           "isCorrect": false,
           "explanation": ""
         }
@@ -2271,17 +2271,17 @@
       "text": "What sign did Jesus give His disciples to prepare the Passover meal?",
       "options": [
         {
-          "text": "A white lamb standing at the corner of the sheep gate",
+          "text": "A blind beggar at the city gate",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "A cloud resting over the house of the chief ruler",
+          "text": "A white lamb in the market place",
           "isCorrect": false,
           "explanation": ""
         },
         {
-          "text": "A bright light shining in the window of an upper chamber",
+          "text": "A light in the window of a house",
           "isCorrect": false,
           "explanation": ""
         },

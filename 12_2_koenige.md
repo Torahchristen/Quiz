@@ -161,7 +161,7 @@
 
 - [ ] Sanherib bei seinem Feldzug gegen Juda
 - [ ] Salmanassar bei der Belagerung Samarias
-- [ ] Tiglat-Pileser aus den Städten des Nordens
+- [ ] Asar-Haddon, der Sohn Sanheribs
 - [x] Pul, der König von Assyrien, im Lande
 
 **Bibelstelle:** 2. Könige 15:19-20
@@ -241,7 +241,7 @@
 
 - [ ] Zu Jeremia, dem Priestersohn aus Anathoth
 - [ ] Zu Micha, dem Propheten aus Morescheth
-- [ ] Zu Zephanja, dem Urenkel des Königs Hiskia
+- [ ] Zu Zephanja, dem Sohn Chusis
 - [x] Zu Jesaja, dem Sohn des Amoz, dem Propheten
 
 **Bibelstelle:** 2. Könige 19:1-7
@@ -452,7 +452,7 @@
 - [ ] Zehntausend Zentner reines Gold aus den Minen Moabs
 - [ ] Tausend eherne Streitwagen und zweitausend Reitpferde
 - [ ] Jährlich fünfzigtausend Schekel Silber an den König
-- [x] Die Wolle von hunderttausend Lämmern und Widdern
+- [x] Die Wolle von hunderttausend Lämmern und hunderttausend Widdern
 
 **Bibelstelle:** 2. Könige 3:4
 **Erklärung:** 
@@ -680,9 +680,9 @@
 ### 68. Welches prophetische Zeichen gab der sterbende Elisa dem König Joas von Israel?
 
 - [ ] Er salbte sein Schwert mit heiligem Öl aus dem Tempel
-- [ ] Er ließ ihn einen ehernen Bogen vor den Ältesten spannen
+- [ ] Er ließ ihn Wasser vor den Ältesten auf die Erde gießen
 - [ ] Er teilte einen Pfeil in drei Teile vor seinen Augen
-- [x] Er schoss den Heilspfeil und ließ ihn die Pfeile auf die Erde schlagen
+- [x] Er ließ ihn den Heilspfeil schießen und mit den Pfeilen auf die Erde schlagen
 
 **Bibelstelle:** 2. Könige 13:17-19
 **Erklärung:** 

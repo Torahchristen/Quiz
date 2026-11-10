@@ -204,7 +204,7 @@
       "text": "Welches Bild des Friedens zeichnet Jesaja 11:6?",
       "options": [
         {
-          "text": "Der Wolf wohnt beim Schaf und der Löwe frisst Stroh",
+          "text": "Der Löwe jagt das Lamm, und der Bär meidet die Kuh",
           "explanation": ""
         },
         {
@@ -508,7 +508,7 @@
           "explanation": ""
         },
         {
-          "text": "Er setzt es mit Härte durch",
+          "text": "Er zerschlägt es mit eisernem Stab",
           "explanation": ""
         },
         {
@@ -662,7 +662,7 @@
           "explanation": ""
         },
         {
-          "text": "Auf, ihr Armen, kommt und kauft Brot ohne Geld",
+          "text": "Auf, ihr Reichen, kauft Wein und Milch mit Geld",
           "explanation": ""
         },
         {
@@ -872,7 +872,7 @@
           "explanation": ""
         },
         {
-          "text": "Der Esel kennt seinen Stall und der Ochse seine Weide",
+          "text": "Das Kamel kennt seine Last und das Pferd seinen Weg",
           "explanation": ""
         },
         {
@@ -951,7 +951,7 @@
     {
       "questionId": "jes_032",
       "type": "single_choice",
-      "text": "Wovon rät Jesaja 2:22 ab?",
+      "text": "Wovor warnt Jesaja 2:22?",
       "options": [
         {
           "text": "Vor dem Götzendienst der Völker",
@@ -1044,7 +1044,7 @@
       "text": "Wie straft Gott den Hochmut der Töchter Zions (Jesaja 3:24)?",
       "options": [
         {
-          "text": "Statt der Spangen wird Armut sein, statt des Schmucks ein Sack",
+          "text": "Statt der Spangen wird Armut sein, statt des Goldes Blei",
           "explanation": ""
         },
         {
@@ -1056,7 +1056,7 @@
           "explanation": ""
         },
         {
-          "text": "Statt des Gürtels wird ein Strick sein, statt des Haars ein Tuch",
+          "text": "Statt der Ringe wird Rost sein, statt der Krone ein Kranz aus Dornen",
           "explanation": ""
         }
       ],
@@ -1314,11 +1314,11 @@
       "text": "Wie nannte Jesaja Rezin und Pekach vor Ahas (Jesaja 7:4)?",
       "options": [
         {
-          "text": "Zwei glimmende Docht",
+          "text": "Zwei glimmende Dochte",
           "explanation": ""
         },
         {
-          "text": "Zwei rauchende Brandscheite",
+          "text": "Zwei rauchende Löschbrände",
           "explanation": ""
         },
         {
@@ -1374,11 +1374,11 @@
       "text": "Welches Land sah nach Jesaja 9:1-2 ein großes Licht?",
       "options": [
         {
-          "text": "Das Land jenseits des Jordan, Gad und Ruben im Osten",
+          "text": "Das Land Juda und Benjamin rings um Jerusalem",
           "explanation": ""
         },
         {
-          "text": "Sebulon und Naftali, das galiläische Land der Heiden",
+          "text": "Sebulon und Naphthali, der Heiden Galiläa",
           "explanation": ""
         },
         {
@@ -1641,7 +1641,7 @@
     {
       "questionId": "jes_058",
       "type": "single_choice",
-      "text": "Welcher Stadt gilt die Last in Jesaja 13:1?",
+      "text": "Über wen ergeht die Last in Jesaja 13:1?",
       "options": [
         {
           "text": "Über Edom",
@@ -1862,7 +1862,7 @@
           "explanation": ""
         },
         {
-          "text": "Sein Herz brummt über Moab wie eine Harfe",
+          "text": "Sein Herz schreit über Moab",
           "explanation": ""
         },
         {
@@ -1884,15 +1884,15 @@
       "text": "Was rät Jesaja 16:1 den Moabitern?",
       "options": [
         {
-          "text": "Zinsen in Silber zum Herrscher des Landes zu bringen",
+          "text": "Tribut in Silber und Gold zum Herrscher von Damaskus zu bringen",
           "explanation": ""
         },
         {
-          "text": "Boten als Gesandte zum Herrscher von Damaskus zu schicken",
+          "text": "Schnelle Boten zu den mächtigen Fürsten Ägyptens zu schicken",
           "explanation": ""
         },
         {
-          "text": "Gold und Gaben zum Tempel nach Jerusalem zu senden",
+          "text": "Brandopfer auf den Höhen des Kemosch darzubringen",
           "explanation": ""
         },
         {
@@ -2064,11 +2064,11 @@
       "text": "Welchem Land gilt das Wehe in Jesaja 18:1?",
       "options": [
         {
-          "text": "Dem Land Äthiopiens im Süden von Ägypten",
+          "text": "Dem Land Edom am Rand der Wüste",
           "explanation": ""
         },
         {
-          "text": "Dem Land jenseits der Wasser von Kusch",
+          "text": "Dem Land jenseits der Wasser des Mohrenlandes",
           "explanation": ""
         },
         {
@@ -2308,7 +2308,7 @@
           "explanation": ""
         },
         {
-          "text": "Wie sollen wir entrinnen, wenn so steht, wohin wir um Hilfe flohen?",
+          "text": "Ist das unsre Zuversicht, dahin wir um Hilfe flohen? Wie könnten wir entrinnen?",
           "explanation": ""
         },
         {
@@ -2754,7 +2754,7 @@
       "text": "Welches Lied wird nach Jesaja 26:1 in Juda gesungen?",
       "options": [
         {
-          "text": "Wir haben eine feste Stadt; Mauern und Wehr schafft er zum Heil",
+          "text": "Wir haben eine feste Stadt, Mauern und Wehre sind Heil",
           "explanation": ""
         },
         {
@@ -2766,7 +2766,7 @@
           "explanation": ""
         },
         {
-          "text": "Wir haben ein altes Gesetz; seine Mauern geben uns Heil",
+          "text": "Wir haben ein altes Gesetz; seine Gebote sind unsre Wehr",
           "explanation": ""
         }
       ],
@@ -3238,7 +3238,7 @@
           "explanation": ""
         },
         {
-          "text": "Wie Vögel, die ihre Jungen beschirmen",
+          "text": "Wie die Vögel, die mit ihren Flügeln beschirmen",
           "explanation": ""
         },
         {
@@ -3272,11 +3272,11 @@
           "explanation": ""
         },
         {
-          "text": "Jeder wird wie ein Bergungsort vor Wind und Sturm sein",
+          "text": "Jeder wird wie eine Zuflucht vor dem Wind und ein Schirm vor dem Platzregen sein",
           "explanation": ""
         },
         {
-          "text": "Jeder wird wie ein Brunnen sein, der den Durstigen tränkt",
+          "text": "Jeder wird wie ein Löwe sein, der seine Beute zerreißt",
           "explanation": ""
         }
       ],
@@ -3444,19 +3444,19 @@
       "text": "Über welches Volk hält der HERR nach Jesaja 34:5-6 ein Schlachten in Bozra?",
       "options": [
         {
-          "text": "Auf Edom",
+          "text": "Über Edom",
           "explanation": ""
         },
         {
-          "text": "Auf Moab",
+          "text": "Über Moab",
           "explanation": ""
         },
         {
-          "text": "Auf Ammon",
+          "text": "Über Ammon",
           "explanation": ""
         },
         {
-          "text": "Auf Tyrus",
+          "text": "Über die Philister",
           "explanation": ""
         }
       ],
@@ -3906,7 +3906,7 @@
           "explanation": ""
         },
         {
-          "text": "Als du Würmlein Jakob, den er zum neuen scharfen Dreschwagen macht",
+          "text": "Als Würmlein Jakob, das er zum scharfen, neuen Dreschwagen macht",
           "explanation": ""
         }
       ],
@@ -4224,19 +4224,19 @@
       "text": "Welche Einladung ergeht in Jesaja 45:22?",
       "options": [
         {
-          "text": "Wendet euch an die Götter, so werdet ihr gerettet, aller Welt Enden",
+          "text": "Wendet euch an die Götter, so werdet ihr selig, aller Welt Enden",
           "explanation": ""
         },
         {
-          "text": "Zieht nach Jerusalem, so werdet ihr gerettet, aller Welt Enden",
+          "text": "Zieht nach Jerusalem, so werdet ihr selig, aller Welt Enden",
           "explanation": ""
         },
         {
-          "text": "Wendet euch zu mir, so werdet ihr gerettet, aller Welt Enden",
+          "text": "Wendet euch zu mir, so werdet ihr selig, aller Welt Enden",
           "explanation": ""
         },
         {
-          "text": "Opfert dem HERRN, so werdet ihr gerettet, aller Welt Enden",
+          "text": "Opfert dem HERRN, so werdet ihr selig, aller Welt Enden",
           "explanation": ""
         }
       ],
@@ -4344,7 +4344,7 @@
       "text": "Was kündigt Jesaja 47:1-3 der Tochter Babel an?",
       "options": [
         {
-          "text": "Sie wird verbannt, von ihrem Thron gestürzt und muss in der Fremde dienen",
+          "text": "Sie wird sieben Jahre belagert und muss schweren Tribut zahlen",
           "explanation": ""
         },
         {
@@ -4592,11 +4592,11 @@
           "explanation": ""
         },
         {
-          "text": "Sie verehren es und bringen ihm Gold und Weihrauch",
+          "text": "Sie plündern es und tragen sein Gold und Silber fort",
           "explanation": ""
         },
         {
-          "text": "Könige werden ihre Pfleger und Fürstinnen ihre Ammen sein",
+          "text": "Könige werden seine Pfleger und Fürstinnen seine Säugammen sein",
           "explanation": ""
         }
       ],
@@ -5098,11 +5098,11 @@
           "explanation": ""
         },
         {
-          "text": "Als blinde Führer, die in die Grube fallen",
+          "text": "Als wachsame Adler, die alles von fern sehen",
           "explanation": ""
         },
         {
-          "text": "Als faule Hirten, die ihre Herde zerstreuen",
+          "text": "Als reißende Wölfe, die die Herde fressen",
           "explanation": ""
         },
         {
@@ -5241,14 +5241,14 @@
     {
       "questionId": "jes_178",
       "type": "single_choice",
-      "text": "Was verheißt Jesaja 58:14 dem, der den Sabbat ein Lust nennt?",
+      "text": "Was verheißt Jesaja 58:14 dem, der den Sabbat eine Lust nennt?",
       "options": [
         {
           "text": "Sieg über seine Feinde und Herrschaft über das ganze Land",
           "explanation": ""
         },
         {
-          "text": "Lust am HERRN und Fahren über die Höhen der Erde",
+          "text": "Lust am HERRN und Schweben über die Höhen auf Erden",
           "explanation": ""
         },
         {
@@ -5282,7 +5282,7 @@
           "explanation": ""
         },
         {
-          "text": "Weil die Missetaten eine Scheidung zwischen ihm und Gott machen",
+          "text": "Weil ihre Untugenden sie und ihren Gott voneinander scheiden",
           "explanation": ""
         },
         {
@@ -5368,7 +5368,7 @@
           "explanation": ""
         },
         {
-          "text": "Damit der Reichtum der Heiden und ihre Könige hereingebracht werden",
+          "text": "Damit der Heiden Macht hereingebracht und ihre Könige herzugeführt werden",
           "explanation": ""
         },
         {
@@ -5511,7 +5511,7 @@
     {
       "questionId": "jes_187",
       "type": "single_choice",
-      "text": "Welchen Auftrag haben die Wächter auf Zions Mauern nach Jesaja 62:6-7?",
+      "text": "Welchen Auftrag haben die Wächter auf den Mauern Jerusalems nach Jesaja 62:6-7?",
       "options": [
         {
           "text": "Das Tor zu bewachen, die Feinde zu melden und die ganze Stadt zu schützen",
@@ -5522,7 +5522,7 @@
           "explanation": ""
         },
         {
-          "text": "Nicht zu schweigen und dem HERRN keine Ruhe zu lassen, bis er Jerusalem gründet",
+          "text": "Nimmer stillzuschweigen, bis Jerusalem gesetzt werde zum Lobe auf Erden",
           "explanation": ""
         },
         {
@@ -5552,7 +5552,7 @@
           "explanation": ""
         },
         {
-          "text": "Die Auserwählten Gottes, das gerettete Volk der Endzeit",
+          "text": "Die Kinder Gottes, das Volk des Bundes",
           "explanation": ""
         },
         {
@@ -5691,7 +5691,7 @@
     {
       "questionId": "jes_193",
       "type": "single_choice",
-      "text": "Wie bekennt das Volk seine Sünde in Jesaja 64:5?",
+      "text": "Wie bekennt das Volk seine Sünde in Jesaja 64:6?",
       "options": [
         {
           "text": "Wir sind ein heiliges Volk und unsere Werke sind rein",
@@ -5706,7 +5706,7 @@
           "explanation": ""
         },
         {
-          "text": "Wir sind alle unrein, und Gerechtigkeit ist wie ein unflätig Kleid",
+          "text": "Wir sind allesamt wie die Unreinen, und alle unsre Gerechtigkeit ist wie ein unflätig Kleid",
           "explanation": ""
         }
       ],
@@ -5721,14 +5721,14 @@
     {
       "questionId": "jes_194",
       "type": "single_choice",
-      "text": "Mit welchem Bild unterwirft sich das Volk in Jesaja 64:7 dem HERRN?",
+      "text": "Mit welchem Bild unterwirft sich das Volk in Jesaja 64:8 dem HERRN?",
       "options": [
         {
           "text": "Wir sind Schafe, du bist der gute Hirte",
           "explanation": ""
         },
         {
-          "text": "Wir sind der Ton, du bist unser Töpfer",
+          "text": "Wir sind der Ton, du bist der Töpfer",
           "explanation": ""
         },
         {
@@ -5856,7 +5856,7 @@
           "explanation": ""
         },
         {
-          "text": "Alles Fleisch betet an; ihr Wurm stirbt nicht und Feuer lischt nicht",
+          "text": "Alles Fleisch betet an; ihr Wurm wird nicht sterben und ihr Feuer nicht verlöschen",
           "explanation": ""
         }
       ],

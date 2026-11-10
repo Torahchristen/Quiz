@@ -1616,7 +1616,7 @@
           "explanation": ""
         },
         {
-          "text": "Fasse meine Tränen in deinen Schlauch",
+          "text": "Gieße meine Tränen aus auf deinen Altar",
           "explanation": ""
         },
         {
@@ -1624,7 +1624,7 @@
           "explanation": ""
         },
         {
-          "text": "Bewahre meine Tränen in deinem Buch",
+          "text": "Wasche meine Tränen ab in deinem Brunnen",
           "explanation": ""
         }
       ],
@@ -1839,7 +1839,7 @@
         }
       ],
       "correctAnswers": [
-        3
+        1
       ],
       "bibleReference": "Psalmen 107:29",
       "explanation": "",
@@ -1899,7 +1899,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Psalmen 110:4",
       "explanation": "",
@@ -2032,7 +2032,7 @@
       "text": "Wozu ist nach Psalm 118:22 der Stein geworden, den die Bauleute verworfen haben?",
       "options": [
         {
-          "text": "Zum Schlussstein",
+          "text": "Zum Gedenkstein",
           "explanation": ""
         },
         {
@@ -2229,7 +2229,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Psalmen 122:1",
       "explanation": "",
@@ -2269,7 +2269,7 @@
     {
       "questionId": "ps_076",
       "type": "single_choice",
-      "text": "Wer baut nach Psalm 127:1 umsonst, wenn der HERR das Haus NICHT baut?",
+      "text": "Was geschieht nach Psalm 127:1, wenn der HERR das Haus NICHT baut?",
       "options": [
         {
           "text": "Dann bleibt das Haus ohne Segen und Frieden",
@@ -2329,7 +2329,7 @@
     {
       "questionId": "ps_078",
       "type": "single_choice",
-      "text": "Wohin ruft der Beter nach Psalm 130:1 zu dem HERRN?",
+      "text": "Woher ruft der Beter nach Psalm 130:1 zu dem HERRN?",
       "options": [
         {
           "text": "Aus der Tiefe",
@@ -2419,7 +2419,7 @@
     {
       "questionId": "ps_081",
       "type": "single_choice",
-      "text": "Wohin kann der Beter nach Psalm 139:7 vor dem Geist des HERRN fliehen?",
+      "text": "Wohin kann der Beter nach Psalm 139:7-10 vor dem Geist des HERRN fliehen?",
       "options": [
         {
           "text": "Auf die hohen Berge, wo kein Sterblicher den verborgenen Pfad findet",
@@ -2441,7 +2441,7 @@
       "correctAnswers": [
         3
       ],
-      "bibleReference": "Psalmen 139:7",
+      "bibleReference": "Psalmen 139:7-10",
       "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
@@ -2614,7 +2614,7 @@
           "explanation": ""
         },
         {
-          "text": "Er ruft sie und stellt sie auf ihren Platz",
+          "text": "Er sammelt sie und stellt sie an ihren Ort",
           "explanation": ""
         }
       ],
@@ -2727,7 +2727,7 @@
           "explanation": ""
         },
         {
-          "text": "Untadelig",
+          "text": "Unerforschlich",
           "explanation": ""
         },
         {
@@ -3177,7 +3177,7 @@
           "explanation": ""
         },
         {
-          "text": "Die Gnade des HERRN",
+          "text": "Die Macht des HERRN",
           "explanation": ""
         },
         {
@@ -3215,7 +3215,7 @@
           "explanation": ""
         },
         {
-          "text": "Seines Lebens Kraft und sein Schild",
+          "text": "Seines Armes Kraft und sein Schild",
           "explanation": ""
         }
       ],
@@ -3537,7 +3537,7 @@
           "explanation": ""
         },
         {
-          "text": "Dem HERRN zu opfern und sich nicht von Götzen zu verführen zu lassen",
+          "text": "Dem HERRN zu opfern und sich nicht von Götzen verführen zu lassen",
           "explanation": ""
         },
         {

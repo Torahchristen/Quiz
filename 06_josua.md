@@ -20,7 +20,7 @@
 ### 2. Welcher Maßstab war entscheidend, damit Josua auf allen seinen Wegen weise handelte und Gelingen hatte?
 
 - [ ] Die ständige Beratung mit den Hauptleuten des Heeres
-- [ ] Das Ausrüsten des Heeres mit eisernen Rüstungen her
+- [ ] Das Ausrüsten des Heeres mit eisernen Rüstungen
 - [ ] Die regelmäßige Darbringung von Opfern auf dem Altar
 - [x] Das Betrachten des Buchs des Gesetzes bei Tag und Nacht
 
@@ -82,7 +82,7 @@
 - [ ] Zwölf Männer, aus jedem Stamm einen
 - [x] Zwei Kundschafter sandte er heimlich
 - [ ] Siebzig Älteste aus dem ganzen Volk
-- [ ] Vier Männer aus dem Stamm Ephraim her
+- [ ] Vier Männer aus dem Stamm Ephraim
 
 **Bibelstelle:** Josua 2:1
 **Erklärung:** 
@@ -132,7 +132,7 @@
 - [ ] Wenn sie vergessen würde, das Schild am Tor aufzuhängen
 - [ ] Wenn ihre Verwandten kein Schutzgeld an die Priester zahlten
 - [x] Wenn jemand das Haus auf die Straße hinaus verließ
-- [ ] Wenn sie das rote Seil während der Belagerung einholte
+- [ ] Wenn sie ihr Haus vor der Eroberung verkauft hätte
 
 **Bibelstelle:** Josua 2:19
 **Erklärung:** 
@@ -147,7 +147,7 @@
 **Bibelstelle:** Josua 2:22
 **Erklärung:** 
 
-### 15. Welches Heiligtum zog dem Volk Israel beim Aufbruch vom Lager Sittim voran?
+### 15. Was zog dem Volk Israel beim Aufbruch vom Lager am Jordan voran?
 
 - [x] Die Bundeslade Gottes getragen von den Priestern
 - [ ] Das eiserne Schwert des Feldhauptmanns Josua
@@ -592,7 +592,7 @@
 - [x] Nach drei Tagen erfuhren sie von ihrer Nachbarschaft
 - [ ] Bereits am folgenden Morgen beim Aufbruch des Heeres von Gilgal
 - [ ] Erst nach sieben Wochen, als die Stämme im Land verteilt wurden
-- [ ] Nach vierzig Tagen, als das Land unter den Stämmen verteilt wurde
+- [ ] Nach vierzig Tagen, als die Stiftshütte in Silo aufgerichtet wurde
 
 **Bibelstelle:** Josua 9:16
 **Erklärung:** 
@@ -669,7 +669,7 @@
 
 ### 67. In welcher Höhle verbargen sich die fünf Amoriterkönige auf der Flucht vor Israel?
 
-- [x] In der Höhle bei Makkeda im Gebirge
+- [x] In der Höhle zu Makkeda
 - [ ] In der Höhle Machpela nahe der Stadt Hebron
 - [ ] In der Höhle Adullam in den Bergen Judas
 - [ ] In den Felsenhöhlen der Wüste Engedi
@@ -820,7 +820,7 @@
 ### 82. Welcher Fluss bildete die natürliche Südgrenze des Reiches des Amoriterkönigs Sihon?
 
 - [ ] Der tief strömende Jordanfluss im Westen
-- [ ] Der Jabbokfluss an den Grenzen Ammoniter
+- [ ] Der Jabbokfluss an der Grenze der Ammoniter
 - [ ] Der Bach Ägyptens an den Wüstengrenzen
 - [x] Der Wildbach Arnon mitten im tiefen Tal
 
@@ -837,14 +837,14 @@
 **Bibelstelle:** Josua 12:1
 **Erklärung:** 
 
-### 84. Welches Gewässer im Norden gehörte zum Herrschaftsgebiet des Riesenkönigs Og?
+### 84. Welches Meer im Norden wird als Grenze des Gebiets des Amoriterkönigs Sihon genannt?
 
-- [ ] Das große Salzmeer an den Wüstengrenzen
-- [x] Das Binnenmeer Kinnereth (Genezareth)
+- [ ] Das große Meer an der Küste der Philister
+- [x] Das Meer Kinneroth (Genezareth)
 - [ ] Der rote Meerbusen an den Grenzen Edoms
 - [ ] Der Wildbach Kison nahe dem Berg Karmel
 
-**Bibelstelle:** Josua 12:3
+**Bibelstelle:** Josua 12:2-3
 **Erklärung:** 
 
 ### 85. Welcher körperliche Zustand prägte Josua, als Gott ihm befahl, das Land zu verteilen?
@@ -869,7 +869,7 @@
 
 ### 87. Was diente dem Stamm Levi stattdessen als sein zugewiesener Anteil im Lande Kanaan?
 
-- [x] Die Feueropfer des HERRN sind ihr Erbteil
+- [x] Das Opfer des HERRN, des Gottes Israels, ist ihr Erbteil
 - [ ] Die Goldvorräte aus den Beuten der Siege
 - [ ] Die Hälfte aller Erträge der Weinberge
 - [ ] Die Erstlinge aller Beutetiere aus den Kriegszügen
@@ -1022,7 +1022,7 @@
 - [ ] Nun, der Vater des Feldhauptmanns Josua
 - [ ] Eleasar, der Sohn des Hohepriesters Aaron
 - [ ] Pinehas, der Sohn Eleasars des Priesters
-- [x] Othniel, der Sohn des Kenas, des Bruders Kalebs
+- [x] Othniel, der Sohn des Kenas, der Bruder Kalebs
 
 **Bibelstelle:** Josua 15:17
 **Erklärung:** 
@@ -1297,7 +1297,7 @@
 **Bibelstelle:** Josua 24:1
 **Erklärung:** 
 
-### 130. Welcher Vater Abrahams wohnte vorzeiten jenseit des Stroms und diente andern Göttern?
+### 130. Welcher Vorfahr Israels wohnte nach Josuas Rede vorzeiten jenseit des Stroms und diente andern Göttern?
 
 - [ ] Isaak im Lande Kanaan
 - [ ] Jakob im Lande Haran

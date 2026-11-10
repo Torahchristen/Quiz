@@ -10,7 +10,7 @@
 ### 1. Welches Unglück schildert Joel 1:4 als Bild für das kommende Gericht?
 
 - [ ] Eine Dürre, die alle Quellen versiegen lässt und das Land verbrennt
-- [x] Eine Heuschreckenplage, die alles abfrisst, was Raupen und Käfer übrig ließen
+- [x] Eine Insektenplage: Was die Raupen lassen, fressen die Heuschrecken, den Rest Käfer und Geschmeiß
 - [ ] Ein Erdbeben, das die Stadt zerstört und die Mauern einstürzen lässt
 - [ ] Eine Seuche, die Vieh und Menschen trifft und das Land entvölkert
 
