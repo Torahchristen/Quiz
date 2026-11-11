@@ -1,0 +1,986 @@
+{
+  "metadata": {
+    "quizId": "bibel_08_rut_en",
+    "title": "Ruth",
+    "subtitle": "Ruth 1:1 – 4:22 (31 Questions)",
+    "author": "King James Version (1769)",
+    "language": "en",
+    "tags": [
+      "Ruth",
+      "OT",
+      "history",
+      "KJV"
+    ],
+    "questionCount": 31,
+    "canonicalBookNumber": 8,
+    "testament": "AT",
+    "category": "geschichte",
+    "version": "2.3.0",
+    "difficulty": "medium"
+  },
+  "questions": [
+    {
+      "questionId": "rut_001",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "At what time did a certain man of Beth-lehem-judah go to sojourn in the country of Moab because of a famine?",
+      "options": [
+        {
+          "text": "In the days when the judges ruled",
+          "explanation": ""
+        },
+        {
+          "text": "In the days when King Saul reigned",
+          "explanation": ""
+        },
+        {
+          "text": "In the years of the wilderness walk",
+          "explanation": ""
+        },
+        {
+          "text": "In the days when King Solomon ruled",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "Ruth 1:1"
+    },
+    {
+      "questionId": "rut_002",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "From which city did Elimelech, his wife Naomi, and their two sons originate?",
+      "options": [
+        {
+          "text": "From the priestly city Hebron in Judah",
+          "explanation": ""
+        },
+        {
+          "text": "From the city of Beth-lehem-judah",
+          "explanation": ""
+        },
+        {
+          "text": "From Shiloh, the city of the tabernacle",
+          "explanation": ""
+        },
+        {
+          "text": "From the city of Beth-el in mount Ephraim",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "Ruth 1:1-2"
+    },
+    {
+      "questionId": "rut_003",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What were the names of the two sons of Elimelech and Naomi who died in the country of Moab?",
+      "options": [
+        {
+          "text": "Othniel and Kenaz from the south land",
+          "explanation": ""
+        },
+        {
+          "text": "Gershom and Eliezer from eastern land",
+          "explanation": ""
+        },
+        {
+          "text": "Mahlon and Chilion of Beth-lehem-judah",
+          "explanation": ""
+        },
+        {
+          "text": "Phinehas and Hophni from the sanctuary",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "Ruth 1:2-5"
+    },
+    {
+      "questionId": "rut_004",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What were the names of the women of Moab whom the sons of Naomi took as wives?",
+      "options": [
+        {
+          "text": "Miriam and Zipporah of the wilderness",
+          "explanation": ""
+        },
+        {
+          "text": "Achsah and Milcah of the noble houses",
+          "explanation": ""
+        },
+        {
+          "text": "Deborah and Jael of the mount country",
+          "explanation": ""
+        },
+        {
+          "text": "Orpah and Ruth from the country of Moab",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "Ruth 1:4"
+    },
+    {
+      "questionId": "rut_005",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What counsel did Naomi give unto both her daughters in law on the way to Judah?",
+      "options": [
+        {
+          "text": "Go, return each to her mother's house!",
+          "explanation": ""
+        },
+        {
+          "text": "Follow me unto the tabernacle at Shiloh!",
+          "explanation": ""
+        },
+        {
+          "text": "Go immediately unto our kinsmen in Hebron!",
+          "explanation": ""
+        },
+        {
+          "text": "Dwell by the fountains in the land of Moab!",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "Ruth 1:8-12"
+    },
+    {
+      "questionId": "rut_006",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "How did Orpah behave in contrast to Ruth after Naomi's words?",
+      "options": [
+        {
+          "text": "She refused and went on unto the land of Judah",
+          "explanation": ""
+        },
+        {
+          "text": "She kissed Naomi and returned unto her people",
+          "explanation": ""
+        },
+        {
+          "text": "She contended bitterly against her mother in law",
+          "explanation": ""
+        },
+        {
+          "text": "She demanded straightway the inheritance of her man",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "Ruth 1:14"
+    },
+    {
+      "questionId": "rut_007",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "With what confession did Ruth refuse to turn back from following Naomi?",
+      "options": [
+        {
+          "text": "I will give thee twenty pieces of silver daily",
+          "explanation": ""
+        },
+        {
+          "text": "I will build thee a new habitation in Beth-lehem",
+          "explanation": ""
+        },
+        {
+          "text": "Thy people shall be my people, and thy God my God",
+          "explanation": ""
+        },
+        {
+          "text": "I will serve the priests at the altar in Shiloh",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "Ruth 1:16-17"
+    },
+    {
+      "questionId": "rut_008",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What name did Naomi tell the women of Beth-lehem to call her upon her return?",
+      "options": [
+        {
+          "text": "Call me Deborah, for the LORD gave unto me strength",
+          "explanation": ""
+        },
+        {
+          "text": "Call me Leah, for I have borne great sorrow and grief",
+          "explanation": ""
+        },
+        {
+          "text": "Call me Hannah, for the LORD hath heard my sore cry",
+          "explanation": ""
+        },
+        {
+          "text": "Call me Mara, for the Almighty hath dealt bitterly",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "Ruth 1:20-21"
+    },
+    {
+      "questionId": "rut_009",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "At what season of harvest did Naomi and Ruth come to Beth-lehem?",
+      "options": [
+        {
+          "text": "In the beginning of barley harvest",
+          "explanation": ""
+        },
+        {
+          "text": "In the season of grape vintage in fall",
+          "explanation": ""
+        },
+        {
+          "text": "At the conclusion of summer fig harvest",
+          "explanation": ""
+        },
+        {
+          "text": "In the midst of the late wheat harvest",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "Ruth 1:22"
+    },
+    {
+      "questionId": "rut_010",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Who was the mighty man of wealth of the family of Elimelech unto whose field Ruth came?",
+      "options": [
+        {
+          "text": "Elkanah, the godly Levite of Mount Ephraim",
+          "explanation": ""
+        },
+        {
+          "text": "Boaz, the wealthy kinsman of Elimelech",
+          "explanation": ""
+        },
+        {
+          "text": "Kish, the noble ancestor of King Saul",
+          "explanation": ""
+        },
+        {
+          "text": "Jesse, the rich herdmaster of Beth-lehem",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "Ruth 2:1-3"
+    },
+    {
+      "questionId": "rut_011",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What commandment did Boaz give unto his young men concerning Ruth's gleaning in the field?",
+      "options": [
+        {
+          "text": "They should drive her away at once from the fields of the city",
+          "explanation": ""
+        },
+        {
+          "text": "They should offer her only bread and water at the dinner time",
+          "explanation": ""
+        },
+        {
+          "text": "Let her glean even among sheaves, and reproach and rebuke her not",
+          "explanation": ""
+        },
+        {
+          "text": "They should freely give unto her a full tenth of all the harvest",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "Ruth 2:15-16"
+    },
+    {
+      "questionId": "rut_012",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Why did Boaz show such great kindness and favour unto Ruth the stranger?",
+      "options": [
+        {
+          "text": "Because she had brought a great tribute of gold and silver from Moab",
+          "explanation": ""
+        },
+        {
+          "text": "Because the elders of the city commanded him to receive all strangers",
+          "explanation": ""
+        },
+        {
+          "text": "Because she was a near kinswoman unto his own mother from ancient days",
+          "explanation": ""
+        },
+        {
+          "text": "Because it had been fully shewed him all she had done unto Naomi",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "Ruth 2:11-12"
+    },
+    {
+      "questionId": "rut_013",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What blessing did Boaz speak over Ruth in Ruth 2:12?",
+      "options": [
+        {
+          "text": "The LORD recompense thy work under his wings",
+          "explanation": ""
+        },
+        {
+          "text": "The LORD give thee rich flocks upon the mountains",
+          "explanation": ""
+        },
+        {
+          "text": "The LORD make thee a queen over the land of Canaan",
+          "explanation": ""
+        },
+        {
+          "text": "The LORD give thee many palaces in the tribe of Judah",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "Ruth 2:12"
+    },
+    {
+      "questionId": "rut_014",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "How much barley did Ruth beat out at even after her first day of gleaning in Boaz's field?",
+      "options": [
+        {
+          "id": "opt_1",
+          "text": "Exactly three measures of fresh winnowed wheat",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "opt_2",
+          "text": "It was about an ephah of barley that she gleaned",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "id": "opt_3",
+          "text": "Ten full measures of parched corn from the sheaves",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "opt_4",
+          "text": "Only a small handful of dry stalks from the border",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "An ephah was an ancient biblical dry measure for grain, equal to about 20 to 22 liters (Ruth 2:17).",
+      "explanationReviewed": true,
+      "bibleReference": "Ruth 2:17"
+    },
+    {
+      "questionId": "rut_015",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What significance did Boaz have for Naomi's family according to Naomi's words?",
+      "options": [
+        {
+          "id": "opt_1",
+          "text": "He was the chief magistrate sitting in the city gate",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "opt_2",
+          "text": "He was the royal overseer of the storehouses of Judah",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "opt_3",
+          "text": "The man is near of kin unto us, one of our next kinsmen",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "id": "opt_4",
+          "text": "He was the captain of the armed host of Beth-lehem",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "Ruth 2:20"
+    },
+    {
+      "questionId": "rut_016",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What counsel did Naomi give Ruth for the night when Boaz winnowed barley on the threshingfloor?",
+      "options": [
+        {
+          "id": "opt_1",
+          "text": "Entreat him publicly before the elders for assistance",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "opt_2",
+          "text": "Bring him costly gifts brought from the land of Moab",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "opt_3",
+          "text": "Kindle a bright torch in the midst of the threshingfloor",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "opt_4",
+          "text": "Wash thyself, anoint thee, and lay thee down at his feet",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "Ruth 3:1-4"
+    },
+    {
+      "questionId": "rut_017",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "At what hour of the night was Boaz afraid and turned himself on the threshingfloor?",
+      "options": [
+        {
+          "id": "opt_1",
+          "text": "It came to pass at midnight that the man was afraid",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "id": "opt_2",
+          "text": "At the first crowing of the cock before the dawn",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "opt_3",
+          "text": "At the beginning of the third watch of the night",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "opt_4",
+          "text": "Shortly after the setting of the sun in the evening",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "Ruth 3:8"
+    },
+    {
+      "questionId": "rut_018",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What did Ruth ask of Boaz on the threshingfloor in Ruth 3:9?",
+      "options": [
+        {
+          "text": "To give her ten measures of fine wheaten flour",
+          "explanation": ""
+        },
+        {
+          "text": "Spread therefore thy skirt over thine handmaid",
+          "explanation": ""
+        },
+        {
+          "text": "To set her as an overseer over all his reapers",
+          "explanation": ""
+        },
+        {
+          "text": "To deliver Naomi from all bondmen of the city",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "Ruth 3:9"
+    },
+    {
+      "questionId": "rut_019",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What testimony did Boaz give unto Ruth by night at the threshingfloor?",
+      "options": [
+        {
+          "text": "That she was the richest woman among the strangers",
+          "explanation": ""
+        },
+        {
+          "text": "That her wisdom exceeded the words of the elders",
+          "explanation": ""
+        },
+        {
+          "text": "That all the city of his people did know she was a virtuous woman",
+          "explanation": ""
+        },
+        {
+          "text": "That she was sole heir of all the house of Elimelech",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "Ruth 3:11"
+    },
+    {
+      "questionId": "rut_020",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What legal obstacle did Boaz mention before he could redeem the inheritance?",
+      "options": [
+        {
+          "text": "The field of Elimelech had already been pledged to another",
+          "explanation": ""
+        },
+        {
+          "text": "The elders of Beth-lehem had forbidden the purchase of land",
+          "explanation": ""
+        },
+        {
+          "text": "Naomi had not yet performed her solemn vow before the priests",
+          "explanation": ""
+        },
+        {
+          "text": "Howbeit there is a kinsman nearer than I to redeem the field",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "Ruth 3:12"
+    },
+    {
+      "questionId": "rut_021",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "With what measure of barley did Boaz send Ruth home in the morning?",
+      "options": [
+        {
+          "text": "He measured six measures of barley",
+          "explanation": ""
+        },
+        {
+          "text": "Two full sacks of fine wheaten meal",
+          "explanation": ""
+        },
+        {
+          "text": "A half measure of clean beaten grain",
+          "explanation": ""
+        },
+        {
+          "text": "Ten earthen jars of the best olive oil",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "Ruth 3:15"
+    },
+    {
+      "questionId": "rut_022",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Where did Boaz go up and sit down to resolve the matter of the inheritance?",
+      "options": [
+        {
+          "text": "In the outer court of tabernacle at Shiloh",
+          "explanation": ""
+        },
+        {
+          "text": "In the gate of the city of Beth-lehem-judah",
+          "explanation": ""
+        },
+        {
+          "text": "Upon the threshingfloor outside the gates",
+          "explanation": ""
+        },
+        {
+          "text": "In the house of Eli the high priest of God",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "Ruth 4:1-2"
+    },
+    {
+      "questionId": "rut_023",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "How many men of the elders of the city did Boaz take to sit as witnesses?",
+      "options": [
+        {
+          "text": "Seven men of the elders",
+          "explanation": ""
+        },
+        {
+          "text": "Twelve men of the elders",
+          "explanation": ""
+        },
+        {
+          "text": "Ten men of the elders",
+          "explanation": ""
+        },
+        {
+          "text": "Seventy men of the elders",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "Ruth 4:2"
+    },
+    {
+      "questionId": "rut_024",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Why did the nearer kinsman refuse to redeem the parcel of land for himself?",
+      "options": [
+        {
+          "text": "Because he had not sufficient silver in his house",
+          "explanation": ""
+        },
+        {
+          "text": "Because the elders refused to confirm his right",
+          "explanation": ""
+        },
+        {
+          "text": "Because Naomi set the price of the land too high",
+          "explanation": ""
+        },
+        {
+          "text": "Lest I mar mine own inheritance by redeeming it",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "Ruth 4:6"
+    },
+    {
+      "questionId": "rut_025",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What manner of testimony was used in Israel to confirm redeeming and changing?",
+      "options": [
+        {
+          "text": "A man plucked off his shoe, and gave it to his neighbour",
+          "explanation": ""
+        },
+        {
+          "text": "They broke an earthen jar in pieces before the ten elders",
+          "explanation": ""
+        },
+        {
+          "text": "They poured a full measure of barley upon the threshold",
+          "explanation": ""
+        },
+        {
+          "text": "They kindled a holy torch of fire at the city gateposts",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "Plucking off the shoe was an ancient custom in Israel to openly attest the relinquishment of property and right of redemption (Ruth 4:7-8).",
+      "explanationReviewed": true,
+      "bibleReference": "Ruth 4:7-8"
+    },
+    {
+      "questionId": "rut_026",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What blessing did all the people in the gate and the elders speak over Boaz?",
+      "options": [
+        {
+          "text": "God multiply your flocks as the sands by the great sea",
+          "explanation": ""
+        },
+        {
+          "text": "The LORD make the woman like Rachel and Leah to build Israel",
+          "explanation": ""
+        },
+        {
+          "text": "May she reign as a mighty princess over the land of Canaan",
+          "explanation": ""
+        },
+        {
+          "text": "May thy house be honored equal to the priestly tents of God",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "Ruth 4:11-12"
+    },
+    {
+      "questionId": "rut_027",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What did the women her neighbours name the child born unto Ruth and Boaz?",
+      "options": [
+        {
+          "text": "Jesse, who was the father of David",
+          "explanation": ""
+        },
+        {
+          "text": "David, who was the anointed king",
+          "explanation": ""
+        },
+        {
+          "text": "Obed, who is the father of Jesse",
+          "explanation": ""
+        },
+        {
+          "text": "Pharez, who was the ancient father",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "Ruth 4:17"
+    },
+    {
+      "questionId": "rut_028",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Which king descended from Obed and Jesse according to the close of Ruth?",
+      "options": [
+        {
+          "text": "King Solomon, prince of peace",
+          "explanation": ""
+        },
+        {
+          "text": "King Saul, the son of Kish",
+          "explanation": ""
+        },
+        {
+          "text": "King Hezekiah, faithful ruler",
+          "explanation": ""
+        },
+        {
+          "text": "King David, the son of Jesse",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "Ruth 4:17-22"
+    },
+    {
+      "questionId": "rut_029",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "With whose generations does the genealogy at the end of the book of Ruth begin?",
+      "options": [
+        {
+          "text": "With the generations of Pharez",
+          "explanation": ""
+        },
+        {
+          "text": "With the generations of Nahshon",
+          "explanation": ""
+        },
+        {
+          "text": "With the generations of Salmon",
+          "explanation": ""
+        },
+        {
+          "text": "With the generations of Hezron",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "Ruth 4:18-22"
+    },
+    {
+      "questionId": "rut_030",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Who said unto Naomi: \"Whither thou goest, I will go; thy people shall be my people\"?",
+      "options": [
+        {
+          "text": "Hannah",
+          "explanation": ""
+        },
+        {
+          "text": "Ruth",
+          "explanation": ""
+        },
+        {
+          "text": "Rahab",
+          "explanation": ""
+        },
+        {
+          "text": "Orpah",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "Ruth 1:16"
+    },
+    {
+      "questionId": "rut_031",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "text": "What were the names of the Moabitish wives of Naomi's sons (Ruth 1:4)?",
+      "options": [
+        {
+          "text": "Michal",
+          "explanation": ""
+        },
+        {
+          "text": "Hannah",
+          "explanation": ""
+        },
+        {
+          "text": "Ruth",
+          "explanation": ""
+        },
+        {
+          "text": "Orpah",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2,
+        3
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "Ruth 1:4"
+    }
+  ]
+}

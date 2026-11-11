@@ -1,0 +1,2239 @@
+{
+  "metadata": {
+    "quizId": "nt_08_2korinther_alle_kapitel_en",
+    "title": "2 Corinthians",
+    "subtitle": "2 Corinthians 1:1 – 13:14 (65 questions)",
+    "author": "King James Version (1769)",
+    "version": "2.3.0",
+    "language": "en",
+    "category": "nt",
+    "difficulty": "medium",
+    "tags": [
+      "2 Corinthians",
+      "New Testament",
+      "Pauline Epistles",
+      "Epistles",
+      "Paul",
+      "Comfort",
+      "Ministry",
+      "Reconciliation",
+      "Giving",
+      "King James Version"
+    ],
+    "questionCount": 65,
+    "canonicalBookNumber": 47,
+    "testament": "NT"
+  },
+  "questions": [
+    {
+      "questionId": "2kor_001",
+      "type": "single_choice",
+      "text": "Who is named alongside Paul as our brother in the opening salutation?",
+      "options": [
+        {
+          "text": "Luke the evangelist",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Timothy our brother",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Barnabas the apostle",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Silas the fellowlabourer",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Corinthians 1:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2kor_002",
+      "type": "single_choice",
+      "text": "How does Paul describe God in the opening doxology of the first chapter?",
+      "options": [
+        {
+          "text": "Judge of the worlds and ruler over life and death",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Creator of the universe and preserver of all things",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The Father of mercies, and the God of all comfort",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "King of kings and sovereign over all principalities",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Corinthians 1:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2kor_003",
+      "type": "single_choice",
+      "text": "Wherefore does God comfort believers in all their tribulation?",
+      "options": [
+        {
+          "text": "That they might live in ease and experience no earthly trouble",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That they might attain great riches and deliver themselves from poverty",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That they might gain worldly honour and be esteemed by all men",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That we may be able to comfort them which are in any trouble",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Corinthians 1:4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2kor_004",
+      "type": "single_choice",
+      "text": "What are all the promises of God in Jesus Christ according to Paul?",
+      "options": [
+        {
+          "text": "For all the promises of God in him are yea, and in him Amen",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "In him are the law and the word",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In him are the light and the life",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In him are salvation and the blessing",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Corinthians 1:19-20",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2kor_005",
+      "type": "single_choice",
+      "text": "Why did Paul delay his coming unto Corinth according to his solemn oath?",
+      "options": [
+        {
+          "text": "Through fear of adversaries in Corinth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To spare you I came not as yet to Corinth",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Because he lacked money for the journey",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because he preferred to remain at Troas",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Corinthians 1:23",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2kor_006",
+      "type": "single_choice",
+      "text": "How should the church receive the sorrowful offender who was rebuked by many?",
+      "options": [
+        {
+          "text": "Punish him and cast him out of the church, that he may truly repent and learn",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Shun him and condemn him, that he may at last know his fault and repent",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Forgive him, and comfort him, lest he be swallowed up with overmuch sorrow",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Put him to open shame before the church, that his punishment may make others afraid",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Corinthians 2:6-8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2kor_007",
+      "type": "single_choice",
+      "text": "What danger was the timely forgiveness of the penitent meant to prevent?",
+      "options": [
+        {
+          "text": "Lest the man should leave the city and fall among the heathen elsewhere",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Lest the church should suffer harm through the discord of the brethren",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Lest the law should be broken and the wickedness go unpunished",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Lest Satan should get an advantage of us: for we are not ignorant of his devices",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Corinthians 2:10-11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2kor_008",
+      "type": "single_choice",
+      "text": "In what city had Paul no rest in his spirit because he found not Titus?",
+      "options": [
+        {
+          "text": "At Troas, though a door was opened unto him",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "At Ephesus, while disputing in the school",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "At Athens, on the hill of the Areopagus",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "At Philippi, during his first imprisonment",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Corinthians 2:12-13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2kor_009",
+      "type": "single_choice",
+      "text": "What are the faithful ministers of the gospel declared to be unto God?",
+      "options": [
+        {
+          "text": "A royal priesthood ruling all earthly nations",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For we are unto God a sweet savour of Christ",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A council of wise philosophers in Greek cities",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Judges appointed to condemn the heathen peoples",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Corinthians 2:14-16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2kor_010",
+      "type": "single_choice",
+      "text": "How does Paul minister the word of God in contrast to many who corrupt it?",
+      "options": [
+        {
+          "text": "He selleth the doctrine for money and maketh merchandise of the gospel",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He preacheth his own wisdom and setteth it forth as the word of God",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As of sincerity, but as of God, in the sight of God speak we in Christ",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He seeketh to please men and speaketh unto them what they would hear",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Corinthians 2:17",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2kor_011",
+      "type": "single_choice",
+      "text": "What was Paul's epistle of commendation known and read of all men?",
+      "options": [
+        {
+          "text": "A writing of the high council that sheweth him to be a messenger",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A diploma of the city of Rome that confirmeth his citizenship",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A seal of Caesar that giveth him authority for his ministry",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Ye are our epistle written in our hearts",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Corinthians 3:1-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2kor_012",
+      "type": "single_choice",
+      "text": "Where was the epistle of Christ ministered by the apostles written?",
+      "options": [
+        {
+          "text": "Not in tables of stone, but in fleshy tables of the heart",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Upon tables of stone from Sinai",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Upon parchment rolls in the sanctuary",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Upon tablets of brass in the city",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Corinthians 3:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2kor_013",
+      "type": "single_choice",
+      "text": "How does Paul contrast the letter of the law with the Spirit of the new testament?",
+      "options": [
+        {
+          "text": "The letter helpeth unto life, but the spirit hurteth man",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For the letter killeth, but the spirit giveth life",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Both work the same salvation, if a man but keep them exactly",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The letter teacheth man, but the spirit judgeth him",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Corinthians 3:6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2kor_014",
+      "type": "single_choice",
+      "text": "What remaineth untaken away upon the heart of Israel in the reading of the old testament?",
+      "options": [
+        {
+          "text": "A bright light of faith that enlighteneth the scripture unto them",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Deep sorrow for sin that taketh away their understanding",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A vail remaining untaken away upon their heart",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Rich blessing and peace which the law hath brought them",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Corinthians 3:14-15",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2kor_015",
+      "type": "single_choice",
+      "text": "What is present where the Spirit of the Lord is according to 2 Corinthians 3:17?",
+      "options": [
+        {
+          "text": "The written letter",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The fear of judgment",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Silence in the temple",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "There is true liberty",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Corinthians 3:17",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2kor_016",
+      "type": "single_choice",
+      "text": "What treasure do believers carry in earthen vessels according to 2 Corinthians 4:6-7?",
+      "options": [
+        {
+          "text": "The light of the knowledge of the glory of God in the face of Jesus Christ",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The gold of the ancient temple which Solomon laid up within the sanctuary",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The wisdom of Greek philosophers which the learned men of Athens esteemed",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The temporal dominion over all nations which God bestowed upon his servants",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Corinthians 4:6-7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2kor_017",
+      "type": "single_choice",
+      "text": "Who hath blinded the minds of them which believe not, lest the light of the gospel shine?",
+      "options": [
+        {
+          "text": "The Roman Caesar reigning in power",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The god of this world hath blinded them",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The scribes and doctors of Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The high priests ministering in Zion",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Corinthians 4:3-4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2kor_018",
+      "type": "single_choice",
+      "text": "What spiritual encouragement does Paul testify though our outward man perish?",
+      "options": [
+        {
+          "text": "The physical mortal body shall become youthful again and healed of sickness",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Worldly poverty shall be replaced with vast stores of gold given unto saints",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Though our outward man perish, yet the inward man is renewed day by day",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The world shall perish quickly and all human tribulation shall have an end",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Corinthians 4:16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2kor_019",
+      "type": "single_choice",
+      "text": "How does Paul reckon our present affliction in comparison with the eternal glory?",
+      "options": [
+        {
+          "text": "Unbearably heavy and long, so that it well-nigh crusheth the faith",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unprofitable unto eternal life, for it beareth no fruit",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A token that God hath cast them off and punisheth the faithful",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Our light affliction worketh for us a far more exceeding and eternal weight of glory",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Corinthians 4:17",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2kor_020",
+      "type": "single_choice",
+      "text": "Whereon do believers look in contrast to the unbelieving world?",
+      "options": [
+        {
+          "text": "At the things which are not seen, which are eternal",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "At the things which are seen, which are temporal",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "At the corruptible silver and treasures of earth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "At the praise and fleeting favour of mortal men",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Corinthians 4:18",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2kor_021",
+      "type": "single_choice",
+      "text": "What heavenly dwelling awaits the believer when this earthly tabernacle is dissolved?",
+      "options": [
+        {
+          "text": "A new sanctuary in Jerusalem built with human hands for the worship of God",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A building of God, an house not made with hands, eternal in the heavens",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A palace constructed of gold and silver erected for the servants of Christ",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A tent in the wilderness of Sinai pitched by the Lord for his chosen people",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Corinthians 5:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2kor_022",
+      "type": "single_choice",
+      "text": "Before whose judgment seat must all men appear to receive for deeds done in the body?",
+      "options": [
+        {
+          "text": "Before the royal tribunal of Caesar",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Before the local elders of the church",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Before the judgment seat of Christ",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Before the high council of the priests",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Corinthians 5:10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2kor_023",
+      "type": "single_choice",
+      "text": "What is declared concerning every man that is truly in Christ Jesus?",
+      "options": [
+        {
+          "text": "He is immediately enriched with earthly goods and never suffereth any want",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He shall never experience physical death, but abide perpetually in the flesh",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He understandeth all the scrolls of the law and expoundeth them blamelessly",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He is a new creature: old things are passed away; behold, all things are new",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Corinthians 5:17",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2kor_024",
+      "type": "single_choice",
+      "text": "What ministry hath God committed unto the apostles and preachers of the word?",
+      "options": [
+        {
+          "text": "The ministry of reconciliation in Christ",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The collection of civil imperial taxes",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The presentation of temple sacrifices",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The office of temporal civil judges",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Corinthians 5:18-20",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2kor_025",
+      "type": "single_choice",
+      "text": "What did God do with the sinless Christ on our behalf upon the cross?",
+      "options": [
+        {
+          "text": "He preserved him from physical death and delivered him alive out of the tomb",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He hath made him to be sin for us, who knew no sin; that we might be made the righteousness of God in him",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He crowned him king over the nation of Israel and seated him upon David's throne",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He hid him from his enemies and withdrew him out of their hands",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Corinthians 5:21",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2kor_026",
+      "type": "single_choice",
+      "text": "What plea does Paul make concerning the grace of God bestowed upon the church?",
+      "options": [
+        {
+          "text": "That they keep the ceremonial law in every part without any transgression",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That they journey immediately unto Jerusalem to present offerings on the altar",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "We beseech you also that ye receive not the grace of God in vain",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "That they gather all the treasures of the world and bestow them on the church",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Corinthians 6:1-2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2kor_027",
+      "type": "single_choice",
+      "text": "How do the ministers of God approve themselves in all circumstances and distresses?",
+      "options": [
+        {
+          "text": "In worldly wealth, earthly honor, and temporal power among all the citizens",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In severe judgment against the weak and unyielding pride before the multitude",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In carnal fear of mortal men, keeping silence and fleeing from all suffering",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In much patience, in afflictions, in necessities, in distresses, by the power of God",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Corinthians 6:4-10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2kor_028",
+      "type": "single_choice",
+      "text": "What warning does Paul deliver concerning fellowship with unbelievers?",
+      "options": [
+        {
+          "text": "Be ye not unequally yoked together with unbelievers",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Give them no bread and suffer them not to enter into your house",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Flee out of every city where unbelievers dwell round about you",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Bow before their idols in secret so that ye remain unmolested",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Corinthians 6:14-15",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2kor_029",
+      "type": "single_choice",
+      "text": "What temple of the living God are believers in contrast to dumb idols?",
+      "options": [
+        {
+          "text": "Ye are a temporary building made of wood and stones",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For ye are the temple of the living God, as God said",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Ye are a philosophical school of Athenian wisdom",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Ye are a banquet hall for the princes of the earth",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Corinthians 6:16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2kor_030",
+      "type": "single_choice",
+      "text": "What commandment of the Lord requires separation from uncleanness for God's children?",
+      "options": [
+        {
+          "text": "Build a fortress in the desert and dwell there in complete isolation",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Refuse meat and water unto the Gentiles and avoid their table fellowship",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Wherefore come out from among them, and be ye separate, and touch not the unclean thing",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Pay no taxes unto the Roman magistrates and hold no public civil office",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Corinthians 6:17-18",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2kor_031",
+      "type": "single_choice",
+      "text": "Unto what does Paul exhort believers at the beginning of chapter 7 concerning holiness?",
+      "options": [
+        {
+          "text": "To build new meeting places and dedicate them unto the Lord",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To fast thirty days and put on sackcloth and ashes in mourning",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To abandon all earthly occupations and give themselves unto contemplation",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Let us cleanse ourselves from all filthiness of the flesh and spirit, perfecting holiness",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Corinthians 7:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2kor_032",
+      "type": "single_choice",
+      "text": "What comfort did Paul experience through the arrival of his fellowlabourer Titus in Macedonia?",
+      "options": [
+        {
+          "text": "God, that comforteth those that are cast down, comforted us by the coming of Titus",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Titus brought great wealth for the poor and revived his spirit with earthly goods",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Titus delivered him from the Roman prison and brought him safely out of danger",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Titus planted a new church and thereby gave great joy unto Paul's heart",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Corinthians 7:6-7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2kor_033",
+      "type": "single_choice",
+      "text": "What report did Titus bring concerning the mindset of the church at Corinth?",
+      "options": [
+        {
+          "text": "Of their departure from the faith and their returning unto the worship of idols",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Of your earnest desire, your mourning, your fervent mind toward Paul",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Of their contention concerning the ceremonial law and their division into parties",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Of their fear of Roman persecution and their flight from the public market place",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Corinthians 7:7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2kor_034",
+      "type": "single_choice",
+      "text": "What difference exists between godly sorrow and the sorrow of the world?",
+      "options": [
+        {
+          "text": "Godly sorrow bringeth poverty, while worldly sorrow gaineth silver and goods",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Both lead unto the same end, namely unto repentance and life everlasting",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Godly sorrow worketh repentance to salvation: but the sorrow of the world worketh death",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Godly sorrow blindeth the understanding, while worldly sorrow cleareth the sight",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Corinthians 7:10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2kor_035",
+      "type": "single_choice",
+      "text": "What concrete fruit was wrought by godly sorrow in the lives of the Corinthians?",
+      "options": [
+        {
+          "text": "Retirement from all daily trade, silence, and turning away from the world",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Strife and party factions, envy and bitter wrath among all the brethren",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Lack of brotherly charity, indifference, and contemptuous pride toward Paul",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "What carefulness it wrought in you, yea, what clearing of yourselves, yea, what indignation",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Corinthians 7:11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2kor_036",
+      "type": "single_choice",
+      "text": "What example of generosity does Paul commend in the churches of Macedonia?",
+      "options": [
+        {
+          "text": "The abundance of their joy and their deep poverty abounded unto riches of liberality",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Great worldly riches which provided abundant funds for the collection of saints",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They contributed only out of their great abundance and kept their goods guarded",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They demanded monetary payment and commendation in exchange for their gifts",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Corinthians 8:1-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2kor_037",
+      "type": "single_choice",
+      "text": "What did the Macedonians do first before giving their financial contribution?",
+      "options": [
+        {
+          "text": "They gathered money among the heathen",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They first gave their own selves to the Lord, and unto us by the will of God",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "They built a great house",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They fasted forty days",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Corinthians 8:5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2kor_038",
+      "type": "single_choice",
+      "text": "What example of Christ's self-humiliation does Paul cite to inspire liberality?",
+      "options": [
+        {
+          "text": "He withdrew into lonely mountains and refused to look upon human sorrow",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He built a great sanctuary of stone and dedicated it unto the assembly",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Though he was rich, yet for your sakes he became poor, that ye might be rich",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He exacted heavy tithes from the wealthy to distribute bread unto the poor",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Corinthians 8:9",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2kor_039",
+      "type": "single_choice",
+      "text": "What principle of equality should govern the mutual supply of want among the churches?",
+      "options": [
+        {
+          "text": "The wealthy keep all their treasures, yielding nothing to the needy",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The poor must become indentured servants to support the wealthy members",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The civil government must confiscate all possessions and divide them equally",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By an equality, that now at this time your abundance may be a supply for their want",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Corinthians 8:13-15",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2kor_040",
+      "type": "single_choice",
+      "text": "What care did Paul take in the administration of the collection for the saints?",
+      "options": [
+        {
+          "text": "Providing for honest things, not only in the sight of the Lord, but also in the sight of men",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "That nothing go unto the poor, but all remain for the apostles",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That the money remain in the temple and serve there for the worship",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That the Romans oversee all things and receive the tax thereof",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Corinthians 8:20-21",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2kor_041",
+      "type": "single_choice",
+      "text": "What rule of sowing and reaping doth Paul apply unto giving?",
+      "options": [
+        {
+          "text": "He that giveth much shall lose all, and he that withholdeth shall retain more",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He which soweth sparingly shall reap also sparingly; and he which soweth bountifully shall reap also bountifully",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He that giveth nothing keepeth all for himself and reapeth the best reward",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He that bestoweth gifts loseth his recompence, for God looketh only on the heart",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Corinthians 9:6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2kor_042",
+      "type": "single_choice",
+      "text": "What manner of giver does God love according to the clear words in chapter 9?",
+      "options": [
+        {
+          "text": "God loveth a sorrowful giver",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "God loveth a rich giver",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For God loveth a cheerful giver",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "God loveth a proud giver",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Corinthians 9:7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2kor_043",
+      "type": "single_choice",
+      "text": "What is God able to bestow upon the generous giver in abundant measure?",
+      "options": [
+        {
+          "text": "Length of days without any sickness, sorrow, or infirmity in advanced old age",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Preservation from all military foes and peace in all the cities of the country",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Chief seats of honour in the marketplace and high esteem before civil princes",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "All grace, that ye, having all sufficiency in all things, may abound to every good work",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Corinthians 9:8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2kor_044",
+      "type": "single_choice",
+      "text": "What two-fold effect is produced by the administration of this collection?",
+      "options": [
+        {
+          "text": "It supplieth the want of the saints, and is abundant also by many thanksgivings unto God",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "It enricheth the apostles and relieveth them from all future labour and ministry",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It appeaseth the anger of the Roman emperor and winneth peace for the province",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It purchaseth the remission of sins and purgeth the iniquities of the contributors",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Corinthians 9:12-13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2kor_045",
+      "type": "single_choice",
+      "text": "With what words doth Paul close his teaching on giving and the collection?",
+      "options": [
+        {
+          "text": "Pay your tribute faithfully unto Rome, that ye may live in peace",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Thanks be unto God for his unspeakable gift",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Increase the gold of the church, that it may help the poor",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Build an house for the poor, that they may find refuge therein",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Corinthians 9:15",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2kor_046",
+      "type": "single_choice",
+      "text": "With what weapons do the ministers of the gospel fight their spiritual warfare?",
+      "options": [
+        {
+          "text": "With carnal swords and shields forged by Roman armourers",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With subtle philosophical disputations borrowed from Athens",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For the weapons of our warfare are not carnal, but mighty through God",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "With heavy financial bribes distributed among civil rulers",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Corinthians 10:3-4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2kor_047",
+      "type": "single_choice",
+      "text": "What do the spiritual weapons bring into captivity according to 2 Corinthians 10:5?",
+      "options": [
+        {
+          "text": "Only the devices of the rulers of the world that are set against the faithful",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The laws of the heathen kingdoms that withstand the gospel",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The teachings of the ancient poets that praise the wisdom of the Greeks",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Every thought, brought into captivity to the obedience of Christ",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Corinthians 10:5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2kor_048",
+      "type": "single_choice",
+      "text": "What reproach of the adversaries concerning Paul is mentioned?",
+      "options": [
+        {
+          "text": "His letters, say they, are weighty and powerful; but his bodily presence is weak, and his speech contemptible",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He is a thief that keepeth the bag and purloineth the gifts of the church",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He knoweth no Hebrew and is no true Jew of Israel",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He feareth the heathen and shunneth strife with them",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Corinthians 10:10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2kor_049",
+      "type": "single_choice",
+      "text": "What error do the boastful false apostles commit when commending themselves?",
+      "options": [
+        {
+          "text": "They ask God for his judgment and order themselves according to his word",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Measuring themselves by themselves, and comparing themselves among themselves, are not wise",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "They serve the poor humbly and seek no glory for themselves",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They keep the law perfectly and are therein an example unto all",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Corinthians 10:12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2kor_050",
+      "type": "single_choice",
+      "text": "In what should he glory who would glory before God?",
+      "options": [
+        {
+          "text": "Let the rich man glory in his silver and great wealth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Let the learned philosopher glory in his own wisdom",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He that glorieth, let him glory in the Lord alone",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Let the mighty warrior glory in his military power",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Corinthians 10:17-18",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2kor_051",
+      "type": "single_choice",
+      "text": "What fear does Paul express regarding the spiritual purity of the church?",
+      "options": [
+        {
+          "text": "That the gifts might fail and the church fall into poverty",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That their place of assembly be destroyed and none come together any more",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That the elders be taken captive and the church be scattered abroad",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Lest as the serpent beguiled Eve through his subtilty, so your minds should be corrupted",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Corinthians 11:2-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2kor_052",
+      "type": "single_choice",
+      "text": "Into what is Satan transformed according to the vivid warning in chapter 11?",
+      "options": [
+        {
+          "text": "Into an angel of light",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Into a roaring lion",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Into a wise philosopher",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Into a Roman judge",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Corinthians 11:14-15",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2kor_053",
+      "type": "single_choice",
+      "text": "What lineage of carnal descent does Paul share with his adversaries?",
+      "options": [
+        {
+          "text": "They are of the house of Judah, out of which the king came forth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They are Hebrews, Israelites, the seed of Abraham",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "They are priests of the sanctuary and serve at the altar of God",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They all bear royal titles and descend from David himself",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Corinthians 11:22",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2kor_054",
+      "type": "single_choice",
+      "text": "What catalogue of sufferings did Paul endure in his apostolic ministry?",
+      "options": [
+        {
+          "text": "Riches, honour and esteem among men, and great power",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Protection by the imperial guard and an escort on all his journeys",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Stripes, prisons, stoning, shipwreck and perils of every kind",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A long life in peace and the favour of all the churches",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Corinthians 11:23-27",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2kor_055",
+      "type": "single_choice",
+      "text": "Through what opening did Paul escape the hands of the governor in Damascus?",
+      "options": [
+        {
+          "text": "Through a secret door of the temple, which a priest opened unto him",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Through the gate of a Roman house, which a friend unlocked for him",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Through the cellar of a friend, who kept him hid there",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Through a window in the city wall, in a basket",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Corinthians 11:32-33",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2kor_056",
+      "type": "single_choice",
+      "text": "Unto what celestial realm was the man in Christ caught up fourteen years ago?",
+      "options": [
+        {
+          "text": "Unto the third heaven",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Unto the first heaven",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto the seventh heaven",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto the heaven of the clouds",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Corinthians 12:1-4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2kor_057",
+      "type": "single_choice",
+      "text": "What was given unto Paul lest he should be exalted above measure?",
+      "options": [
+        {
+          "text": "A heavy fine which brought him to the brink of ruin",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A thorn in the flesh, the messenger of Satan to buffet him",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A ban on preaching laid upon him by the council",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A long imprisonment which he must suffer at Rome",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Corinthians 12:7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2kor_058",
+      "type": "single_choice",
+      "text": "What divine answer was given unto Paul's thrice-repeated prayer for deliverance?",
+      "options": [
+        {
+          "text": "I will deliver thee forthwith from all thy sufferings and pains",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "My angels shall smite all thine adversaries with the sword",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "My grace is sufficient for thee: for my strength is made perfect in weakness",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Pray yet three times more, and I will grant thy petition wholly",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Corinthians 12:8-9",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2kor_059",
+      "type": "single_choice",
+      "text": "Wherein were the signs of a true apostle wrought among the Corinthians?",
+      "options": [
+        {
+          "text": "In gold, silver and riches, in possessions and in the favour of the great",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In worldly power and honour, in esteem and in the favour of kings",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In sharp punishment without love, in harshness and unbending zeal",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In all patience, in signs, and wonders, and mighty deeds",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Corinthians 12:12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2kor_060",
+      "type": "single_choice",
+      "text": "What doth Paul seek of the Corinthians when he cometh unto them the third time?",
+      "options": [
+        {
+          "text": "Not yours, but you yourselves",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Not your salvation, but money",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Not your repentance, but punishment",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Not your prayers, but sacrifices",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Corinthians 12:14-15",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2kor_061",
+      "type": "single_choice",
+      "text": "By how many witnesses shall every word be established at his third visit?",
+      "options": [
+        {
+          "text": "By the one testimony of the accuser alone",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In the mouth of two or three witnesses",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "By the judgment of the Roman governor",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By casting lots in the sanctuary at Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Corinthians 13:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2kor_062",
+      "type": "single_choice",
+      "text": "What self-examination does Paul urge upon the Corinthians in chapter 13?",
+      "options": [
+        {
+          "text": "Count your worldly riches and distribute all unto the poor",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Examine your carnal genealogy from the ancient patriarchs",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Examine yourselves, whether ye be in the faith; prove your own selves",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Measure the height and breadth of the walls around the city",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Corinthians 13:5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2kor_063",
+      "type": "single_choice",
+      "text": "Unto what purpose did the Lord give apostolic authority unto Paul?",
+      "options": [
+        {
+          "text": "Unto temporal sovereignty over all the heathen nations",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To pass penal judgment upon all that reject the gospel",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To amass vast treasures of silver from the congregations",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To edification, and not to destruction in the church",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Corinthians 13:10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2kor_064",
+      "type": "single_choice",
+      "text": "To what spiritual attitude does Paul exhort the brethren in his final farewell?",
+      "options": [
+        {
+          "text": "Finally, brethren, farewell. Be perfect, be of good comfort, be of one mind, live in peace",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Separate yourselves from all other churches and maintain no conversation with them",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Take vengeance upon your persecutors and recompense evil with sword and fire",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Build a great palace for the ministers and maintain them with lavish banquets",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Corinthians 13:11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2kor_065",
+      "type": "single_choice",
+      "text": "What is the three-fold apostolic benediction concluding the second epistle?",
+      "options": [
+        {
+          "text": "The peace of Rome, the wisdom of Greece, and the dominion of the Caesar be with you",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Ghost, be with you all",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The blessing of Abraham, the glory of the temple, and the covenant of the fathers be with you",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Health of body, worldly prosperity, and length of days upon the earth be multiplied unto you",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Corinthians 13:14",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    }
+  ]
+}

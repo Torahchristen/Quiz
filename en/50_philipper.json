@@ -1,0 +1,707 @@
+{
+  "metadata": {
+    "quizId": "nt_11_philipper_alle_kapitel_en",
+    "title": "Philippians",
+    "subtitle": "Philippians 1:1 – 4:23 (20 questions)",
+    "author": "King James Version (1769)",
+    "version": "2.3.0",
+    "language": "en",
+    "category": "nt",
+    "difficulty": "medium",
+    "tags": [
+      "Philippians",
+      "New Testament",
+      "Pauline Epistles",
+      "Paul",
+      "Joy",
+      "Humility",
+      "Christ Jesus",
+      "King James Version"
+    ],
+    "questionCount": 20,
+    "canonicalBookNumber": 50,
+    "testament": "NT"
+  },
+  "questions": [
+    {
+      "questionId": "phil_001",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Who is named alongside Paul in the opening greeting of Philippians 1:1?",
+      "bibleReference": "Philippians 1:1",
+      "options": [
+        {
+          "text": "Luke from Antioch",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Timotheus, servant",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Barnabas of Cyprus",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Silas of Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "phil_002",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What confidence does Paul express in Philippians 1:6?",
+      "bibleReference": "Philippians 1:6",
+      "options": [
+        {
+          "text": "That earthly rulers shall defend the assembly and keep the brethren in peace",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That the elders shall guide the work and hold all the saints firmly together",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He which hath begun a good work in you will perform it until day of Christ",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "That no tribulation shall ever come near the assembly of believers on earth",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "phil_003",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What was the effect of Paul's bonds according to Philippians 1:12?",
+      "bibleReference": "Philippians 1:12-14",
+      "options": [
+        {
+          "text": "They caused the saints to be scattered",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They hindered the preaching of the word",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They made the rulers hostile to believers",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto the furtherance of the holy gospel",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "phil_004",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What is Paul's confession in Philippians 1:21?",
+      "bibleReference": "Philippians 1:21",
+      "options": [
+        {
+          "text": "For to me to live is Christ, and to die is gain",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Life is only labour, and death the end of toil",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Faith is duty and law, and death the end of all",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Earthly honour is all, and death is bitter loss",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "phil_005",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "How does Paul exhort believers to walk in Philippians 1:27?",
+      "bibleReference": "Philippians 1:27",
+      "options": [
+        {
+          "text": "To contend before magistrates for their civil and earthly rights",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Stand fast in one spirit, striving for the faith of the gospel",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "To withdraw into desert places and avoid the company of all men",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To lay up treasures on earth and provide silver for the assembly",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "phil_006",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What lowliness of mind is commanded in Philippians 2:3?",
+      "bibleReference": "Philippians 2:3-4",
+      "options": [
+        {
+          "text": "To boast of personal merits before the eyes of all brethren",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To judge with severe censure the infirmities of weak saints",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In lowliness of mind let each esteem other better than self",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "To demand the chief place of honor in every holy assembly",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "phil_007",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What pathway of humiliation did Christ choose (Philippians 2:7-8)?",
+      "bibleReference": "Philippians 2:5-8",
+      "options": [
+        {
+          "text": "He demanded immediate dominion over all earthly kings and cast down the Roman governors",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He built a royal palace at Jerusalem and reigned there with outward majesty and splendour",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He gathered a mighty army from all nations and subdued the heathen rulers with violence",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He took upon him the form of a servant, and became obedient unto death, even of the cross",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "phil_008",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What did God give unto Jesus Christ according to Philippians 2:9?",
+      "bibleReference": "Philippians 2:9-11",
+      "options": [
+        {
+          "text": "A name which is above every name",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "An earthly kingdom of long glory",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Great abundance of gold and gems",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A royal palace on the holy mount",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "phil_009",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "How should believers work out their own salvation (Philippians 2:12)?",
+      "bibleReference": "Philippians 2:12-13",
+      "options": [
+        {
+          "text": "With pride and vain glory",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With fear and trembling",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "With mourning and sorrow",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With doubt and mistrust",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "phil_010",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Whom did Paul trust to send shortly unto Philippi (Philippians 2:19)?",
+      "bibleReference": "Philippians 2:19-22",
+      "options": [
+        {
+          "text": "Luke, the beloved physician",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Mark, the helper of Peter",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Timotheus, the likeminded",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Silas, companion in bonds",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "phil_011",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What heritage did Paul have according to Philippians 3:5?",
+      "bibleReference": "Philippians 3:4-6",
+      "options": [
+        {
+          "text": "Of the tribe of Judah, of the seed of David, taught by Roman tutors",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Of the tribe of Levi, of the sons of Aaron, ordained in the temple",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Of the house of Greece, converted at Athens and baptized in Jordan",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Circumcised the eighth day, of the stock of Israel, a Pharisee",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "phil_012",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "How does Paul count his former gain for Christ (Philippians 3:7-8)?",
+      "bibleReference": "Philippians 3:7-8",
+      "options": [
+        {
+          "text": "Counted loss and but dung",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "As an eternal rich reward",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As worthy honour from men",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As holy boasting in law",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "phil_013",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Toward what does Paul press according to Philippians 3:14?",
+      "bibleReference": "Philippians 3:13-14",
+      "options": [
+        {
+          "text": "Toward earthly praise and the high approval of assemblies in the world",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Toward the mark for the prize of the high calling of God in Christ",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Toward the speedy building of a visible earthly kingdom at Rome",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Toward complete release from prison bonds and bodily tribulations",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "phil_014",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "Where is the conversation of believers according to Philippians 3:20?",
+      "bibleReference": "Philippians 3:20",
+      "options": [
+        {
+          "text": "In the earthly Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In the great empire of Rome",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In heaven with the Lord",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "In the cities of the nations",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "phil_015",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What will Christ do unto our body according to Philippians 3:21?",
+      "bibleReference": "Philippians 3:20-21",
+      "options": [
+        {
+          "text": "He shall deck our body with golden chains and costly robes of honour",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He shall leave our mortal frame in the dust of earth and forget it",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He shall transform our flesh into an instrument of carnal judgment",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Change our vile body, that it may be fashioned like unto his body",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "phil_016",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Which two women does Paul beseech in Philippians 4:2?",
+      "bibleReference": "Philippians 4:2-3",
+      "options": [
+        {
+          "text": "Euodias and Syntyche",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Mary and Salome",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Prisca and Lydia",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Chloe and Bernice",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "phil_017",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What exhortation is given in Philippians 4:4?",
+      "bibleReference": "Philippians 4:4-5",
+      "options": [
+        {
+          "text": "Mourn over the sins of the world and weep before the judgment",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Rejoice in the Lord alway: and again I say, Rejoice",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Fear the magistrates of this world and avoid their angry courts",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Fast and weep in secret places until the indignation be overpast",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "phil_018",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What should be made known unto God according to Philippians 4:6?",
+      "bibleReference": "Philippians 4:6-7",
+      "options": [
+        {
+          "text": "Bitter mourning before rulers",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Silent grief before magistrates",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Prayer, supplication and thanks",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Worldly counsel and carnal aid",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "phil_019",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What confession does Paul make in Philippians 4:13?",
+      "bibleReference": "Philippians 4:12-13",
+      "options": [
+        {
+          "text": "I am sufficient of myself and require no strength from above",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I turn aside from every danger and rely upon earthly fortune",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I seek defence from Roman captains and trust in human helpers",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I can do all things through Christ which strengtheneth me",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "phil_020",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Which messenger brought the gift from the Philippians (Philippians 4:18)?",
+      "bibleReference": "Philippians 4:18",
+      "options": [
+        {
+          "text": "His brother Epaphroditus",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The preacher Timotheus",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "His faithful helper John",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The minister named Silas",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    }
+  ]
+}

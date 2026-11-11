@@ -1,0 +1,196 @@
+{
+  "metadata": {
+    "quizId": "nt_25_3johannes_alle_kapitel_en",
+    "title": "3 John",
+    "subtitle": "3 John 1:1 – 1:14 (5 questions)",
+    "author": "King James Version (1769)",
+    "version": "2.3.0",
+    "language": "en",
+    "category": "nt",
+    "difficulty": "medium",
+    "tags": [
+      "3 John",
+      "New Testament",
+      "General Epistles",
+      "Gaius",
+      "Diotrephes",
+      "Demetrius",
+      "King James Version"
+    ],
+    "questionCount": 5,
+    "canonicalBookNumber": 64,
+    "testament": "NT"
+  },
+  "questions": [
+    {
+      "questionId": "3joh_001",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Unto whom doth the elder write in 3 John 1:1?",
+      "bibleReference": "3 John 1:1",
+      "correctAnswers": [
+        1
+      ],
+      "options": [
+        {
+          "text": "Unto Demetrius, the honest fellowhelper",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto the wellbeloved Gaius in the truth",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Unto Diotrephes, the proud church ruler",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto Timothy, the faithful evangelist",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "3joh_002",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "For what is Gaius commended in 3 John 1:5?",
+      "bibleReference": "3 John 1:5-6",
+      "correctAnswers": [
+        2
+      ],
+      "options": [
+        {
+          "text": "For collecting much gold for the sanctuary building",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For keeping long fastings to mortify his mortal flesh",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For doing faithfully to the brethren, and to strangers",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "For burning strange rolls of philosophers before all",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "3joh_003",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What deeds of Diotrephes are rebuked in 3 John 1:9-10?",
+      "bibleReference": "3 John 1:9-10",
+      "correctAnswers": [
+        3
+      ],
+      "options": [
+        {
+          "text": "He exacteth large tribute of all believers to increase his wealth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He burneth holy rolls of apostles and denieth the statutes of Moses",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He bringeth heathen idols into church, compelling profane oblations",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He loveth preeminence, prateth with malicious words, rejecteth brethren",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "3joh_004",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Who hath good report of all men in 3 John 1:12?",
+      "bibleReference": "3 John 1:12",
+      "correctAnswers": [
+        0
+      ],
+      "options": [
+        {
+          "text": "The faithful Demetrius",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The beloved brother Gaius",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The noble apostle Paul",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The evangelist Silas",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "3joh_005",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Why will he not write with ink and pen in 3 John 1:13-14?",
+      "bibleReference": "3 John 1:13-14",
+      "correctAnswers": [
+        1
+      ],
+      "options": [
+        {
+          "text": "Because ink and pen failed him, and he could find no writing materials",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because he trusteth shortly to see him, and to speak face to face in peace",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Because the Roman magistrates strictly forbade carrying of written letters",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because the messenger refused to carry the epistle across the stormy sea",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    }
+  ]
+}

@@ -21,30 +21,34 @@
     {
       "questionId": "am_001",
       "type": "single_choice",
-      "text": "Was war Amos nach Amos 1:1 von Beruf?",
+      "text": "Was war Amos nach Amos 1:1, bevor er über Israel weissagte?",
       "options": [
         {
           "text": "Ein Priester aus Bethel",
-          "explanation": "Das steht so nicht an dieser Stelle [ref:Amos 1:1]."
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Ein Hirte aus Tekoa",
-          "explanation": "Dies ist es, was Amos, der unter den Hirten zu Tekoa war, gesehen hat über Israel [ref:Amos 1:1]."
+          "text": "Ein Hirte aus Thekoa",
+          "explanation": "",
+          "isCorrect": true
         },
         {
           "text": "Ein Schreiber des Königs",
-          "explanation": "Das steht so nicht an dieser Stelle [ref:Amos 1:1]."
+          "explanation": "",
+          "isCorrect": false
         },
         {
           "text": "Ein Händler aus Samaria",
-          "explanation": "Das steht so nicht an dieser Stelle [ref:Amos 1:1]."
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Amos 1:1",
-      "explanation": "Dies ist es, was Amos, der unter den Hirten zu Tekoa war, gesehen hat über Israel [ref:Amos 1:1].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -55,56 +59,64 @@
       "options": [
         {
           "text": "Weil sie Götzen anbeteten und das Land Israel verwüsteten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil sie Gilead mit eisernen Zacken gedroschen haben [ref:Amos 1:3]."
+          "explanation": "",
+          "isCorrect": false
         },
         {
           "text": "Weil sie Israel ausgeplündert und die Städte eingenommen haben",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil sie Gilead mit eisernen Zacken gedroschen haben [ref:Amos 1:3]."
+          "explanation": "",
+          "isCorrect": false
         },
         {
           "text": "Weil sie Gilead mit eisernen Zacken gedroschen haben",
-          "explanation": "Um drei und vier Frevel willen der Damasker will ich ihrer nicht schonen, darum dass sie Gilead mit eisernen Zacken gedroschen haben [ref:Amos 1:3]."
+          "explanation": "",
+          "isCorrect": true
         },
         {
           "text": "Weil sie die Gesandten töteten und die Grenzen verletzten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil sie Gilead mit eisernen Zacken gedroschen haben [ref:Amos 1:3]."
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Amos 1:3",
-      "explanation": "Um drei und vier Frevel willen der Damasker will ich ihrer nicht schonen, darum dass sie Gilead mit eisernen Zacken gedroschen haben [ref:Amos 1:3].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "am_003",
       "type": "single_choice",
-      "text": "Welches Verbrechen wird den Ammonitern in Amos 1:13 vorgeworfen?",
+      "text": "Welcher Frevel wird den Kindern Ammon in Amos 1:13 zur Last gelegt?",
       "options": [
         {
-          "text": "Sie verbrannten die Ernten und raubten das Vieh der Israeliten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie zerrissen die Schwangeren in Gilead, um ihre Grenze zu erweitern [ref:Amos 1:13]."
+          "text": "Sie verbrannten die reifen Ernten und raubten das Vieh der Israeliten",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Sie raubten den Tempelschatz und plünderten die Städte Judas",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie zerrissen die Schwangeren in Gilead, um ihre Grenze zu erweitern [ref:Amos 1:13]."
+          "text": "Sie raubten den kostbaren Tempelschatz und plünderten die Städte Judas",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Sie versklavten die Kinder Judas und verkauften sie an Edom",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie zerrissen die Schwangeren in Gilead, um ihre Grenze zu erweitern [ref:Amos 1:13]."
+          "text": "Sie versklavten die kleinen Kinder Judas und verkauften sie nach Edom",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Sie zerrissen die Schwangeren in Gilead, um ihre Grenze zu erweitern",
-          "explanation": "Um drei und vier Frevel willen der Kinder Ammon will ich ihrer nicht schonen, darum dass sie die Schwangeren in Gilead zerrissen haben, damit sie ihre Grenze weiter machten [ref:Amos 1:13]."
+          "text": "Sie zerrissen die Schwangeren in Gilead, damit sie ihre Grenze weiter machten",
+          "explanation": "",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Amos 1:13",
-      "explanation": "Um drei und vier Frevel willen der Kinder Ammon will ich ihrer nicht schonen, darum dass sie die Schwangeren in Gilead zerrissen haben, damit sie ihre Grenze weiter machten [ref:Amos 1:13].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -114,57 +126,65 @@
       "text": "Wofür wird Moab in Amos 2:1 gerichtet?",
       "options": [
         {
-          "text": "Weil sie die Gebeine des Königs von Edom zu Asche verbrannten",
-          "explanation": "Um drei und vier Frevel willen Moabs will ich ihrer nicht schonen, darum dass sie die Gebeine des Königs zu Edom haben zu Asche verbrannt [ref:Amos 2:1]."
+          "text": "Weil sie die Gebeine des Königs zu Edom zu Asche verbrannten",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Weil sie Israel angriffen und das ganze Land verwüsteten und plünderten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil sie die Gebeine des Königs von Edom zu Asche verbrannten [ref:Amos 2:1]."
+          "text": "Weil sie das Volk Israel angriffen und das ganze Land verwüsteten",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Weil sie Götzen verehrten und ihre Kinder dem Moloch opferten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil sie die Gebeine des Königs von Edom zu Asche verbrannten [ref:Amos 2:1]."
+          "text": "Weil sie heidnische Götzen verehrten und ihre Kinder opferten",
+          "explanation": "",
+          "isCorrect": false
         },
         {
           "text": "Weil sie Gefangene verkauften und das Gesetz des HERRN brachen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil sie die Gebeine des Königs von Edom zu Asche verbrannten [ref:Amos 2:1]."
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Amos 2:1",
-      "explanation": "Um drei und vier Frevel willen Moabs will ich ihrer nicht schonen, darum dass sie die Gebeine des Königs zu Edom haben zu Asche verbrannt [ref:Amos 2:1].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "am_005",
       "type": "single_choice",
-      "text": "Welche Schandtat klagt Amos 2:6 an Israel an?",
+      "text": "Welchen Frevel klagt der HERR in Amos 2:6 an Israel an?",
       "options": [
         {
           "text": "Sie opfern auf allen Höhen und beten die Götzen der Heiden an",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie verkaufen die Gerechten um Geld und die Armen um ein Paar Schuhe [ref:Amos 2:6]."
+          "explanation": "",
+          "isCorrect": false
         },
         {
           "text": "Sie verkaufen die Gerechten um Geld und die Armen um ein Paar Schuhe",
-          "explanation": "Um drei und vier Frevel willen Israels will ich ihrer nicht schonen, darum dass sie die Gerechten um Geld und die Armen um ein Paar Schuhe verkaufen [ref:Amos 2:6]."
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Sie brechen den Sabbat und arbeiten an den Feiertagen des HERRN",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie verkaufen die Gerechten um Geld und die Armen um ein Paar Schuhe [ref:Amos 2:6]."
+          "text": "Sie brechen den Sabbat und arbeiten an den heiligen Feiertagen",
+          "explanation": "",
+          "isCorrect": false
         },
         {
           "text": "Sie verweigern den Zehnten und vernachlässigen das Haus des HERRN",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie verkaufen die Gerechten um Geld und die Armen um ein Paar Schuhe [ref:Amos 2:6]."
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Amos 2:6",
-      "explanation": "Um drei und vier Frevel willen Israels will ich ihrer nicht schonen, darum dass sie die Gerechten um Geld und die Armen um ein Paar Schuhe verkaufen [ref:Amos 2:6].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -175,26 +195,30 @@
       "options": [
         {
           "text": "Sie vertrieben sie ins Ausland und ließen sie nicht in das Land zurückkehren",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie gaben den Geweihten Wein zu trinken und geboten den Propheten: Ihr sollt nicht weissagen [ref:Amos 2:12]."
+          "explanation": "",
+          "isCorrect": false
         },
         {
           "text": "Sie ehrten sie als Boten Gottes und hörten aufmerksam auf alle ihre Worte",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie gaben den Geweihten Wein zu trinken und geboten den Propheten: Ihr sollt nicht weissagen [ref:Amos 2:12]."
+          "explanation": "",
+          "isCorrect": false
         },
         {
           "text": "Sie gaben den Geweihten Wein zu trinken und geboten den Propheten: Ihr sollt nicht weissagen",
-          "explanation": "So gebt ihr den Geweihten Wein zu trinken und gebietet den Propheten und sprecht: Ihr sollt nicht weissagen! [ref:Amos 2:12]."
+          "explanation": "",
+          "isCorrect": true
         },
         {
           "text": "Sie ließen sie ungestört und achteten nicht weiter auf ihre Rede und Weissagung",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie gaben den Geweihten Wein zu trinken und geboten den Propheten: Ihr sollt nicht weissagen [ref:Amos 2:12]."
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Amos 2:12",
-      "explanation": "So gebt ihr den Geweihten Wein zu trinken und gebietet den Propheten und sprecht: Ihr sollt nicht weissagen! [ref:Amos 2:12].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -204,27 +228,31 @@
       "text": "Welche Folge hat Israels Erwählung nach Amos 3:2?",
       "options": [
         {
-          "text": "Gott macht es reich und segnet alle seine Werke",
-          "explanation": "Das trifft nicht zu. Richtig ist: Gott sucht es umso mehr heim in all seiner Missetat [ref:Amos 3:2]."
+          "text": "Gott will es reich machen und segnen alle seine Werke",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Gott schont es für immer und vergibt ihm seine Schuld",
-          "explanation": "Das trifft nicht zu. Richtig ist: Gott sucht es umso mehr heim in all seiner Missetat [ref:Amos 3:2]."
+          "text": "Gott will es schonen und vergeben alle seine Schuld",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Gott gibt ihm weitere Länder und stärkt seine Macht",
-          "explanation": "Das trifft nicht zu. Richtig ist: Gott sucht es umso mehr heim in all seiner Missetat [ref:Amos 3:2]."
+          "text": "Gott will ihm Frieden geben vor allen seinen Feinden",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Gott sucht es umso mehr heim in all seiner Missetat",
-          "explanation": "Aus allen Geschlechtern auf Erden habe ich allein euch erkannt; darum will ich auch euch heimsuchen in all eurer Missetat [ref:Amos 3:2]."
+          "text": "Gott will es heimsuchen in all seiner Missetat",
+          "explanation": "",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Amos 3:2",
-      "explanation": "Aus allen Geschlechtern auf Erden habe ich allein euch erkannt; darum will ich auch euch heimsuchen in all eurer Missetat [ref:Amos 3:2].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -235,176 +263,200 @@
       "options": [
         {
           "text": "Der Herr HERR redet; wer sollte nicht weissagen?",
-          "explanation": "Der Löwe brüllt; wer sollte sich nicht fürchten? Der Herr HERR redet; wer sollte nicht weissagen? [ref:Amos 3:8]."
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Das Volk verlangt es von ihm und lässt ihm keine Ruhe",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der Herr HERR redet; wer sollte nicht weissagen? [ref:Amos 3:8]."
+          "text": "Das Volk verlangt es von ihm und lässt keine Ruhe",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Der König befiehlt es ihm und bestimmt die Worte",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der Herr HERR redet; wer sollte nicht weissagen? [ref:Amos 3:8]."
+          "text": "Der König befiehlt es ihm und bestimmt seine Rede",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Er will berühmt werden und seinen Namen unter den Propheten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der Herr HERR redet; wer sollte nicht weissagen? [ref:Amos 3:8]."
+          "text": "Er will sich einen großen Namen im Lande machen",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Amos 3:8",
-      "explanation": "Der Löwe brüllt; wer sollte sich nicht fürchten? Der Herr HERR redet; wer sollte nicht weissagen? [ref:Amos 3:8].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "am_009",
       "type": "single_choice",
-      "text": "Was kündigt Amos 3:14-15 an?",
+      "text": "Was kündigt Amos 3:14-15 über die Bauwerke und Altäre an?",
       "options": [
         {
           "text": "Die Mauern Samarias werden verstärkt, und die Paläste bleiben stehen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Altäre von Bethel und die elfenbeinernen Häuser gehen unter [ref:Amos 3:14-15]."
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Die Altäre von Bethel und die elfenbeinernen Häuser gehen unter",
-          "explanation": "Ich will die Altäre zu Bethel heimsuchen; und die elfenbeinernen Häuser sollen untergehen und viele Häuser verderbt werden [ref:Amos 3:14-15]."
+          "text": "Die Altäre zu Beth-El und die elfenbeinernen Häuser werden untergehen",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Die Tempel werden neu geweiht, und die Altäre werden erneuert",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Altäre von Bethel und die elfenbeinernen Häuser gehen unter [ref:Amos 3:14-15]."
+          "text": "Ein neues Heiligtum wird gebaut, und das Königtum wird befestigt",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Die Paläste bleiben unversehrt, und das Volk wird beschützt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Altäre von Bethel und die elfenbeinernen Häuser gehen unter [ref:Amos 3:14-15]."
+          "text": "Die Nachbarvölker schließen Frieden, und der Krieg nimmt ein Ende",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Amos 3:14-15",
-      "explanation": "Ich will die Altäre zu Bethel heimsuchen; und die elfenbeinernen Häuser sollen untergehen und viele Häuser verderbt werden [ref:Amos 3:14-15].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "am_010",
       "type": "single_choice",
-      "text": "Wie nennt Amos 4:1 die Frauen auf dem Berg Samaria?",
+      "text": "Wie nennt Amos 4:1 die Vornehmen auf dem Berge Samarias?",
       "options": [
         {
-          "text": "Stolze Töchter Zions, die mit Schmuck einhergehen und sich ihrer Pracht rühmen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Fette Kühe, die den Dürftigen Unrecht tun und sagen: Bringe her, lass uns saufen [ref:Amos 4:1]."
+          "text": "Stolze Töchter Zions, die mit Schmuck einhergehen und sich rühmen",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Satte Schafe im Pferch, die sich in ihrer Fülle rühmen und nichts tun",
-          "explanation": "Das trifft nicht zu. Richtig ist: Fette Kühe, die den Dürftigen Unrecht tun und sagen: Bringe her, lass uns saufen [ref:Amos 4:1]."
+          "text": "Satte Schafe im Pferch, die sich in Fülle rühmen und nichts tun",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Fette Kühe, die den Dürftigen Unrecht tun und sagen: Bringe her, lass uns saufen",
-          "explanation": "Hört dies Wort, ihr fetten Kühe auf dem Berge Samarias, die ihr den Dürftigen Unrecht tut und die Armen untertretet! [ref:Amos 4:1]."
+          "text": "Fette Kühe, die den Dürftigen Unrecht tun und fordern: Bringt her!",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Verwöhnte Kinder der Reichen, die nichts für die Armen tun und nur an sich denken",
-          "explanation": "Das trifft nicht zu. Richtig ist: Fette Kühe, die den Dürftigen Unrecht tun und sagen: Bringe her, lass uns saufen [ref:Amos 4:1]."
+          "text": "Verwöhnte Edelfrauen, die nichts für die Notleidenden tun wollen",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Amos 4:1",
-      "explanation": "Hört dies Wort, ihr fetten Kühe auf dem Berge Samarias, die ihr den Dürftigen Unrecht tut und die Armen untertretet! [ref:Amos 4:1].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "am_011",
       "type": "single_choice",
-      "text": "Welcher Satz kehrt in Amos 4:6-11 wieder?",
+      "text": "Welcher Satz kehrt in Amos 4:6-11 wiederholt als Anklage wieder?",
       "options": [
         {
           "text": "Seid getrost und stark, spricht der HERR, euer Gott",
-          "explanation": "Das trifft nicht zu. Richtig ist: Doch bekehrtet ihr euch nicht zu mir, spricht der HERR [ref:Amos 4:6-11]."
+          "explanation": "",
+          "isCorrect": false
         },
         {
           "text": "Dennoch will ich euch segnen, spricht der HERR zu euch",
-          "explanation": "Das trifft nicht zu. Richtig ist: Doch bekehrtet ihr euch nicht zu mir, spricht der HERR [ref:Amos 4:6-11]."
+          "explanation": "",
+          "isCorrect": false
         },
         {
           "text": "Darum fürchtet euch nicht, spricht der HERR, euer Gott",
-          "explanation": "Das trifft nicht zu. Richtig ist: Doch bekehrtet ihr euch nicht zu mir, spricht der HERR [ref:Amos 4:6-11]."
+          "explanation": "",
+          "isCorrect": false
         },
         {
           "text": "Doch bekehrtet ihr euch nicht zu mir, spricht der HERR",
-          "explanation": "Darum habe ich euch Mangel am Brot gegeben an allen euren Orten; doch bekehrtet ihr euch nicht zu mir, spricht der HERR [ref:Amos 4:6-11]."
+          "explanation": "",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Amos 4:6-11",
-      "explanation": "Darum habe ich euch Mangel am Brot gegeben an allen euren Orten; doch bekehrtet ihr euch nicht zu mir, spricht der HERR [ref:Amos 4:6-11].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "am_012",
       "type": "single_choice",
-      "text": "Welcher Ruf ergeht am Ende von Amos 4?",
+      "text": "Welcher Ruf ergeht in Amos 4:12 an das Volk?",
       "options": [
         {
           "text": "Schicke dich, Israel, und begegne deinem Gott",
-          "explanation": "Weil ich denn dir also tun will, so schicke dich, Israel, und begegne deinem Gott [ref:Amos 4:12]."
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Fliehe, Israel, vor deinem Gott, denn sein Zorn ist nahe",
-          "explanation": "Das trifft nicht zu. Richtig ist: Schicke dich, Israel, und begegne deinem Gott [ref:Amos 4:12]."
+          "text": "Fliehe, o Israel, denn des HERRN Zorn ist nahe",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Baue, Israel, deinen Tempel neu, denn der HERR kommt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Schicke dich, Israel, und begegne deinem Gott [ref:Amos 4:12]."
+          "text": "Kehre um, o Israel, und suche deinen HERRN Gott",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Opfere, Israel, deinem Gott reichlich, denn er ist gnädig",
-          "explanation": "Das trifft nicht zu. Richtig ist: Schicke dich, Israel, und begegne deinem Gott [ref:Amos 4:12]."
+          "text": "Opfere, o Israel, denn dein Schöpfer ist heilig",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Amos 4:12",
-      "explanation": "Weil ich denn dir also tun will, so schicke dich, Israel, und begegne deinem Gott [ref:Amos 4:12].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "am_013",
       "type": "single_choice",
-      "text": "Was ruft der HERR dem Haus Israel in Amos 5:4 zu?",
+      "text": "Was ruft der HERR dem Hause Israel in Amos 5:4 zu?",
       "options": [
         {
           "text": "Opfert mir, so werdet ihr leben",
-          "explanation": "Das steht so nicht an dieser Stelle [ref:Amos 5:4-5]."
+          "explanation": "",
+          "isCorrect": false
         },
         {
           "text": "Suchet mich, so werdet ihr leben",
-          "explanation": "So spricht der HERR zum Hause Israel: Suchet mich, so werdet ihr leben [ref:Amos 5:4-5]."
+          "explanation": "",
+          "isCorrect": true
         },
         {
           "text": "Fürchtet mich, so werdet ihr leben",
-          "explanation": "Das steht so nicht an dieser Stelle [ref:Amos 5:4-5]."
+          "explanation": "",
+          "isCorrect": false
         },
         {
           "text": "Hört auf mich, so werdet ihr leben",
-          "explanation": "Das steht so nicht an dieser Stelle [ref:Amos 5:4-5]."
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Amos 5:4-5",
-      "explanation": "So spricht der HERR zum Hause Israel: Suchet mich, so werdet ihr leben [ref:Amos 5:4-5].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -414,27 +466,31 @@
       "text": "Wie ist der Tag des HERRN für die, die ihn begehren (Amos 5:18)?",
       "options": [
         {
-          "text": "Ein Tag des Gerichts über die Heiden",
-          "explanation": "Das steht so nicht an dieser Stelle [ref:Amos 5:18-20]."
+          "text": "Freude und nicht Traurigkeit",
+          "explanation": "",
+          "isCorrect": false
         },
         {
           "text": "Licht und nicht Finsternis",
-          "explanation": "Das steht so nicht an dieser Stelle [ref:Amos 5:18-20]."
+          "explanation": "",
+          "isCorrect": false
         },
         {
           "text": "Finsternis und nicht Licht",
-          "explanation": "Weh denen, die des HERRN Tag begehren! Denn des HERRN Tag ist Finsternis und nicht Licht [ref:Amos 5:18-20]."
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Ein Tag der Ernte",
-          "explanation": "Das steht so nicht an dieser Stelle [ref:Amos 5:18-20]."
+          "text": "Friede und nicht Verderben",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Amos 5:18-20",
-      "explanation": "Weh denen, die des HERRN Tag begehren! Denn des HERRN Tag ist Finsternis und nicht Licht [ref:Amos 5:18-20].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -445,176 +501,200 @@
       "options": [
         {
           "text": "Die Treue wie ein Fels und der Friede wie ein starker Strom",
-          "explanation": "Das trifft nicht zu. Richtig ist: Das Recht wie Wasser und die Gerechtigkeit wie ein starker Strom [ref:Amos 5:24]."
+          "explanation": "",
+          "isCorrect": false
         },
         {
           "text": "Das Opfer wie Weihrauch und der Lobgesang wie ein starker Strom",
-          "explanation": "Das trifft nicht zu. Richtig ist: Das Recht wie Wasser und die Gerechtigkeit wie ein starker Strom [ref:Amos 5:24]."
+          "explanation": "",
+          "isCorrect": false
         },
         {
           "text": "Der Lobgesang wie ein Strom und die Gnade wie ein fester Fels",
-          "explanation": "Das trifft nicht zu. Richtig ist: Das Recht wie Wasser und die Gerechtigkeit wie ein starker Strom [ref:Amos 5:24]."
+          "explanation": "",
+          "isCorrect": false
         },
         {
           "text": "Das Recht wie Wasser und die Gerechtigkeit wie ein starker Strom",
-          "explanation": "Es soll aber das Recht offenbart werden wie Wasser und die Gerechtigkeit wie ein starker Strom [ref:Amos 5:24]."
+          "explanation": "",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Amos 5:24",
-      "explanation": "Es soll aber das Recht offenbart werden wie Wasser und die Gerechtigkeit wie ein starker Strom [ref:Amos 5:24].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "am_016",
       "type": "single_choice",
-      "text": "Über wen spricht Amos 6:1 ein Wehe?",
+      "text": "Über wen spricht Amos 6:1 ein Wehe aus?",
       "options": [
         {
           "text": "Über die Stolzen zu Zion und die Sicheren auf dem Berg Samaria",
-          "explanation": "Weh den Stolzen zu Zion und denen, die sich auf den Berg Samarias verlassen [ref:Amos 6:1]."
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Über die Priester von Bethel, die nur ihren Vorteil sehen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Über die Stolzen zu Zion und die Sicheren auf dem Berg Samaria [ref:Amos 6:1]."
+          "text": "Über die Priester zu Beth-El, die nach eigenem Vorteil trachten",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Über die Hirten von Tekoa, die ihre Herden vernachlässigen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Über die Stolzen zu Zion und die Sicheren auf dem Berg Samaria [ref:Amos 6:1]."
+          "text": "Über die Hirten zu Thekoa, die ihre Schafe im Stich gelassen",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Über die Händler am Tor, die falsche Maße benutzen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Über die Stolzen zu Zion und die Sicheren auf dem Berg Samaria [ref:Amos 6:1]."
+          "text": "Über die Händler am Tor, die mit unrechtem Gewichte betrügen",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Amos 6:1",
-      "explanation": "Weh den Stolzen zu Zion und denen, die sich auf den Berg Samarias verlassen [ref:Amos 6:1].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "am_017",
       "type": "single_choice",
-      "text": "Woran zeigt sich nach Amos 6:4 der Luxus der Oberschicht?",
+      "text": "Woran zeigt sich nach Amos 6:4 das Schlemmen der Pranger?",
       "options": [
         {
-          "text": "Sie bauen sich Paläste aus Zedernholz und decken sie mit Gold und Edelsteinen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie schlafen auf elfenbeinernen Lagern und essen Lämmer und gemästete Kälber [ref:Amos 6:4-6]."
+          "text": "Sie bauen Paläste aus Zedernholz und schmücken sie mit Silber",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Sie schlafen auf elfenbeinernen Lagern und essen Lämmer und gemästete Kälber",
-          "explanation": "Ihr schlaft auf elfenbeinernen Lagern und prangt auf euren Ruhebetten; ihr esst die Lämmer aus der Herde und die gemästeten Kälber [ref:Amos 6:4-6]."
+          "text": "Sie schlafen auf elfenbeinernen Lagern und essen gemästete Kälber",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Sie tragen Purpur und Gold und prunken damit vor dem Volk auf den Straßen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie schlafen auf elfenbeinernen Lagern und essen Lämmer und gemästete Kälber [ref:Amos 6:4-6]."
+          "text": "Sie tragen Kleider aus feiner Seide und prangen mit Edelsteinen",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Sie feiern Feste im Tempel und opfern dort reichlich, um gesehen zu werden",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie schlafen auf elfenbeinernen Lagern und essen Lämmer und gemästete Kälber [ref:Amos 6:4-6]."
+          "text": "Sie trinken täglich köstlichen Wein und feiern auf allen Gassen",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Amos 6:4-6",
-      "explanation": "Ihr schlaft auf elfenbeinernen Lagern und prangt auf euren Ruhebetten; ihr esst die Lämmer aus der Herde und die gemästeten Kälber [ref:Amos 6:4-6].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "am_018",
       "type": "single_choice",
-      "text": "Welches Schicksal kündigt Amos 6:7 den Schlemmern an?",
+      "text": "Was kündigt Amos 6:7 den Schlemmern und Prangern an?",
       "options": [
         {
-          "text": "Sie sollen Tribut zahlen und dem fremden König dienen müssen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie sollen vornan unter den Gefangenen weggeführt werden [ref:Amos 6:7]."
+          "text": "Sie sollen Tribut zahlen und dem fremden König für immer dienen",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Sie sollen im Palast bleiben und weiter schlemmen dürfen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie sollen vornan unter den Gefangenen weggeführt werden [ref:Amos 6:7]."
+          "text": "Sie sollen in ihren Häusern bleiben und ihre Güter behalten",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Sie sollen vornan unter den Gefangenen weggeführt werden",
-          "explanation": "Darum sollen sie nun vornan gehen unter denen, die gefangen weggeführt werden, und das Schlemmen der Pranger soll aufhören [ref:Amos 6:7]."
+          "text": "Sie sollen vornan gehen unter denen, die gefangen weggeführt werden",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Sie sollen arm werden und all ihr Gut und Haus verlieren",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie sollen vornan unter den Gefangenen weggeführt werden [ref:Amos 6:7]."
+          "text": "Sie sollen als Knechte dienen und keine eigenen Güter mehr besitzen",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Amos 6:7",
-      "explanation": "Darum sollen sie nun vornan gehen unter denen, die gefangen weggeführt werden, und das Schlemmen der Pranger soll aufhören [ref:Amos 6:7].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "am_019",
       "type": "single_choice",
-      "text": "Wie bat Amos in Amos 7:2 um Verschonung?",
+      "text": "Wie bat Amos in Amos 7:2 um Verschonung für das Volk?",
       "options": [
         {
-          "text": "Herr, sende einen Retter, der Jakob aufhilft!",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ach Herr HERR, sei gnädig! Wer will Jakob wieder aufhelfen? [ref:Amos 7:2-6]."
+          "text": "Ach Herr HERR, sende doch einen Retter, der Jakob aufhilft!",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Herr, strafe die Feinde, die Jakob bedrängen!",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ach Herr HERR, sei gnädig! Wer will Jakob wieder aufhelfen? [ref:Amos 7:2-6]."
+          "text": "Ach Herr HERR, strafe die Feinde, die Jakob hart bedrängen!",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Herr, nimm mich an Stelle des Volkes, damit es lebe!",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ach Herr HERR, sei gnädig! Wer will Jakob wieder aufhelfen? [ref:Amos 7:2-6]."
+          "text": "Ach Herr HERR, nimm doch mein Leben, damit dein Volk lebe!",
+          "explanation": "",
+          "isCorrect": false
         },
         {
           "text": "Ach Herr HERR, sei gnädig! Wer will Jakob wieder aufhelfen?",
-          "explanation": "Als sie das Kraut im Lande gar abgefressen hatten, sprach ich: Ach Herr HERR, sei gnädig! Wer will Jakob wieder aufhelfen? Denn er ist ja gering [ref:Amos 7:2-6]."
+          "explanation": "",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
         3
       ],
-      "bibleReference": "Amos 7:2-6",
-      "explanation": "Als sie das Kraut im Lande gar abgefressen hatten, sprach ich: Ach Herr HERR, sei gnädig! Wer will Jakob wieder aufhelfen? Denn er ist ja gering [ref:Amos 7:2-6].",
+      "bibleReference": "Amos 7:2",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "am_020",
       "type": "single_choice",
-      "text": "Was hielt der HERR nach Amos 7:7 in der Hand?",
+      "text": "Was hielt der Herr nach Amos 7:7 in seiner Hand?",
       "options": [
         {
-          "text": "Eine Bleischnur, mit der er die Mauer maß",
-          "explanation": "Der Herr stand auf einer Mauer, mit einer Bleischnur gemessen; und er hatte die Bleischnur in seiner Hand [ref:Amos 7:7-9]."
+          "text": "Eine Bleischnur, mit der die Mauer gemessen war",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Ein Schwert, mit dem er die Mauer niederriss",
-          "explanation": "Das trifft nicht zu. Richtig ist: Eine Bleischnur, mit der er die Mauer maß [ref:Amos 7:7-9]."
+          "text": "Ein Richtschwert, mit dem er Feinde schlug",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Eine Waage, mit der er die Gerechten wog",
-          "explanation": "Das trifft nicht zu. Richtig ist: Eine Bleischnur, mit der er die Mauer maß [ref:Amos 7:7-9]."
+          "text": "Eine eherne Waage, mit der er Frevel wog",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Einen Hirtenstab, mit dem er die Herde zählte",
-          "explanation": "Das trifft nicht zu. Richtig ist: Eine Bleischnur, mit der er die Mauer maß [ref:Amos 7:7-9]."
+          "text": "Einen Hirtenstab, womit er Schafe zählte",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         0
       ],
-      "bibleReference": "Amos 7:7-9",
-      "explanation": "Der Herr stand auf einer Mauer, mit einer Bleischnur gemessen; und er hatte die Bleischnur in seiner Hand [ref:Amos 7:7-9].",
+      "bibleReference": "Amos 7:7-8",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -624,147 +704,167 @@
       "text": "Was antwortete Amos dem Priester Amazja (Amos 7:14)?",
       "options": [
         {
-          "text": "Ich bin ein Priester des HERRN und diene im Heiligtum von Bethel seit meiner Jugend",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ich bin kein Prophet noch eines Propheten Sohn, sondern ein Hirt, der Maulbeeren abliest [ref:Amos 7:14-15]."
+          "text": "Ich bin ein Priester des HERRN und diene im Heiligtum zu Beth-El seit meiner Jugend",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Ich bin kein Prophet noch eines Propheten Sohn, sondern ein Hirt, der Maulbeeren abliest",
-          "explanation": "Ich bin kein Prophet, auch keines Propheten Sohn, sondern ich bin ein Hirt, der Maulbeeren abliest [ref:Amos 7:14-15]."
+          "text": "Ich bin kein Prophet, auch keines Propheten Sohn, sondern ein Hirt, der Maulbeeren abliest",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Ich bin ein Schreiber des Königs und rede nur in seinem Auftrag zu dem Volk",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ich bin kein Prophet noch eines Propheten Sohn, sondern ein Hirt, der Maulbeeren abliest [ref:Amos 7:14-15]."
+          "text": "Ich bin ein Schreiber des Königs und rede nur nach seinem Willen zu dem ganzen Volk",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Ich bin ein Prophet aus Juda und komme in eigener Sache nach Bethel",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ich bin kein Prophet noch eines Propheten Sohn, sondern ein Hirt, der Maulbeeren abliest [ref:Amos 7:14-15]."
+          "text": "Ich bin ein Prophet aus Juda und komme in eigenem Auftrag herauf nach Beth-El",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Amos 7:14-15",
-      "explanation": "Ich bin kein Prophet, auch keines Propheten Sohn, sondern ich bin ein Hirt, der Maulbeeren abliest [ref:Amos 7:14-15].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "am_022",
       "type": "single_choice",
-      "text": "Was bedeutet der Korb mit reifem Obst (Amos 8:2)?",
+      "text": "Was bedeutet das Gesicht von dem Korb mit reifem Obst (Amos 8:2)?",
       "options": [
         {
-          "text": "Der Sommer ist nahe, und die Ernte beginnt bald",
-          "explanation": "Das trifft nicht zu. Richtig ist: Das Ende ist über das Volk Israel gekommen [ref:Amos 8:1-2]."
+          "text": "Eine reiche Erntezeit bricht bald für ganz Israel an",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Eine reiche Ernte steht bevor, und die Speicher füllen sich",
-          "explanation": "Das trifft nicht zu. Richtig ist: Das Ende ist über das Volk Israel gekommen [ref:Amos 8:1-2]."
+          "text": "Die Zeit der Umkehr ist da, und das Volk tut nun Buße",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Das Ende ist über das Volk Israel gekommen",
-          "explanation": "Einen Korb mit reifem Obst. Da sprach der HERR zu mir: Das Ende ist gekommen über mein Volk Israel; ich will ihm nichts mehr übersehen [ref:Amos 8:1-2]."
+          "text": "Das Ende ist gekommen über mein Volk Israel",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Das Opfer ist bereitet, und das Fest kann beginnen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Das Ende ist über das Volk Israel gekommen [ref:Amos 8:1-2]."
+          "text": "Der Zorn des HERRN wird noch viele Jahre verziehen",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Amos 8:1-2",
-      "explanation": "Einen Korb mit reifem Obst. Da sprach der HERR zu mir: Das Ende ist gekommen über mein Volk Israel; ich will ihm nichts mehr übersehen [ref:Amos 8:1-2].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "am_023",
       "type": "single_choice",
-      "text": "Welche Betrügereien prangert Amos 8:5 an?",
+      "text": "Welchen Betrug planen die Händler nach Amos 8:5?",
       "options": [
         {
-          "text": "Sie leihen gegen Zins und nehmen Pfänder von den Armen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie verringern das Maß, steigern den Preis und fälschen die Waage [ref:Amos 8:5]."
+          "text": "Sie wollen Zins nehmen und fremdes Silber unrechtmäßig einbehalten",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Sie verkaufen am Sabbat Vieh und treiben Handel auf dem Markt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie verringern das Maß, steigern den Preis und fälschen die Waage [ref:Amos 8:5]."
+          "text": "Sie wollen fremdes Vieh stehlen und heimlich auf dem Markt verkaufen",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Sie zahlen keinen Zehnten und betrügen den Tempel",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie verringern das Maß, steigern den Preis und fälschen die Waage [ref:Amos 8:5]."
+          "text": "Sie wollen den Zehnten vorenthalten und die Tempeldiener berauben",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Sie verringern das Maß, steigern den Preis und fälschen die Waage",
-          "explanation": "Wann will der Neumond ein Ende haben, dass wir Getreide verkaufen, und das Maß verringern und den Preis steigern und die Waage fälschen? [ref:Amos 8:5]."
+          "text": "Sie wollen das Maß verringern, den Preis steigern und die Waage fälschen",
+          "explanation": "",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Amos 8:5",
-      "explanation": "Wann will der Neumond ein Ende haben, dass wir Getreide verkaufen, und das Maß verringern und den Preis steigern und die Waage fälschen? [ref:Amos 8:5].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "am_024",
       "type": "single_choice",
-      "text": "Welche Not wird in Amos 8:11 angekündigt?",
+      "text": "Welcher Hunger wird in Amos 8:11 angekündigt?",
       "options": [
         {
-          "text": "Ein Hunger nach dem Wort des HERRN, zu hören",
-          "explanation": "Es kommt die Zeit, dass ich einen Hunger ins Land schicken werde, nicht einen Hunger nach Brot, sondern nach dem Wort des HERRN, zu hören [ref:Amos 8:11-12]."
+          "text": "Nicht nach Brot, sondern nach dem Wort des HERRN, zu hören",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Ein Hunger nach Brot und Wasser, der das Land verzehrt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ein Hunger nach dem Wort des HERRN, zu hören [ref:Amos 8:11-12]."
+          "text": "Ein Hunger nach Brot und Früchten, der das ganze Land ergreift",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Ein Durst nach Wasser, der Mensch und Vieh dahinrafft",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ein Hunger nach dem Wort des HERRN, zu hören [ref:Amos 8:11-12]."
+          "text": "Ein schwerer Durst nach Wasser, der Mensch und Vieh dahinrafft",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Eine Dürre im Land, die alle Quellen austrocknet",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ein Hunger nach dem Wort des HERRN, zu hören [ref:Amos 8:11-12]."
+          "text": "Eine große Dürre im Lande, die alle Brunnen gänzlich austrocknet",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Amos 8:11-12",
-      "explanation": "Es kommt die Zeit, dass ich einen Hunger ins Land schicken werde, nicht einen Hunger nach Brot, sondern nach dem Wort des HERRN, zu hören [ref:Amos 8:11-12].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "am_025",
       "type": "single_choice",
-      "text": "Was zeigt Amos 9:2 über das Gericht des HERRN?",
+      "text": "Was bezeugt Amos 9:2 über das Gericht des Herrn?",
       "options": [
         {
-          "text": "Nur die Gottlosen werden erreicht, die Frommen entkommen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Niemand entkommt ihm, weder in der Hölle noch im Himmel [ref:Amos 9:2-3]."
+          "text": "Wer sich im Heiligtum birgt, der soll vor dem Gerichte verschont bleiben",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Niemand entkommt ihm, weder in der Hölle noch im Himmel",
-          "explanation": "Wenn sie sich gleich in die Hölle vergrüben, soll sie doch meine Hand von dort holen; und wenn sie gen Himmel führen, will ich sie doch herunterstoßen [ref:Amos 9:2-3]."
+          "text": "Ob sie sich in die Hölle vergrüben, soll sie seine Hand von dort holen",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Es gilt nur für Samaria, das übrige Land bleibt verschont",
-          "explanation": "Das trifft nicht zu. Richtig ist: Niemand entkommt ihm, weder in der Hölle noch im Himmel [ref:Amos 9:2-3]."
+          "text": "Wer auf hohe Berge flieht, wird sicher sein vor den Boten des Gerichts",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Es kommt erst nach vielen Jahren, wenn niemand mehr daran denkt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Niemand entkommt ihm, weder in der Hölle noch im Himmel [ref:Amos 9:2-3]."
+          "text": "Nur wer in Samaria bleibt, wird von der Hand des Feindes getroffen werden",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Amos 9:2-3",
-      "explanation": "Wenn sie sich gleich in die Hölle vergrüben, soll sie doch meine Hand von dort holen; und wenn sie gen Himmel führen, will ich sie doch herunterstoßen [ref:Amos 9:2-3].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -774,57 +874,65 @@
       "text": "Was verheißt der HERR in Amos 9:11?",
       "options": [
         {
-          "text": "Das Land zu teilen und jedem sein Erbe zurückzugeben",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die zerfallene Hütte Davids wieder aufzurichten [ref:Amos 9:11]."
+          "text": "Einen neuen Tempel aus behauenen Steinen wieder zu erbauen",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Einen neuen Tempel zu bauen und das Volk zu sammeln",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die zerfallene Hütte Davids wieder aufzurichten [ref:Amos 9:11]."
+          "text": "Das ganze Land unter den zwölf Stämmen neu zu verteilen",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Die zerfallene Hütte Davids wieder aufzurichten",
-          "explanation": "Zur selben Zeit will ich die zerfallene Hütte Davids wieder aufrichten und ihre Lücken verzäunen [ref:Amos 9:11]."
+          "text": "Die zerfallene Hütte Davids wieder aufzurichten und zu bauen",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Einen neuen Bund zu stiften und das Gesetz zu erneuern",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die zerfallene Hütte Davids wieder aufzurichten [ref:Amos 9:11]."
+          "text": "Einen ewigen Bund des Friedens mit seinem Volk zu schließen",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Amos 9:11",
-      "explanation": "Zur selben Zeit will ich die zerfallene Hütte Davids wieder aufrichten und ihre Lücken verzäunen [ref:Amos 9:11].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "am_027",
       "type": "single_choice",
-      "text": "Womit schließt das Buch Amos (Amos 9:14)?",
+      "text": "Womit schließt die Verheißung in Amos 9:14?",
       "options": [
         {
-          "text": "Mit der Zerstörung des Tempels und der Verbannung des gesamten Volkes in ein fernes Land",
-          "explanation": "Das trifft nicht zu. Richtig ist: Mit der Wende des Gefängnisses Israels, dass sie die wüsten Städte bauen und Weinberge pflanzen [ref:Amos 9:14-15]."
+          "text": "Mit der Zerstörung des Heiligtums und der Verbannung des Volkes in ferne Länder",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Mit dem Gericht über Edom und alle Nachbarvölker, die Israel immer wieder bedrängt haben",
-          "explanation": "Das trifft nicht zu. Richtig ist: Mit der Wende des Gefängnisses Israels, dass sie die wüsten Städte bauen und Weinberge pflanzen [ref:Amos 9:14-15]."
+          "text": "Mit dem Strafgericht über alle Nachbarvölker, die Israel hart bedrängt hatten",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Mit dem Aufruf zur Buße und der ernsten Mahnung zur Umkehr an das ganze Volk Israel",
-          "explanation": "Das trifft nicht zu. Richtig ist: Mit der Wende des Gefängnisses Israels, dass sie die wüsten Städte bauen und Weinberge pflanzen [ref:Amos 9:14-15]."
+          "text": "Mit dem Aufruf zur Buße und der ernsten Mahnung an das abtrünnige Haus Israel",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Mit der Wende des Gefängnisses Israels, dass sie die wüsten Städte bauen und Weinberge pflanzen",
-          "explanation": "Ich will das Gefängnis meines Volkes Israel wenden, dass sie die wüsten Städte bauen und bewohnen, Weinberge pflanzen und Wein davon trinken [ref:Amos 9:14-15]."
+          "text": "Mit der Wende des Gefängnisses, dass sie wüste Städte bauen und bewohnen",
+          "explanation": "",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Amos 9:14-15",
-      "explanation": "Ich will das Gefängnis meines Volkes Israel wenden, dass sie die wüsten Städte bauen und bewohnen, Weinberge pflanzen und Wein davon trinken [ref:Amos 9:14-15].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     }

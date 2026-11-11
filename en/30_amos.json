@@ -1,0 +1,942 @@
+{
+  "metadata": {
+    "quizId": "bibel_30_amos_en",
+    "title": "Amos",
+    "subtitle": "Amos 1:1 – 9:15 (27 questions)",
+    "description": "Questions on the Book of Amos according to the King James Version (1769).",
+    "author": "King James Version (1769)",
+    "version": "1.0.0",
+    "language": "en",
+    "category": "propheten",
+    "difficulty": "medium",
+    "tags": [
+      "Amos",
+      "OT",
+      "prophets",
+      "KJV"
+    ],
+    "questionCount": 27,
+    "canonicalBookNumber": 30,
+    "testament": "OT"
+  },
+  "questions": [
+    {
+      "questionId": "am_001",
+      "type": "single_choice",
+      "text": "According to Amos 1:1, what was Amos before he prophesied concerning Israel?",
+      "options": [
+        {
+          "text": "A priest from Beth-el",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "An herdman of Tekoa",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A scribe of the king",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A merchant of Samaria",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Amos 1:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "am_002",
+      "type": "single_choice",
+      "text": "For what transgression does the LORD announce judgment upon Damascus in Amos 1:3?",
+      "options": [
+        {
+          "text": "Because they worshipped idols and laid waste the land of Israel",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because they spoiled Israel and took captive all the border cities",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because they have threshed Gilead with threshing instruments of iron",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Because they slew the messengers and violated the solemn covenant",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Amos 1:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "am_003",
+      "type": "single_choice",
+      "text": "What transgression of the children of Ammon is condemned in Amos 1:13?",
+      "options": [
+        {
+          "text": "They burned the standing corn and carried away the cattle of Israel",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They spoiled the holy treasures and plundered the cities of Judah",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They enslaved the children of Judah and delivered them up to Edom",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They have ripped up the women with child of Gilead, to enlarge their border",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Amos 1:13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "am_004",
+      "type": "single_choice",
+      "text": "Why is judgment pronounced upon Moab in Amos 2:1?",
+      "options": [
+        {
+          "text": "Because he burned the bones of the king of Edom into lime",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Because they attacked Israel and destroyed the fruitful land",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because they worshipped false gods and sacrificed their children",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because they sold the captives and broke the covenant of brotherhood",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Amos 2:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "am_005",
+      "type": "single_choice",
+      "text": "What transgression of Israel does the LORD condemn in Amos 2:6?",
+      "options": [
+        {
+          "text": "They sacrifice upon the high places and bow to heathen idols",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They sold the righteous for silver, and the poor for a pair of shoes",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "They profane the sabbath day and labor on holy feast days",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They withhold the holy tithes and neglect the house of the LORD",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Amos 2:6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "am_006",
+      "type": "single_choice",
+      "text": "According to Amos 2:12, how did Israel treat the Nazarites and the prophets?",
+      "options": [
+        {
+          "text": "They drove them into exile and suffered them not to return into the land",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They honored them as messengers of God and hearkened to all their words",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They gave the Nazarites wine to drink, and commanded the prophets: Prophesy not",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "They disregarded them and gave no heed to their preaching and prophecy",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Amos 2:12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "am_007",
+      "type": "single_choice",
+      "text": "According to Amos 3:2, what consequence follows Israel being known of God?",
+      "options": [
+        {
+          "text": "God will make them rich and prosper all their works",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "God will spare them always and pardon all their guilt",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "God will grant them peace from all their fierce enemies",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "God will punish them for all their iniquities",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Amos 3:2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "am_008",
+      "type": "single_choice",
+      "text": "Why can Amos not keep silent according to Amos 3:8?",
+      "options": [
+        {
+          "text": "The Lord GOD hath spoken, who can but prophesy?",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The people desire it of him and grant him no rest",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The king commandeth him and directeth all his speech",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He desireth to make himself a great name in the land",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Amos 3:8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "am_009",
+      "type": "single_choice",
+      "text": "What judgment upon the buildings does Amos 3:14-15 proclaim?",
+      "options": [
+        {
+          "text": "The walls of Samaria shall be strengthened, and the palaces shall stand",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The altars of Beth-el shall be cut off, and the houses of ivory shall perish",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A new sanctuary shall be built, and the throne of the kingdom established",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The heathen nations shall make peace, and warfare shall cease from the land",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Amos 3:14-15",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "am_010",
+      "type": "single_choice",
+      "text": "How does Amos 4:1 describe the oppressive women in the mountain of Samaria?",
+      "options": [
+        {
+          "text": "Proud daughters of Zion, walking with wanton eyes and costly ornaments",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Well-fed sheep in the fold, trusting in their riches and doing no good",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Kine of Bashan, which oppress the poor, which crush the needy, saying: Bring!",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Pampered noblewomen of the palace, taking no thought for the afflicted",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Amos 4:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "am_011",
+      "type": "single_choice",
+      "text": "Which refrain is repeated as an indictment in Amos 4:6-11?",
+      "options": [
+        {
+          "text": "Be strong and of good courage, saith the LORD your God",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Yet will I bless you and keep you, saith the LORD unto you",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Fear not, neither be dismayed, saith the LORD your God",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Yet have ye not returned unto me, saith the LORD",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Amos 4:6-11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "am_012",
+      "type": "single_choice",
+      "text": "What call is given to Israel in Amos 4:12?",
+      "options": [
+        {
+          "text": "Prepare to meet thy God, O Israel",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Flee, O Israel, for the day of wrath is come",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Turn again, O Israel, and seek the LORD thy God",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Offer sacrifices, O Israel, for thy Maker is holy",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Amos 4:12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "am_013",
+      "type": "single_choice",
+      "text": "What does the LORD say unto the house of Israel in Amos 5:4?",
+      "options": [
+        {
+          "text": "Sacrifice unto me, and ye shall live",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Seek ye me, and ye shall live",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Fear my name, and ye shall live",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Hearken unto me, and ye shall live",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Amos 5:4-5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "am_014",
+      "type": "single_choice",
+      "text": "What will the day of the LORD be to those who desire it (Amos 5:18)?",
+      "options": [
+        {
+          "text": "Joy and not sorrow unto the soul",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Light and not darkness to the people",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Darkness, and not light",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Peace and not sudden destruction",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Amos 5:18-20",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "am_015",
+      "type": "single_choice",
+      "text": "What does Amos 5:24 urge to flow forth?",
+      "options": [
+        {
+          "text": "Faithfulness as a great rock, and peace like a flowing river",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Sacrifice like sweet incense, and thanksgiving like a stream",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Praise like the sound of waters, and grace like a holy hill",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Judgment like waters, and righteousness as a mighty stream",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Amos 5:24",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "am_016",
+      "type": "single_choice",
+      "text": "Upon whom does Amos 6:1 pronounce a woe?",
+      "options": [
+        {
+          "text": "To them that are at ease in Zion, and trust in the mountain of Samaria",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Upon the false priests in Beth-el, who seek only their own advantage",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Upon the herdmen of Tekoa, who have left their sheep without pasture",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Upon the unjust traders at the gate, who use deceitful measures",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Amos 6:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "am_017",
+      "type": "single_choice",
+      "text": "How does Amos 6:4 describe the luxurious living of the wanton?",
+      "options": [
+        {
+          "text": "They build palaces of cedar wood and deck their courts with fine silver",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They lie upon beds of ivory, and eat calves out of the midst of the stall",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "They clothe themselves in scarlet silk and boast of precious treasures",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They drink rich wine continually and make merry in all the open streets",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Amos 6:4-6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "am_018",
+      "type": "single_choice",
+      "text": "What fate is proclaimed in Amos 6:7 for those who stretch themselves upon couches?",
+      "options": [
+        {
+          "text": "They shall pay tribute and serve the king of Assyria for evermore",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They shall abide in their houses and keep their great riches in peace",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They shall go captive with the first that go captive into exile",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "They shall become bondmen and possess no inheritance in the land",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Amos 6:7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "am_019",
+      "type": "single_choice",
+      "text": "How did Amos intercede for the people in Amos 7:2?",
+      "options": [
+        {
+          "text": "O Lord GOD, send forth a deliverer, that Jacob may be saved!",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "O Lord GOD, smite the adversaries that oppress Jacob so sorely!",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "O Lord GOD, take my life instead, that thy chosen people may live!",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "O Lord GOD, forgive, I beseech thee: by whom shall Jacob arise?",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Amos 7:2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "am_020",
+      "type": "single_choice",
+      "text": "What did the Lord hold in his hand in Amos 7:7?",
+      "options": [
+        {
+          "text": "A plumbline, by which the wall was made",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A drawn sword, wherewith he smote the enemy",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A pair of balances, wherewith he weighed sins",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A shepherd staff, wherewith he numbered sheep",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Amos 7:7-8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "am_021",
+      "type": "single_choice",
+      "text": "What did Amos answer unto Amaziah the priest (Amos 7:14)?",
+      "options": [
+        {
+          "text": "I am a priest of the LORD, serving in the sanctuary at Beth-el from youth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I was no prophet, neither a prophet's son; but a gatherer of sycomore fruit",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "I am a royal scribe of the king, speaking only by his decree to the nation",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I am a holy prophet from Judah, come up of my own accord unto Beth-el",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Amos 7:14-15",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "am_022",
+      "type": "single_choice",
+      "text": "What did the basket of summer fruit signify in Amos 8:2?",
+      "options": [
+        {
+          "text": "A joyful harvest season was about to begin for all Israel",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The acceptable day of repentance had come for the nation",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The end is come upon my people of Israel",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The wrath of the LORD should tarry yet for many years",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Amos 8:1-2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "am_023",
+      "type": "single_choice",
+      "text": "What dishonest practice is condemned in Amos 8:5?",
+      "options": [
+        {
+          "text": "Taking usury and withholding silver from the fatherless and poor",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Stealing the cattle of neighbours and selling them upon the market",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Withholding the holy tithes and robbing the ministers of the temple",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Making the ephah small, and the shekel great, and falsifying balances",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Amos 8:5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "am_024",
+      "type": "single_choice",
+      "text": "What famine is foretold in Amos 8:11?",
+      "options": [
+        {
+          "text": "Not a famine of bread, but of hearing the words of the LORD",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A grievous famine of bread and grain that consumeth the whole land",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A sore thirst for pure water that causeth man and beast to perish",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A great drought upon the earth that drieth up all fountains of waters",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Amos 8:11-12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "am_025",
+      "type": "single_choice",
+      "text": "What does Amos 9:2 declare concerning the inescapable judgment of God?",
+      "options": [
+        {
+          "text": "Whosoever fleeth to the sanctuary shall be preserved from destruction",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Though they dig into hell, thence shall mine hand take them",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Whosoever hideth in the mountains shall be safe from all punishment",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Only those remaining in Samaria shall be overtaken by the destroyer",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Amos 9:2-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "am_026",
+      "type": "single_choice",
+      "text": "What does the LORD promise to raise up in Amos 9:11?",
+      "options": [
+        {
+          "text": "To build again a glorious temple of hewn stones in Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To divide the promised land anew among the twelve tribes of Israel",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To raise up the tabernacle of David that is fallen, and build it",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "To make an everlasting covenant of peace with his chosen people",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Amos 9:11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "am_027",
+      "type": "single_choice",
+      "text": "With what promise does Amos 9:14 conclude?",
+      "options": [
+        {
+          "text": "The destruction of the sanctuary and the carrying away of Israel into exile",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The judgment upon all surrounding nations that had afflicted God's heritage",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A solemn call to repentance and mourning addressed to the house of Israel",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To bring again the captivity of Israel, that they shall build the waste cities",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Amos 9:14-15",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    }
+  ]
+}

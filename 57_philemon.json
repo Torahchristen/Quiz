@@ -24,150 +24,170 @@
     {
       "questionId": "phlm_001",
       "type": "single_choice",
-      "text": "An wen richtet Paulus diesen persönlichen Brief in erster Linie neben der Gemeinde in dessen Hause?",
+      "text": "An wen richtet sich dieser Brief des Paulus in Philemon 1:1?",
       "options": [
         {
-          "text": "An Archippus, den Mitstreiter im Dienst",
-          "explanation": "Das trifft nicht zu. Richtig ist: An Philemon, den geliebten Mitarbeiter [ref:Philemon 1:1]."
+          "text": "An Archippus, den Mitstreiter im Dienste",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "An Philemon, den geliebten Mitarbeiter",
-          "explanation": "Paulus, ein Gefangener Christi Jesu, an Philemon, den Geliebten und unseren Mitarbeiter [ref:Philemon 1:1]."
+          "text": "An Philemon, unseren geliebten Mitarbeiter",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "An Epaphras, den Gefährten im Gefängnis",
-          "explanation": "Das trifft nicht zu. Richtig ist: An Philemon, den geliebten Mitarbeiter [ref:Philemon 1:1]."
+          "text": "An Epaphras, den Mitgefangenen in Christus",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "An Tychikus, den geliebten Bruder",
-          "explanation": "Das trifft nicht zu. Richtig ist: An Philemon, den geliebten Mitarbeiter [ref:Philemon 1:1]."
+          "text": "An Tychikus, den lieben Bruder und Diener",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Philemon 1:1",
-      "explanation": "Paulus, ein Gefangener Christi Jesu, an Philemon, den Geliebten und unseren Mitarbeiter [ref:Philemon 1:1].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "phlm_002",
       "type": "single_choice",
-      "text": "In welchem Verhältnis stand Onesimus ursprünglich zu Philemon, ehe er zu Paulus floh?",
+      "text": "In welchem Verhältnis stand Onesimus zu Philemon, ehe er zu Paulus kam (Philemon 1:11-16)?",
       "options": [
         {
-          "text": "Er war ein treuer Verwalter der Güter",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er war ein entlaufener Sklave Philemons [ref:Philemon 1:11-16]."
+          "text": "Er war ein treuer Verwalter über dessen irdische Güter",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Er war ein leiblicher Verwandter",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er war ein entlaufener Sklave Philemons [ref:Philemon 1:11-16]."
+          "text": "Er war ein leiblicher Verwandter aus der Stadt Kolossä",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Er war ein entlaufener Sklave Philemons",
-          "explanation": "Onesimus war dir einst unnütz, jetzt aber ist er dir und mir nützlich; ich sende ihn zurück [ref:Philemon 1:11-16]."
+          "text": "Er war Philemons Knecht, der ihm einst unnütz gewesen war",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Er war ein fremder Händler",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er war ein entlaufener Sklave Philemons [ref:Philemon 1:11-16]."
+          "text": "Er war ein fremder Kaufmann, der mit ihm Handel trieb",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Philemon 1:11-16",
-      "explanation": "Onesimus war dir einst unnütz, jetzt aber ist er dir und mir nützlich; ich sende ihn zurück [ref:Philemon 1:11-16].",
-      "explanationReviewed": false,
+      "explanation": "Der Name Onesimus bedeutet «nützlich» oder «ersprießlich». Paulus spielt in Philemon 1:11 darauf an: Einst war er unnütz, nun aber nützlich im Herrn.",
+      "explanationReviewed": true,
       "difficulty": "medium"
     },
     {
       "questionId": "phlm_003",
       "type": "single_choice",
-      "text": "Als was bezeichnet Paulus den Onesimus, nachdem dieser im Gefängnis zum Glauben an Christus kam?",
+      "text": "Als was bezeichnet Paulus den Onesimus in Philemon 1:10?",
       "options": [
         {
-          "text": "Als seinen Gefährten im Dienst, den er auf Reisen mitnahm",
-          "explanation": "Das trifft nicht zu. Richtig ist: Als sein Kind, das er in den Fesseln gezeugt hat [ref:Philemon 1:10]."
+          "text": "Als seinen Gefährten, den er auf weite Reisen mitnahm",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Als seinen Schüler der Schriften, den er im Gefängnis unterwies",
-          "explanation": "Das trifft nicht zu. Richtig ist: Als sein Kind, das er in den Fesseln gezeugt hat [ref:Philemon 1:10]."
+          "text": "Als seinen Schüler, den er in den Schriften unterwies",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Als seinen Boten für alle Gemeinden, den er nach Asien sandte",
-          "explanation": "Das trifft nicht zu. Richtig ist: Als sein Kind, das er in den Fesseln gezeugt hat [ref:Philemon 1:10]."
+          "text": "Als seinen Boten, den er zu allen Gemeinden entsandte",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Als sein Kind, das er in den Fesseln gezeugt hat",
-          "explanation": "Ich bitte dich für mein Kind, das ich in meinen Fesseln gezeugt habe, für Onesimus [ref:Philemon 1:10]."
+          "text": "Als sein Kind, das er in der Gebundenheit gezeugt hat",
+          "explanation": "",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Philemon 1:10",
-      "explanation": "Ich bitte dich für mein Kind, das ich in meinen Fesseln gezeugt habe, für Onesimus [ref:Philemon 1:10].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "phlm_004",
       "type": "single_choice",
-      "text": "Wie soll Philemon den zurückkehrenden Onesimus nach der Bitte des Apostels Paulus aufnehmen?",
+      "text": "Wie soll Philemon den Onesimus nach Philemon 1:16 aufnehmen?",
       "options": [
         {
-          "text": "Nicht mehr als Sklaven, sondern als geliebten Bruder",
-          "explanation": "Nicht mehr als einen Sklaven, sondern mehr als einen Sklaven, als einen geliebten Bruder [ref:Philemon 1:16-17]."
+          "text": "Nicht mehr als einen Knecht, sondern als geliebten Bruder",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Nicht mehr als Sklaven, sondern als Tagelöhner",
-          "explanation": "Das trifft nicht zu. Richtig ist: Nicht mehr als Sklaven, sondern als geliebten Bruder [ref:Philemon 1:16-17]."
+          "text": "Nicht mehr als einen Knecht, sondern als fremden Knecht",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Nicht mehr als Sklaven, sondern als Aufseher",
-          "explanation": "Das trifft nicht zu. Richtig ist: Nicht mehr als Sklaven, sondern als geliebten Bruder [ref:Philemon 1:16-17]."
+          "text": "Nicht mehr als einen Knecht, sondern als bloßen Arbeiter",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Nicht mehr als Sklaven, sondern als Bittsteller",
-          "explanation": "Das trifft nicht zu. Richtig ist: Nicht mehr als Sklaven, sondern als geliebten Bruder [ref:Philemon 1:16-17]."
+          "text": "Nicht mehr als einen Knecht, sondern als Schuldner Roms",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Philemon 1:16-17",
-      "explanation": "Nicht mehr als einen Sklaven, sondern mehr als einen Sklaven, als einen geliebten Bruder [ref:Philemon 1:16-17].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "phlm_005",
       "type": "single_choice",
-      "text": "Was bietet Paulus an Philemon an, falls Onesimus ihm Unrecht getan hat oder etwas schuldig ist?",
+      "text": "Was bietet Paulus an, falls Onesimus dem Philemon Schaden zugefügt hat (Philemon 1:18-19)?",
       "options": [
         {
-          "text": "Onesimus soll die Schuld abarbeiten, bis sie getilgt ist",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er will die Schuld auf seine eigene Rechnung nehmen und selbst bezahlen [ref:Philemon 1:18-19]."
+          "text": "Onesimus soll die ganze Schuld durch lange Arbeit abtragen",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Er will die Schuld auf seine eigene Rechnung nehmen und selbst bezahlen",
-          "explanation": "Wenn er dir aber Schaden getan hat oder etwas schuldet, so rechne es mir an. Ich, Paulus, schreibe es mit eigener Hand: Ich will es bezahlen [ref:Philemon 1:18-19]."
+          "text": "Er soll es Paulus anrechnen, und Paulus will es bezahlen",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Die Gemeinde soll die Schuld bezahlen, wenn Philemon es fordert",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er will die Schuld auf seine eigene Rechnung nehmen und selbst bezahlen [ref:Philemon 1:18-19]."
+          "text": "Die Versammlung soll die Schuld aus der Kasse erstatten",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Philemon soll die Schuld erlassen, ohne dass jemand haftet",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er will die Schuld auf seine eigene Rechnung nehmen und selbst bezahlen [ref:Philemon 1:18-19]."
+          "text": "Philemon soll auf alles verzichten, ohne jede Bezahlung",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Philemon 1:18-19",
-      "explanation": "Wenn er dir aber Schaden getan hat oder etwas schuldet, so rechne es mir an. Ich, Paulus, schreibe es mit eigener Hand: Ich will es bezahlen [ref:Philemon 1:18-19].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     }

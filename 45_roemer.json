@@ -26,30 +26,30 @@
     {
       "questionId": "roem_001",
       "type": "single_choice",
-      "text": "Wie bezeichnet Sich Paulus selbst in den einleitenden Grüßen des Römerbriefs?",
+      "text": "Wie bezeichnet sich Paulus selbst in den einleitenden Grüßen des Römerbriefs?",
       "options": [
         {
           "text": "Als Hohepriester der Gemeinde in Rom, berufen zum Dienst am Altar",
-          "explanation": "Das trifft nicht zu. Richtig ist: Als Knecht Jesu Christi, berufenen Apostel, ausgesondert für das Evangelium Gottes [ref:Römer 1:1]."
+          "explanation": ""
         },
         {
-          "text": "Als Knecht Jesu Christi, berufenen Apostel, ausgesondert für das Evangelium Gottes",
-          "explanation": "Paulus stellt sich als Knecht Jesu Christi vor, berufen zum Apostel und ausgesondert, das Evangelium Gottes zu predigen [ref:Römer 1:1]."
+          "text": "Als Knecht Jesu Christi, berufener Apostel, ausgesondert zum Evangelium Gottes",
+          "explanation": ""
         },
         {
           "text": "Als Prophet für die heidnischen Könige, gesandt zu den Fürsten der Völker",
-          "explanation": "Das trifft nicht zu. Richtig ist: Als Knecht Jesu Christi, berufenen Apostel, ausgesondert für das Evangelium Gottes [ref:Römer 1:1]."
+          "explanation": ""
         },
         {
           "text": "Als Lehrer der Tora in Rom, beauftragt zur Unterweisung der Juden",
-          "explanation": "Das trifft nicht zu. Richtig ist: Als Knecht Jesu Christi, berufenen Apostel, ausgesondert für das Evangelium Gottes [ref:Römer 1:1]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Römer 1:1",
-      "explanation": "Paulus stellt sich als Knecht Jesu Christi vor, berufen zum Apostel und ausgesondert, das Evangelium Gottes zu predigen [ref:Römer 1:1].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -60,26 +60,26 @@
       "options": [
         {
           "text": "Ein neues Gesetz für alle Menschen dieser Welt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Eine Kraft Gottes, die jeden rettet, der glaubt [ref:Römer 1:16]."
+          "explanation": ""
         },
         {
           "text": "Eine Lehre der griechischen Philosophen und Weisen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Eine Kraft Gottes, die jeden rettet, der glaubt [ref:Römer 1:16]."
+          "explanation": ""
         },
         {
           "text": "Eine Kraft Gottes, die jeden rettet, der glaubt",
-          "explanation": "Ich schäme mich des Evangeliums nicht; es ist eine Kraft Gottes zur Rettung für jeden, der glaubt, zuerst den Juden, dann den Griechen [ref:Römer 1:16]."
+          "explanation": ""
         },
         {
           "text": "Ein Buch über die Geschichte des Volkes Israel",
-          "explanation": "Das trifft nicht zu. Richtig ist: Eine Kraft Gottes, die jeden rettet, der glaubt [ref:Römer 1:16]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Römer 1:16",
-      "explanation": "Ich schäme mich des Evangeliums nicht; es ist eine Kraft Gottes zur Rettung für jeden, der glaubt, zuerst den Juden, dann den Griechen [ref:Römer 1:16].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -90,26 +90,26 @@
       "options": [
         {
           "text": "Durch die Gesetze der Kaiser, die man an der Ordnung des Reiches erkennt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Durch die Schöpfung, die man an Gottes Werken wahrnimmt [ref:Römer 1:19-20]."
+          "explanation": ""
         },
         {
           "text": "Durch Träume in der Nacht, die jedem Menschen von Gott gegeben werden",
-          "explanation": "Das trifft nicht zu. Richtig ist: Durch die Schöpfung, die man an Gottes Werken wahrnimmt [ref:Römer 1:19-20]."
+          "explanation": ""
         },
         {
           "text": "Durch Inschriften auf Steinen, die man in den Tempeln der Völker findet",
-          "explanation": "Das trifft nicht zu. Richtig ist: Durch die Schöpfung, die man an Gottes Werken wahrnimmt [ref:Römer 1:19-20]."
+          "explanation": ""
         },
         {
           "text": "Durch die Schöpfung, die man an Gottes Werken wahrnimmt",
-          "explanation": "Gottes unsichtbares Wesen, seine ewige Kraft und Göttlichkeit, wird seit der Erschaffung der Welt an seinen Werken wahrgenommen [ref:Römer 1:19-20]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Römer 1:19-20",
-      "explanation": "Gottes unsichtbares Wesen, seine ewige Kraft und Göttlichkeit, wird seit der Erschaffung der Welt an seinen Werken wahrgenommen [ref:Römer 1:19-20].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -120,26 +120,26 @@
       "options": [
         {
           "text": "Sie wurden in ihren Gedanken zu Narren und verehrten Geschöpfe statt des Schöpfers",
-          "explanation": "Obwohl sie Gott kannten, haben sie ihn nicht als Gott gepriesen noch ihm gedankt, sondern sind in ihren Gedanken verblendet worden [ref:Römer 1:21-25]."
+          "explanation": ""
         },
         {
           "text": "Sie verbrannten die Schriften der Tora und lehnten das Gesetz Gottes offen ab",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie wurden in ihren Gedanken zu Narren und verehrten Geschöpfe statt des Schöpfers [ref:Römer 1:21-25]."
+          "explanation": ""
         },
         {
           "text": "Sie bauten keine Städte mehr und lebten in Zelten ohne feste Ordnung",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie wurden in ihren Gedanken zu Narren und verehrten Geschöpfe statt des Schöpfers [ref:Römer 1:21-25]."
+          "explanation": ""
         },
         {
           "text": "Sie flohen in die Wüste und lebten dort ohne Gottesdienst und Gesetz",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie wurden in ihren Gedanken zu Narren und verehrten Geschöpfe statt des Schöpfers [ref:Römer 1:21-25]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Römer 1:21-25",
-      "explanation": "Obwohl sie Gott kannten, haben sie ihn nicht als Gott gepriesen noch ihm gedankt, sondern sind in ihren Gedanken verblendet worden [ref:Römer 1:21-25].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -150,26 +150,26 @@
       "options": [
         {
           "text": "In die Sklaverei fremder Völker, die sie mit Gewalt unterdrückten und ausbeuteten",
-          "explanation": "Das trifft nicht zu. Richtig ist: In unreine Leidenschaften und entehrende Begierden ihrer Herzen [ref:Römer 1:24-27]."
+          "explanation": ""
         },
         {
           "text": "In unreine Leidenschaften und entehrende Begierden ihrer Herzen",
-          "explanation": "Darum hat Gott sie dahingegeben in die Gelüste ihrer Herzen, in Unreinheit [ref:Römer 1:24-27]."
+          "explanation": ""
         },
         {
           "text": "In völlige Armut und Hunger, die sie an den Rand der Gesellschaft brachten",
-          "explanation": "Das trifft nicht zu. Richtig ist: In unreine Leidenschaften und entehrende Begierden ihrer Herzen [ref:Römer 1:24-27]."
+          "explanation": ""
         },
         {
           "text": "In den Kerker römischer Richter, die sie als Verbrecher verurteilten",
-          "explanation": "Das trifft nicht zu. Richtig ist: In unreine Leidenschaften und entehrende Begierden ihrer Herzen [ref:Römer 1:24-27]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Römer 1:24-27",
-      "explanation": "Darum hat Gott sie dahingegeben in die Gelüste ihrer Herzen, in Unreinheit [ref:Römer 1:24-27].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -180,26 +180,26 @@
       "options": [
         {
           "text": "Er wird von Gott sofort belohnt, weil er das Böse beim Namen nennt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er verurteilt sich selbst, denn er tut dasselbe [ref:Römer 2:1]."
+          "explanation": ""
         },
         {
           "text": "Er zeigt seine große Weisheit, denn er erkennt das Unrecht der anderen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er verurteilt sich selbst, denn er tut dasselbe [ref:Römer 2:1]."
+          "explanation": ""
         },
         {
           "text": "Er verurteilt sich selbst, denn er tut dasselbe",
-          "explanation": "Darum bist du unentschuldbar, o Mensch, wer du auch bist, der du richtest; denn worin du den andern richtest, verdammst du dich selbst [ref:Römer 2:1]."
+          "explanation": ""
         },
         {
           "text": "Er erfüllt das Gesetz vollkommen, denn er urteilt gerecht über alle",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er verurteilt sich selbst, denn er tut dasselbe [ref:Römer 2:1]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Römer 2:1",
-      "explanation": "Darum bist du unentschuldbar, o Mensch, wer du auch bist, der du richtest; denn worin du den andern richtest, verdammst du dich selbst [ref:Römer 2:1].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -209,27 +209,27 @@
       "text": "Wozu soll der Reichtum der Güte, Geduld und Langmut Gottes den Menschen leiten?",
       "options": [
         {
-          "text": "Zum Genuss irdischen Reichtums",
-          "explanation": "Das trifft nicht zu. Richtig ist: Zur Buße [ref:Römer 2:4]."
+          "text": "Zum irdischen Reichtum",
+          "explanation": ""
         },
         {
-          "text": "Zum Stolz auf das eigene Volk",
-          "explanation": "Das trifft nicht zu. Richtig ist: Zur Buße [ref:Römer 2:4]."
+          "text": "Zur Selbstgerechtigkeit",
+          "explanation": ""
         },
         {
-          "text": "Zum Bau neuer Tempel",
-          "explanation": "Das trifft nicht zu. Richtig ist: Zur Buße [ref:Römer 2:4]."
+          "text": "Zum Hochmut des Herzens",
+          "explanation": ""
         },
         {
-          "text": "Zur Buße",
-          "explanation": "Weißt du nicht, dass dich Gottes Güte zur Buße leitet? [ref:Römer 2:4]."
+          "text": "Zur Umkehr und zur Buße",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Römer 2:4",
-      "explanation": "Weißt du nicht, dass dich Gottes Güte zur Buße leitet? [ref:Römer 2:4].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -239,27 +239,27 @@
       "text": "Woran bemisst Gott das gerechte Urteil über jeden Menschen im Weltgericht?",
       "options": [
         {
-          "text": "Nach seinen Werken",
-          "explanation": "Gott wird jedem vergelten nach seinen Werken [ref:Römer 2:6]."
+          "text": "Nach seinen vollbrachten Werken",
+          "explanation": ""
         },
         {
           "text": "Nach dem Reichtum seiner Geschenke",
-          "explanation": "Das trifft nicht zu. Richtig ist: Nach seinen Werken [ref:Römer 2:6]."
+          "explanation": ""
         },
         {
           "text": "Nach der Herkunft seiner Vorfahren",
-          "explanation": "Das trifft nicht zu. Richtig ist: Nach seinen Werken [ref:Römer 2:6]."
+          "explanation": ""
         },
         {
           "text": "Nach seinem Wissen über das Gesetz",
-          "explanation": "Das trifft nicht zu. Richtig ist: Nach seinen Werken [ref:Römer 2:6]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Römer 2:6",
-      "explanation": "Gott wird jedem vergelten nach seinen Werken [ref:Römer 2:6].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -270,26 +270,26 @@
       "options": [
         {
           "text": "Er bevorzugt die Weisen unter den Griechen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Bei Gott gibt es kein Ansehen der Person [ref:Römer 2:11]."
+          "explanation": ""
         },
         {
           "text": "Bei Gott gibt es kein Ansehen der Person",
-          "explanation": "Denn vor Gott gilt kein Ansehen der Person [ref:Römer 2:11]."
+          "explanation": ""
         },
         {
           "text": "Er richtet nur die Heiden",
-          "explanation": "Das trifft nicht zu. Richtig ist: Bei Gott gibt es kein Ansehen der Person [ref:Römer 2:11]."
+          "explanation": ""
         },
         {
           "text": "Er schenkt den Reichen mehr Gnade",
-          "explanation": "Das trifft nicht zu. Richtig ist: Bei Gott gibt es kein Ansehen der Person [ref:Römer 2:11]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Römer 2:11",
-      "explanation": "Denn vor Gott gilt kein Ansehen der Person [ref:Römer 2:11].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -300,26 +300,26 @@
       "options": [
         {
           "text": "Wer den Tempel in Jerusalem baut und dort den Dienst der Priester unterstützt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Wer es im Verborgenen ist; die Beschneidung des Herzens im Geist [ref:Römer 2:28-29]."
+          "explanation": ""
         },
         {
           "text": "Wer den Stammbaum Abrahams besitzt und die Beschneidung am Fleisch trägt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Wer es im Verborgenen ist; die Beschneidung des Herzens im Geist [ref:Römer 2:28-29]."
+          "explanation": ""
         },
         {
-          "text": "Wer es im Verborgenen ist; die Beschneidung des Herzens im Geist",
-          "explanation": "Nicht der ist ein Jude, der es äußerlich ist, sondern der ist ein Jude, der es innerlich ist [ref:Römer 2:28-29]."
+          "text": "Wer es innerlich ist; die Beschneidung am Herzen, im Geist",
+          "explanation": ""
         },
         {
           "text": "Wer alle Feste des Jahres hält und die Speisegebote genau beachtet",
-          "explanation": "Das trifft nicht zu. Richtig ist: Wer es im Verborgenen ist; die Beschneidung des Herzens im Geist [ref:Römer 2:28-29]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Römer 2:28-29",
-      "explanation": "Nicht der ist ein Jude, der es äußerlich ist, sondern der ist ein Jude, der es innerlich ist [ref:Römer 2:28-29].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -330,26 +330,26 @@
       "options": [
         {
           "text": "Sie besitzen mehr Gold als andere Völker",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ihnen sind die Aussprüche Gottes anvertraut [ref:Römer 3:1-2]."
+          "explanation": ""
         },
         {
           "text": "Sie sind frei von jeder Sünde",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ihnen sind die Aussprüche Gottes anvertraut [ref:Römer 3:1-2]."
+          "explanation": ""
         },
         {
           "text": "Sie dürfen über alle Völker herrschen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ihnen sind die Aussprüche Gottes anvertraut [ref:Römer 3:1-2]."
+          "explanation": ""
         },
         {
           "text": "Ihnen sind die Aussprüche Gottes anvertraut",
-          "explanation": "Ein großer Vorzug der Juden ist, dass ihnen die Worte Gottes anvertraut worden sind [ref:Römer 3:1-2]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Römer 3:1-2",
-      "explanation": "Ein großer Vorzug der Juden ist, dass ihnen die Worte Gottes anvertraut worden sind [ref:Römer 3:1-2].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -360,26 +360,26 @@
       "options": [
         {
           "text": "Durch das Gesetz kommt die Erkenntnis der Sünde",
-          "explanation": "Durch Werke des Gesetzes wird kein Fleisch vor ihm gerechtfertigt; denn durch das Gesetz kommt Erkenntnis der Sünde [ref:Römer 3:20]."
+          "explanation": ""
         },
         {
           "text": "Es macht den Menschen sündlos, wenn er es genau befolgt und liebt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Durch das Gesetz kommt die Erkenntnis der Sünde [ref:Römer 3:20]."
+          "explanation": ""
         },
         {
           "text": "Es befreit von allen Leiden dieser Welt, die aus der Sünde kommen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Durch das Gesetz kommt die Erkenntnis der Sünde [ref:Römer 3:20]."
+          "explanation": ""
         },
         {
           "text": "Es schenkt ewigen Reichtum denen, die seine Gebote halten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Durch das Gesetz kommt die Erkenntnis der Sünde [ref:Römer 3:20]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Römer 3:20",
-      "explanation": "Durch Werke des Gesetzes wird kein Fleisch vor ihm gerechtfertigt; denn durch das Gesetz kommt Erkenntnis der Sünde [ref:Römer 3:20].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -390,26 +390,26 @@
       "options": [
         {
           "text": "Einige Menschen sind völlig ohne Sünde, weil sie das Gesetz halten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Alle haben gesündigt und ermangeln der Herrlichkeit Gottes [ref:Römer 3:23]."
+          "explanation": ""
         },
         {
           "text": "Alle haben gesündigt und ermangeln der Herrlichkeit Gottes",
-          "explanation": "Denn es ist kein Unterschied; alle haben gesündigt und mangeln des Ruhmes, den sie vor Gott haben sollten [ref:Römer 3:23]."
+          "explanation": ""
         },
         {
           "text": "Nur die Heiden sind von der Sünde betroffen, nicht aber die Juden",
-          "explanation": "Das trifft nicht zu. Richtig ist: Alle haben gesündigt und ermangeln der Herrlichkeit Gottes [ref:Römer 3:23]."
+          "explanation": ""
         },
         {
           "text": "Die Weisen stehen über der Sündenschuld, weil sie das Gute erkennen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Alle haben gesündigt und ermangeln der Herrlichkeit Gottes [ref:Römer 3:23]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Römer 3:23",
-      "explanation": "Denn es ist kein Unterschied; alle haben gesündigt und mangeln des Ruhmes, den sie vor Gott haben sollten [ref:Römer 3:23].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -420,26 +420,26 @@
       "options": [
         {
           "text": "Durch gute Werke und Spenden, die er für die Armen gibt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Umsonst, durch seine Gnade, durch die Erlösung in Christus Jesus [ref:Römer 3:24]."
+          "explanation": ""
         },
         {
           "text": "Durch genaue Befolgung der Satzungen, die das Gesetz fordert",
-          "explanation": "Das trifft nicht zu. Richtig ist: Umsonst, durch seine Gnade, durch die Erlösung in Christus Jesus [ref:Römer 3:24]."
+          "explanation": ""
         },
         {
-          "text": "Umsonst, durch seine Gnade, durch die Erlösung in Christus Jesus",
-          "explanation": "Sie werden ohne Verdienst gerechtfertigt durch seine Gnade, durch die Erlösung, die in Christus Jesus ist [ref:Römer 3:24]."
+          "text": "Geschenkterweise, durch seine Gnade, mittels der Erlösung in Christus Jesus",
+          "explanation": ""
         },
         {
           "text": "Durch die Zugehörigkeit zum Volk Israel, das den Bund bewahrt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Umsonst, durch seine Gnade, durch die Erlösung in Christus Jesus [ref:Römer 3:24]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Römer 3:24",
-      "explanation": "Sie werden ohne Verdienst gerechtfertigt durch seine Gnade, durch die Erlösung, die in Christus Jesus ist [ref:Römer 3:24].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -449,27 +449,27 @@
       "text": "Welches Prinzip schließt jeglichen menschlichen Eigenruhm vor Gott aus?",
       "options": [
         {
-          "text": "Das Gesetz der Beschneidung",
-          "explanation": "Das trifft nicht zu. Richtig ist: Das Gesetz des Glaubens [ref:Römer 3:27-28]."
+          "text": "Das Gesetz der Werke",
+          "explanation": ""
         },
         {
-          "text": "Die Weisheit der griechischen Redner",
-          "explanation": "Das trifft nicht zu. Richtig ist: Das Gesetz des Glaubens [ref:Römer 3:27-28]."
+          "text": "Menschliche Weisheit",
+          "explanation": ""
         },
         {
           "text": "Der Wohlstand Roms",
-          "explanation": "Das trifft nicht zu. Richtig ist: Das Gesetz des Glaubens [ref:Römer 3:27-28]."
+          "explanation": ""
         },
         {
           "text": "Das Gesetz des Glaubens",
-          "explanation": "Wo bleibt nun das Rühmen? Es ist ausgeschlossen durch das Gesetz des Glaubens [ref:Römer 3:27-28]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Römer 3:27-28",
-      "explanation": "Wo bleibt nun das Rühmen? Es ist ausgeschlossen durch das Gesetz des Glaubens [ref:Römer 3:27-28].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -480,26 +480,26 @@
       "options": [
         {
           "text": "Abraham glaubte Gott, und das wurde ihm zur Gerechtigkeit gerechnet",
-          "explanation": "Was sagt die Schrift? Abraham glaubte Gott, und das wurde ihm zur Gerechtigkeit gerechnet [ref:Römer 4:3]."
+          "explanation": ""
         },
         {
           "text": "Er brachte seltene Opfer dar, die Gott gefielen und seine Sünde sühnten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Abraham glaubte Gott, und das wurde ihm zur Gerechtigkeit gerechnet [ref:Römer 4:3]."
+          "explanation": ""
         },
         {
           "text": "Er verließ sein Land ohne Furcht und ohne zu zögern, als Gott es forderte",
-          "explanation": "Das trifft nicht zu. Richtig ist: Abraham glaubte Gott, und das wurde ihm zur Gerechtigkeit gerechnet [ref:Römer 4:3]."
+          "explanation": ""
         },
         {
           "text": "Er hielt das Gesetz in allen Teilen, noch bevor es Mose gegeben wurde",
-          "explanation": "Das trifft nicht zu. Richtig ist: Abraham glaubte Gott, und das wurde ihm zur Gerechtigkeit gerechnet [ref:Römer 4:3]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Römer 4:3",
-      "explanation": "Was sagt die Schrift? Abraham glaubte Gott, und das wurde ihm zur Gerechtigkeit gerechnet [ref:Römer 4:3].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -510,26 +510,26 @@
       "options": [
         {
           "text": "Nach seiner Beschneidung, die das Zeichen des Bundes war",
-          "explanation": "Das trifft nicht zu. Richtig ist: Als Unbeschnittener, noch vor der Beschneidung [ref:Römer 4:9-10]."
+          "explanation": ""
         },
         {
           "text": "Als Unbeschnittener, noch vor der Beschneidung",
-          "explanation": "Der Glaube wurde Abraham zur Gerechtigkeit gerechnet, bevor er beschnitten war [ref:Römer 4:9-10]."
+          "explanation": ""
         },
         {
           "text": "Nach dem Bau des ersten Altars, den er für den Herrn errichtete",
-          "explanation": "Das trifft nicht zu. Richtig ist: Als Unbeschnittener, noch vor der Beschneidung [ref:Römer 4:9-10]."
+          "explanation": ""
         },
         {
           "text": "Erst im hohen Alter in Hebron, als Isaak geboren wurde",
-          "explanation": "Das trifft nicht zu. Richtig ist: Als Unbeschnittener, noch vor der Beschneidung [ref:Römer 4:9-10]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Römer 4:9-10",
-      "explanation": "Der Glaube wurde Abraham zur Gerechtigkeit gerechnet, bevor er beschnitten war [ref:Römer 4:9-10].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -540,26 +540,26 @@
       "options": [
         {
           "text": "König aller Heidenvölker",
-          "explanation": "Das trifft nicht zu. Richtig ist: Vater aller Glaubenden [ref:Römer 4:11-12]."
+          "explanation": ""
         },
         {
           "text": "Richter über Ägypten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Vater aller Glaubenden [ref:Römer 4:11-12]."
+          "explanation": ""
         },
         {
           "text": "Vater aller Glaubenden",
-          "explanation": "Abraham ist der Vater aller, die glauben, ohne beschnitten zu sein, und auch der Vater der Beschneidung für die, die dem Glauben nachfolgen [ref:Römer 4:11-12]."
+          "explanation": ""
         },
         {
           "text": "Priester im Tempel Gottes",
-          "explanation": "Das trifft nicht zu. Richtig ist: Vater aller Glaubenden [ref:Römer 4:11-12]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Römer 4:11-12",
-      "explanation": "Abraham ist der Vater aller, die glauben, ohne beschnitten zu sein, und auch der Vater der Beschneidung für die, die dem Glauben nachfolgen [ref:Römer 4:11-12].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -570,26 +570,26 @@
       "options": [
         {
           "text": "Das Gesetz bringt ewiges Leben",
-          "explanation": "Das trifft nicht zu. Richtig ist: Das Gesetz bewirkt Zorn [ref:Römer 4:15]."
+          "explanation": ""
         },
         {
           "text": "Das Gesetz schenkt Freude",
-          "explanation": "Das trifft nicht zu. Richtig ist: Das Gesetz bewirkt Zorn [ref:Römer 4:15]."
+          "explanation": ""
         },
         {
           "text": "Das Gesetz hebt die Verheißung auf",
-          "explanation": "Das trifft nicht zu. Richtig ist: Das Gesetz bewirkt Zorn [ref:Römer 4:15]."
+          "explanation": ""
         },
         {
           "text": "Das Gesetz bewirkt Zorn",
-          "explanation": "Das Gesetz bewirkt Zorn; wo aber kein Gesetz ist, da ist auch keine Übertretung [ref:Römer 4:15]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Römer 4:15",
-      "explanation": "Das Gesetz bewirkt Zorn; wo aber kein Gesetz ist, da ist auch keine Übertretung [ref:Römer 4:15].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -600,26 +600,26 @@
       "options": [
         {
           "text": "Auf Gott, der die Toten lebendig macht und das Nichtseiende ruft, dass es sei",
-          "explanation": "Abraham zweifelte nicht an der Verheißung Gottes durch Unglauben, sondern wurde stark im Glauben [ref:Römer 4:17-21]."
+          "explanation": ""
         },
         {
           "text": "Auf seine eigene Kraft, die ihn auch im Alter nicht verlassen hatte",
-          "explanation": "Das trifft nicht zu. Richtig ist: Auf Gott, der die Toten lebendig macht und das Nichtseiende ruft, dass es sei [ref:Römer 4:17-21]."
+          "explanation": ""
         },
         {
           "text": "Auf die Hilfe der Ärzte, die Sara in Ägypten behandeln würden",
-          "explanation": "Das trifft nicht zu. Richtig ist: Auf Gott, der die Toten lebendig macht und das Nichtseiende ruft, dass es sei [ref:Römer 4:17-21]."
+          "explanation": ""
         },
         {
           "text": "Auf den Schutz der heidnischen Könige, die ihm Land und Frieden zusicherten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Auf Gott, der die Toten lebendig macht und das Nichtseiende ruft, dass es sei [ref:Römer 4:17-21]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Römer 4:17-21",
-      "explanation": "Abraham zweifelte nicht an der Verheißung Gottes durch Unglauben, sondern wurde stark im Glauben [ref:Römer 4:17-21].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -630,26 +630,26 @@
       "options": [
         {
           "text": "Schutz vor allen Nöten des Leibes und vor Krankheit und Leid",
-          "explanation": "Das trifft nicht zu. Richtig ist: Frieden mit Gott durch unsern Herrn Jesus Christus [ref:Römer 5:1]."
+          "explanation": ""
         },
         {
           "text": "Frieden mit Gott durch unsern Herrn Jesus Christus",
-          "explanation": "Da wir nun gerechtfertigt sind aus Glauben, haben wir Frieden mit Gott durch unsern Herrn Jesus Christus [ref:Römer 5:1]."
+          "explanation": ""
         },
         {
           "text": "Reichtum an Gold und Gütern in diesem Leben und im künftigen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Frieden mit Gott durch unsern Herrn Jesus Christus [ref:Römer 5:1]."
+          "explanation": ""
         },
         {
           "text": "Freiheit von den Gesetzen Roms und von den Steuern des Kaisers",
-          "explanation": "Das trifft nicht zu. Richtig ist: Frieden mit Gott durch unsern Herrn Jesus Christus [ref:Römer 5:1]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Römer 5:1",
-      "explanation": "Da wir nun gerechtfertigt sind aus Glauben, haben wir Frieden mit Gott durch unsern Herrn Jesus Christus [ref:Römer 5:1].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -660,26 +660,26 @@
       "options": [
         {
           "text": "Darin, dass er uns alle Leiden erspart und das Leben leicht macht",
-          "explanation": "Das trifft nicht zu. Richtig ist: Darin, dass Christus für uns starb, als wir noch Sünder waren [ref:Römer 5:6-8]."
+          "explanation": ""
         },
         {
           "text": "Darin, dass er uns zu Herrschern über die Erde macht und uns Macht gibt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Darin, dass Christus für uns starb, als wir noch Sünder waren [ref:Römer 5:6-8]."
+          "explanation": ""
         },
         {
           "text": "Darin, dass Christus für uns starb, als wir noch Sünder waren",
-          "explanation": "Gott beweist seine Liebe zu uns darin, dass Christus für uns gestorben ist, als wir noch Sünder waren [ref:Römer 5:6-8]."
+          "explanation": ""
         },
         {
           "text": "Darin, dass er das Gesetz aufhebt und die Sünde nicht mehr beachtet",
-          "explanation": "Das trifft nicht zu. Richtig ist: Darin, dass Christus für uns starb, als wir noch Sünder waren [ref:Römer 5:6-8]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Römer 5:6-8",
-      "explanation": "Gott beweist seine Liebe zu uns darin, dass Christus für uns gestorben ist, als wir noch Sünder waren [ref:Römer 5:6-8].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -690,26 +690,26 @@
       "options": [
         {
           "text": "Durch die Götzendiener Ägyptens",
-          "explanation": "Das trifft nicht zu. Richtig ist: Durch einen Menschen, Adam [ref:Römer 5:12]."
+          "explanation": ""
         },
         {
           "text": "Durch die Entweihung des Sabbats",
-          "explanation": "Das trifft nicht zu. Richtig ist: Durch einen Menschen, Adam [ref:Römer 5:12]."
+          "explanation": ""
         },
         {
           "text": "Durch den Turmbau zu Babel",
-          "explanation": "Das trifft nicht zu. Richtig ist: Durch einen Menschen, Adam [ref:Römer 5:12]."
+          "explanation": ""
         },
         {
           "text": "Durch einen Menschen, Adam",
-          "explanation": "Wie durch einen Menschen die Sünde in die Welt gekommen ist und durch die Sünde der Tod, so ist der Tod zu allen Menschen durchgedrungen [ref:Römer 5:12]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Römer 5:12",
-      "explanation": "Wie durch einen Menschen die Sünde in die Welt gekommen ist und durch die Sünde der Tod, so ist der Tod zu allen Menschen durchgedrungen [ref:Römer 5:12].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -720,26 +720,26 @@
       "options": [
         {
           "text": "Die Gnade ist viel mächtiger",
-          "explanation": "Wo die Sünde mächtig geworden ist, da ist die Gnade noch viel mächtiger geworden [ref:Römer 5:15-20]."
+          "explanation": ""
         },
         {
           "text": "Die Gnade ist schwächer als die Sünde",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Gnade ist viel mächtiger [ref:Römer 5:15-20]."
+          "explanation": ""
         },
         {
           "text": "Beide sind gleich stark",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Gnade ist viel mächtiger [ref:Römer 5:15-20]."
+          "explanation": ""
         },
         {
           "text": "Die Gnade gilt nur für Engel",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Gnade ist viel mächtiger [ref:Römer 5:15-20]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Römer 5:15-20",
-      "explanation": "Wo die Sünde mächtig geworden ist, da ist die Gnade noch viel mächtiger geworden [ref:Römer 5:15-20].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -750,26 +750,26 @@
       "options": [
         {
           "text": "Das Gesetz Moses im Tempel, das zur Gerechtigkeit führt und herrscht",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Gnade herrscht durch Gerechtigkeit zum ewigen Leben [ref:Römer 5:21]."
+          "explanation": ""
         },
         {
           "text": "Die Gnade herrscht durch Gerechtigkeit zum ewigen Leben",
-          "explanation": "Wie die Sünde herrschte im Tode, so herrscht auch die Gnade durch Gerechtigkeit zum ewigen Leben durch Jesus Christus [ref:Römer 5:21]."
+          "explanation": ""
         },
         {
           "text": "Die Weisheit der menschlichen Natur, die zum ewigen Leben führt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Gnade herrscht durch Gerechtigkeit zum ewigen Leben [ref:Römer 5:21]."
+          "explanation": ""
         },
         {
           "text": "Die Macht des römischen Kaisers, die Gerechtigkeit schafft und Leben sichert",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Gnade herrscht durch Gerechtigkeit zum ewigen Leben [ref:Römer 5:21]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Römer 5:21",
-      "explanation": "Wie die Sünde herrschte im Tode, so herrscht auch die Gnade durch Gerechtigkeit zum ewigen Leben durch Jesus Christus [ref:Römer 5:21].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -780,26 +780,26 @@
       "options": [
         {
           "text": "Ein bloßes Waschen des Körpers, das äußerlich reinigt und sauber macht",
-          "explanation": "Das trifft nicht zu. Richtig ist: Wir sind in seinen Tod getauft und mit ihm begraben [ref:Römer 6:3-4]."
+          "explanation": ""
         },
         {
           "text": "Die Aufnahme in ein weltliches Amt, das Ehre und Ansehen bringt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Wir sind in seinen Tod getauft und mit ihm begraben [ref:Römer 6:3-4]."
+          "explanation": ""
         },
         {
           "text": "Wir sind in seinen Tod getauft und mit ihm begraben",
-          "explanation": "Wir sind mit ihm begraben durch die Taufe in den Tod, damit wir in einem neuen Leben wandeln [ref:Römer 6:3-4]."
+          "explanation": ""
         },
         {
           "text": "Ein Schutz vor Leiden, der den Täufling vor Unglück bewahrt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Wir sind in seinen Tod getauft und mit ihm begraben [ref:Römer 6:3-4]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Römer 6:3-4",
-      "explanation": "Wir sind mit ihm begraben durch die Taufe in den Tod, damit wir in einem neuen Leben wandeln [ref:Römer 6:3-4].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -810,26 +810,26 @@
       "options": [
         {
           "text": "Damit wir keine irdische Arbeit mehr tun und uns ganz dem Gebet widmen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Damit der Leib der Sünde vernichtet werde und wir der Sünde nicht mehr dienen [ref:Römer 6:6]."
+          "explanation": ""
         },
         {
           "text": "Damit wir vor den Römern fliehen und der Verfolgung entkommen können",
-          "explanation": "Das trifft nicht zu. Richtig ist: Damit der Leib der Sünde vernichtet werde und wir der Sünde nicht mehr dienen [ref:Römer 6:6]."
+          "explanation": ""
         },
         {
           "text": "Damit unser Verstand schwindet und wir dem Geist blind folgen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Damit der Leib der Sünde vernichtet werde und wir der Sünde nicht mehr dienen [ref:Römer 6:6]."
+          "explanation": ""
         },
         {
           "text": "Damit der Leib der Sünde vernichtet werde und wir der Sünde nicht mehr dienen",
-          "explanation": "Unser alter Mensch ist mit ihm gekreuzigt worden, damit wir der Sünde nicht mehr dienen [ref:Römer 6:6]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Römer 6:6",
-      "explanation": "Unser alter Mensch ist mit ihm gekreuzigt worden, damit wir der Sünde nicht mehr dienen [ref:Römer 6:6].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -840,26 +840,26 @@
       "options": [
         {
           "text": "Als Waffen der Gerechtigkeit",
-          "explanation": "Stellt Gott eure Glieder zur Verfügung als Werkzeuge der Gerechtigkeit [ref:Römer 6:13]."
+          "explanation": ""
         },
         {
           "text": "Als Mittel zum Reichtum",
-          "explanation": "Das trifft nicht zu. Richtig ist: Als Waffen der Gerechtigkeit [ref:Römer 6:13]."
+          "explanation": ""
         },
         {
           "text": "Als Diener des Stolzes",
-          "explanation": "Das trifft nicht zu. Richtig ist: Als Waffen der Gerechtigkeit [ref:Römer 6:13]."
+          "explanation": ""
         },
         {
           "text": "Als Zeugen für das alte Gesetz",
-          "explanation": "Das trifft nicht zu. Richtig ist: Als Waffen der Gerechtigkeit [ref:Römer 6:13]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Römer 6:13",
-      "explanation": "Stellt Gott eure Glieder zur Verfügung als Werkzeuge der Gerechtigkeit [ref:Römer 6:13].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -870,26 +870,26 @@
       "options": [
         {
           "text": "Weil sie das Gesetz vollkommen halten und keine Gebote mehr übertreten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil sie nicht unter dem Gesetz, sondern unter der Gnade stehen [ref:Römer 6:14]."
+          "explanation": ""
         },
         {
           "text": "Weil sie nicht unter dem Gesetz, sondern unter der Gnade stehen",
-          "explanation": "Die Sünde wird nicht über euch herrschen; denn ihr seid nicht unter dem Gesetz, sondern unter der Gnade [ref:Römer 6:14]."
+          "explanation": ""
         },
         {
           "text": "Weil sie keine Fehler mehr machen und ohne Sünde leben können",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil sie nicht unter dem Gesetz, sondern unter der Gnade stehen [ref:Römer 6:14]."
+          "explanation": ""
         },
         {
           "text": "Weil der Satan vernichtet ist und keine Macht mehr über die Welt hat",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil sie nicht unter dem Gesetz, sondern unter der Gnade stehen [ref:Römer 6:14]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Römer 6:14",
-      "explanation": "Die Sünde wird nicht über euch herrschen; denn ihr seid nicht unter dem Gesetz, sondern unter der Gnade [ref:Römer 6:14].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -900,26 +900,26 @@
       "options": [
         {
           "text": "Der Sünde Sold ist Armut; die Gnadengabe Gottes ist ein langes Leben",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der Sünde Sold ist der Tod; die Gnadengabe Gottes ist das ewige Leben [ref:Römer 6:23]."
+          "explanation": ""
         },
         {
           "text": "Der Sünde Sold ist Krankheit; die Gnadengabe Gottes ist Gesundheit und Wohlstand",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der Sünde Sold ist der Tod; die Gnadengabe Gottes ist das ewige Leben [ref:Römer 6:23]."
+          "explanation": ""
         },
         {
           "text": "Der Sünde Sold ist der Tod; die Gnadengabe Gottes ist das ewige Leben",
-          "explanation": "Denn der Sünde Sold ist der Tod, die Gnadengabe Gottes aber ist das ewige Leben in Christus Jesus, unserm Herrn [ref:Römer 6:23]."
+          "explanation": ""
         },
         {
           "text": "Beides führt zum Tod; die Gnadengabe Gottes ist nur ein anderer Name dafür",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der Sünde Sold ist der Tod; die Gnadengabe Gottes ist das ewige Leben [ref:Römer 6:23]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Römer 6:23",
-      "explanation": "Denn der Sünde Sold ist der Tod, die Gnadengabe Gottes aber ist das ewige Leben in Christus Jesus, unserm Herrn [ref:Römer 6:23].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -930,26 +930,26 @@
       "options": [
         {
           "text": "Bis zum dreißigsten Lebensjahr",
-          "explanation": "Das trifft nicht zu. Richtig ist: Solange der Mensch lebt [ref:Römer 7:1]."
+          "explanation": ""
         },
         {
-          "text": "Nur im Tempel",
-          "explanation": "Das trifft nicht zu. Richtig ist: Solange der Mensch lebt [ref:Römer 7:1]."
+          "text": "Nur für sieben gezählte Jahre",
+          "explanation": ""
         },
         {
-          "text": "Für alle Ewigkeit",
-          "explanation": "Das trifft nicht zu. Richtig ist: Solange der Mensch lebt [ref:Römer 7:1]."
+          "text": "Bis zum Tage des Weltgerichts",
+          "explanation": ""
         },
         {
-          "text": "Solange der Mensch lebt",
-          "explanation": "Das Gesetz herrscht über den Menschen, solange er lebt [ref:Römer 7:1]."
+          "text": "Solange der Mensch noch lebt",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Römer 7:1",
-      "explanation": "Das Gesetz herrscht über den Menschen, solange er lebt [ref:Römer 7:1].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -960,26 +960,26 @@
       "options": [
         {
           "text": "Die Frau, die nach dem Tod ihres Mannes frei vom Gesetz der Ehe ist",
-          "explanation": "So seid auch ihr dem Gesetz getötet worden durch den Leib Christi, damit ihr einem andern angehört [ref:Römer 7:2-4]."
+          "explanation": ""
         },
         {
           "text": "Ein Sklave, der freigelassen wird und von seinem Herrn frei ist",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Frau, die nach dem Tod ihres Mannes frei vom Gesetz der Ehe ist [ref:Römer 7:2-4]."
+          "explanation": ""
         },
         {
           "text": "Ein Arbeiter, der seinen Lohn erhält und von der Arbeit entbunden wird",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Frau, die nach dem Tod ihres Mannes frei vom Gesetz der Ehe ist [ref:Römer 7:2-4]."
+          "explanation": ""
         },
         {
           "text": "Ein Acker, der abgeerntet wird und nach der Ernte brach liegt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Frau, die nach dem Tod ihres Mannes frei vom Gesetz der Ehe ist [ref:Römer 7:2-4]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Römer 7:2-4",
-      "explanation": "So seid auch ihr dem Gesetz getötet worden durch den Leib Christi, damit ihr einem andern angehört [ref:Römer 7:2-4].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -989,27 +989,27 @@
       "text": "Wodurch wurde die Begierde im menschlichen Herzen überhaupt erst als Sünde erkannt?",
       "options": [
         {
-          "text": "Durch die Erziehung der Eltern, die das Gewissen des Kindes bildete",
-          "explanation": "Das trifft nicht zu. Richtig ist: Durch das Gebot: Du sollst nicht begehren! [ref:Römer 7:7-8]."
+          "text": "Durch die Ermahnung der Eltern, die das Gewissen bildete",
+          "explanation": ""
         },
         {
-          "text": "Durch das Gebot: Du sollst nicht begehren!",
-          "explanation": "Die Begierde hätte ich nicht gekannt, wenn das Gesetz nicht gesagt hätte: Du sollst nicht begehren! [ref:Römer 7:7-8]."
+          "text": "Durch das Gesetz und das Gebot: Du sollst nicht begehren",
+          "explanation": ""
         },
         {
-          "text": "Durch die Gesetze der Pharisäer, die jede Begierde ausdrücklich verboten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Durch das Gebot: Du sollst nicht begehren! [ref:Römer 7:7-8]."
+          "text": "Durch die Satzungen der Ältesten, die Begierde verboten",
+          "explanation": ""
         },
         {
-          "text": "Durch das Fasten im Heiligtum, das den Menschen sein Herz erkennen ließ",
-          "explanation": "Das trifft nicht zu. Richtig ist: Durch das Gebot: Du sollst nicht begehren! [ref:Römer 7:7-8]."
+          "text": "Durch das Fasten im Tempel, das das Herz erkennen ließ",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Römer 7:7-8",
-      "explanation": "Die Begierde hätte ich nicht gekannt, wenn das Gesetz nicht gesagt hätte: Du sollst nicht begehren! [ref:Römer 7:7-8].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -1020,26 +1020,26 @@
       "options": [
         {
           "text": "Das Gesetz ist böse und schädlich, denn es bringt den Menschen zur Sünde",
-          "explanation": "Das trifft nicht zu. Richtig ist: Das Gesetz ist heilig, und das Gebot ist heilig, gerecht und gut [ref:Römer 7:12-13]."
+          "explanation": ""
         },
         {
           "text": "Das Gesetz ist rein menschlich, denn es kommt von den Vätern her",
-          "explanation": "Das trifft nicht zu. Richtig ist: Das Gesetz ist heilig, und das Gebot ist heilig, gerecht und gut [ref:Römer 7:12-13]."
+          "explanation": ""
         },
         {
           "text": "Das Gesetz ist heilig, und das Gebot ist heilig, gerecht und gut",
-          "explanation": "So ist also das Gesetz heilig, und das Gebot ist heilig, gerecht und gut [ref:Römer 7:12-13]."
+          "explanation": ""
         },
         {
           "text": "Das Gesetz ist veraltet und wertlos, denn Christus hat es aufgehoben",
-          "explanation": "Das trifft nicht zu. Richtig ist: Das Gesetz ist heilig, und das Gebot ist heilig, gerecht und gut [ref:Römer 7:12-13]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Römer 7:12-13",
-      "explanation": "So ist also das Gesetz heilig, und das Gebot ist heilig, gerecht und gut [ref:Römer 7:12-13].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -1050,26 +1050,26 @@
       "options": [
         {
           "text": "Der Streit um Reichtum und Gold, der ihn von Gott und der Wahrheit entfernt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Das Gute will er tun, aber er tut das Böse, das er nicht will [ref:Römer 7:18-19]."
+          "explanation": ""
         },
         {
           "text": "Die Furcht vor römischen Richtern, die ihn am Bekennen hindert",
-          "explanation": "Das trifft nicht zu. Richtig ist: Das Gute will er tun, aber er tut das Böse, das er nicht will [ref:Römer 7:18-19]."
+          "explanation": ""
         },
         {
           "text": "Der Wunsch nach einem neuen Tempel, den er mit eigenen Händen bauen will",
-          "explanation": "Das trifft nicht zu. Richtig ist: Das Gute will er tun, aber er tut das Böse, das er nicht will [ref:Römer 7:18-19]."
+          "explanation": ""
         },
         {
           "text": "Das Gute will er tun, aber er tut das Böse, das er nicht will",
-          "explanation": "Wollen habe ich wohl, aber das Gute vollbringen kann ich nicht [ref:Römer 7:18-19]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Römer 7:18-19",
-      "explanation": "Wollen habe ich wohl, aber das Gute vollbringen kann ich nicht [ref:Römer 7:18-19].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -1080,26 +1080,26 @@
       "options": [
         {
           "text": "Es gibt keine Verdammnis für die, die in Christus Jesus sind",
-          "explanation": "So gibt es nun keine Verdammnis für die, die in Christus Jesus sind [ref:Römer 8:1]."
+          "explanation": ""
         },
         {
           "text": "Kein körperlicher Schmerz mehr für die, die in Christus Jesus sind",
-          "explanation": "Das trifft nicht zu. Richtig ist: Es gibt keine Verdammnis für die, die in Christus Jesus sind [ref:Römer 8:1]."
+          "explanation": ""
         },
         {
           "text": "Befreiung von den Steuern Roms für die, die in Christus Jesus sind",
-          "explanation": "Das trifft nicht zu. Richtig ist: Es gibt keine Verdammnis für die, die in Christus Jesus sind [ref:Römer 8:1]."
+          "explanation": ""
         },
         {
           "text": "Reichtum an allen Gütern der Erde für die, die in Christus Jesus sind",
-          "explanation": "Das trifft nicht zu. Richtig ist: Es gibt keine Verdammnis für die, die in Christus Jesus sind [ref:Römer 8:1]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Römer 8:1",
-      "explanation": "So gibt es nun keine Verdammnis für die, die in Christus Jesus sind [ref:Römer 8:1].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -1110,26 +1110,26 @@
       "options": [
         {
           "text": "Die Hohenpriester im Tempel, die den Gläubigen den Segen zusprechen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der Heilige Geist selbst gibt Zeugnis unserm Geist [ref:Römer 8:16]."
+          "explanation": ""
         },
         {
           "text": "Der Heilige Geist selbst gibt Zeugnis unserm Geist",
-          "explanation": "Der Geist selbst gibt Zeugnis unserm Geist, dass wir Kinder Gottes sind [ref:Römer 8:16]."
+          "explanation": ""
         },
         {
           "text": "Die Schriftgelehrten, die das Gesetz auslegen und die Kinder Gottes bestätigen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der Heilige Geist selbst gibt Zeugnis unserm Geist [ref:Römer 8:16]."
+          "explanation": ""
         },
         {
           "text": "Die Engel im Himmel, die dem Geist der Gläubigen beistehen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der Heilige Geist selbst gibt Zeugnis unserm Geist [ref:Römer 8:16]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Römer 8:16",
-      "explanation": "Der Geist selbst gibt Zeugnis unserm Geist, dass wir Kinder Gottes sind [ref:Römer 8:16].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -1140,26 +1140,26 @@
       "options": [
         {
           "text": "Nach dem Bau neuer Städte",
-          "explanation": "Das trifft nicht zu. Richtig ist: Nach der Offenbarung der Kinder Gottes [ref:Römer 8:19-22]."
+          "explanation": ""
         },
         {
           "text": "Nach dem Untergang der Heiden",
-          "explanation": "Das trifft nicht zu. Richtig ist: Nach der Offenbarung der Kinder Gottes [ref:Römer 8:19-22]."
+          "explanation": ""
         },
         {
           "text": "Nach der Offenbarung der Kinder Gottes",
-          "explanation": "Das sehnsüchtige Harren der Schöpfung wartet auf die Offenbarung der Söhne Gottes [ref:Römer 8:19-22]."
+          "explanation": ""
         },
         {
           "text": "Nach der Rückkehr des alten Gesetzes",
-          "explanation": "Das trifft nicht zu. Richtig ist: Nach der Offenbarung der Kinder Gottes [ref:Römer 8:19-22]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Römer 8:19-22",
-      "explanation": "Das sehnsüchtige Harren der Schöpfung wartet auf die Offenbarung der Söhne Gottes [ref:Römer 8:19-22].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -1170,26 +1170,26 @@
       "options": [
         {
           "text": "Sie werden nie mehr krank und bleiben von allem Übel verschont",
-          "explanation": "Das trifft nicht zu. Richtig ist: Denen, die Gott lieben, dienen alle Dinge zum Besten [ref:Römer 8:28]."
+          "explanation": ""
         },
         {
           "text": "Sie erlangen die Weltherrschaft und regieren über alle Völker",
-          "explanation": "Das trifft nicht zu. Richtig ist: Denen, die Gott lieben, dienen alle Dinge zum Besten [ref:Römer 8:28]."
+          "explanation": ""
         },
         {
           "text": "Sie werden von allen Menschen geehrt und bei den Mächtigen geachtet",
-          "explanation": "Das trifft nicht zu. Richtig ist: Denen, die Gott lieben, dienen alle Dinge zum Besten [ref:Römer 8:28]."
+          "explanation": ""
         },
         {
           "text": "Denen, die Gott lieben, dienen alle Dinge zum Besten",
-          "explanation": "Wir wissen aber, dass denen, die Gott lieben, alle Dinge zum Besten dienen [ref:Römer 8:28]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Römer 8:28",
-      "explanation": "Wir wissen aber, dass denen, die Gott lieben, alle Dinge zum Besten dienen [ref:Römer 8:28].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -1200,56 +1200,56 @@
       "options": [
         {
           "text": "Nichts, weder Tod noch Leben, weder Engel noch Mächte noch irgendein Geschöpf",
-          "explanation": "Ich bin gewiss, dass weder Tod noch Leben uns scheiden kann von der Liebe Gottes, die in Christus Jesus ist, unserm Herrn [ref:Römer 8:38-39]."
+          "explanation": ""
         },
         {
           "text": "Nur die eigene schwere Sünde, die der Gläubige begangen hat und nicht bereut",
-          "explanation": "Das trifft nicht zu. Richtig ist: Nichts, weder Tod noch Leben, weder Engel noch Mächte noch irgendein Geschöpf [ref:Römer 8:38-39]."
+          "explanation": ""
         },
         {
           "text": "Allein der Urteilsspruch des Kaisers, der Verfolgte zum Tod verurteilen kann",
-          "explanation": "Das trifft nicht zu. Richtig ist: Nichts, weder Tod noch Leben, weder Engel noch Mächte noch irgendein Geschöpf [ref:Römer 8:38-39]."
+          "explanation": ""
         },
         {
           "text": "Verfolgung, Hunger und Schwert, die den Glaubenden von Gott trennen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Nichts, weder Tod noch Leben, weder Engel noch Mächte noch irgendein Geschöpf [ref:Römer 8:38-39]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Römer 8:38-39",
-      "explanation": "Ich bin gewiss, dass weder Tod noch Leben uns scheiden kann von der Liebe Gottes, die in Christus Jesus ist, unserm Herrn [ref:Römer 8:38-39].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "roem_041",
       "type": "single_choice",
-      "text": "Welchen tiefen Schmerz trägt Paulus in Seinem Herzen bezüglich Israels?",
+      "text": "Welchen tiefen Schmerz trägt Paulus in seinem Herzen bezüglich Israels?",
       "options": [
         {
           "text": "Die Zerstörung des Heiligtums, die er mit eigenen Augen gesehen hatte",
-          "explanation": "Das trifft nicht zu. Richtig ist: Große Traurigkeit und ein beständiger Schmerz über sein Volk Israel [ref:Römer 9:1-3]."
+          "explanation": ""
         },
         {
           "text": "Große Traurigkeit und ein beständiger Schmerz über sein Volk Israel",
-          "explanation": "Ich habe große Traurigkeit und unablässigen Schmerz in meinem Herzen um meine Brüder [ref:Römer 9:1-3]."
+          "explanation": ""
         },
         {
           "text": "Der Verlust der politischen Macht, die Israel unter den Königen besaß",
-          "explanation": "Das trifft nicht zu. Richtig ist: Große Traurigkeit und ein beständiger Schmerz über sein Volk Israel [ref:Römer 9:1-3]."
+          "explanation": ""
         },
         {
           "text": "Die Armut der Brüder in Judäa, die er mit Sorge betrachtete",
-          "explanation": "Das trifft nicht zu. Richtig ist: Große Traurigkeit und ein beständiger Schmerz über sein Volk Israel [ref:Römer 9:1-3]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Römer 9:1-3",
-      "explanation": "Ich habe große Traurigkeit und unablässigen Schmerz in meinem Herzen um meine Brüder [ref:Römer 9:1-3].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -1260,26 +1260,26 @@
       "options": [
         {
           "text": "Ja, das Fleisch garantiert das Heil",
-          "explanation": "Das trifft nicht zu. Richtig ist: Nein, nicht alle aus Israel sind Israel [ref:Römer 9:6-8]."
+          "explanation": ""
         },
         {
           "text": "Nur die Priester gehören dazu",
-          "explanation": "Das trifft nicht zu. Richtig ist: Nein, nicht alle aus Israel sind Israel [ref:Römer 9:6-8]."
+          "explanation": ""
         },
         {
           "text": "Nein, nicht alle aus Israel sind Israel",
-          "explanation": "Nicht alle sind Israel, die von Israel abstammen; nur die Kinder der Verheißung werden als Same gerechnet [ref:Römer 9:6-8]."
+          "explanation": ""
         },
         {
           "text": "Alle Beschnittenen haben das Heil",
-          "explanation": "Das trifft nicht zu. Richtig ist: Nein, nicht alle aus Israel sind Israel [ref:Römer 9:6-8]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Römer 9:6-8",
-      "explanation": "Nicht alle sind Israel, die von Israel abstammen; nur die Kinder der Verheißung werden als Same gerechnet [ref:Römer 9:6-8].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -1290,26 +1290,26 @@
       "options": [
         {
           "text": "Kain und Abel",
-          "explanation": "Das trifft nicht zu. Richtig ist: Jakob und Esau [ref:Römer 9:10-13]."
+          "explanation": ""
         },
         {
           "text": "Ephraim und Manasse",
-          "explanation": "Das trifft nicht zu. Richtig ist: Jakob und Esau [ref:Römer 9:10-13]."
+          "explanation": ""
         },
         {
           "text": "Ismael und Isaak",
-          "explanation": "Das trifft nicht zu. Richtig ist: Jakob und Esau [ref:Römer 9:10-13]."
+          "explanation": ""
         },
         {
           "text": "Jakob und Esau",
-          "explanation": "Ehe die Zwillinge geboren waren, wurde zu Rebekka gesagt: Der Ältere soll dem Jüngeren dienen [ref:Römer 9:10-13]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Römer 9:10-13",
-      "explanation": "Ehe die Zwillinge geboren waren, wurde zu Rebekka gesagt: Der Ältere soll dem Jüngeren dienen [ref:Römer 9:10-13].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -1320,26 +1320,26 @@
       "options": [
         {
           "text": "Der Töpfer und der Ton",
-          "explanation": "Hat nicht der Töpfer Macht über den Ton, aus derselben Masse ein Gefäß zur Ehre und ein anderes zur Unehre zu machen? [ref:Römer 9:20-23]."
+          "explanation": ""
         },
         {
           "text": "Der Bauer und der Weinstock",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der Töpfer und der Ton [ref:Römer 9:20-23]."
+          "explanation": ""
         },
         {
           "text": "Der Hirte und die Herde",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der Töpfer und der Ton [ref:Römer 9:20-23]."
+          "explanation": ""
         },
         {
           "text": "Der Goldschmied und das Gold",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der Töpfer und der Ton [ref:Römer 9:20-23]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Römer 9:20-23",
-      "explanation": "Hat nicht der Töpfer Macht über den Ton, aus derselben Masse ein Gefäß zur Ehre und ein anderes zur Unehre zu machen? [ref:Römer 9:20-23].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -1350,26 +1350,26 @@
       "options": [
         {
           "text": "Ein Eckstein aus Gold, der in Zion als Fundament für den Tempel gelegt wurde",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der Stein des Anstoßes und der Fels des Ärgernisses in Zion [ref:Römer 9:32-33]."
+          "explanation": ""
         },
         {
           "text": "Der Stein des Anstoßes und der Fels des Ärgernisses in Zion",
-          "explanation": "Siehe, ich lege in Zion einen Stein des Anstoßes und einen Fels des Ärgernisses; wer an ihn glaubt, wird nicht zuschanden werden [ref:Römer 9:32-33]."
+          "explanation": ""
         },
         {
           "text": "Ein Gedenkstein für Mose, der in Zion als Zeichen des Gesetzes aufgestellt wurde",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der Stein des Anstoßes und der Fels des Ärgernisses in Zion [ref:Römer 9:32-33]."
+          "explanation": ""
         },
         {
           "text": "Ein Altarstein für Opfer, der in Zion als Mittelpunkt des Gottesdienstes diente",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der Stein des Anstoßes und der Fels des Ärgernisses in Zion [ref:Römer 9:32-33]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Römer 9:32-33",
-      "explanation": "Siehe, ich lege in Zion einen Stein des Anstoßes und einen Fels des Ärgernisses; wer an ihn glaubt, wird nicht zuschanden werden [ref:Römer 9:32-33].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -1379,27 +1379,27 @@
       "text": "Was ist Christus nach den Worten des Paulus im Hinblick auf das Gesetz?",
       "options": [
         {
-          "text": "Der Zerstörer des Heiligtums für jeden, der an ihn glaubt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Das Ende des Gesetzes für jeden, der glaubt [ref:Römer 10:4]."
+          "text": "Der Zerstörer des Heiligtums für jeden Menschen dieser Welt",
+          "explanation": ""
         },
         {
           "text": "Der Erneuerer der Opfer für jeden, der zum Tempel kommt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Das Ende des Gesetzes für jeden, der glaubt [ref:Römer 10:4]."
+          "explanation": ""
         },
         {
-          "text": "Das Ende des Gesetzes für jeden, der glaubt",
-          "explanation": "Christus ist des Gesetzes Ende; wer an ihn glaubt, der ist gerecht [ref:Römer 10:4]."
+          "text": "Die Vollendung des Gesetzes zur Gerechtigkeit für jeden Glaubenden",
+          "explanation": ""
         },
         {
-          "text": "Ein neuer Gesetzeslehrer Israels für jeden, der seine Satzungen hält",
-          "explanation": "Das trifft nicht zu. Richtig ist: Das Ende des Gesetzes für jeden, der glaubt [ref:Römer 10:4]."
+          "text": "Ein neuer Gesetzeslehrer Israels für alle seine Nachkommen",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Römer 10:4",
-      "explanation": "Christus ist des Gesetzes Ende; wer an ihn glaubt, der ist gerecht [ref:Römer 10:4].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -1410,26 +1410,26 @@
       "options": [
         {
           "text": "Im Kopf denken und mit den Händen tun, was das Gesetz verlangt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Mit dem Herzen glauben und mit dem Mund bekennen [ref:Römer 10:9-10]."
+          "explanation": ""
         },
         {
           "text": "Auf Steine schreiben und lehren, was die Väter überliefert haben",
-          "explanation": "Das trifft nicht zu. Richtig ist: Mit dem Herzen glauben und mit dem Mund bekennen [ref:Römer 10:9-10]."
+          "explanation": ""
         },
         {
           "text": "Nur im Stillen im Tempel beten und im Verborgenen opfern",
-          "explanation": "Das trifft nicht zu. Richtig ist: Mit dem Herzen glauben und mit dem Mund bekennen [ref:Römer 10:9-10]."
+          "explanation": ""
         },
         {
           "text": "Mit dem Herzen glauben und mit dem Mund bekennen",
-          "explanation": "Wenn du mit deinem Mund bekennst: Jesus ist der Herr, und in deinem Herzen glaubst, dass Gott ihn auferweckt hat, so wirst du gerettet [ref:Römer 10:9-10]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Römer 10:9-10",
-      "explanation": "Wenn du mit deinem Mund bekennst: Jesus ist der Herr, und in deinem Herzen glaubst, dass Gott ihn auferweckt hat, so wirst du gerettet [ref:Römer 10:9-10].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -1440,26 +1440,26 @@
       "options": [
         {
           "text": "Wer den Namen des Herrn anruft, wird gerettet werden",
-          "explanation": "Es ist kein Unterschied zwischen Juden und Griechen; wer den Namen des Herrn anruft, wird gerettet werden [ref:Römer 10:12-13]."
+          "explanation": ""
         },
         {
           "text": "Wer den Namen des Herrn anruft, erhält großen Wohlstand und langes Leben",
-          "explanation": "Das trifft nicht zu. Richtig ist: Wer den Namen des Herrn anruft, wird gerettet werden [ref:Römer 10:12-13]."
+          "explanation": ""
         },
         {
           "text": "Wer den Namen des Herrn anruft, wird von allen Feinden befreit",
-          "explanation": "Das trifft nicht zu. Richtig ist: Wer den Namen des Herrn anruft, wird gerettet werden [ref:Römer 10:12-13]."
+          "explanation": ""
         },
         {
           "text": "Wer den Namen des Herrn anruft, versteht alle Geheimnisse Gottes",
-          "explanation": "Das trifft nicht zu. Richtig ist: Wer den Namen des Herrn anruft, wird gerettet werden [ref:Römer 10:12-13]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Römer 10:12-13",
-      "explanation": "Es ist kein Unterschied zwischen Juden und Griechen; wer den Namen des Herrn anruft, wird gerettet werden [ref:Römer 10:12-13].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -1469,27 +1469,27 @@
       "text": "Wodurch entsteht der rettende Glaube im Herzen des menschlichen Hörers?",
       "options": [
         {
-          "text": "Durch das Studium der Philosophie, die die Weisheit der Griechen lehrt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Aus der Verkündigung, und die Verkündigung aus dem Wort Christi [ref:Römer 10:17]."
+          "text": "Durch das Studium der Philosophie und die Weisheit der Griechen",
+          "explanation": ""
         },
         {
-          "text": "Aus der Verkündigung, und die Verkündigung aus dem Wort Christi",
-          "explanation": "So kommt der Glaube aus der Predigt, die Predigt aber durch das Wort Gottes [ref:Römer 10:17]."
+          "text": "Aus der Predigt, die Predigt aber durch die Rede Gottes",
+          "explanation": ""
         },
         {
-          "text": "Durch das Schauen großer Zeichen, die Gott vor den Augen der Menschen tut",
-          "explanation": "Das trifft nicht zu. Richtig ist: Aus der Verkündigung, und die Verkündigung aus dem Wort Christi [ref:Römer 10:17]."
+          "text": "Durch das Schauen großer Zeichen und Wunder vor den Menschen",
+          "explanation": ""
         },
         {
-          "text": "Durch eigene menschliche Vernunft, die die Wahrheit allein erkennen kann",
-          "explanation": "Das trifft nicht zu. Richtig ist: Aus der Verkündigung, und die Verkündigung aus dem Wort Christi [ref:Römer 10:17]."
+          "text": "Durch eigene Vernunft und das Forschen in den Sternen des Himmels",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Römer 10:17",
-      "explanation": "So kommt der Glaube aus der Predigt, die Predigt aber durch das Wort Gottes [ref:Römer 10:17].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -1500,26 +1500,26 @@
       "options": [
         {
           "text": "Ich habe mein Angesicht von ihnen abgewandt, weil sie widerspenstig waren und nicht hören wollten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Den ganzen Tag habe ich meine Hände ausgestreckt nach einem ungehorsamen und widerspenstigen Volk [ref:Römer 10:21]."
+          "explanation": ""
         },
         {
           "text": "Ich habe sie sofort gestraft und ihnen keine Frist gelassen, sich zu bekehren",
-          "explanation": "Das trifft nicht zu. Richtig ist: Den ganzen Tag habe ich meine Hände ausgestreckt nach einem ungehorsamen und widerspenstigen Volk [ref:Römer 10:21]."
+          "explanation": ""
         },
         {
           "text": "Den ganzen Tag habe ich meine Hände ausgestreckt nach einem ungehorsamen und widerspenstigen Volk",
-          "explanation": "Zu Israel spricht er: Den ganzen Tag habe ich meine Hände ausgestreckt nach einem ungehorsamen und widerspenstigen Volk [ref:Römer 10:21]."
+          "explanation": ""
         },
         {
           "text": "Ich habe ihnen kein Wort gesandt und sie ganz sich selbst überlassen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Den ganzen Tag habe ich meine Hände ausgestreckt nach einem ungehorsamen und widerspenstigen Volk [ref:Römer 10:21]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Römer 10:21",
-      "explanation": "Zu Israel spricht er: Den ganzen Tag habe ich meine Hände ausgestreckt nach einem ungehorsamen und widerspenstigen Volk [ref:Römer 10:21].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -1530,26 +1530,26 @@
       "options": [
         {
           "text": "Ja, Israel hat kein Heil mehr, denn es hat den Bund Gottes gebrochen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Keineswegs! Gott hat sein Volk nicht verstoßen; ein Rest bleibt nach der Gnadenwahl [ref:Römer 11:1-5]."
+          "explanation": ""
         },
         {
           "text": "Ja, das Heil gilt nur noch den Heiden, die an Christus glauben",
-          "explanation": "Das trifft nicht zu. Richtig ist: Keineswegs! Gott hat sein Volk nicht verstoßen; ein Rest bleibt nach der Gnadenwahl [ref:Römer 11:1-5]."
+          "explanation": ""
         },
         {
           "text": "Nur die Priester werden gerettet, weil sie dem Tempel treu geblieben sind",
-          "explanation": "Das trifft nicht zu. Richtig ist: Keineswegs! Gott hat sein Volk nicht verstoßen; ein Rest bleibt nach der Gnadenwahl [ref:Römer 11:1-5]."
+          "explanation": ""
         },
         {
           "text": "Keineswegs! Gott hat sein Volk nicht verstoßen; ein Rest bleibt nach der Gnadenwahl",
-          "explanation": "Hat Gott sein Volk verstoßen? Das sei ferne! Auch in dieser Zeit ist ein Überrest da nach der Wahl der Gnade [ref:Römer 11:1-5]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Römer 11:1-5",
-      "explanation": "Hat Gott sein Volk verstoßen? Das sei ferne! Auch in dieser Zeit ist ein Überrest da nach der Wahl der Gnade [ref:Römer 11:1-5].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -1560,26 +1560,26 @@
       "options": [
         {
           "text": "Siebentausend Mann",
-          "explanation": "Gott hatte sich siebentausend Männer übrig behalten, die ihre Knie nicht vor Baal gebeugt hatten [ref:Römer 11:4]."
+          "explanation": ""
         },
         {
           "text": "Hundert Männer",
-          "explanation": "Das trifft nicht zu. Richtig ist: Siebentausend Mann [ref:Römer 11:4]."
+          "explanation": ""
         },
         {
           "text": "Tausend Männer",
-          "explanation": "Das trifft nicht zu. Richtig ist: Siebentausend Mann [ref:Römer 11:4]."
+          "explanation": ""
         },
         {
           "text": "Zwölf Männer",
-          "explanation": "Das trifft nicht zu. Richtig ist: Siebentausend Mann [ref:Römer 11:4]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Römer 11:4",
-      "explanation": "Gott hatte sich siebentausend Männer übrig behalten, die ihre Knie nicht vor Baal gebeugt hatten [ref:Römer 11:4].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -1590,26 +1590,26 @@
       "options": [
         {
           "text": "Der Weinstock und die Reben, die vom Winzer beschnitten werden",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ein wilder Ölzweig wird in den edlen Ölbaum eingepfropft [ref:Römer 11:17-18]."
+          "explanation": ""
         },
         {
           "text": "Ein wilder Ölzweig wird in den edlen Ölbaum eingepfropft",
-          "explanation": "Du, ein wilder Ölzweig, bist unter sie eingepfropft worden und mit ihnen der Wurzel und des Saftes des Ölbaums teilhaftig geworden [ref:Römer 11:17-18]."
+          "explanation": ""
         },
         {
           "text": "Der Sämann und der Acker, auf dem die Saat unterschiedlich aufgeht",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ein wilder Ölzweig wird in den edlen Ölbaum eingepfropft [ref:Römer 11:17-18]."
+          "explanation": ""
         },
         {
           "text": "Der Feigenbaum am Weg, der vom Gärtner noch ein Jahr geschont wird",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ein wilder Ölzweig wird in den edlen Ölbaum eingepfropft [ref:Römer 11:17-18]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Römer 11:17-18",
-      "explanation": "Du, ein wilder Ölzweig, bist unter sie eingepfropft worden und mit ihnen der Wurzel und des Saftes des Ölbaums teilhaftig geworden [ref:Römer 11:17-18].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -1620,56 +1620,56 @@
       "options": [
         {
           "text": "Für alle Ewigkeit, denn Gott hat Israel endgültig verworfen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Bis die Vollzahl der Heiden eingegangen ist [ref:Römer 11:25-26]."
+          "explanation": ""
         },
         {
           "text": "Bis der Tempel neu gebaut ist und der Opferdienst wieder beginnt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Bis die Vollzahl der Heiden eingegangen ist [ref:Römer 11:25-26]."
+          "explanation": ""
         },
         {
           "text": "Bis die Vollzahl der Heiden eingegangen ist",
-          "explanation": "Verstockung ist Israel zum Teil widerfahren, bis die Fülle der Heiden eingegangen sein wird, und so wird ganz Israel gerettet werden [ref:Römer 11:25-26]."
+          "explanation": ""
         },
         {
           "text": "Siebzig Jahre lang, wie einst in der Gefangenschaft in Babel",
-          "explanation": "Das trifft nicht zu. Richtig ist: Bis die Vollzahl der Heiden eingegangen ist [ref:Römer 11:25-26]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Römer 11:25-26",
-      "explanation": "Verstockung ist Israel zum Teil widerfahren, bis die Fülle der Heiden eingegangen sein wird, und so wird ganz Israel gerettet werden [ref:Römer 11:25-26].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "roem_055",
       "type": "single_choice",
-      "text": "Womit beschließt der Apostel Paulus das elf Kapitel lange Heilslehre-Kapitel?",
+      "text": "Womit beschließt Paulus den lehrhaften Teil des Römerbriefs (Kapitel 1–11)?",
       "options": [
         {
           "text": "Mit einer Klage über die Sünde der Menschen und das kommende Gericht Gottes",
-          "explanation": "Das trifft nicht zu. Richtig ist: Mit dem Lobpreis der Tiefe des Reichtums, der Weisheit und Erkenntnis Gottes [ref:Römer 11:33-36]."
+          "explanation": ""
         },
         {
           "text": "Mit Geboten für die Gemeinde und Weisungen für den Alltag der Gläubigen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Mit dem Lobpreis der Tiefe des Reichtums, der Weisheit und Erkenntnis Gottes [ref:Römer 11:33-36]."
+          "explanation": ""
         },
         {
           "text": "Mit einer Drohung an alle Verfolger, die das Volk Gottes bedrängen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Mit dem Lobpreis der Tiefe des Reichtums, der Weisheit und Erkenntnis Gottes [ref:Römer 11:33-36]."
+          "explanation": ""
         },
         {
           "text": "Mit dem Lobpreis der Tiefe des Reichtums, der Weisheit und Erkenntnis Gottes",
-          "explanation": "O welch eine Tiefe des Reichtums und der Weisheit und Erkenntnis Gottes! Von ihm und durch ihn und zu ihm sind alle Dinge. Ihm sei Ehre in Ewigkeit [ref:Römer 11:33-36]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Römer 11:33-36",
-      "explanation": "O welch eine Tiefe des Reichtums und der Weisheit und Erkenntnis Gottes! Von ihm und durch ihn und zu ihm sind alle Dinge. Ihm sei Ehre in Ewigkeit [ref:Römer 11:33-36].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -1680,26 +1680,26 @@
       "options": [
         {
           "text": "Sie sollen ihre Leiber als lebendiges, heiliges, Gott wohlgefälliges Opfer darbringen",
-          "explanation": "Ich ermahne euch, Brüder, bei der Barmherzigkeit Gottes, dass ihr eure Leiber darbringt als ein lebendiges, heiliges, Gott wohlgefälliges Opfer [ref:Römer 12:1]."
+          "explanation": ""
         },
         {
           "text": "Sie sollen ihn durch strenge Kasteiung quälen und ihm bewusst Schmerz zufügen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie sollen ihre Leiber als lebendiges, heiliges, Gott wohlgefälliges Opfer darbringen [ref:Römer 12:1]."
+          "explanation": ""
         },
         {
           "text": "Sie sollen ihn mit edlen Gewändern zieren und ihm vor den Menschen Ehre erweisen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie sollen ihre Leiber als lebendiges, heiliges, Gott wohlgefälliges Opfer darbringen [ref:Römer 12:1]."
+          "explanation": ""
         },
         {
           "text": "Sie sollen ihn vor jeder Arbeit schonen und nur dem Gebet und der Stille widmen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie sollen ihre Leiber als lebendiges, heiliges, Gott wohlgefälliges Opfer darbringen [ref:Römer 12:1]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Römer 12:1",
-      "explanation": "Ich ermahne euch, Brüder, bei der Barmherzigkeit Gottes, dass ihr eure Leiber darbringt als ein lebendiges, heiliges, Gott wohlgefälliges Opfer [ref:Römer 12:1].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -1710,26 +1710,26 @@
       "options": [
         {
           "text": "Sich allen Bräuchen der Welt anpassen, um niemanden zu ärgern oder abzustoßen und friedlich zu leben",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sich nicht dieser Weltzeit gleichstellen, sondern sich verwandeln lassen durch Erneuerung des Sinnes [ref:Römer 12:2]."
+          "explanation": ""
         },
         {
           "text": "Sich nicht dieser Weltzeit gleichstellen, sondern sich verwandeln lassen durch Erneuerung des Sinnes",
-          "explanation": "Stellt euch nicht dieser Welt gleich, sondern lasst euch verwandeln durch die Erneuerung eures Sinnes [ref:Römer 12:2]."
+          "explanation": ""
         },
         {
           "text": "Die Weltzeit ignorieren und sich ganz in das Gebet und die Stille zurückziehen und schweigen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sich nicht dieser Weltzeit gleichstellen, sondern sich verwandeln lassen durch Erneuerung des Sinnes [ref:Römer 12:2]."
+          "explanation": ""
         },
         {
           "text": "Sich von allen Menschen trennen und ein streng abgesondertes Leben in der Wüste führen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sich nicht dieser Weltzeit gleichstellen, sondern sich verwandeln lassen durch Erneuerung des Sinnes [ref:Römer 12:2]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Römer 12:2",
-      "explanation": "Stellt euch nicht dieser Welt gleich, sondern lasst euch verwandeln durch die Erneuerung eures Sinnes [ref:Römer 12:2].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -1740,26 +1740,26 @@
       "options": [
         {
           "text": "Jeder besitzt dieselbe Gabe und dient auf die gleiche Weise im Leib",
-          "explanation": "Das trifft nicht zu. Richtig ist: Viele Glieder an einem Leib mit verschiedenen Gaben [ref:Römer 12:4-8]."
+          "explanation": ""
         },
         {
           "text": "Die Gaben dienen dem eigenen Ruhm und der Ehre ihres Trägers",
-          "explanation": "Das trifft nicht zu. Richtig ist: Viele Glieder an einem Leib mit verschiedenen Gaben [ref:Römer 12:4-8]."
+          "explanation": ""
         },
         {
           "text": "Viele Glieder an einem Leib mit verschiedenen Gaben",
-          "explanation": "Wir haben viele Glieder an einem Leib, aber nicht alle Glieder haben dieselbe Aufgabe; so haben wir verschiedene Gaben nach der Gnade, die uns gegeben ist [ref:Römer 12:4-8]."
+          "explanation": ""
         },
         {
           "text": "Nur die Apostel haben Gaben, die übrigen Glieder haben keine",
-          "explanation": "Das trifft nicht zu. Richtig ist: Viele Glieder an einem Leib mit verschiedenen Gaben [ref:Römer 12:4-8]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Römer 12:4-8",
-      "explanation": "Wir haben viele Glieder an einem Leib, aber nicht alle Glieder haben dieselbe Aufgabe; so haben wir verschiedene Gaben nach der Gnade, die uns gegeben ist [ref:Römer 12:4-8].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -1770,56 +1770,56 @@
       "options": [
         {
           "text": "Mit gleicher Härte vergelten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Das Böse mit dem Guten überwinden [ref:Römer 12:17-21]."
+          "explanation": ""
         },
         {
           "text": "Sofort vor Gericht klagen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Das Böse mit dem Guten überwinden [ref:Römer 12:17-21]."
+          "explanation": ""
         },
         {
           "text": "Den Feind öffentlich verfluchen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Das Böse mit dem Guten überwinden [ref:Römer 12:17-21]."
+          "explanation": ""
         },
         {
           "text": "Das Böse mit dem Guten überwinden",
-          "explanation": "Lass dich nicht vom Bösen überwinden, sondern überwinde das Böse mit Gutem [ref:Römer 12:17-21]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Römer 12:17-21",
-      "explanation": "Lass dich nicht vom Bösen überwinden, sondern überwinde das Böse mit Gutem [ref:Römer 12:17-21].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "roem_060",
       "type": "single_choice",
-      "text": "Wer besitzt das ausschließliche Recht zur Rache und Vergelten nach der Schrift?",
+      "text": "Wer besitzt das ausschließliche Recht zur Rache und Vergeltung nach der Schrift?",
       "options": [
         {
           "text": "Gott allein: Die Rache ist mein, ich will vergelten",
-          "explanation": "Rächt euch nicht selbst, sondern gebt Raum dem Zorn; denn es steht geschrieben: Die Rache ist mein, ich will vergelten, spricht der Herr [ref:Römer 12:19]."
+          "explanation": ""
         },
         {
           "text": "Der Statthalter der Region, der im Namen des Kaisers Recht spricht",
-          "explanation": "Das trifft nicht zu. Richtig ist: Gott allein: Die Rache ist mein, ich will vergelten [ref:Römer 12:19]."
+          "explanation": ""
         },
         {
           "text": "Die Ältesten der Gemeinde, die über Streit und Schuld entscheiden",
-          "explanation": "Das trifft nicht zu. Richtig ist: Gott allein: Die Rache ist mein, ich will vergelten [ref:Römer 12:19]."
+          "explanation": ""
         },
         {
           "text": "Der Geschädigte selbst, der sein Recht mit eigener Hand nehmen darf",
-          "explanation": "Das trifft nicht zu. Richtig ist: Gott allein: Die Rache ist mein, ich will vergelten [ref:Römer 12:19]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Römer 12:19",
-      "explanation": "Rächt euch nicht selbst, sondern gebt Raum dem Zorn; denn es steht geschrieben: Die Rache ist mein, ich will vergelten, spricht der Herr [ref:Römer 12:19].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -1830,26 +1830,26 @@
       "options": [
         {
           "text": "Bei jedem Gesetz Widerstand leisten, das dem Willen Gottes widerspricht",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sich der Obrigkeit unterordnen, denn sie ist von Gott eingesetzt [ref:Römer 13:1-2]."
+          "explanation": ""
         },
         {
           "text": "Sich der Obrigkeit unterordnen, denn sie ist von Gott eingesetzt",
-          "explanation": "Jedermann sei der Obrigkeit untertan; denn es gibt keine Obrigkeit außer von Gott [ref:Römer 13:1-2]."
+          "explanation": ""
         },
         {
           "text": "Die Behörden nicht beachten, weil nur Gott allein Herr der Gläubigen ist",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sich der Obrigkeit unterordnen, denn sie ist von Gott eingesetzt [ref:Römer 13:1-2]."
+          "explanation": ""
         },
         {
           "text": "Nur christlichen Herrschern gehorchen und allen anderen den Dienst verweigern",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sich der Obrigkeit unterordnen, denn sie ist von Gott eingesetzt [ref:Römer 13:1-2]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Römer 13:1-2",
-      "explanation": "Jedermann sei der Obrigkeit untertan; denn es gibt keine Obrigkeit außer von Gott [ref:Römer 13:1-2].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -1860,26 +1860,26 @@
       "options": [
         {
           "text": "Zur Ausbeutung des armen Volkes durch Abgaben und Zölle zugunsten des Kaisers",
-          "explanation": "Das trifft nicht zu. Richtig ist: Zum Schutz der Guten und zur Bestrafung der Bösen [ref:Römer 13:3-4]."
+          "explanation": ""
         },
         {
           "text": "Zum Bau prächtiger Bauten, die die Macht Roms vor den Völkern darstellen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Zum Schutz der Guten und zur Bestrafung der Bösen [ref:Römer 13:3-4]."
+          "explanation": ""
         },
         {
           "text": "Zum Schutz der Guten und zur Bestrafung der Bösen",
-          "explanation": "Die Obrigkeit ist Gottes Dienerin dir zugut; tust du aber Böses, so fürchte dich, denn sie trägt das Schwert nicht umsonst [ref:Römer 13:3-4]."
+          "explanation": ""
         },
         {
           "text": "Zur Durchsetzung der Heidengötter und zur Pflege der Staatsreligion",
-          "explanation": "Das trifft nicht zu. Richtig ist: Zum Schutz der Guten und zur Bestrafung der Bösen [ref:Römer 13:3-4]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Römer 13:3-4",
-      "explanation": "Die Obrigkeit ist Gottes Dienerin dir zugut; tust du aber Böses, so fürchte dich, denn sie trägt das Schwert nicht umsonst [ref:Römer 13:3-4].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -1890,26 +1890,26 @@
       "options": [
         {
           "text": "Die Bezahlung aller Steuern",
-          "explanation": "Das trifft nicht zu. Richtig ist: Dass sie einander lieben [ref:Römer 13:8]."
+          "explanation": ""
         },
         {
           "text": "Das Ausleihen von Geld",
-          "explanation": "Das trifft nicht zu. Richtig ist: Dass sie einander lieben [ref:Römer 13:8]."
+          "explanation": ""
         },
         {
           "text": "Das gemeinsame Bauen von Häusern",
-          "explanation": "Das trifft nicht zu. Richtig ist: Dass sie einander lieben [ref:Römer 13:8]."
+          "explanation": ""
         },
         {
           "text": "Dass sie einander lieben",
-          "explanation": "Seid niemand etwas schuldig, außer dass ihr einander liebt; denn wer den andern liebt, hat das Gesetz erfüllt [ref:Römer 13:8]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Römer 13:8",
-      "explanation": "Seid niemand etwas schuldig, außer dass ihr einander liebt; denn wer den andern liebt, hat das Gesetz erfüllt [ref:Römer 13:8].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -1920,26 +1920,26 @@
       "options": [
         {
           "text": "Weil die Liebe dem Nächsten nichts Böses tut",
-          "explanation": "Die Liebe tut dem Nächsten nichts Böses; so ist nun die Liebe des Gesetzes Erfüllung [ref:Römer 13:9-10]."
+          "explanation": ""
         },
         {
           "text": "Weil sie alle Opfer ersetzt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil die Liebe dem Nächsten nichts Böses tut [ref:Römer 13:9-10]."
+          "explanation": ""
         },
         {
           "text": "Weil sie das Fasten überflüssig macht",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil die Liebe dem Nächsten nichts Böses tut [ref:Römer 13:9-10]."
+          "explanation": ""
         },
         {
           "text": "Weil sie von allen gelobt wird",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil die Liebe dem Nächsten nichts Böses tut [ref:Römer 13:9-10]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Römer 13:9-10",
-      "explanation": "Die Liebe tut dem Nächsten nichts Böses; so ist nun die Liebe des Gesetzes Erfüllung [ref:Römer 13:9-10].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -1950,26 +1950,26 @@
       "options": [
         {
           "text": "Sie im Geheimen erforschen und prüfen, damit man sie kennen lernt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Werke der Finsternis ablegen und die Waffen des Lichts anziehen [ref:Römer 13:11-14]."
+          "explanation": ""
         },
         {
           "text": "Die Werke der Finsternis ablegen und die Waffen des Lichts anziehen",
-          "explanation": "Die Nacht ist vorgerückt, der Tag aber nahe; so lasst uns ablegen die Werke der Finsternis und anlegen die Waffen des Lichts [ref:Römer 13:11-14]."
+          "explanation": ""
         },
         {
           "text": "Sie mit Spott überhäufen und öffentlich lächerlich machen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Werke der Finsternis ablegen und die Waffen des Lichts anziehen [ref:Römer 13:11-14]."
+          "explanation": ""
         },
         {
           "text": "Sie der Obrigkeit melden, damit die Täter vor Gericht kommen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Werke der Finsternis ablegen und die Waffen des Lichts anziehen [ref:Römer 13:11-14]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Römer 13:11-14",
-      "explanation": "Die Nacht ist vorgerückt, der Tag aber nahe; so lasst uns ablegen die Werke der Finsternis und anlegen die Waffen des Lichts [ref:Römer 13:11-14].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -1980,26 +1980,26 @@
       "options": [
         {
           "text": "Ihn sofort aus der Gemeinde ausschließen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ihn aufnehmen, ohne über Meinungen zu streiten [ref:Römer 14:1]."
+          "explanation": ""
         },
         {
-          "text": "Ihn öffentlich rügen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ihn aufnehmen, ohne über Meinungen zu streiten [ref:Römer 14:1]."
+          "text": "Ihn vor allen tadeln und öffentlich rügen",
+          "explanation": ""
         },
         {
           "text": "Ihn aufnehmen, ohne über Meinungen zu streiten",
-          "explanation": "Den Schwachen im Glauben nehmt auf, ohne über Meinungen zu streiten [ref:Römer 14:1]."
+          "explanation": ""
         },
         {
-          "text": "Ihn zum Leiter der Gemeinde machen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ihn aufnehmen, ohne über Meinungen zu streiten [ref:Römer 14:1]."
+          "text": "Ihn ohne Prüfung zum Vorsteher ernennen",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Römer 14:1",
-      "explanation": "Den Schwachen im Glauben nehmt auf, ohne über Meinungen zu streiten [ref:Römer 14:1].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -2010,26 +2010,26 @@
       "options": [
         {
           "text": "Die Beschneidung der Heiden, die zum Glauben gekommen waren",
-          "explanation": "Das trifft nicht zu. Richtig ist: Das Essen bestimmter Speisen und das Halten bestimmter Tage [ref:Römer 14:2-6]."
+          "explanation": ""
         },
         {
           "text": "Die Zahlung der Steuern an den Kaiser, die manche verweigerten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Das Essen bestimmter Speisen und das Halten bestimmter Tage [ref:Römer 14:2-6]."
+          "explanation": ""
         },
         {
           "text": "Der Bau von Häusern und Kirchen, den manche für überflüssig hielten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Das Essen bestimmter Speisen und das Halten bestimmter Tage [ref:Römer 14:2-6]."
+          "explanation": ""
         },
         {
           "text": "Das Essen bestimmter Speisen und das Halten bestimmter Tage",
-          "explanation": "Einer glaubt, er dürfe alles essen; der Schwache aber isst nur Gemüse. Einer hält einen Tag für wichtiger als den andern [ref:Römer 14:2-6]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Römer 14:2-6",
-      "explanation": "Einer glaubt, er dürfe alles essen; der Schwache aber isst nur Gemüse. Einer hält einen Tag für wichtiger als den andern [ref:Römer 14:2-6].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -2039,57 +2039,57 @@
       "text": "Vor wessen Richterstuhl werden sich einmal alle Glaubenden persönlich verantworten?",
       "options": [
         {
-          "text": "Vor dem Richterstuhl Gottes",
-          "explanation": "Wir werden alle vor den Richterstuhl Gottes gestellt werden; so wird nun jeder von uns für sich selbst Gott Rechenschaft geben [ref:Römer 14:10-12]."
+          "text": "Vor dem Richterstuhl Christi",
+          "explanation": ""
         },
         {
           "text": "Vor dem Richterstuhl des Kaisers",
-          "explanation": "Das trifft nicht zu. Richtig ist: Vor dem Richterstuhl Gottes [ref:Römer 14:10-12]."
+          "explanation": ""
         },
         {
           "text": "Vor dem Hohen Rat in Jerusalem",
-          "explanation": "Das trifft nicht zu. Richtig ist: Vor dem Richterstuhl Gottes [ref:Römer 14:10-12]."
+          "explanation": ""
         },
         {
           "text": "Vor den Ältesten der Gemeinde",
-          "explanation": "Das trifft nicht zu. Richtig ist: Vor dem Richterstuhl Gottes [ref:Römer 14:10-12]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Römer 14:10-12",
-      "explanation": "Wir werden alle vor den Richterstuhl Gottes gestellt werden; so wird nun jeder von uns für sich selbst Gott Rechenschaft geben [ref:Römer 14:10-12].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "roem_069",
       "type": "single_choice",
-      "text": "Worin besteht das Reich Gottes nach den klaren Worten des Paulus nicht?",
+      "text": "Worin besteht das Reich Gottes nach den klaren Worten des Paulus?",
       "options": [
         {
           "text": "Im Beten und Fasten, im Verzicht auf Speise und Trank und in strenger Disziplin",
-          "explanation": "Das trifft nicht zu. Richtig ist: Nicht in Essen und Trinken, sondern in Gerechtigkeit, Friede und Freude im Heiligen Geist [ref:Römer 14:17]."
+          "explanation": ""
         },
         {
           "text": "Nicht in Essen und Trinken, sondern in Gerechtigkeit, Friede und Freude im Heiligen Geist",
-          "explanation": "Das Reich Gottes besteht nicht in Speise und Trank, sondern in Gerechtigkeit und Friede und Freude im Heiligen Geist [ref:Römer 14:17]."
+          "explanation": ""
         },
         {
-          "text": "Im Glauben an Christus, im Hören auf sein Wort und im Gehorsam gegen seine Gebote",
-          "explanation": "Das trifft nicht zu. Richtig ist: Nicht in Essen und Trinken, sondern in Gerechtigkeit, Friede und Freude im Heiligen Geist [ref:Römer 14:17]."
+          "text": "Im Halten der Feste, im Opfer am Altar und im Befolgen äußerer Satzungen",
+          "explanation": ""
         },
         {
-          "text": "In der Liebe zum Nächsten, im Dienst an den Armen und im Teilen mit den Bedürftigen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Nicht in Essen und Trinken, sondern in Gerechtigkeit, Friede und Freude im Heiligen Geist [ref:Römer 14:17]."
+          "text": "In Macht und Reichtum, in irdischer Herrschaft und im Glanz der Könige",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Römer 14:17",
-      "explanation": "Das Reich Gottes besteht nicht in Speise und Trank, sondern in Gerechtigkeit und Friede und Freude im Heiligen Geist [ref:Römer 14:17].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -2100,26 +2100,26 @@
       "options": [
         {
           "text": "Es ist vor Gott gleichgültig, solange man nur das Gute im Sinn hat",
-          "explanation": "Das trifft nicht zu. Richtig ist: Was nicht aus Glauben geschieht, das ist Sünde [ref:Römer 14:23]."
+          "explanation": ""
         },
         {
           "text": "Es wird durch Spenden gutgemacht, die man den Armen der Gemeinde gibt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Was nicht aus Glauben geschieht, das ist Sünde [ref:Römer 14:23]."
+          "explanation": ""
         },
         {
           "text": "Was nicht aus Glauben geschieht, das ist Sünde",
-          "explanation": "Wer aber zweifelt und doch isst, der ist verurteilt, denn es geschieht nicht aus Glauben; alles aber, was nicht aus Glauben geschieht, ist Sünde [ref:Römer 14:23]."
+          "explanation": ""
         },
         {
           "text": "Es schadet nur dem Nächsten, nicht aber dem Handelnden selbst",
-          "explanation": "Das trifft nicht zu. Richtig ist: Was nicht aus Glauben geschieht, das ist Sünde [ref:Römer 14:23]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Römer 14:23",
-      "explanation": "Wer aber zweifelt und doch isst, der ist verurteilt, denn es geschieht nicht aus Glauben; alles aber, was nicht aus Glauben geschieht, ist Sünde [ref:Römer 14:23].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -2130,26 +2130,26 @@
       "options": [
         {
           "text": "Ihre eigenen Rechte durchsetzen und die Schwachen zur Anpassung bewegen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Schwachheiten der Schwachen tragen und nicht sich selbst gefallen [ref:Römer 15:1-3]."
+          "explanation": ""
         },
         {
-          "text": "Die Schwachen sofort belehren und ihnen ihre Fehler vorhalten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Schwachheiten der Schwachen tragen und nicht sich selbst gefallen [ref:Römer 15:1-3]."
+          "text": "Die Schwachen sofort belehren und ihnen alle Fehler streng vorhalten",
+          "explanation": ""
         },
         {
-          "text": "Sich von den Schwachen absondern und ihren Umgang meiden",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Schwachheiten der Schwachen tragen und nicht sich selbst gefallen [ref:Römer 15:1-3]."
+          "text": "Sich von den Schwachen absondern und ihren alltäglichen Umgang meiden",
+          "explanation": ""
         },
         {
-          "text": "Die Schwachheiten der Schwachen tragen und nicht sich selbst gefallen",
-          "explanation": "Wir aber, die Starken, sollen die Schwachheiten der Schwachen tragen und nicht Gefallen an uns selbst haben [ref:Römer 15:1-3]."
+          "text": "Die Schwachheiten der Kraftlosen tragen und nicht Gefallen an uns selber haben",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Römer 15:1-3",
-      "explanation": "Wir aber, die Starken, sollen die Schwachheiten der Schwachen tragen und nicht Gefallen an uns selbst haben [ref:Römer 15:1-3].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -2160,26 +2160,26 @@
       "options": [
         {
           "text": "Zu unserer Belehrung, damit wir durch Geduld und Trost Hoffnung haben",
-          "explanation": "Alles, was zuvor geschrieben ist, ist zu unserer Belehrung geschrieben [ref:Römer 15:4]."
+          "explanation": ""
         },
         {
           "text": "Nur für das Volk Israel, das sie im Gesetz empfangen hatte",
-          "explanation": "Das trifft nicht zu. Richtig ist: Zu unserer Belehrung, damit wir durch Geduld und Trost Hoffnung haben [ref:Römer 15:4]."
+          "explanation": ""
         },
         {
           "text": "Als Gesetz für den römischen Staat und für das Recht der Völker",
-          "explanation": "Das trifft nicht zu. Richtig ist: Zu unserer Belehrung, damit wir durch Geduld und Trost Hoffnung haben [ref:Römer 15:4]."
+          "explanation": ""
         },
         {
           "text": "Zur Unterhaltung in den Versammlungen und zum Lob der Väter",
-          "explanation": "Das trifft nicht zu. Richtig ist: Zu unserer Belehrung, damit wir durch Geduld und Trost Hoffnung haben [ref:Römer 15:4]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Römer 15:4",
-      "explanation": "Alles, was zuvor geschrieben ist, ist zu unserer Belehrung geschrieben [ref:Römer 15:4].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -2190,146 +2190,146 @@
       "options": [
         {
           "text": "Nur in der Umgebung von Jerusalem, wo die Apostel selbst gewirkt hatten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Von Jerusalem aus ringsumher bis nach Illyrien [ref:Römer 15:19]."
+          "explanation": ""
         },
         {
           "text": "Von Jerusalem aus ringsumher bis nach Illyrien",
-          "explanation": "Ich habe von Jerusalem und ringsumher bis nach Illyrien das Evangelium Christi voll ausgerichtet [ref:Römer 15:19]."
+          "explanation": ""
         },
         {
           "text": "Nur auf Zypern, wo er mit Barnabas begonnen hatte",
-          "explanation": "Das trifft nicht zu. Richtig ist: Von Jerusalem aus ringsumher bis nach Illyrien [ref:Römer 15:19]."
+          "explanation": ""
         },
         {
           "text": "Nur in Galatien, wo er die ersten Gemeinden gegründet hatte",
-          "explanation": "Das trifft nicht zu. Richtig ist: Von Jerusalem aus ringsumher bis nach Illyrien [ref:Römer 15:19]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Römer 15:19",
-      "explanation": "Ich habe von Jerusalem und ringsumher bis nach Illyrien das Evangelium Christi voll ausgerichtet [ref:Römer 15:19].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "roem_074",
       "type": "single_choice",
-      "text": "Welches ferne Reiseziel plante Paulus nach Seinem beabsichtigten Besuch in Rom?",
+      "text": "Welches ferne Reiseziel plante Paulus nach seinem beabsichtigten Besuch in Rom?",
       "options": [
         {
           "text": "Eine Reise nach Kreta",
-          "explanation": "Das trifft nicht zu. Richtig ist: Eine Reise nach Spanien [ref:Römer 15:24; 15:28]."
+          "explanation": ""
         },
         {
           "text": "Die Rückkehr nach Tarsus",
-          "explanation": "Das trifft nicht zu. Richtig ist: Eine Reise nach Spanien [ref:Römer 15:24; 15:28]."
+          "explanation": ""
         },
         {
           "text": "Eine Reise nach Spanien",
-          "explanation": "Ich hoffe, wenn ich nach Spanien reise, euch auf der Durchreise zu sehen [ref:Römer 15:24; 15:28]."
+          "explanation": ""
         },
         {
           "text": "Eine Reise nach Alexandria",
-          "explanation": "Das trifft nicht zu. Richtig ist: Eine Reise nach Spanien [ref:Römer 15:24; 15:28]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
-      "bibleReference": "Römer 15:24; 15:28",
-      "explanation": "Ich hoffe, wenn ich nach Spanien reise, euch auf der Durchreise zu sehen [ref:Römer 15:24; 15:28].",
+      "bibleReference": "Römer 15:24",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "roem_075",
       "type": "single_choice",
-      "text": "Welche dringende Aufgabe führte Paulus vor Seiner Romreise nach Jerusalem?",
+      "text": "Welche dringende Aufgabe führte Paulus vor seiner Romreise nach Jerusalem?",
       "options": [
         {
           "text": "Das Tempelweihfest zu feiern und dort ein Dankopfer darzubringen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Liebesgabe für die Armen unter den Heiligen in Jerusalem zu überbringen [ref:Römer 15:25-27]."
+          "explanation": ""
         },
         {
           "text": "Sich vor dem Hohen Rat zu verteidigen und seine Anklage zu widerlegen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Liebesgabe für die Armen unter den Heiligen in Jerusalem zu überbringen [ref:Römer 15:25-27]."
+          "explanation": ""
         },
         {
           "text": "Gefangene Apostel freizukaufen und mit dem Gesammelten zu unterstützen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Liebesgabe für die Armen unter den Heiligen in Jerusalem zu überbringen [ref:Römer 15:25-27]."
+          "explanation": ""
         },
         {
           "text": "Die Liebesgabe für die Armen unter den Heiligen in Jerusalem zu überbringen",
-          "explanation": "Jetzt aber reise ich nach Jerusalem, den Heiligen zu dienen; denn Mazedonien und Achaja haben beschlossen, eine Sammlung für die Armen zu veranstalten [ref:Römer 15:25-27]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Römer 15:25-27",
-      "explanation": "Jetzt aber reise ich nach Jerusalem, den Heiligen zu dienen; denn Mazedonien und Achaja haben beschlossen, eine Sammlung für die Armen zu veranstalten [ref:Römer 15:25-27].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "roem_076",
       "type": "single_choice",
-      "text": "Welche Diakonin der Gemeinde in Kenchrenä empfiehlt Paulus den Römern?",
+      "text": "Welche Dienerin der Gemeinde in Kenchreä empfiehlt Paulus den Römern?",
       "options": [
         {
           "text": "Phöbe, die Dienerin der Gemeinde in Kenchreä",
-          "explanation": "Ich empfehle euch unsere Schwester Phöbe, die Dienerin der Gemeinde in Kenchreä [ref:Römer 16:1-2]."
+          "explanation": ""
         },
         {
           "text": "Lydia aus Philippi, die Purpurhändlerin und Dienerin der Gemeinde",
-          "explanation": "Das trifft nicht zu. Richtig ist: Phöbe, die Dienerin der Gemeinde in Kenchreä [ref:Römer 16:1-2]."
+          "explanation": ""
         },
         {
           "text": "Priszilla aus Korinth, die Zeltmacherin und Mitarbeiterin der Gemeinde",
-          "explanation": "Das trifft nicht zu. Richtig ist: Phöbe, die Dienerin der Gemeinde in Kenchreä [ref:Römer 16:1-2]."
+          "explanation": ""
         },
         {
           "text": "Damaris aus Athen, die Bekehrte vom Areopag und Dienerin der Gemeinde",
-          "explanation": "Das trifft nicht zu. Richtig ist: Phöbe, die Dienerin der Gemeinde in Kenchreä [ref:Römer 16:1-2]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Römer 16:1-2",
-      "explanation": "Ich empfehle euch unsere Schwester Phöbe, die Dienerin der Gemeinde in Kenchreä [ref:Römer 16:1-2].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "roem_077",
       "type": "single_choice",
-      "text": "Welches Ehepaar von Mitarbeitern wog für das Leben des Paulus den eigenen Hals?",
+      "text": "Welches Ehepaar hat für das Leben des Paulus den eigenen Hals hingehalten?",
       "options": [
         {
           "text": "Hananias und Saphira, die für die Gemeinde alles verkauft hatten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Priska und Aquila, meine Mitarbeiter in Christus Jesus [ref:Römer 16:3-4]."
+          "explanation": ""
         },
         {
-          "text": "Priska und Aquila, meine Mitarbeiter in Christus Jesus",
-          "explanation": "Grüßt Priska und Aquila, die für mein Leben ihren Hals hingehalten haben [ref:Römer 16:3-4]."
+          "text": "Priscilla und Aquila, meine Mitarbeiter in Christus Jesus",
+          "explanation": ""
         },
         {
           "text": "Philemon und Appia, die Gastgeber der Gemeinde in Kolossä",
-          "explanation": "Das trifft nicht zu. Richtig ist: Priska und Aquila, meine Mitarbeiter in Christus Jesus [ref:Römer 16:3-4]."
+          "explanation": ""
         },
         {
           "text": "Zacharias und Elisabeth, die Eltern des Täufers aus Judäa",
-          "explanation": "Das trifft nicht zu. Richtig ist: Priska und Aquila, meine Mitarbeiter in Christus Jesus [ref:Römer 16:3-4]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Römer 16:3-4",
-      "explanation": "Grüßt Priska und Aquila, die für mein Leben ihren Hals hingehalten haben [ref:Römer 16:3-4].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -2340,26 +2340,26 @@
       "options": [
         {
           "text": "Vor den römischen Soldaten, die die Gemeinde bedrängen und verfolgen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Vor denen, die Spaltungen und Ärgernisse anrichten wider die Lehre [ref:Römer 16:17-18]."
+          "explanation": ""
         },
         {
-          "text": "Vor den Bettlern, die vor den Türen der Häuser betteln und lügen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Vor denen, die Spaltungen und Ärgernisse anrichten wider die Lehre [ref:Römer 16:17-18]."
+          "text": "Vor den fremden Bettlern, die an den Türen der Häuser betrügen",
+          "explanation": ""
         },
         {
-          "text": "Vor denen, die Spaltungen und Ärgernisse anrichten wider die Lehre",
-          "explanation": "Ich ermahne euch, Brüder, achtet auf die, welche Zwiespalt und Ärgernisse anrichten entgegen der Lehre, und meidet sie [ref:Römer 16:17-18]."
+          "text": "Vor denen, die Trennungen und Ärgernisse anrichten abseits von der Lehre",
+          "explanation": ""
         },
         {
-          "text": "Vor den Diakonen, die die Gaben verwalten und verteilen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Vor denen, die Spaltungen und Ärgernisse anrichten wider die Lehre [ref:Römer 16:17-18]."
+          "text": "Vor den Diakonen der Gemeinde, die alle Gaben verwalten und zuteilen",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Römer 16:17-18",
-      "explanation": "Ich ermahne euch, Brüder, achtet auf die, welche Zwiespalt und Ärgernisse anrichten entgegen der Lehre, und meidet sie [ref:Römer 16:17-18].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -2369,57 +2369,57 @@
       "text": "Welche Siegesverheißung bezüglich des Widersachers gibt Paulus den Glaubenden?",
       "options": [
         {
-          "text": "Der Satan wird euch immer plagen und niemals von euch weichen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der Gott des Friedens wird den Satan bald unter eure Füße zertreten [ref:Römer 16:20]."
+          "text": "Der Satan wird euch immerfort plagen und niemals ganz von euch weichen",
+          "explanation": ""
         },
         {
-          "text": "Der Satan wird die Welt regieren und die Gläubigen unterdrücken",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der Gott des Friedens wird den Satan bald unter eure Füße zertreten [ref:Römer 16:20]."
+          "text": "Der Satan wird die ganze Welt regieren und alle Gläubigen unterdrücken",
+          "explanation": ""
         },
         {
-          "text": "Gott wird den Satan nicht richten, sondern ihn gewähren lassen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der Gott des Friedens wird den Satan bald unter eure Füße zertreten [ref:Römer 16:20]."
+          "text": "Gott wird den Satan überhaupt nicht richten, sondern gewähren lassen",
+          "explanation": ""
         },
         {
-          "text": "Der Gott des Friedens wird den Satan bald unter eure Füße zertreten",
-          "explanation": "Der Gott des Friedens wird den Satan in Kürze unter euren Füßen zertreten [ref:Römer 16:20]."
+          "text": "Der Gott des Friedens wird den Satan unter euren Füßen zermalmen in Kürze",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Römer 16:20",
-      "explanation": "Der Gott des Friedens wird den Satan in Kürze unter euren Füßen zertreten [ref:Römer 16:20].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "roem_080",
       "type": "single_choice",
-      "text": "Welcher Schreiber verfasste den Römerbrief im Gruße im Auftrag des Paulus?",
+      "text": "Welcher Schreiber schrieb den Römerbrief für Paulus nieder und grüßt die Leser im Herrn?",
       "options": [
         {
           "text": "Tertius",
-          "explanation": "Ich, Tertius, der ich diesen Brief geschrieben habe, grüße euch in dem Herrn [ref:Römer 16:22]."
+          "explanation": ""
         },
         {
-          "text": "Lukas",
-          "explanation": "Das trifft nicht zu. Richtig ist: Tertius [ref:Römer 16:22]."
+          "text": "Silvanus",
+          "explanation": ""
         },
         {
           "text": "Timotheus",
-          "explanation": "Das trifft nicht zu. Richtig ist: Tertius [ref:Römer 16:22]."
+          "explanation": ""
         },
         {
-          "text": "Barnabas",
-          "explanation": "Das trifft nicht zu. Richtig ist: Tertius [ref:Römer 16:22]."
+          "text": "Aristarch",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Römer 16:22",
-      "explanation": "Ich, Tertius, der ich diesen Brief geschrieben habe, grüße euch in dem Herrn [ref:Römer 16:22].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     }

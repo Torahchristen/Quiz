@@ -1,0 +1,4968 @@
+{
+  "metadata": {
+    "quizId": "nt_05_apostelgeschichte_alle_kapitel_en",
+    "title": "Acts",
+    "subtitle": "Acts 1:1 – 28:31 (145 questions)",
+    "author": "King James Version (1769)",
+    "version": "2.3.0",
+    "language": "en",
+    "category": "nt",
+    "difficulty": "medium",
+    "tags": [
+      "Acts",
+      "New Testament",
+      "Early Church",
+      "Apostles",
+      "Holy Spirit",
+      "Paul",
+      "Peter",
+      "King James Version"
+    ],
+    "questionCount": 145,
+    "canonicalBookNumber": 44,
+    "testament": "NT"
+  },
+  "questions": [
+    {
+      "questionId": "apg_001",
+      "type": "single_choice",
+      "text": "For how many days did the risen Jesus appear unto the apostles before his ascension?",
+      "options": [
+        {
+          "text": "For seven days",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For forty days",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "For twelve days",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For fifty days",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Acts 1:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "apg_002",
+      "type": "single_choice",
+      "text": "On which mount did the ascension of Jesus take place before the eyes of the disciples?",
+      "options": [
+        {
+          "text": "On mount Sinai",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "On mount Carmel",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "On the mount called Olivet",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "On mount Nebo",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Acts 1:9-12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_003",
+      "type": "single_choice",
+      "text": "What was the name of the place that was purchased with the reward of iniquity?",
+      "options": [
+        {
+          "text": "Golgotha, that is, the place of a skull",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Gethsemane, that is, oil press",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Bethesda, that is, house of mercy",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Aceldama, that is, the field of blood",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Acts 1:18-19",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "apg_004",
+      "type": "single_choice",
+      "text": "Which two men were appointed for the succession in the apostleship?",
+      "options": [
+        {
+          "text": "Joseph called Barsabas, and Matthias",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Barnabas and Silas, the companions of Paul",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Timothy and Titus, the young fellowlabourers",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Stephen and Philip, two of the seven",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Acts 1:23-26",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "apg_005",
+      "type": "single_choice",
+      "text": "By what means was Matthias numbered with the eleven apostles?",
+      "options": [
+        {
+          "text": "By the election of the elders",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By the casting of lots",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "By a sign from heaven",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By a decision of the church",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Acts 1:24-26",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_006",
+      "type": "single_choice",
+      "text": "What visible sign accompanied the coming of the Holy Ghost at Pentecost?",
+      "options": [
+        {
+          "text": "A beam of light from heaven that fell upon the house and blinded all",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A dark thundercloud that broke over the upper room",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Cloven tongues like as of fire, which sat upon each of them",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A chariot of fire in the sky that stood still over the house",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Acts 2:1-4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_007",
+      "type": "single_choice",
+      "text": "To what did the mocking hearers ascribe the speaking in other tongues?",
+      "options": [
+        {
+          "text": "They said: This is heathen sorcery",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They said: Their mind is confused",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They said: They have a disease of the tongue",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They said: These men are full of new wine",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Acts 2:13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_008",
+      "type": "single_choice",
+      "text": "Which Old Testament prophet is quoted in Peter's sermon at Pentecost?",
+      "options": [
+        {
+          "text": "The prophet Joel",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The prophet Isaiah",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The prophet Daniel",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The prophet Hosea",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Acts 2:16-21",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_009",
+      "type": "single_choice",
+      "text": "How many souls joined the church after Peter's sermon?",
+      "options": [
+        {
+          "text": "About one thousand souls",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "About three thousand souls",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "About five thousand souls",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "About seven hundred souls",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Acts 2:41",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "apg_010",
+      "type": "single_choice",
+      "text": "What did the believers of the early church do with their possessions and goods?",
+      "options": [
+        {
+          "text": "They buried the money in the field and kept it there against evil times",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They gave all unto the Romans to buy peace in the land",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They sold their possessions and goods and parted them to all, as every man had need",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "They built houses in the wilderness and dwelt there together",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Acts 2:44-45",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "apg_011",
+      "type": "single_choice",
+      "text": "At which gate of the temple in Jerusalem did the man lame from his mother's womb sit?",
+      "options": [
+        {
+          "text": "At the Golden gate",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "At the sheep gate",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "At the fish gate",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "At the gate called Beautiful",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Acts 3:1-2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_012",
+      "type": "single_choice",
+      "text": "What, by his own words, did Peter not have when the lame man asked him for alms?",
+      "options": [
+        {
+          "text": "Silver and gold",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Bread and fish",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Cloak and shoes",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "House and field",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Acts 3:6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_013",
+      "type": "single_choice",
+      "text": "What bodily response did the lame man show immediately after his healing?",
+      "options": [
+        {
+          "text": "He fell down and slept",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He leaped up, stood, and walked",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He washed himself in the pool",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He hastened home at once",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Acts 3:7-8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "apg_014",
+      "type": "single_choice",
+      "text": "In which porch of the temple did the people run together unto the apostles, greatly wondering?",
+      "options": [
+        {
+          "text": "In the porch of Herod",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In the porch of the priests",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In the porch called Solomon's",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "In the porch of the king",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Acts 3:11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_015",
+      "type": "single_choice",
+      "text": "By what title did Peter call the Lord Jesus Christ before the people gathered in the temple?",
+      "options": [
+        {
+          "text": "The heir of the kingdoms",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The teacher of the law",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The creator of the world",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The Prince of life",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Acts 3:13-15",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "apg_016",
+      "type": "single_choice",
+      "text": "Which part of the apostles' message caused the priests to arrest them?",
+      "options": [
+        {
+          "text": "The preaching through Jesus of the resurrection from the dead",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The refusal of the tribute which Cæsar required of the Jews",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The destruction of the sanctuary, which they had announced in the name of Jesus",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The sale of fields, whose price they had kept back from the temple",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Acts 4:1-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_017",
+      "type": "single_choice",
+      "text": "How great was the number of the men who believed after the speech in the temple?",
+      "options": [
+        {
+          "text": "About three thousand men",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "About five thousand men",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "About ten thousand men",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "About two thousand men",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Acts 4:4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "apg_018",
+      "type": "single_choice",
+      "text": "What word did Peter declare before the council concerning the name of Jesus?",
+      "options": [
+        {
+          "text": "All names are equally good, if one only believeth in God sincerely and from the heart",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The law of Moses bringeth salvation, if one keepeth it exactly and with the whole heart",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Neither is there salvation in any other: for there is none other name under heaven given",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The temple secureth life, so long as one offereth there the prescribed sacrifices",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Acts 4:10-12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_019",
+      "type": "single_choice",
+      "text": "According to Psalm 118, what is the stone become which was set at nought of the builders?",
+      "options": [
+        {
+          "text": "It is become a landmark stone",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It is become a stone of memorial",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It is become a millstone",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It is become the head of the corner",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Acts 4:11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "apg_020",
+      "type": "single_choice",
+      "text": "What does the surname Barnabas mean, which the apostles gave unto the Levite Joses?",
+      "options": [
+        {
+          "text": "The son of consolation",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The son of strength",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A man of peace",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A man of God",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Acts 4:36-37",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_021",
+      "type": "single_choice",
+      "text": "Which married couple lied to the Holy Ghost at the sale of their land?",
+      "options": [
+        {
+          "text": "Aquila and Priscilla",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Ananias and Sapphira",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Zacharias and Elisabeth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Felix and Drusilla",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Acts 5:1-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_022",
+      "type": "single_choice",
+      "text": "What befell Ananias immediately after Peter had convicted him?",
+      "options": [
+        {
+          "text": "He was struck blind before all the multitude",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He fled straightway into the wilderness",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He fell down, and gave up the ghost",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He was forthwith put in prison",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Acts 5:4-5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "apg_023",
+      "type": "single_choice",
+      "text": "What did the people hope for the sick whom they brought forth into the streets, when Peter passed by?",
+      "options": [
+        {
+          "text": "That his mantle, hanging over his shoulder, might touch them",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That his voice might call them as he passed by them",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That his look might fall on them as he beheld them kindly",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That at the least his shadow might overshadow some of them",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Acts 5:15-16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_024",
+      "type": "single_choice",
+      "text": "Who delivered the imprisoned apostles out of the common prison by night?",
+      "options": [
+        {
+          "text": "The angel of the Lord",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A Roman soldier",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A great earthquake",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A believing servant",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Acts 5:17-20",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "apg_025",
+      "type": "single_choice",
+      "text": "Which renowned doctor of the law counselled the council to be prudent?",
+      "options": [
+        {
+          "text": "Ezra, the scribe and priest",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Gamaliel, a Pharisee and doctor of the law",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Caiaphas, the high priest and son in law of Annas",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Nicodemus, the Pharisee and ruler of the Jews",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Acts 5:34-39",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "apg_026",
+      "type": "single_choice",
+      "text": "What dispute led to the appointment of the first seven deacons?",
+      "options": [
+        {
+          "text": "A dispute over the circumcision of the Gentiles who had joined the church",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A lack of money in the common treasury, which no one would fill any more",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The widows of the Grecians were neglected in the daily ministration",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A dispute over the sabbath, which some believers would keep more strictly",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Acts 6:1-2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "apg_027",
+      "type": "single_choice",
+      "text": "What was the decisive requirement in choosing the seven deacons?",
+      "options": [
+        {
+          "text": "They should be rich and noble and of honourable families",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They should be learned at Rome and skilled in the Latin tongue",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They should be esteemed by the priests and serve in the temple",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They should be of honest report, full of the Holy Ghost and wisdom",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Acts 6:3-4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "apg_028",
+      "type": "single_choice",
+      "text": "Which of the seven chosen deacons was distinguished by wonders?",
+      "options": [
+        {
+          "text": "Stephen, full of faith and power",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Nicolas of Antioch",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Timon, one of the seven",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Parmenas of Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Acts 6:8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_029",
+      "type": "single_choice",
+      "text": "What accusation did the witnesses who had been stirred up bring against Stephen?",
+      "options": [
+        {
+          "text": "He had stolen the temple treasure and kept back the offerings",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He spake blasphemous words against this holy place, and the law",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He had joined himself to the Romans and betrayed the people",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He had withheld the tithe and broken the feasts of the law",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Acts 6:11-13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_030",
+      "type": "single_choice",
+      "text": "How did Stephen's face appear before the assembled council?",
+      "options": [
+        {
+          "text": "As a sunlit flame",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As a dark cloud",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As it had been the face of an angel",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "As a terrible countenance",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Acts 6:15",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "apg_031",
+      "type": "single_choice",
+      "text": "Where, according to Stephen's speech, did the God of glory appear unto the patriarch Abraham?",
+      "options": [
+        {
+          "text": "In Egypt, before he dwelt in Canaan",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In Damascus, before he went down into Egypt",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In Beer-sheba, before he dwelt in Gerar",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In Mesopotamia, before he dwelt in Charran",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Acts 7:2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_032",
+      "type": "single_choice",
+      "text": "How many years should the seed of Abraham remain in bondage?",
+      "options": [
+        {
+          "text": "Four hundred years",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Seven hundred years",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Two hundred years",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Three hundred years",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Acts 7:6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "apg_033",
+      "type": "single_choice",
+      "text": "Which son of Jacob was sold into Egypt by his brethren out of envy?",
+      "options": [
+        {
+          "text": "Reuben, the firstborn son",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Joseph, the son of Rachel",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Benjamin, the youngest brother",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Judah, the fourth son of Jacob",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Acts 7:9",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "apg_034",
+      "type": "single_choice",
+      "text": "What vision did Stephen see immediately before he was stoned?",
+      "options": [
+        {
+          "text": "A host of fiery angels compassing about them that stoned him",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A thunder from heaven that shook the whole multitude",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The heavens opened, and the Son of man standing on the right hand of God",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The likeness of the old temple as it once stood under Solomon",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Acts 7:55-56",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "apg_035",
+      "type": "single_choice",
+      "text": "Which young man watched over the clothes at the stoning of Stephen?",
+      "options": [
+        {
+          "text": "Mark",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Silas",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Titus",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Saul",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Acts 7:58",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_036",
+      "type": "single_choice",
+      "text": "Which deacon preached the gospel with great success in Samaria?",
+      "options": [
+        {
+          "text": "Philip",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Stephen",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Prochorus",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Nicanor",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Acts 8:5-6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "apg_037",
+      "type": "single_choice",
+      "text": "Which sorcerer in Samaria wanted to purchase the gift of the Holy Ghost with money?",
+      "options": [
+        {
+          "text": "Elymas the sorcerer",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Simon the sorcerer",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Bar-jesus the magician",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Hermogenes the sorcerer",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Acts 8:18-20",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_038",
+      "type": "single_choice",
+      "text": "What office did the man of Ethiopia hold at the court of queen Candace?",
+      "options": [
+        {
+          "text": "He was the queen's captain and commanded her troops",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He was a priest in the temple and served at the altar",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He had the charge of all the treasure of queen Candace",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He was governor of a city on the Nile and judged the people",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Acts 8:27",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "apg_039",
+      "type": "single_choice",
+      "text": "Which book of the Old Testament was the Ethiopian reading in his chariot?",
+      "options": [
+        {
+          "text": "The book of the prophet Jeremiah",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The book of the Psalms of David",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The book of the prophet Daniel",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The book of the prophet Esaias",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Acts 8:28-35",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_040",
+      "type": "single_choice",
+      "text": "What did the eunuch of Ethiopia see on the way, so that he asked to be baptized?",
+      "options": [
+        {
+          "text": "A certain water by the way",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A well in the city",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The river Jordan",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The rain from heaven",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Acts 8:36-38",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "apg_041",
+      "type": "single_choice",
+      "text": "Near which city did the light from heaven shine round about Saul at his conversion?",
+      "options": [
+        {
+          "text": "Near Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Near Damascus",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Near Antioch",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Near Cæsarea",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Acts 9:3-4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "apg_042",
+      "type": "single_choice",
+      "text": "For how many days did Saul remain blind and without food after the heavenly vision?",
+      "options": [
+        {
+          "text": "For seven days",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For forty days",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For three days",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "For ten days",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Acts 9:9",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "apg_043",
+      "type": "single_choice",
+      "text": "Which disciple did the Lord send to lay hands on Saul?",
+      "options": [
+        {
+          "text": "The apostle Peter from Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Barnabas, a Levite of Cyprus",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Philip the evangelist of Cæsarea",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Ananias, a disciple at Damascus",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Acts 9:10-17",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "apg_044",
+      "type": "single_choice",
+      "text": "How did Saul escape the Jews at Damascus who sought to kill him?",
+      "options": [
+        {
+          "text": "The disciples let him down by the city wall in a basket",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Disguised as a Roman soldier through the main gate",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Through a secret gate in the south of the city",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Under the protection of the Roman guards",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Acts 9:23-25",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_045",
+      "type": "single_choice",
+      "text": "Which believing woman of Joppa, full of good works, did Peter raise from the dead through prayer?",
+      "options": [
+        {
+          "text": "Lydia, the seller of purple",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Tabitha, which by interpretation is called Dorcas",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Rhoda, the young damsel of the house",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Drusilla, the noblewoman from Rome",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Acts 9:36-41",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "apg_046",
+      "type": "single_choice",
+      "text": "What office did the God-fearing Cornelius hold in the city of Cæsarea?",
+      "options": [
+        {
+          "text": "Governor of the province of Judæa",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Priest in a heathen temple",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Centurion of the Italian band",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Judge in the city of Cæsarea",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Acts 10:1-2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_047",
+      "type": "single_choice",
+      "text": "What vision did Peter have upon the housetop at Joppa?",
+      "options": [
+        {
+          "text": "A sheet with lambs cleanly slaughtered",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A net full of fishes from the lake of Gennesaret",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A garment of fine linen from heaven",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A sheet with all manner of clean and unclean beasts",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Acts 10:9-16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "apg_048",
+      "type": "single_choice",
+      "text": "How many men did Cornelius send to Joppa to call Peter unto him?",
+      "options": [
+        {
+          "text": "Three men",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Five men",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Two men",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Seven men",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Acts 10:19",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_049",
+      "type": "single_choice",
+      "text": "What happened to the Gentile hearers during Peter's sermon at Cæsarea?",
+      "options": [
+        {
+          "text": "They fled out of the house, because fear of the word came upon them",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The Holy Ghost fell on all them which heard the word",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "They gave money for the temple and asked to be received",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They strove among themselves about the sermon and were divided",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Acts 10:44-46",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_050",
+      "type": "single_choice",
+      "text": "What decision followed immediately after the Spirit came upon the Gentiles?",
+      "options": [
+        {
+          "text": "Peter commanded that all the men be circumcised",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Peter journeyed to Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Peter commanded them to be baptized in the name of the Lord",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Peter appointed a fast of seven days",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Acts 10:47-48",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_051",
+      "type": "single_choice",
+      "text": "What reproach did the believers of the circumcision bring against Peter?",
+      "options": [
+        {
+          "text": "That he had taken money from the church's treasury for himself",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That he had broken the sabbath and worked on the feast day",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That he had left Jerusalem and forsaken the church",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That he went in to men uncircumcised, and did eat with them",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Acts 11:1-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_052",
+      "type": "single_choice",
+      "text": "In which city were the disciples first called Christians?",
+      "options": [
+        {
+          "text": "In Antioch",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "In Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In Cæsarea",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In Damascus",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Acts 11:26",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_053",
+      "type": "single_choice",
+      "text": "Which prophet foretold a great dearth throughout all the world?",
+      "options": [
+        {
+          "text": "The prophet Silas",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The prophet Agabus",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The prophet Judas",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The prophet Lucius",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Acts 11:27-28",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_054",
+      "type": "single_choice",
+      "text": "Unto whom did the church at Antioch send its relief for the brethren?",
+      "options": [
+        {
+          "text": "Unto the priests and Levites at Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto the poor at Rome, by Silas and Timotheus",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto the elders, by Barnabas and Saul",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Unto the churches in Cyprus, by Titus and Silas",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Acts 11:29-30",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "apg_055",
+      "type": "single_choice",
+      "text": "Which apostle accompanied Barnabas in strengthening the church at Antioch?",
+      "options": [
+        {
+          "text": "Peter",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "John",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "James",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Saul",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Acts 11:25-26",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_056",
+      "type": "single_choice",
+      "text": "Which apostle did king Herod Agrippa I kill with the sword?",
+      "options": [
+        {
+          "text": "James, the brother of John",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Peter, the fisherman of Bethsaida",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Andrew, the brother of Simon Peter",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Matthew, the former publican",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Acts 12:1-2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_057",
+      "type": "single_choice",
+      "text": "How many guards kept Peter in prison during the days of the feast?",
+      "options": [
+        {
+          "text": "Two bands of ten soldiers each",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Four quaternions of four soldiers each",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Three bands of two soldiers each",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Five bands of three soldiers each",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Acts 12:4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_058",
+      "type": "single_choice",
+      "text": "What was the name of the damsel who knew Peter's voice at the door of Mary's house?",
+      "options": [
+        {
+          "text": "Lydia",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Phebe",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Rhoda",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Dorcas",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Acts 12:13-14",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "apg_059",
+      "type": "single_choice",
+      "text": "What judgment befell king Herod Agrippa when he let himself be honoured as a god?",
+      "options": [
+        {
+          "text": "Lightning smote him upon his throne, and he died immediately",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The people stoned him in the marketplace, because they hated him",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He was drowned in the sea at Cæsarea when his ship went down",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The angel of the Lord smote him, and he was eaten of worms",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Acts 12:21-23",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "apg_060",
+      "type": "single_choice",
+      "text": "Whom did Barnabas and Saul take with them when they returned from Jerusalem?",
+      "options": [
+        {
+          "text": "John, whose surname was Mark",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Timotheus of Lystra, the son of a Jewess",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Titus of Corinth, a Greek",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Silas of Jerusalem, a prophet",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Acts 12:25",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "apg_061",
+      "type": "single_choice",
+      "text": "On which island did the first missionary journey of Barnabas and Saul begin?",
+      "options": [
+        {
+          "text": "On Crete",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "On Cyprus",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "On Melita",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "On Rhodes",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Acts 13:4-5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_062",
+      "type": "single_choice",
+      "text": "Which sorcerer and false prophet was smitten with blindness in Cyprus?",
+      "options": [
+        {
+          "text": "Simon the sorcerer",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Theudas the rebel",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Elymas the sorcerer",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Alexander the coppersmith",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Acts 13:8-11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_063",
+      "type": "single_choice",
+      "text": "Which Roman deputy in Cyprus came to believe through the miracle?",
+      "options": [
+        {
+          "text": "Pontius Pilate",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Porcius Festus",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Antonius Felix",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Sergius Paulus",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Acts 13:7-12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "apg_064",
+      "type": "single_choice",
+      "text": "In which city did John Mark depart from the missionaries and turn back?",
+      "options": [
+        {
+          "text": "At Perga in Pamphylia",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "At Paphos in Cyprus",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "At Lystra in Lycaonia",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "At Tarsus in Cilicia",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Acts 13:13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "apg_065",
+      "type": "single_choice",
+      "text": "How did the Gentiles at Antioch in Pisidia respond to Paul's preaching?",
+      "options": [
+        {
+          "text": "They rejected the word at once and drove the messengers out of the city",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They were glad, glorified the word of the Lord, and as many as were ordained believed",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "They stoned Paul, because he blasphemed and despised the law of Moses",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They departed in silence and returned to their houses without asking anything",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Acts 13:46-48",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_066",
+      "type": "single_choice",
+      "text": "In which city did Paul and Barnabas heal a man who had been a cripple from his birth?",
+      "options": [
+        {
+          "text": "At Derbe",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "At Iconium",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "At Lystra",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "At Tarsus",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Acts 14:8-10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "apg_067",
+      "type": "single_choice",
+      "text": "As which heathen gods were Barnabas and Paul hailed at Lystra?",
+      "options": [
+        {
+          "text": "As Mars and Apollo (Ares and Apollo)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As Neptune and Mars (Poseidon and Ares)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As Bacchus and Vulcan (Dionysus and Hephaestus)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As Jupiter and Mercurius (Zeus and Hermes)",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Acts 14:11-13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_068",
+      "type": "single_choice",
+      "text": "What befell Paul after Jews from Antioch had stirred up the people?",
+      "options": [
+        {
+          "text": "He was stoned and drawn out of the city, supposed dead, but rose up",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He was cast into prison and had to remain there many days",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He was cast into a cistern and was rescued and tended by shepherds",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He was banished from the city and might never return thither",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Acts 14:19-20",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_069",
+      "type": "single_choice",
+      "text": "What office did the apostles appoint in each church on their way back?",
+      "options": [
+        {
+          "text": "Scribes for every city",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Elders in every church",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Priests according to the law",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Deacons for the poor",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Acts 14:23",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_070",
+      "type": "single_choice",
+      "text": "In what place did the returning missionaries rehearse how the door of faith had been opened?",
+      "options": [
+        {
+          "text": "In the holy city Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In the city of Tarsus in Cilicia",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In the great church at Antioch",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "In the city of Ephesus in Asia",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Acts 14:26-27",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_071",
+      "type": "single_choice",
+      "text": "What question did the famous council of the apostles at Jerusalem consider?",
+      "options": [
+        {
+          "text": "How the sabbath should be kept and which works are lawful on it",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "How the temple should be repaired and who should bear the cost",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "How tribute should be paid and unto whom it should go",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Whether the Gentiles must be circumcised and keep the law of Moses",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Acts 15:1-6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "apg_072",
+      "type": "single_choice",
+      "text": "Which apostle spoke after Peter and summed up the decision?",
+      "options": [
+        {
+          "text": "James, the Lord's brother",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "John, the son of Zebedee",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Andrew, Peter's brother",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Matthew, the former publican",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Acts 15:13-21",
+      "explanation": "James the brother of John had already been killed (Acts 12:2). The James who speaks here is the Lord's brother, whom Paul counts among the apostles (Galatians 1:19; 2:9).",
+      "explanationReviewed": true,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "apg_073",
+      "type": "single_choice",
+      "text": "From which things were the believing Gentiles charged to abstain in the apostles' decree?",
+      "options": [
+        {
+          "text": "Wine, flesh, and all manner of milk",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Meats offered to idols, blood, things strangled, and fornication",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Gold, silver, and buying and selling on the sabbath",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Usury, robbery, murder, and false witness",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Acts 15:28-29",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "apg_074",
+      "type": "single_choice",
+      "text": "Which two men were sent unto Antioch with the apostles' letter?",
+      "options": [
+        {
+          "text": "Timotheus and Titus, the fellowlabourers of Paul",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Aquila and Apollos, the teachers from Ephesus",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Judas surnamed Barsabas, and Silas",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Stephen and Philip, the deacons from Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Acts 15:22-30",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_075",
+      "type": "single_choice",
+      "text": "Why did Paul and Barnabas part from one another before the second missionary journey?",
+      "options": [
+        {
+          "text": "Because of the travelling money, which Barnabas would not hand over",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because of the destination, which Paul and Barnabas chose differently",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because of the question of baptism, which they understood differently",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because of John Mark, whom Paul would not take with them",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Acts 15:36-40",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_076",
+      "type": "single_choice",
+      "text": "Which young disciple, whose mother was a Jewess and whose father was a Greek, joined Paul?",
+      "options": [
+        {
+          "text": "Timotheus of Lystra",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Titus, the young Greek",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Luke, the faithful helper",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Silas, the noble prophet",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Acts 16:1-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_077",
+      "type": "single_choice",
+      "text": "In which city did Paul see in the night the vision of a man calling for help?",
+      "options": [
+        {
+          "text": "At Philippi",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "At Troas",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "At Athens",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "At Corinth",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Acts 16:8-10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "apg_078",
+      "type": "single_choice",
+      "text": "Which seller of purple was converted as the first believer at Philippi?",
+      "options": [
+        {
+          "text": "Phebe of Cenchrea, the servant of the church",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Priscilla of Rome, the wife of Aquila",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Lydia, a seller of purple, of Thyatira",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Chloe of Corinth, the mistress of the house",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Acts 16:14-15",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "apg_079",
+      "type": "single_choice",
+      "text": "What miracle set Paul and Silas free from the prison at Philippi?",
+      "options": [
+        {
+          "text": "A brightly blazing fire",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A strongly dazzling light",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "An angel that set them free",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A sudden great earthquake",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Acts 16:25-26",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "apg_080",
+      "type": "single_choice",
+      "text": "What kept the keeper of the prison at Philippi from killing himself that night?",
+      "options": [
+        {
+          "text": "Paul cried with a loud voice: Do thyself no harm: for we are all here",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Roman soldiers stepped in and wrested the sword from his hand",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "His hand was suddenly palsied, so that the sword fell from it",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Silas cried for help and called him back out of the prison",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Acts 16:27-28",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_081",
+      "type": "single_choice",
+      "text": "How did the Jews at Berea behave in comparison with those in Thessalonica?",
+      "options": [
+        {
+          "text": "They were more slothful and shunned the doctrine, for they feared the scriptures",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They were more noble and searched the scriptures daily",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "They were fiercer and drove out the messengers, as at Thessalonica before",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They were quieter and held their peace when they heard Paul's word",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Acts 17:10-11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "apg_082",
+      "type": "single_choice",
+      "text": "What stirred Paul's spirit in him while he waited at Athens?",
+      "options": [
+        {
+          "text": "The poverty and hunger of the people",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The filth of the streets and markets",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The city was wholly given to idolatry",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The pride of the Romans in their empire",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Acts 17:16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_083",
+      "type": "single_choice",
+      "text": "On which rocky hill did Paul give his well-known speech to the Athenians?",
+      "options": [
+        {
+          "text": "On mount Sion",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "On the mount of Olives",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "On the Capitol",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "On Areopagus (Mars' hill)",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Acts 17:19-22",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "apg_084",
+      "type": "single_choice",
+      "text": "Which altar did Paul choose as the starting point for his sermon at Athens?",
+      "options": [
+        {
+          "text": "TO THE UNKNOWN GOD",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "TO THE MOST HIGH JUPITER",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "TO THE SUN GOD OF ROME",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "TO THE GOD OF PEACE",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Acts 17:23",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "apg_085",
+      "type": "single_choice",
+      "text": "Which two persons, mentioned by name, believed after the speech on Areopagus?",
+      "options": [
+        {
+          "text": "Aquila and Priscilla, the married couple from Rome and Corinth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Dionysius the Areopagite, and a woman named Damaris",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Philemon and Apphia, a married couple of Colosse",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Jason and Sopater, hosts from Thessalonica",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Acts 17:34",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "apg_086",
+      "type": "single_choice",
+      "text": "Which married couple, tentmakers by trade, received Paul into their house at Corinth?",
+      "options": [
+        {
+          "text": "Philemon and Apphia",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Ananias and Sapphira",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Aquila and Priscilla",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Zacchæus and Martha",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Acts 18:1-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "apg_087",
+      "type": "single_choice",
+      "text": "How long did Paul continue teaching and preaching in the city of Corinth?",
+      "options": [
+        {
+          "text": "Two years and three months",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Six months and two weeks",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Three years and one month",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A year and six months",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Acts 18:11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_088",
+      "type": "single_choice",
+      "text": "Which Roman deputy of Achaia dismissed the accusation of the Jews?",
+      "options": [
+        {
+          "text": "Gallio, the deputy",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Felix, the governor",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Sergius, the deputy",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Festus, the governor",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Acts 18:12-16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_089",
+      "type": "single_choice",
+      "text": "Which Jewish ruler of the synagogue at Corinth believed on the Lord with all his house?",
+      "options": [
+        {
+          "text": "Jairus, the ruler at Capernaum",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Crispus, the chief ruler of the synagogue",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Nicodemus, a ruler of the Jews",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Gaius, the host of Paul",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Acts 18:8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "apg_090",
+      "type": "single_choice",
+      "text": "Which Jew of Alexandria, mighty in the scriptures, was instructed more perfectly at Ephesus?",
+      "options": [
+        {
+          "text": "Barnabas of Cyprus",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Nicolas of Antioch",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Apollos, born at Alexandria",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Stephen of Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Acts 18:24-26",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_091",
+      "type": "single_choice",
+      "text": "What lack of knowledge concerning the Spirit did the twelve disciples at Ephesus show?",
+      "options": [
+        {
+          "text": "They denied that the Spirit existed and doubted his working",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They shunned the gifts of the Spirit and held them needless",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They rejected his power and called the Spirit's working a lie",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They had not so much as heard whether there be any Holy Ghost",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Acts 19:1-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "apg_092",
+      "type": "single_choice",
+      "text": "How long did Paul teach in the school of one Tyrannus in the city of Ephesus?",
+      "options": [
+        {
+          "text": "By the space of two years",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "By the space of three years",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By the space of one year",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By the space of six months",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Acts 19:9-10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_093",
+      "type": "single_choice",
+      "text": "What befell the seven sons of Sceva, a Jew and chief of the priests?",
+      "options": [
+        {
+          "text": "The people stoned them and drove them out of the city",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The evil spirit overcame them, and they fled naked and wounded",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The judge shut them up and had them scourged openly",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Lightning smote them, and they fell down dead",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Acts 19:13-16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "apg_094",
+      "type": "single_choice",
+      "text": "What was the price of the books of curious arts that were burned at Ephesus?",
+      "options": [
+        {
+          "text": "Ten thousand pieces of gold",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A hundred thousand farthings",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Fifty thousand pieces of silver",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Twenty thousand talents",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Acts 19:18-19",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "apg_095",
+      "type": "single_choice",
+      "text": "Which silversmith stirred up the uproar against Paul at Ephesus?",
+      "options": [
+        {
+          "text": "Alexander the coppersmith",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Hermogenes the silversmith",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Trophimus the goldsmith",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Demetrius, a silversmith",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Acts 19:24-27",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "apg_096",
+      "type": "single_choice",
+      "text": "Which young man fell out of the window during Paul's preaching at Troas?",
+      "options": [
+        {
+          "text": "Eutychus",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Tychicus",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Trophimus",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Sopater",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Acts 20:7-9",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "apg_097",
+      "type": "single_choice",
+      "text": "From which loft did Eutychus fall down while Paul was long preaching?",
+      "options": [
+        {
+          "text": "From the second loft",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "From the third loft",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "From the fourth loft",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "From the fifth loft",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Acts 20:9-12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "apg_098",
+      "type": "single_choice",
+      "text": "At what place did Paul call together the elders of the church of Ephesus?",
+      "options": [
+        {
+          "text": "At Antioch",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "At Cæsarea",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "At Miletus",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "At Corinth",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Acts 20:17",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "apg_099",
+      "type": "single_choice",
+      "text": "Against what danger did Paul warn the elders of Ephesus?",
+      "options": [
+        {
+          "text": "Against great poverty of the brethren in the church",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Against the decay of the house that was not kept",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Against the flight of the elders unto Rome in tribulation",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Against grievous wolves, not sparing the flock",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Acts 20:29-30",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_100",
+      "type": "single_choice",
+      "text": "What saying of Jesus did Paul call to the remembrance of the elders?",
+      "options": [
+        {
+          "text": "It is more blessed to give than to receive",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Love alone overcometh all the enmity of the world",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Fasting with prayer strengtheneth the spirit of all believers",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The meek shall inherit the promised land of the fathers",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Acts 20:35",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "apg_101",
+      "type": "single_choice",
+      "text": "Which prophet bound himself with Paul's girdle and foretold his bonds?",
+      "options": [
+        {
+          "text": "Silas the prophet",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Agabus of Judæa",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Judas the witness",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Barnabas the Levite",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Acts 21:10-11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "apg_102",
+      "type": "single_choice",
+      "text": "With whom did Paul lodge when he arrived in the city of Cæsarea?",
+      "options": [
+        {
+          "text": "With Cornelius the centurion, who received him and entertained him",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With Agabus the prophet, who gave him a house by the haven",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With Philip the evangelist, which was one of the seven",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "With Mnason the elder, who entertained him and lodged him in his house",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Acts 21:8-9",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_103",
+      "type": "single_choice",
+      "text": "What rite in the temple was to show Paul's faithfulness to the law?",
+      "options": [
+        {
+          "text": "He should have Titus circumcised and testify of it before all in the temple",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He should kill a passover lamb and eat it with the brethren in the temple",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He should give a gift unto the temple treasury and pray openly in the temple",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He should go with four men which had a vow and be at charges for their purification",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Acts 21:23-26",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_104",
+      "type": "single_choice",
+      "text": "What false accusation stirred up the uproar of the Jews of Asia?",
+      "options": [
+        {
+          "text": "He had brought Greeks into the temple and polluted the holy place",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He had stolen the holy vessels and robbed the temple treasury",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He had stirred up the Romans and turned the people against the high priest",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He had refused the sacrifices and despised the feasts of the LORD",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Acts 21:28-29",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "apg_105",
+      "type": "single_choice",
+      "text": "Which Roman chief captain rescued Paul from the raging multitude?",
+      "options": [
+        {
+          "text": "Cornelius the centurion",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Claudius Lysias the chief captain",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Festus the governor",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Gallio the deputy",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Acts 23:26-27",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "apg_106",
+      "type": "single_choice",
+      "text": "In what tongue did Paul make his defence unto the people?",
+      "options": [
+        {
+          "text": "In the Greek tongue of the people",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In the Latin tongue of the Romans",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In the Hebrew (Aramaic) tongue",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "In the Persian tongue of the merchants",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Acts 22:1-2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_107",
+      "type": "single_choice",
+      "text": "Under which highly esteemed teacher had Paul been brought up in Jerusalem?",
+      "options": [
+        {
+          "text": "Hillel",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Shammai",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Caiaphas",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Gamaliel",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Acts 22:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "apg_108",
+      "type": "single_choice",
+      "text": "What light blinded Saul about noon on the way to Damascus?",
+      "options": [
+        {
+          "text": "A great light from heaven about noon",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A pillar of fire over the way",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A burning bush by the wayside",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A flash of lightning in a storm at noon",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Acts 22:6-11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_109",
+      "type": "single_choice",
+      "text": "What commission caused the people to lift up their voices in fury?",
+      "options": [
+        {
+          "text": "The plan to destroy the temple",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The commission to go unto the Gentiles",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The call to do away with all sacrifices",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The counsel to flee out of the city",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Acts 22:21-22",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_110",
+      "type": "single_choice",
+      "text": "What citizenship kept Paul from being scourged by the soldiers?",
+      "options": [
+        {
+          "text": "The Greek citizenship",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A diploma from Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The Roman citizenship",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The privilege of the Torah",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Acts 22:25-29",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "apg_111",
+      "type": "single_choice",
+      "text": "Which high priest commanded them to smite Paul on the mouth?",
+      "options": [
+        {
+          "text": "Caiaphas",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Annas",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Eliakim",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Ananias",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Acts 23:1-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "apg_112",
+      "type": "single_choice",
+      "text": "What point of contention divided the council into Pharisees and Sadducees?",
+      "options": [
+        {
+          "text": "The resurrection of the dead",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The paying of tribute",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The service of sacrifice in the temple",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The rebuilding of the sanctuary",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Acts 23:6-8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "apg_113",
+      "type": "single_choice",
+      "text": "Who uncovered the plot of more than forty men to kill Paul?",
+      "options": [
+        {
+          "text": "A believing Pharisee in the council",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The son of Paul's sister",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A Roman spy in the castle",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A servant of the chief captain Lysias",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Acts 23:12-22",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "apg_114",
+      "type": "single_choice",
+      "text": "How many men did the chief captain make ready to bring Paul to Cæsarea by night?",
+      "options": [
+        {
+          "text": "Two hundred and eighty (100 soldiers, 80 horsemen, 100 spearmen)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Three hundred and fifty (150 soldiers, 50 horsemen, 150 spearmen)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Four hundred and seventy (200 soldiers, 70 horsemen, 200 spearmen)",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Five hundred and twenty (250 soldiers, 70 horsemen, 200 spearmen)",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Acts 23:23-24",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "apg_115",
+      "type": "single_choice",
+      "text": "Which governor received the letter of Lysias and took charge of Paul?",
+      "options": [
+        {
+          "text": "Festus the governor",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Pilate the governor",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Gallio the deputy",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Felix the governor",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Acts 23:24-35",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "apg_116",
+      "type": "single_choice",
+      "text": "Which orator came forward on behalf of the council to accuse Paul?",
+      "options": [
+        {
+          "text": "Tertullus, an orator",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Lysias, a chief captain",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Gallio, a deputy",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Gamaliel, a teacher",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Acts 24:1-8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "apg_117",
+      "type": "single_choice",
+      "text": "What chief accusation did Tertullus bring against Paul before Felix?",
+      "options": [
+        {
+          "text": "That he was a thief of Cæsar's money",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That he was a ringleader of the sect of the Nazarenes",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "That he was a murderer in the land of the Romans",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That he was a forger of the scriptures",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Acts 24:5-6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_118",
+      "type": "single_choice",
+      "text": "How did the governor Felix deal with the matter after Paul's defence?",
+      "options": [
+        {
+          "text": "He set him free at once and let him go without condition",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He had him scourged at once and cast into prison as punishment",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He deferred the matter until Lysias the chief captain should come down",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He sent him to Rome unto Cæsar, that he might decide the matter",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Acts 24:22-23",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_119",
+      "type": "single_choice",
+      "text": "What was the name of the Jewish wife of the governor Felix, who heard Paul?",
+      "options": [
+        {
+          "text": "Bernice, a queen",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Herodias, a princess",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Claudia, a Roman",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Drusilla, a Jewess",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Acts 24:24",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "apg_120",
+      "type": "single_choice",
+      "text": "When did Porcius Festus succeed Felix as governor?",
+      "options": [
+        {
+          "text": "After two years",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "After three years",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "After one year",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "After five years",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Acts 24:27",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_121",
+      "type": "single_choice",
+      "text": "Whither did the chief priests desire Festus to have Paul brought?",
+      "options": [
+        {
+          "text": "To Rome at once",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To Jerusalem",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Into the wilderness of Sinai",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To Antioch",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Acts 25:1-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_122",
+      "type": "single_choice",
+      "text": "What right did Paul claim as a Roman citizen before Festus?",
+      "options": [
+        {
+          "text": "Release for a sum of money",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The protection of the senate",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The appeal unto Cæsar",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Flight into a house of refuge",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Acts 25:10-11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "apg_123",
+      "type": "single_choice",
+      "text": "Which king came unto Cæsarea and desired to hear Paul's cause?",
+      "options": [
+        {
+          "text": "King Herod I",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "King Aretas",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "King Phraates",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "King Agrippa II",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Acts 25:13-22",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "apg_124",
+      "type": "single_choice",
+      "text": "According to Festus, what question concerning Jesus lay between Paul and the Jews?",
+      "options": [
+        {
+          "text": "Whether one Jesus, which was dead, be alive",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Whether the temple should be built again",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Whether tribute be due unto Cæsar",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Whether circumcision be binding",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Acts 25:19",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "apg_125",
+      "type": "single_choice",
+      "text": "What decision did Festus give after Paul had appealed unto Cæsar?",
+      "options": [
+        {
+          "text": "Thou shalt be released at once, for thine appeal is void",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Hast thou appealed unto Cæsar? unto Cæsar shalt thou go",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Thou shalt be judged in Judæa, for Cæsar is far off",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Thou shalt remain in prison for ever, for thou hast broken the law",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Acts 25:12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_126",
+      "type": "single_choice",
+      "text": "To which sect of the Jews did Paul belong before his conversion?",
+      "options": [
+        {
+          "text": "The sect of the Sadducees",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The sect of the Essenes",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The sect of the Pharisees",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The sect of the Zealots",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Acts 26:4-5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "apg_127",
+      "type": "single_choice",
+      "text": "What proverbial image did the voice from heaven use at Paul's calling?",
+      "options": [
+        {
+          "text": "It is hard for thee to run against the rocks",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It is hard for thee to fight against the fire",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It is hard for thee to swim against the waves",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It is hard for thee to kick against the pricks",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Acts 26:14",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "apg_128",
+      "type": "single_choice",
+      "text": "What reproach did Festus cry out as Paul answered for himself before Agrippa?",
+      "options": [
+        {
+          "text": "Paul, thou art beside thyself; much learning doth make thee mad",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Paul, thou hast transgressed the holy law and denied the fathers",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Paul, thou speakest great words, but thy wisdom is of this world",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Paul, thou art a mover of sedition and turnest the people against Cæsar",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Acts 26:24",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_129",
+      "type": "single_choice",
+      "text": "What answer did Paul give when Agrippa spoke of becoming a Christian?",
+      "options": [
+        {
+          "text": "Every man should remain a Jew as he was born and keep the law",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He wished that all were such as he was, except these bonds",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Cæsar decideth all things, and no man can change himself",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Faith is free, and no man may be compelled unto it",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Acts 26:28-29",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_130",
+      "type": "single_choice",
+      "text": "What judgment did Agrippa give after Paul's defence?",
+      "options": [
+        {
+          "text": "He deserveth scourging, for he hath grievously troubled the peace of the land",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He shall go back to Jerusalem, where the council shall judge him at leisure",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "This man might have been set at liberty, if he had not appealed unto Cæsar",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He must die at once, for he hath grievously broken the order of the Romans",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Acts 26:31-32",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_131",
+      "type": "single_choice",
+      "text": "Which Roman centurion had charge of the prisoners on the voyage to Rome?",
+      "options": [
+        {
+          "text": "Cornelius, a centurion of the Italian band",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Claudius Lysias, chief captain of the garrison at Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Tertullus, an orator from Cæsarea",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Julius, a centurion of Augustus' band",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Acts 27:1-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "apg_132",
+      "type": "single_choice",
+      "text": "What stormy wind caught the ship near the isle of Crete and drove it away?",
+      "options": [
+        {
+          "text": "The tempestuous wind Euroclydon (north-east wind)",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Notus (the south wind) from the sea",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Zephyrus (the west wind) from Italy",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Eurus (the east wind) from the land",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Acts 27:14-15",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "apg_133",
+      "type": "single_choice",
+      "text": "How long did the crew see neither sun nor stars in the tempest?",
+      "options": [
+        {
+          "text": "For exactly three days they saw neither sun nor stars",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For many days they saw neither sun nor stars",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "For exactly seven days they saw neither sun nor stars",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For exactly forty days they saw neither sun nor stars",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Acts 27:20",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "apg_134",
+      "type": "single_choice",
+      "text": "What assurance did the angel of God give Paul in the night of the tempest?",
+      "options": [
+        {
+          "text": "The ship would be saved, but the lading would be lost",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The storm would cease at once, and the sea be calm",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "None of them would perish, but only the ship",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The lading would not be lost, but some men must perish",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Acts 27:22-25",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_135",
+      "type": "single_choice",
+      "text": "How many souls in all were on board the ship that ran aground?",
+      "options": [
+        {
+          "text": "Two hundred threescore and four",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Three hundred twenty and six",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Two hundred threescore and ten",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Two hundred threescore and sixteen",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Acts 27:37-44",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "apg_136",
+      "type": "single_choice",
+      "text": "On which island did the ship's company come ashore after the shipwreck?",
+      "options": [
+        {
+          "text": "On Cyprus",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "On Crete",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "On Rhodes",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "On Melita",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Acts 28:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_137",
+      "type": "single_choice",
+      "text": "What creature fastened on Paul's hand without doing him any harm?",
+      "options": [
+        {
+          "text": "A scorpion",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A viper",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A mad dog",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A venomous spider",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Acts 28:3-6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "apg_138",
+      "type": "single_choice",
+      "text": "Whose father did Paul heal on the island of Melita by prayer and the laying on of hands?",
+      "options": [
+        {
+          "text": "The father of Julius, the centurion of Augustus' band",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The father of Festus, the governor of the province",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The father of Publius, the chief man of the island",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The father of Agabus, the prophet from Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Acts 28:7-9",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_139",
+      "type": "single_choice",
+      "text": "How long did Paul dwell in his own hired house in the city of Rome?",
+      "options": [
+        {
+          "text": "Three whole years",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "One whole year",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Five whole years",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Two whole years",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Acts 28:30-31",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "apg_140",
+      "type": "single_choice",
+      "text": "Which Old Testament prophet did Paul cite when the Jews at Rome departed?",
+      "options": [
+        {
+          "text": "Esaias the prophet",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Jeremiah the prophet",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Ezekiel the prophet",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Daniel the prophet",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Acts 28:25-28",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "apg_141",
+      "type": "single_choice",
+      "text": "Who asked near Damascus, 'Who art thou, Lord?' (Acts 9:5)?",
+      "options": [
+        {
+          "text": "Saul",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Ananias",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Stephen",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Barnabas",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Acts 9:5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "apg_142",
+      "type": "single_choice",
+      "text": "Who said unto the lame man at the gate of the temple, 'Silver and gold have I none; but such as I have give I thee' (Acts 3:6)?",
+      "options": [
+        {
+          "text": "Stephen",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Peter",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Barnabas",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Philip",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Acts 3:6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "apg_143",
+      "type": "multiple_choice",
+      "text": "Which two men did the Holy Ghost separate for the missionary work according to Acts 13:2?",
+      "options": [
+        {
+          "text": "Saul",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Silas",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Timothy",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Barnabas",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0,
+        3
+      ],
+      "bibleReference": "Acts 13:2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "apg_144",
+      "type": "multiple_choice",
+      "text": "Who prayed and sang praises unto God at midnight in the prison at Philippi?",
+      "options": [
+        {
+          "text": "Paul",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Timothy",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Silas",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Barnabas",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0,
+        2
+      ],
+      "bibleReference": "Acts 16:25",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "apg_145",
+      "type": "ordering",
+      "text": "Put these events of the Acts of the Apostles in the right order.",
+      "options": [
+        {
+          "text": "Stephen is stoned without the city",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The Holy Ghost is sent at Pentecost",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The council of the apostles assembleth at Jerusalem",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The Holy Ghost falleth on Cornelius and his house",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Saul is baptized in the city of Damascus",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1,
+        0,
+        4,
+        3,
+        2
+      ],
+      "bibleReference": "Acts 2:1-4; 7:57-60; 9:18; 10:44; 15:6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    }
+  ]
+}

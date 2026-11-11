@@ -1,0 +1,1409 @@
+{
+  "catalogVersion": "2.3.0",
+  "lastUpdated": "2026-11-10T15:08:04Z",
+  "language": "en",
+  "categories": [
+    {
+      "id": "torah",
+      "name": "Torah Weekly Portions",
+      "description": "54 Parashot of the Torah"
+    },
+    {
+      "id": "gesetz",
+      "name": "Law & Torah",
+      "description": "The Books of the Law (Exodus to Deuteronomy)"
+    },
+    {
+      "id": "geschichte",
+      "name": "Historical Books",
+      "description": "Joshua to Esther"
+    },
+    {
+      "id": "weisheit",
+      "name": "Wisdom & Poetry",
+      "description": "Job, Psalms, Proverbs, Ecclesiastes, Song of Solomon"
+    },
+    {
+      "id": "propheten",
+      "name": "Prophets (Major & Minor)",
+      "description": "Isaiah to Malachi"
+    },
+    {
+      "id": "at",
+      "name": "Old Testament",
+      "description": "The Old Testament: Law, History, Wisdom, and Prophets"
+    },
+    {
+      "id": "nt",
+      "name": "New Testament",
+      "description": "Gospels, Acts, Epistles, and Revelation"
+    },
+    {
+      "id": "themen",
+      "name": "Topics & Feasts",
+      "description": "Bible Topics, Feasts, and Doctrine"
+    }
+  ],
+  "quizzes": [
+    {
+      "quizId": "1_mose_300_fragen_komplett_en",
+      "category": "at",
+      "title": "Genesis",
+      "subtitle": "Genesis 1:1 – 50:26 (296 Questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 296,
+      "difficulty": "hard",
+      "tags": [
+        "Genesis",
+        "OT",
+        "Bible Quiz",
+        "KJV"
+      ],
+      "sizeBytes": 329379,
+      "downloadUrl": "./en/01_1_mose.json"
+    },
+    {
+      "quizId": "bibel_02_2_mose_en",
+      "category": "gesetz",
+      "title": "Exodus",
+      "subtitle": "Exodus 1:1 – 40:38 (293 Questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 293,
+      "difficulty": "medium",
+      "tags": [
+        "Exodus",
+        "OT",
+        "law",
+        "KJV"
+      ],
+      "sizeBytes": 316324,
+      "downloadUrl": "./en/02_2_mose.json"
+    },
+    {
+      "quizId": "bibel_03_3_mose_en",
+      "category": "gesetz",
+      "title": "Leviticus",
+      "subtitle": "Leviticus 1:1 – 27:34 (173 Questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 173,
+      "difficulty": "medium",
+      "tags": [
+        "Leviticus",
+        "OT",
+        "law",
+        "KJV"
+      ],
+      "sizeBytes": 188782,
+      "downloadUrl": "./en/03_3_mose.json"
+    },
+    {
+      "quizId": "bibel_04_4_mose_en",
+      "category": "gesetz",
+      "title": "Numbers",
+      "subtitle": "Numbers 1:1 – 36:13 (246 Questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 246,
+      "difficulty": "medium",
+      "tags": [
+        "Numbers",
+        "OT",
+        "law",
+        "KJV"
+      ],
+      "sizeBytes": 272640,
+      "downloadUrl": "./en/04_4_mose.json"
+    },
+    {
+      "quizId": "bibel_05_5_mose_en",
+      "category": "gesetz",
+      "title": "Deuteronomy",
+      "subtitle": "Deuteronomy 1:1 – 34:12 (238 Questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 238,
+      "difficulty": "medium",
+      "tags": [
+        "Deuteronomy",
+        "OT",
+        "law",
+        "KJV"
+      ],
+      "sizeBytes": 219491,
+      "downloadUrl": "./en/05_5_mose.json"
+    },
+    {
+      "quizId": "bibel_06_josua_en",
+      "category": "geschichte",
+      "title": "Joshua",
+      "subtitle": "Joshua 1:1 – 24:33 (146 Questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 146,
+      "difficulty": "medium",
+      "tags": [
+        "Joshua",
+        "OT",
+        "history",
+        "KJV"
+      ],
+      "sizeBytes": 159283,
+      "downloadUrl": "./en/06_josua.json"
+    },
+    {
+      "quizId": "bibel_07_richter_en",
+      "category": "geschichte",
+      "title": "Judges",
+      "subtitle": "Judges 1:1 – 21:25 (140 Questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 140,
+      "difficulty": "medium",
+      "tags": [
+        "Judges",
+        "OT",
+        "history",
+        "KJV"
+      ],
+      "sizeBytes": 149822,
+      "downloadUrl": "./en/07_richter.json"
+    },
+    {
+      "quizId": "bibel_08_rut_en",
+      "category": "geschichte",
+      "title": "Ruth",
+      "subtitle": "Ruth 1:1 – 4:22 (31 Questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 31,
+      "difficulty": "medium",
+      "tags": [
+        "Ruth",
+        "OT",
+        "history",
+        "KJV"
+      ],
+      "sizeBytes": 27073,
+      "downloadUrl": "./en/08_rut.json"
+    },
+    {
+      "quizId": "bibel_09_1_samuel_en",
+      "category": "geschichte",
+      "title": "1 Samuel",
+      "subtitle": "1 Samuel 1:1 – 31:13 (111 Questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 111,
+      "difficulty": "medium",
+      "tags": [
+        "1 Samuel",
+        "OT",
+        "history",
+        "KJV"
+      ],
+      "sizeBytes": 121150,
+      "downloadUrl": "./en/09_1_samuel.json"
+    },
+    {
+      "quizId": "bibel_10_2_samuel_en",
+      "category": "geschichte",
+      "title": "2 Samuel",
+      "subtitle": "2 Samuel 1:1 – 24:25 (80 Questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 80,
+      "difficulty": "medium",
+      "tags": [
+        "2 Samuel",
+        "OT",
+        "history",
+        "KJV"
+      ],
+      "sizeBytes": 68481,
+      "downloadUrl": "./en/10_2_samuel.json"
+    },
+    {
+      "quizId": "bibel_11_1_koenige_en",
+      "category": "geschichte",
+      "title": "1 Kings",
+      "subtitle": "1 Kings 1:1 – 22:53 (70 Questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 70,
+      "difficulty": "medium",
+      "tags": [
+        "1 Kings",
+        "OT",
+        "history",
+        "KJV"
+      ],
+      "sizeBytes": 61174,
+      "downloadUrl": "./en/11_1_koenige.json"
+    },
+    {
+      "quizId": "bibel_12_2_koenige_en",
+      "category": "geschichte",
+      "title": "2 Kings",
+      "subtitle": "2 Kings 1:1 – 25:30 (77 Questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 77,
+      "difficulty": "medium",
+      "tags": [
+        "2 Kings",
+        "OT",
+        "history",
+        "KJV"
+      ],
+      "sizeBytes": 69086,
+      "downloadUrl": "./en/12_2_koenige.json"
+    },
+    {
+      "quizId": "bibel_13_1_chronik_en",
+      "category": "geschichte",
+      "title": "1 Chronicles",
+      "subtitle": "1 Chronicles 1:1 – 29:30 (85 Questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 85,
+      "difficulty": "medium",
+      "tags": [
+        "1 Chronicles",
+        "OT",
+        "history",
+        "KJV"
+      ],
+      "sizeBytes": 72418,
+      "downloadUrl": "./en/13_1_chronik.json"
+    },
+    {
+      "quizId": "bibel_14_2_chronik_en",
+      "category": "geschichte",
+      "title": "2 Chronicles",
+      "subtitle": "2 Chronicles 1:1 – 36:23 (100 Questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 100,
+      "difficulty": "medium",
+      "tags": [
+        "2 Chronicles",
+        "OT",
+        "history",
+        "KJV"
+      ],
+      "sizeBytes": 87023,
+      "downloadUrl": "./en/14_2_chronik.json"
+    },
+    {
+      "quizId": "bibel_15_esra_en",
+      "category": "geschichte",
+      "title": "Ezra",
+      "subtitle": "Ezra 1:1 – 10:44 (30 Questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 30,
+      "difficulty": "medium",
+      "tags": [
+        "Ezra",
+        "OT",
+        "history",
+        "KJV"
+      ],
+      "sizeBytes": 27576,
+      "downloadUrl": "./en/15_esra.json"
+    },
+    {
+      "quizId": "bibel_16_nehemia_en",
+      "category": "geschichte",
+      "title": "Nehemiah",
+      "subtitle": "Nehemiah 1:1 – 13:31 (39 Questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 39,
+      "difficulty": "medium",
+      "tags": [
+        "Nehemiah",
+        "OT",
+        "history",
+        "KJV"
+      ],
+      "sizeBytes": 35557,
+      "downloadUrl": "./en/16_nehemia.json"
+    },
+    {
+      "quizId": "bibel_17_esther_en",
+      "category": "geschichte",
+      "title": "Esther",
+      "subtitle": "Esther 1:1 – 10:3 (30 Questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 30,
+      "difficulty": "medium",
+      "tags": [
+        "Esther",
+        "OT",
+        "history",
+        "KJV"
+      ],
+      "sizeBytes": 28264,
+      "downloadUrl": "./en/17_esther.json"
+    },
+    {
+      "quizId": "bibel_18_hiob_en",
+      "category": "weisheit",
+      "title": "Job",
+      "subtitle": "Job 1:1 – 42:17 (141 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "1.0.0",
+      "questionCount": 141,
+      "difficulty": "medium",
+      "tags": [
+        "Job",
+        "OT",
+        "wisdom",
+        "KJV"
+      ],
+      "sizeBytes": 143091,
+      "downloadUrl": "./en/18_hiob.json"
+    },
+    {
+      "quizId": "bibel_19_psalmen_en",
+      "category": "weisheit",
+      "title": "Psalms",
+      "subtitle": "Psalms 1:1 – 150:6 (126 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "1.0.0",
+      "questionCount": 126,
+      "difficulty": "medium",
+      "tags": [
+        "Psalms",
+        "OT",
+        "wisdom",
+        "poetry",
+        "KJV"
+      ],
+      "sizeBytes": 117960,
+      "downloadUrl": "./en/19_psalmen.json"
+    },
+    {
+      "quizId": "bibel_20_sprueche_en",
+      "category": "weisheit",
+      "title": "Proverbs",
+      "subtitle": "Proverbs 1:1 – 31:31 (92 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "1.0.0",
+      "questionCount": 92,
+      "difficulty": "medium",
+      "tags": [
+        "Proverbs",
+        "OT",
+        "wisdom",
+        "poetry",
+        "KJV"
+      ],
+      "sizeBytes": 87523,
+      "downloadUrl": "./en/20_sprueche.json"
+    },
+    {
+      "quizId": "bibel_21_prediger_en",
+      "category": "weisheit",
+      "title": "Ecclesiastes",
+      "subtitle": "Ecclesiastes 1:1 – 12:14 (40 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "1.0.0",
+      "questionCount": 40,
+      "difficulty": "medium",
+      "tags": [
+        "Ecclesiastes",
+        "OT",
+        "wisdom",
+        "poetry",
+        "KJV"
+      ],
+      "sizeBytes": 40628,
+      "downloadUrl": "./en/21_prediger.json"
+    },
+    {
+      "quizId": "bibel_22_hohelied_en",
+      "category": "weisheit",
+      "title": "Song of Solomon",
+      "subtitle": "Song of Solomon 1:1 – 8:14 (26 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "1.0.0",
+      "questionCount": 26,
+      "difficulty": "medium",
+      "tags": [
+        "Song of Solomon",
+        "OT",
+        "wisdom",
+        "poetry",
+        "KJV"
+      ],
+      "sizeBytes": 24640,
+      "downloadUrl": "./en/22_hohelied.json"
+    },
+    {
+      "quizId": "bibel_23_jesaja_en",
+      "category": "propheten",
+      "title": "Isaiah",
+      "subtitle": "Isaiah 1:1 – 66:24 (196 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "1.0.0",
+      "questionCount": 196,
+      "difficulty": "medium",
+      "tags": [
+        "Isaiah",
+        "OT",
+        "prophets",
+        "KJV"
+      ],
+      "sizeBytes": 188991,
+      "downloadUrl": "./en/23_jesaja.json"
+    },
+    {
+      "quizId": "bibel_24_jeremia_en",
+      "category": "propheten",
+      "title": "Jeremiah",
+      "subtitle": "Jeremiah 1:1 – 52:34 (157 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "1.0.0",
+      "questionCount": 157,
+      "difficulty": "medium",
+      "tags": [
+        "Jeremiah",
+        "OT",
+        "prophets",
+        "KJV"
+      ],
+      "sizeBytes": 154478,
+      "downloadUrl": "./en/24_jeremia.json"
+    },
+    {
+      "quizId": "bibel_25_klagelieder_en",
+      "category": "propheten",
+      "title": "Lamentations",
+      "subtitle": "Lamentations 1:1 – 5:22 (18 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "1.0.0",
+      "questionCount": 18,
+      "difficulty": "medium",
+      "tags": [
+        "Lamentations",
+        "OT",
+        "poetry",
+        "prophets",
+        "KJV"
+      ],
+      "sizeBytes": 19183,
+      "downloadUrl": "./en/25_klagelieder.json"
+    },
+    {
+      "quizId": "bibel_26_hesekiel_en",
+      "category": "propheten",
+      "title": "Ezekiel",
+      "subtitle": "Ezekiel 1:1 – 48:35 (139 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "1.0.0",
+      "questionCount": 139,
+      "difficulty": "medium",
+      "tags": [
+        "Ezekiel",
+        "OT",
+        "prophets",
+        "KJV"
+      ],
+      "sizeBytes": 136576,
+      "downloadUrl": "./en/26_hesekiel.json"
+    },
+    {
+      "quizId": "bibel_27_daniel_en",
+      "category": "propheten",
+      "title": "Daniel",
+      "subtitle": "Daniel 1:1 – 12:13 (37 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "1.0.0",
+      "questionCount": 37,
+      "difficulty": "medium",
+      "tags": [
+        "Daniel",
+        "OT",
+        "prophets",
+        "KJV"
+      ],
+      "sizeBytes": 37608,
+      "downloadUrl": "./en/27_daniel.json"
+    },
+    {
+      "quizId": "bibel_28_hosea_en",
+      "category": "propheten",
+      "title": "Hosea",
+      "subtitle": "Hosea 1:1 – 14:9 (43 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "1.0.0",
+      "questionCount": 43,
+      "difficulty": "medium",
+      "tags": [
+        "Hosea",
+        "OT",
+        "prophets",
+        "KJV"
+      ],
+      "sizeBytes": 43269,
+      "downloadUrl": "./en/28_hosea.json"
+    },
+    {
+      "quizId": "bibel_29_joel_en",
+      "category": "propheten",
+      "title": "Joel",
+      "subtitle": "Joel 1:1 – 3:21 (18 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "1.0.0",
+      "questionCount": 18,
+      "difficulty": "medium",
+      "tags": [
+        "Joel",
+        "OT",
+        "prophets",
+        "KJV"
+      ],
+      "sizeBytes": 18176,
+      "downloadUrl": "./en/29_joel.json"
+    },
+    {
+      "quizId": "bibel_30_amos_en",
+      "category": "propheten",
+      "title": "Amos",
+      "subtitle": "Amos 1:1 – 9:15 (27 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "1.0.0",
+      "questionCount": 27,
+      "difficulty": "medium",
+      "tags": [
+        "Amos",
+        "OT",
+        "prophets",
+        "KJV"
+      ],
+      "sizeBytes": 27198,
+      "downloadUrl": "./en/30_amos.json"
+    },
+    {
+      "quizId": "bibel_31_obadja_en",
+      "category": "propheten",
+      "title": "Obadiah",
+      "subtitle": "Obadiah 1:1–21 (10 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "1.0.0",
+      "questionCount": 10,
+      "difficulty": "medium",
+      "tags": [
+        "Obadiah",
+        "OT",
+        "prophets",
+        "KJV"
+      ],
+      "sizeBytes": 10291,
+      "downloadUrl": "./en/31_obadja.json"
+    },
+    {
+      "quizId": "bibel_32_jona_en",
+      "category": "propheten",
+      "title": "Jonah",
+      "subtitle": "Jonah 1:1 – 4:11 (20 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "1.0.0",
+      "questionCount": 20,
+      "difficulty": "medium",
+      "tags": [
+        "Jonah",
+        "OT",
+        "prophets",
+        "KJV"
+      ],
+      "sizeBytes": 20460,
+      "downloadUrl": "./en/32_jona.json"
+    },
+    {
+      "quizId": "bibel_33_micha_en",
+      "category": "propheten",
+      "title": "Micah",
+      "subtitle": "Micah 1:1 – 7:20 (21 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "1.0.0",
+      "questionCount": 21,
+      "difficulty": "medium",
+      "tags": [
+        "Micah",
+        "OT",
+        "prophets",
+        "KJV"
+      ],
+      "sizeBytes": 21929,
+      "downloadUrl": "./en/33_micha.json"
+    },
+    {
+      "quizId": "bibel_34_nahum_en",
+      "category": "propheten",
+      "title": "Nahum",
+      "subtitle": "Nahum 1:1 – 3:19 (16 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "1.0.0",
+      "questionCount": 16,
+      "difficulty": "medium",
+      "tags": [
+        "Nahum",
+        "OT",
+        "prophets",
+        "KJV"
+      ],
+      "sizeBytes": 16431,
+      "downloadUrl": "./en/34_nahum.json"
+    },
+    {
+      "quizId": "bibel_35_habakuk_en",
+      "category": "prophets",
+      "title": "Habakkuk",
+      "subtitle": "Habakkuk 1:1 – 3:19 (18 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 18,
+      "difficulty": "medium",
+      "tags": [
+        "Habakkuk",
+        "OT",
+        "prophets",
+        "King James Version"
+      ],
+      "sizeBytes": 16618,
+      "downloadUrl": "./en/35_habakuk.json"
+    },
+    {
+      "quizId": "bibel_36_zephanja_en",
+      "category": "prophets",
+      "title": "Zephaniah",
+      "subtitle": "Zephaniah 1:1 – 3:20 (18 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 18,
+      "difficulty": "medium",
+      "tags": [
+        "Zephaniah",
+        "OT",
+        "prophets",
+        "King James Version"
+      ],
+      "sizeBytes": 16217,
+      "downloadUrl": "./en/36_zephanja.json"
+    },
+    {
+      "quizId": "bibel_37_haggai_en",
+      "category": "prophets",
+      "title": "Haggai",
+      "subtitle": "Haggai 1:1 – 2:23 (14 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 14,
+      "difficulty": "medium",
+      "tags": [
+        "Haggai",
+        "OT",
+        "prophets",
+        "King James Version"
+      ],
+      "sizeBytes": 12648,
+      "downloadUrl": "./en/37_haggai.json"
+    },
+    {
+      "quizId": "bibel_38_sacharja_en",
+      "category": "prophets",
+      "title": "Zechariah",
+      "subtitle": "Zechariah 1:1 – 14:21 (42 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 42,
+      "difficulty": "medium",
+      "tags": [
+        "Zechariah",
+        "OT",
+        "prophets",
+        "King James Version"
+      ],
+      "sizeBytes": 38432,
+      "downloadUrl": "./en/38_sacharja.json"
+    },
+    {
+      "quizId": "bibel_39_maleachi_en",
+      "category": "prophets",
+      "title": "Malachi",
+      "subtitle": "Malachi 1:1 – 4:6 (20 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 20,
+      "difficulty": "medium",
+      "tags": [
+        "Malachi",
+        "OT",
+        "prophets",
+        "King James Version"
+      ],
+      "sizeBytes": 18329,
+      "downloadUrl": "./en/39_maleachi.json"
+    },
+    {
+      "quizId": "nt_01_matthaeus_alle_kapitel_en",
+      "category": "nt",
+      "title": "Matthew",
+      "subtitle": "Matthew 1:1 – 28:20 (148 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 148,
+      "difficulty": "medium",
+      "tags": [
+        "Matthew",
+        "New Testament",
+        "Gospels",
+        "Gospel",
+        "Sermon on the Mount",
+        "Messiah",
+        "King James Version"
+      ],
+      "sizeBytes": 139878,
+      "downloadUrl": "./en/40_matthaeus.json"
+    },
+    {
+      "quizId": "nt_02_markus_alle_kapitel_en",
+      "category": "nt",
+      "title": "Mark",
+      "subtitle": "Mark 1:1 – 16:20 (80 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 80,
+      "difficulty": "medium",
+      "tags": [
+        "Mark",
+        "New Testament",
+        "Gospels",
+        "Gospel",
+        "Messiah",
+        "King James Version"
+      ],
+      "sizeBytes": 76518,
+      "downloadUrl": "./en/41_markus.json"
+    },
+    {
+      "quizId": "nt_03_lukas_alle_kapitel_en",
+      "category": "nt",
+      "title": "Luke",
+      "subtitle": "Luke 1:1 – 24:53 (126 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 126,
+      "difficulty": "medium",
+      "tags": [
+        "Luke",
+        "New Testament",
+        "Gospels",
+        "Gospel",
+        "Messiah",
+        "King James Version"
+      ],
+      "sizeBytes": 116760,
+      "downloadUrl": "./en/42_lukas.json"
+    },
+    {
+      "quizId": "nt_04_johannes_alle_kapitel_en",
+      "category": "nt",
+      "title": "John",
+      "subtitle": "John 1:1 – 21:25 (110 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 110,
+      "difficulty": "medium",
+      "tags": [
+        "John",
+        "New Testament",
+        "Gospels",
+        "Gospel",
+        "Messiah",
+        "Incarnation",
+        "King James Version"
+      ],
+      "sizeBytes": 104582,
+      "downloadUrl": "./en/43_johannes.json"
+    },
+    {
+      "quizId": "nt_05_apostelgeschichte_alle_kapitel_en",
+      "category": "nt",
+      "title": "Acts",
+      "subtitle": "Acts 1:1 – 28:31 (145 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 145,
+      "difficulty": "medium",
+      "tags": [
+        "Acts",
+        "New Testament",
+        "Early Church",
+        "Apostles",
+        "Holy Spirit",
+        "Paul",
+        "Peter",
+        "King James Version"
+      ],
+      "sizeBytes": 131597,
+      "downloadUrl": "./en/44_apostelgeschichte.json"
+    },
+    {
+      "quizId": "nt_06_roemer_alle_kapitel_en",
+      "category": "nt",
+      "title": "Romans",
+      "subtitle": "Romans 1:1 – 16:27 (80 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 80,
+      "difficulty": "medium",
+      "tags": [
+        "Romans",
+        "New Testament",
+        "Pauline Epistles",
+        "Epistles",
+        "Paul",
+        "Justification",
+        "Faith",
+        "Grace",
+        "King James Version"
+      ],
+      "sizeBytes": 81072,
+      "downloadUrl": "./en/45_roemer.json"
+    },
+    {
+      "quizId": "nt_07_1korinther_alle_kapitel_en",
+      "category": "nt",
+      "title": "1 Corinthians",
+      "subtitle": "1 Corinthians 1:1 – 16:24 (80 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 80,
+      "difficulty": "medium",
+      "tags": [
+        "1 Corinthians",
+        "New Testament",
+        "Pauline Epistles",
+        "Epistles",
+        "Paul",
+        "Church",
+        "Spiritual Gifts",
+        "Love",
+        "Resurrection",
+        "King James Version"
+      ],
+      "sizeBytes": 79649,
+      "downloadUrl": "./en/46_1_korinther.json"
+    },
+    {
+      "quizId": "nt_08_2korinther_alle_kapitel_en",
+      "category": "nt",
+      "title": "2 Corinthians",
+      "subtitle": "2 Corinthians 1:1 – 13:14 (65 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 65,
+      "difficulty": "medium",
+      "tags": [
+        "2 Corinthians",
+        "New Testament",
+        "Pauline Epistles",
+        "Epistles",
+        "Paul",
+        "Comfort",
+        "Ministry",
+        "Reconciliation",
+        "Giving",
+        "King James Version"
+      ],
+      "sizeBytes": 66842,
+      "downloadUrl": "./en/47_2_korinther.json"
+    },
+    {
+      "quizId": "nt_09_galater_alle_kapitel_en",
+      "category": "nt",
+      "title": "Galatians",
+      "subtitle": "Galatians 1:1 – 6:18 (31 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 31,
+      "difficulty": "medium",
+      "tags": [
+        "Galatians",
+        "New Testament",
+        "Pauline Epistles",
+        "Paul",
+        "Freedom",
+        "Law",
+        "Spirit",
+        "King James Version"
+      ],
+      "sizeBytes": 28897,
+      "downloadUrl": "./en/48_galater.json"
+    },
+    {
+      "quizId": "nt_10_epheser_alle_kapitel_en",
+      "category": "nt",
+      "title": "Ephesians",
+      "subtitle": "Ephesians 1:1 – 6:24 (31 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 31,
+      "difficulty": "medium",
+      "tags": [
+        "Ephesians",
+        "New Testament",
+        "Pauline Epistles",
+        "Paul",
+        "Grace",
+        "Church",
+        "Armor of God",
+        "King James Version"
+      ],
+      "sizeBytes": 29508,
+      "downloadUrl": "./en/49_epheser.json"
+    },
+    {
+      "quizId": "nt_11_philipper_alle_kapitel_en",
+      "category": "nt",
+      "title": "Philippians",
+      "subtitle": "Philippians 1:1 – 4:23 (20 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 20,
+      "difficulty": "medium",
+      "tags": [
+        "Philippians",
+        "New Testament",
+        "Pauline Epistles",
+        "Paul",
+        "Joy",
+        "Humility",
+        "Christ Jesus",
+        "King James Version"
+      ],
+      "sizeBytes": 19496,
+      "downloadUrl": "./en/50_philipper.json"
+    },
+    {
+      "quizId": "nt_12_kolosser_alle_kapitel_en",
+      "category": "nt",
+      "title": "Colossians",
+      "subtitle": "Colossians 1:1 – 4:18 (20 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 20,
+      "difficulty": "medium",
+      "tags": [
+        "Colossians",
+        "New Testament",
+        "Pauline Epistles",
+        "Paul",
+        "Fullness of Christ",
+        "Reconciliation",
+        "King James Version"
+      ],
+      "sizeBytes": 19456,
+      "downloadUrl": "./en/51_kolosser.json"
+    },
+    {
+      "quizId": "nt_13_1thessalonicher_alle_kapitel_en",
+      "category": "nt",
+      "title": "1 Thessalonians",
+      "subtitle": "1 Thessalonians 1:1 – 5:28 (25 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 25,
+      "difficulty": "medium",
+      "tags": [
+        "1 Thessalonians",
+        "New Testament",
+        "Pauline Epistles",
+        "Paul",
+        "Second Coming",
+        "Sanctification",
+        "Hope",
+        "King James Version"
+      ],
+      "sizeBytes": 24636,
+      "downloadUrl": "./en/52_1_thessalonicher.json"
+    },
+    {
+      "quizId": "nt_14_2thessalonicher_alle_kapitel_en",
+      "category": "nt",
+      "title": "2 Thessalonians",
+      "subtitle": "2 Thessalonians 1:1 – 3:18 (15 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 15,
+      "difficulty": "medium",
+      "tags": [
+        "2 Thessalonians",
+        "New Testament",
+        "Pauline Epistles",
+        "Paul",
+        "Day of the Lord",
+        "Man of Sin",
+        "King James Version"
+      ],
+      "sizeBytes": 16077,
+      "downloadUrl": "./en/53_2_thessalonicher.json"
+    },
+    {
+      "quizId": "nt_15_1timotheus_alle_kapitel_en",
+      "category": "nt",
+      "title": "1 Timothy",
+      "subtitle": "1 Timothy 1:1 – 6:21 (30 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 30,
+      "difficulty": "medium",
+      "tags": [
+        "1 Timothy",
+        "New Testament",
+        "Pauline Epistles",
+        "Pastoral Epistles",
+        "Paul",
+        "Leadership",
+        "King James Version"
+      ],
+      "sizeBytes": 29924,
+      "downloadUrl": "./en/54_1_timotheus.json"
+    },
+    {
+      "quizId": "nt_16_2timotheus_alle_kapitel_en",
+      "category": "nt",
+      "title": "2 Timothy",
+      "subtitle": "2 Timothy 1:1 – 4:22 (20 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 20,
+      "difficulty": "medium",
+      "tags": [
+        "2 Timothy",
+        "New Testament",
+        "Pauline Epistles",
+        "Pastoral Epistles",
+        "Paul",
+        "Endurance",
+        "Scripture",
+        "King James Version"
+      ],
+      "sizeBytes": 20054,
+      "downloadUrl": "./en/55_2_timotheus.json"
+    },
+    {
+      "quizId": "nt_17_titus_alle_kapitel_en",
+      "category": "nt",
+      "title": "Titus",
+      "subtitle": "Titus 1:1 – 3:15 (15 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 15,
+      "difficulty": "medium",
+      "tags": [
+        "Titus",
+        "New Testament",
+        "Pauline Epistles",
+        "Pastoral Epistles",
+        "Paul",
+        "Crete",
+        "Sound Doctrine",
+        "Good Works",
+        "King James Version"
+      ],
+      "sizeBytes": 15480,
+      "downloadUrl": "./en/56_titus.json"
+    },
+    {
+      "quizId": "nt_18_philemon_alle_kapitel_en",
+      "category": "nt",
+      "title": "Philemon",
+      "subtitle": "Philemon 1:1-25 (5 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 5,
+      "difficulty": "medium",
+      "tags": [
+        "Philemon",
+        "New Testament",
+        "Pauline Epistles",
+        "Paul",
+        "Forgiveness",
+        "Onesimus",
+        "Reconciliation",
+        "King James Version"
+      ],
+      "sizeBytes": 5647,
+      "downloadUrl": "./en/57_philemon.json"
+    },
+    {
+      "quizId": "nt_19_hebraeer_alle_kapitel_en",
+      "category": "nt",
+      "title": "Hebrews",
+      "subtitle": "Hebrews 1:1 – 13:25 (66 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 66,
+      "difficulty": "medium",
+      "tags": [
+        "Hebrews",
+        "New Testament",
+        "Epistle to the Hebrews",
+        "Faith",
+        "High Priest",
+        "Melchisedec",
+        "New Covenant",
+        "King James Version"
+      ],
+      "sizeBytes": 62810,
+      "downloadUrl": "./en/58_hebraeer.json"
+    },
+    {
+      "quizId": "nt_20_jakobus_alle_kapitel_en",
+      "category": "nt",
+      "title": "James",
+      "subtitle": "James 1:1 – 5:20 (25 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 25,
+      "difficulty": "medium",
+      "tags": [
+        "James",
+        "New Testament",
+        "General Epistles",
+        "Faith",
+        "Works",
+        "Wisdom",
+        "Tongue",
+        "King James Version"
+      ],
+      "sizeBytes": 23928,
+      "downloadUrl": "./en/59_jakobus.json"
+    },
+    {
+      "quizId": "nt_21_1petrus_alle_kapitel_en",
+      "category": "nt",
+      "title": "1 Peter",
+      "subtitle": "1 Peter 1:1 – 5:14 (25 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 25,
+      "difficulty": "medium",
+      "tags": [
+        "1 Peter",
+        "New Testament",
+        "General Epistles",
+        "Peter",
+        "Hope",
+        "Suffering",
+        "Priesthood",
+        "King James Version"
+      ],
+      "sizeBytes": 24430,
+      "downloadUrl": "./en/60_1_petrus.json"
+    },
+    {
+      "quizId": "nt_22_2petrus_alle_kapitel_en",
+      "category": "nt",
+      "title": "2 Peter",
+      "subtitle": "2 Peter 1:1 – 3:18 (15 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 15,
+      "difficulty": "medium",
+      "tags": [
+        "2 Peter",
+        "New Testament",
+        "General Epistles",
+        "Virtue",
+        "False Teachers",
+        "Day of the Lord",
+        "King James Version"
+      ],
+      "sizeBytes": 14576,
+      "downloadUrl": "./en/61_2_petrus.json"
+    },
+    {
+      "quizId": "nt_23_1johannes_alle_kapitel_en",
+      "category": "nt",
+      "title": "1 John",
+      "subtitle": "1 John 1:1 – 5:21 (25 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 25,
+      "difficulty": "medium",
+      "tags": [
+        "1 John",
+        "New Testament",
+        "General Epistles",
+        "Light",
+        "Love",
+        "Fellowship",
+        "Commandments",
+        "King James Version"
+      ],
+      "sizeBytes": 23798,
+      "downloadUrl": "./en/62_1_johannes.json"
+    },
+    {
+      "quizId": "nt_24_2johannes_alle_kapitel_en",
+      "category": "nt",
+      "title": "2 John",
+      "subtitle": "2 John 1:1 – 1:13 (5 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 5,
+      "difficulty": "medium",
+      "tags": [
+        "2 John",
+        "New Testament",
+        "General Epistles",
+        "Truth",
+        "Love",
+        "Antichrist",
+        "King James Version"
+      ],
+      "sizeBytes": 5317,
+      "downloadUrl": "./en/63_2_johannes.json"
+    },
+    {
+      "quizId": "nt_25_3johannes_alle_kapitel_en",
+      "category": "nt",
+      "title": "3 John",
+      "subtitle": "3 John 1:1 – 1:14 (5 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 5,
+      "difficulty": "medium",
+      "tags": [
+        "3 John",
+        "New Testament",
+        "General Epistles",
+        "Gaius",
+        "Diotrephes",
+        "Demetrius",
+        "King James Version"
+      ],
+      "sizeBytes": 5300,
+      "downloadUrl": "./en/64_3_johannes.json"
+    },
+    {
+      "quizId": "nt_26_judas_alle_kapitel_en",
+      "category": "nt",
+      "title": "Jude",
+      "subtitle": "Jude 1:1 – 1:25 (5 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 5,
+      "difficulty": "medium",
+      "tags": [
+        "Jude",
+        "New Testament",
+        "General Epistles",
+        "Warning",
+        "Apostasy",
+        "Faith",
+        "King James Version"
+      ],
+      "sizeBytes": 4987,
+      "downloadUrl": "./en/65_judas.json"
+    },
+    {
+      "quizId": "nt_27_offenbarung_alle_kapitel_en",
+      "category": "nt",
+      "title": "Revelation",
+      "subtitle": "Revelation 1:1 – 22:21 (113 questions)",
+      "author": "King James Version (1769)",
+      "language": "en",
+      "version": "2.3.0",
+      "questionCount": 113,
+      "difficulty": "medium",
+      "tags": [
+        "Revelation",
+        "New Testament",
+        "Prophecy",
+        "Apocalypse",
+        "Lamb",
+        "End Times",
+        "New Jerusalem",
+        "King James Version"
+      ],
+      "sizeBytes": 118514,
+      "downloadUrl": "./en/66_offenbarung.json"
+    }
+  ]
+}

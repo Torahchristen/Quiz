@@ -25,26 +25,30 @@
       "options": [
         {
           "text": "Mit der Klage über die Zerstörung des Tempels durch Feuer und die Plünderung der Geräte",
-          "explanation": "Das trifft nicht zu. Richtig ist: Mit der Klage über die einsame Stadt, die voll Volks war und nun wie eine Witwe ist [ref:Klagelieder 1:1]."
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Mit der Klage über die einsame Stadt, die voll Volks war und nun wie eine Witwe ist",
-          "explanation": "Wie liegt die Stadt so wüst, die voll Volks war! Sie ist wie eine Witwe, die Fürstin unter den Heiden [ref:Klagelieder 1:1]."
+          "text": "Wie die Stadt so wüst liegt, die voll Volks war und nun wie eine Witwe ist",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
           "text": "Mit der Klage über die Verschleppung der Königssöhne nach Babel und das Ende der Dynastie",
-          "explanation": "Das trifft nicht zu. Richtig ist: Mit der Klage über die einsame Stadt, die voll Volks war und nun wie eine Witwe ist [ref:Klagelieder 1:1]."
+          "isCorrect": false,
+          "explanation": ""
         },
         {
           "text": "Mit der Klage über die Dürre und den Hunger im Land und das Sterben des Viehs",
-          "explanation": "Das trifft nicht zu. Richtig ist: Mit der Klage über die einsame Stadt, die voll Volks war und nun wie eine Witwe ist [ref:Klagelieder 1:1]."
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Klagelieder 1:1",
-      "explanation": "Wie liegt die Stadt so wüst, die voll Volks war! Sie ist wie eine Witwe, die Fürstin unter den Heiden [ref:Klagelieder 1:1].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -55,26 +59,26 @@
       "options": [
         {
           "text": "Die Mauern Zions werden bald wieder aufgebaut, und die Feinde ziehen sich zurück",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Güte des HERRN ist es, dass wir nicht gar aus sind; seine Barmherzigkeit ist alle Morgen neu [ref:Klagelieder 3:22-23]."
+          "explanation": ""
         },
         {
           "text": "Die Güte des HERRN ist es, dass wir nicht gar aus sind; seine Barmherzigkeit ist alle Morgen neu",
-          "explanation": "Die Güte des HERRN ist es, dass wir nicht gar aus sind; seine Barmherzigkeit hat noch kein Ende, sondern sie ist alle Morgen neu [ref:Klagelieder 3:22-23]."
+          "explanation": ""
         },
         {
           "text": "Das Strafgericht trifft das erwählte Volk nie wieder, weil Gott es ganz vergeben hat",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Güte des HERRN ist es, dass wir nicht gar aus sind; seine Barmherzigkeit ist alle Morgen neu [ref:Klagelieder 3:22-23]."
+          "explanation": ""
         },
         {
           "text": "Der frühere Glanz kehrt auch ohne Umkehr zurück, denn der HERR vergisst nie",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Güte des HERRN ist es, dass wir nicht gar aus sind; seine Barmherzigkeit ist alle Morgen neu [ref:Klagelieder 3:22-23]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Klagelieder 3:22-23",
-      "explanation": "Die Güte des HERRN ist es, dass wir nicht gar aus sind; seine Barmherzigkeit hat noch kein Ende, sondern sie ist alle Morgen neu [ref:Klagelieder 3:22-23].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -85,26 +89,26 @@
       "options": [
         {
           "text": "Bringe uns, HERR, wieder zu dir, dass wir heimkommen; erneuere unsere Tage wie vor alters",
-          "explanation": "Bringe uns, HERR, wieder zu dir, dass wir wieder heimkommen; erneuere unsere Tage wie vor alters! [ref:Klagelieder 5:21]."
+          "explanation": ""
         },
         {
           "text": "Gib uns den Tempelschatz zurück und lass die Priester wieder am Altar dienen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Bringe uns, HERR, wieder zu dir, dass wir heimkommen; erneuere unsere Tage wie vor alters [ref:Klagelieder 5:21]."
+          "explanation": ""
         },
         {
           "text": "Schlage unsere Feinde mit dem Schwert und vertilge alle, die uns gedemütigt haben",
-          "explanation": "Das trifft nicht zu. Richtig ist: Bringe uns, HERR, wieder zu dir, dass wir heimkommen; erneuere unsere Tage wie vor alters [ref:Klagelieder 5:21]."
+          "explanation": ""
         },
         {
           "text": "Richte das Königtum der Väter wieder auf und setze einen Sohn Davids auf den Thron",
-          "explanation": "Das trifft nicht zu. Richtig ist: Bringe uns, HERR, wieder zu dir, dass wir heimkommen; erneuere unsere Tage wie vor alters [ref:Klagelieder 5:21]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Klagelieder 5:21",
-      "explanation": "Bringe uns, HERR, wieder zu dir, dass wir wieder heimkommen; erneuere unsere Tage wie vor alters! [ref:Klagelieder 5:21].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -115,26 +119,26 @@
       "options": [
         {
           "text": "Helft uns, die Tore wieder aufzurichten; der Schmerz ist groß",
-          "explanation": "Das trifft nicht zu. Richtig ist: Schaut doch und seht, ob irgendein Schmerz sei wie mein Schmerz [ref:Klagelieder 1:12]."
+          "explanation": ""
         },
         {
           "text": "Zieht eilig vorüber und seht nicht hin; der Jammer ist groß",
-          "explanation": "Das trifft nicht zu. Richtig ist: Schaut doch und seht, ob irgendein Schmerz sei wie mein Schmerz [ref:Klagelieder 1:12]."
+          "explanation": ""
         },
         {
           "text": "Schaut doch und seht, ob irgendein Schmerz sei wie mein Schmerz",
-          "explanation": "Schauet doch und sehet, ob irgend ein Schmerz sei wie mein Schmerz, der mich getroffen hat [ref:Klagelieder 1:12]."
+          "explanation": ""
         },
         {
           "text": "Schließt mit den Fürsten Babels Frieden; denn der Schmerz ist groß",
-          "explanation": "Das trifft nicht zu. Richtig ist: Schaut doch und seht, ob irgendein Schmerz sei wie mein Schmerz [ref:Klagelieder 1:12]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Klagelieder 1:12",
-      "explanation": "Schauet doch und sehet, ob irgend ein Schmerz sei wie mein Schmerz, der mich getroffen hat [ref:Klagelieder 1:12].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -144,27 +148,27 @@
       "text": "Wie beschreibt Klagelieder 2:1 den Zorn des Herrn über Zion?",
       "options": [
         {
-          "text": "Der Herr hat die Tore Jerusalems zerbrochen und die Königssöhne weggeführt",
-          "explanation": "Das steht so nicht an dieser Stelle [ref:Klagelieder 2:1]."
+          "text": "Der Herr hat Zion eine Frist zur Buße gegeben und seinen Zorn aufgeschoben",
+          "explanation": ""
         },
         {
-          "text": "Der Herr hat seinen Altar verlassen und sein Heiligtum verworfen",
-          "explanation": "Das steht so nicht an dieser Stelle [ref:Klagelieder 2:1]."
+          "text": "Der Herr hat Zion verschont und seinen Zorn von ihr abgewandt",
+          "explanation": ""
         },
         {
           "text": "Der Herr hat die Herrlichkeit Israels vom Himmel auf die Erde geworfen",
-          "explanation": "Wie hat der Herr die Tochter Zion mit seinem Zorn überschüttet! Er hat die Herrlichkeit Israels vom Himmel auf die Erde geworfen [ref:Klagelieder 2:1]."
+          "explanation": ""
         },
         {
-          "text": "Der Herr hat die Fürsten Judas wie Hirsche ohne Weide fliehen lassen",
-          "explanation": "Das steht so nicht an dieser Stelle [ref:Klagelieder 2:1]."
+          "text": "Der Herr hat Zion mit Hagel und Heuschrecken geschlagen",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Klagelieder 2:1",
-      "explanation": "Wie hat der Herr die Tochter Zion mit seinem Zorn überschüttet! Er hat die Herrlichkeit Israels vom Himmel auf die Erde geworfen [ref:Klagelieder 2:1].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -174,27 +178,31 @@
       "text": "Was beklagt der Dichter in Klagelieder 2:11 über die Kinder der Stadt?",
       "options": [
         {
-          "text": "Dass sie in die Gefangenschaft geführt wurden",
-          "explanation": "Das steht so nicht an dieser Stelle [ref:Klagelieder 2:11]."
+          "text": "Dass sie gefangen in das ferne babylonische Land geführt wurden",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Dass sie ohne Lehrer aufwachsen",
-          "explanation": "Das steht so nicht an dieser Stelle [ref:Klagelieder 2:11]."
+          "text": "Dass sie ohne alle treuen Lehrer und ohne Unterricht aufwachsen",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Dass die Säuglinge auf den Gassen verschmachteten",
-          "explanation": "Ich habe schier meine Augen ausgeweint; die Säuglinge und Unmündigen verschmachteten auf den Gassen der Stadt [ref:Klagelieder 2:11]."
+          "text": "Dass die jungen Kinder und Säuglinge auf den Gassen verschmachten",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Dass sie ohne Eltern bleiben",
-          "explanation": "Das steht so nicht an dieser Stelle [ref:Klagelieder 2:11]."
+          "text": "Dass sie als Waisen ohne Eltern und ohne jeden Beistand blieben",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Klagelieder 2:11",
-      "explanation": "Ich habe schier meine Augen ausgeweint; die Säuglinge und Unmündigen verschmachteten auf den Gassen der Stadt [ref:Klagelieder 2:11].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -205,26 +213,26 @@
       "options": [
         {
           "text": "In der Nacht aufzustehen und ihr Herz wie Wasser vor dem Herrn auszuschütten",
-          "explanation": "Stehe des Nachts auf und schreie; schütte dein Herz aus in der ersten Wache gegen den Herrn wie Wasser [ref:Klagelieder 2:19]."
+          "explanation": ""
         },
         {
           "text": "Ruhig zu schlafen und auf den Morgen zu warten, bis der Herr ihr Gebet erhört",
-          "explanation": "Das trifft nicht zu. Richtig ist: In der Nacht aufzustehen und ihr Herz wie Wasser vor dem Herrn auszuschütten [ref:Klagelieder 2:19]."
+          "explanation": ""
         },
         {
           "text": "Die Mauern bei Nacht zu bewachen und die Tore der Stadt gegen den Feind zu halten",
-          "explanation": "Das trifft nicht zu. Richtig ist: In der Nacht aufzustehen und ihr Herz wie Wasser vor dem Herrn auszuschütten [ref:Klagelieder 2:19]."
+          "explanation": ""
         },
         {
           "text": "Mit den Feinden zu verhandeln und ihnen Gaben zu bringen, damit sie abziehen",
-          "explanation": "Das trifft nicht zu. Richtig ist: In der Nacht aufzustehen und ihr Herz wie Wasser vor dem Herrn auszuschütten [ref:Klagelieder 2:19]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Klagelieder 2:19",
-      "explanation": "Stehe des Nachts auf und schreie; schütte dein Herz aus in der ersten Wache gegen den Herrn wie Wasser [ref:Klagelieder 2:19].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -235,26 +243,26 @@
       "options": [
         {
           "text": "Den Zehnten treu am Altar zu bringen und alle Opfer nach dem Gesetz zu halten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Geduldig zu sein und auf die Hilfe des HERRN zu hoffen und das Joch in der Jugend zu tragen [ref:Klagelieder 3:26-27]."
+          "explanation": ""
         },
         {
           "text": "Nur im Heiligtum Zuflucht zu suchen und es nie wieder zu verlassen, solange man lebt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Geduldig zu sein und auf die Hilfe des HERRN zu hoffen und das Joch in der Jugend zu tragen [ref:Klagelieder 3:26-27]."
+          "explanation": ""
         },
         {
           "text": "Das Gesetz Tag und Nacht zu erforschen und die Gebote den Kindern einzuprägen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Geduldig zu sein und auf die Hilfe des HERRN zu hoffen und das Joch in der Jugend zu tragen [ref:Klagelieder 3:26-27]."
+          "explanation": ""
         },
         {
           "text": "Geduldig zu sein und auf die Hilfe des HERRN zu hoffen und das Joch in der Jugend zu tragen",
-          "explanation": "Es ist ein köstlich Ding, geduldig sein und auf die Hilfe des HERRN hoffen; es ist ein köstlich Ding einem Mann, dass er das Joch in seiner Jugend trage [ref:Klagelieder 3:26-27]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Klagelieder 3:26-27",
-      "explanation": "Es ist ein köstlich Ding, geduldig sein und auf die Hilfe des HERRN hoffen; es ist ein köstlich Ding einem Mann, dass er das Joch in seiner Jugend trage [ref:Klagelieder 3:26-27].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -265,26 +273,26 @@
       "options": [
         {
           "text": "Das Gold ist verdunkelt, und die Steine des Heiligtums liegen auf allen Gassen zerstreut",
-          "explanation": "Wie ist das Gold so gar verdunkelt und das feine Gold so hässlich geworden! Es liegen Steine des Heiligtums vorn auf allen Gassen zerstreut [ref:Klagelieder 4:1]."
+          "explanation": ""
         },
         {
           "text": "Die Schwerter sind zerbrochen, und die Schilde der Helden liegen im Bach Kidron",
-          "explanation": "Das trifft nicht zu. Richtig ist: Das Gold ist verdunkelt, und die Steine des Heiligtums liegen auf allen Gassen zerstreut [ref:Klagelieder 4:1]."
+          "explanation": ""
         },
         {
           "text": "Die Weinstöcke sind zertreten, und die Trauben des Landes schmecken nur noch bitter",
-          "explanation": "Das trifft nicht zu. Richtig ist: Das Gold ist verdunkelt, und die Steine des Heiligtums liegen auf allen Gassen zerstreut [ref:Klagelieder 4:1]."
+          "explanation": ""
         },
         {
           "text": "Die Zelte der Feinde stehen vor den Toren Zions, und die Wächter sind geflohen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Das Gold ist verdunkelt, und die Steine des Heiligtums liegen auf allen Gassen zerstreut [ref:Klagelieder 4:1]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Klagelieder 4:1",
-      "explanation": "Wie ist das Gold so gar verdunkelt und das feine Gold so hässlich geworden! Es liegen Steine des Heiligtums vorn auf allen Gassen zerstreut [ref:Klagelieder 4:1].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -294,27 +302,31 @@
       "text": "Welche Not der Frauen schildert Klagelieder 4:10?",
       "options": [
         {
-          "text": "Barmherzige Frauen verkauften ihren Schmuck für Brot, um ihre Kinder zu ernähren",
-          "explanation": "Das trifft nicht zu. Richtig ist: Barmherzige Frauen mussten ihre eigenen Kinder kochen, um zu essen [ref:Klagelieder 4:10]."
+          "text": "Barmherzige Frauen verkauften allen ihren Schmuck für Brot, um die Kinder zu nähren",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Barmherzige Frauen ließen ihre Kinder am Tempel zurück, damit sie dort versorgt würden",
-          "explanation": "Das trifft nicht zu. Richtig ist: Barmherzige Frauen mussten ihre eigenen Kinder kochen, um zu essen [ref:Klagelieder 4:10]."
+          "text": "Barmherzige Frauen ließen ihre Kinder am Heiligtum zurück, damit sie versorgt würden",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Barmherzige Frauen flohen mit ihren Kindern über die Berge in das Land der Feinde",
-          "explanation": "Das trifft nicht zu. Richtig ist: Barmherzige Frauen mussten ihre eigenen Kinder kochen, um zu essen [ref:Klagelieder 4:10]."
+          "text": "Barmherzige Frauen flohen mit ihren Kindern über die Berge in das Land der Heiden",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Barmherzige Frauen mussten ihre eigenen Kinder kochen, um zu essen",
-          "explanation": "Es haben die barmherzigsten Weiber ihre Kinder selbst müssen kochen, dass sie zu essen hätten im Jammer der Tochter meines Volks [ref:Klagelieder 4:10]."
+          "text": "Barmherzige Frauen mussten ihre Kinder selbst kochen, dass sie ihnen zur Speise würden",
+          "isCorrect": true,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Klagelieder 4:10",
-      "explanation": "Es haben die barmherzigsten Weiber ihre Kinder selbst müssen kochen, dass sie zu essen hätten im Jammer der Tochter meines Volks [ref:Klagelieder 4:10].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -325,26 +337,30 @@
       "options": [
         {
           "text": "Der Schild des Volkes, der vor Babel nie wankte",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der Gesalbte des HERRN, der unser Trost war [ref:Klagelieder 4:20]."
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Der Gesalbte des HERRN, der unser Trost war",
-          "explanation": "Der Gesalbte des HERRN, der unser Trost war, ist gefangen worden, da sie uns verstörten [ref:Klagelieder 4:20]."
+          "text": "Der Gesalbte des HERRN, der unser Odem war",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
           "text": "Der Löwe aus Juda, der bis zum Ende kämpfte",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der Gesalbte des HERRN, der unser Trost war [ref:Klagelieder 4:20]."
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Der Hirte der Herde, der sie auf die Weide führte",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der Gesalbte des HERRN, der unser Trost war [ref:Klagelieder 4:20]."
+          "text": "Der Hirte der Herde, der treu auf Weide führte",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Klagelieder 4:20",
-      "explanation": "Der Gesalbte des HERRN, der unser Trost war, ist gefangen worden, da sie uns verstörten [ref:Klagelieder 4:20].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -355,26 +371,26 @@
       "options": [
         {
           "text": "Unsere Väter haben gesündigt, darum gibt es für uns keine Hoffnung mehr",
-          "explanation": "Das trifft nicht zu. Richtig ist: Du, HERR, bleibst ewiglich, und dein Thron besteht für und für [ref:Klagelieder 5:19]."
+          "explanation": ""
         },
         {
           "text": "Die Heiden werden unsere zerstörten Mauern bald wieder aufbauen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Du, HERR, bleibst ewiglich, und dein Thron besteht für und für [ref:Klagelieder 5:19]."
+          "explanation": ""
         },
         {
           "text": "Wir wollen opfern, sobald der König von Babel es uns erlaubt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Du, HERR, bleibst ewiglich, und dein Thron besteht für und für [ref:Klagelieder 5:19]."
+          "explanation": ""
         },
         {
           "text": "Du, HERR, bleibst ewiglich, und dein Thron besteht für und für",
-          "explanation": "Aber du, HERR, der du ewiglich bleibst und dein Thron für und für [ref:Klagelieder 5:19]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Klagelieder 5:19",
-      "explanation": "Aber du, HERR, der du ewiglich bleibst und dein Thron für und für [ref:Klagelieder 5:19].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -384,27 +400,31 @@
       "text": "Was geschieht nach Klagelieder 1:2 mit den Freunden der weinenden Stadt?",
       "options": [
         {
-          "text": "Sie werden ihr untreu und selbst zu ihren Feinden",
-          "explanation": "Sie weint des Nachts, daß ihr die Tränen über die Wangen laufen; es ist niemand unter allen ihren Freunden, der sie tröstet; alle ihre Nächsten sind ihr untreu und ihre Feinde geworden. [ref:Klagelieder 1:2]."
+          "text": "Sie sind ihr untreu und ihre Feinde geworden",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Sie bleiben ihr treu und bringen ihr Trost und Brot",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie werden ihr untreu und selbst zu ihren Feinden [ref:Klagelieder 1:2]."
+          "text": "Sie halten treue Wacht und trösten sie am Tor",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Sie schweigen und warten ab, wer den Kampf gewinnt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie werden ihr untreu und selbst zu ihren Feinden [ref:Klagelieder 1:2]."
+          "text": "Sie schweigen still und warten auf den König",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Sie fliehen aus dem Land und kehren erst nach dem Fall zurück",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie werden ihr untreu und selbst zu ihren Feinden [ref:Klagelieder 1:2]."
+          "text": "Sie fliehen eilig fort und kehren nie zurück",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Klagelieder 1:2",
-      "explanation": "Sie weint des Nachts, daß ihr die Tränen über die Wangen laufen; es ist niemand unter allen ihren Freunden, der sie tröstet; alle ihre Nächsten sind ihr untreu und ihre Feinde geworden. [ref:Klagelieder 1:2].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -415,26 +435,26 @@
       "options": [
         {
           "text": "Der HERR ist mein Fels, darum will ich nicht wanken",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der HERR ist mein Teil, darum will ich auf ihn hoffen [ref:Klagelieder 3:24]."
+          "explanation": ""
         },
         {
           "text": "Der HERR ist mein Teil, darum will ich auf ihn hoffen",
-          "explanation": "Der HERR ist mein Teil, spricht meine Seele; darum will ich auf ihn hoffen. [ref:Klagelieder 3:24]."
+          "explanation": ""
         },
         {
           "text": "Der HERR ist mein Licht, darum will ich nicht verzagen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der HERR ist mein Teil, darum will ich auf ihn hoffen [ref:Klagelieder 3:24]."
+          "explanation": ""
         },
         {
           "text": "Der HERR ist mein Hirte, darum will ich nichts fürchten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der HERR ist mein Teil, darum will ich auf ihn hoffen [ref:Klagelieder 3:24]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Klagelieder 3:24",
-      "explanation": "Der HERR ist mein Teil, spricht meine Seele; darum will ich auf ihn hoffen. [ref:Klagelieder 3:24].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -445,26 +465,26 @@
       "options": [
         {
           "text": "Er plagt von Herzen und verstößt die Menschen ewiglich",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er betrübt wohl, erbarmt sich aber wieder nach seiner Güte [ref:Klagelieder 3:31-32]."
+          "explanation": ""
         },
         {
           "text": "Er betrübt grundlos und erbarmt sich danach nie wieder",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er betrübt wohl, erbarmt sich aber wieder nach seiner Güte [ref:Klagelieder 3:31-32]."
+          "explanation": ""
         },
         {
           "text": "Er betrübt wohl, erbarmt sich aber wieder nach seiner Güte",
-          "explanation": "Denn der Herr verstößt nicht ewiglich; sondern er betrübt wohl, und erbarmt sich wieder nach seiner Güte. [ref:Klagelieder 3:31-32]."
+          "explanation": ""
         },
         {
           "text": "Er verschont alle Menschen und straft niemanden mehr",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er betrübt wohl, erbarmt sich aber wieder nach seiner Güte [ref:Klagelieder 3:31-32]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Klagelieder 3:31-32",
-      "explanation": "Denn der Herr verstößt nicht ewiglich; sondern er betrübt wohl, und erbarmt sich wieder nach seiner Güte. [ref:Klagelieder 3:31-32].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -474,27 +494,31 @@
       "text": "Zu welcher Selbstprüfung ruft Klagelieder 3:40 auf?",
       "options": [
         {
-          "text": "Unsere Väter erforschen und ihre Schuld büßen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Unser Wesen erforschen und prüfen und uns zum HERRN bekehren [ref:Klagelieder 3:40]."
+          "text": "Die Missetat der Väter erforschen und ihre schwere Schuld büßen",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Das Gesetz erforschen und zählen und uns dem König unterwerfen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Unser Wesen erforschen und prüfen und uns zum HERRN bekehren [ref:Klagelieder 3:40]."
+          "text": "Das Gesetz erforschen und zählen und uns dem Könige unterwerfen",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Unsere Feinde prüfen und uns zum Krieg rüsten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Unser Wesen erforschen und prüfen und uns zum HERRN bekehren [ref:Klagelieder 3:40]."
+          "text": "Die Anschläge der Feinde prüfen und uns zum großen Kriege rüsten",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
           "text": "Unser Wesen erforschen und prüfen und uns zum HERRN bekehren",
-          "explanation": "Und laßt uns erforschen und prüfen unser Wesen und uns zum HERRN bekehren! [ref:Klagelieder 3:40]."
+          "isCorrect": true,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Klagelieder 3:40",
-      "explanation": "Und laßt uns erforschen und prüfen unser Wesen und uns zum HERRN bekehren! [ref:Klagelieder 3:40].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -504,27 +528,31 @@
       "text": "Womit vergleicht Klagelieder 4:6 die Missetat der Tochter des Volkes?",
       "options": [
         {
-          "text": "Sie ist größer als die Sünde Sodoms",
-          "explanation": "Die Missetat der Tochter meines Volks ist größer denn die Sünde Sodoms, die plötzlich umgekehrt ward, und kam keine Hand dazu. [ref:Klagelieder 4:6]."
+          "text": "Sie ist größer denn die Sünde Sodoms",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Sie ist größer als die Sünde Babels",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie ist größer als die Sünde Sodoms [ref:Klagelieder 4:6]."
+          "text": "Sie ist größer denn die Sünde Babels",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Sie ist ebenso groß wie die Sünde Gomorras",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie ist größer als die Sünde Sodoms [ref:Klagelieder 4:6]."
+          "text": "Sie ist so groß wie die Sünde Moabs",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Sie ist größer als die Sünde Ninives",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie ist größer als die Sünde Sodoms [ref:Klagelieder 4:6]."
+          "text": "Sie ist größer denn die Sünde Edoms",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Klagelieder 4:6",
-      "explanation": "Die Missetat der Tochter meines Volks ist größer denn die Sünde Sodoms, die plötzlich umgekehrt ward, und kam keine Hand dazu. [ref:Klagelieder 4:6].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
@@ -534,27 +562,31 @@
       "text": "Womit vergleicht Klagelieder 4:19 die Verfolger des Volkes?",
       "options": [
         {
-          "text": "Zahlreicher als die Heuschrecken im Land",
-          "explanation": "Das trifft nicht zu. Richtig ist: Schneller als die Adler unter dem Himmel [ref:Klagelieder 4:19]."
+          "text": "Zahlreicher als Heuschrecken im Lande",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
           "text": "Schneller als die Adler unter dem Himmel",
-          "explanation": "Unsre Verfolger waren schneller denn die Adler unter dem Himmel; auf den Bergen haben sie uns verfolgt und in der Wüste auf uns gelauert. [ref:Klagelieder 4:19]."
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Wilder als die Löwen im Dickicht",
-          "explanation": "Das trifft nicht zu. Richtig ist: Schneller als die Adler unter dem Himmel [ref:Klagelieder 4:19]."
+          "text": "Grimmiger als die Löwen in der Wildnis",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Schneller als die Rosse in der Ebene",
-          "explanation": "Das trifft nicht zu. Richtig ist: Schneller als die Adler unter dem Himmel [ref:Klagelieder 4:19]."
+          "text": "Schneller als die Rosse in dem Streite",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Klagelieder 4:19",
-      "explanation": "Unsre Verfolger waren schneller denn die Adler unter dem Himmel; auf den Bergen haben sie uns verfolgt und in der Wüste auf uns gelauert. [ref:Klagelieder 4:19].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     }

@@ -1,0 +1,640 @@
+{
+  "metadata": {
+    "quizId": "bibel_29_joel_en",
+    "title": "Joel",
+    "subtitle": "Joel 1:1 – 3:21 (18 questions)",
+    "description": "Questions on the Book of Joel according to the King James Version (1769).",
+    "author": "King James Version (1769)",
+    "version": "1.0.0",
+    "language": "en",
+    "category": "propheten",
+    "difficulty": "medium",
+    "tags": [
+      "Joel",
+      "OT",
+      "prophets",
+      "KJV"
+    ],
+    "questionCount": 18,
+    "canonicalBookNumber": 29,
+    "testament": "OT"
+  },
+  "questions": [
+    {
+      "questionId": "joe_001",
+      "type": "single_choice",
+      "text": "What devastation does Joel 1:4 portray as a figure of the coming judgment?",
+      "options": [
+        {
+          "text": "A grievous drought that dried up the rivers and burned the pleasant pastures",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A plague of insects: what the palmerworm left the locust ate, the rest the cankerworm and caterpiller",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A mighty earthquake that cast down all the fortified walls of the cities",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A deadly pestilence that smote man and beast and left the land desolate",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Joel 1:4-7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joe_002",
+      "type": "single_choice",
+      "text": "What are the priests and elders called upon to do in Joel 1:13-14?",
+      "options": [
+        {
+          "text": "To muster the men of war and strengthen the high battlements of Zion",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To offer new sacrifices in the sanctuary and purify the defiled altars",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To lie in sackcloth, sanctify a fast, and cry aloud unto the LORD",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "To gather all the royal corn into the storehouses and shut the gates",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Joel 1:13-14",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joe_003",
+      "type": "single_choice",
+      "text": "How did the beasts groan according to Joel 1:18?",
+      "options": [
+        {
+          "text": "The cattle fled into the mountains because the fruitful land was spoiled",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The herds were torn by wild beasts because the shepherds were gone away",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The beasts were brought for sacrifice that the fierce anger might turn",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The beasts groan, the herds of cattle are perplexed, having no pasture",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Joel 1:18-20",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joe_004",
+      "type": "single_choice",
+      "text": "With what alarm does Joel 2 begin?",
+      "options": [
+        {
+          "text": "Blow ye the trumpet in Zion, for the day of the LORD cometh",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Sound the silver horn in the streets, for a foreign king draweth near",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Cry aloud in the gates of the temple, for the holy sacrifice hath ceased",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Rend your garments in the court, for the drought hath dried up all wine",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Joel 2:1-2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "joe_005",
+      "type": "single_choice",
+      "text": "What true repentance does the LORD require according to Joel 2:13?",
+      "options": [
+        {
+          "text": "Rend your garments and offer burnt offerings in abundance unto the LORD",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Rend your heart, and not your garments, and turn unto the LORD your God",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Fast seven days and keep silence before the LORD in sackcloth and ashes",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Bring the tithes into the house of the LORD and offer there abundantly",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Joel 2:12-13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joe_006",
+      "type": "single_choice",
+      "text": "What does the LORD promise in Joel 2:25?",
+      "options": [
+        {
+          "text": "To give a plenteous harvest in the next year",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To rid the land of the locusts and sow it anew",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To restore the years that the locust hath eaten",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "To give new fields in the valley of Jehoshaphat and bless them",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Joel 2:25",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "joe_007",
+      "type": "single_choice",
+      "text": "What prophecy did Peter quote on the day of Pentecost from Joel 2:28?",
+      "options": [
+        {
+          "text": "I will bring you again into your land and make you one people again",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I will make a new covenant with Israel and build up his house anew",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I will send my messenger before thee, which shall prepare thy way before thee",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "I will pour out my spirit upon all flesh; and your sons and your daughters shall prophesy",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Joel 2:28-29",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "joe_008",
+      "type": "single_choice",
+      "text": "Where will the LORD gather all nations to judge them (Joel 3:2)?",
+      "options": [
+        {
+          "text": "Into the valley of Jehoshaphat",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Upon the holy mount of Carmel",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In the fertile plain of Jezreel",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In the deep valley of Hinnom",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Joel 3:2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "joe_009",
+      "type": "single_choice",
+      "text": "What summons is proclaimed unto the Gentiles in Joel 3:10?",
+      "options": [
+        {
+          "text": "Beat your swords into plowshares, and your spears into pruninghooks",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Beat your plowshares into swords, and your pruninghooks into spears",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Build walls about your cities and arm your men of war",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Lay down your weapons and proclaim peace",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Joel 3:9-10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "joe_010",
+      "type": "single_choice",
+      "text": "Whose son was the prophet Joel according to Joel 1:1?",
+      "options": [
+        {
+          "text": "The son of Pethuel",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The son of Amoz",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The son of Hilkiah",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The son of Beeri",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Joel 1:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joe_011",
+      "type": "ordering",
+      "text": "Order the four destroyers in the sequence they eat according to Joel 1:4.",
+      "options": [
+        {
+          "text": "Cankerworm",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Palmerworm",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Caterpiller",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Locust",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1,
+        3,
+        0,
+        2
+      ],
+      "bibleReference": "Joel 1:4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "joe_012",
+      "type": "single_choice",
+      "text": "How was the land commanded to lament in Joel 1:8?",
+      "options": [
+        {
+          "text": "Like a widow that casteth ashes upon her head for her son",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Like a mother that burieth her child and holdeth her peace",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Like a virgin girded with sackcloth for the husband of her youth",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Like a shepherd that hath lost all his flock and weepeth",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Joel 1:8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joe_013",
+      "type": "single_choice",
+      "text": "How does Joel 2:3 describe the land before and behind the host?",
+      "options": [
+        {
+          "text": "Before them as a field, behind them as a quarry",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Before them as a vineyard, behind them as a marsh",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Before them as a wilderness, behind them as the garden of Eden",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Before them as the garden of Eden, behind them a desolate wilderness",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Joel 2:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joe_014",
+      "type": "multiple_choice",
+      "text": "Which two attributes of God does Joel 2:13 declare as reason for turning?",
+      "options": [
+        {
+          "text": "He is slow to anger, and of great kindness",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He is hidden and will not be entreated of men",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He is gracious and merciful",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He is unyielding and avengeth every sin instantly",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0,
+        2
+      ],
+      "bibleReference": "Joel 2:13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "joe_015",
+      "type": "single_choice",
+      "text": "What prayer should the priests speak between the porch and the altar (Joel 2:17)?",
+      "options": [
+        {
+          "text": "Spare thy people, O LORD, that the heathen should not rule over them",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "That the LORD would chasten his people sore, that they might come to themselves",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That the LORD would destroy the heathen and utterly lay waste their cities",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That the LORD would raise up a new king over his people Israel",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Joel 2:17",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "joe_016",
+      "type": "single_choice",
+      "text": "What does the LORD send down for His people as of old in Joel 2:23?",
+      "options": [
+        {
+          "text": "Tempest and heavy hail in the winter season",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The former rain and the latter rain",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Sweet dew and morning mists upon mountains",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Manna and quails in abundance every morning",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Joel 2:23",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joe_017",
+      "type": "single_choice",
+      "text": "With what images does Joel 3:13 call to the judgment of the heathen?",
+      "options": [
+        {
+          "text": "Kindle the torches, for night is fallen; the towers are overthrown",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Yoke the oxen to the plow, for seedtime is come; cisterns are full",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Put ye in the sickle, harvest is ripe: press full, fats overflow",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Blow the trumpet, for crops are spoiled; all the storehouses empty",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Joel 3:13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "joe_018",
+      "type": "single_choice",
+      "text": "What blessed fruitfulness shall come upon the mountains in Joel 3:18?",
+      "options": [
+        {
+          "text": "The mountains shall drop down milk, and hills flow with choice wine",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The mountains shall drop down honey, and hills flow with sweet oil",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The mountains shall drop down gentle dew, and hills flow with waters",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The mountains shall drop down new wine, and hills flow with milk",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Joel 3:18",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    }
+  ]
+}

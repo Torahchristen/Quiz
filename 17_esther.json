@@ -21,60 +21,60 @@
     {
       "questionId": "est_001",
       "type": "single_choice",
-      "text": "Wie lange dauerte das prachtvolle Festgelage, das König Ahasveros für seine Fürsten veranstaltete?",
+      "text": "Wie lange währte das Fest, das König Ahasveros für seine Fürsten und Großen machte?",
       "options": [
         {
-          "text": "Einhundertachtzig Tage lang, gefolgt von einem siebentägigen Fest im Palastgarten",
-          "explanation": "Ahasveros zeigte den Reichtum seiner Herrlichkeit ein halbes Jahr lang [ref:Esther 1:4-5]."
+          "text": "Hundertachtzig Tage lang, gefolgt von sieben Festtagen im Hofe des Gartens",
+          "explanation": ""
         },
         {
-          "text": "Vierzig Tage lang in Erinnerung an den großen Sieg der Meder über die Babylonier",
-          "explanation": "Die Feier dauerte 180 Tage und schloss mit 7 Festtagen [ref:Esther 1:4-5]."
+          "text": "Vierzig Tage lang in Erinnerung an den großen Sieg der Meder über Babylon",
+          "explanation": ""
         },
         {
-          "text": "Sieben Monate lang ausschließlich für die Priesterschaft der persischen Gottheiten",
-          "explanation": "Das Fest galt allen Fürsten und Knechten der 127 Provinzen [ref:Esther 1:3-4]."
+          "text": "Sieben Monate lang ausschließlich für die Priesterschaft der persischen Götter",
+          "explanation": ""
         },
         {
-          "text": "Genau dreißig Tage lang vor dem Aufbruch des königlichen Heeres nach Griechenland",
-          "explanation": "Der biblische Text nennt 180 Tage und 7 Tage Fest [ref:Esther 1:4-5]."
+          "text": "Genau dreißig Tage lang vor dem Auszug des Heeres wider die Griechenlande",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Esther 1:4-5",
-      "explanation": "Ahasveros stellte den herrlichen Reichtum seines Reiches 180 Tage lang zur Schau, gefolgt von einem siebentägigen Festgelage im Garten des Schlosses zu Susa [ref:Esther 1:4-5].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "est_002",
       "type": "single_choice",
-      "text": "Warum weigerte sich die Königin Waschti, vor dem König und seinen Gästen zu erscheinen?",
+      "text": "Warum ward der König zornig über die Königin Vasthi bei dem großen Mahle?",
       "options": [
         {
-          "text": "Weil sie sich heimlich mit den Führern einer Rebellion gegen Persien verschworen hatte",
-          "explanation": "Der Text erwähnt keine Verschwörung von Waschti [ref:Esther 1:12]."
+          "text": "Weil sie sich heimlich mit den Führern einer Empörung verschworen hatte",
+          "explanation": ""
         },
         {
-          "text": "Weil der König befahl, dass sie ihre Schönheit vor dem betrunkenen Volk zur Schau stelle",
-          "explanation": "Waschti weigerte sich, auf Befehl des Königs mit der Krone zu erscheinen [ref:Esther 1:11-12]."
+          "text": "Weil sie sich weigerte zu kommen, dass er den Fürsten ihre Schöne zeigte",
+          "explanation": ""
         },
         {
-          "text": "Weil sie krank war und in den Gemächern von den Hofdamen gepflegt werden musste",
-          "explanation": "Es war eine bewusste Weigerung gegen den königlichen Befehl [ref:Esther 1:12]."
+          "text": "Weil sie krank lag und in den Gemächern von ihren Mägden gepflegt ward",
+          "explanation": ""
         },
         {
-          "text": "Weil sie Trauerkleider trug wegen des Todes ihrer vornehmen Verwandten in Medien",
-          "explanation": "Sie verweigerte das Erscheinen vor den zechenden Fürsten [ref:Esther 1:11-12]."
+          "text": "Weil sie Trauerkleider trug wegen des Todes ihrer Verwandten in Medien",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Esther 1:11-12",
-      "explanation": "Der König wollte Waschtis Schönheit den Fürsten und Völkern vorführen; aber die Königin weigerte sich zu kommen, worüber der König sehr zornig wurde [ref:Esther 1:11-12].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -84,837 +84,837 @@
       "text": "Welchen Rat gab Memukan dem König Ahasveros nach der Weigerung der Königin?",
       "options": [
         {
-          "text": "Waschti solle für ein ganzes Jahr in die persischen Berge verbannt werden",
-          "explanation": "Der Rat forderte ihre dauerhafte Absetzung als Königin [ref:Esther 1:19]."
+          "text": "Vasthi solle für ein ganzes Jahr in die fernen Berge verbannt werden",
+          "explanation": ""
         },
         {
-          "text": "Der König solle ihr vergeben und ein neues Fest für die Hofdamen stiften",
-          "explanation": "Memukan warnte vor der Missachtung aller Männer im Reich [ref:Esther 1:16-18]."
+          "text": "Der König solle ihr vergeben und ein neues Mahl für die Frauen stiften",
+          "explanation": ""
         },
         {
-          "text": "Waschti solle abgesetzt werden, damit Frauen ihre Ehemänner nicht verachten",
-          "explanation": "Ein königlicher Erlass sollte ihre Würde einer Besseren übertragen [ref:Esther 1:19-22]."
+          "text": "Vasthi solle abgetan werden, damit Frauen ihre Ehemänner nicht verachten",
+          "explanation": ""
         },
         {
-          "text": "Man solle die Königin im Tempel der Götzen zur öffentlichen Buße zwingen",
-          "explanation": "Ihre königliche Stellung wurde ihr für immer entzogen [ref:Esther 1:19]."
+          "text": "Man solle die Kämmerer hinrichten, die ihren Befehl falsch meldeten",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Esther 1:19-22",
-      "explanation": "Memukan riet, Waschti per Gesetz abzusetzen und ihre königliche Würde einer Würdigeren zu geben, damit jeder Mann Herr in seinem eigenen Haus bleibe [ref:Esther 1:19-22].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "est_004",
       "type": "single_choice",
-      "text": "Aus welchem israelitischen Stamm stammte Mordechai?",
+      "text": "Aus welchem israelitischen Stamm stammte Mardochai zu Schloß Susan?",
       "options": [
         {
-          "text": "Aus dem Stamme Juda, aus der unmittelbaren Königsfamilie Davids",
-          "explanation": "Mordechai stammte nicht aus Juda, sondern aus Benjamin [ref:Esther 2:5]."
+          "text": "Aus dem Stamme Juda, aus dem königlichen Geschlecht Davids",
+          "explanation": ""
         },
         {
-          "text": "Aus dem Stamme Levi, aus dem Geschlecht der Hohenpriester Aarons",
-          "explanation": "Er war ein Nachkomme von Kisch aus Benjamin [ref:Esther 2:5]."
+          "text": "Aus dem Stamme Levi, aus der Familie der Hohenpriester Aarons",
+          "explanation": ""
         },
         {
-          "text": "Aus dem Stamme Ephraim, aus der Familie des Heerführers Josua",
-          "explanation": "Sein Stammbaum weist ihn als Benjaminiter aus [ref:Esther 2:5]."
+          "text": "Aus dem Stamme Ephraim, aus der Sippe des großen Führers Josua",
+          "explanation": ""
         },
         {
-          "text": "Aus dem Stamm Benjamin, ein Sohn Jairs",
-          "explanation": "Mordechai war ein Nachkomme des benjaminitischen Hauses Kisch [ref:Esther 2:5]."
+          "text": "Aus dem Stamme Benjamin, ein Sohn Jairs, des Sohnes Simeis",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Esther 2:5",
-      "explanation": "In der Residenz Susa lebte ein jüdischer Mann namens Mordechai, ein Sohn Jairs, des Sohnes Simeis, des Sohnes Kischs, ein Benjaminiter [ref:Esther 2:5].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "est_005",
       "type": "single_choice",
-      "text": "Welche geheime Anweisung gab Mordechai seiner Pflegetochter Esther bei ihrer Aufnahme?",
+      "text": "Welche Anweisung gab Mardochai seiner Pflegetochter Esther im Frauenhause?",
       "options": [
         {
-          "text": "Sie sollte ihre jüdische Abstammung und ihr Volk niemandem im Palast verraten",
-          "explanation": "Esther befolgte Mordechais Weisung und schwieg über ihr Volk [ref:Esther 2:10, 20]."
+          "text": "Sie sollte ihr Volk und ihre Freundschaft vor dem Könige nicht anzeigen",
+          "explanation": ""
         },
         {
-          "text": "Sie sollte sich weigern, das königliche Essen und persischen Wein anzurühren",
-          "explanation": "Dies tat Daniel in Babylon, Esther hielt ihre Herkunft geheim [ref:Esther 2:10]."
+          "text": "Sie sollte von den Speisen des Königs essen, um heidnisch zu erscheinen",
+          "explanation": ""
         },
         {
-          "text": "Sie sollte täglich heimlich Briefe an die Hohenpriester nach Jerusalem senden",
-          "explanation": "Mordechai verbot ihr ausdrücklich, ihr Volk zu offenbaren [ref:Esther 2:10]."
+          "text": "Sie sollte sich unverzüglich als künftige Königin vor dem Hofe ausrufen",
+          "explanation": ""
         },
         {
-          "text": "Sie sollte von den Schatzmeistern des Königs reiche Goldgeschenke fordern",
-          "explanation": "Esther verlangte nichts weiter als das, was Hegai ihr riet [ref:Esther 2:15]."
+          "text": "Sie sollte täglich Briefe an die jüdischen Ältesten in Jerusalem senden",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Esther 2:10",
-      "explanation": "'Esther hatte ihr Volk und ihre Verwandtschaft nicht bekannt gegeben; denn Mordechai hatte ihr geboten, dass sie es nicht sagen solle' [ref:Esther 2:10].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "est_006",
       "type": "single_choice",
-      "text": "Welche Verschwörung deckte Mordechai auf, als er am königlichen Tor saß?",
+      "text": "Welche Verschwörung deckte Mardochai auf, als er im Tor des Königs saß?",
       "options": [
         {
-          "text": "Einen Anschlag der Heere Ägyptens auf die südlichen Grenzen Persiens",
-          "explanation": "Die Bedrohung kam aus den Gemächern des Palastes [ref:Esther 2:21]."
+          "text": "Einen Verrat der Statthalter von Ägypten an den Grenzen des Perserreiches",
+          "explanation": ""
         },
         {
-          "text": "Ein Attentat der königlichen Kämmerer Bigtan und Teresch auf König Ahasveros",
-          "explanation": "Mordechai meldete die Mordpläne über Esther an den König [ref:Esther 2:21-23]."
+          "text": "Den Anschlag zweier Kämmerer, Bigthan und Teresch, wider König Ahasveros",
+          "explanation": ""
         },
         {
-          "text": "Einen heimlichen Diebstahl der Kronjuwelen durch den Hofmarschall Hegai",
-          "explanation": "Die Kämmerer trachteten nach dem Leben des Herrschers [ref:Esther 2:21]."
+          "text": "Einen geheimen Diebstahl der goldenen Schaubrottische aus den Kammern",
+          "explanation": ""
         },
         {
-          "text": "Eine Fälschung der Reichsurkunden durch die babylonischen Schreiber",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ein Attentat der königlichen Kämmerer Bigtan und Teresch auf König Ahasveros [ref:Esther 2:21-23]."
+          "text": "Ein Komplott der Heiden, um alle Palastwachen bei Nacht zu vergiften",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Esther 2:21-23",
-      "explanation": "Zwei Kämmerer des Königs, Bigtan und Teresch, wurden zornig und trachteten danach, Hand an Ahasveros zu legen; Mordechai entdeckte es und ließ es melden [ref:Esther 2:21-23].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "est_007",
       "type": "single_choice",
-      "text": "Warum weigerte sich Mordechai, vor dem neu erhöhten Haman die Knie zu beugen?",
+      "text": "Warum weigerte sich Mardochai, die Knie zu beugen und vor Haman niederzufallen?",
       "options": [
         {
-          "text": "Weil Haman ihm Geld schuldete und seine Zinsen nicht bezahlt hatte",
-          "explanation": "Es ging um tiefste gottesdienstliche und völkische Treue [ref:Esther 3:2-4]."
+          "text": "Weil Haman die Abgaben für das jüdische Volk eigenmächtig verdoppelt hatte",
+          "explanation": ""
         },
         {
-          "text": "Weil Haman ein heidnischer Sklave war, der keine Vorfahren nachweisen konnte",
-          "explanation": "Haman war ein mächtiger Agagiter am königlichen Hof [ref:Esther 3:1]."
+          "text": "Weil der persische König ihm eine persönliche Ausnahmegenehmigung gab",
+          "explanation": ""
         },
         {
-          "text": "Weil Haman ein Agagiter (Amalekiter) war und Mordechai Gott allein anbetete",
-          "explanation": "Die Amalekiter waren Erbfeinde Gottes; ein Jude beugte sich nicht [ref:Esther 3:2-5]."
+          "text": "Weil er ein Jude war und die Kniebeugung vor dem Agagiter Haman verweigerte",
+          "explanation": ""
         },
         {
-          "text": "Weil der König allen Juden verboten hatte, persische Beamte zu grüßen",
-          "explanation": "Der König hatte im Gegenteil befohlen, vor Haman niederzufallen [ref:Esther 3:2]."
+          "text": "Weil er fürchtete, von den anderen Hofbeamten im Schlosstor verspottet zu werden",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Esther 3:2-5",
-      "explanation": "Alle Diener beugten die Knie vor Haman, aber Mordechai beugte die Knie nicht und fiel nicht nieder, weil er als Jude Gott allein solche Ehre gab [ref:Esther 3:2-5].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "est_008",
       "type": "single_choice",
-      "text": "Welche Bestechungssumme bot Haman dem König für die Vernichtung aller Juden an?",
+      "text": "Welche Summe bot Haman dem König für den Befehl, alle Juden umzubringen?",
       "options": [
         {
-          "text": "Fünfzigtausend Schekel Gold aus den Tempelschätzen der eroberten Städte",
-          "explanation": "Haman bot eine gewaltige Summe in Silber an [ref:Esther 3:9]."
+          "text": "Fünfzigtausend Lot Goldes aus den Schatzkammern der Provinzen",
+          "explanation": ""
         },
         {
-          "text": "Einhundert talentierte arabische Kriegspferde und zehn bronzene Streitwagen",
-          "explanation": "Es war ein Barbetrag für die königliche Schatzkammer [ref:Esther 3:9]."
+          "text": "Einhundert edle Kriegspferde und zehn eherne Streitwagen mit Rossen",
+          "explanation": ""
         },
         {
-          "text": "Fünftausend Rinder und zehntausend Schafe zur täglichen Verpflegung des Hofes",
-          "explanation": "Das Angebot bestand aus zehntausend Talenten Silber [ref:Esther 3:9]."
+          "text": "Fünftausend Rinder und zehntausend Schafe zur Speise des ganzen Hofes",
+          "explanation": ""
         },
         {
-          "text": "Zehntausend Talente Silber für die königlichen Schatzkammern",
-          "explanation": "Eine ungeheure Summe, um den Völkermord finanziell schmackhaft zu machen [ref:Esther 3:9]."
+          "text": "Zehntausend Zentner Silber, darzuwägen in die Kammer des Königs",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Esther 3:9",
-      "explanation": "Haman sprach: 'Gefällt es dem König, so werde schriftlich befohlen, sie umzubringen; so will ich zehntausend Talente Silber in die Hände der Beamten darwägen' [ref:Esther 3:9]. (Hinweis: Luther 1912 übersetzt hier „Zentner“ (statt Talente).)",
-      "explanationReviewed": false,
+      "explanation": "Haman erbot sich, zehntausend Zentner Silber (KJV: 10,000 talents of silver, ca. 340 Tonnen) in die Schatzkammer zu wägen [ref:Esther 3:9].",
+      "explanationReviewed": true,
       "difficulty": "hard"
     },
     {
       "questionId": "est_009",
       "type": "single_choice",
-      "text": "Auf welchen Tag fiel das durch das Los (Pur) bestimmte Ausrottungsdatum der Juden?",
+      "text": "Auf welchen Tag fiel das Los Pur zur Vertilgung aller Juden im Perserreich?",
       "options": [
         {
           "text": "Auf den dreizehnten Tag des zwölften Monats, das ist der Monat Adar",
-          "explanation": "Das Los fiel auf den 13. Adar für das geplante Massaker [ref:Esther 3:7, 13]."
+          "explanation": ""
         },
         {
-          "text": "Auf den ersten Tag des ersten Monats Nisan während der Passahfeier",
-          "explanation": "Im Monat Nisan wurde das Los für den Monat Adar geworfen [ref:Esther 3:7]."
+          "text": "Auf den zehnten Tag des siebenten Monats zum großen Versöhnungsfeste",
+          "explanation": ""
         },
         {
-          "text": "Auf den zehnten Tag des siebten Monats am großen Versöhnungstag",
-          "explanation": "Das Datum lag elf Monate später im Monat Adar [ref:Esther 3:7]."
+          "text": "Auf den ersten Tag des ersten Monats Nisan beim Beginn des Jahres",
+          "explanation": ""
         },
         {
-          "text": "Auf den letzten Tag des Monats Elul vor dem jüdischen Neujahrsfest",
-          "explanation": "Der 13. Tag des Monats Adar war das festgesetzte Datum [ref:Esther 3:13]."
+          "text": "Auf den vierzehnten Tag des Monats Siwan zur Zeit der Sommerweizenlese",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Esther 3:7, 13",
-      "explanation": "Man warf das Pur, das ist das Los, vor Haman von Monat zu Monat, und das Los fiel auf den zwölften Monat, das ist der Monat Adar, auf den dreizehnten Tag [ref:Esther 3:7, 13].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "est_010",
       "type": "single_choice",
-      "text": "Welche tödliche Gefahr drohte jedem, der ungerufen zum persischen König ging?",
+      "text": "Welche Todesgefahr drohte jedem, der ungerufen in den inneren Hof des Königs trat?",
       "options": [
         {
-          "text": "Er musste lebenslang Zwangsarbeit in den königlichen Bergwerken leisten",
-          "explanation": "Das Gesetz sah die sofortige Todesstrafe vor [ref:Esther 4:11]."
+          "text": "Er wurde auf Lebenszeit in die tiefsten Bergwerke Mediens verbannt",
+          "explanation": ""
         },
         {
-          "text": "Er verfiel dem Tode, es sei denn, der König streckte das goldene Zepter aus",
-          "explanation": "Nur das Ausstrecken des goldenen Zepters schenkte Begnadigung [ref:Esther 4:11]."
+          "text": "Er musste sterben, es sei denn, der König streckte das goldene Zepter aus",
+          "explanation": ""
         },
         {
-          "text": "Er verlor sofort all seinen Grundbesitz und wurde des Landes verwiesen",
-          "explanation": "Es galt das unerbittliche Gesetz des Todes [ref:Esther 4:11]."
+          "text": "Er musste eine Strafe von zehntausend Silberlingen an den Hof zahlen",
+          "explanation": ""
         },
         {
-          "text": "Er wurde vor das Urteil der sieben Weisen von Persien und Medien gestellt",
-          "explanation": "Jeder Uneingeladene verfiel nach dem Gesetz dem Tode [ref:Esther 4:11]."
+          "text": "Er verlor sein ganzes Vermögen an die Fürsten und Kämmerer des Königs",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Esther 4:11",
-      "explanation": "Es ist ein Gesetz, dass jeder, der ungerufen in den inneren Hof zum König hineingeht, sterben muss, es sei denn, der König streckt ihm das goldene Zepter entgegen [ref:Esther 4:11].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "est_011",
       "type": "single_choice",
-      "text": "Mit welcher berühmten Glaubensmahnung forderte Mordechai Esther zum Handeln auf?",
+      "text": "Mit welcher Mahnung forderte Mardochai Esther auf, vor den König zu treten?",
       "options": [
         {
-          "text": "Fliehe verkleidet nach Ägypten, denn dort werden die Juden dich aufnehmen",
-          "explanation": "Mordechai mahnte sie, ihre gottgegebene Stellung zu nutzen [ref:Esther 4:13-14]."
+          "text": "Wenn du schweigst, wird König Ahasveros dich aus dem Palaste jagen",
+          "explanation": ""
         },
         {
-          "text": "Bestiche die Wachen am Hof mit Gold, damit sie Haman heimlich vergiften",
-          "explanation": "Mordechai vertraute auf Gottes Vorsehung und Gebet [ref:Esther 4:14]."
+          "text": "Gott hat dich erwählt, weil du schöner bist als alle Frauen des Ostens",
+          "explanation": ""
         },
         {
-          "text": "Wer weiß, ob du nicht gerade für eine Zeit wie diese zur Königswürde kamst?",
-          "explanation": "Ein prophetisches Zeugnis über Gottes Vorsehung in der Notzeit [ref:Esther 4:14]."
+          "text": "Wer weiß, ob du nicht um dieser Zeit willen zum Königtum gekommen bist?",
+          "explanation": ""
         },
         {
-          "text": "Warte schweigend ab, denn der persische König wird seinen Sinn von selbst ändern",
-          "explanation": "Schweigen würde ihren Untergang bedeuten; Gott würde anderswo retten [ref:Esther 4:14]."
+          "text": "Die Fürsten von Juda haben ein Bittschreiben an deinen Thron gesandt",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Esther 4:14",
-      "explanation": "'Denn wenn du zu dieser Zeit schweigst, so wird eine Erleichterung und Errettung für die Juden von einem andern Ort her erstehen... Und wer weiß, ob du nicht gerade für eine Zeit wie diese zur königlichen Würde gelangt bist?' [ref:Esther 4:14].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "est_012",
       "type": "single_choice",
-      "text": "Mit welchen entschlossenen Worten willigte Esther in den lebensgefährlichen Gang ein?",
+      "text": "Mit welchen Worten willigte Esther ein, ungerufen vor den König zu gehen?",
       "options": [
         {
-          "text": "Ich gehe hinein mit gezogenem Schwert, und Gott wird mir den Thron geben",
-          "explanation": "Esther ging in Demut, Fasten und Glaubenshingabe [ref:Esther 4:16]."
+          "text": "Rüstet tausend Krieger, die mich mit gezücktem Schwert begleiten!",
+          "explanation": ""
         },
         {
-          "text": "Ich vertraue auf die Gnade der Fürsten, die mich vor dem König verteidigen",
-          "explanation": "Sie vertraute allein auf Gottes Erbarmen nach dem Fasten [ref:Esther 4:16]."
+          "text": "Ich gehe hinein, denn mein königlicher Rang schützt mich vor dem Tode!",
+          "explanation": ""
         },
         {
-          "text": "Ich werde mein Volk verleugnen, wenn der König mich nach meiner Heimat fragt",
-          "explanation": "Sie setzte ihr Leben rückhaltlos für ihr Volk ein [ref:Esther 4:16]."
+          "text": "Wenn Gott mir ein Zeichen gibt, so will ich unverzüglich hineintreten!",
+          "explanation": ""
         },
         {
-          "text": "Fastet drei Tage für mich; so will ich zum König gehen; komme ich um, so komme ich um!",
-          "explanation": "Das Vorbild heroischer Glaubenshingabe: 'Komme ich um, so komme ich um!' [ref:Esther 4:16]."
+          "text": "Fastet für mich drei Tage; so will ich hineingehen. Komme ich um, so komme ich um!",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Esther 4:16",
-      "explanation": "'Gehe hin, versammle alle Juden... fastet für mich drei Tage... so will ich zum König hineingehen, obwohl es gegen das Gesetz ist; komme ich um, so komme ich um!' [ref:Esther 4:16].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "est_013",
       "type": "single_choice",
-      "text": "Wie empfing König Ahasveros Esther, als sie ungerufen in den inneren Hof trat?",
+      "text": "Wie empfing König Ahasveros Esther, als sie ungerufen im inneren Hofe stand?",
       "options": [
         {
-          "text": "Er streckte ihr das goldene Zepter entgegen und bot ihr bis zur Hälfte des Reiches",
-          "explanation": "Esther fand Gnade vor seinen Augen und berührte die Spitze des Zepters [ref:Esther 5:2-3]."
+          "text": "Er neigte ihr das goldene Zepter in seiner Hand zu, und sie berührte es",
+          "explanation": ""
         },
         {
-          "text": "Er ließ sie durch die Wachen ergreifen und drei Tage im Kerker verhören",
-          "explanation": "Gott neigte das Herz des Königs zur Gnade [ref:Esther 5:2]."
+          "text": "Er befahl den Wächtern, sie sofort festzunehmen und ins Gefängnis zu werfen",
+          "explanation": ""
         },
         {
-          "text": "Er verließ zornig den Thronsaal und weigerte sich sie auch nur anzusehen",
-          "explanation": "Ahasveros streckte sofort Sein Zepter aus [ref:Esther 5:2]."
+          "text": "Er stand von seinem Thron auf und legte seine Purpurkrone auf ihr Haupt",
+          "explanation": ""
         },
         {
-          "text": "Er befahl den Priestern, die Vorzeichen im Palastgarten zu befragen",
-          "explanation": "Er fragte sie liebreich nach ihrem Begehren [ref:Esther 5:2-3]."
+          "text": "Er wendete sein Angesicht im Zorn ab und verweigerte jegliche Rede mit ihr",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Esther 5:2-3",
-      "explanation": "Als der König die Königin Esther im Hof stehen sah, fand sie Gnade vor seinen Augen; und der König streckte ihr das goldene Zepter entgegen [ref:Esther 5:2-3].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "est_014",
       "type": "single_choice",
-      "text": "Welche Bitte äußerte Esther zunächst gegenüber dem König bei ihrer ersten Audienz?",
+      "text": "Welche Bitte äußerte Esther zunächst gegenüber dem König und Haman?",
       "options": [
         {
-          "text": "Dass der König sofort das Urteil gegen alle jüdischen Bürger aufhebe",
-          "explanation": "Esther ging weise und schrittweise vor [ref:Esther 5:4]."
+          "text": "Dass der König sogleich den Mordbefehl wider ihr Volk widerrufe",
+          "explanation": ""
         },
         {
-          "text": "Dass der König und Haman am selben Tag zu einem Festmahl kommen sollten",
-          "explanation": "Sie lud beide zu einem eigens bereiteten Mahl ein [ref:Esther 5:4]."
+          "text": "Dass der König und Haman zu dem Mahle kämen, das sie zubereitet hatte",
+          "explanation": ""
         },
         {
-          "text": "Dass Haman sofort vor ihren Augen enthauptet und verbrannt werde",
-          "explanation": "Sie lud Haman ehrenvoll zu zwei Festmählern ein [ref:Esther 5:4-8]."
+          "text": "Dass Haman vor den Augen des ganzen Hofes in Ketten gelegt werde",
+          "explanation": ""
         },
         {
-          "text": "Dass Mordechai zum obersten Minister über ganz Susa ernannt werde",
-          "explanation": "Ihre Bitte galt der Einladung zum gemeinsamen Festmahl [ref:Esther 5:4]."
+          "text": "Dass Mardochai das königliche Ehrenkleid des Palastes empfange",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Esther 5:4",
-      "explanation": "Esther antwortete: 'Gefällt es dem König, so komme der König samt Haman heute zu dem Gastmahl, das ich für ihn bereitet habe' [ref:Esther 5:4].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "est_015",
       "type": "single_choice",
-      "text": "Was riet Seresch ihrem Mann Haman, um seinen Zorn auf Mordechai zu stillen?",
+      "text": "Was riet Zeres ihrem Manne Haman, um seinen Zorn wider Mardochai zu stillen?",
       "options": [
         {
-          "text": "Er solle Mordechai heimlich von gedungenen Meuchelmördern erstechen lassen",
-          "explanation": "Sie riet zu einer öffentlichen, schandbaren Hinrichtung [ref:Esther 5:14]."
+          "text": "Er solle Mardochai mit zehntausend Silberlingen aus der Stadt kaufen",
+          "explanation": ""
         },
         {
-          "text": "Er solle Mordechai aus der Stadt verbannen und sein ganzes Haus plündern",
-          "explanation": "Haman sollte einen Galgen für Mordechai bauen [ref:Esther 5:14]."
+          "text": "Er solle Mardochai vergiften lassen beim morgendlichen Palastmahl",
+          "explanation": ""
         },
         {
-          "text": "Einen fünfzig Ellen hohen Galgen zu errichten und Mordechai daran zu hängen",
-          "explanation": "Haman ließ den riesigen Galgen noch in derselben Nacht bauen [ref:Esther 5:14]."
+          "text": "Man solle einen Baum fünfzig Ellen hoch aufrichten und Mardochai daran hängen",
+          "explanation": ""
         },
         {
-          "text": "Mordechai vor Gericht zu stellen wegen Missachtung königlicher Gesetze",
-          "explanation": "Ein 50 Ellen hoher Galgen wurde auf ihren Rat gebaut [ref:Esther 5:14]."
+          "text": "Er solle Mardochai vor dem König verleumden als Spion der Griechen",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Esther 5:14",
-      "explanation": "Seresch, seine Frau, und alle seine Freunde sprachen zu ihm: 'Man richte einen Galgen auf, fünfzig Ellen hoch; und morgen früh sage dem König, dass man Mordechai daran hänge!' [ref:Esther 5:14].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "est_016",
       "type": "single_choice",
-      "text": "Was geschah in der schicksalhaften Nacht vor Hamans geplanter Anklage gegen Mordechai?",
+      "text": "Was geschah in der Nacht vor dem zweiten Mahle der Königin Esther?",
       "options": [
         {
-          "text": "Ein starkes Erdbeben zerstörte den neu errichteten Galgen im Hause Hamans",
-          "explanation": "Der Galgen blieb stehen, aber Gott griff durch Schlaflosigkeit ein [ref:Esther 6:1]."
+          "text": "Haman schlich heimlich in das Schlafgemach des persischen Herrschers",
+          "explanation": ""
         },
         {
-          "text": "Mordechai erschien ein Engel im Traum und befahl ihm sofort zu fliehen",
-          "explanation": "Gottes Handeln vollzog sich durch die Chroniken des Königs [ref:Esther 6:1-2]."
+          "text": "Ein großes Erdbeben erschütterte das Schloss und die Tore zu Susan",
+          "explanation": ""
         },
         {
-          "text": "Haman wurde von persischen Wachen wegen Hochverrats verhaftet",
-          "explanation": "Haman wähnte sich noch völlig auf dem Höhepunkt seiner Macht [ref:Esther 6:4]."
+          "text": "Esther erschien im Traum ein Engel, der ihr das Schicksal verkündete",
+          "explanation": ""
         },
         {
-          "text": "Dem König floh der Schlaf; er ließ das Buch der Denkwürdigkeiten vorlesen",
-          "explanation": "Beim Vorlesen erinnerte man an Mordechais unbedankte Lebensrettung [ref:Esther 6:1-3]."
+          "text": "Dem König floh der Schlaf; er ließ die Chronik der Denkwürdigkeiten vorlesen",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Esther 6:1-3",
-      "explanation": "In jener Nacht konnte der König nicht schlafen; da befahl er, das Buch der Denkwürdigkeiten (Chroniken) zu bringen, und es wurde ihm vorgelesen [ref:Esther 6:1-3].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "est_017",
       "type": "single_choice",
-      "text": "Was dachte Haman bei sich, als der König ihn fragte, wie man einen Mann ehren solle?",
+      "text": "Was dachte Haman bei sich, als der König ihn nach der höchsten Ehre fragte?",
       "options": [
         {
-          "text": "Wem anders sollte der König solche Ehre erweisen wollen als mir?",
-          "explanation": "Hamans grenzenloser Hochmut brachte ihn in die eigene Falle [ref:Esther 6:6]."
+          "text": "Wem sollte der König lieber wollen Ehre tun denn mir?",
+          "explanation": ""
         },
         {
-          "text": "Gewiss will der König den Statthalter von Ägypten reich belohnen",
-          "explanation": "Haman bezog die Frage ausschließlich voller Eitelkeit auf sich [ref:Esther 6:6]."
+          "text": "Der König will mich zum Herrn über ganz Ägypten setzen",
+          "explanation": ""
         },
         {
-          "text": "Der König hat entdeckt, dass ich heimlich Silber veruntreut habe",
-          "explanation": "Er fürchtete nichts, sondern träumte von königlicher Ehre [ref:Esther 6:6]."
+          "text": "Der König plant, mir die Krone der Meder zu übergeben",
+          "explanation": ""
         },
         {
-          "text": "Man sollte dem Hohepriester in Jerusalem neue Geschenke zusenden",
-          "explanation": "Er dachte voller Stolz: 'Wem anders als mir?' [ref:Esther 6:6]."
+          "text": "Es gilt gewiss dem Priester des Hofes oder dem Mundschenk",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Esther 6:6",
-      "explanation": "Haman dachte in seinem Herzen: 'Wem anders sollte der König Wohlgefallen haben Ehre zu erweisen als mir?' [ref:Esther 6:6].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "est_018",
       "type": "single_choice",
-      "text": "Welche tiefe Demütigung befahl der König dem stolzen Haman sogleich?",
+      "text": "Welche Demütigung befahl der König Haman sogleich anzurichten?",
       "options": [
         {
-          "text": "Er musste Mordechai zehntausend Talente Silber als Entschädigung zahlen",
-          "explanation": "Es ging um sichtbaren, triumphalen Ehrenruhm Mordechais [ref:Esther 6:10]."
+          "text": "Er musste Mardochai zehntausend Zentner Silber als Buße zahlen",
+          "explanation": ""
         },
         {
-          "text": "Er musste Mordechai im königlichen Gewand auf dem Ross durch Susa führen",
-          "explanation": "Haman musste persönlich rufen: 'So tut man dem Mann, den der König ehren will!' [ref:Esther 6:10-11]."
+          "text": "Er musste Mardochai im königlichen Kleide auf dem Rosse durch die Stadt führen",
+          "explanation": ""
         },
         {
-          "text": "Er musste vor Mordechai niederknien und ihm das Schlosstor öffnen",
-          "explanation": "Er führte das Ross Mordechais durch die Straßen der Stadt [ref:Esther 6:10-11]."
+          "text": "Er musste vor Mardochai niederknien und ihm das Schlosstor öffnen",
+          "explanation": ""
         },
         {
-          "text": "Er wurde gezwungen, das eigene Haus sofort an Mordechai abzutreten",
-          "explanation": "Das geschah erst nach Hamans Tod in Kapitel 8 [ref:Esther 6:10]."
+          "text": "Er wurde gezwungen, sein ganzes Haus sogleich an Mardochai abzutreten",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Esther 6:10-11",
-      "explanation": "Der König sprach zu Haman: 'Eile, nimm das Gewand und das Ross und tu so an dem Juden Mordechai, der im Tore des Königs sitzt; lass nichts fehlen!' [ref:Esther 6:10-11].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "est_019",
       "type": "single_choice",
-      "text": "Was offenbarte Königin Esther dem König beim zweiten Gastmahl als ihre Todesnot?",
+      "text": "Was offenbarte Esther dem König bei dem zweiten Gastmahl?",
       "options": [
         {
-          "text": "Dass babylonische Rebellen einen Anschlag auf das Schloss Susa planten",
-          "explanation": "Es ging um die Vernichtung ihres eigenen jüdischen Volkes [ref:Esther 7:3-4]."
+          "text": "Dass Haman heimlich mit den Feinden in Griechenland verhandele",
+          "explanation": ""
         },
         {
-          "text": "Dass die Priester von Persien sie wegen ihres Glaubens vergiften wollten",
-          "explanation": "Haman hatte die Ausrottung ihres ganzen Volkes erkauft [ref:Esther 7:4]."
+          "text": "Dass sie eine Kriegsschar aus Jerusalem zur Rettung herbeigerufen habe",
+          "explanation": ""
         },
         {
-          "text": "Dass sie und ihr Volk verkauft worden seien zur Vertilgung und zum Untergang",
-          "explanation": "Esther bekannte ihr Volk und klagte den Mörder feierlich an [ref:Esther 7:3-4]."
+          "text": "Dass sie und ihr Volk verkauft seien, vertilgt, erwürgt und umgebracht zu werden",
+          "explanation": ""
         },
         {
-          "text": "Dass Mordechai zu Unrecht an den 50 Ellen hohen Galgen gebunden worden sei",
-          "explanation": "Mordechai lebte und Esther deckte das Völkermord-Edikt auf [ref:Esther 7:3-4]."
+          "text": "Dass der königliche Schatzmeister Gold aus den Provinzen unterschlagen habe",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Esther 7:3-4",
-      "explanation": "'Denn wir sind verkauft, ich und mein Volk, zur Vertilgung, zum Töten und zum Untergang! Wären wir nur als Knechte und Mägde verkauft worden, so hätte ich geschwiegen' [ref:Esther 7:3-4].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "est_020",
       "type": "single_choice",
-      "text": "Wie antwortete Esther auf die zornige Frage des Königs nach dem Urheber des Frevels?",
+      "text": "Wie antwortete Esther auf die Frage des Königs nach dem Urheber dieses Frevels?",
       "options": [
         {
-          "text": "Es sind die Fürsten von Samaria, die dieses Unheil gestiftet haben",
-          "explanation": "Sie nannte den Täter furchtlos beim Namen [ref:Esther 7:6]."
+          "text": "Es sind die Statthalter jenseits des großen Stromes Euphrat!",
+          "explanation": ""
         },
         {
-          "text": "Die bösen Kämmerer des Palastes haben die Briefe gefälscht",
-          "explanation": "Haman saß ihr direkt am Tisch gegenüber [ref:Esther 7:6]."
+          "text": "Ein unbarmherziger Kriegsfürst aus den Wüsten Arabiens hat es getan!",
+          "explanation": ""
         },
         {
-          "text": "Ein unbekannter Feind hat den königlichen Siegelring missbraucht",
-          "explanation": "Esther zeigte direkt auf Haman [ref:Esther 7:6]."
+          "text": "Die Weisen der Chaldäer haben das Los über unser Volk geworfen!",
+          "explanation": ""
         },
         {
-          "text": "Der Widersacher und Feind ist dieser böse Haman hier!",
-          "explanation": "Haman erschrak zu Tode vor dem König und der Königin [ref:Esther 7:6]."
+          "text": "Der Widersacher und Feind ist dieser böse Haman!",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Esther 7:6",
-      "explanation": "Esther sprach: 'Der Widersacher und Feind ist dieser böse Haman!' Da erschrak Haman vor dem König und der Königin [ref:Esther 7:6].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "est_021",
       "type": "single_choice",
-      "text": "Welches Urteil fällte König Ahasveros, als Harbona vom Galgen im Hause Hamans berichtete?",
+      "text": "Welches Urteil fällte König Ahasveros, als Harbona den Galgen Hamans erwähnte?",
       "options": [
         {
-          "text": "Hängt ihn selbst daran! Und Haman wurde an seinem eigenen Galgen gehängt",
-          "explanation": "Göttliche Vergeltung: Haman fiel in die Grube, die er Mordechai gegraben hatte [ref:Esther 7:9-10]."
+          "text": "Hängt ihn daran! Und sie hängten Haman an den Baum, den er bereitet hatte",
+          "explanation": ""
         },
         {
-          "text": "Werft ihn in den Kerker, bis er die zehntausend Talente Silber zurückzahlt",
-          "explanation": "Er wurde sofort zur Hinrichtung am Galgen verurteilt [ref:Esther 7:9-10]."
+          "text": "Werft ihn in den Kerker, bis er zehntausend Zentner Silber bezahlt hat",
+          "explanation": ""
         },
         {
-          "text": "Verbannt ihn für immer in die unwirtlichen Steppen des Kaukasus",
-          "explanation": "Der König duldete keinen Aufschub und ließ ihn hängen [ref:Esther 7:9-10]."
+          "text": "Verbannt ihn für immer in die unwirtlichen Steppen des fernen Kaukasus",
+          "explanation": ""
         },
         {
-          "text": "Er solle vor Mordechai auf die Knie fallen und sein Leben erflehen",
-          "explanation": "Haman wurde an demselben Galgen gehängt, den er vorbereitet hatte [ref:Esther 7:9-10]."
+          "text": "Er solle vor Mardochai auf die Knie fallen und um sein Leben flehen",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Esther 7:9-10",
-      "explanation": "Der König sprach: 'Hänget ihn daran!' Da hängte man Haman an den Galgen, den er für Mordechai aufgerichtet hatte; und der Zorn des Königs legte sich [ref:Esther 7:9-10].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "est_022",
       "type": "single_choice",
-      "text": "Was übergab König Ahasveros an Mordechai nach dem Sturz und Tod Hamans?",
+      "text": "Was übergab König Ahasveros an Mardochai nach dem Tode Hamans?",
       "options": [
         {
-          "text": "Die Krone der Königin Waschti und die Schlüssel der Schatzkammer",
-          "explanation": "Das trifft nicht zu. Richtig ist: Seinen Siegelring, den er Haman abgenommen hatte [ref:Esther 8:2]."
+          "text": "Die goldene Krone, die zuvor die Königin Vasthi getragen hatte",
+          "explanation": ""
         },
         {
           "text": "Seinen Siegelring, den er Haman abgenommen hatte",
-          "explanation": "Mordechai wurde zum höchsten königlichen Bevollmächtigten erhoben [ref:Esther 8:2]."
+          "explanation": ""
         },
         {
-          "text": "Das Kommando über zwanzigtausend Reiter zum Schutz aller Städte",
-          "explanation": "Das trifft nicht zu. Richtig ist: Seinen Siegelring, den er Haman abgenommen hatte [ref:Esther 8:2]."
+          "text": "Ein kaiserliches Heer von zehntausend persischen Reitern zu Ross",
+          "explanation": ""
         },
         {
-          "text": "Einen goldenen Thronwagen für seine täglichen Fahrten durch Susa",
-          "explanation": "Das trifft nicht zu. Richtig ist: Seinen Siegelring, den er Haman abgenommen hatte [ref:Esther 8:2]."
+          "text": "Die uneingeschränkte Herrschaft über ganz Babylon und Medien",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Esther 8:2",
-      "explanation": "Der König zog seinen Siegelring ab, den er Haman genommen hatte, und gab ihn Mordechai; und Esther setzte Mordechai über das Haus Hamans [ref:Esther 8:2].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "est_023",
       "type": "single_choice",
-      "text": "Welches Recht verlieh das neue königliche Edikt den Juden für den dreizehnten Adar?",
+      "text": "Welches Recht verlieh das neue königliche Schreiben den Juden im ganzen Reich?",
       "options": [
         {
-          "text": "Das Land Persien ungestraft zu verlassen und alle Schätze mitzunehmen",
-          "explanation": "Sie sollten nicht fliehen, sondern ihr Recht verteidigen [ref:Esther 8:11]."
+          "text": "Alle Steuern einzubehalten und eigene Münzen im Lande zu prägen",
+          "explanation": ""
         },
         {
-          "text": "Alle persischen Tempel niederzubrennen und die Provinzen zu verlassen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sich zu versammeln, ihr Leben zu wehren und ihre Feinde niederzuschlagen [ref:Esther 8:11]."
+          "text": "Die Tore aller persischen Festungsstädte nachts zu verschließen",
+          "explanation": ""
         },
         {
-          "text": "Sich zu versammeln, ihr Leben zu wehren und ihre Feinde niederzuschlagen",
-          "explanation": "Gegenwehr und Selbstverteidigung gegen alle Hasser ihres Volkes [ref:Esther 8:11]."
+          "text": "Sich zu versammeln, für ihr Leben zu stehen und ihre Feinde zu vertilgen",
+          "explanation": ""
         },
         {
-          "text": "Einen eigenen König aus dem Stamme Juda über alle Provinzen zu wählen",
-          "explanation": "Sie blieben Untertanen, durften sich aber siegreich verteidigen [ref:Esther 8:11]."
+          "text": "Alle heidnischen Tempel in den hundert Provinzen sofort abzureißen",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Esther 8:11",
-      "explanation": "Der König gestattete den Juden in allen Städten, sich zu versammeln und für ihr Leben einzustehen, alle feindlichen Angreifer zu vertilgen und ihre Beute zu nehmen [ref:Esther 8:11].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "est_024",
       "type": "single_choice",
-      "text": "Wie reagierten viele Menschen aus den Völkern des persischen Reiches?",
+      "text": "Wie reagierten viele Menschen aus den Völkern des Landes auf das neue Dekret?",
       "options": [
         {
-          "text": "Sie flohen in Panik auf Schiffen über das Meer nach Griechenland",
-          "explanation": "Sie verließen das Land nicht, sondern wandten sich dem Judentum zu [ref:Esther 8:17]."
+          "text": "Sie flohen in die fernen Grenzländer aus Furcht vor der Rache",
+          "explanation": ""
         },
         {
           "text": "Sie verbündeten sich heimlich mit den verbliebenen Söhnen Hamans",
-          "explanation": "Die Furcht vor den Juden fiel auf alle Völker [ref:Esther 8:17]."
+          "explanation": ""
         },
         {
-          "text": "Sie verlangten die sofortige Absetzung von König Ahasveros",
-          "explanation": "Mordechais Macht stand unerschütterlich fest [ref:Esther 8:15-17]."
+          "text": "Sie forderten vom König eine Aufhebung des Schutzbriefes für die Juden",
+          "explanation": ""
         },
         {
-          "text": "Viele wurden Juden, denn die Furcht vor den Juden war auf sie gefallen",
-          "explanation": "Zahlreiche Heiden bekannten sich zum Volk Gottes [ref:Esther 8:17]."
+          "text": "Viele aus den Völkern wurden Juden; denn die Furcht vor den Juden überfiel sie",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Esther 8:17",
-      "explanation": "'Und viele aus den Völkern des Landes wurden Juden; denn die Furcht vor den Juden war auf sie gefallen' [ref:Esther 8:17].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "est_025",
       "type": "single_choice",
-      "text": "Was taten die Juden bemerkenswerterweise nicht, als sie ihre Feinde schlugen?",
+      "text": "Was taten die Juden bemerkenswerterweise NICHT, als sie ihre Feinde schlugen?",
       "options": [
         {
-          "text": "Sie legten ihre Hände nicht an die Beute ihrer getöteten Feinde",
-          "explanation": "Obwohl das Edikt es erlaubte, bereicherten sie sich bewusst nicht [ref:Esther 9:10, 15-16]."
+          "text": "Sie legten ihre Hände nicht an die Beute der getöteten Feinde",
+          "explanation": ""
         },
         {
-          "text": "Sie weigerten sich, die Waffen gegen die Heere der Meder zu erheben",
-          "explanation": "Sie kämpften tapfer und schlugen ihre Angreifer siegreich [ref:Esther 9:5]."
+          "text": "Sie nahmen keine heidnischen Kinder gefangen als Sklaven im Lande",
+          "explanation": ""
         },
         {
-          "text": "Sie nahmen keine persischen Bürger als Gefangene in ihre Häuser auf",
-          "explanation": "Sie rührten das Eigentum der Erschlagenen nicht an [ref:Esther 9:10]."
+          "text": "Sie verbrannten die Häuser ihrer geschlagenen Widersacher nicht",
+          "explanation": ""
         },
         {
-          "text": "Sie ließen die zehn Söhne Hamans am Leben und schenkten ihnen Gnade",
-          "explanation": "Die zehn Söhne Hamans fielen im Kampf und wurden gehängt [ref:Esther 9:10-14]."
+          "text": "Sie weigerten sich, das königliche Siegesmahl in Susan zu feiern",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Esther 9:10, 15-16",
-      "explanation": "Dreimal betont der biblische Bericht ausdrücklich: 'Aber an das Gut legten sie ihre Hand nicht!' [ref:Esther 9:10, 15, 16].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "est_026",
       "type": "single_choice",
-      "text": "Welche beiden Tage wurden von Mordechai und Esther als Purim-Fest gestiftet?",
+      "text": "Welche Tage bestimmte Mardochai als jährliches Freudenfest?",
       "options": [
         {
-          "text": "Der erste und zweite Tag des Monats Tischri als Tage des Fastens",
-          "explanation": "Purim ist ein Freudenfest im Monat Adar [ref:Esther 9:21-22]."
+          "text": "Den ersten und zweiten Tag des ersten Monats Nisan",
+          "explanation": ""
         },
         {
-          "text": "Der vierzehnte und fünfzehnte Tag des Monats Adar als Freuden- und Festtage",
-          "explanation": "Tage des Gastmahls, des Sendens von Geschenken und der Armenfürsorge [ref:Esther 9:21-22]."
+          "text": "Den vierzehnten und fünfzehnten Tag des Monats Adar alle Jahre",
+          "explanation": ""
         },
         {
-          "text": "Der zehnte Tag des Monats Nisan zur Vorbereitung auf das Passahfest",
-          "explanation": "Purim wird im zwölften Monat gefeiert [ref:Esther 9:21]."
+          "text": "Den zehnten Tag des siebenten Monats zur Erntezeit der Feigen",
+          "explanation": ""
         },
         {
-          "text": "Der siebte Tag des Monats Siwan zur Erinnerung an die Gesetzgebung",
-          "explanation": "Der 14. und 15. Adar sind die ewigen Purim-Tage [ref:Esther 9:21-22]."
+          "text": "Die ganze Woche nach dem Passahfest bis zum neuen Neumonde",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Esther 9:21-22",
-      "explanation": "Mordechai schrieb ihnen vor, dass sie den vierzehnten und den fünfzehnten Tag des Monats Adar jährlich feiern sollten als Tage der Freude und des Gastmahls [ref:Esther 9:21-22].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "est_027",
       "type": "single_choice",
-      "text": "Warum erhielt dieses jährliche Freudenfest den Namen 'Purim'?",
+      "text": "Warum erhielten diese Gedenktage den Namen Purim unter den Juden?",
       "options": [
         {
-          "text": "Nach dem persischen Wort für Purpurkleider der siegreichen Krieger",
-          "explanation": "Der Name leitet sich nicht von Kleidung ab [ref:Esther 9:26]."
+          "text": "Nach dem hebräischen Worte für Freiheit aus der Gefangenschaft",
+          "explanation": ""
         },
         {
-          "text": "Nach dem Namen des heiligen Baches, der durch das Schloss Susa floss",
-          "explanation": "Es hat seinen Ursprung im hebräischen Begriff für das Los [ref:Esther 9:26]."
+          "text": "Nach dem persischen Worte für königliches Schutzgeleit durch Boten",
+          "explanation": ""
         },
         {
-          "text": "Nach dem Wort 'Pur', weil Haman das Los geworfen hatte, um sie zu vertilgen",
-          "explanation": "Aus dem Tag des vermeintlichen Untergangs wurde der Tag der Errettung [ref:Esther 9:24-26]."
+          "text": "Nach dem Namen 'Pur', weil Haman das Los geworfen hatte, sie zu vertilgen",
+          "explanation": ""
         },
         {
-          "text": "Nach der jüdischen Bezeichnung für ungesäuerte süße Festtagsbrote",
-          "explanation": "Pur bedeutet 'Los', daher der Name Purim [ref:Esther 9:26]."
+          "text": "Nach dem Festgewand, das Königin Esther vor dem Herrscher getragen hatte",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Esther 9:26",
-      "explanation": "'Darum nannten sie diese Tage Purim nach dem Namen Pur (das Los), wegen all der Worte dieses Schreibens' [ref:Esther 9:26].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "est_028",
       "type": "single_choice",
-      "text": "Worüber legte König Ahasveros eine Steuer auf?",
+      "text": "Worauf legte König Ahasveros nach der Festigung seines Reiches einen Zins?",
       "options": [
         {
-          "text": "Ausschließlich über die geschlagenen Provinzen der Feinde Hamans",
-          "explanation": "Die Steuer betraf das gesamte Weltreich und die Inseln [ref:Esther 10:1]."
+          "text": "Ausschließlich auf die geschlagenen Städte der feindlichen Amalekiter",
+          "explanation": ""
         },
         {
-          "text": "Über alle jüdischen Gemeinden in den Städten der Zerstreuung",
-          "explanation": "Es war eine allgemeine Reichssteuer [ref:Esther 10:1]."
+          "text": "Allein auf die jüdischen Gemeinden in den Städten der Zerstreuung",
+          "explanation": ""
         },
         {
-          "text": "Nur über den Überseehandel mit Getreide und feinstem Purpurstoff",
-          "explanation": "Das ganze Land und die Inseln wurden besteuert [ref:Esther 10:1]."
+          "text": "Nur auf die Handelsschiffe, die Purpurstoff aus Tyrus brachten",
+          "explanation": ""
         },
         {
-          "text": "Über das ganze Land und über die Inseln des Meeres",
-          "explanation": "Zeugnis der umfassenden Herrschaft und Festigung des Reiches [ref:Esther 10:1]."
+          "text": "Er legte Zins auf das ganze Land und auf die Inseln im Meere",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Esther 10:1",
-      "explanation": "'Und der König Ahasveros legte eine Steuer auf das Land und auf die Inseln des Meeres' [ref:Esther 10:1].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "est_029",
       "type": "single_choice",
-      "text": "Welchen hohen Rang bekleidete Mordechai im persischen Weltreich?",
+      "text": "Welchen hohen Rang bekleidete Mardochai nach der Erhöhung durch Ahasveros?",
       "options": [
         {
-          "text": "Er war der Zweite nach dem König Ahasveros und groß bei den Juden",
-          "explanation": "Höchste weltliche Stellung eines gottesfürchtigen Juden im Weltreich [ref:Esther 10:3]."
+          "text": "Er war der nächste nach dem König Ahasveros und groß unter den Juden",
+          "explanation": ""
         },
         {
-          "text": "Er wurde zum Hohepriester über den wiederaufgebauten Tempel in Jerusalem geweiht",
-          "explanation": "Mordechai blieb Reichsverweser am Hof zu Susa [ref:Esther 10:2-3]."
+          "text": "Er wurde zum Hohepriester über den Tempel zu Jerusalem geweiht",
+          "explanation": ""
         },
         {
-          "text": "Er regierte als selbstständiger König über die Provinzen Samaria und Galiläa",
-          "explanation": "Er diente als Premierminister und Ratgeber des Großkönigs [ref:Esther 10:2-3]."
+          "text": "Er regierte als selbstständiger König über die Provinzen am Euphrat",
+          "explanation": ""
         },
         {
-          "text": "Er war der oberste Richter über die persischen Priesterschulen in Medien",
-          "explanation": "Er war der Zweite nach König Ahasveros [ref:Esther 10:3]."
+          "text": "Er diente als oberster Feldherr aller persischen Truppen im Westen",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Esther 10:2-3",
-      "explanation": "'Denn der Jude Mordechai war der Zweite nach dem König Ahasveros und groß bei den Juden und beliebt bei der Menge seiner Brüder' [ref:Esther 10:3].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "est_030",
       "type": "single_choice",
-      "text": "Wodurch zeichnete sich Mordechais Wirken für sein Volk am Ende des Buches aus?",
+      "text": "Wodurch zeichnete sich Mardochais Wirken für sein Volk am Ende des Buches aus?",
       "options": [
         {
-          "text": "Er baute neue Festungsmauern um die heidnischen Städte der Meder",
-          "explanation": "Sein Wirken galt dem geistlichen und leiblichen Wohl seines Volkes [ref:Esther 10:3]."
+          "text": "Er baute hohe Schutzburgen um alle heidnischen Städte der Meder",
+          "explanation": ""
         },
         {
-          "text": "Er suchte das Wohl seines Volkes und redete Frieden für seinen ganzen Samen",
-          "explanation": "Vorbild eines treuen Leiters, der Macht zum Heil anderer gebraucht [ref:Esther 10:3]."
+          "text": "Er suchte das Beste für sein Volk und redete Frieden für sein Geschlecht",
+          "explanation": ""
         },
         {
-          "text": "Er verbot den Juden jeglichen Handel mit fremden Völkern des Ostens",
-          "explanation": "Er stiftete Gerechtigkeit, Schutz und dauerhaften Frieden [ref:Esther 10:3]."
+          "text": "Er verbot den Juden jeglichen Handel mit den Völkern des Ostens",
+          "explanation": ""
         },
         {
           "text": "Er sammelte alle Chroniken der Perser und ließ sie verbrennen",
-          "explanation": "Er suchte das Beste für sein Volk und redete Frieden [ref:Esther 10:3]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Esther 10:3",
-      "explanation": "'...weil er das Wohl seines Volkes suchte und Frieden redete für seinen ganzen Samen' [ref:Esther 10:3].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     }

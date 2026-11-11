@@ -24,150 +24,170 @@
     {
       "questionId": "2joh_001",
       "type": "single_choice",
-      "text": "Wie bezeichnet sich der Verfasser des Briefes und an wen richtet er seine Worte?",
+      "text": "Wie lautet die Anrede des Schreibers in 2. Johannes 1:1?",
       "options": [
         {
-          "text": "Der Apostel an die Gemeinde in Ephesus und ihre Ältesten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der Älteste an die auserwählte Herrin und ihre Kinder [ref:2. Johannes 1:1]."
+          "text": "Der Apostel an die Gemeinde in Ephesus und ihre Hirten",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
           "text": "Der Älteste an die auserwählte Herrin und ihre Kinder",
-          "explanation": "Der Älteste an die auserwählte Herrin und ihre Kinder, die ich liebe in der Wahrheit [ref:2. Johannes 1:1]."
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Der Knecht an alle Gläubigen in der Zerstreuung",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der Älteste an die auserwählte Herrin und ihre Kinder [ref:2. Johannes 1:1]."
+          "text": "Der Knecht an alle Gläubigen in der fernen Zerstreuung",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Der Bischof an die Heiligen des Landes und ihre Hirten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der Älteste an die auserwählte Herrin und ihre Kinder [ref:2. Johannes 1:1]."
+          "text": "Der Vorsteher an die Heiligen im Lande und ihre Lehrer",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "2. Johannes 1:1",
-      "explanation": "Der Älteste an die auserwählte Herrin und ihre Kinder, die ich liebe in der Wahrheit [ref:2. Johannes 1:1].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "2joh_002",
       "type": "single_choice",
-      "text": "Worin besteht die wahre Liebe nach den ausdrücklichen Worten des Schreibens?",
+      "text": "Worin besteht die Liebe nach 2. Johannes 1:6?",
       "options": [
         {
-          "text": "Dass wir Gefühle haben und sie aufrichtig zeigen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Dass wir nach seinen Geboten wandeln [ref:2. Johannes 1:6]."
+          "text": "Dass wir große Gaben und Almosen an Arme spenden",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Dass wir viel Gold spenden und den Armen geben",
-          "explanation": "Das trifft nicht zu. Richtig ist: Dass wir nach seinen Geboten wandeln [ref:2. Johannes 1:6]."
+          "text": "Dass wir alle Heiden meiden und uns fernhalten",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Dass wir nach seinen Geboten wandeln",
-          "explanation": "Das ist die Liebe, dass wir nach seinen Geboten wandeln [ref:2. Johannes 1:6]."
+          "text": "Dass wir nach seinen Geboten im Glauben wandeln",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Dass wir Heiden meiden und uns von ihnen fernhalten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Dass wir nach seinen Geboten wandeln [ref:2. Johannes 1:6]."
+          "text": "Dass wir bloße Worte und Gefühle herzlich zeigen",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "2. Johannes 1:6",
-      "explanation": "Das ist die Liebe, dass wir nach seinen Geboten wandeln [ref:2. Johannes 1:6].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "2joh_003",
       "type": "single_choice",
-      "text": "Wer wird in dem Schreiben ausdrücklich als der Verführer und Antichrist bezeichnet?",
+      "text": "Wer ist nach 2. Johannes 1:7 der Irreführer und der Antichrist?",
       "options": [
         {
-          "text": "Wer das Gesetz Moses abschafft und die Gebote verwirft",
-          "explanation": "Das trifft nicht zu. Richtig ist: Wer nicht bekennt, dass Jesus Christus im Fleisch gekommen ist [ref:2. Johannes 1:7]."
+          "text": "Wer das alte Gesetz des Mose abschafft und völlig auflöst",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Wer keine Abgaben ans Heiligtum zahlt und den Tempel meidet",
-          "explanation": "Das trifft nicht zu. Richtig ist: Wer nicht bekennt, dass Jesus Christus im Fleisch gekommen ist [ref:2. Johannes 1:7]."
+          "text": "Wer keine Abgaben an die Priester im Heiligtum entrichtet",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Wer sich den Römern widersetzt und die Obrigkeit verachtet",
-          "explanation": "Das trifft nicht zu. Richtig ist: Wer nicht bekennt, dass Jesus Christus im Fleisch gekommen ist [ref:2. Johannes 1:7]."
+          "text": "Wer den weltlichen Richtern und der Obrigkeit widersteht",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Wer nicht bekennt, dass Jesus Christus im Fleisch gekommen ist",
-          "explanation": "Viele Verführer sind in die Welt ausgegangen, die nicht bekennen, dass Jesus Christus im Fleisch kommt; das ist der Verführer und der Antichrist [ref:2. Johannes 1:7]."
+          "text": "Wer nicht bekennt, dass Jesus Christus ins Fleisch kam",
+          "isCorrect": true,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "2. Johannes 1:7",
-      "explanation": "Viele Verführer sind in die Welt ausgegangen, die nicht bekennen, dass Jesus Christus im Fleisch kommt; das ist der Verführer und der Antichrist [ref:2. Johannes 1:7].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "2joh_004",
       "type": "single_choice",
-      "text": "Wie soll die Gemeinde mit jemandem umgehen, der eine fremde Lehre bringt?",
+      "text": "Was gilt, wenn jemand kommt und diese Lehre nicht bringt (2. Johannes 1:10)?",
       "options": [
         {
-          "text": "Ihn nicht ins Haus nehmen und ihn nicht grüßen",
-          "explanation": "Wenn jemand zu euch kommt und diese Lehre nicht bringt, den nehmt nicht in das Haus auf und grüßt ihn auch nicht [ref:2. Johannes 1:10-11]."
+          "text": "Ihn nicht ins Haus aufnehmen und ihn auch nicht grüßen",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Ihn freundlich aufnehmen und pflegen, damit er sich bekehrt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ihn nicht ins Haus nehmen und ihn nicht grüßen [ref:2. Johannes 1:10-11]."
+          "text": "Ihn freundlich aufnehmen und pflegen zur Bekehrung",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Ihn vor römischen Richtern verklagen, damit er bestraft wird",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ihn nicht ins Haus nehmen und ihn nicht grüßen [ref:2. Johannes 1:10-11]."
+          "text": "Ihn vor den weltlichen Richtern der Stadt anklagen",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Ihn in die Wüste ausstoßen, damit er nicht zurückkehrt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ihn nicht ins Haus nehmen und ihn nicht grüßen [ref:2. Johannes 1:10-11]."
+          "text": "Ihn in die ferne Wüste treiben, damit er entflieht",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "2. Johannes 1:10-11",
-      "explanation": "Wenn jemand zu euch kommt und diese Lehre nicht bringt, den nehmt nicht in das Haus auf und grüßt ihn auch nicht [ref:2. Johannes 1:10-11].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "2joh_005",
       "type": "single_choice",
-      "text": "Warum möchte der Verfasser die weiteren Dinge nicht mit Papier und Tinte schreiben?",
+      "text": "Warum will der Verfasser nicht mit Papier und Tinte schreiben (2. Johannes 1:12)?",
       "options": [
         {
-          "text": "Weil ihm Papier und Tinte ausgingen und er nicht weiterschreiben konnte",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil er hofft, zu euch zu kommen und mündlich mit euch zu reden [ref:2. Johannes 1:12]."
+          "text": "Weil ihm Papier und Tinte ausgegangen waren und er nichts mehr hatte",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Weil er hofft, zu euch zu kommen und mündlich mit euch zu reden",
-          "explanation": "Ich hätte euch vieles zu schreiben, wollte es aber nicht mit Papier und Tinte tun, sondern hoffe, zu euch zu kommen und mündlich zu reden [ref:2. Johannes 1:12]."
+          "text": "Weil er hofft, zu kommen und mündlich von Angesicht zu Angesicht zu reden",
+          "isCorrect": true,
+          "explanation": ""
         },
         {
-          "text": "Weil das römische Gesetz das Schreiben verbietet und er sich fürchtet",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil er hofft, zu euch zu kommen und mündlich mit euch zu reden [ref:2. Johannes 1:12]."
+          "text": "Weil die Gesetze der Herrscher jegliches Briefeschreiben verboten hatten",
+          "isCorrect": false,
+          "explanation": ""
         },
         {
-          "text": "Weil die Gemeinde keine Briefe mehr lesen will und ihn nicht anhört",
-          "explanation": "Das trifft nicht zu. Richtig ist: Weil er hofft, zu euch zu kommen und mündlich mit euch zu reden [ref:2. Johannes 1:12]."
+          "text": "Weil die Gemeinde keine Briefe mehr las und die Worte nicht mehr achtete",
+          "isCorrect": false,
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "2. Johannes 1:12",
-      "explanation": "Ich hätte euch vieles zu schreiben, wollte es aber nicht mit Papier und Tinte tun, sondern hoffe, zu euch zu kommen und mündlich zu reden [ref:2. Johannes 1:12].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     }

@@ -1,0 +1,538 @@
+{
+  "branch": "review-and-english",
+  "totalFiles": 66,
+  "completedCount": 66,
+  "completedFiles": [
+    "01_1_mose.json",
+    "02_2_mose.json",
+    "03_3_mose.json",
+    "04_4_mose.json",
+    "05_5_mose.json",
+    "06_josua.json",
+    "07_richter.json",
+    "08_rut.json",
+    "09_1_samuel.json",
+    "10_2_samuel.json",
+    "11_1_koenige.json",
+    "12_2_koenige.json",
+    "13_1_chronik.json",
+    "14_2_chronik.json",
+    "15_esra.json",
+    "16_nehemia.json",
+    "17_esther.json",
+    "18_hiob.json",
+    "19_psalmen.json",
+    "20_sprueche.json",
+    "21_prediger.json",
+    "22_hohelied.json",
+    "23_jesaja.json",
+    "24_jeremia.json",
+    "25_klagelieder.json",
+    "26_hesekiel.json",
+    "27_daniel.json",
+    "28_hosea.json",
+    "29_joel.json",
+    "30_amos.json",
+    "31_obadja.json",
+    "32_jona.json",
+    "33_micha.json",
+    "34_nahum.json",
+    "35_habakuk.json",
+    "36_zephanja.json",
+    "37_haggai.json",
+    "38_sacharja.json",
+    "39_maleachi.json",
+    "40_matthaeus.json",
+    "41_markus.json",
+    "42_lukas.json",
+    "43_johannes.json",
+    "44_apostelgeschichte.json",
+    "45_roemer.json",
+    "46_1_korinther.json",
+    "47_2_korinther.json",
+    "48_galater.json",
+    "49_epheser.json",
+    "50_philipper.json",
+    "51_kolosser.json",
+    "52_1_thessalonicher.json",
+    "53_2_thessalonicher.json",
+    "54_1_timotheus.json",
+    "55_2_timotheus.json",
+    "56_titus.json",
+    "57_philemon.json",
+    "58_hebraeer.json",
+    "59_jakobus.json",
+    "60_1_petrus.json",
+    "61_2_petrus.json",
+    "62_1_johannes.json",
+    "63_2_johannes.json",
+    "64_3_johannes.json",
+    "65_judas.json",
+    "66_offenbarung.json"
+  ],
+  "pendingFiles": [],
+  "fileStats": {
+    "01_1_mose.json": {
+      "questionsCount": 296,
+      "explanationsReviewedDe": 17,
+      "explanationsReviewedEn": 17,
+      "reportPath": "reports/01_1_mose.md",
+      "enPath": "en/01_1_mose.json"
+    },
+    "02_2_mose.json": {
+      "questionsCount": 293,
+      "explanationsReviewedDe": 3,
+      "explanationsReviewedEn": 3,
+      "reportPath": "reports/02_2_mose.md",
+      "enPath": "en/02_2_mose.json"
+    },
+    "03_3_mose.json": {
+      "questionsCount": 173,
+      "explanationsReviewedDe": 3,
+      "explanationsReviewedEn": 3,
+      "reportPath": "reports/03_3_mose.md",
+      "enPath": "en/03_3_mose.json"
+    },
+    "04_4_mose.json": {
+      "questionsCount": 246,
+      "explanationsReviewedDe": 3,
+      "explanationsReviewedEn": 3,
+      "reportPath": "reports/04_4_mose.md",
+      "enPath": "en/04_4_mose.json"
+    },
+    "05_5_mose.json": {
+      "questionsCount": 238,
+      "explanationsReviewedDe": 2,
+      "explanationsReviewedEn": 2,
+      "reportPath": "reports/05_5_mose.md",
+      "enPath": "en/05_5_mose.json"
+    },
+    "06_josua.json": {
+      "questionsCount": 146,
+      "explanationsReviewedDe": 1,
+      "explanationsReviewedEn": 1,
+      "reportPath": "reports/06_josua.md",
+      "enPath": "en/06_josua.json"
+    },
+    "07_richter.json": {
+      "questionsCount": 140,
+      "explanationsReviewedDe": 1,
+      "explanationsReviewedEn": 1,
+      "reportPath": "reports/07_richter.md",
+      "enPath": "en/07_richter.json"
+    },
+    "08_rut.json": {
+      "questionsCount": 31,
+      "explanationsReviewedDe": 2,
+      "explanationsReviewedEn": 2,
+      "reportPath": "reports/08_rut.md",
+      "enPath": "en/08_rut.json"
+    },
+    "09_1_samuel.json": {
+      "questionsCount": 111,
+      "explanationsReviewedDe": 1,
+      "explanationsReviewedEn": 1,
+      "reportPath": "reports/09_1_samuel.md",
+      "enPath": "en/09_1_samuel.json"
+    },
+    "10_2_samuel.json": {
+      "questionsCount": 80,
+      "explanationsReviewedDe": 1,
+      "explanationsReviewedEn": 1,
+      "reportPath": "reports/10_2_samuel.md",
+      "enPath": "en/10_2_samuel.json"
+    },
+    "11_1_koenige.json": {
+      "questionsCount": 70,
+      "explanationsReviewedDe": 1,
+      "explanationsReviewedEn": 1,
+      "reportPath": "reports/11_1_koenige.md",
+      "enPath": "en/11_1_koenige.json"
+    },
+    "12_2_koenige.json": {
+      "questionsCount": 77,
+      "explanationsReviewedDe": 2,
+      "explanationsReviewedEn": 2,
+      "reportPath": "reports/12_2_koenige.md",
+      "enPath": "en/12_2_koenige.json"
+    },
+    "13_1_chronik.json": {
+      "questionsCount": 85,
+      "explanationsReviewedDe": 3,
+      "explanationsReviewedEn": 3,
+      "reportPath": "reports/13_1_chronik.md",
+      "enPath": "en/13_1_chronik.json"
+    },
+    "14_2_chronik.json": {
+      "questionsCount": 100,
+      "explanationsReviewedDe": 1,
+      "explanationsReviewedEn": 1,
+      "reportPath": "reports/14_2_chronik.md",
+      "enPath": "en/14_2_chronik.json"
+    },
+    "15_esra.json": {
+      "questionsCount": 30,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/15_esra.md",
+      "enPath": "en/15_esra.json"
+    },
+    "16_nehemia.json": {
+      "questionsCount": 39,
+      "explanationsReviewedDe": 1,
+      "explanationsReviewedEn": 1,
+      "reportPath": "reports/16_nehemia.md",
+      "enPath": "en/16_nehemia.json"
+    },
+    "17_esther.json": {
+      "questionsCount": 30,
+      "explanationsReviewedDe": 1,
+      "explanationsReviewedEn": 1,
+      "reportPath": "reports/17_esther.md",
+      "enPath": "en/17_esther.json"
+    },
+    "18_hiob.json": {
+      "questionsCount": 141,
+      "explanationsReviewedDe": 1,
+      "explanationsReviewedEn": 1,
+      "reportPath": "reports/18_hiob.md",
+      "enPath": "en/18_hiob.json"
+    },
+    "19_psalmen.json": {
+      "questionsCount": 126,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/19_psalmen.md",
+      "enPath": "en/19_psalmen.json"
+    },
+    "20_sprueche.json": {
+      "questionsCount": 92,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/20_sprueche.md",
+      "enPath": "en/20_sprueche.json"
+    },
+    "21_prediger.json": {
+      "questionsCount": 40,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/21_prediger.md",
+      "enPath": "en/21_prediger.json"
+    },
+    "22_hohelied.json": {
+      "questionsCount": 26,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/22_hohelied.md",
+      "enPath": "en/22_hohelied.json"
+    },
+    "23_jesaja.json": {
+      "questionsCount": 196,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/23_jesaja.md",
+      "enPath": "en/23_jesaja.json"
+    },
+    "24_jeremia.json": {
+      "questionsCount": 157,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/24_jeremia.md",
+      "enPath": "en/24_jeremia.json"
+    },
+    "25_klagelieder.json": {
+      "questionsCount": 18,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/25_klagelieder.md",
+      "enPath": "en/25_klagelieder.json"
+    },
+    "26_hesekiel.json": {
+      "questionsCount": 139,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/26_hesekiel.md",
+      "enPath": "en/26_hesekiel.json"
+    },
+    "27_daniel.json": {
+      "questionsCount": 37,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/27_daniel.md",
+      "enPath": "en/27_daniel.json"
+    },
+    "28_hosea.json": {
+      "questionsCount": 43,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/28_hosea.md",
+      "enPath": "en/28_hosea.json"
+    },
+    "29_joel.json": {
+      "questionsCount": 18,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/29_joel.md",
+      "enPath": "en/29_joel.json"
+    },
+    "30_amos.json": {
+      "questionsCount": 27,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/30_amos.md",
+      "enPath": "en/30_amos.json"
+    },
+    "31_obadja.json": {
+      "questionsCount": 10,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/31_obadja.md",
+      "enPath": "en/31_obadja.json"
+    },
+    "32_jona.json": {
+      "questionsCount": 20,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/32_jona.md",
+      "enPath": "en/32_jona.json"
+    },
+    "33_micha.json": {
+      "questionsCount": 21,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/33_micha.md",
+      "enPath": "en/33_micha.json"
+    },
+    "34_nahum.json": {
+      "questionsCount": 16,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/34_nahum.md",
+      "enPath": "en/34_nahum.json"
+    },
+    "35_habakuk.json": {
+      "questionsCount": 18,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/35_habakuk.md",
+      "enPath": "en/35_habakuk.json"
+    },
+    "36_zephanja.json": {
+      "questionsCount": 18,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/36_zephanja.md",
+      "enPath": "en/36_zephanja.json"
+    },
+    "37_haggai.json": {
+      "questionsCount": 14,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/37_haggai.md",
+      "enPath": "en/37_haggai.json"
+    },
+    "38_sacharja.json": {
+      "questionsCount": 42,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/38_sacharja.md",
+      "enPath": "en/38_sacharja.json"
+    },
+    "39_maleachi.json": {
+      "questionsCount": 20,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/39_maleachi.md",
+      "enPath": "en/39_maleachi.json"
+    },
+    "40_matthaeus.json": {
+      "questionsCount": 148,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/40_matthaeus.md",
+      "enPath": "en/40_matthaeus.json"
+    },
+    "41_markus.json": {
+      "questionsCount": 80,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/41_markus.md",
+      "enPath": "en/41_markus.json"
+    },
+    "42_lukas.json": {
+      "questionsCount": 126,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/42_lukas.md",
+      "enPath": "en/42_lukas.json"
+    },
+    "43_johannes.json": {
+      "questionsCount": 110,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/43_johannes.md",
+      "enPath": "en/43_johannes.json"
+    },
+    "44_apostelgeschichte.json": {
+      "questionsCount": 145,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/44_apostelgeschichte.md",
+      "enPath": "en/44_apostelgeschichte.json"
+    },
+    "45_roemer.json": {
+      "questionsCount": 80,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/45_roemer.md",
+      "enPath": "en/45_roemer.json"
+    },
+    "46_1_korinther.json": {
+      "questionsCount": 80,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/46_1_korinther.md",
+      "enPath": "en/46_1_korinther.json"
+    },
+    "47_2_korinther.json": {
+      "questionsCount": 65,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/47_2_korinther.md",
+      "enPath": "en/47_2_korinther.json"
+    },
+    "48_galater.json": {
+      "questionsCount": 31,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/48_galater.md",
+      "enPath": "en/48_galater.json"
+    },
+    "49_epheser.json": {
+      "questionsCount": 31,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/49_epheser.md",
+      "enPath": "en/49_epheser.json"
+    },
+    "50_philipper.json": {
+      "questionsCount": 20,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/50_philipper.md",
+      "enPath": "en/50_philipper.json"
+    },
+    "51_kolosser.json": {
+      "questionsCount": 20,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/51_kolosser.md",
+      "enPath": "en/51_kolosser.json"
+    },
+    "52_1_thessalonicher.json": {
+      "questionsCount": 25,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/52_1_thessalonicher.md",
+      "enPath": "en/52_1_thessalonicher.json"
+    },
+    "53_2_thessalonicher.json": {
+      "questionsCount": 15,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/53_2_thessalonicher.md",
+      "enPath": "en/53_2_thessalonicher.json"
+    },
+    "54_1_timotheus.json": {
+      "questionsCount": 30,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/54_1_timotheus.md",
+      "enPath": "en/54_1_timotheus.json"
+    },
+    "55_2_timotheus.json": {
+      "questionsCount": 20,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/55_2_timotheus.md",
+      "enPath": "en/55_2_timotheus.json"
+    },
+    "56_titus.json": {
+      "questionsCount": 15,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/56_titus.md",
+      "enPath": "en/56_titus.json"
+    },
+    "57_philemon.json": {
+      "questionsCount": 5,
+      "explanationsReviewedDe": 1,
+      "explanationsReviewedEn": 1,
+      "reportPath": "reports/57_philemon.md",
+      "enPath": "en/57_philemon.json"
+    },
+    "58_hebraeer.json": {
+      "questionsCount": 66,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/58_hebraeer.md",
+      "enPath": "en/58_hebraeer.json"
+    },
+    "59_jakobus.json": {
+      "questionsCount": 25,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/59_jakobus.md",
+      "enPath": "en/59_jakobus.json"
+    },
+    "60_1_petrus.json": {
+      "questionsCount": 25,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/60_1_petrus.md",
+      "enPath": "en/60_1_petrus.json"
+    },
+    "61_2_petrus.json": {
+      "questionsCount": 15,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/61_2_petrus.md",
+      "enPath": "en/61_2_petrus.json"
+    },
+    "62_1_johannes.json": {
+      "questionsCount": 25,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/62_1_johannes.md",
+      "enPath": "en/62_1_johannes.json"
+    },
+    "63_2_johannes.json": {
+      "questionsCount": 5,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/63_2_johannes.md",
+      "enPath": "en/63_2_johannes.json"
+    },
+    "64_3_johannes.json": {
+      "questionsCount": 5,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/64_3_johannes.md",
+      "enPath": "en/64_3_johannes.json"
+    },
+    "65_judas.json": {
+      "questionsCount": 5,
+      "explanationsReviewedDe": 0,
+      "explanationsReviewedEn": 0,
+      "reportPath": "reports/65_judas.md",
+      "enPath": "en/65_judas.json"
+    },
+    "66_offenbarung.json": {
+      "questionsCount": 113,
+      "explanationsReviewedDe": 1,
+      "explanationsReviewedEn": 1,
+      "reportPath": "reports/66_offenbarung.md",
+      "enPath": "en/66_offenbarung.json"
+    }
+  }
+}

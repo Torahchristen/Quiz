@@ -1,0 +1,738 @@
+{
+  "metadata": {
+    "quizId": "bibel_33_micha_en",
+    "title": "Micah",
+    "subtitle": "Micah 1:1 – 7:20 (21 questions)",
+    "description": "Questions on the Book of Micah according to the King James Version (1769).",
+    "author": "King James Version (1769)",
+    "version": "1.0.0",
+    "language": "en",
+    "category": "propheten",
+    "difficulty": "medium",
+    "tags": [
+      "Micah",
+      "OT",
+      "prophets",
+      "KJV"
+    ],
+    "questionCount": 21,
+    "canonicalBookNumber": 33,
+    "testament": "OT"
+  },
+  "questions": [
+    {
+      "questionId": "mi_001",
+      "type": "single_choice",
+      "text": "How does Micah 1:3-4 describe the LORD coming forth to judgment?",
+      "options": [
+        {
+          "text": "The LORD cometh in a thick cloud and speaketh from the hills unto the people",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The LORD treadeth upon high places, and the mountains are molten under him",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The LORD sendeth angels of destruction to lay waste the cities of the land",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The LORD appeareth in a chariot of fire and shaketh the pillars of earth",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Micah 1:3-4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "mi_002",
+      "type": "single_choice",
+      "text": "What does Micah 1:5 name as the transgression of Jacob and high places of Judah?",
+      "options": [
+        {
+          "text": "The heathen nations and their abominable idolatrous groves on the hills",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The desolation of the holy temple and the ceasing of all morning sacrifices",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Samaria for Jacob's transgression, and Jerusalem for Judah's high places",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The contempt of the priesthood and the breaking of the solemn statutes",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Micah 1:5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "mi_003",
+      "type": "single_choice",
+      "text": "How far does the incurable wound reach according to Micah 1:9?",
+      "options": [
+        {
+          "text": "Unto the border of Edom and throughout the wide barren desert",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto distant Egypt and unto the great rushing waters of the river",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto the banks of Jordan and unto the coast of the salt sea",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto Judah, unto the gate of my people, even to Jerusalem",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Micah 1:9",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "mi_004",
+      "type": "single_choice",
+      "text": "What transgression does Micah 2:1-2 denounce?",
+      "options": [
+        {
+          "text": "They devise iniquity upon their beds and covet fields and take them away",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "They withhold tithes and defraud the holy house of appointed oblations",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They sacrifice upon high places and worship lifeless idols of wood",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They sell the poor into bondage and drive the fatherless from the gate",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Micah 2:1-2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "mi_005",
+      "type": "single_choice",
+      "text": "What do the adversaries say unto the prophets in Micah 2:6?",
+      "options": [
+        {
+          "text": "Prophesy unto us of peace and gladness, for that will do us good",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Prophesy not! They shall not prophesy to them, that they take not shame",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Prophesy only within the temple, and keep silence in the open streets",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Prophesy unto the rulers and princes, but leave the people at peace",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Micah 2:6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "mi_006",
+      "type": "single_choice",
+      "text": "What promise is given in Micah 2:13 for the remnant of Israel?",
+      "options": [
+        {
+          "text": "An angel from heaven shall deliver them from captivity and guide them",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A faithful shepherd shall pasture them and gather them upon holy Zion",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The breaker is come up before them, and the LORD on the head of them",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A wise prophet shall lead them and build them an habitation of rest",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Micah 2:12-13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "mi_007",
+      "type": "single_choice",
+      "text": "With what image does Micah 3:2-3 charge the princes of the house of Israel?",
+      "options": [
+        {
+          "text": "They cast the needy into dark pits and leave them without food",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They eat up the standing corn and leave no cluster for the poor",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They beat the righteous with rods and spoil them of their heritage",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They flay their skin from off them and chop them as for the pot",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Micah 3:2-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "mi_008",
+      "type": "single_choice",
+      "text": "How does Micah 3:5 expose the false prophets?",
+      "options": [
+        {
+          "text": "They cry peace to him that feedeth them, but prepare war against others",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "They prophesy by night in secret and hide themselves from open daylight",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They proclaim continual destruction and curse all that honor them not",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They flatter the wealthy for filthy lucre and keep silence before kings",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Micah 3:5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "mi_009",
+      "type": "single_choice",
+      "text": "What word of judgment does Micah 3:12 pronounce upon Zion and Jerusalem?",
+      "options": [
+        {
+          "text": "Zion shall stand for ever, and the holy sanctuary shall never fall",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Zion shall be plowed as a field, and Jerusalem shall become heaps",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A new temple shall be built, and the holy city shall rule all lands",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Zion shall be kept by mighty angels, and no enemy shall enter her gates",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Micah 3:12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "mi_010",
+      "type": "single_choice",
+      "text": "What does Micah 4:1 foresee for the last days?",
+      "options": [
+        {
+          "text": "The nations shall forsake Zion, and the holy mount shall be desolate",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The mount of the LORD shall sink down, and the people wander scattered",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The mountain of the house of the LORD shall be established in the top",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "An earthly ruler shall erect an exceeding strong fortress upon Ephraim",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Micah 4:1-2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "mi_011",
+      "type": "single_choice",
+      "text": "How is the peace of the nations described in Micah 4:3-4?",
+      "options": [
+        {
+          "text": "They cast their armor into the deep sea and build walls about gates",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They fashion spears into bolts and set bars of iron upon their towers",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They purchase weapons of war and maintain peaceful trade with neighbours",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They beat their swords into plowshares and sit under their own vine",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Micah 4:3-4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "mi_012",
+      "type": "single_choice",
+      "text": "Whither must the daughter of Zion go before she is delivered (Micah 4:10)?",
+      "options": [
+        {
+          "text": "Go forth out of the city into the field, even to Babylon, to be delivered",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Into the wilderness of Judah, where she may abide safely from enemies",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Down into Egypt, to find refuge and bread in the midst of fierce famine",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto the heights of mount Carmel, to build a new sanctuary unto God",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Micah 4:10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "mi_013",
+      "type": "single_choice",
+      "text": "Which place is promised in Micah 5:2 as the origin of the ruler in Israel?",
+      "options": [
+        {
+          "text": "Hebron in the hill",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Beth-lehem Ephratah",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Shiloh in Ephraim",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Gibeah in Benjamin",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Micah 5:2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "mi_014",
+      "type": "single_choice",
+      "text": "How is the ministry of the ruler described in Micah 5:4?",
+      "options": [
+        {
+          "text": "He shall serve as high priest and purge the altar from all past guilt",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He shall rule with a sharp sword and destroy all adversaries from earth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He shall stand and feed in the strength and majesty of the name of the LORD",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He shall remain hidden in secret and be known only unto the humble",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Micah 5:4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "mi_015",
+      "type": "single_choice",
+      "text": "By what two similes does Micah 5:7-8 describe the remnant of Jacob?",
+      "options": [
+        {
+          "text": "As an eagle in heaven and as a faithful shepherd over his sheep",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As the stars of the sky and as the fine sand upon the sea shore",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As a consuming fire and as an overflowing tempest in the plains",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As a dew from the LORD and as a young lion among flocks of sheep",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Micah 5:7-8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "mi_016",
+      "type": "single_choice",
+      "text": "To what does the LORD call his people in Micah 6:1-3?",
+      "options": [
+        {
+          "text": "To contend before the mountains: O my people, what have I done unto thee?",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "To bring costly burnt offerings, that the LORD may be reconciled to them",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To weep in sackcloth and ashes, that the fierce anger of God may cease",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To wage battle against the heathen, that the promised land may be saved",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Micah 6:1-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "mi_017",
+      "type": "single_choice",
+      "text": "What doth the LORD require of man according to Micah 6:8?",
+      "options": [
+        {
+          "text": "To offer ten thousands of rivers of oil and to fast continually",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To do justly, and to love mercy, and to walk humbly with thy God",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "To pay all prescribed tithes and keep solemn assemblies without fail",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To make long prayers in the temple and instruct youth in statutes",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Micah 6:8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "mi_018",
+      "type": "single_choice",
+      "text": "What sins are condemned by the LORD in Micah 6:10-16?",
+      "options": [
+        {
+          "text": "Heathen altars upon the mountains and idolatrous groves in the land",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Neglect of the holy altar and profaning the appointed feast days",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Treasures of wickedness, the scant measure, and keeping the statutes of Omri",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Perverting judgment by false witness and taking gifts of bribery",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Micah 6:10-16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "mi_019",
+      "type": "single_choice",
+      "text": "How does the prophet mourn over the society in Micah 7:2?",
+      "options": [
+        {
+          "text": "The holy sanctuary is burned, and the priests are fled far away",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The fruitful land is laid waste, and no man gathereth the vintage",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The fenced walls are overthrown, and foreign armies fill the gates",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The good man is perished out of the earth: they all lie in wait for blood",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Micah 7:2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "mi_020",
+      "type": "single_choice",
+      "text": "What does the prophet speak against his enemy in Micah 7:8?",
+      "options": [
+        {
+          "text": "Rejoice not against me, O mine enemy: when I fall, I shall arise",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Tremble, O mine enemy: for my God shall suddenly overthrow thee",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Depart from me, O mine enemy: for I shall never be moved in the way",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Bow down before me, O mine enemy: for my strength shall prevail",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Micah 7:8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "mi_021",
+      "type": "single_choice",
+      "text": "With what praise does the Book of Micah conclude (Micah 7:18-19)?",
+      "options": [
+        {
+          "text": "The LORD is King for ever, and his throne shall endure unto all ages",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Who is a God like unto thee, that pardoneth iniquity, casting sins into sea?",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The LORD is my shepherd in the earth, and I shall never be destitute",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The LORD will deliver his chosen heritage and bring them from Babylon",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Micah 7:18-19",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    }
+  ]
+}

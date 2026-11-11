@@ -1,0 +1,196 @@
+{
+  "metadata": {
+    "quizId": "nt_24_2johannes_alle_kapitel_en",
+    "title": "2 John",
+    "subtitle": "2 John 1:1 – 1:13 (5 questions)",
+    "author": "King James Version (1769)",
+    "version": "2.3.0",
+    "language": "en",
+    "category": "nt",
+    "difficulty": "medium",
+    "tags": [
+      "2 John",
+      "New Testament",
+      "General Epistles",
+      "Truth",
+      "Love",
+      "Antichrist",
+      "King James Version"
+    ],
+    "questionCount": 5,
+    "canonicalBookNumber": 63,
+    "testament": "NT"
+  },
+  "questions": [
+    {
+      "questionId": "2joh_001",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Unto whom doth the elder write in 2 John 1:1?",
+      "bibleReference": "2 John 1:1",
+      "correctAnswers": [
+        1
+      ],
+      "options": [
+        {
+          "text": "The apostle unto the saints at Ephesus and elders",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The elder unto the elect lady and her children",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The servant unto all the brethren in dispersion",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The minister unto all believers in the countries",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "2joh_002",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What is love according to 2 John 1:6?",
+      "bibleReference": "2 John 1:6",
+      "correctAnswers": [
+        2
+      ],
+      "options": [
+        {
+          "text": "That we bestow great riches and gifts upon poor",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That we strictly separate from all other people",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That we walk after his holy commandments in truth",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "That we express outward feeling and kind speech",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "2joh_003",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Who is a deceiver and an antichrist in 2 John 1:7?",
+      "bibleReference": "2 John 1:7",
+      "correctAnswers": [
+        3
+      ],
+      "options": [
+        {
+          "text": "Who maketh void the ancient law of Moses in assembly",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Who refuseth to bring tenths into the temple of God",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Who resisteth the magistrates and the laws of land",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Who confess not that Jesus Christ is come in flesh",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "2joh_004",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What if any come unto you, and bring not this doctrine (2 John 1:10)?",
+      "bibleReference": "2 John 1:10-11",
+      "correctAnswers": [
+        0
+      ],
+      "options": [
+        {
+          "text": "Receive him not into your house, neither bid him speed",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Receive him courteously, providing comfort for needs",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Accuse him before earthly judges that he be punished",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Cast him out into wilderness that he return no more",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "2joh_005",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Why would he not write with paper and ink in 2 John 1:12?",
+      "bibleReference": "2 John 1:12",
+      "correctAnswers": [
+        1
+      ],
+      "options": [
+        {
+          "text": "Because paper and ink were spent, and he lacked all supplies",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He trusteth to come unto them, and to speak face to face",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Because earthly rulers forbade any writing unto the brethren",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because the churches refused to read further communications",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    }
+  ]
+}

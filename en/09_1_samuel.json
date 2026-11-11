@@ -1,0 +1,4252 @@
+{
+  "metadata": {
+    "quizId": "bibel_09_1_samuel_en",
+    "title": "1 Samuel",
+    "subtitle": "1 Samuel 1:1 – 31:13 (111 Questions)",
+    "author": "King James Version (1769)",
+    "language": "en",
+    "tags": [
+      "1 Samuel",
+      "OT",
+      "history",
+      "KJV"
+    ],
+    "questionCount": 111,
+    "canonicalBookNumber": 9,
+    "testament": "AT",
+    "category": "geschichte",
+    "version": "2.3.0",
+    "difficulty": "medium"
+  },
+  "questions": [
+    {
+      "questionId": "1sam_001",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Where did Elkanah, the father of Samuel, dwell in the hill country of Israel?",
+      "options": [
+        {
+          "text": "In the priestly city of Hebron in Judah",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "In Ramathaim-zophim of Mount Ephraim",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
+        },
+        {
+          "text": "In the mountain citadel of ancient Shechem",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "In Beth-lehem-judah within the tribe of Judah",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 1:1"
+    },
+    {
+      "questionId": "1sam_002",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What holy vow did Hannah vow unto the LORD in the tabernacle at Shiloh?",
+      "options": [
+        {
+          "text": "She vowed to donate an hundred pieces of silver",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "She vowed to minister as an handmaid in Shiloh",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "To give him unto the LORD all the days of his life",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
+        },
+        {
+          "text": "She vowed a great sacrifice of ten fat bullocks",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 1:11"
+    },
+    {
+      "questionId": "1sam_003",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What mistaken suspicion did Eli the priest entertain concerning the silently praying Hannah?",
+      "options": [
+        {
+          "text": "He suspected her of stealing from the holy gifts",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "He supposed she was worshipping foreign idols",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "He thought she was cursing his two priestly sons",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "Therefore Eli thought she had been drunken",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 1:13-14"
+    },
+    {
+      "questionId": "1sam_004",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What is the meaning of the name Samuel, which Hannah thankfully gave unto her firstborn son?",
+      "options": [
+        {
+          "text": "Asked of God (for I have asked him of the LORD)",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
+        },
+        {
+          "text": "The exalted prince of the LORD above the nations",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "The valiant helper and horn in the day of trouble",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "The shining light of the Most High at the altar",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 1:20"
+    },
+    {
+      "questionId": "1sam_005",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "With what did Hannah provide her son Samuel from year to year when she came up to Shiloh?",
+      "options": [
+        {
+          "text": "With a new robe of purple",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "With a little coat which she herself had made",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
+        },
+        {
+          "text": "With a leathern girdle after the manner of the priests",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "With a golden headband for the ministry",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 2:19"
+    },
+    {
+      "questionId": "1sam_006",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "How did Hophni and Phinehas, the wicked sons of Eli, behave in the service of the sacrifices at Shiloh?",
+      "options": [
+        {
+          "text": "They required a double tribute of silver of the people",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "They refused to slay the beasts for the sacrifices",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "They demanded raw flesh before the fat was burned",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
+        },
+        {
+          "text": "They served the idols of the Philistines in secret",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 2:12-17"
+    },
+    {
+      "questionId": "1sam_007",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What severe sentence of judgment did a man of God pronounce upon the house of Eli?",
+      "options": [
+        {
+          "text": "All his kinsmen shall be driven out into Moab",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "The tabernacle shall be burnt with fire forthwith",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "The priesthood shall be given unto the Philistines",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "All the increase of his house shall die in the flower of their age",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 2:31-34"
+    },
+    {
+      "questionId": "1sam_008",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "How many times did the LORD call young Samuel in the night before Eli perceived who called?",
+      "options": [
+        {
+          "text": "Exactly three times did the LORD call the child",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
+        },
+        {
+          "text": "Exactly twice did the voice call him",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "Exactly four times did the voice call from the altar",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "Exactly seven times, after the holy number",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 3:4-8"
+    },
+    {
+      "questionId": "1sam_009",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What words did Eli teach Samuel to answer if the voice of the LORD should call him again?",
+      "options": [
+        {
+          "text": "Hear, O God, for thy servant bringeth an offering",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "Speak, LORD; for thy servant heareth",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
+        },
+        {
+          "text": "Here am I, thy priest in the sanctuary",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "Forgive the sins of my father's house",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 3:9"
+    },
+    {
+      "questionId": "1sam_010",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "From whence to where was it known that Samuel was established to be a prophet of the LORD?",
+      "options": [
+        {
+          "text": "From Hebron in the south even unto Dan",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "From Beth-el unto the coast of the great sea",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "From Dan even to Beer-sheba in the land",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
+        },
+        {
+          "text": "From Shiloh unto the utmost border of Moab",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 3:20"
+    },
+    {
+      "questionId": "1sam_011",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What holy thing did the Israelites fetch into the camp after their first defeat at Eben-ezer?",
+      "options": [
+        {
+          "text": "The golden candlestick out of the sanctuary",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "The brazen serpent from the days in the wilderness",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "The tabernacle of the congregation with the vessels of offering",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "The ark of the covenant of the LORD out of Shiloh",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 4:3-4"
+    },
+    {
+      "questionId": "1sam_012",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "How did the Philistines react when they heard the mighty shout of Israel upon the ark's arrival?",
+      "options": [
+        {
+          "text": "They were afraid, and said: God is come into the camp; woe unto us!",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
+        },
+        {
+          "text": "They fled forthwith into their cities by the sea coast",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "They laughed at the shouting of the Israelites",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "They straightway required conditions of peace",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 4:6-8"
+    },
+    {
+      "questionId": "1sam_013",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "How many footmen of Israel fell in the second disastrous battle against the Philistines?",
+      "options": [
+        {
+          "text": "Exactly four thousand men on the first day",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "There fell of Israel thirty thousand footmen",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
+        },
+        {
+          "text": "Exactly twelve thousand warriors of the tribes",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "Exactly seventy thousand men in the camp",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 4:10"
+    },
+    {
+      "questionId": "1sam_014",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What double catastrophe befell the priestly house of Eli in that grievous battle?",
+      "options": [
+        {
+          "text": "Eli lost his sight and was carried away captive",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "The tabernacle was utterly burned by the Philistines",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "The ark of God was taken, and Hophni and Phinehas died",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
+        },
+        {
+          "text": "All the priests were carried away as bondmen to Ashdod",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 4:11"
+    },
+    {
+      "questionId": "1sam_015",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "How old was Eli when he fell backward from his seat upon hearing that the ark was taken?",
+      "options": [
+        {
+          "text": "Exactly fourscore years old was Eli",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "Exactly an hundred years old in his office",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "Exactly threescore and fifteen years old in the sanctuary",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "Now Eli was ninety and eight years old (98)",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 4:15-18"
+    },
+    {
+      "questionId": "1sam_016",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What name did Phinehas' dying wife give to her newborn son upon hearing the tidings?",
+      "options": [
+        {
+          "text": "I-chabod (saying: The glory is departed from Israel)",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
+        },
+        {
+          "text": "Samuel, in remembrance of the promise",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "Eben-ezer, after the place of the battle",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "Baruch, as a comfort in the heavy hour",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 4:21-22"
+    },
+    {
+      "questionId": "1sam_017",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "Into which heathen temple in Ashdod did the Philistines bring the captured ark of God?",
+      "options": [
+        {
+          "text": "Into the house of Baal near the sea coast",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "Into the house of their idol god Dagon",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
+        },
+        {
+          "text": "Into the house of Ashtaroth upon the mountains",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "Into the stronghold of the king of Askelon",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 5:1-2"
+    },
+    {
+      "questionId": "1sam_018",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What happened to the idol Dagon on the morning after the ark of God was set beside it?",
+      "options": [
+        {
+          "text": "The roof of the house fell in upon itself",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "The image crumbled straightway into dust",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "Behold, Dagon was fallen upon his face to the ground",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
+        },
+        {
+          "text": "Dagon was filled with devouring fire",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 5:3-4"
+    },
+    {
+      "questionId": "1sam_019",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "With what grievous plague did the hand of the LORD smite the men of Ashdod, Gath, and Ekron?",
+      "options": [
+        {
+          "text": "A grievous famine throughout all their country",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "A sudden pestilence destroying all their kine",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "Darkness and blindness upon all their warriors",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "He smote them with emerods in their secret parts",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 5:6-12"
+    },
+    {
+      "questionId": "1sam_020",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "How long did the ark of the LORD remain in the country of the Philistines?",
+      "options": [
+        {
+          "text": "The ark of the LORD was in the country seven months",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
+        },
+        {
+          "text": "Exactly three months in Ekron",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "Exactly one whole year by the reckoning",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "Exactly forty days in the house of Dagon",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 6:1"
+    },
+    {
+      "questionId": "1sam_021",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What golden trespass offering did the Philistine priests advise their lords to send with the ark?",
+      "options": [
+        {
+          "text": "Five golden swords and ten flagons of pure silver",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "Five golden emerods, and five golden mice of gold",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
+        },
+        {
+          "text": "Twelve golden calves according to tribes of Israel",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "Ten golden crowns from the lords of the Philistines",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 6:4-5"
+    },
+    {
+      "questionId": "1sam_022",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What beasts did the Philistines tie to the new cart bearing the ark of the LORD?",
+      "options": [
+        {
+          "text": "Two wild stallions out of the king's stables",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "Four strong oxen from the fields of Gath",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "Two milch kine, on which there hath come no yoke",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
+        },
+        {
+          "text": "Two mules out of the treasures of the merchants",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 6:7-10"
+    },
+    {
+      "questionId": "1sam_023",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "Whither did the two kine bear the ark of God, turning not aside to the right or to the left?",
+      "options": [
+        {
+          "text": "Unto Shiloh, the city of the priests, at the tabernacle of God",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "Unto the stronghold of Jerusalem in the hill country",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "Unto Mizpeh to the assembly of the people",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "The kine took the straight way to Beth-shemesh",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 6:12"
+    },
+    {
+      "questionId": "1sam_024",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "Why did the LORD smite the men of Beth-shemesh with a great slaughter?",
+      "options": [
+        {
+          "text": "Because they had looked into the ark of the LORD",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
+        },
+        {
+          "text": "Because they had robbed the gold of the trespass offering",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "Because they burned the cart before the altars",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "Because they stripped the flesh from the kine",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 6:19"
+    },
+    {
+      "questionId": "1sam_025",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Into whose house in Kirjath-jearim was the ark of the LORD fetched from Beth-shemesh?",
+      "options": [
+        {
+          "text": "Into the tent of the priests upon mount Tabor",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "Into the house of Abinadab in the hill",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
+        },
+        {
+          "text": "Into the dwelling of the prophet Samuel at Ramah",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "Into the stronghold of Caleb the mighty man at Hebron",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 7:1"
+    },
+    {
+      "questionId": "1sam_026",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "How many years were past since the ark abode in Kirjath-jearim, when all the house of Israel lamented after the LORD?",
+      "options": [
+        {
+          "text": "Exactly seven years in that place",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "Exactly forty years, as once in the wilderness",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "Exactly twenty years",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
+        },
+        {
+          "text": "Exactly ten years in the keeping of Eleazar",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 7:2"
+    },
+    {
+      "questionId": "1sam_027",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What condition of repentance did Samuel require of Israel for deliverance from the Philistines?",
+      "options": [
+        {
+          "text": "To pay a double tribute of lambs unto the altar",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "To observe a solemn fast of thirty days in silence",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "To build twelve new altars of stone throughout Judah",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "Put away the strange gods and Ashtaroth from among you",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 7:3"
+    },
+    {
+      "questionId": "1sam_028",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Where did Samuel gather all the children of Israel to fast and pray before the LORD?",
+      "options": [
+        {
+          "text": "Samuel gathered all Israel to Mizpeh to pray",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
+        },
+        {
+          "text": "At the ancient altar of sacrifice in Beth-el",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "At the historic camp of the twelve stones in Gilgal",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "Within the mountain valley of Shechem between mounts",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 7:5-6"
+    },
+    {
+      "questionId": "1sam_029",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "How did the LORD overthrow the attacking Philistines while Samuel offered a sucking lamb?",
+      "options": [
+        {
+          "text": "By a sudden burning fire which fell upon their tents",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "The LORD thundered with a great thunder upon them",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
+        },
+        {
+          "text": "By a violent earthquake which swallowed their vanguard",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "By sending a swarm of hornets which blinded their host",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 7:10"
+    },
+    {
+      "questionId": "1sam_030",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What name did Samuel give unto the memorial stone pitched between Mizpeh and Shen?",
+      "options": [
+        {
+          "text": "He called the name of it Jehovah-shalom (our peace)",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "He called the name of it Galeed (the heap of witness)",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "He called the name of it Eben-ezer (the stone of help)",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
+        },
+        {
+          "text": "He called the name of it Beth-el (the house of God)",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 7:12"
+    },
+    {
+      "questionId": "1sam_031",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "In which four cities did Samuel judge Israel upon his regular yearly circuit?",
+      "options": [
+        {
+          "text": "Hebron, Bethlehem, Jerusalem, and Jericho in Judah",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "Shechem, Samaria, Tirzah, and Dothan in Ephraim",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "Gaza, Ashdod, Ashkelon, and Ekron in Philistia",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "In circuit to Beth-el, and Gilgal, and Mizpeh, and Ramah",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 7:15-17"
+    },
+    {
+      "questionId": "1sam_032",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Why did the elders of Israel come to Samuel at Ramah demanding a king to govern them?",
+      "options": [
+        {
+          "text": "Because his sons turned aside after lucre and bribes",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
+        },
+        {
+          "text": "Because the Philistines had invaded the southern borders",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "Because Samuel was too feeble to offer the sacrifices",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "Because the tribe of Judah claimed the royal sceptre",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 8:3-5"
+    },
+    {
+      "questionId": "1sam_033",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "How did the LORD characterize the people's demand for an earthly king like all the nations?",
+      "options": [
+        {
+          "text": "They have honored my commandments above the traditions",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "They have not rejected thee, but they have rejected me",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
+        },
+        {
+          "text": "They shall find peace and prosperity under their ruler",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "Their request is pleasing unto all the hosts of heaven",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 8:7"
+    },
+    {
+      "questionId": "1sam_034",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What solemn warning did Samuel declare concerning the oppressive manner of their future king?",
+      "options": [
+        {
+          "text": "He will surrender all their iron weapons to Philistia",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "He will abolish the yearly feast of the passover",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "He will take your sons and your daughters for his work",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
+        },
+        {
+          "text": "He will compel the priests to become horsemen in battle",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 8:11-17"
+    },
+    {
+      "questionId": "1sam_035",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "From which tribe of Israel was Saul the son of Kish, a choice young man and a goodly?",
+      "options": [
+        {
+          "text": "From the royal tribe of Judah holding the sceptre",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "From the mountainous tribe of Ephraim in the north",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "From the priestly tribe of Levi ministering at altar",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "From the smallest tribe of Benjamin, of family Matri",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 9:1-2"
+    },
+    {
+      "questionId": "1sam_036",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What errand had Kish given unto his son Saul before his providential meeting with Samuel?",
+      "options": [
+        {
+          "text": "Take now one of the servants, and arise, seek the asses",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
+        },
+        {
+          "text": "To purchase iron ploughshares in the city of Ramah",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "To carry thirty pieces of silver unto the sanctuary",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "To inspect the vineyards of Carmel during the harvest",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 9:3"
+    },
+    {
+      "questionId": "1sam_037",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What title was given to a prophet in Israel in ancient times, as explained in 1 Samuel 9?",
+      "options": [
+        {
+          "text": "He was called a Ruler over the thousands of Israel",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "Beforetime in Israel, a Prophet was called a Seer",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
+        },
+        {
+          "text": "He was styled an Ambassador of the holy tabernacle",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "He was known as a Watchman upon the mountain heights",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 9:9"
+    },
+    {
+      "questionId": "1sam_038",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What special portion of meat did Samuel command the cook to set before Saul at the feast?",
+      "options": [
+        {
+          "text": "The breast of the wave offering consecrated by priests",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "The right haunch of the prime bullock of the sacrifice",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "The shoulder, and that which was upon it, set for Saul",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
+        },
+        {
+          "text": "The head and horns of the choice ram offered on altar",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 9:23-24"
+    },
+    {
+      "questionId": "1sam_039",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "With what action did Samuel privately anoint Saul to be captain over the LORD's inheritance?",
+      "options": [
+        {
+          "text": "He placed a golden crown of victory upon his brow",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "He delivered unto him the ancient battle sword of Joshua",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "He fastened a jewelled breastplate upon his garments",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "Samuel took a vial of oil, and poured it upon his head",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 10:1"
+    },
+    {
+      "questionId": "1sam_040",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What took place when Saul met the company of prophets at the hill of God near Gibeah?",
+      "options": [
+        {
+          "text": "The Spirit of God came upon him, and he prophesied",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
+        },
+        {
+          "text": "He was struck with sudden blindness until the morning",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "The prophets delivered unto him the sacred silver trumpet",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "A voice spoke from heaven confirming his royal title",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 10:10"
+    },
+    {
+      "questionId": "1sam_041",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Where was Saul discovered hiding when the lot fell upon him at the assembly in Mizpeh?",
+      "options": [
+        {
+          "text": "Behind the holy curtains of the tabernacle at Shiloh",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "Behold, he hath hid himself among the stuff (baggage)",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
+        },
+        {
+          "text": "Inside a deep rock cave on the borders of Benjamin",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "Upon the high battlements of the city wall of Mizpeh",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 10:22"
+    },
+    {
+      "questionId": "1sam_042",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What shameful condition did Nahash the Ammonite demand of the men of Jabesh-gilead?",
+      "options": [
+        {
+          "text": "That they surrender all their flocks of sheep to Ammon",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "That they pay a yearly tribute of thirty gold talents",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "That I may thrust out all your right eyes for reproach",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
+        },
+        {
+          "text": "That they dismantle their stone battlements and gates",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 11:1-2"
+    },
+    {
+      "questionId": "1sam_043",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "How did Saul summon all the tribes of Israel to the rescue of the city of Jabesh-gilead?",
+      "options": [
+        {
+          "text": "He blew seven silver trumpets from the top of Mount Ephraim",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "He kindled great fire beacons upon the summits of the hills",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "He sent messengers bearing the signet ring of the priest",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "He took a yoke of oxen, and hewed them in pieces throughout",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 11:7"
+    },
+    {
+      "questionId": "1sam_044",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "Where did the victorious army of Israel renew the kingdom of Saul with sacrifices of peace?",
+      "options": [
+        {
+          "text": "To Gilgal before the LORD with sacrifices of peace",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
+        },
+        {
+          "text": "In the holy sanctuary at Shiloh before the ark",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "Upon the summit of Mount Gerizim in Ephraim",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "In the royal city of Hebron within the tribe Judah",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 11:14-15"
+    },
+    {
+      "questionId": "1sam_045",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What supernatural sign in the sky did Samuel call down to reprove Israel's desire for a king?",
+      "options": [
+        {
+          "text": "A sudden darkness that obscured the sun at high noon",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "The LORD sent thunder and rain in the wheat harvest",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
+        },
+        {
+          "text": "A fiery pillar that consumed the sacrifices on altar",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "A great whirlwind that broke the oaks in the forest",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 12:16-18"
+    },
+    {
+      "questionId": "1sam_046",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What faithful promise did aging Samuel give unto the people concerning his intercession?",
+      "options": [
+        {
+          "text": "He would retire to Mount Carmel and pray in solitude",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "He would appoint forty priests to offer daily prayers",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "God forbid that I should sin in ceasing to pray for you",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
+        },
+        {
+          "text": "He would never again mention their names before the ark",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 12:23"
+    },
+    {
+      "questionId": "1sam_047",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What presumptuous sin did Saul commit at Gilgal when Samuel came NOT within seven days?",
+      "options": [
+        {
+          "text": "He made a secret treaty of alliance with Philistines",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "He carried off the consecrated gold vessels of altar",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "He ordered the holy ark of God to be brought from Nob",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "He offered the burnt offering presumptuously himself",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 13:8-12"
+    },
+    {
+      "questionId": "1sam_048",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What immediate consequence did Samuel announce unto Saul for his disobedience at Gilgal?",
+      "options": [
+        {
+          "text": "His kingdom should not continue",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
+        },
+        {
+          "text": "He should straightway be smitten with leprosy",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "The people should forthwith put him down",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "His sons should fall by the sword in battle",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 13:13-14"
+    },
+    {
+      "questionId": "1sam_049",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "Why was there no smith found throughout all the land of Israel in the early days of Saul?",
+      "options": [
+        {
+          "text": "There lacked coal and wood in the mountains",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "For the Philistines said, Lest the Hebrews make them swords or spears",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
+        },
+        {
+          "text": "The priest forbade the melting of iron",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "The people had given all their iron unto the sanctuary",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 13:19"
+    },
+    {
+      "questionId": "1sam_050",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "Who accompanied Prince Jonathan in his daring assault upon the Philistine garrison at Michmash?",
+      "options": [
+        {
+          "text": "Ahiah the priest who bare the ephod in the camp",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "David the son of Jesse who played upon the harp",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "Only his young armourbearer went with him to fight",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
+        },
+        {
+          "text": "Abner the chief captain of the armies of Israel",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 14:1-6"
+    },
+    {
+      "questionId": "1sam_051",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What sign of divine favor did Jonathan propose before climbing up the rock to the garrison?",
+      "options": [
+        {
+          "text": "If the watch should flee before them",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "If a strong wind should roar in the valley",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "If the warriors should lay down their weapons",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "If they say thus, Come up unto us",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 14:9-10"
+    },
+    {
+      "questionId": "1sam_052",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What rash curse did King Saul lay upon his army on the day of the battle against Philistia?",
+      "options": [
+        {
+          "text": "Cursed be the man that eateth any food until evening",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
+        },
+        {
+          "text": "Whosoever taketh any spoil of silver shall be slain",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "No man shall lay down his iron sword until midnight",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "Cursed be the soldier who spareth an enemy captive",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 14:24"
+    },
+    {
+      "questionId": "1sam_053",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "How were Jonathan's weary eyes enlightened in the wood, being ignorant of his father's oath?",
+      "options": [
+        {
+          "text": "He drank of a cold mountain spring bubbling from rock",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "He dipped the end of his rod in an honeycomb and ate",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
+        },
+        {
+          "text": "He ate of the barley loaves found in enemy's tents",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "He tasted of the parched corn carried in his scrip",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 14:27"
+    },
+    {
+      "questionId": "1sam_054",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "Into what grievous sin was the famished army driven after the victory over Philistia?",
+      "options": [
+        {
+          "text": "They plundered the sanctuary at Nob",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "They fell upon the dwellings of the Gibeonites",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "They slew the cattle and did eat them with the blood",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
+        },
+        {
+          "text": "They refused to serve the king any longer",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 14:32-33"
+    },
+    {
+      "questionId": "1sam_055",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Who delivered condemned Prince Jonathan from execution when Saul swore he should surely die?",
+      "options": [
+        {
+          "text": "Samuel the prophet by pronouncing a divine decree",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "Ahiah the priest by inquiring through the holy lot",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "The young armourbearer by offering his own life",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "The people rescued Jonathan, that he died not",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 14:45"
+    },
+    {
+      "questionId": "1sam_056",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What explicit divine command did Samuel give unto King Saul concerning the nation of Amalek?",
+      "options": [
+        {
+          "text": "Utterly destroy them, and slay both man and woman",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
+        },
+        {
+          "text": "Take only tribute of their rich cities",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "Spare the women and take the warriors captive",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "Bring their herds as an offering unto Gilgal",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 15:2-3"
+    },
+    {
+      "questionId": "1sam_057",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Which royal enemy did Saul spare alive, contrary to the commandment of the LORD?",
+      "options": [
+        {
+          "text": "King Nahash of the children of Ammon",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "Agag the king of the Amalekites",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
+        },
+        {
+          "text": "King Jabin out of the strongholds of the north",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "King Adoni-zedek of the hill city of Jerusalem",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 15:8-9"
+    },
+    {
+      "questionId": "1sam_058",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What did Saul erect for himself in Carmel before descending to the sanctuary at Gilgal?",
+      "options": [
+        {
+          "text": "A high stone altar for daily morning burnt offerings",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "A strong fortress to guard the southern desert borders",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "Behold, he set him up a place (monument of victory)",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
+        },
+        {
+          "text": "A storehouse for the consecrated spoil of cattle",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 15:12"
+    },
+    {
+      "questionId": "1sam_059",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What excuse did Saul offer unto Samuel for sparing the best of the sheep and oxen of Amalek?",
+      "options": [
+        {
+          "text": "The warriors took the spoil secretly without knowledge",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "The animals were intended for the support of Levites",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "The herdsmen preserved the cattle out of pity young",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "The people spared the best of animals to sacrifice",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 15:15"
+    },
+    {
+      "questionId": "1sam_060",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What famous principle of true devotion did Samuel declare unto the disobedient King Saul?",
+      "options": [
+        {
+          "text": "Behold, to obey is better than sacrifice, and to hearken than fat",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
+        },
+        {
+          "text": "The abundance of burnt offerings covereth the transgression of sin",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "Whosoever buildeth an altar of stone shall receive forgiveness",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "A king hath authority to order the sacrifices of the congregation",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 15:22"
+    },
+    {
+      "questionId": "1sam_061",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Unto what grave sins did Samuel compare rebellion and stubbornness against the word of the LORD?",
+      "options": [
+        {
+          "text": "Rebellion is like the sin of the golden calf in the wilderness",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "Rebellion is as witchcraft, and stubbornness is as idolatry",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
+        },
+        {
+          "text": "Stubbornness is like breaking the sacred covenant of the ark",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "Rebellion is as the blasphemy of the Philistine heathen gods",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 15:23"
+    },
+    {
+      "questionId": "1sam_062",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What occurred when Saul laid hold upon the skirt of Samuel's mantle as he turned to depart?",
+      "options": [
+        {
+          "text": "Samuel's horn of oil fell from his hand and was broken",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "The mantle fell to the earth and was covered with ash",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "The skirt of the mantle rent, symbolizing the kingdom rent away",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
+        },
+        {
+          "text": "Saul was struck with a sudden trembling across his limbs",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 15:27-28"
+    },
+    {
+      "questionId": "1sam_063",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What divine title did Samuel use when proclaiming that God is NOT a man that He should repent?",
+      "options": [
+        {
+          "text": "The Lord of hosts that sitteth between the cherubims",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "The Holy One of Israel who dwelleth in thick darkness",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "The Almighty Rock of our salvation across all ages",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "The Strength of Israel will not lie nor repent",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 15:29"
+    },
+    {
+      "questionId": "1sam_064",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What did Samuel do unto King Agag of Amalek before the LORD in Gilgal?",
+      "options": [
+        {
+          "text": "Samuel hewed Agag in pieces before the LORD in Gilgal",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
+        },
+        {
+          "text": "He banished him into the lonely desert borders of Paran",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "He delivered him into the hands of the elders of Judah",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "He imprisoned him in the stronghold of the city of Ramah",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 15:32-33"
+    },
+    {
+      "questionId": "1sam_065",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "How was the relationship between Samuel and King Saul until the day of Samuel's death?",
+      "options": [
+        {
+          "id": "opt_1",
+          "text": "They renewed their covenant annually at the tent in Shiloh",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "opt_2",
+          "text": "Samuel came no more to see Saul until the day of his death",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "id": "opt_3",
+          "text": "They met together every year at the feast in Beth-el",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "opt_4",
+          "text": "Samuel remained as chief counselor in the court of Saul",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 15:35"
+    },
+    {
+      "questionId": "1sam_066",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Unto whom did the LORD send Samuel to anoint a new king?",
+      "options": [
+        {
+          "id": "opt_1",
+          "text": "Unto Ahimelech the priest in the city of Nob",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "opt_2",
+          "text": "Unto Caleb the prince in the fortress of Hebron",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "opt_3",
+          "text": "Unto Jesse the Beth-lehemite, among whose sons was a king",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "id": "opt_4",
+          "text": "Unto Abner the captain in the city of Gibeah",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 16:1"
+    },
+    {
+      "questionId": "1sam_067",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What standard of judgment did the LORD reveal unto Samuel when choosing among Jesse's sons?",
+      "options": [
+        {
+          "id": "opt_1",
+          "text": "Man looketh on the lineage, but the LORD weigheth the deeds",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "opt_2",
+          "text": "Man chooseth the eldest son, but God chooseth the youngest",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "opt_3",
+          "text": "Man prizeth strength in battle, but God prizeth bold faith",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "opt_4",
+          "text": "Man looketh on the outward appearance, but the LORD looketh on the heart",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 16:7"
+    },
+    {
+      "questionId": "1sam_068",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What daily task was young David performing when Samuel arrived at the house of Jesse?",
+      "options": [
+        {
+          "id": "opt_1",
+          "text": "He was keeping the sheep in the fields of Beth-lehem",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "id": "opt_2",
+          "text": "He was ministering before the family altar of sacrifice",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "opt_3",
+          "text": "He was dressing the vineyards upon the hill slopes",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "opt_4",
+          "text": "He was forging weapons for the warriors of his tribe",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 16:11"
+    },
+    {
+      "questionId": "1sam_069",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "How did young David refresh King Saul when the evil spirit from God was upon him?",
+      "options": [
+        {
+          "text": "He sang the ancient heroic psalms of Moses before his couch",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "David took an harp, and played with his hand: and Saul was refreshed",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
+        },
+        {
+          "text": "He offered incense of sweet spices upon the golden hearth",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "He prepared a soothing draught of herbs and sweet vineyard wine",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 16:23"
+    },
+    {
+      "questionId": "1sam_070",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What was the extraordinary stature of Goliath, the champion of the Philistines of Gath?",
+      "options": [
+        {
+          "text": "Exactly four cubits and a span was his height",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "Exactly five cubits and two spans was his height",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "Exactly six cubits and a span was his height",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
+        },
+        {
+          "text": "Exactly seven cubits and a span was his height",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "Six cubits and a span corresponds to an extraordinary height of approximately 9 feet 9 inches (nearly 3 metres).",
+      "explanationReviewed": true,
+      "bibleReference": "1 Samuel 17:4"
+    },
+    {
+      "questionId": "1sam_071",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What errand did Jesse give David when sending him to the camp in the valley of Elah?",
+      "options": [
+        {
+          "id": "opt_1",
+          "text": "To serve as an armourbearer in the royal host of Saul",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "opt_2",
+          "text": "To stand watch by night before the royal pavilion of Saul",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "opt_3",
+          "text": "To challenge the Philistine champion with his shepherd's sling",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "opt_4",
+          "text": "To carry parched corn, ten loaves, and ten cheeses to his brethren",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 17:17-18"
+    },
+    {
+      "questionId": "1sam_072",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "With what did David arm himself before going forth to meet Goliath in the valley?",
+      "options": [
+        {
+          "id": "opt_1",
+          "text": "With his staff, his sling, and five smooth stones out of the brook",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "id": "opt_2",
+          "text": "With the brass helmet and coat of mail that Saul had put upon him",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "opt_3",
+          "text": "With a heavy wooden spear and a buckler of hardened leather",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "opt_4",
+          "text": "With two sharp javelins taken from the tent of his brother Eliab",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 17:40"
+    },
+    {
+      "questionId": "1sam_073",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "With what weapon did David cut off Goliath's head after smiting him with the sling stone?",
+      "options": [
+        {
+          "text": "With his own small shepherd's knife at his girdle",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "With the mighty iron sword of the giant Goliath",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
+        },
+        {
+          "text": "With the royal javelin which Saul had lent unto him",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "With a heavy stone boulder taken from the brook bed",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 17:51"
+    },
+    {
+      "questionId": "1sam_074",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "How does Scripture describe the deep covenant friendship between Prince Jonathan and David?",
+      "options": [
+        {
+          "text": "Jonathan agreed to serve as chief captain under David's future kingdom",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "They swore to divide the royal inheritance equally between their families",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "The soul of Jonathan was knit with the soul of David, loving him as himself",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
+        },
+        {
+          "text": "They exchanged their horses and golden chariots before all the host",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 18:1-4"
+    },
+    {
+      "questionId": "1sam_075",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What song of the dancing women stirred Saul's jealous wrath against David?",
+      "options": [
+        {
+          "text": "David is greater than all the mighty captains of the twelve tribes",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "Behold our glorious king who hath overthrown the host of Philistia",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "The shepherd of Bethlehem hath taken the crown of Mount Gilboa",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "Saul hath slain his thousands, and David his ten thousands",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 18:7-9"
+    },
+    {
+      "questionId": "1sam_076",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What dangerous dowry did Saul require of David for the hand of his daughter Michal?",
+      "options": [
+        {
+          "text": "An hundred foreskins of the Philistines to avenge the king",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
+        },
+        {
+          "text": "Fifty chariots of iron taken from the garrison of Ashkelon",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "Five hundred talents of silver brought from the coastal cities",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "The golden battle-shield of the slain champion of the city Gath",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 18:25"
+    },
+    {
+      "questionId": "1sam_077",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "How did Michal help her husband David escape from the messengers sent by Saul to slay him?",
+      "options": [
+        {
+          "text": "She disguised him in the vestments of a visiting priest of Nob",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "She let him down through a window and laid an image in the bed",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
+        },
+        {
+          "text": "She hid him in a deep empty grain pit beneath the stable floor",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "She locked the royal guards inside the inner chamber of the house",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 19:11-13"
+    },
+    {
+      "questionId": "1sam_078",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What happened to Saul's messengers when they came to take David at Naioth in Ramah?",
+      "options": [
+        {
+          "id": "opt_1",
+          "text": "They were driven back with stones by the elders of the city",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "opt_2",
+          "text": "They lost their way in the thick forests of mount Ephraim",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "id": "opt_3",
+          "text": "The Spirit of God was upon them, and they also prophesied",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "id": "opt_4",
+          "text": "They fell upon their faces in terror before the gate of Ramah",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 19:20-24"
+    },
+    {
+      "questionId": "1sam_079",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "By what sign of shooting arrows did Jonathan warn David whether to return or flee?",
+      "options": [
+        {
+          "text": "By shooting two arrows into the trunk of the great terebinth",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "By shooting a single flaming arrow toward the rock of Ezel",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "By breaking three arrows in the presence of his armourbearer",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "If he said to the lad: The arrows are beyond thee; go thy way",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 20:18-22"
+    },
+    {
+      "questionId": "1sam_080",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What food did Ahimelech the priest give unto the fleeing David and his young men at Nob?",
+      "options": [
+        {
+          "text": "The hallowed shewbread taken from before the LORD",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
+        },
+        {
+          "text": "The roasted flesh of the burnt offerings on the altar",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "Unleavened cakes taken from the storehouses of Nob",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "Fresh clusters of summer raisins and parched grains",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 21:4-6"
+    },
+    {
+      "questionId": "1sam_081",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Which foreign overseer of Saul's herdmen observed David's meeting with Ahimelech at Nob?",
+      "options": [
+        {
+          "text": "Uriah the Hittite, a captain in the army",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "Doeg the Edomite, the chiefest of Saul's herdmen",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
+        },
+        {
+          "text": "Ittai the Gittite, a soldier from Philistia",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "Araunah the Jebusite, a farmer from Jerusalem",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 21:7"
+    },
+    {
+      "questionId": "1sam_082",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What stratagem did David use before King Achish of Gath to preserve his life?",
+      "options": [
+        {
+          "text": "He disguised himself as a blind beggar at the gate",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "He pretended to be a banished priest from Shiloh",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "He feigned himself mad and scrabbled on the doors",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
+        },
+        {
+          "text": "He claimed to be an ambassador sent from Pharaoh",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 21:12-14"
+    },
+    {
+      "questionId": "1sam_083",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What manner of men gathered unto David in the stronghold of the cave Adullam?",
+      "options": [
+        {
+          "text": "Chosen priests and Levites out of Shiloh",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "Wealthy cattle breeders from the south country",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "Foreign mercenaries from the cities of Philistia",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "Every one in distress, in debt, and discontented",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 22:1-2"
+    },
+    {
+      "questionId": "1sam_084",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "Who executed Saul's cruel massacre of eighty-five priests of the LORD at Nob?",
+      "options": [
+        {
+          "text": "Doeg the Edomite fell upon the priests and slew them",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
+        },
+        {
+          "text": "The Benjamite royal bodyguards of King Saul",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "The Philistine archers from the city of Gath",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "Captain Abner together with his soldiers",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 22:18-19"
+    },
+    {
+      "questionId": "1sam_085",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Which only son of Ahimelech escaped the massacre at Nob and fled with the ephod to David?",
+      "options": [
+        {
+          "text": "Zechariah the youngest priest of the house",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "Abiathar, the son of Ahimelech",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
+        },
+        {
+          "text": "Phinehas of the remnant of the house of Eli",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "Eleazar the keeper of the ark in Kirjath",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 22:20-23"
+    },
+    {
+      "questionId": "1sam_086",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Which city of Judah did David deliver from the Philistines who robbed the threshingfloors?",
+      "options": [
+        {
+          "text": "The mountain stronghold of ancient Shechem",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "The altar city of Beth-el near the south borders",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "The city of Keilah in the low western plain",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
+        },
+        {
+          "text": "The priestly city of Hebron upon the mountains",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 23:1-5"
+    },
+    {
+      "questionId": "1sam_087",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What token of mercy did David show unto King Saul in the cave of the wild goats at En-gedi?",
+      "options": [
+        {
+          "text": "David took Saul's spear and cruse from his bolster",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "David took Saul's royal signet ring from his hand",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "David bound the sleeping king with hempen cords",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "David cut off the skirt of Saul's robe privily",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 24:4-8"
+    },
+    {
+      "questionId": "1sam_088",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "How does Scripture describe the wealthy cattle owner Nabal of Maon in Carmel?",
+      "options": [
+        {
+          "text": "The man was churlish and evil in his doings",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
+        },
+        {
+          "text": "He was a gentle, God-fearing shepherd of sheep",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "He was a poor bondman from the tribal land Dan",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "He was a priest ministering upon Beth-el heights",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 25:2-3"
+    },
+    {
+      "questionId": "1sam_089",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "How did wise Abigail avert David's intended slaughter of Nabal's entire household?",
+      "options": [
+        {
+          "text": "She paid a thousand silver pieces to David's men",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "She brought loaves, wine, sheep, corn, and raisins",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
+        },
+        {
+          "text": "She summoned the elders of Maon to intervene",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "She delivered Nabal bound into David's hands",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 25:18-31"
+    },
+    {
+      "questionId": "1sam_090",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What happened to Nabal when Abigail recounted the danger averted on the next morning?",
+      "options": [
+        {
+          "text": "He cursed his wife and banished her to Carmel",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "He marched forth with sixty spearmen to war",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "His heart died within him, and he became as a stone",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
+        },
+        {
+          "text": "He presented David with half of all his sheep",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 25:37-38"
+    },
+    {
+      "questionId": "1sam_091",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Which two tokens did David take from beside Saul's bolster while the king slept in Ziph?",
+      "options": [
+        {
+          "text": "The royal scarlet mantle and the signet ring",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "The king's iron sword and his bronze helmet",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "The golden tent band and the royal shield",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "The spear and the cruse of water from his head",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 26:7-12"
+    },
+    {
+      "questionId": "1sam_092",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Which Philistine city did King Achish of Gath give unto David and his men as a dwelling place?",
+      "options": [
+        {
+          "text": "The city of Ziklag",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
+        },
+        {
+          "text": "The city of Ashkelon",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "The city of Ekron",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "The city of Gaza",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 27:5-6"
+    },
+    {
+      "questionId": "1sam_093",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "To what forbidden means did Saul turn when the LORD answered him NOT by dreams or prophets?",
+      "options": [
+        {
+          "text": "He sought out the high priest in the city of Nob",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "He sought a woman that had a familiar spirit at Endor",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
+        },
+        {
+          "text": "He offered solemn burnt offerings at altar in Gilgal",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "He consulted the idol priests of Philistines in Gath",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 28:6-7"
+    },
+    {
+      "questionId": "1sam_094",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What grim prophecy did the apparition of Samuel announce unto King Saul at Endor?",
+      "options": [
+        {
+          "text": "The holy tabernacle shall be removed to Zion",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "Thou shalt reign twenty more years over Israel",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "The LORD will deliver Israel to the Philistines",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
+        },
+        {
+          "text": "David shall fall in battle against Philistia",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 28:16-19"
+    },
+    {
+      "questionId": "1sam_095",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Why did the Philistine lords refuse to let David march with them against the host of Saul?",
+      "options": [
+        {
+          "text": "Because David was sore sick in the encampment",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "Because King Achish recalled him to Ziklag",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "Because the prophet Gad forbade him to march",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "The lords feared he would turn adversary in battle",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 29:3-9"
+    },
+    {
+      "questionId": "1sam_096",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What disaster did David and his men discover upon their return to the city of Ziklag?",
+      "options": [
+        {
+          "text": "The Amalekites had burned Ziklag and taken the women captives",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
+        },
+        {
+          "text": "Saul's warriors had taken Ziklag and slain the men",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "The Philistines had spoiled Ziklag and slain all that dwelt therein",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "An earthquake had overthrown the city, and many had perished",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 30:1-3"
+    },
+    {
+      "questionId": "1sam_097",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Who guided David and his warriors unto the raiders of Amalek in the wilderness?",
+      "options": [
+        {
+          "text": "A captive prince from the cities of Philistia",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "An Egyptian youth, sick three days, fed by David",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
+        },
+        {
+          "text": "A messenger from the tribe of Judah in the south",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "A desert scout from the border villages of Shur",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 30:11-15"
+    },
+    {
+      "questionId": "1sam_098",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What just statute did David establish concerning the division of spoil after the victory?",
+      "options": [
+        {
+          "text": "The warriors take all, and the rest receive naught",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "The tenth part goes to priests, the rest by lot",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "He that tarrieth by stuff shareth alike with warrior",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
+        },
+        {
+          "text": "David reserveth all stores for a future temple",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 30:23-25"
+    },
+    {
+      "questionId": "1sam_099",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "How did King Saul meet his end in the disastrous battle against the Philistines on Mount Gilboa?",
+      "options": [
+        {
+          "text": "He was trodden down by the Philistine chariots",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "He was carried away captive into the city of Gaza",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "He fled disguised into the southern wilderness",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "He took a sword, and fell upon it, and died",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 31:3-4"
+    },
+    {
+      "questionId": "1sam_100",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What valiant deed did the men of Jabesh-gilead perform after the indignity to Saul's body?",
+      "options": [
+        {
+          "text": "They recovered the bodies of Saul and his sons",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
+        },
+        {
+          "text": "They stoned the Philistine lords in Beth-shan",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "They took Saul's weapons from the idol temple",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "They mourned forty days at the holy sanctuary",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 31:11-13"
+    },
+    {
+      "questionId": "1sam_101",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What promise did Samuel give to the people after they had asked for a king?",
+      "options": [
+        {
+          "text": "For the LORD will not forsake his people for his name's sake",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
+        },
+        {
+          "text": "The LORD would depose Saul if the people did not fast thirty days",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "The people must pay part of the spoil of Ammon to Shiloh priests",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "Samuel would no longer pray unto the LORD on behalf of people",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 12:20-24"
+    },
+    {
+      "questionId": "1sam_103",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What request did Jonathan make of David when they made a covenant in the field?",
+      "options": [
+        {
+          "text": "That David should help him depose King Saul from the throne",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "That David should bestow upon him a high office in his kingdom",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "Thou shalt not cut off thy kindness from my house for ever",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
+        },
+        {
+          "text": "That they should never take up battle weapons against each other",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 20:14-17"
+    },
+    {
+      "questionId": "1sam_106",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "How did David escape in the wilderness of Maon when Saul had almost compassed him?",
+      "options": [
+        {
+          "text": "A sudden rainstorm flooded the valley and separated the hosts",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "A messenger reported a Philistine invasion, so Saul returned",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
+        },
+        {
+          "text": "Jonathan stood with his bodyguards between the two armies",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "A fall of rocks barred King Saul from the entrance of the cave",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 23:26-28"
+    },
+    {
+      "questionId": "1sam_108",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "How did Saul react when David, having gone out of the cave after him, showed him that he had spared his life?",
+      "options": [
+        {
+          "text": "He ordered his warriors immediately to assault David's men",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "He challenged David to single combat to determine the king",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "He offered David the half of his kingdom if he kept peace",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "He wept, acknowledged David more righteous, and foresaw his reign",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 24:16-20"
+    },
+    {
+      "questionId": "1sam_110",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What rebuke did David shout unto Abner after entering into Saul's camp by night?",
+      "options": [
+        {
+          "text": "That he had secretly negotiated a league with Philistines",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "Art not thou a valiant man? wherefore hast thou not kept thy lord?",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
+        },
+        {
+          "text": "That he had led the host into the field without weapons",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "That he had not stood beside King Saul in war with Amalek",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 26:14-16"
+    },
+    {
+      "questionId": "1sam_111",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Whither did David flee with his six hundred men to escape the pursuit of King Saul?",
+      "options": [
+        {
+          "text": "Unto Mount Seir to the Edomites, the kinsmen of Esau",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "Down into Egypt unto the royal court of the Pharaoh",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "Unto Achish, the son of Maoch, king of Gath, in Philistia",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
+        },
+        {
+          "text": "Unto Damascus in Syria unto the court of the king of Aram",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 27:1-3"
+    },
+    {
+      "questionId": "1sam_115",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What character testimony did King Achish give concerning David before the Philistine lords?",
+      "options": [
+        {
+          "text": "He considered him a treacherous spy whom no lord could trust",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "He praised his wisdom but strictly forbade him to sacrifice",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "He found no fault in him, for he was good as an angel of God",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
+        },
+        {
+          "text": "He appointed him governor over all the five cities of Philistia",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 29:6-9"
+    },
+    {
+      "questionId": "1sam_116",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Who answered the LORD with the words: \"Speak; for thy servant heareth\"?",
+      "options": [
+        {
+          "text": "The young Samuel",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
+        },
+        {
+          "text": "The king Saul",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "The shepherd David",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "The priest Eli",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 3:10"
+    },
+    {
+      "questionId": "1sam_117",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Who said unto Goliath: \"I come to thee in the name of the LORD of hosts\"?",
+      "options": [
+        {
+          "text": "The warrior Abishai",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": false
+        },
+        {
+          "text": "The young king Saul",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "The king's son Jonathan",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": false
+        },
+        {
+          "text": "The shepherd boy David",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 17:45"
+    },
+    {
+      "questionId": "1sam_118",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "text": "Which two things did David take with him when he went forth against Goliath in 1 Samuel 17:40?",
+      "options": [
+        {
+          "text": "Five smooth stones out of the brook",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
+        },
+        {
+          "text": "The heavy iron sword of King Saul",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": false
+        },
+        {
+          "text": "His sling in his hand",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
+        },
+        {
+          "text": "The bronze coat of mail of King Saul",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswers": [
+        0,
+        2
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 17:40"
+    },
+    {
+      "questionId": "1sam_119",
+      "type": "ordering",
+      "difficulty": "medium",
+      "text": "Arrange these milestones in the life of David in their correct chronological order.",
+      "options": [
+        {
+          "text": "David is anointed king over Judah in Hebron",
+          "explanation": "",
+          "id": "opt_1",
+          "isCorrect": true
+        },
+        {
+          "text": "David slays Goliath in the valley of Elah",
+          "explanation": "",
+          "id": "opt_2",
+          "isCorrect": true
+        },
+        {
+          "text": "Saul falls in battle against Philistines",
+          "explanation": "",
+          "id": "opt_3",
+          "isCorrect": true
+        },
+        {
+          "text": "Samuel anoints David to be king of Israel",
+          "explanation": "",
+          "id": "opt_4",
+          "isCorrect": true
+        },
+        {
+          "text": "David flees away from the presence of Saul",
+          "explanation": "",
+          "id": "opt_5",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswers": [
+        3,
+        1,
+        4,
+        2,
+        0
+      ],
+      "explanation": "",
+      "explanationReviewed": false,
+      "bibleReference": "1 Samuel 16:13"
+    }
+  ]
+}

@@ -1,0 +1,2423 @@
+{
+  "metadata": {
+    "quizId": "bibel_10_2_samuel_en",
+    "title": "2 Samuel",
+    "subtitle": "2 Samuel 1:1 – 24:25 (80 Questions)",
+    "author": "King James Version (1769)",
+    "language": "en",
+    "tags": [
+      "2 Samuel",
+      "OT",
+      "history",
+      "KJV"
+    ],
+    "questionCount": 80,
+    "canonicalBookNumber": 10,
+    "testament": "AT",
+    "category": "geschichte",
+    "version": "2.3.0",
+    "difficulty": "medium"
+  },
+  "questions": [
+    {
+      "questionId": "2sam_001",
+      "type": "single_choice",
+      "text": "What messenger brought David tidings to Ziklag of the death of Saul and Jonathan?",
+      "options": [
+        {
+          "text": "A warrior of the Benjamites out of the camp",
+          "explanation": ""
+        },
+        {
+          "text": "A Levite priest from the tabernacle tent",
+          "explanation": ""
+        },
+        {
+          "text": "A young man that was an Amalekite",
+          "explanation": ""
+        },
+        {
+          "text": "A royal armourbearer from the host of Saul",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Samuel 1:1-10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2sam_002",
+      "type": "single_choice",
+      "text": "Why did David command the Amalekite to be slain, who brought Saul's crown and bracelet?",
+      "options": [
+        {
+          "text": "Because he kept the gold of the royal crown for himself",
+          "explanation": ""
+        },
+        {
+          "text": "Because he brought false tidings concerning the battle",
+          "explanation": ""
+        },
+        {
+          "text": "Because he delivered not the spoil unto the elders",
+          "explanation": ""
+        },
+        {
+          "text": "Because he stretched forth his hand to destroy the LORD's anointed",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Samuel 1:14-16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2sam_003",
+      "type": "single_choice",
+      "text": "In which book is David's lamentation over Saul and Jonathan written?",
+      "options": [
+        {
+          "text": "In the book of Jasher",
+          "explanation": ""
+        },
+        {
+          "text": "In the book of the wars of the LORD",
+          "explanation": ""
+        },
+        {
+          "text": "In the book of the kings of Judah",
+          "explanation": ""
+        },
+        {
+          "text": "In the book of the judges of Israel",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Samuel 1:18",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2sam_004",
+      "type": "single_choice",
+      "text": "In which place was David first anointed king by the men of Judah?",
+      "options": [
+        {
+          "text": "In the town of Bethlehem",
+          "explanation": ""
+        },
+        {
+          "text": "In the city of Hebron",
+          "explanation": ""
+        },
+        {
+          "text": "In the city of Jerusalem",
+          "explanation": ""
+        },
+        {
+          "text": "In the sanctuary of Shiloh",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Samuel 2:1-4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2sam_005",
+      "type": "single_choice",
+      "text": "Which son of Saul did Abner the captain of the host make king over Israel?",
+      "options": [
+        {
+          "text": "Mephibosheth, the son of Jonathan",
+          "explanation": ""
+        },
+        {
+          "text": "Malchi-shua, the son of king Saul",
+          "explanation": ""
+        },
+        {
+          "text": "Ish-bosheth, the son of Saul",
+          "explanation": ""
+        },
+        {
+          "text": "Abinadab, the son of king Saul",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Samuel 2:8-9",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2sam_006",
+      "type": "single_choice",
+      "text": "What happened when twelve young men on each side fought by the pool of Gibeon?",
+      "options": [
+        {
+          "text": "The servants of David slew all the Benjamites without any loss of their own",
+          "explanation": ""
+        },
+        {
+          "text": "The young men cast down their shields and made a covenant of peace together",
+          "explanation": ""
+        },
+        {
+          "text": "A sudden tempest stopped the battle before any blood was shed upon the field",
+          "explanation": ""
+        },
+        {
+          "text": "Every one caught his fellow by the head, and thrust his sword in his side",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Samuel 2:14-16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2sam_007",
+      "type": "single_choice",
+      "text": "How did Abner slay the swift runner Asahel, the brother of Joab, who pursued him?",
+      "options": [
+        {
+          "text": "With the hinder end of the spear into the body",
+          "explanation": ""
+        },
+        {
+          "text": "With a sharp arrow shot forth out of his quiver",
+          "explanation": ""
+        },
+        {
+          "text": "With the twoedged sword girded upon his loins",
+          "explanation": ""
+        },
+        {
+          "text": "With a heavy casting stone taken from the hill",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Samuel 2:22-23",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2sam_008",
+      "type": "single_choice",
+      "text": "Wherefore did Ish-bosheth contend with Abner the captain of his host?",
+      "options": [
+        {
+          "text": "Concerning the division of the spoil of the battle",
+          "explanation": ""
+        },
+        {
+          "text": "Concerning Rizpah, Saul's concubine",
+          "explanation": ""
+        },
+        {
+          "text": "Concerning the pay given unto the men of war",
+          "explanation": ""
+        },
+        {
+          "text": "Concerning a secret league with the Philistines",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Samuel 3:6-7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2sam_009",
+      "type": "single_choice",
+      "text": "What condition did David make with Abner before he would make a league with him?",
+      "options": [
+        {
+          "text": "That Abner bring an hundred talents of silver",
+          "explanation": ""
+        },
+        {
+          "text": "That Abner deliver up all weapons of Benjamin",
+          "explanation": ""
+        },
+        {
+          "text": "That he bring Michal, Saul's daughter, to him",
+          "explanation": ""
+        },
+        {
+          "text": "That Ish-bosheth be delivered into captivity",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Samuel 3:12-14",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2sam_010",
+      "type": "single_choice",
+      "text": "For what cause did Joab secretly slay Abner in the gate of Hebron?",
+      "options": [
+        {
+          "text": "Because Abner conspired against the life of king David",
+          "explanation": ""
+        },
+        {
+          "text": "Because Abner sought to take away the ark of the covenant",
+          "explanation": ""
+        },
+        {
+          "text": "Because Joab demanded the spoil from the Philistines",
+          "explanation": ""
+        },
+        {
+          "text": "For the blood of Asahel his brother",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Samuel 3:27",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2sam_011",
+      "type": "single_choice",
+      "text": "How did king David behave at the burial of Abner in Hebron?",
+      "options": [
+        {
+          "text": "He followed the bier, wept, and lifted up his voice",
+          "explanation": ""
+        },
+        {
+          "text": "He tarried far off and sent only his messengers to the grave",
+          "explanation": ""
+        },
+        {
+          "text": "He held a great feast of triumph with the men of Judah",
+          "explanation": ""
+        },
+        {
+          "text": "He commanded that Abner be buried without lamentation",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Samuel 3:31-34",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2sam_012",
+      "type": "single_choice",
+      "text": "How did Baanah and Rechab murder king Ish-bosheth in Mahanaim?",
+      "options": [
+        {
+          "text": "They poisoned his cup at the royal midday banquet",
+          "explanation": ""
+        },
+        {
+          "text": "They smote him under the fifth rib as he lay on his bed",
+          "explanation": ""
+        },
+        {
+          "text": "They shot arrows through the open window of his chamber",
+          "explanation": ""
+        },
+        {
+          "text": "They set upon him in the court and bound him with chains",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Samuel 4:5-7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2sam_013",
+      "type": "single_choice",
+      "text": "Why was Jonathan's son Mephibosheth lame on both his feet?",
+      "options": [
+        {
+          "text": "He was wounded in the battle against the Philistines",
+          "explanation": ""
+        },
+        {
+          "text": "He suffered from a sore disease from his mother's womb",
+          "explanation": ""
+        },
+        {
+          "text": "His nurse took him up and let him fall in her flight",
+          "explanation": ""
+        },
+        {
+          "text": "He fell down as a youth from the high wall of Gibeah",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Samuel 4:4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2sam_014",
+      "type": "single_choice",
+      "text": "How did David punish the murderers who brought the head of Ish-bosheth to Hebron?",
+      "options": [
+        {
+          "text": "He rewarded them with gold and made them captains",
+          "explanation": ""
+        },
+        {
+          "text": "He banished them for life into the wilderness of Judah",
+          "explanation": ""
+        },
+        {
+          "text": "He cast them into prison unto the day of their death",
+          "explanation": ""
+        },
+        {
+          "text": "He commanded them to be slain and hanged over the pool in Hebron",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Samuel 4:11-12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2sam_015",
+      "type": "single_choice",
+      "text": "How old was David when he began to reign, and how long did he reign in all?",
+      "options": [
+        {
+          "text": "He was thirty years old and he reigned forty years",
+          "explanation": ""
+        },
+        {
+          "text": "He was twenty and five years old and reigned thirty years",
+          "explanation": ""
+        },
+        {
+          "text": "He was forty years old and reigned twenty years",
+          "explanation": ""
+        },
+        {
+          "text": "He was twenty years old and reigned fifty years",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Samuel 5:4-5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2sam_016",
+      "type": "single_choice",
+      "text": "From what people did David take the strong hold of Zion (the city of David)?",
+      "options": [
+        {
+          "text": "From the Philistines that encamped in the valley",
+          "explanation": ""
+        },
+        {
+          "text": "From the Jebusites, the inhabitants of the land",
+          "explanation": ""
+        },
+        {
+          "text": "From the Moabites out of the country beyond",
+          "explanation": ""
+        },
+        {
+          "text": "From the Amalekites out of the south wilderness",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Samuel 5:6-7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2sam_017",
+      "type": "single_choice",
+      "text": "Which king sent messengers, cedar trees, carpenters, and masons to David?",
+      "options": [
+        {
+          "text": "Hadadezer, the king of Zobah",
+          "explanation": ""
+        },
+        {
+          "text": "Toi, the king of Hamath",
+          "explanation": ""
+        },
+        {
+          "text": "Hiram, the king of Tyre",
+          "explanation": ""
+        },
+        {
+          "text": "Achish, the king of Gath",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Samuel 5:11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2sam_018",
+      "type": "single_choice",
+      "text": "What name did David give to the place where he smote the Philistines in the valley of Rephaim?",
+      "options": [
+        {
+          "text": "Eben-ezer, for hitherto hath the LORD helped us",
+          "explanation": ""
+        },
+        {
+          "text": "Helkath-hazzurim, the field of the sharp blades",
+          "explanation": ""
+        },
+        {
+          "text": "Mahanaim, the great host of the holy angels",
+          "explanation": ""
+        },
+        {
+          "text": "Baal-perazim, for the LORD hath broken my foes",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Samuel 5:20",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2sam_019",
+      "type": "single_choice",
+      "text": "What sign was David to wait for in the second battle in the valley of Rephaim?",
+      "options": [
+        {
+          "text": "The sound of a going in the tops of the mulberry trees",
+          "explanation": ""
+        },
+        {
+          "text": "The rising of the bright morning star over the hills",
+          "explanation": ""
+        },
+        {
+          "text": "A long blast of the trumpet sounding from the mountains",
+          "explanation": ""
+        },
+        {
+          "text": "A mighty voice of thunder from the midst of the heaven",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Samuel 5:23-24",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2sam_020",
+      "type": "single_choice",
+      "text": "From whence did David bring up the ark of God with thirty thousand chosen men?",
+      "options": [
+        {
+          "text": "From the city of Shiloh in mount Ephraim",
+          "explanation": ""
+        },
+        {
+          "text": "From Baale of Judah, to bring it up thence",
+          "explanation": ""
+        },
+        {
+          "text": "From the city of Mizpah before the borders",
+          "explanation": ""
+        },
+        {
+          "text": "From the royal city of Hebron in the south",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Samuel 6:1-2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2sam_021",
+      "type": "single_choice",
+      "text": "Why did God smite Uzzah with death when the ark was carried on the new cart?",
+      "options": [
+        {
+          "text": "Because he took away the gold from the vessels",
+          "explanation": ""
+        },
+        {
+          "text": "Because he wore not the linen priest's garment",
+          "explanation": ""
+        },
+        {
+          "text": "Because he put forth his hand to the ark of God",
+          "explanation": ""
+        },
+        {
+          "text": "Because he guided the cart in the wrong way",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Samuel 6:6-7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2sam_022",
+      "type": "single_choice",
+      "text": "How many months did the ark of the LORD continue in the house of Obed-edom the Gittite?",
+      "options": [
+        {
+          "text": "Seven months in his house",
+          "explanation": ""
+        },
+        {
+          "text": "One whole year in the land",
+          "explanation": ""
+        },
+        {
+          "text": "Forty days in the chamber",
+          "explanation": ""
+        },
+        {
+          "text": "Three months in his house",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Samuel 6:11",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2sam_023",
+      "type": "single_choice",
+      "text": "How was David apparelled when he danced before the LORD with all his might?",
+      "options": [
+        {
+          "text": "David was girded with a linen ephod",
+          "explanation": ""
+        },
+        {
+          "text": "He wore the royal purple robe and crown",
+          "explanation": ""
+        },
+        {
+          "text": "He was armed with the armor of enemies",
+          "explanation": ""
+        },
+        {
+          "text": "He wore the holy coat of the high priest",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Samuel 6:14",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2sam_024",
+      "type": "single_choice",
+      "text": "How did Saul's daughter Michal react when she saw king David dancing before the LORD?",
+      "options": [
+        {
+          "text": "She wept for very tender affection in her chamber",
+          "explanation": ""
+        },
+        {
+          "text": "She despised him in her heart",
+          "explanation": ""
+        },
+        {
+          "text": "She joined straightway in the shout of rejoicing",
+          "explanation": ""
+        },
+        {
+          "text": "She fled with great fear out of the city of David",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Samuel 6:16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2sam_025",
+      "type": "single_choice",
+      "text": "What judgment fell upon Michal for her contempt toward David?",
+      "options": [
+        {
+          "text": "She was banished from the city of David",
+          "explanation": ""
+        },
+        {
+          "text": "She lost all her father's inheritance",
+          "explanation": ""
+        },
+        {
+          "text": "She had no child unto the day of her death",
+          "explanation": ""
+        },
+        {
+          "text": "She was made to do the service of a maid",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Samuel 6:23",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2sam_026",
+      "type": "single_choice",
+      "text": "What desire did David express to Nathan the prophet while dwelling in his house?",
+      "options": [
+        {
+          "text": "To extend the border of Israel unto the river Euphrates",
+          "explanation": ""
+        },
+        {
+          "text": "To burn all heathen idols out of the land of Canaan",
+          "explanation": ""
+        },
+        {
+          "text": "To overlay the tables of the testimony with pure gold",
+          "explanation": ""
+        },
+        {
+          "text": "To build an house of cedar for the ark of the LORD",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Samuel 7:1-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2sam_027",
+      "type": "single_choice",
+      "text": "What promise did God give to David through Nathan concerning his house?",
+      "options": [
+        {
+          "text": "The LORD will make him an house and establish his throne for ever",
+          "explanation": ""
+        },
+        {
+          "text": "David himself should build and finish the house of the LORD",
+          "explanation": ""
+        },
+        {
+          "text": "All his natural sons should rule without the sword over Israel",
+          "explanation": ""
+        },
+        {
+          "text": "The kingdom of Israel should never again be vexed of enemies",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Samuel 7:11-16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2sam_028",
+      "type": "single_choice",
+      "text": "In what manner did David subdue the Moabites after he smote them?",
+      "options": [
+        {
+          "text": "He drove the whole nation into the adjacent wilderness",
+          "explanation": ""
+        },
+        {
+          "text": "He measured them with a line: two lines to put to death, and one to keep alive",
+          "explanation": ""
+        },
+        {
+          "text": "He appointed foreign governors in all the strongholds of Moab",
+          "explanation": ""
+        },
+        {
+          "text": "He required ten thousand youths as hostages in the city of Hebron",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Samuel 8:2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2sam_029",
+      "type": "single_choice",
+      "text": "What did David do with the gold, silver, and brass taken from all nations?",
+      "options": [
+        {
+          "text": "He fashioned thereof costly images to present to the strangers",
+          "explanation": ""
+        },
+        {
+          "text": "He divided all the spoil equally among the men of war of Judah",
+          "explanation": ""
+        },
+        {
+          "text": "He dedicated all these treasures unto the LORD for His house",
+          "explanation": ""
+        },
+        {
+          "text": "He hid the riches in secret chambers beneath mount Zion",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Samuel 8:11-12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2sam_030",
+      "type": "single_choice",
+      "text": "Which man held the office of recorder in the kingdom of David?",
+      "options": [
+        {
+          "text": "Seraiah, the son of the priest",
+          "explanation": ""
+        },
+        {
+          "text": "Benaiah, the son of Jehoiada",
+          "explanation": ""
+        },
+        {
+          "text": "Saph, the royal scribe",
+          "explanation": ""
+        },
+        {
+          "text": "Jehoshaphat, the son of Ahilud",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Samuel 8:16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2sam_031",
+      "type": "single_choice",
+      "text": "Why did David inquire after any that were left of the house of Saul?",
+      "options": [
+        {
+          "text": "To shew kindness unto him for Jonathan's sake",
+          "explanation": ""
+        },
+        {
+          "text": "To put all the seed of Saul into perpetual prison",
+          "explanation": ""
+        },
+        {
+          "text": "To require of them the treasures of Saul out of Gibeah",
+          "explanation": ""
+        },
+        {
+          "text": "To divide the inheritance of the tribe of Benjamin anew",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Samuel 9:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2sam_032",
+      "type": "single_choice",
+      "text": "Who told king David of lame Mephibosheth dwelling in Lo-debar?",
+      "options": [
+        {
+          "text": "Zadok the high priest from Jerusalem",
+          "explanation": ""
+        },
+        {
+          "text": "Ziba, a servant of the house of Saul",
+          "explanation": ""
+        },
+        {
+          "text": "Nathan the prophet with a word of God",
+          "explanation": ""
+        },
+        {
+          "text": "Joab the captain of the host of Israel",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Samuel 9:2-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2sam_033",
+      "type": "single_choice",
+      "text": "What privilege did David grant to lame Mephibosheth at his court?",
+      "options": [
+        {
+          "text": "He appointed him chief judge over the land of Judah",
+          "explanation": ""
+        },
+        {
+          "text": "He gave him charge over the bodyguards of the king",
+          "explanation": ""
+        },
+        {
+          "text": "He did eat continually at the king's table as a son",
+          "explanation": ""
+        },
+        {
+          "text": "He was permitted to offer sacrifices in the holy place",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Samuel 9:7-13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2sam_034",
+      "type": "single_choice",
+      "text": "How did the king of Ammon shame the servants whom David sent to comfort him?",
+      "options": [
+        {
+          "text": "He beat them with rods and cast them into a deep dungeon",
+          "explanation": ""
+        },
+        {
+          "text": "He put out their eyes and led them bound through Rabbah",
+          "explanation": ""
+        },
+        {
+          "text": "He took away their gifts and burned their letters before all",
+          "explanation": ""
+        },
+        {
+          "text": "He shaved off half their beards, and cut off their garments in the middle",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Samuel 10:4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2sam_035",
+      "type": "single_choice",
+      "text": "Where were David's shamed servants told to tarry until their beards were grown?",
+      "options": [
+        {
+          "text": "At the city of Jericho",
+          "explanation": ""
+        },
+        {
+          "text": "In the town of Bethlehem",
+          "explanation": ""
+        },
+        {
+          "text": "In the city of Hebron",
+          "explanation": ""
+        },
+        {
+          "text": "At the sanctuary of Beth-el",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Samuel 10:5",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2sam_036",
+      "type": "single_choice",
+      "text": "Where was David when Joab and the host went forth against Ammon?",
+      "options": [
+        {
+          "text": "He marched himself before Rabbah",
+          "explanation": ""
+        },
+        {
+          "text": "David tarried still at Jerusalem",
+          "explanation": ""
+        },
+        {
+          "text": "He abode at the sanctuary of Shiloh",
+          "explanation": ""
+        },
+        {
+          "text": "He enquired of Nathan the prophet",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Samuel 11:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2sam_037",
+      "type": "single_choice",
+      "text": "What command did David write in the letter to Joab concerning Uriah?",
+      "options": [
+        {
+          "text": "Set Uriah in bonds and carry him captive to Hebron",
+          "explanation": ""
+        },
+        {
+          "text": "Let Uriah be judged openly before the gate of the city",
+          "explanation": ""
+        },
+        {
+          "text": "Set ye Uriah in the forefront of the hottest battle",
+          "explanation": ""
+        },
+        {
+          "text": "Appoint Uriah overseer of all the royal horses",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Samuel 11:14-15",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2sam_038",
+      "type": "single_choice",
+      "text": "Whereby did Nathan the prophet convict king David of his sin?",
+      "options": [
+        {
+          "text": "With the book of the law taken from Shiloh",
+          "explanation": ""
+        },
+        {
+          "text": "With the testimony of the watchmen of Benjamin",
+          "explanation": ""
+        },
+        {
+          "text": "With the bloody coat of Uriah the Hittite",
+          "explanation": ""
+        },
+        {
+          "text": "With the parable of the poor man and his little ewe lamb",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Samuel 12:1-4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2sam_039",
+      "type": "single_choice",
+      "text": "What judgment did Nathan declare against the house of David for his sin?",
+      "options": [
+        {
+          "text": "The sword shall never depart from thine house",
+          "explanation": ""
+        },
+        {
+          "text": "David should straightway be put down from the throne",
+          "explanation": ""
+        },
+        {
+          "text": "All his lands should be given unto foreign enemies",
+          "explanation": ""
+        },
+        {
+          "text": "Jerusalem should be laid desolate by a heathen power",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Samuel 12:10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2sam_040",
+      "type": "single_choice",
+      "text": "What name did the prophet Nathan call Solomon, because of the LORD?",
+      "options": [
+        {
+          "text": "Jeduthun (praiser)",
+          "explanation": ""
+        },
+        {
+          "text": "Jedidiah (beloved of the LORD)",
+          "explanation": ""
+        },
+        {
+          "text": "Emmanuel (God with us)",
+          "explanation": ""
+        },
+        {
+          "text": "Ben-oni (son of sorrow)",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Samuel 12:24-25",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2sam_041",
+      "type": "single_choice",
+      "text": "Which son of David forced his half sister Tamar?",
+      "options": [
+        {
+          "text": "Absalom of the royal house of Geshur",
+          "explanation": ""
+        },
+        {
+          "text": "Adonijah, the son of Haggith",
+          "explanation": ""
+        },
+        {
+          "text": "Amnon, the firstborn son of king David",
+          "explanation": ""
+        },
+        {
+          "text": "Chileab, the son of Abigail",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Samuel 13:1-14",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2sam_042",
+      "type": "single_choice",
+      "text": "After how many years did Absalom cause his brother Amnon to be slain at sheep-shearing?",
+      "options": [
+        {
+          "text": "After half a year of waiting in silence",
+          "explanation": ""
+        },
+        {
+          "text": "After seven full years of royal banquet",
+          "explanation": ""
+        },
+        {
+          "text": "After three years dwelling in the court",
+          "explanation": ""
+        },
+        {
+          "text": "After two full years were fully expired",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Samuel 13:23-29",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2sam_043",
+      "type": "single_choice",
+      "text": "Whither did Absalom flee after the slaying of his brother Amnon?",
+      "options": [
+        {
+          "text": "Unto Talmai the king of Geshur",
+          "explanation": ""
+        },
+        {
+          "text": "Unto the Philistines in the city of Gath",
+          "explanation": ""
+        },
+        {
+          "text": "Unto the Moabites beyond the mountains",
+          "explanation": ""
+        },
+        {
+          "text": "Unto the Edomites in the rocks of Seir",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Samuel 13:37-38",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2sam_044",
+      "type": "single_choice",
+      "text": "Whom did Joab suborn with subtilty to turn David's heart again toward Absalom?",
+      "options": [
+        {
+          "text": "An ancient priest from Hebron",
+          "explanation": ""
+        },
+        {
+          "text": "A wise woman out of Tekoa",
+          "explanation": ""
+        },
+        {
+          "text": "A noble elder of the land of Judah",
+          "explanation": ""
+        },
+        {
+          "text": "A blind seer from the wilderness",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Samuel 14:1-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2sam_045",
+      "type": "single_choice",
+      "text": "What bodily renown of Absalom is expressly commended in the scripture?",
+      "options": [
+        {
+          "text": "His mighty stature like unto the giants",
+          "explanation": ""
+        },
+        {
+          "text": "His piercing eyesight from the mountain tops",
+          "explanation": ""
+        },
+        {
+          "text": "His flawless beauty and heavy hair of his head",
+          "explanation": ""
+        },
+        {
+          "text": "His swiftness of running upon the high hills",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Samuel 14:25-26",
+      "explanation": "Two hundred shekels after the king's weight corresponds to about 2.3 kilograms (around 5 pounds) of hair [ref:2 Samuel 14:26].",
+      "explanationReviewed": true,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2sam_046",
+      "type": "single_choice",
+      "text": "What did Absalom do when Joab would NOT come unto him?",
+      "options": [
+        {
+          "text": "He caused Joab's house to be pelted with stones",
+          "explanation": ""
+        },
+        {
+          "text": "He spoiled Joab's flocks before the gates of the town",
+          "explanation": ""
+        },
+        {
+          "text": "He accused Joab openly before the elders of Israel",
+          "explanation": ""
+        },
+        {
+          "text": "He commanded his servants to set Joab's field on fire",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Samuel 14:30-31",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2sam_047",
+      "type": "single_choice",
+      "text": "In what manner did Absalom steal the hearts of the men of Israel at the gate?",
+      "options": [
+        {
+          "text": "He put forth his hand, took them, and kissed them",
+          "explanation": ""
+        },
+        {
+          "text": "He promised every man great possessions and silver",
+          "explanation": ""
+        },
+        {
+          "text": "He gave away chariots and horses out of his stalls",
+          "explanation": ""
+        },
+        {
+          "text": "He released the countrymen from royal tribute",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Samuel 15:2-6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2sam_048",
+      "type": "single_choice",
+      "text": "In what city did Absalom cause himself to be proclaimed king with sound of trumpet?",
+      "options": [
+        {
+          "text": "In the town of Bethlehem",
+          "explanation": ""
+        },
+        {
+          "text": "In the city of Hebron",
+          "explanation": ""
+        },
+        {
+          "text": "In the city of Shechem",
+          "explanation": ""
+        },
+        {
+          "text": "In the camp of Gilgal",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Samuel 15:10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2sam_049",
+      "type": "single_choice",
+      "text": "Why did David send back the ark of God with Zadok unto Jerusalem?",
+      "options": [
+        {
+          "text": "Because the Levites refused to bear it into the wilderness",
+          "explanation": ""
+        },
+        {
+          "text": "Because he feared the Philistines would capture the holy ark",
+          "explanation": ""
+        },
+        {
+          "text": "If he found favour in God's eyes, He would bring him again",
+          "explanation": ""
+        },
+        {
+          "text": "Because the ark was only to be kept within the tabernacle",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Samuel 15:25-26",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2sam_050",
+      "type": "single_choice",
+      "text": "Whom did David send back unto Jerusalem to defeat the counsel of Ahithophel?",
+      "options": [
+        {
+          "text": "Ittai the Gittite with all his men",
+          "explanation": ""
+        },
+        {
+          "text": "Abishai the son of Zeruiah from the host",
+          "explanation": ""
+        },
+        {
+          "text": "Jonathan the son of Abiathar the priest",
+          "explanation": ""
+        },
+        {
+          "text": "Hushai the Archite, the king's friend",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Samuel 15:32-37",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2sam_051",
+      "type": "single_choice",
+      "text": "What reviling did Shimei cast at David when he threw stones at him in his flight?",
+      "options": [
+        {
+          "text": "Come out, come out, thou bloody man, and thou man of Belial!",
+          "explanation": ""
+        },
+        {
+          "text": "Depart from us, thou robber of the crown of Benjamin!",
+          "explanation": ""
+        },
+        {
+          "text": "Fall thou in the desert and be meat unto the beasts!",
+          "explanation": ""
+        },
+        {
+          "text": "Cursed be thy name from Dan even unto Beer-sheba!",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Samuel 16:5-8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2sam_052",
+      "type": "single_choice",
+      "text": "What counsel did Ahithophel give Absalom to make his breach with his father absolute?",
+      "options": [
+        {
+          "text": "To slay all the servants of David openly before the gate",
+          "explanation": ""
+        },
+        {
+          "text": "To go in unto his father's concubines upon the house top",
+          "explanation": ""
+        },
+        {
+          "text": "To spoil all the royal treasures before the eyes of the people",
+          "explanation": ""
+        },
+        {
+          "text": "To carry the ark of the covenant from Jerusalem unto Hebron",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Samuel 16:21-22",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2sam_053",
+      "type": "single_choice",
+      "text": "What warlike counsel did Ahithophel propose to Absalom to smite David speedily?",
+      "options": [
+        {
+          "text": "To gather all Israel together from Dan unto Beer-sheba",
+          "explanation": ""
+        },
+        {
+          "text": "To poison all the wells in the way toward the wilderness",
+          "explanation": ""
+        },
+        {
+          "text": "To choose twelve thousand men and smite the king only",
+          "explanation": ""
+        },
+        {
+          "text": "To encompass Jerusalem with trenches and high ramparts",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Samuel 17:1-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2sam_054",
+      "type": "single_choice",
+      "text": "How did Hushai the Archite defeat the dangerous counsel of Ahithophel?",
+      "options": [
+        {
+          "text": "He warned of a deadly pestilence in the plain of Jordan",
+          "explanation": ""
+        },
+        {
+          "text": "He feigned that the men of war demanded their spoil first",
+          "explanation": ""
+        },
+        {
+          "text": "He prophesied divine vengeance upon the heights of Ephraim",
+          "explanation": ""
+        },
+        {
+          "text": "He described David's might as a bear robbed of her whelps",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Samuel 17:7-13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2sam_055",
+      "type": "single_choice",
+      "text": "What did Ahithophel do when he saw that his counsel was not followed?",
+      "options": [
+        {
+          "text": "He saddled his ass, gat him home, and hanged himself",
+          "explanation": ""
+        },
+        {
+          "text": "He fled unto the kings of the Philistines into Gath",
+          "explanation": ""
+        },
+        {
+          "text": "He fell down before Absalom and made petition for grace",
+          "explanation": ""
+        },
+        {
+          "text": "He returned secretly unto the company of king David",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Samuel 17:23",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2sam_056",
+      "type": "single_choice",
+      "text": "Who sustained David and his weary people at Mahanaim with beds and food?",
+      "options": [
+        {
+          "text": "Hiram the king of Tyre from the coast of the sea",
+          "explanation": ""
+        },
+        {
+          "text": "Barzillai the Gileadite of Rogelim, a great man",
+          "explanation": ""
+        },
+        {
+          "text": "Ziba the servant of the house of Saul with asses",
+          "explanation": ""
+        },
+        {
+          "text": "Shimei the Benjamite with the men of his tribe",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Samuel 17:27-29",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2sam_057",
+      "type": "single_choice",
+      "text": "What calamity befell Absalom upon his mule during the battle in the wood of Ephraim?",
+      "options": [
+        {
+          "text": "His mule stumbled and cast him into a deep pit",
+          "explanation": ""
+        },
+        {
+          "text": "An arrow of the archers of Benjamin pierced his loins",
+          "explanation": ""
+        },
+        {
+          "text": "His head caught hold of the thick boughs of a great oak",
+          "explanation": ""
+        },
+        {
+          "text": "He was forsaken of all his young men and taken captive",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Samuel 18:9",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2sam_058",
+      "type": "single_choice",
+      "text": "How did Joab smite Absalom while he was yet alive in the midst of the oak?",
+      "options": [
+        {
+          "text": "With a sharp arrow shot out of his mighty bow",
+          "explanation": ""
+        },
+        {
+          "text": "With a great stone rolled down from the mountain",
+          "explanation": ""
+        },
+        {
+          "text": "With the twoedged sword that was at his side",
+          "explanation": ""
+        },
+        {
+          "text": "He took three darts and thrust them through his heart",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Samuel 18:14-15",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2sam_059",
+      "type": "single_choice",
+      "text": "How did king David mourn when he heard of the death of his son Absalom?",
+      "options": [
+        {
+          "text": "O my son Absalom! would God I had died for thee, O Absalom!",
+          "explanation": ""
+        },
+        {
+          "text": "He made a great feast of triumph with the captains of the host",
+          "explanation": ""
+        },
+        {
+          "text": "He commanded that Joab should be put to death at the gate",
+          "explanation": ""
+        },
+        {
+          "text": "He held his peace three days and fasted in his chamber",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Samuel 18:33",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2sam_060",
+      "type": "single_choice",
+      "text": "What rebuke did Joab bring before king David weeping in his house?",
+      "options": [
+        {
+          "text": "Thou hast delivered all the gold of the spoil unto the heathen",
+          "explanation": ""
+        },
+        {
+          "text": "Thou hast shamed this day the faces of all thy servants",
+          "explanation": ""
+        },
+        {
+          "text": "Thou hast broken the sacred commandment of the holy covenant",
+          "explanation": ""
+        },
+        {
+          "text": "Thou hast driven forth the priests of the LORD out of the host",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Samuel 19:5-7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2sam_061",
+      "type": "single_choice",
+      "text": "How did David receive Shimei when he fell down before him at Jordan?",
+      "options": [
+        {
+          "text": "He commanded Benaiah to slay him on the spot",
+          "explanation": ""
+        },
+        {
+          "text": "He cast him into perpetual bonds in a dungeon",
+          "explanation": ""
+        },
+        {
+          "text": "He said: Thou shalt not die, and sware unto him",
+          "explanation": ""
+        },
+        {
+          "text": "He demanded a thousand pieces of silver of him",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Samuel 19:18-23",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2sam_062",
+      "type": "single_choice",
+      "text": "Why had Mephibosheth NOT dressed his feet nor washed his clothes during David's flight?",
+      "options": [
+        {
+          "text": "Because he joined himself to the conspiracy of Absalom",
+          "explanation": ""
+        },
+        {
+          "text": "Because he was held captive in the cave of Adullam",
+          "explanation": ""
+        },
+        {
+          "text": "Because the servants of Saul refused to minister unto him",
+          "explanation": ""
+        },
+        {
+          "text": "Because he mourned for David and was deceived by Ziba",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Samuel 19:24-30",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2sam_063",
+      "type": "single_choice",
+      "text": "Why did Barzillai the Gileadite decline David's invitation to dwell at the court in Jerusalem?",
+      "options": [
+        {
+          "text": "He was fourscore years old and desired to die in his own city",
+          "explanation": ""
+        },
+        {
+          "text": "He feared the vengeance of the remaining servants of Absalom",
+          "explanation": ""
+        },
+        {
+          "text": "He would not forsake the great inheritance of his fathers",
+          "explanation": ""
+        },
+        {
+          "text": "He was already ministering as a priest in the house at Gilgal",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Samuel 19:32-37",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2sam_064",
+      "type": "single_choice",
+      "text": "Who stirred up a new rebellion against David after the death of Absalom?",
+      "options": [
+        {
+          "text": "Shimei, the son of Gera of the house of Saul",
+          "explanation": ""
+        },
+        {
+          "text": "Sheba, the son of Bichri, a man of Benjamin",
+          "explanation": ""
+        },
+        {
+          "text": "Amasa, the captain of the host of Judah",
+          "explanation": ""
+        },
+        {
+          "text": "The son of Ahithophel from the city of Giloh",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Samuel 20:1-2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2sam_065",
+      "type": "single_choice",
+      "text": "How did Joab slay his rival Amasa by the great stone which is in Gibeon?",
+      "options": [
+        {
+          "text": "He challenged him to an open combat before the host of Judah",
+          "explanation": ""
+        },
+        {
+          "text": "He shot a poisoned arrow secretly from behind the trees",
+          "explanation": ""
+        },
+        {
+          "text": "He took him by the beard to kiss him, and smote him with the sword",
+          "explanation": ""
+        },
+        {
+          "text": "He gave him a cup of wine mingled with deadly poison at table",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Samuel 20:8-10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2sam_066",
+      "type": "single_choice",
+      "text": "How was the siege of Abel of Beth-maachah by Joab's army brought to an end?",
+      "options": [
+        {
+          "text": "The men of war broke down the ramparts of the stronghold by night",
+          "explanation": ""
+        },
+        {
+          "text": "A mighty earthquake cast down the stones of the high city wall",
+          "explanation": ""
+        },
+        {
+          "text": "The inhabitants paid ten thousand shekels of silver as a tribute",
+          "explanation": ""
+        },
+        {
+          "text": "A wise woman caused Sheba's head to be thrown over the wall to Joab",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Samuel 20:16-22",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2sam_067",
+      "type": "single_choice",
+      "text": "Why was there a famine of three years in the days of David over Israel?",
+      "options": [
+        {
+          "text": "For Saul, and for his bloody house, because he slew the Gibeonites",
+          "explanation": ""
+        },
+        {
+          "text": "Because the children of Israel withheld their holy tithes from God",
+          "explanation": ""
+        },
+        {
+          "text": "Because of David's sin with Bath-sheba and the blood of Uriah",
+          "explanation": ""
+        },
+        {
+          "text": "Because the priests burned incense to idols upon the high places",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Samuel 21:1-2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2sam_068",
+      "type": "single_choice",
+      "text": "What did the Gibeonites require to make atonement for the blood of Saul's house?",
+      "options": [
+        {
+          "text": "Ten thousand shekels of gold out of the royal treasury in Jerusalem",
+          "explanation": ""
+        },
+        {
+          "text": "That seven men of Saul's sons be delivered unto them to be hanged",
+          "explanation": ""
+        },
+        {
+          "text": "That all cities of the tribe of Benjamin be delivered into their hand",
+          "explanation": ""
+        },
+        {
+          "text": "A yearly sacrifice of an hundred bullocks before the tabernacle",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Samuel 21:5-6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2sam_069",
+      "type": "single_choice",
+      "text": "How did Saul's concubine Rizpah watch over the bodies of her sons that were hanged?",
+      "options": [
+        {
+          "text": "She compassed them with an hundred armed warriors of Benjamin",
+          "explanation": ""
+        },
+        {
+          "text": "She built a strong stone sepulchre over the bodies upon the rock",
+          "explanation": ""
+        },
+        {
+          "text": "She spread sackcloth upon the rock and kept off birds and beasts",
+          "explanation": ""
+        },
+        {
+          "text": "She made great mourning seven days, anointing the bones with myrrh",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Samuel 21:10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "2sam_070",
+      "type": "single_choice",
+      "text": "Which punishment did David choose after the numbering of the people by Joab?",
+      "options": [
+        {
+          "text": "Seven years of famine in the whole land",
+          "explanation": ""
+        },
+        {
+          "text": "Three months to flee before his enemies",
+          "explanation": ""
+        },
+        {
+          "text": "The loss of his royal crown and kingdom",
+          "explanation": ""
+        },
+        {
+          "text": "Three days pestilence by the hand of the LORD",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Samuel 24:12-15",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2sam_071",
+      "type": "single_choice",
+      "text": "With what words did David sit before the LORD after Nathan's prophecy?",
+      "options": [
+        {
+          "text": "Who am I, O Lord GOD? and what is my house, that thou hast brought me hitherto?",
+          "explanation": ""
+        },
+        {
+          "text": "Mine own wisdom and right hand have gotten me this kingdom over all the house of Israel",
+          "explanation": ""
+        },
+        {
+          "text": "I will straightway cause the cedars of Lebanon to be cut down for the building of God",
+          "explanation": ""
+        },
+        {
+          "text": "Let all nations of the earth bow down before me and bring their tribute into Zion",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Samuel 7:18-20",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2sam_074",
+      "type": "single_choice",
+      "text": "How did David answer when Shimei cursed him and Abishai sought to slay him?",
+      "options": [
+        {
+          "text": "He commanded Joab to shoot him through with an arrow",
+          "explanation": ""
+        },
+        {
+          "text": "He demanded a trial by lot by the waters of Jordan",
+          "explanation": ""
+        },
+        {
+          "text": "He held his peace for fear of a tumult among Benjamin",
+          "explanation": ""
+        },
+        {
+          "text": "Let him curse, because the LORD hath said unto him, Curse",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Samuel 16:10-12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2sam_075",
+      "type": "single_choice",
+      "text": "With what words does David praise the LORD at the beginning of his song of thanksgiving?",
+      "options": [
+        {
+          "text": "The LORD is my rock, and my fortress, and my deliverer",
+          "explanation": ""
+        },
+        {
+          "text": "The LORD is a terrible judge over all the kings of the earth",
+          "explanation": ""
+        },
+        {
+          "text": "The LORD dasheth in pieces the heathen with a rod of iron",
+          "explanation": ""
+        },
+        {
+          "text": "The LORD dwelleth in the thick darkness above the cherubims",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Samuel 22:2-3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2sam_076",
+      "type": "single_choice",
+      "text": "What testimony does David bear in his song concerning God's way and word?",
+      "options": [
+        {
+          "text": "God's path is shrouded in darkness and His word is hidden",
+          "explanation": ""
+        },
+        {
+          "text": "As for God, his way is perfect; the word of the LORD is tried",
+          "explanation": ""
+        },
+        {
+          "text": "God's holy covenant altereth with every passing generation",
+          "explanation": ""
+        },
+        {
+          "text": "The secret counsel of God is unsearchable unto mortal men",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Samuel 22:31",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2sam_077",
+      "type": "single_choice",
+      "text": "How does David's great psalm of thanksgiving in 2 Samuel 22 conclude?",
+      "options": [
+        {
+          "text": "With the declaration of judgment upon all the ungodly",
+          "explanation": ""
+        },
+        {
+          "text": "With a sacred vow to build the holy temple in Jerusalem",
+          "explanation": ""
+        },
+        {
+          "text": "He sheweth mercy to his anointed, unto David and his seed for ever",
+          "explanation": ""
+        },
+        {
+          "text": "With a bitter curse upon all the adversaries among the heathen",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Samuel 22:51",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2sam_078",
+      "type": "single_choice",
+      "text": "How does David in his last words describe the source of his saying?",
+      "options": [
+        {
+          "text": "He was instructed many years in the schools of prophets",
+          "explanation": ""
+        },
+        {
+          "text": "The wise men of Egypt had taught him the art of songs",
+          "explanation": ""
+        },
+        {
+          "text": "His own understanding devised these holy words in the night",
+          "explanation": ""
+        },
+        {
+          "text": "The Spirit of the LORD spake by me, and his word was in my tongue",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2 Samuel 23:2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2sam_079",
+      "type": "single_choice",
+      "text": "What deed was performed by Eleazar, one of the three mighty men with David?",
+      "options": [
+        {
+          "text": "He smote the Philistines until his hand clave unto the sword",
+          "explanation": ""
+        },
+        {
+          "text": "He swam over the flood of Jordan and brought back ten captives",
+          "explanation": ""
+        },
+        {
+          "text": "He slew an thousand men of war with an ox goad in the valley",
+          "explanation": ""
+        },
+        {
+          "text": "He cast down the champion of Gath with a stone from his sling",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2 Samuel 23:9-10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2sam_080",
+      "type": "single_choice",
+      "text": "Why would David NOT drink of the water of the well of Beth-lehem brought by three mighty men?",
+      "options": [
+        {
+          "text": "Because it was polluted by the horses of the host of Philistines",
+          "explanation": ""
+        },
+        {
+          "text": "Because it was the blood of the men; he poured it out to the LORD",
+          "explanation": ""
+        },
+        {
+          "text": "Because the priest forbade him to taste water before the evening",
+          "explanation": ""
+        },
+        {
+          "text": "Because he had made a solemn vow to drink only of mount Zion",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Samuel 23:16-17",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "2sam_081",
+      "type": "single_choice",
+      "text": "What came upon David after that he had numbered the people?",
+      "options": [
+        {
+          "text": "Great pride in the multitude of valiant men drawing the sword",
+          "explanation": ""
+        },
+        {
+          "text": "Rejoicing that his host was greater than all neighboring kings",
+          "explanation": ""
+        },
+        {
+          "text": "David's heart smote him, and he said: I have sinned greatly",
+          "explanation": ""
+        },
+        {
+          "text": "Fierce wrath against Joab because the numbering was long delayed",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2 Samuel 24:10",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "2sam_082",
+      "type": "single_choice",
+      "text": "Who said unto king David: \"Thou art the man!\" (2 Samuel 12:7)?",
+      "options": [
+        {
+          "text": "Gad the seer",
+          "explanation": ""
+        },
+        {
+          "text": "Nathan the prophet",
+          "explanation": ""
+        },
+        {
+          "text": "Zadok the priest",
+          "explanation": ""
+        },
+        {
+          "text": "Joab the captain",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2 Samuel 12:7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    }
+  ]
+}

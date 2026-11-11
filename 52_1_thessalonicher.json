@@ -25,750 +25,850 @@
     {
       "questionId": "1thess_001",
       "type": "single_choice",
-      "text": "Wer wird neben Paulus und Silvanus als Mitabsender des Briefes genannt?",
+      "text": "Wer wird neben Paulus und Silvanus als Mitabsender genannt (1. Thessalonicher 1:1)?",
       "options": [
         {
           "text": "Lukas aus Antiochia",
-          "explanation": "Das trifft nicht zu. Richtig ist: Timotheus [ref:1. Thessalonicher 1:1]."
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Timotheus",
-          "explanation": "Paulus, Silvanus und Timotheus grüßen die Gemeinde der Thessalonicher in Gott, dem Vater, und dem Herrn Jesus Christus [ref:1. Thessalonicher 1:1]."
+          "text": "Timotheus, der Bruder",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Barnabas aus Jerusalem",
-          "explanation": "Das trifft nicht zu. Richtig ist: Timotheus [ref:1. Thessalonicher 1:1]."
+          "text": "Barnabas aus Zypern",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Silas",
-          "explanation": "Das trifft nicht zu. Richtig ist: Timotheus [ref:1. Thessalonicher 1:1]."
+          "text": "Titus aus Kreta",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "1. Thessalonicher 1:1",
-      "explanation": "Paulus, Silvanus und Timotheus grüßen die Gemeinde der Thessalonicher in Gott, dem Vater, und dem Herrn Jesus Christus [ref:1. Thessalonicher 1:1].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "1thess_002",
       "type": "single_choice",
-      "text": "Welche drei geistlichen Tugenden rühmt Paulus im Gebet für die Gemeinde?",
+      "text": "Welche drei Dinge rühmt Paulus im Gebet für die Gemeinde (1. Thessalonicher 1:3)?",
       "options": [
         {
-          "text": "Weisheit, Wohlstand und Klugheit, die der Gemeinde Ansehen verschafft haben",
-          "explanation": "Das trifft nicht zu. Richtig ist: Das Werk des Glaubens, die Arbeit der Liebe und die Geduld der Hoffnung [ref:1. Thessalonicher 1:3]."
+          "text": "Weisheit, Wohlstand und Klugheit, die der Gemeinde hohes Ansehen brachten",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Fasten, Gebet und Opfer, die die Gemeinde mit Eifer geübt hat",
-          "explanation": "Das trifft nicht zu. Richtig ist: Das Werk des Glaubens, die Arbeit der Liebe und die Geduld der Hoffnung [ref:1. Thessalonicher 1:3]."
+          "text": "Fasten, Gebet und Opfergaben, die die Gläubigen mit großem Eifer taten",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Das Werk des Glaubens, die Arbeit der Liebe und die Geduld der Hoffnung",
-          "explanation": "Wir gedenken ohne Unterlass vor unserem Gott und Vater an euer Werk im Glauben und eure Arbeit in der Liebe und eure Geduld in der Hoffnung [ref:1. Thessalonicher 1:3]."
+          "text": "Das Werk des Glaubens, die Liebesarbeit und das Beharren in der Hoffnung",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Demut, Sanftmut und Zucht, die ihren Wandel unter den Heiden prägten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Das Werk des Glaubens, die Arbeit der Liebe und die Geduld der Hoffnung [ref:1. Thessalonicher 1:3]."
+          "text": "Demut, Sanftmut und Zucht, die ihren Wandel unter den Völkern auszeichneten",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "1. Thessalonicher 1:3",
-      "explanation": "Wir gedenken ohne Unterlass vor unserem Gott und Vater an euer Werk im Glauben und eure Arbeit in der Liebe und eure Geduld in der Hoffnung [ref:1. Thessalonicher 1:3].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "1thess_003",
       "type": "single_choice",
-      "text": "Wie kam das Evangelium nach den Worten des Paulus zu den Thessalonichern?",
+      "text": "Wie kam das Evangelium nach 1. Thessalonicher 1:5 zu den Gläubigen?",
       "options": [
         {
           "text": "Nur in bloßen menschlichen Worten, ohne Kraft und Gewissheit",
-          "explanation": "Das trifft nicht zu. Richtig ist: In Kraft und im Heiligen Geist und in großer Gewissheit [ref:1. Thessalonicher 1:5]."
+          "explanation": "",
+          "isCorrect": false
         },
         {
           "text": "Durch die Gesetze Roms, die den Glauben im Land verbreiteten",
-          "explanation": "Das trifft nicht zu. Richtig ist: In Kraft und im Heiligen Geist und in großer Gewissheit [ref:1. Thessalonicher 1:5]."
+          "explanation": "",
+          "isCorrect": false
         },
         {
           "text": "Durch die Träume der Weisen, die den Menschen zuteil wurden",
-          "explanation": "Das trifft nicht zu. Richtig ist: In Kraft und im Heiligen Geist und in großer Gewissheit [ref:1. Thessalonicher 1:5]."
+          "explanation": "",
+          "isCorrect": false
         },
         {
           "text": "In Kraft und im Heiligen Geist und in großer Gewissheit",
-          "explanation": "Unser Evangelium kam zu euch nicht allein im Wort, sondern auch in Kraft und im Heiligen Geist [ref:1. Thessalonicher 1:5]."
+          "explanation": "",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "1. Thessalonicher 1:5",
-      "explanation": "Unser Evangelium kam zu euch nicht allein im Wort, sondern auch in Kraft und im Heiligen Geist [ref:1. Thessalonicher 1:5].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "1thess_004",
       "type": "single_choice",
-      "text": "Welchen radikalen Schritt vollzogen die Thessalonicher bei ihrer Bekehrung?",
+      "text": "Welchen Schritt vollzogen die Thessalonicher bei ihrer Bekehrung (1:9)?",
       "options": [
         {
-          "text": "Sie bekehrten sich von den Götzen zu Gott, dem lebendigen und wahren",
-          "explanation": "Sie haben sich bekehrt zu Gott von den Götzen, um dem lebendigen und wahren Gott zu dienen [ref:1. Thessalonicher 1:9]."
+          "text": "Sie bekehrten sich von den Götzen zu dem lebendigen und wahren Gott",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Sie wanderten in ein fremdes Land aus und ließen ihre Häuser zurück",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie bekehrten sich von den Götzen zu Gott, dem lebendigen und wahren [ref:1. Thessalonicher 1:9]."
+          "text": "Sie wanderten in ein fernes Land aus und verließen ihre Besitztümer",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Sie bauten einen neuen Tempel und weihten ihn dem wahren Gott",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie bekehrten sich von den Götzen zu Gott, dem lebendigen und wahren [ref:1. Thessalonicher 1:9]."
+          "text": "Sie bauten einen prachtvollen Tempel und weihten ihn dem Herrn ein",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Sie gaben ihr Gold den Armen und lebten fortan in Armut",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie bekehrten sich von den Götzen zu Gott, dem lebendigen und wahren [ref:1. Thessalonicher 1:9]."
+          "text": "Sie verteilten ihr gesamtes Gold und lebten fortan in stiller Armut",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         0
       ],
-      "bibleReference": "1. Thessalonicher 1:9",
-      "explanation": "Sie haben sich bekehrt zu Gott von den Götzen, um dem lebendigen und wahren Gott zu dienen [ref:1. Thessalonicher 1:9].",
+      "bibleReference": "1. Thessalonicher 1:9-10",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "1thess_005",
       "type": "single_choice",
-      "text": "Auf wen warten die Bekehrten voller Hoffnung aus den Himmeln herab?",
+      "text": "Auf wen warten die Gläubigen nach 1. Thessalonicher 1:10 aus dem Himmel?",
       "options": [
         {
-          "text": "Auf einen neuen König Israels, der das Reich aufrichtet und Frieden bringt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Auf seinen Sohn Jesus aus dem Himmel, der uns von dem zukünftigen Zorn errettet [ref:1. Thessalonicher 1:10]."
+          "text": "Auf die Wiederherstellung des irdischen Reiches der Könige in Zion",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Auf seinen Sohn Jesus aus dem Himmel, der uns von dem zukünftigen Zorn errettet",
-          "explanation": "Sie warten auf seinen Sohn vom Himmel, den er auferweckt hat von den Toten, Jesus, der uns von dem zukünftigen Zorn errettet [ref:1. Thessalonicher 1:10]."
+          "text": "Auf seinen Sohn vom Himmel, der uns vor dem zukünftigen Zorn errettet",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Auf den Wiederaufbau des Tempels, der das Volk Gottes aus allen Ländern sammelt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Auf seinen Sohn Jesus aus dem Himmel, der uns von dem zukünftigen Zorn errettet [ref:1. Thessalonicher 1:10]."
+          "text": "Auf das Erscheinen der Engel, die über alle Völker der Erde richten",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Auf die Befreiung von aller Not und Bedrängnis, die die Gläubigen drückt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Auf seinen Sohn Jesus aus dem Himmel, der uns von dem zukünftigen Zorn errettet [ref:1. Thessalonicher 1:10]."
+          "text": "Auf einen neuen römischen Kaiser, der den Christen Frieden bringt",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "1. Thessalonicher 1:10",
-      "explanation": "Sie warten auf seinen Sohn vom Himmel, den er auferweckt hat von den Toten, Jesus, der uns von dem zukünftigen Zorn errettet [ref:1. Thessalonicher 1:10].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "1thess_006",
       "type": "single_choice",
-      "text": "Wo hatten Paulus und seine Begleiter zuvor gelitten, ehe sie nach Thessalonich kamen?",
+      "text": "Wo hatten Paulus und seine Begleiter zuvor gelitten (1. Thessalonicher 2:2)?",
       "options": [
         {
           "text": "In Korinth",
-          "explanation": "Das trifft nicht zu. Richtig ist: In Philippi [ref:1. Thessalonicher 2:2]."
+          "explanation": "",
+          "isCorrect": false
         },
         {
           "text": "In Ephesus",
-          "explanation": "Das trifft nicht zu. Richtig ist: In Philippi [ref:1. Thessalonicher 2:2]."
+          "explanation": "",
+          "isCorrect": false
         },
         {
           "text": "In Philippi",
-          "explanation": "Wir hatten zuvor in Philippi gelitten und waren misshandelt worden, wie ihr wisst [ref:1. Thessalonicher 2:2]."
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Auf Kreta",
-          "explanation": "Das trifft nicht zu. Richtig ist: In Philippi [ref:1. Thessalonicher 2:2]."
+          "text": "In Damaskus",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "1. Thessalonicher 2:2",
-      "explanation": "Wir hatten zuvor in Philippi gelitten und waren misshandelt worden, wie ihr wisst [ref:1. Thessalonicher 2:2].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "1thess_007",
       "type": "single_choice",
-      "text": "Wie begegneten die Verkündiger den Thessalonichern im täglichen Dienst?",
+      "text": "Wie benahmen sich die Apostel nach 1. Thessalonicher 2:7 in der Gemeinde?",
       "options": [
         {
-          "text": "Mit harter Strenge wie Richter, die über Schuld und Unschuld urteilen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Liebevoll, wie eine Amme ihre eigenen Kinder pflegt [ref:1. Thessalonicher 2:7-8]."
+          "text": "Mit herrschender Strenge, wie Fürsten über Untertanen gebieten",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Mit der Sucht nach Ehre wie Herrscher, die sich feiern lassen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Liebevoll, wie eine Amme ihre eigenen Kinder pflegt [ref:1. Thessalonicher 2:7-8]."
+          "text": "Mit kalter Zurückhaltung, um keinen Anstoß im Volk zu erregen",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Mit der Forderung nach Geld wie Händler, die ihren Lohn verlangen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Liebevoll, wie eine Amme ihre eigenen Kinder pflegt [ref:1. Thessalonicher 2:7-8]."
+          "text": "Mit lauter Klage, weil der Dienst so viel Mühe und Schmerz trug",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Liebevoll, wie eine Amme ihre eigenen Kinder pflegt",
-          "explanation": "Wir sind mild unter euch gewesen, gleichwie eine Amme ihre eigenen Kinder pflegt [ref:1. Thessalonicher 2:7-8]."
+          "text": "Liebevoll, wie eine stillende Mutter ihre eigenen Kinder pflegt",
+          "explanation": "",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "1. Thessalonicher 2:7-8",
-      "explanation": "Wir sind mild unter euch gewesen, gleichwie eine Amme ihre eigenen Kinder pflegt [ref:1. Thessalonicher 2:7-8].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "1thess_008",
       "type": "single_choice",
-      "text": "Warum arbeiteten Paulus und seine Begleiter Nacht und Tag mit ihren Händen?",
+      "text": "Warum arbeiteten die Apostel Tag und Nacht (1. Thessalonicher 2:9)?",
       "options": [
         {
-          "text": "Um niemandem zur Last zu fallen",
-          "explanation": "Wir arbeiteten Tag und Nacht, um niemandem von euch zur Last zu fallen, und haben euch das Evangelium Gottes gepredigt [ref:1. Thessalonicher 2:9]."
+          "text": "Um niemandem von euch zur Last zu fallen",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Um reich zu werden",
-          "explanation": "Das trifft nicht zu. Richtig ist: Um niemandem zur Last zu fallen [ref:1. Thessalonicher 2:9]."
+          "text": "Weil die Gemeinde keine Gaben geben wollte",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Weil das Gesetz Moses es befahl",
-          "explanation": "Das trifft nicht zu. Richtig ist: Um niemandem zur Last zu fallen [ref:1. Thessalonicher 2:9]."
+          "text": "Um reiche Schätze auf dieser Erde zu häufen",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Weil die Bürger sie dazu zwangen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Um niemandem zur Last zu fallen [ref:1. Thessalonicher 2:9]."
+          "text": "Weil ihnen das Predigen am Tage verboten war",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "1. Thessalonicher 2:9",
-      "explanation": "Wir arbeiteten Tag und Nacht, um niemandem von euch zur Last zu fallen, und haben euch das Evangelium Gottes gepredigt [ref:1. Thessalonicher 2:9].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "1thess_009",
       "type": "single_choice",
-      "text": "Als was empfingen die Thessalonicher das von Paulus verkündigte Wort?",
+      "text": "Als was nahmen die Thessalonicher das Wort auf (1. Thessalonicher 2:13)?",
       "options": [
         {
-          "text": "Als kluge Philosophie der Weisen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Als Gottes Wort, wie es in Wahrheit ist [ref:1. Thessalonicher 2:13]."
+          "text": "Als weise Philosophie der griechischen Redner",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Als Gottes Wort, wie es in Wahrheit ist",
-          "explanation": "Ihr habt das Wort der Predigt von uns empfangen nicht als Menschenwort, sondern als das, was es in Wahrheit ist, als Gottes Wort [ref:1. Thessalonicher 2:13]."
+          "text": "Nicht als Menschenwort, sondern als Gottes Wort",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Als ein neues römisches Gesetz",
-          "explanation": "Das trifft nicht zu. Richtig ist: Als Gottes Wort, wie es in Wahrheit ist [ref:1. Thessalonicher 2:13]."
+          "text": "Als ein neues bürgerliches Gesetz der Römer",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Als ein Gedicht der Dichter",
-          "explanation": "Das trifft nicht zu. Richtig ist: Als Gottes Wort, wie es in Wahrheit ist [ref:1. Thessalonicher 2:13]."
+          "text": "Als menschliche Dichtung der alten Vorfahren",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "1. Thessalonicher 2:13",
-      "explanation": "Ihr habt das Wort der Predigt von uns empfangen nicht als Menschenwort, sondern als das, was es in Wahrheit ist, als Gottes Wort [ref:1. Thessalonicher 2:13].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "1thess_010",
       "type": "single_choice",
-      "text": "Wer verhinderte nach den Worten des Paulus seine beabsichtigte Rückreise zu ihnen?",
+      "text": "Wer verhinderte die Reise des Paulus nach 1. Thessalonicher 2:18?",
       "options": [
         {
-          "text": "Der Statthalter der Provinz",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der Satan hat uns verhindert [ref:1. Thessalonicher 2:18]."
+          "text": "Der römische Statthalter",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Die Hohenpriester im Tempel",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der Satan hat uns verhindert [ref:1. Thessalonicher 2:18]."
+          "text": "Ein schwerer Seesturm",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Der Satan hat uns verhindert",
-          "explanation": "Wir wollten zu euch kommen, ich, Paulus, einmal und abermals; aber der Satan hat uns gehindert [ref:1. Thessalonicher 2:18]."
+          "text": "Der Satan hat sie gehindert",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Ein starker Sturm auf dem Meer",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der Satan hat uns verhindert [ref:1. Thessalonicher 2:18]."
+          "text": "Ein Mangel an Reisekosten",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "1. Thessalonicher 2:18",
-      "explanation": "Wir wollten zu euch kommen, ich, Paulus, einmal und abermals; aber der Satan hat uns gehindert [ref:1. Thessalonicher 2:18].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "1thess_011",
       "type": "single_choice",
-      "text": "Wo blieb Paulus allein zurück, als er Timotheus nach Thessalonich sandte?",
+      "text": "Wo blieb Paulus allein zurück nach 1. Thessalonicher 3:1?",
       "options": [
         {
-          "text": "In Rom",
-          "explanation": "Das trifft nicht zu. Richtig ist: In Athen [ref:1. Thessalonicher 3:1-2]."
+          "text": "In der Stadt Rom",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "In Korinth",
-          "explanation": "Das trifft nicht zu. Richtig ist: In Athen [ref:1. Thessalonicher 3:1-2]."
+          "text": "In Korinth am Meer",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "In Jerusalem",
-          "explanation": "Das trifft nicht zu. Richtig ist: In Athen [ref:1. Thessalonicher 3:1-2]."
+          "text": "In Jerusalem in Not",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "In Athen",
-          "explanation": "Wir beschlossen, in Athen allein zurückzubleiben, und sandten Timotheus, unseren Bruder und Mitarbeiter, zu euch [ref:1. Thessalonicher 3:1-2]."
+          "text": "Allein in Athen",
+          "explanation": "",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "1. Thessalonicher 3:1-2",
-      "explanation": "Wir beschlossen, in Athen allein zurückzubleiben, und sandten Timotheus, unseren Bruder und Mitarbeiter, zu euch [ref:1. Thessalonicher 3:1-2].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "1thess_012",
       "type": "single_choice",
-      "text": "Zu welchem Zweck wurde Timotheus zu der bedrängten Gemeinde gesandt?",
+      "text": "Wozu wurde Timotheus gesandt nach 1. Thessalonicher 3:2?",
       "options": [
         {
-          "text": "Um sie im Glauben zu stärken und zu ermutigen",
-          "explanation": "Wir sandten Timotheus, um euch zu stärken und zu ermahnen in eurem Glauben [ref:1. Thessalonicher 3:2-3]."
+          "text": "Um sie zu stärken und zu ermahnen wegen ihres Glaubens",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Um Geld für die Armen zu sammeln und nach Jerusalem zu senden",
-          "explanation": "Das trifft nicht zu. Richtig ist: Um sie im Glauben zu stärken und zu ermutigen [ref:1. Thessalonicher 3:2-3]."
+          "text": "Um eine große Geldsammlung für Jerusalem aufzunehmen",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Um die Ältesten abzusetzen und neue Leiter einzusetzen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Um sie im Glauben zu stärken und zu ermutigen [ref:1. Thessalonicher 3:2-3]."
+          "text": "Um neue Älteste gegen den Rat der Apostel einzusetzen",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Um neue Gesetze vorzulesen und die Gemeinde zu ordnen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Um sie im Glauben zu stärken und zu ermutigen [ref:1. Thessalonicher 3:2-3]."
+          "text": "Um die Gemeinde vor dem Zorn des Kaisers zu warnen",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "1. Thessalonicher 3:2-3",
-      "explanation": "Wir sandten Timotheus, um euch zu stärken und zu ermahnen in eurem Glauben [ref:1. Thessalonicher 3:2-3].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "1thess_013",
       "type": "single_choice",
-      "text": "Welche frohe Botschaft brachte Timotheus von seinem Besuch bei der Gemeinde mit?",
+      "text": "Welche Nachricht brachte Timotheus nach 1. Thessalonicher 3:6 mit?",
       "options": [
         {
-          "text": "Bericht von ihrem großen Reichtum und der Fülle ihrer Gaben",
-          "explanation": "Das trifft nicht zu. Richtig ist: Gute Nachricht von ihrem Glauben und ihrer Liebe [ref:1. Thessalonicher 3:6-7]."
+          "text": "Dass die Behörden die Gemeinde reichlich unterstützt haben",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Gute Nachricht von ihrem Glauben und ihrer Liebe",
-          "explanation": "Timotheus hat uns die gute Botschaft von eurem Glauben und eurer Liebe gebracht [ref:1. Thessalonicher 3:6-7]."
+          "text": "Die gute Nachricht von ihrem Glauben und ihrer Liebe",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Kunde von der Flucht vor den Römern und dem Verlust der Häuser",
-          "explanation": "Das trifft nicht zu. Richtig ist: Gute Nachricht von ihrem Glauben und ihrer Liebe [ref:1. Thessalonicher 3:6-7]."
+          "text": "Dass alle Verfolger beschämt aus der Stadt flohen",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Zusage zum Bau eines Hauses für die Gemeinde in der Stadt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Gute Nachricht von ihrem Glauben und ihrer Liebe [ref:1. Thessalonicher 3:6-7]."
+          "text": "Dass die Gemeinde ein großes irdisches Haus gebaut hatte",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "1. Thessalonicher 3:6-7",
-      "explanation": "Timotheus hat uns die gute Botschaft von eurem Glauben und eurer Liebe gebracht [ref:1. Thessalonicher 3:6-7].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "1thess_014",
       "type": "single_choice",
-      "text": "Worum betet Paulus Tag und Nacht mit großer Sehnsucht für die Thessalonicher?",
+      "text": "Worum fleht Paulus Tag und Nacht nach 1. Thessalonicher 3:10?",
       "options": [
         {
-          "text": "Dass sie reich werden und es ihnen an nichts fehlt im Leben",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ihr Angesicht zu sehen und zu ergänzen, was an ihrem Glauben fehlt [ref:1. Thessalonicher 3:10]."
+          "text": "Reiche Schätze von ihnen zur Unterstützung des Dienstes zu empfangen",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Dass sie der Mühsal entfliehen und bald in den Himmel eingehen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ihr Angesicht zu sehen und zu ergänzen, was an ihrem Glauben fehlt [ref:1. Thessalonicher 3:10]."
+          "text": "Dass der Kaiser ihnen hohe Ehrenämter in der Stadt zuerkennen möge",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Ihr Angesicht zu sehen und zu ergänzen, was an ihrem Glauben fehlt",
-          "explanation": "Wir bitten Tag und Nacht aufs Dringendste, dass wir euer Angesicht sehen und ergänzen, was an eurem Glauben mangelt [ref:1. Thessalonicher 3:10]."
+          "text": "Ihr Angesicht zu sehen und die Mängel des Glaubens zu ergänzen",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Dass der Kaiser sie schützt und ihnen Frieden im Reich gewährt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ihr Angesicht zu sehen und zu ergänzen, was an ihrem Glauben fehlt [ref:1. Thessalonicher 3:10]."
+          "text": "Dass sie von allen Anfechtungen dieser Weltzeit befreit werden",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "1. Thessalonicher 3:10",
-      "explanation": "Wir bitten Tag und Nacht aufs Dringendste, dass wir euer Angesicht sehen und ergänzen, was an eurem Glauben mangelt [ref:1. Thessalonicher 3:10].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "1thess_015",
       "type": "single_choice",
-      "text": "Was soll der Herr in den Herzen der Glaubenden vor Seiner Wiederkunft mehren?",
+      "text": "Worin soll der Herr die Gläubigen überströmend machen (1. Thessalonicher 3:12)?",
       "options": [
         {
-          "text": "Die Zahl der Häuser",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Liebe zueinander und zu allen [ref:1. Thessalonicher 3:12-13]."
+          "text": "Den irdischen Reichtum an Gütern",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Das Wissen der Philosophie",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Liebe zueinander und zu allen [ref:1. Thessalonicher 3:12-13]."
+          "text": "Die Furcht vor menschlicher Macht",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Die Macht über die Völker",
-          "explanation": "Das trifft nicht zu. Richtig ist: Die Liebe zueinander und zu allen [ref:1. Thessalonicher 3:12-13]."
+          "text": "Das Streben nach weltlicher Ehre",
+          "explanation": "",
+          "isCorrect": false
         },
         {
           "text": "Die Liebe zueinander und zu allen",
-          "explanation": "Euch aber lasse der Herr wachsen und überströmend werden in der Liebe zueinander und zu allen [ref:1. Thessalonicher 3:12-13]."
+          "explanation": "",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "1. Thessalonicher 3:12-13",
-      "explanation": "Euch aber lasse der Herr wachsen und überströmend werden in der Liebe zueinander und zu allen [ref:1. Thessalonicher 3:12-13].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "1thess_016",
       "type": "single_choice",
-      "text": "Was bezeichnet Paulus ausdrücklich als den klaren Willen Gottes für die Glaubenden?",
+      "text": "Was ist der Wille Gottes für Gläubige nach 1. Thessalonicher 4:3?",
       "options": [
         {
           "text": "Eure Heiligung, dass ihr euch der Unzucht enthaltet",
-          "explanation": "Das ist der Wille Gottes, eure Heiligung, dass ihr euch vor der Unzucht hütet [ref:1. Thessalonicher 4:3]."
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Der Erwerb von großem Wohlstand und die Mehrung des Besitzes",
-          "explanation": "Das trifft nicht zu. Richtig ist: Eure Heiligung, dass ihr euch der Unzucht enthaltet [ref:1. Thessalonicher 4:3]."
+          "text": "Dass ihr euch von allen Menschen der Welt abwendet",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Die Teilnahme an römischen Festen und die Pflege der Staatsreligion",
-          "explanation": "Das trifft nicht zu. Richtig ist: Eure Heiligung, dass ihr euch der Unzucht enthaltet [ref:1. Thessalonicher 4:3]."
+          "text": "Dass ihr alle alten Satzungen des Tempels bewahrt",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Das Auswandern in ein einsames Land und der Rückzug aus der Welt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Eure Heiligung, dass ihr euch der Unzucht enthaltet [ref:1. Thessalonicher 4:3]."
+          "text": "Dass ihr täglich opfert und strenge Buße leistet",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "1. Thessalonicher 4:3",
-      "explanation": "Das ist der Wille Gottes, eure Heiligung, dass ihr euch vor der Unzucht hütet [ref:1. Thessalonicher 4:3].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "1thess_017",
       "type": "single_choice",
-      "text": "Wer hat die Glaubenden gelehrt, einander von Herzen zu lieben?",
+      "text": "Wer hat die Gläubigen zur Bruderliebe gelehrt (1. Thessalonicher 4:9)?",
       "options": [
         {
-          "text": "Die Weisen der Schulen haben sie gelehrt, einander zu achten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Gott selbst hat sie gelehrt, einander zu lieben [ref:1. Thessalonicher 4:9]."
+          "text": "Die heidnischen Philosophen in den Schulen der Weisen",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Gott selbst hat sie gelehrt, einander zu lieben",
-          "explanation": "Von der brüderlichen Liebe ist nicht nötig, euch zu schreiben; denn ihr selbst seid von Gott gelehrt, einander zu lieben [ref:1. Thessalonicher 4:9]."
+          "text": "Gott selbst hat sie gelehrt, einander treu zu lieben",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Die römischen Richter haben sie gelehrt, einander gerecht zu sein",
-          "explanation": "Das trifft nicht zu. Richtig ist: Gott selbst hat sie gelehrt, einander zu lieben [ref:1. Thessalonicher 4:9]."
+          "text": "Die römischen Gesetze über Bürgersinn und Eintracht",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Die Philosophen Athens haben sie gelehrt, einander zu schätzen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Gott selbst hat sie gelehrt, einander zu lieben [ref:1. Thessalonicher 4:9]."
+          "text": "Die alten Schriften der Propheten über das Heiligtum",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "1. Thessalonicher 4:9",
-      "explanation": "Von der brüderlichen Liebe ist nicht nötig, euch zu schreiben; denn ihr selbst seid von Gott gelehrt, einander zu lieben [ref:1. Thessalonicher 4:9].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "1thess_018",
       "type": "single_choice",
-      "text": "Welchen Lebenswandel empfiehlt Paulus den Gläubigen bezüglich der eigenen Arbeit?",
+      "text": "Welchen Lebenswandel empfiehlt Paulus in 1. Thessalonicher 4:11?",
       "options": [
         {
-          "text": "Alle Arbeit niederlegen und müßig warten, bis der Herr kommt und alles ordnet",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ein ruhiges Leben führen, das Eigene besorgen und mit den eigenen Händen arbeiten [ref:1. Thessalonicher 4:11-12]."
+          "text": "Von Almosen leben und die Arbeit anderen überlassen, um viel zu beten",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Nur noch im Heiligtum beten und dort den ganzen Tag und die Nacht verbringen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ein ruhiges Leben führen, das Eigene besorgen und mit den eigenen Händen arbeiten [ref:1. Thessalonicher 4:11-12]."
+          "text": "In die Wüste fliehen und auf jede Gemeinschaft mit Menschen verzichten",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Ein ruhiges Leben führen, das Eigene besorgen und mit den eigenen Händen arbeiten",
-          "explanation": "Setzt eure Ehre darein, ein ruhiges Leben zu führen, euer Eigenes zu schaffen und mit euren Händen zu arbeiten [ref:1. Thessalonicher 4:11-12]."
+          "text": "Ein ruhiges Leben führen, das Eigene besorgen und mit den Händen arbeiten",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Fremdes Gut suchen und von der Arbeit anderer leben, ohne selbst Hand anzulegen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Ein ruhiges Leben führen, das Eigene besorgen und mit den eigenen Händen arbeiten [ref:1. Thessalonicher 4:11-12]."
+          "text": "Sich in weltliche Ämter drängen, um Einfluss über die Bürger zu gewinnen",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "1. Thessalonicher 4:11-12",
-      "explanation": "Setzt eure Ehre darein, ein ruhiges Leben zu führen, euer Eigenes zu schaffen und mit euren Händen zu arbeiten [ref:1. Thessalonicher 4:11-12].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "1thess_019",
       "type": "single_choice",
-      "text": "Was geschieht beim Befehlsruf und beim Schall der Posaune Gottes vom Himmel herab?",
+      "text": "Was geschieht beim Befehl und Schall der Posaune Gottes (1. Thessalonicher 4:16)?",
       "options": [
         {
-          "text": "Alle Menschen sterben auf einmal, und die Erde bleibt danach leer und öde zurück",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der Herr kommt selbst vom Himmel herab, und die Toten in Christus werden zuerst auferstehen [ref:1. Thessalonicher 4:16]."
+          "text": "Die irdischen Reiche werden vernichtet und alle Städte in Schutt gelegt",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Die Erde verbrennt sogleich, und die Gläubigen werden in den Himmel entrückt und geborgen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der Herr kommt selbst vom Himmel herab, und die Toten in Christus werden zuerst auferstehen [ref:1. Thessalonicher 4:16]."
+          "text": "Ein neues Weltreich wird aufgerichtet und die Heiligen werden Könige",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Ein neuer Tempel kommt vom Himmel herab, und die Toten in Israel stehen alle auf",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der Herr kommt selbst vom Himmel herab, und die Toten in Christus werden zuerst auferstehen [ref:1. Thessalonicher 4:16]."
+          "text": "Die Engel richten sofort alle Sünder und verbannen sie für alle Zeit",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Der Herr kommt selbst vom Himmel herab, und die Toten in Christus werden zuerst auferstehen",
-          "explanation": "Der Herr selbst wird mit einem Befehlsruf, mit der Stimme des Erzengels und der Posaune Gottes vom Himmel herabkommen, und die Toten in Christus werden zuerst auferstehen [ref:1. Thessalonicher 4:16]."
+          "text": "Der Herr kommt vom Himmel herab, und die Toten in Christus erstehen zuerst",
+          "explanation": "",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "1. Thessalonicher 4:16",
-      "explanation": "Der Herr selbst wird mit einem Befehlsruf, mit der Stimme des Erzengels und der Posaune Gottes vom Himmel herabkommen, und die Toten in Christus werden zuerst auferstehen [ref:1. Thessalonicher 4:16].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "1thess_020",
       "type": "single_choice",
-      "text": "Wohin werden die lebenden und auferweckten Gläubigen dem Herrn entgegen gerissen?",
+      "text": "Wohin werden die Gläubigen entrückt nach 1. Thessalonicher 4:17?",
       "options": [
         {
-          "text": "In Wolken, dem Herrn entgegen in die Luft",
-          "explanation": "Danach werden wir, die wir leben und übrig bleiben, zugleich mit ihnen entrückt werden in Wolken, dem Herrn entgegen in die Luft [ref:1. Thessalonicher 4:17]."
+          "text": "In Wolken, zur Begegnung mit dem Herrn in die Luft",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Auf den Berg Sinai, wo einst das Gesetz gegeben wurde",
-          "explanation": "Das trifft nicht zu. Richtig ist: In Wolken, dem Herrn entgegen in die Luft [ref:1. Thessalonicher 4:17]."
+          "text": "In den Tempel zu Jerusalem vor den Thron Gottes",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Nach Jerusalem, wo der Herr seinen Thron aufrichtet",
-          "explanation": "Das trifft nicht zu. Richtig ist: In Wolken, dem Herrn entgegen in die Luft [ref:1. Thessalonicher 4:17]."
+          "text": "Auf den Berg Sinai, um das Gesetz neu zu hören",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Auf die Inseln im Meer, wo sie vor dem Gericht sicher sind",
-          "explanation": "Das trifft nicht zu. Richtig ist: In Wolken, dem Herrn entgegen in die Luft [ref:1. Thessalonicher 4:17]."
+          "text": "In die Höhlen der Erde, um vor dem Zorn zu fliehen",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "1. Thessalonicher 4:17",
-      "explanation": "Danach werden wir, die wir leben und übrig bleiben, zugleich mit ihnen entrückt werden in Wolken, dem Herrn entgegen in die Luft [ref:1. Thessalonicher 4:17].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "1thess_021",
       "type": "single_choice",
-      "text": "Wie überrascht der Tag des Herrn die unbewusste und schlafende Weltzeit?",
+      "text": "Wie kommt der Tag des Herrn nach 1. Thessalonicher 5:2?",
       "options": [
         {
-          "text": "Wie ein König mit großem Gefolge",
-          "explanation": "Das trifft nicht zu. Richtig ist: Wie ein Dieb in der Nacht [ref:1. Thessalonicher 5:2-3]."
+          "text": "Mit lautem Donnerhall",
+          "explanation": "",
+          "isCorrect": false
         },
         {
           "text": "Wie ein Dieb in der Nacht",
-          "explanation": "Der Tag des Herrn wird kommen wie ein Dieb in der Nacht [ref:1. Thessalonicher 5:2-3]."
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Wie ein Regenguss im Sommer",
-          "explanation": "Das trifft nicht zu. Richtig ist: Wie ein Dieb in der Nacht [ref:1. Thessalonicher 5:2-3]."
+          "text": "Nach langer Vorwarnung",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Wie ein Läufer mit einer Botschaft",
-          "explanation": "Das trifft nicht zu. Richtig ist: Wie ein Dieb in der Nacht [ref:1. Thessalonicher 5:2-3]."
+          "text": "Am helllichten Mittag",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "1. Thessalonicher 5:2-3",
-      "explanation": "Der Tag des Herrn wird kommen wie ein Dieb in der Nacht [ref:1. Thessalonicher 5:2-3].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "1thess_022",
       "type": "single_choice",
-      "text": "Welcher Kategorie gehören die Glaubenden im Gegensatz zu den Menschen der Nacht an?",
+      "text": "Wer sind die Gläubigen nach 1. Thessalonicher 5:5?",
       "options": [
         {
-          "text": "Sie sind Kinder des alten Gesetzes und Erben der Väter",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie sind Kinder des Lichts und Kinder des Tages [ref:1. Thessalonicher 5:5]."
+          "text": "Sie sind Diener des Buchstabens und des Gesetzes",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Sie sind Bürger der Stadt Rom und Untertanen des Kaisers",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie sind Kinder des Lichts und Kinder des Tages [ref:1. Thessalonicher 5:5]."
+          "text": "Sie sind Herrscher der Erde und Richter der Welt",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Sie sind Kinder des Lichts und Kinder des Tages",
-          "explanation": "Ihr alle seid Söhne des Lichts und Söhne des Tages; wir gehören nicht der Nacht noch der Finsternis [ref:1. Thessalonicher 5:5]."
+          "text": "Sie sind Söhne des Lichts und Söhne des Tages",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Sie sind Meister der Kunst und Lehrer der Weisheit",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie sind Kinder des Lichts und Kinder des Tages [ref:1. Thessalonicher 5:5]."
+          "text": "Sie sind Kinder der Furcht und Söhne der Nacht",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "1. Thessalonicher 5:5",
-      "explanation": "Ihr alle seid Söhne des Lichts und Söhne des Tages; wir gehören nicht der Nacht noch der Finsternis [ref:1. Thessalonicher 5:5].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "1thess_023",
       "type": "single_choice",
-      "text": "Welche geistlichen Rüstungsteile sollen die Nüchternen zum Schutz anlegen?",
+      "text": "Welche Rüstung sollen die Nüchternen anlegen nach 1. Thessalonicher 5:8?",
       "options": [
         {
-          "text": "Den Helm der Weisheit und den Schild des Goldes vor den Feinden des Glaubens",
-          "explanation": "Das trifft nicht zu. Richtig ist: Den Panzer des Glaubens und der Liebe und als Helm die Hoffnung auf das Heil [ref:1. Thessalonicher 5:8]."
+          "text": "Mit dem Helm menschlicher Klugheit und dem silbernen Schild gegen alle Feinde",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Den Gürtel des Gesetzes und die Schuhe des Zorns gegen alle Gegner des Glaubens",
-          "explanation": "Das trifft nicht zu. Richtig ist: Den Panzer des Glaubens und der Liebe und als Helm die Hoffnung auf das Heil [ref:1. Thessalonicher 5:8]."
+          "text": "Mit dem eisernen Panzer des Gesetzes und den festen Schuhen des gerechten Zorns",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Das Schwert des Staates und den Mantel des Ruhmes vor allen Menschen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Den Panzer des Glaubens und der Liebe und als Helm die Hoffnung auf das Heil [ref:1. Thessalonicher 5:8]."
+          "text": "Mit dem weltlichen Schwert des Staates und dem prachtvollen Mantel des Ruhmes",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Den Panzer des Glaubens und der Liebe und als Helm die Hoffnung auf das Heil",
-          "explanation": "Wir aber, die wir dem Tag angehören, wollen nüchtern sein, angetan mit dem Panzer des Glaubens und der Liebe und mit dem Helm der Hoffnung auf das Heil [ref:1. Thessalonicher 5:8]."
+          "text": "Mit dem Panzer des Glaubens und der Liebe und dem Helm der Hoffnung der Rettung",
+          "explanation": "",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "1. Thessalonicher 5:8",
-      "explanation": "Wir aber, die wir dem Tag angehören, wollen nüchtern sein, angetan mit dem Panzer des Glaubens und der Liebe und mit dem Helm der Hoffnung auf das Heil [ref:1. Thessalonicher 5:8].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "1thess_024",
       "type": "single_choice",
-      "text": "Welche Ermahnung gibt Paulus bezüglich des Heiligen Geistes und der Weissagung?",
+      "text": "Welche Ermahnung gibt Paulus in 1. Thessalonicher 5:19-21?",
       "options": [
         {
-          "text": "Den Geist nicht auslöschen, Weissagungen nicht verachten, alles prüfen und das Gute behalten",
-          "explanation": "Den Geist dämpft nicht, Weissagungen verachtet nicht; prüft aber alles, und das Gute behaltet [ref:1. Thessalonicher 5:19-22]."
+          "text": "Den Geist nicht dämpfen, Weissagungen nicht verachten, alles prüfen und das Gute behalten",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Weissagungen ganz verbieten, den Geist dämpfen und nur das Gesetz Moses bewahren",
-          "explanation": "Das trifft nicht zu. Richtig ist: Den Geist nicht auslöschen, Weissagungen nicht verachten, alles prüfen und das Gute behalten [ref:1. Thessalonicher 5:19-22]."
+          "text": "Weissagungen ganz verbieten, den Geist dämpfen und allein das mosaische Gesetz bewahren",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Alle Träume ungeprüft annehmen und jedem Wort der Propheten blind folgen und glauben",
-          "explanation": "Das trifft nicht zu. Richtig ist: Den Geist nicht auslöschen, Weissagungen nicht verachten, alles prüfen und das Gute behalten [ref:1. Thessalonicher 5:19-22]."
+          "text": "Jeder Weissagung blindlings folgen und ohne alle Prüfung allen Träumen Glauben schenken",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Den Geist nur im Heiligtum zulassen und die Weissagung auf die Priester beschränken",
-          "explanation": "Das trifft nicht zu. Richtig ist: Den Geist nicht auslöschen, Weissagungen nicht verachten, alles prüfen und das Gute behalten [ref:1. Thessalonicher 5:19-22]."
+          "text": "Den Geist nur im Tempel zulassen und Weissagung allein den geweihten Priestern erlauben",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "1. Thessalonicher 5:19-22",
-      "explanation": "Den Geist dämpft nicht, Weissagungen verachtet nicht; prüft aber alles, und das Gute behaltet [ref:1. Thessalonicher 5:19-22].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "1thess_025",
       "type": "single_choice",
-      "text": "Welche drei Teile des Menschen sollen bei der Ankunft Jesu untadelig bewahrt werden?",
+      "text": "Welche drei Teile des Wesens nennt Paulus in 1. Thessalonicher 5:23?",
       "options": [
         {
-          "text": "Kopf, Hände und Füße",
-          "explanation": "Das trifft nicht zu. Richtig ist: Geist, Seele und Leib [ref:1. Thessalonicher 5:23]."
+          "text": "Die Hände, die Füße und das Haupt",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Geist, Seele und Leib",
-          "explanation": "Er selbst aber, der Gott des Friedens, heilige euch ganz und gar, und euer Geist, Seele und Leib werde untadelig bewahrt bis zur Ankunft unseres Herrn Jesus Christus [ref:1. Thessalonicher 5:23]."
+          "text": "Der Geist, die Seele und der Leib",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Verstand, Wille und Gefühl",
-          "explanation": "Das trifft nicht zu. Richtig ist: Geist, Seele und Leib [ref:1. Thessalonicher 5:23]."
+          "text": "Das Wollen, das Fühlen und Denken",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Glaube, Werke und Worte",
-          "explanation": "Das trifft nicht zu. Richtig ist: Geist, Seele und Leib [ref:1. Thessalonicher 5:23]."
+          "text": "Die Werke, der Glaube und die Tat",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "1. Thessalonicher 5:23",
-      "explanation": "Er selbst aber, der Gott des Friedens, heilige euch ganz und gar, und euer Geist, Seele und Leib werde untadelig bewahrt bis zur Ankunft unseres Herrn Jesus Christus [ref:1. Thessalonicher 5:23].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     }

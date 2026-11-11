@@ -1,0 +1,364 @@
+{
+  "metadata": {
+    "quizId": "bibel_31_obadja_en",
+    "title": "Obadiah",
+    "subtitle": "Obadiah 1:1–21 (10 questions)",
+    "description": "Questions on the Book of Obadiah according to the King James Version (1769).",
+    "author": "King James Version (1769)",
+    "version": "1.0.0",
+    "language": "en",
+    "category": "propheten",
+    "difficulty": "medium",
+    "tags": [
+      "Obadiah",
+      "OT",
+      "prophets",
+      "KJV"
+    ],
+    "questionCount": 10,
+    "canonicalBookNumber": 31,
+    "testament": "OT"
+  },
+  "questions": [
+    {
+      "questionId": "ob_001",
+      "type": "single_choice",
+      "text": "Concerning which people is the vision of Obadiah in Obadiah 1:1?",
+      "options": [
+        {
+          "text": "Concerning Moab",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Concerning Edom",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Concerning Ammon",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Concerning Syria",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Obadiah 1:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "ob_002",
+      "type": "single_choice",
+      "text": "How does Obadiah 1:4 describe the pride of Edom?",
+      "options": [
+        {
+          "text": "Though thou be mightier than all nations, yet will I bring thee down",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Though thou dwell securely upon high rocks, yet will I bring thee down",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Though thou exalt thyself as the eagle, thence will I bring thee down",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Though thou be richer than all earthly kings, yet will I bring thee down",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Obadiah 1:4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "ob_003",
+      "type": "single_choice",
+      "text": "What promise is given in Obadiah 1:17, 21 concerning mount Zion?",
+      "options": [
+        {
+          "text": "Upon mount Moriah shall be lasting peace, and the kingdom shall be the LORD's",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In all the land of Canaan shall be safety, and the kingdom shall be the LORD's",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Among all heathen nations shall be repentance, and the kingdom be the LORD's",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Upon mount Zion shall be deliverance, and the kingdom shall be the LORD’s",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Obadiah 1:17-21",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ob_004",
+      "type": "single_choice",
+      "text": "Where did Edom dwell in pride according to Obadiah 1:3?",
+      "options": [
+        {
+          "text": "In the clefts of the rock, whose habitation is high",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "In tents of the wilderness, by springs of water",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In the isles of the sea, in stately cedar houses",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In the plains of Jordan, within fenced strong cities",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Obadiah 1:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "ob_005",
+      "type": "single_choice",
+      "text": "What does Obadiah 1:7 declare concerning Edom's confederates?",
+      "options": [
+        {
+          "text": "They have brought thee to the border and deceived thee before thou knowest",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "They send thee rich succour and defend all thy high mountain fortresses",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They depart peacefully away and confirm an everlasting solemn covenant",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They remain faithful unto thee and fight valiantly at thy right hand",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Obadiah 1:7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ob_006",
+      "type": "single_choice",
+      "text": "What does Obadiah 1:11-12 charge against Edom in the day of his brother's calamity?",
+      "options": [
+        {
+          "text": "He sent ambassadors to Jerusalem, yet they tarried and gave no assistance",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He stood on the other side as strangers and rejoiced over the children of Judah",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He took captive the refugees of Judah and delivered them up to foreign kings",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He hid himself in secret places and mourned with the afflicted people of God",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Obadiah 1:11-12",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ob_007",
+      "type": "single_choice",
+      "text": "What is near upon all the heathen according to Obadiah 1:15?",
+      "options": [
+        {
+          "text": "The judgment of the king",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The salvation of all people",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The day of the LORD",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The covenant of peace",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Obadiah 1:15",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "ob_008",
+      "type": "single_choice",
+      "text": "What principle of judgment is pronounced in Obadiah 1:15?",
+      "options": [
+        {
+          "text": "Whosoever judgeth himself shall never be condemned by any other judge",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As the fathers have transgressed, so shall the children bear punishment",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Whatsoever a man soweth in this world, that shall he reap sevenfold",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As thou hast done, it shall be done unto thee: thy reward upon thine head",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Obadiah 1:15",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ob_009",
+      "type": "single_choice",
+      "text": "To what are the house of Jacob, Joseph, and Esau compared in Obadiah 1:18?",
+      "options": [
+        {
+          "text": "Jacob a fire, Joseph a flame, and Esau for stubble",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Jacob a lion, Joseph an eagle, and Esau for a worm",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Jacob a river, Joseph a fountain, and Esau a desert",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Jacob a rock, Joseph a fortress, and Esau as dust",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Obadiah 1:18",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "ob_010",
+      "type": "single_choice",
+      "text": "Whose shall the kingdom be in the end according to Obadiah 1:21?",
+      "options": [
+        {
+          "text": "It shall be of the house of Joseph",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The kingdom shall be the LORD’s",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "It shall be of the house of Jacob",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It shall be of the children of Israel",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Obadiah 1:21",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    }
+  ]
+}

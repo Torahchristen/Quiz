@@ -21,30 +21,34 @@
     {
       "questionId": "ob_001",
       "type": "single_choice",
-      "text": "Welches Brudervolk wird im Buch Obadja gerichtet?",
+      "text": "Über welches Volk ergeht das Gesicht Obadjas in Obadja 1:1?",
       "options": [
         {
-          "text": "Moab",
-          "explanation": "Das steht so nicht an dieser Stelle [ref:Obadja 1:1]."
+          "text": "Über Moab",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Edom",
-          "explanation": "Das Gesicht Obadjas: So spricht der Herr HERR von Edom [ref:Obadja 1:1]."
+          "text": "Über Edom",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Ammon",
-          "explanation": "Das steht so nicht an dieser Stelle [ref:Obadja 1:1]."
+          "text": "Über Ammon",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Philistäa",
-          "explanation": "Das steht so nicht an dieser Stelle [ref:Obadja 1:1]."
+          "text": "Über Aram",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Obadja 1:1",
-      "explanation": "Das Gesicht Obadjas: So spricht der Herr HERR von Edom [ref:Obadja 1:1].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
@@ -54,57 +58,65 @@
       "text": "Wie beschreibt Obadja 1:4 den Hochmut Edoms?",
       "options": [
         {
-          "text": "Du bist stärker als alle Völker, darum stürze ich dich herab",
-          "explanation": "Das trifft nicht zu. Richtig ist: Wenn du dein Nest hoch wie ein Adler bautest, will ich dich herunterstürzen [ref:Obadja 1:4]."
+          "text": "Wenn du auch mächtiger wärest als alle Völker, will ich dich doch herunterstürzen",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Du wohnst sicher hinter mächtigen Mauern, darum stürze ich dich herab",
-          "explanation": "Das trifft nicht zu. Richtig ist: Wenn du dein Nest hoch wie ein Adler bautest, will ich dich herunterstürzen [ref:Obadja 1:4]."
+          "text": "Wenn du auch sicher auf hohen Felsen thronest, will ich dich doch herunterstürzen",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Wenn du dein Nest hoch wie ein Adler bautest, will ich dich herunterstürzen",
-          "explanation": "Wenn du gleich in die Höhe führest wie ein Adler und machtest dein Nest zwischen den Sternen, dennoch will ich dich von dannen herunterstürzen, spricht der HERR [ref:Obadja 1:4]."
+          "text": "Wenn du gleich in die Höhe führest wie ein Adler, will ich dich herunterstürzen",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Du bist reicher als Israel, darum stürze ich dich herab",
-          "explanation": "Das trifft nicht zu. Richtig ist: Wenn du dein Nest hoch wie ein Adler bautest, will ich dich herunterstürzen [ref:Obadja 1:4]."
+          "text": "Wenn du auch reicher wärest als alle Könige, will ich dich doch herunterstürzen",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Obadja 1:4",
-      "explanation": "Wenn du gleich in die Höhe führest wie ein Adler und machtest dein Nest zwischen den Sternen, dennoch will ich dich von dannen herunterstürzen, spricht der HERR [ref:Obadja 1:4].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "ob_003",
       "type": "single_choice",
-      "text": "Welche Verheißung gibt Obadja 1:17-21?",
+      "text": "Welche Verheißung gibt Obadja 1:17.21 für den Berg Zion?",
       "options": [
         {
-          "text": "Der Tempel wird neu gebaut werden, und das Königtum gehört dem HERRN",
-          "explanation": "Das trifft nicht zu. Richtig ist: Auf dem Berg Zion wird Errettung sein, und das Reich wird des HERRN sein [ref:Obadja 1:17-21]."
+          "text": "Auf dem heiligen Berge Morija wird Friede sein, und das Reich gehört dem HERRN",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Edom wird Israel dienen müssen, und das Reich gehört allein dem HERRN",
-          "explanation": "Das trifft nicht zu. Richtig ist: Auf dem Berg Zion wird Errettung sein, und das Reich wird des HERRN sein [ref:Obadja 1:17-21]."
+          "text": "Im ganzen Lande Kanaan wird Sicherheit sein, und das Reich gehört dem HERRN",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Das Land wird wieder fruchtbar werden, und das Reich gehört dem HERRN",
-          "explanation": "Das trifft nicht zu. Richtig ist: Auf dem Berg Zion wird Errettung sein, und das Reich wird des HERRN sein [ref:Obadja 1:17-21]."
+          "text": "Unter allen Völkern der Erde wird Buße sein, und das Reich gehört dem HERRN",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Auf dem Berg Zion wird Errettung sein, und das Reich wird des HERRN sein",
-          "explanation": "Aber auf dem Berge Zion wird Errettung sein, und der Berg wird heilig sein; und das Reich wird des HERRN sein [ref:Obadja 1:17-21]."
+          "text": "Auf dem Berge Zion wird eine Errettung sein, und das Reich wird des HERRN sein",
+          "explanation": "",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Obadja 1:17-21",
-      "explanation": "Aber auf dem Berge Zion wird Errettung sein, und der Berg wird heilig sein; und das Reich wird des HERRN sein [ref:Obadja 1:17-21].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -114,87 +126,99 @@
       "text": "Wo wohnte Edom nach Obadja 1:3 in seinem Hochmut?",
       "options": [
         {
-          "text": "In den Klüften der Felsen, in hohen Schlössern",
-          "explanation": "Der Hochmut deines Herzens hat dich betrogen, weil du in der Felsen Klüften wohnst, in deinen hohen Schlössern, und sprichst in deinem Herzen: Wer will mich zu Boden stoßen? [ref:Obadja 1:3]."
+          "text": "In der Felsen Klüften, in seinen hohen Schlössern",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "In den Zelten der Wüste, an Brunnen und Weiden",
-          "explanation": "Das trifft nicht zu. Richtig ist: In den Klüften der Felsen, in hohen Schlössern [ref:Obadja 1:3]."
+          "text": "In den Zelten der Wüste, an den frischen Quellen",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Auf den Inseln des Meeres, in Häusern aus Zedernholz",
-          "explanation": "Das trifft nicht zu. Richtig ist: In den Klüften der Felsen, in hohen Schlössern [ref:Obadja 1:3]."
+          "text": "Auf den Inseln im Meere, in Palästen aus Zedern",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "In den Tälern am Jordan, in ummauerten Städten",
-          "explanation": "Das trifft nicht zu. Richtig ist: In den Klüften der Felsen, in hohen Schlössern [ref:Obadja 1:3]."
+          "text": "In den Tälern am Jordan, in befestigten Städten",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Obadja 1:3",
-      "explanation": "Der Hochmut deines Herzens hat dich betrogen, weil du in der Felsen Klüften wohnst, in deinen hohen Schlössern, und sprichst in deinem Herzen: Wer will mich zu Boden stoßen? [ref:Obadja 1:3].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "ob_005",
       "type": "single_choice",
-      "text": "Was geschieht nach Obadja 1:7 mit den Bundesgenossen Edoms?",
+      "text": "Was kündigt Obadja 1:7 über die Bundesgenossen Edoms an?",
       "options": [
         {
-          "text": "Sie stoßen Edom zum Land hinaus und verraten es, ehe es das merkt",
-          "explanation": "Alle deine eigenen Bundesgenossen werden dich zum Lande hinausstoßen; die Leute, auf die du deinen Trost setztest, werden dich betrügen und überwältigen; die dein Brot essen, werden dich verraten, ehe du es merken wirst. [ref:Obadja 1:7]."
+          "text": "Sie stoßen es zum Lande hinaus und verraten es, ehe es das merkt",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Sie schicken ihm Brot und Wein und stärken seine Festungen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie stoßen Edom zum Land hinaus und verraten es, ehe es das merkt [ref:Obadja 1:7]."
+          "text": "Sie senden ihm reiche Hilfe und verteidigen alle seine Festungen",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Sie ziehen sich schweigend zurück und lassen Edom in Ruhe",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie stoßen Edom zum Land hinaus und verraten es, ehe es das merkt [ref:Obadja 1:7]."
+          "text": "Sie ziehen sich friedlich zurück und schließen einen neuen Bund",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Sie halten ihm bis zuletzt die Treue und kämpfen an seiner Seite",
-          "explanation": "Das trifft nicht zu. Richtig ist: Sie stoßen Edom zum Land hinaus und verraten es, ehe es das merkt [ref:Obadja 1:7]."
+          "text": "Sie halten ihm unverbrüchlich die Treue und kämpfen an seiner Hand",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Obadja 1:7",
-      "explanation": "Alle deine eigenen Bundesgenossen werden dich zum Lande hinausstoßen; die Leute, auf die du deinen Trost setztest, werden dich betrügen und überwältigen; die dein Brot essen, werden dich verraten, ehe du es merken wirst. [ref:Obadja 1:7].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "ob_006",
       "type": "single_choice",
-      "text": "Was wirft Obadja 1:11-12 Edom für den Tag von Jerusalems Unglück vor?",
+      "text": "Was wirft Obadja 1:11-12 Edom zur Zeit des Unglücks seines Bruders vor?",
       "options": [
         {
-          "text": "Es sandte Hilfe an Jerusalem, doch sie kam zu spät und richtete nichts aus",
-          "explanation": "Das trifft nicht zu. Richtig ist: Es stand dabei wie einer der Fremden und freute sich am Elend seines Bruders [ref:Obadja 1:11-12]."
+          "text": "Es sandte Gesandte nach Jerusalem, doch sie kamen zu spät und halfen nicht",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Es stand dabei wie einer der Fremden und freute sich am Elend seines Bruders",
-          "explanation": "Zu der Zeit, da du wider ihn standest, da die Fremden sein Heer gefangen wegführten und Ausländer zu seinen Toren einzogen und über Jerusalem das Los warfen, da warst du gleich wie deren einer. [ref:Obadja 1:11-12]."
+          "text": "Es stand dabei wie die Fremden und freute sich über den Jammer seines Bruders",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Es nahm die Flüchtlinge Judas auf und verbarg sie in seinen Städten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Es stand dabei wie einer der Fremden und freute sich am Elend seines Bruders [ref:Obadja 1:11-12]."
+          "text": "Es nahm die Flüchtigen Judas gefangen und lieferte sie an fremde Könige aus",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Es hielt sich schweigend fern und trauerte mit dem Volk der Juden",
-          "explanation": "Das trifft nicht zu. Richtig ist: Es stand dabei wie einer der Fremden und freute sich am Elend seines Bruders [ref:Obadja 1:11-12]."
+          "text": "Es hielt sich heimlich verborgen und trauerte mit dem betrübten Volke Juda",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Obadja 1:11-12",
-      "explanation": "Zu der Zeit, da du wider ihn standest, da die Fremden sein Heer gefangen wegführten und Ausländer zu seinen Toren einzogen und über Jerusalem das Los warfen, da warst du gleich wie deren einer. [ref:Obadja 1:11-12].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
@@ -204,117 +228,133 @@
       "text": "Was ist nach Obadja 1:15 nahe über alle Heiden?",
       "options": [
         {
-          "text": "Das Jubeljahr des HERRN",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der Tag des HERRN [ref:Obadja 1:15]."
+          "text": "Das Gericht des Königs",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Das Laubhüttenfest der Völker",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der Tag des HERRN [ref:Obadja 1:15]."
+          "text": "Das Heil aller Völker",
+          "explanation": "",
+          "isCorrect": false
         },
         {
           "text": "Der Tag des HERRN",
-          "explanation": "Denn der Tag des HERRN ist nahe über alle Heiden. Wie du getan hast, soll dir wieder geschehen; und wie du verdient hast, so soll dir's wieder auf deinen Kopf kommen. [ref:Obadja 1:15]."
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Das große Sühnefest der Heiden",
-          "explanation": "Das trifft nicht zu. Richtig ist: Der Tag des HERRN [ref:Obadja 1:15]."
+          "text": "Der Bund des Friedens",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Obadja 1:15",
-      "explanation": "Denn der Tag des HERRN ist nahe über alle Heiden. Wie du getan hast, soll dir wieder geschehen; und wie du verdient hast, so soll dir's wieder auf deinen Kopf kommen. [ref:Obadja 1:15].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "ob_008",
       "type": "single_choice",
-      "text": "Nach welchem Grundsatz wird Edom nach Obadja 1:15 gerichtet?",
+      "text": "Welcher Grundsatz des Gerichts wird in Obadja 1:15 ausgesprochen?",
       "options": [
         {
-          "text": "Wer sich selbst richtet, wird von keinem anderen gerichtet",
-          "explanation": "Das trifft nicht zu. Richtig ist: Wie du getan hast, soll dir wieder geschehen [ref:Obadja 1:15]."
+          "text": "Wer sich selbst richtet, der wird von keinem fremden Richter gerichtet",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Wie die Väter gesündigt haben, so sollen die Söhne büßen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Wie du getan hast, soll dir wieder geschehen [ref:Obadja 1:15]."
+          "text": "Wie die Väter gesündigt haben, so müssen die Kinder dafür Buße tun",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Was du gesät hast, wirst du siebenfältig wieder ernten",
-          "explanation": "Das trifft nicht zu. Richtig ist: Wie du getan hast, soll dir wieder geschehen [ref:Obadja 1:15]."
+          "text": "Was ein Mensch sät in dieser Welt, das wird er siebenfältig ernten",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Wie du getan hast, soll dir wieder geschehen",
-          "explanation": "Denn der Tag des HERRN ist nahe über alle Heiden. Wie du getan hast, soll dir wieder geschehen; und wie du verdient hast, so soll dir's wieder auf deinen Kopf kommen. [ref:Obadja 1:15]."
+          "text": "Wie du getan hast, soll dir wieder auf deinen eigenen Kopf kommen",
+          "explanation": "",
+          "isCorrect": true
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Obadja 1:15",
-      "explanation": "Denn der Tag des HERRN ist nahe über alle Heiden. Wie du getan hast, soll dir wieder geschehen; und wie du verdient hast, so soll dir's wieder auf deinen Kopf kommen. [ref:Obadja 1:15].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "ob_009",
       "type": "single_choice",
-      "text": "Womit werden nach Obadja 1:18 das Haus Jakob, das Haus Joseph und das Haus Esau verglichen?",
+      "text": "Womit werden nach Obadja 1:18 das Haus Jakob, Joseph und Esau verglichen?",
       "options": [
         {
           "text": "Jakob ein Feuer, Joseph eine Flamme, Esau Stroh",
-          "explanation": "Und das Haus Jakob soll ein Feuer werden und das Haus Joseph eine Flamme, aber das Haus Esau Stroh; das werden sie anzünden und verzehren, daß dem Hause Esau nichts übrigbleibe; denn der HERR hat's geredet. [ref:Obadja 1:18]."
+          "explanation": "",
+          "isCorrect": true
         },
         {
           "text": "Jakob ein Löwe, Joseph ein Adler, Esau ein Wurm",
-          "explanation": "Das trifft nicht zu. Richtig ist: Jakob ein Feuer, Joseph eine Flamme, Esau Stroh [ref:Obadja 1:18]."
+          "explanation": "",
+          "isCorrect": false
         },
         {
           "text": "Jakob ein Strom, Joseph eine Quelle, Esau Wüste",
-          "explanation": "Das trifft nicht zu. Richtig ist: Jakob ein Feuer, Joseph eine Flamme, Esau Stroh [ref:Obadja 1:18]."
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Jakob ein Fels, Joseph eine Burg, Esau Sand",
-          "explanation": "Das trifft nicht zu. Richtig ist: Jakob ein Feuer, Joseph eine Flamme, Esau Stroh [ref:Obadja 1:18]."
+          "text": "Jakob ein Fels, Joseph eine Burg, Esau Staub",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Obadja 1:18",
-      "explanation": "Und das Haus Jakob soll ein Feuer werden und das Haus Joseph eine Flamme, aber das Haus Esau Stroh; das werden sie anzünden und verzehren, daß dem Hause Esau nichts übrigbleibe; denn der HERR hat's geredet. [ref:Obadja 1:18].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "ob_010",
       "type": "single_choice",
-      "text": "Wem gehört am Ende nach Obadja 1:21 das Königreich?",
+      "text": "Wessen wird das Königreich am Ende nach Obadja 1:21 sein?",
       "options": [
         {
-          "text": "Dem Haus Joseph, das Ephraim besitzt",
-          "explanation": "Das trifft nicht zu. Richtig ist: Dem HERRN allein [ref:Obadja 1:21]."
+          "text": "Es wird des Hauses Joseph",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Dem HERRN allein",
-          "explanation": "Und es werden Heilande heraufkommen auf den Berg Zion, das Gebirge Esau zu richten; und das Königreich wird des HERRN sein. [ref:Obadja 1:21]."
+          "text": "Es wird des HERRN sein",
+          "explanation": "",
+          "isCorrect": true
         },
         {
-          "text": "Dem Haus Jakob, das Esau besiegt hat",
-          "explanation": "Das trifft nicht zu. Richtig ist: Dem HERRN allein [ref:Obadja 1:21]."
+          "text": "Es wird des Hauses Jakob",
+          "explanation": "",
+          "isCorrect": false
         },
         {
-          "text": "Den Philistern, die im Tiefland wohnen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Dem HERRN allein [ref:Obadja 1:21]."
+          "text": "Es wird der Kinder Israel",
+          "explanation": "",
+          "isCorrect": false
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Obadja 1:21",
-      "explanation": "Und es werden Heilande heraufkommen auf den Berg Zion, das Gebirge Esau zu richten; und das Königreich wird des HERRN sein. [ref:Obadja 1:21].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     }

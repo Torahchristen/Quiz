@@ -1,0 +1,196 @@
+{
+  "metadata": {
+    "quizId": "nt_26_judas_alle_kapitel_en",
+    "title": "Jude",
+    "subtitle": "Jude 1:1 – 1:25 (5 questions)",
+    "author": "King James Version (1769)",
+    "version": "2.3.0",
+    "language": "en",
+    "category": "nt",
+    "difficulty": "medium",
+    "tags": [
+      "Jude",
+      "New Testament",
+      "General Epistles",
+      "Warning",
+      "Apostasy",
+      "Faith",
+      "King James Version"
+    ],
+    "questionCount": 5,
+    "canonicalBookNumber": 65,
+    "testament": "NT"
+  },
+  "questions": [
+    {
+      "questionId": "jud_001",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "How doth Jude describe himself in the greeting of Jude 1:1?",
+      "bibleReference": "Jude 1:1",
+      "correctAnswers": [
+        1
+      ],
+      "options": [
+        {
+          "text": "The son of patriarch Jacob, and a servant of God",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The servant of Jesus Christ, and brother of James",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The kinsman of Peter, and a minister of our Lord",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The brother of John, and an apostle of our Lord",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "jud_002",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "To what doth Jude exhort believers in Jude 1:3?",
+      "bibleReference": "Jude 1:3",
+      "correctAnswers": [
+        2
+      ],
+      "options": [
+        {
+          "text": "That they erect new houses of assembly across the land",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That they renew all ceremonial statutes of the fathers",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That ye should earnestly contend for the holy faith",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "That they ransom every prisoner with temporal riches",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "jud_003",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Who durst not bring a railing accusation in Jude 1:9?",
+      "bibleReference": "Jude 1:9",
+      "correctAnswers": [
+        3
+      ],
+      "options": [
+        {
+          "text": "Gabriel the archangel",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Raphael the archangel",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Angel of the covenant",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Michael the archangel",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "jud_004",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Which three names are cited in warning in Jude 1:11?",
+      "bibleReference": "Jude 1:11",
+      "correctAnswers": [
+        0
+      ],
+      "options": [
+        {
+          "text": "Cain, Balaam, and Core",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Esau, Pharaoh, Balak",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Dathan, Abiram, Haman",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Saul, Doeg, and Gehazi",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "jud_005",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Who prophesied of the coming of the Lord with his saints (Jude 1:14)?",
+      "bibleReference": "Jude 1:14-15",
+      "correctAnswers": [
+        1
+      ],
+      "options": [
+        {
+          "text": "Noah, a preacher of righteousness",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Enoch also, the seventh from Adam",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Melchisedec, the priest of God",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Abraham, the friend of the Lord",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    }
+  ]
+}

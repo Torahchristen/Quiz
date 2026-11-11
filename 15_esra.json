@@ -21,900 +21,900 @@
     {
       "questionId": "esr_001",
       "type": "single_choice",
-      "text": "Welcher persische König erließ das historische Edikt zur Rückkehr und zum Tempelbau?",
+      "text": "Welcher persische König ließ durch sein ganzes Königreich ausrufen, dem HERRN ein Haus zu Jerusalem zu bauen?",
       "options": [
         {
-          "text": "Darius der Meder, der die Verwaltung Babylons neu gliederte",
-          "explanation": "Darius bestätigte das Dekret erst Jahrzehnte später [ref:Esra 1:1]."
+          "text": "König Darius, der die Verwaltung des Reiches neu ordnete",
+          "explanation": ""
         },
         {
-          "text": "Artaxerxes, der Herrscher aus der königlichen Winterresidenz Susa",
-          "explanation": "Artaxerxes sandte später Esra und Nehemia aus [ref:Esra 1:1]."
+          "text": "König Arthahsastha, der in der königlichen Burg zu Susa regierte",
+          "explanation": ""
         },
         {
-          "text": "Ahasveros, der Regent über einhundertsiebenundzwanzig Provinzen",
-          "explanation": "Ahasveros regierte in den Tagen der Königin Esther [ref:Esra 1:1]."
+          "text": "König Ahasveros, der Herrscher über viele Provinzen Asiens",
+          "explanation": ""
         },
         {
-          "text": "Kyrus, der König von Persien",
-          "explanation": "Kyrus erließ im ersten Regierungsjahr das Heimkehrer-Dekret [ref:Esra 1:1-3]."
+          "text": "König Kores in Persien, der den Ruf im ganzen Reich erließ",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Esra 1:1-3",
-      "explanation": "Im ersten Jahr des Kyrus erweckte der HERR dessen Geist, das historische Edikt zur Heimkehr und zum Tempelbau in Jerusalem zu erlassen [ref:Esra 1:1-3].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "esr_002",
       "type": "single_choice",
-      "text": "Was gab König Kyrus den heimkehrenden Juden aus den Schatzkammern Babylons zurück?",
+      "text": "Was gab König Kores den Heimkehrern aus den Schatzkammern Babylons heraus?",
       "options": [
         {
-          "text": "Die heiligen Tempelgeräte, die Nebukadnezar aus Jerusalem geraubt hatte",
-          "explanation": "Kyrus lieferte 5.400 Gefäße aus Gold und Silber an Scheschbazar aus [ref:Esra 1:7-11]."
+          "text": "Die Gefäße des Hauses des HERRN, die Nebukadnezar genommen hatte",
+          "explanation": ""
         },
         {
-          "text": "Die ursprünglichen Steintafeln des Bundesgesetzes vom Berge Sinai",
-          "explanation": "Die Gesetzestafeln befanden sich nicht in babylonischen Schatzkammern [ref:Esra 1:7]."
+          "text": "Die ursprünglichen Tafeln des Gesetzes vom heiligen Berg Sinai",
+          "explanation": ""
         },
         {
           "text": "Die elfenbeinernen Thronsessel der früheren Könige von Juda",
-          "explanation": "Es handelte sich um die heiligen Gefäße des Hauses des HERRN [ref:Esra 1:7]."
+          "explanation": ""
         },
         {
           "text": "Die goldenen Waffenrüstungen aus dem königlichen Zeughaus Davids",
-          "explanation": "Kyrus gab die goldenen und silbernen Tempelgeräte heraus [ref:Esra 1:7-11]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Esra 1:7-11",
-      "explanation": "Kyrus gab die heiligen Tempelgeräte heraus, die Nebukadnezar verschleppt hatte; insgesamt 5.400 Gefäße aus Gold und Silber [ref:Esra 1:7-11].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "esr_003",
       "type": "single_choice",
-      "text": "Wer machte sich bereit, nach Jerusalem hinaufzuziehen?",
+      "text": "Wer machte sich bereit, gen Jerusalem hinaufzuziehen zum Tempelbau?",
       "options": [
         {
-          "text": "Ausschließlich die wohlhabenden Großgrundbesitzer aus dem Stamm Juda",
-          "explanation": "Die Heimkehr war eine geistliche Bewegung aller Gläubigen [ref:Esra 1:5]."
+          "text": "Ausschließlich die wohlhabenden Großgrundbesitzer aus Juda",
+          "explanation": ""
         },
         {
-          "text": "Alle, deren Geist Gott erweckte, um das Haus des HERRN aufzubauen",
-          "explanation": "Familienhäupter aus Juda, Benjamin sowie Priester und Leviten zogen auf [ref:Esra 1:5]."
+          "text": "Alle, deren Geist Gott erweckte, das Haus des HERRN zu bauen",
+          "explanation": ""
         },
         {
-          "text": "Nur jene Männer, die sich schriftlich zum Kriegsdienst verpflichteten",
-          "explanation": "Es ging um den gottesdienstlichen Wiederaufbau Zions [ref:Esra 1:5]."
+          "text": "Nur jene Männer, die sich schriftlich zum Kriegsdienst stellten",
+          "explanation": ""
         },
         {
-          "text": "Die babylonischen Baumeister, die Kyrus als Zwangsarbeiter mitsandte",
-          "explanation": "Es waren freiwillige Rückkehrer, deren Geist Gott erweckt hatte [ref:Esra 1:5]."
+          "text": "Die babylonischen Bauleute, die Kores als Gefangene mitsandte",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Esra 1:5",
-      "explanation": "Es machten sich die Häupter der Väter von Juda und Benjamin auf mitsamt den Priestern und Leviten, alle, deren Geist Gott erweckt hatte [ref:Esra 1:5].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "esr_004",
       "type": "single_choice",
-      "text": "Wer führte die erste große Schar der Rückkehrer aus dem babylonischen Exil an?",
+      "text": "Wer führte die erste große Schar der Rückkehrer aus der Gefangenschaft an?",
       "options": [
         {
-          "text": "Der Schriftgelehrte Esra zusammen mit dem Hofbeamten Nehemia",
-          "explanation": "Esra und Nehemia kehrten erst viele Jahre später zurück [ref:Esra 2:2]."
+          "text": "Der Schriftgelehrte Esra mit dem Mundschenk Nehemia",
+          "explanation": ""
         },
         {
-          "text": "Der Prophet Daniel im hohen Alter mit den Gefährten am Hofe",
-          "explanation": "Daniel blieb bis zu seinem Lebensende im persischen Reich [ref:Esra 2:2]."
+          "text": "Der Prophet Daniel mit seinen Gefährten am babylonischen Hofe",
+          "explanation": ""
         },
         {
-          "text": "Serubbabel, der Sohn Schealtiels, und der Hohepriester Jeschua",
-          "explanation": "Serubbabel als fürstlicher Leiter und Jeschua als geistliches Haupt [ref:Esra 2:2]."
+          "text": "Serubabel, der Sohn Sealthiels, und der Priester Jesua",
+          "explanation": ""
         },
         {
           "text": "Mordechai zusammen mit den Boten der jüdischen Königin Esther",
-          "explanation": "Mordechai wirkte in der persischen Residenzstadt Susa [ref:Esra 2:2]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Esra 2:1-2",
-      "explanation": "Serubbabel und Jeschua (Josua) führten die erste Gruppe von Heimkehrern zurück ins Land ihrer Väter [ref:Esra 2:1-2].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "esr_005",
       "type": "single_choice",
-      "text": "Wie viele Personen zählte die gesamte Gemeinde der ersten Heimkehrer?",
+      "text": "Wie viele Personen zählte die ganze Gemeinde der ersten Heimkehrer wie ein Mann?",
       "options": [
         {
-          "text": "Zwölftausend Krieger, ohne Frauen und Kinder",
-          "explanation": "Die Gesamtzahl war weit größer und umfasste die ganze Gemeinde [ref:Esra 2:64]."
+          "text": "Zwölftausend auserlesene Krieger ohne Frauen und Kinder",
+          "explanation": ""
         },
         {
-          "text": "250.000 Menschen aus allen zwölf Stämmen",
-          "explanation": "Diese Zahl ist für die erste Rückkehrwelle viel zu hoch [ref:Esra 2:64]."
+          "text": "Zweihundertundfünfzigtausend Menschen aus allen Stämmen",
+          "explanation": ""
         },
         {
-          "text": "Siebentausend Männer, die alle vom Stamm Levi waren",
-          "explanation": "Es kehrten Angehörige verschiedener Stämme Judas zurück [ref:Esra 2:64]."
+          "text": "Siebentausend Männer, die alle vom heiligen Stamme Levi waren",
+          "explanation": ""
         },
         {
-          "text": "42.360 Personen, ohne die Knechte und Mägde",
-          "explanation": "Genau 42.360 Personen bildeten die Gesamtgemeinde der Rückkehrer [ref:Esra 2:64-65]."
+          "text": "Zweiundvierzigtausend dreihundertundsechzig, ohne Knechte",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Esra 2:64-65",
-      "explanation": "Die ganze Gemeinde zählte 42.360 Personen, ungerechnet ihre 7.337 Knechte und Mägde sowie 200 Sänger und Sängerinnen [ref:Esra 2:64-65].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "esr_006",
       "type": "single_choice",
-      "text": "Warum wurden einige Priestergeschlechter vom Priesteramt ausgeschlossen?",
+      "text": "Warum wurden etliche Priestersöhne vom Priestertum ausgeschlossen?",
       "options": [
         {
-          "text": "Weil ihr Geschlechtsregister fehlte und sie als unrein galten",
-          "explanation": "Ohne nachweisbare Abstammung durften sie nicht vom Allerheiligsten essen [ref:Esra 2:61-63]."
+          "text": "Weil ihr Geschlechtsregister fehlte und sie unrein geachtet wurden",
+          "explanation": ""
         },
         {
-          "text": "Weil sie sich während der Gefangenschaft in Babylon verheiratet hatten",
-          "explanation": "Der Grund war das Fehlen ihres amtlichen Geschlechtsregisters [ref:Esra 2:61-63]."
+          "text": "Weil sie sich während der babylonischen Gefangenschaft verheirateten",
+          "explanation": ""
         },
         {
           "text": "Weil sie sich weigerten, die vorgeschriebenen Opfertiere zu schlachten",
-          "explanation": "Sie galten als unrein, bis ein Priester mit Urim und Tummim aufstände [ref:Esra 2:63]."
+          "explanation": ""
         },
         {
           "text": "Weil sie zu wenig Silber für den Wiederaufbau des Tempels spendeten",
-          "explanation": "Es ging um die heilige Reinheit der Priesterabstammung [ref:Esra 2:61-63]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Esra 2:61-63",
-      "explanation": "Wer sein Geschlechtsregister nicht fand, wurde als unrein vom Priestertum ausgeschlossen, bis ein Hohepriester mit Urim und Tummim entschied [ref:Esra 2:61-63].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "esr_007",
       "type": "single_choice",
-      "text": "Was bauten Jeschua und Serubbabel im siebten Monat als allererstes auf?",
+      "text": "Was bauten Jesua und Serubabel im siebten Monat als allererstes auf?",
       "options": [
         {
           "text": "Die Wehrmauern und Stadttore Jerusalems zum Schutz vor Feinden",
-          "explanation": "Der Gottesdienst hatte absolute Priorität vor den Stadtmauern [ref:Esra 3:2-3]."
+          "explanation": ""
         },
         {
-          "text": "Den Brandopferaltar des Gottes Israels auf seinen alten Grundfesten",
-          "explanation": "Sie opferten Gott zuerst, obwohl Furcht vor Nachbarvölkern herrschte [ref:Esra 3:2-3]."
+          "text": "Den Altar des Gottes Israels, um Brandopfer darauf zu opfern",
+          "explanation": ""
         },
         {
-          "text": "Die königlichen Palastgebäude für die Verwaltung der Provinz",
-          "explanation": "Der Altar wurde noch vor den Mauern und Häusern errichtet [ref:Esra 3:2]."
+          "text": "Die königlichen Palastgebäude für die Verwaltung der Landschaft",
+          "explanation": ""
         },
         {
-          "text": "Ein großes Lagerhaus zur Aufnahme der künftigen Zehntabgaben",
-          "explanation": "Der Brandopferaltar bildete das geistliche Fundament [ref:Esra 3:2-3]."
+          "text": "Ein großes Vorratshaus zur Aufnahme der Getreideabgaben im Lande",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Esra 3:2-3",
-      "explanation": "Sie bauten zuerst den Altar des Gottes Israels auf seinen alten Grundfesten, um Brandopfer darzubringen, wie im Gesetz Mose geschrieben steht [ref:Esra 3:2-3].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "esr_008",
       "type": "single_choice",
-      "text": "Welcher Lobgesang erklang bei der feierlichen Grundsteinlegung des zweiten Tempels?",
+      "text": "Welcher Lobgesang erklang, als die Bauleute den Grund des Tempels des HERRN legten?",
       "options": [
         {
-          "text": "Der HERR ist König über alle Völker und zerschlägt Seine Feinde",
-          "explanation": "Der gesungene Psalm pries Gottes ewige Gnade über Israel [ref:Esra 3:11]."
+          "text": "Der HERR ist König über alle Heiden und zerschlägt Seine Feinde",
+          "explanation": ""
         },
         {
-          "text": "Groß ist der Herrscher Kyrus, der uns die Freiheit geschenkt hat",
-          "explanation": "Das Lob galt allein dem Bundesgott des Himmels [ref:Esra 3:11]."
+          "text": "Groß ist König Kores in Persien, der uns die Freiheit geschenkt hat",
+          "explanation": ""
         },
         {
-          "text": "Denn Er ist gütig, und Seine Gnade währet ewiglich über Israel",
-          "explanation": "Die Leviten lobten und dankten dem HERRN mit diesem Kehrvers [ref:Esra 3:11]."
+          "text": "Denn er ist gütig, und seine Barmherzigkeit währet ewig über Israel",
+          "explanation": ""
         },
         {
-          "text": "Zion soll erwachen und ihre herrlichen Festgewänder anlegen",
-          "explanation": "Sie sangen wechselweise: 'Denn Er ist gütig, und Seine Gnade währet ewiglich' [ref:Esra 3:11]."
+          "text": "Zion soll erwachen und ihre herrlichen Festkleider anziehen im Licht",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Esra 3:11",
-      "explanation": "Die Priester und Leviten stimmten mit Zimbeln und Posaunen an: 'Denn er ist gütig, und seine Gnade währet ewiglich über Israel!' [ref:Esra 3:11].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "esr_009",
       "type": "single_choice",
-      "text": "Warum mischte sich bei der Grundsteinlegung lautes Jubelgeschrei mit bitterem Weinen?",
+      "text": "Warum mischte sich bei der Grundlegung lautes Jauchzen mit lautem Weinen?",
       "options": [
         {
-          "text": "Weil die Feinde aus Samaria bereits die Bauarbeiten mit Waffen angriffen",
-          "explanation": "Die Feinde griffen erst später durch Verleumdungen ein [ref:Esra 3:12-13]."
+          "text": "Weil Feinde aus Samaria bereits die Bauleute mit Waffen angriffen",
+          "explanation": ""
         },
         {
-          "text": "Weil das Bauholz aus dem Libanon auf dem Seeweg verloren ging",
-          "explanation": "Das Holz war bereits unversehrt angeliefert worden [ref:Esra 3:7]."
+          "text": "Weil das Bauholz aus dem Libanon auf dem Meere untergegangen war",
+          "explanation": ""
         },
         {
-          "text": "Weil die Rückkehrer das Geld für die Steinmetze nicht bezahlen konnten",
-          "explanation": "Die Finanzierung war durch königliche und private Mittel gesichert [ref:Esra 3:7]."
+          "text": "Weil die Rückkehrer das Silber für die Maurer nicht aufbringen konnten",
+          "explanation": ""
         },
         {
-          "text": "Weil alte Priester, die Salomos Tempel kannten, laut weinten vor Wehmut",
-          "explanation": "Die Alten weinten über die geringere Pracht, während die Jungen jubelten [ref:Esra 3:12-13]."
+          "text": "Weil viele Alte, die das erste Haus gesehen hatten, laut weinten",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Esra 3:12-13",
-      "explanation": "Viele alte Priester und Familienhäupter, die noch das erste Haus gesehen hatten, weinten laut, während viele andere vor Freude laut jauchzten [ref:Esra 3:12-13].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "esr_010",
       "type": "single_choice",
-      "text": "Wie reagierten Serubbabel und die Ältesten auf das Bau-Angebot der Nachbarvölker?",
+      "text": "Wie antworteten Serubabel und Jesua auf das Bau-Angebot der Widersacher?",
       "options": [
         {
-          "text": "Es steht euch nicht zu, mit uns das Haus unseres Gottes aufzubauen",
-          "explanation": "Klare Absage an eine religiöse Vermischung mit Götzendienern [ref:Esra 4:3]."
+          "text": "Es ziemt sich nicht, dass ihr und wir bauen; wir allein bauen dem HERRN",
+          "explanation": ""
         },
         {
-          "text": "Sie nahmen ihre Bauhilfe dankbar an und teilten die Tempelbezirke auf",
-          "explanation": "Sie wiesen das scheinheilige Angebot entschieden ab [ref:Esra 4:3]."
+          "text": "Sie nahmen die Bauhilfe dankbar an und teilten die Arbeit im Vorhof auf",
+          "explanation": ""
         },
         {
           "text": "Sie verlangten vor dem gemeinsamen Bauen ein hohes Schutzgeld in Silber",
-          "explanation": "Es ging um theologische Reinheit und den Auftrag des Kyrus [ref:Esra 4:3]."
+          "explanation": ""
         },
         {
           "text": "Sie baten den persischen Statthalter um ein Schiedsgericht in Samaria",
-          "explanation": "Serubbabel lehnte jedes Bündnis im Tempelbau strikt ab [ref:Esra 4:3]."
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Esra 4:3",
-      "explanation": "Serubbabel, Jeschua und die Häupter sprachen: 'Es ziemt sich nicht für euch und uns, das Haus unseres Gottes zu bauen; sondern wir allein wollen dem HERRN bauen' [ref:Esra 4:3].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "esr_011",
       "type": "single_choice",
-      "text": "Mit welchem Vorwurf verleumdeten die Widersacher die Juden beim persischen Hof?",
+      "text": "Mit welcher Klage verleumdeten die Widersacher Jerusalem bei König Arthahsastha?",
       "options": [
         {
-          "text": "Die Juden würden heimlich Waffen rüsten für einen bewaffneten Feldzug gegen ganz Persien",
-          "explanation": "Rom spielte in dieser persischen Epoche noch keine Rolle [ref:Esra 4:12-13]."
+          "text": "Die Juden rüsteten heimlich Waffen für einen Feldzug gegen Persien",
+          "explanation": ""
         },
         {
-          "text": "Jerusalem sei eine aufrührerische Stadt; bei Fertigstellung zahle man keine Steuern mehr",
-          "explanation": "Die Widersacher drohten dem König Einnahmeverluste und Aufruhr an [ref:Esra 4:12-13]."
+          "text": "Wird die Stadt gebaut, so geben sie Schoß, Zoll und Zinse nicht mehr",
+          "explanation": ""
         },
         {
-          "text": "Die jüdischen Bauleute hätten die geheiligten Grabstätten der persischen Könige entweiht",
-          "explanation": "Der Vorwurf betraf Verweigerung von Zoll, Steuer und Abgabe [ref:Esra 4:13]."
+          "text": "Die jüdischen Bauleute hätten die alten Grabstätten der Könige entweiht",
+          "explanation": ""
         },
         {
-          "text": "Sie beabsichtigten, den Tempelplatz für heidnische Götzenopfer an fremde Völker zu weihen",
-          "explanation": "Sie warfen ihnen politische Rebellion gegen den Großkönig vor [ref:Esra 4:12-16]."
+          "text": "Sie beabsichtigten, den Tempelplatz für heidnische Götzen zu weihen",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Esra 4:12-13",
-      "explanation": "Die Feinde schrieben, Jerusalem sei von jeher eine aufrührerische Stadt; werde sie gebaut, so würden Zoll, Steuer und Abgabe verweigert [ref:Esra 4:12-13].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "esr_012",
       "type": "single_choice",
-      "text": "Bis zu welchem Zeitpunkt ruhte die Arbeit am Tempelhaus nach dem königlichen Verbot?",
+      "text": "Bis zu welchem Zeitpunkt ruhte die Arbeit am Hause Gottes nach dem königlichen Verbot?",
       "options": [
         {
-          "text": "Bis zum Beginn des großen Feldzuges von König Kyrus gegen die Griechen",
-          "explanation": "Kyrus regierte vor diesem Baustopp [ref:Esra 4:24]."
+          "text": "Bis zum Beginn des Feldzuges von König Kores gegen die Griechen",
+          "explanation": ""
         },
         {
-          "text": "Bis die Mauern der Stadt Samaria durch ein Erdbeben einstürzten",
-          "explanation": "Die Baupause endete durch die Thronbesteigung des Darius [ref:Esra 4:24]."
+          "text": "Bis die Mauern der Stadt Samaria durch ein Erdbeben niederfielen",
+          "explanation": ""
         },
         {
-          "text": "Bis in das zweite Regierungsjahr des Königs Darius von Persien",
-          "explanation": "Unter Darius erging durch prophetische Mahnung der Neuanfang [ref:Esra 4:24]."
+          "text": "Bis in das zweite Jahr der Herrschaft des Königs Darius in Persien",
+          "explanation": ""
         },
         {
-          "text": "Bis der Schriftgelehrte Esra mit einer bewaffneten Leibwache eintraf",
-          "explanation": "Esra kam erst im siebten Jahr des Artaxerxes [ref:Esra 4:24]."
+          "text": "Bis der Priester Esra mit einer bewaffneten Leibwache eintraf",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Esra 4:24",
-      "explanation": "'Da wurde das Werk am Hause Gottes zu Jerusalem eingestellt und blieb eingestellt bis in das zweite Jahr der Herrschaft des Darius, des Königs von Persien' [ref:Esra 4:24].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "esr_013",
       "type": "single_choice",
-      "text": "Welche beiden Propheten traten auf, um den eingestellten Tempelbau neu zu entfachen?",
+      "text": "Welche beiden Propheten weissagten, um den eingestellten Tempelbau neu zu entfachen?",
       "options": [
         {
-          "text": "Die Propheten Haggai und Sacharja, der Sohn Iddos",
-          "explanation": "Sie weissagten im Namen Gottes und ermutigten Leiter und Volk [ref:Esra 5:1-2]."
+          "text": "Haggai der Prophet und Sacharja, der Sohn Iddos",
+          "explanation": ""
         },
         {
-          "text": "Die Propheten Elia und Elisa, die am Jordanufer Buße predigten",
-          "explanation": "Elia und Elisa lebten viele Jahrhunderte früher im Nordreich [ref:Esra 5:1]."
+          "text": "Elia und Elisa, die am Ufer des Jordan predigten",
+          "explanation": ""
         },
         {
-          "text": "Der Prophet Jeremia zusammen mit seinem treuen Schreiber Baruch",
-          "explanation": "Jeremia weissagte vor und zu Beginn des Exils [ref:Esra 5:1]."
+          "text": "Jeremia der Prophet und sein Schreiber Baruch",
+          "explanation": ""
         },
         {
-          "text": "Die Propheten Micha und Habakuk mit neuen Visionen aus Juda",
-          "explanation": "Haggai und Sacharja spornten Serubbabel und Jeschua an [ref:Esra 5:1-2]."
+          "text": "Micha der Morasthiter und der Prophet Habakuk",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Esra 5:1-2",
-      "explanation": "Haggai und Sacharja weissagten den Juden in Juda und Jerusalem; da machten sich Serubbabel und Jeschua auf und fingen wieder an zu bauen [ref:Esra 5:1-2].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "esr_014",
       "type": "single_choice",
-      "text": "Welcher persische Statthalter stellte die Juden wegen des Weiterbaus zur Rede?",
+      "text": "Welcher persische Landpfleger stellte die Ältesten wegen des Bauens zur Rede?",
       "options": [
         {
-          "text": "Sanballat, der Statthalter der benachbarten Provinz Samaria",
-          "explanation": "Sanballat trat später als Gegner Nehemias auf [ref:Esra 5:3]."
+          "text": "Sanballat, der Statthalter der benachbarten Landschaft Samaria",
+          "explanation": ""
         },
         {
-          "text": "Tattenai, der Landpfleger jenseits des Stromes, und Schethar-Bosnai",
-          "explanation": "Sie forderten amtliche Auskunft: 'Wer hat euch Befehl gegeben zu bauen?' [ref:Esra 5:3]."
+          "text": "Thathnai, der Landpfleger jenseits des Wassers, und Sethar-Bosnai",
+          "explanation": ""
         },
         {
-          "text": "Haman, der Agagiter, der oberste Minister des königlichen Hofes",
-          "explanation": "Haman ist die Gestalt aus dem Buch Esther [ref:Esra 5:3]."
+          "text": "Haman, der Agagiter, der oberste Fürst am persischen Königshofe",
+          "explanation": ""
         },
         {
-          "text": "Potiphar, der Befehlshaber der persischen Grenztruppen",
-          "explanation": "Tattenai und seine Gefährten untersuchten den Bau [ref:Esra 5:3-5]."
+          "text": "Potiphar, der königliche Befehlshaber der persischen Grenztruppen",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Esra 5:3",
-      "explanation": "Tattenai, der Landpfleger jenseits des Stromes, und Schethar-Bosnai kamen und sprachen: 'Wer hat euch Befehl gegeben, dieses Haus zu bauen?' [ref:Esra 5:3].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "esr_015",
       "type": "single_choice",
-      "text": "Warum konnte Tattenai den Tempelbau nicht sofort gewaltsam stoppen?",
+      "text": "Warum konnten die persischen Vögte den Tempelbau NICHT sofort gewaltsam einstellen?",
       "options": [
         {
-          "text": "Weil Serubbabel eine starke Leibwache aus persischen Reitern hatte",
-          "explanation": "Die Juden besaßen keine eigene schlagkräftige Armee [ref:Esra 5:5]."
+          "text": "Weil Serubabel eine gewaltige Streitmacht aus Reitern hatte",
+          "explanation": ""
         },
         {
           "text": "Weil die Mauern Jerusalems bereits uneinnehmbar befestigt waren",
-          "explanation": "Es ging um den Tempel, nicht um Festungsmauern [ref:Esra 5:5]."
+          "explanation": ""
         },
         {
           "text": "Weil das Auge ihres Gottes über den Ältesten der Juden wachte",
-          "explanation": "Gottes Vorsehung bewahrte sie, bis der Bericht an Darius ging [ref:Esra 5:5]."
+          "explanation": ""
         },
         {
-          "text": "Weil Tattenai heimlich den jüdischen Glauben angenommen hatte",
-          "explanation": "Gottes schützende Hand verhinderte die Unterbrechung [ref:Esra 5:5]."
+          "text": "Weil Thathnai heimlich den Glauben an den Gott Israels annahm",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Esra 5:5",
-      "explanation": "'Aber das Auge ihres Gottes wachte über den Ältesten der Juden, dass man ihnen nicht wehrte, bis die Sache an Darius gelangte' [ref:Esra 5:5].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "esr_016",
       "type": "single_choice",
-      "text": "Wo fand man die offizielle Urkunde mit dem ursprünglichen Dekret des Kyrus?",
+      "text": "Wo fand man die Schriftrolle mit dem ursprünglichen Erlass des Kores?",
       "options": [
         {
-          "text": "In den königlichen Palastgärten der Stadt Susa am Fluss Ulai",
-          "explanation": "In Susa wurde die Rolle nicht aufgefunden [ref:Esra 6:2]."
+          "text": "In den Palastgärten der königlichen Stadt Susa am Fluss",
+          "explanation": ""
         },
         {
           "text": "In der Bundeslade, die verborgen im Tempel Salomos lag",
-          "explanation": "Die persische Urkunde lag im Archiv des Reiches [ref:Esra 6:2]."
+          "explanation": ""
         },
         {
-          "text": "In den alten Tempelgewölben von Babylon am Euphrat",
-          "explanation": "Man suchte in Babel, fand sie aber in Medien [ref:Esra 6:1-2]."
+          "text": "In den alten Schatzkammern der Stadt Babylon am Strome",
+          "explanation": ""
         },
         {
-          "text": "Im Schloss Achmetha (Ekbatana) in der Provinz Medien",
-          "explanation": "Dort lag die Denkschrift mit dem Erlass des Kyrus [ref:Esra 6:2]."
+          "text": "Im Schlosse zu Achmetha in der Landschaft der Meder",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Esra 6:2",
-      "explanation": "Man fand im Schloss Achmetha in der Provinz Medien eine Schriftrolle, in der die Denkschrift des Kyrus über den Tempelbau verzeichnet war [ref:Esra 6:2].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "esr_017",
       "type": "single_choice",
-      "text": "Was befahl König Darius den Gegnern der Juden in seinem Antwortschreiben?",
+      "text": "Was befahl König Darius den Vögten jenseits des Wassers in seinem Erlass?",
       "options": [
         {
-          "text": "Haltet euch fern, lasst sie bauen und gebt ihnen Ausgaben aus Steuern",
-          "explanation": "Darius schützte den Bau und finanzierte Opfertiere [ref:Esra 6:6-10]."
+          "text": "Tretet zurück, lasst sie bauen und gebt Kosten von den Renten",
+          "explanation": ""
         },
         {
-          "text": "Zieht sofort alle jüdischen Bauarbeiter als Sklaven nach Persien ab",
-          "explanation": "Darius drohte jedem mit Hinrichtung, der das Edikt übertrat [ref:Esra 6:11]."
+          "text": "Führt alle jüdischen Bauleute als Gefangene nach Persien ab",
+          "explanation": ""
         },
         {
-          "text": "Zerstört den Altar und baut stattdessen einen Palast für Tattenai",
-          "explanation": "Er befahl die vollste Unterstützung des Tempelbaus [ref:Esra 6:7-8]."
+          "text": "Zerstört den Altar und baut stattdessen eine Burg für Thathnai",
+          "explanation": ""
         },
         {
-          "text": "Schließt alle Tore Jerusalems und verweigert jede Einfuhr von Holz",
-          "explanation": "Er gebot ihnen, die Kosten aus den Steuereinnahmen zu tragen [ref:Esra 6:8]."
+          "text": "Schließt die Tore Jerusalems und verwehrt jegliche Holzzufuhr",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Esra 6:6-10",
-      "explanation": "Darius gebot Tattenai: Tretet ab von ihnen! Lasst die Arbeit am Hause Gottes gewähren; die Kosten sollen pünktlich aus den königlichen Steuern erstattet werden [ref:Esra 6:6-8].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "esr_018",
       "type": "single_choice",
-      "text": "Wann wurde das Haus Gottes vollendet und wie feierte die Gemeinde die Einweihung?",
+      "text": "Wann ward das Haus Gottes vollendet und wie feierte man die Einweihung?",
       "options": [
         {
-          "text": "Am zehnten Tag des siebten Monats mit einem strengen Fasttag",
-          "explanation": "Die Einweihung war ein Fest überströmender Freude [ref:Esra 6:15-16]."
+          "text": "Am zehnten Tage des siebenten Monats mit einem strengen Fasten",
+          "explanation": ""
         },
         {
-          "text": "Am dritten Tag des Monats Adar im sechsten Regierungsjahr des Darius mit Freuden",
-          "explanation": "Priester, Leviten und Heimkehrer weihten den Tempel mit Festfreude ein [ref:Esra 6:15-16]."
+          "text": "Am dritten Tage des Monats Adar im sechsten Jahre Darius' mit Freude",
+          "explanation": ""
         },
         {
-          "text": "Am ersten Tag des Monats Nisan zur Krönung des Statthalters Serubbabel",
-          "explanation": "Der Tempel wurde am 3. Adar vollendet [ref:Esra 6:15]."
+          "text": "Am ersten Tage des Monats Nisan zur Krönung des Fürsten Serubabel",
+          "explanation": ""
         },
         {
-          "text": "Am Tag des Wochenfestes unter großem Weinen über die geringe Größe",
-          "explanation": "Das trifft nicht zu. Richtig ist: Am dritten Tag des Monats Adar im sechsten Regierungsjahr des Darius mit Freuden [ref:Esra 6:15-16]."
+          "text": "Am Tage des Wochenfestes unter großem Weinen über die geringe Größe",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Esra 6:15-16",
-      "explanation": "Das Haus wurde vollendet am 3. Tage des Monats Adar im 6. Jahr des Darius; und die Kinder Israel feierten die Einweihung des Hauses Gottes mit Freuden [ref:Esra 6:15-16].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "esr_019",
       "type": "single_choice",
-      "text": "Unter welchem persischen Herrscher zog Esra von Babylon nach Jerusalem hinauf?",
+      "text": "Unter welchem persischen Herrscher zog Esra von Babel nach Jerusalem hinauf?",
       "options": [
         {
-          "text": "Unter Kyrus dem Großen gleich nach dem ersten Erlass",
-          "explanation": "Kyrus sandte Serubbabel aus; Esra zog Jahrzehnte später [ref:Esra 7:1]."
+          "text": "Unter Kores dem Großen gleich nach dem allerersten Erlass",
+          "explanation": ""
         },
         {
           "text": "Unter Darius dem Meder im ersten Jahr seiner Statthalterschaft",
-          "explanation": "Darius regierte vor König Artaxerxes [ref:Esra 7:1]."
+          "explanation": ""
         },
         {
-          "text": "Unter König Artaxerxes im siebten Jahr seiner Herrschaft",
-          "explanation": "Esra zog mit königlicher Vollmacht im 7. Jahr des Artaxerxes hinauf [ref:Esra 7:1-7]."
+          "text": "Unter König Arthahsastha im siebenten Jahr seiner Herrschaft",
+          "explanation": ""
         },
         {
-          "text": "Unter Xerxes dem Ersten nach seinem gescheiterten Griechenlandfeldzug",
-          "explanation": "Es geschah unter Artaxerxes (Longimanus) [ref:Esra 7:1]."
+          "text": "Unter Ahasveros nach seinem Feldzuge wider die Griechenlande",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Esra 7:1-7",
-      "explanation": "Esra zog im siebten Jahr des Königs Artaxerxes von Babylon nach Jerusalem hinauf mit einer Gruppe von Israeliten, Priestern und Leviten [ref:Esra 7:1-7].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "esr_020",
       "type": "single_choice",
-      "text": "Welcher berühmte Grundsatz prägte Esras persönliches Leben?",
+      "text": "Welcher Grundsatz zeichnete das gottesfürchtige Leben des Schriftgelehrten Esra aus?",
       "options": [
         {
-          "text": "Er sammelte Waffen und Festungsmaterial zur Sicherung des Landes",
-          "explanation": "Esra widmete sich nicht dem Heer, sondern dem Wort Gottes [ref:Esra 7:10]."
+          "text": "Er sammelte Waffen und Rüstung zur Befestigung der Landschaft",
+          "explanation": ""
         },
         {
-          "text": "Er forderte von allen Heimkehrern strenge Gehorsamsgelübde auf seine Person",
-          "explanation": "Sein ganzes Streben galt der Erforschung von Gottes Geboten [ref:Esra 7:10]."
+          "text": "Er verlangte strenge Eide auf seine Person von allen Heimkehrern",
+          "explanation": ""
         },
         {
-          "text": "Er suchte königliche Ehrenämter am persischen Hof für seine Familie",
-          "explanation": "Er demütigte sich unter das Gesetz des HERRN [ref:Esra 7:10]."
+          "text": "Er suchte weltliche Ehrenämter am persischen Hofe für sein Haus",
+          "explanation": ""
         },
         {
-          "text": "Er richtete sein Herz darauf, das Gesetz zu erforschen, zu tun und zu lehren",
-          "explanation": "Die dreifache Hingabe: Gottes Gesetz erforschen, selbst leben und treu lehren [ref:Esra 7:10]."
+          "text": "Er richtete sein Herz darauf, das Gesetz zu suchen, zu tun und zu lehren",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Esra 7:10",
-      "explanation": "'Denn Esra hatte sein Herz darauf gerichtet, das Gesetz des HERRN zu erforschen und zu tun und in Israel Satzung und Recht zu lehren' [ref:Esra 7:10].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "esr_021",
       "type": "single_choice",
-      "text": "Welche bemerkenswerte Vollmacht erteilte Artaxerxes dem Schriftgelehrten Esra?",
+      "text": "Welche Vollmacht erteilte Arthahsastha dem Schriftgelehrten Esra im Erlass?",
       "options": [
         {
-          "text": "Richter einzusetzen, das Gesetz zu lehren und Ungehorsame zu strafen",
-          "explanation": "Vollmacht zur geistlichen und richterlichen Leitung nach Gottes Gesetz [ref:Esra 7:25-26]."
+          "text": "Richter zu setzen, das Gesetz zu lehren und Ungehorsame zu richten",
+          "explanation": ""
         },
         {
-          "text": "Eine eigene Kriegsflotte im Mittelmeer gegen feindliche Schiffe zu bauen",
-          "explanation": "Der königliche Brief betraf Verwaltung und Rechtsordnung nach der Tora [ref:Esra 7:25]."
+          "text": "Eine Kriegsflotte im Meere wider alle feindlichen Schiffe zu bauen",
+          "explanation": ""
         },
         {
-          "text": "Alle persischen Tempel in der Provinz abzureißen und Gold einzuziehen",
-          "explanation": "Die Vollmacht galt dem Hause des Gottes des Himmels in Jerusalem [ref:Esra 7:21-26]."
+          "text": "Alle heidnischen Altäre abzubrechen und deren Schätze einzuziehen",
+          "explanation": ""
         },
         {
-          "text": "Sich selbst als souveräner König über ganz Juda und Samaria krönen zu lassen",
-          "explanation": "Esra blieb Priester und Schriftgelehrter im persischen Reich [ref:Esra 7:11-26]."
+          "text": "Sich selbst zum König über das ganze Land jenseits des Wassers zu krönen",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Esra 7:25-26",
-      "explanation": "Artaxerxes bevollmächtigte Esra, Richter und Amtleute einzusetzen, das Volk im Gesetz Gottes zu unterweisen und Übertreter gerichtlich zu strafen [ref:Esra 7:25-26].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "esr_022",
       "type": "single_choice",
-      "text": "Was bemerkte Esra bei der Musterung der Versammelten am Fluss Ahava?",
+      "text": "Was bemerkte Esra bei der Musterung des Volkes und der Priester am Fluss Ahawa?",
       "options": [
         {
-          "text": "Dass niemand Waffen oder Schwerter für den Weg mitgenommen hatte",
-          "explanation": "Esra vertraute auf Gottes Schutz, nicht auf Waffen [ref:Esra 8:15]."
+          "text": "Dass niemand Waffen oder Schilde für die Reise mitgenommen hatte",
+          "explanation": ""
         },
         {
-          "text": "Dass sich kein einziger Levit unter den Freiwilligen befand",
-          "explanation": "Es fehlten Diener für den heiligen Tempeldienst [ref:Esra 8:15]."
+          "text": "Dass sich kein einziger von den Kindern Levi unter ihnen befand",
+          "explanation": ""
         },
         {
-          "text": "Dass fast die Hälfte der Männer an schweren Seuchen litt",
-          "explanation": "Der Mangel betraf das geistliche Dienstpersonal der Leviten [ref:Esra 8:15]."
+          "text": "Dass fast die Hälfte der Männer an schweren Seuchen im Lager litt",
+          "explanation": ""
         },
         {
-          "text": "Dass die persischen Boten das königliche Goldsiegel verloren hatten",
-          "explanation": "Esra sandte Boten nach Kasiphia, um Leviten herbeizuholen [ref:Esra 8:15-17]."
+          "text": "Dass die Boten das königliche Handschreiben des Königs verloren hatten",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Esra 8:15",
-      "explanation": "'Und ich musterte das Volk und die Priester, fand aber dort keine von den Kindern Levi' [ref:Esra 8:15]. Daraufhin warb er in Kasiphia Diener für das Gotteshaus an.",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "esr_023",
       "type": "single_choice",
-      "text": "Warum rief Esra am Fluss Ahava ein Fasten aus, anstatt Kriegsvolk zu erbitten?",
+      "text": "Warum rief Esra am Fluss Ahawa ein Fasten aus, anstatt Kriegsvolk zu erbitten?",
       "options": [
         {
-          "text": "Weil der König Artaxerxes ihm die Gewährung von Reitern streng verboten hatte",
-          "explanation": "Der König hätte ihm gern Soldaten gewährt [ref:Esra 8:22]."
+          "text": "Weil König Arthahsastha ihm die Gestellung von Reitern verboten hatte",
+          "explanation": ""
         },
         {
-          "text": "Weil er die Soldaten nicht mit Fleisch und Wein verköstigen wollte",
-          "explanation": "Es ging um tiefes geistliches Zeugnis und Gottvertrauen [ref:Esra 8:22]."
+          "text": "Weil die Reise durch wasserlose Wüstenstriche führte ohne Nahrung",
+          "explanation": ""
         },
         {
-          "text": "Weil er sich schämte, Geleit zu erbitten, da er Gottes Schutz bezeugt hatte",
-          "explanation": "Esra hatte gesagt: 'Die Hand unseres Gottes ist zum Guten über allen, die Ihn suchen' [ref:Esra 8:22]."
+          "text": "Weil er sich schämte, Geleit zu fordern, da er Gottes Schutz bezeugt hatte",
+          "explanation": ""
         },
         {
-          "text": "Weil persische Soldaten den Tempelbezirk in Jerusalem entweiht hätten",
-          "explanation": "Aus Scham vor Widerspruch zum Glaubenszeugnis bat er nur Gott [ref:Esra 8:21-22]."
+          "text": "Weil fremde Kriegsknechte den heiligen Tempelbezirk entweiht hätten",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Esra 8:21-22",
-      "explanation": "Esra schämte sich, Heeresmacht und Reiter zum Schutz vor Feinden zu erbitten, weil er dem König bezeugt hatte: 'Die Hand unseres Gottes ist zum Guten über allen, die ihn suchen!' [ref:Esra 8:22].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "esr_024",
       "type": "single_choice",
-      "text": "Wie wurde der gewaltige Schatz an Gold und Silber auf der Reise gesichert?",
+      "text": "Wie wurde der gewaltige Schatz an Gold und Silber auf der Reise bewahrt?",
       "options": [
         {
-          "text": "In schweren Eisenkisten, die von arabischen Söldnern bewacht wurden",
-          "explanation": "Esra vertraute den Schatz geweihten Priestern an [ref:Esra 8:24-30]."
+          "text": "In schweren Eisenkisten, die von gedungenen Reitern bewacht wurden",
+          "explanation": ""
         },
         {
-          "text": "In geheimen Fässern, die als gewöhnliches Weizenmehl deklariert waren",
-          "explanation": "Der Schatz wurde offen gewogen und heilig gehalten [ref:Esra 8:24-30]."
+          "text": "In geheimen Fässern, die als Mehl für das Speisopfer galten",
+          "explanation": ""
         },
         {
-          "text": "Auf Booten, die nachts unbemerkt über die Kanäle gesteuert wurden",
-          "explanation": "Sie zogen zu Fuß und auf Lasttieren über Land [ref:Esra 8:24-31]."
+          "text": "Auf Kähnen, die des Nachts unbemerkt über die Wasserwege zogen",
+          "explanation": ""
         },
         {
-          "text": "Er wurde zwölf Priestern nach genauem Gewicht anvertraut und rein gewogen",
-          "explanation": "Heilige Geräte für heilige Männer: Gewogen bei Abreise und Ankunft [ref:Esra 8:24-34]."
+          "text": "Er ward zwölf Obersten der Priester nach genauem Gewicht übergeben",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Esra 8:24-34",
-      "explanation": "Esra sonderte zwölf Priesterhäupter ab und wog ihnen Silber, Gold und Gefäße dar. In Jerusalem wurde alles nach Zahl und Gewicht unversehrt abgeliefert [ref:Esra 8:24-34].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "esr_025",
       "type": "single_choice",
-      "text": "Welche erschütternde Sünde brachten die Fürsten nach der Ankunft vor Esra?",
+      "text": "Welche schwere Sünde brachten die Obersten nach der Ankunft vor Esra?",
       "options": [
         {
-          "text": "Das Volk und sogar Priester hatten sich mit den heidnischen Völkern vermischt",
-          "explanation": "Der heilige Same hatte sich mit den Völkern der Länder vermischt [ref:Esra 9:1-2]."
+          "text": "Das Volk und Priester hatten sich nicht abgesondert von den Heiden",
+          "explanation": ""
         },
         {
-          "text": "Die Kaufleute weigerten sich den Zehnten von der Weinernte abzuliefern",
-          "explanation": "Der Hauptfrevel war die schwere Bundesuntreue der Mischehen [ref:Esra 9:1-2]."
+          "text": "Die Händler weigerten sich, den Zehnten von der Ernte abzuliefern",
+          "explanation": ""
         },
         {
-          "text": "Die Leviten opferten heimlich auf den alten Höhen von Beth-Awen",
-          "explanation": "Es ging um die sittliche und geistliche Entweihung durch Heirat [ref:Esra 9:1-2]."
+          "text": "Die Leviten opferten heimlich auf den alten Höhen des Landes",
+          "explanation": ""
         },
         {
-          "text": "Einige Familien planten die Rückkehr in die babylonischen Städte",
-          "explanation": "Die Obersten und Vorsteher waren die Ersten im Treubruch [ref:Esra 9:1-2]."
+          "text": "Etliche Fürsten planten die Rückkehr in die babylonischen Städte",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Esra 9:1-2",
-      "explanation": "Die Obersten klagten: Das Volk Israel, die Priester und Leviten haben sich nicht abgesondert, sondern heidnische Frauen genommen; und die Fürsten waren die Ersten in dieser Untreue [ref:Esra 9:1-2].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     },
     {
       "questionId": "esr_026",
       "type": "single_choice",
-      "text": "Wie reagierte Esra in tiefer Trauer und Bestürzung auf diese Nachricht?",
+      "text": "Wie reagierte Esra in tiefer Bestürzung, als er diese Botschaft hörte?",
       "options": [
         {
-          "text": "Er rief sofort das persische Militär, um alle Missetäter zu verhaften",
-          "explanation": "Esra reagierte mit tiefer geistlicher Buße und Zerbruch [ref:Esra 9:3-5]."
+          "text": "Er rief die persischen Soldaten herbei, um die Missetäter zu binden",
+          "explanation": ""
         },
         {
-          "text": "Er zerriss sein Kleid, raufte sich Haar und Bart und saß bestürzt da",
-          "explanation": "Ein tiefes Zeichen vollkommener Erschütterung vor dem heiligen Gott [ref:Esra 9:3-5]."
+          "text": "Er zerriss sein Kleid und Mantel, raufte Haupthaar und saß erstarrt da",
+          "explanation": ""
         },
         {
-          "text": "Er verließ Jerusalem noch am selben Tag und kehrte nach Susa zurück",
-          "explanation": "Er blieb und trat als Fürbitter vor das Angesicht Gottes [ref:Esra 9:3-5]."
+          "text": "Er verließ Jerusalem unverzüglich und kehrte in den Palast zu Susa zurück",
+          "explanation": ""
         },
         {
-          "text": "Er schrieb dem König einen Brief, um alle Priester abzusetzen",
-          "explanation": "Das trifft nicht zu. Richtig ist: Er zerriss sein Kleid, raufte sich Haar und Bart und saß bestürzt da [ref:Esra 9:3-5]."
+          "text": "Er schrieb dem König einen Brief, um alle Schuldigen des Amtes zu setzen",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Esra 9:3-5",
-      "explanation": "Esra zerriss sein Kleid und sein Obergewand, raufte Haupthaar und Bart aus und saß betäubt da bis zum Abendopfer [ref:Esra 9:3-5].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "esr_027",
       "type": "single_choice",
-      "text": "Was bekannte Esra in seinem großen Bußgebet vor Gott?",
+      "text": "Was bekannte Esra in seinem großen Bußgebet am Abendopfer vor Gott?",
       "options": [
         {
-          "text": "Dass Israel unschuldig sei und von fremden Völkern verführt worden wäre",
-          "explanation": "Esra rechtfertigte das Volk in keiner Weise [ref:Esra 9:6-7]."
+          "text": "Dass das Volk unschuldig sei und allein von Nachbarn verführt ward",
+          "explanation": ""
         },
         {
-          "text": "Dass Gott zu hart geurteilt habe, indem Er den Tempel Salomos zerstörte",
-          "explanation": "Er betonte im Gegenteil Gottes große Gnade trotz der Schuld [ref:Esra 9:13]."
+          "text": "Dass Gottes Gericht über Salomos Tempel unbarmherzig gewesen sei",
+          "explanation": ""
         },
         {
-          "text": "Dass ihre Sünden über ihr Haupt gewachsen sind und Gott sie verschont hat",
-          "explanation": "Gott hat sie weniger gestraft, als ihre Missetaten verdienten [ref:Esra 9:6-13]."
+          "text": "Dass ihre Missetaten über ihr Haupt gewachsen sind bis an den Himmel",
+          "explanation": ""
         },
         {
-          "text": "Dass die Priester durch neue Tieropfer sofort vollkommene Sühne schaffen",
-          "explanation": "Esra flehte um Gnade für den entblößten Überrest [ref:Esra 9:14-15]."
+          "text": "Dass neue Tieropfer sofortige und vollkommene Sühne erwirken würden",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Esra 9:6-13",
-      "explanation": "Esra betete: 'Mein Gott, ich schäme mich und scheue mich, meine Augen zu dir zu erheben... denn unsere Missetaten sind über unser Haupt gewachsen' [ref:Esra 9:6-13].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "esr_028",
       "type": "single_choice",
-      "text": "Welcher rettende Vorschlag kam aus der weinenden Gemeinde durch Schechanja?",
+      "text": "Welchen Entschluss fasste die weinende Gemeinde durch Sechanja?",
       "options": [
         {
           "text": "Alle Betroffenen sollten für zehn Jahre nach Ägypten verbannt werden",
-          "explanation": "Die Lösung war die Trennung von den fremden Frauen im Land [ref:Esra 10:2-3]."
+          "explanation": ""
         },
         {
-          "text": "Die fremden Frauen sollten sofort in den Tempeldienst eingegliedert werden",
-          "explanation": "Das Gesetz verlangte die heilige Absonderung vom Götzendienst [ref:Esra 10:2-3]."
+          "text": "Die fremden Frauen sollten in den Tempeldienst eingegliedert werden",
+          "explanation": ""
         },
         {
-          "text": "Man solle dem König Artaxerxes die Entscheidung über die Ehen überlassen",
-          "explanation": "Es war eine Entscheidung vor dem heiligen Gott Israels [ref:Esra 10:2-3]."
+          "text": "Man solle dem König in Persien die letzte Entscheidung überlassen",
+          "explanation": ""
         },
         {
-          "text": "Einen festen Bund mit Gott zu schließen und alle fremden Frauen wegzuschicken",
-          "explanation": "Konsequente Umkehr nach dem Rat derer, die vor Gottes Gebot zittern [ref:Esra 10:2-3]."
+          "text": "Einen Bund mit Gott zu machen, alle fremden Weiber hinauszutun",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Esra 10:2-3",
-      "explanation": "Schechanja sprach: 'Wir haben unserem Gott die Treue gebrochen... Nun lasst uns einen Bund schließen mit unserem Gott, alle diese Frauen und die von ihnen Geborenen wegzuschicken!' [ref:Esra 10:2-3].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "easy"
     },
     {
       "questionId": "esr_029",
       "type": "single_choice",
-      "text": "Unter welchen äußeren Umständen versammelte sich ganz Juda in Jerusalem?",
+      "text": "Unter welchen Umständen versammelte sich ganz Juda in Jerusalem vor dem Gotteshause?",
       "options": [
         {
-          "text": "Auf dem Platz vor dem Hause Gottes bei strömendem Regen und zitterndem Volke",
-          "explanation": "Sie saßen im neunten Monat zitternd im Regen wegen der Sache [ref:Esra 10:9]."
+          "text": "Sie saßen auf der Straße vor dem Hause Gottes, zitternd im Regen",
+          "explanation": ""
         },
         {
-          "text": "In den überdachten Säulenhallen des Tempels an einem heißen Sommertag",
-          "explanation": "Die Versammlung fand unter freiem Himmel im Dauerregen statt [ref:Esra 10:9]."
+          "text": "Sie standen in den überdachten Hallen an einem heißen Sommertage",
+          "explanation": ""
         },
         {
-          "text": "Auf den Feldern von Jericho, um dem nasskalten Bergland zu entfliehen",
-          "explanation": "Sie waren alle nach Jerusalem gerufen worden [ref:Esra 10:9]."
+          "text": "Sie lagerten in den Ebenen Jerichos, um den kalten Bergen zu entfliehen",
+          "explanation": ""
         },
         {
-          "text": "In den Befestigungsanlagen der Stadtmauer aus Furcht vor Räubern",
-          "explanation": "Sie saßen auf dem offenen Platz vor dem Tempel [ref:Esra 10:9]."
+          "text": "Sie verschanzten sich in den Mauertürmen aus Furcht vor Räubern",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Esra 10:9",
-      "explanation": "'Und das ganze Volk saß auf dem Platz vor dem Hause Gottes, zitternd wegen dieser Sache und wegen des Regens' [ref:Esra 10:9].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "medium"
     },
     {
       "questionId": "esr_030",
       "type": "single_choice",
-      "text": "Wie wurde die Prüfung der Mischehen in den folgenden Monaten geordnet durchgeführt?",
+      "text": "Wie wurde die Sache mit den fremden Weibern geordnet zu Ende gebracht?",
       "options": [
         {
-          "text": "Jeder Bürger entschied selbst im Stillen ohne behördliche Kontrolle",
-          "explanation": "Es gab eine genaue Untersuchung durch eingesetzte Kommissionen [ref:Esra 10:14-17]."
+          "text": "Jeder Bürger entschied für sich im Stillen ohne jegliche Zeugen",
+          "explanation": ""
         },
         {
-          "text": "Familienhäupter und Richter prüften Ort für Ort jeden Fall gewissenhaft",
-          "explanation": "Die Ältesten jeder Stadt untersuchten die Fälle bis zum 1. Monat [ref:Esra 10:14-17]."
+          "text": "Die Häupter saßen, die Sache zu erforschen, bis zum ersten Monat",
+          "explanation": ""
         },
         {
-          "text": "Die persischen Satrapen übernahmen die Befragung aller Verdächtigen",
-          "explanation": "Die jüdischen Leiter führten die Reinigung eigenständig durch [ref:Esra 10:14-17]."
+          "text": "Persische Landpfleger übernahmen die richterliche Untersuchung",
+          "explanation": ""
         },
         {
-          "text": "Man warf das Los am Altar über jede einzelne Familie des Landes",
-          "explanation": "Es fand eine sorgfältige persönliche Anhörung vor Richtern statt [ref:Esra 10:14-17]."
+          "text": "Man warf das heilige Los am Altar über jede einzelne Familie",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Esra 10:14-17",
-      "explanation": "Esra und die Häupter der Vaterhäuser sonderten sich ab und saßen am 1. Tag des zehnten Monats, um die Sache zu untersuchen; am 1. Tag des ersten Monats waren sie fertig [ref:Esra 10:14-17].",
+      "explanation": "",
       "explanationReviewed": false,
       "difficulty": "hard"
     }

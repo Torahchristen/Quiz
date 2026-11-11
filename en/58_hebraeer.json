@@ -1,0 +1,2272 @@
+{
+  "metadata": {
+    "quizId": "nt_19_hebraeer_alle_kapitel_en",
+    "title": "Hebrews",
+    "subtitle": "Hebrews 1:1 – 13:25 (66 questions)",
+    "author": "King James Version (1769)",
+    "version": "2.3.0",
+    "language": "en",
+    "category": "nt",
+    "difficulty": "medium",
+    "tags": [
+      "Hebrews",
+      "New Testament",
+      "Epistle to the Hebrews",
+      "Faith",
+      "High Priest",
+      "Melchisedec",
+      "New Covenant",
+      "King James Version"
+    ],
+    "questionCount": 66,
+    "canonicalBookNumber": 58,
+    "testament": "NT"
+  },
+  "questions": [
+    {
+      "questionId": "hebr_001",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "How hath God in these last days spoken unto us according to Hebrews 1:1-2?",
+      "bibleReference": "Hebrews 1:1-2",
+      "correctAnswers": [
+        1
+      ],
+      "options": [
+        {
+          "text": "By the angels whom he sent with heavenly messages to the fathers",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By his Son, whom he hath appointed heir of all things",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "By the ancient prophets who prophesied in dark sayings of old",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By the priests of the sanctuary at the solemn annual feasts",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_002",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What name hath the Son obtained by inheritance above the angels (Hebrews 1:4)?",
+      "bibleReference": "Hebrews 1:4",
+      "correctAnswers": [
+        2
+      ],
+      "options": [
+        {
+          "text": "A name widely renowned among all principalities and powers",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A name much more severe than the name of the angel hosts",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A more excellent name than they, which he hath inherited",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "A name far more ancient than the names of heavenly princes",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_003",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Unto which of the angels said God at any time, Thou art my Son (Hebrews 1:5)?",
+      "bibleReference": "Hebrews 1:5",
+      "correctAnswers": [
+        3
+      ],
+      "options": [
+        {
+          "text": "Unto the archangel Michael",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto the angel Gabriel",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto the burning seraphim",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto none of the angels",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_004",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What are all the angels according to Hebrews 1:14?",
+      "bibleReference": "Hebrews 1:14",
+      "correctAnswers": [
+        0
+      ],
+      "options": [
+        {
+          "text": "They are ministering spirits, sent forth to minister for them who shall be heirs of salvation",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "They are independent rulers sent forth to execute worldly judgment upon the kingdoms of men",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They are severe judges appointed to take vengeance upon all that refuse the holy commandment",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "They are perpetual priests ordained to offer bloodless sacrifices before the throne of God",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_005",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "With what hath God anointed the Son above His fellows (Hebrews 1:9)?",
+      "bibleReference": "Hebrews 1:9",
+      "correctAnswers": [
+        1
+      ],
+      "options": [
+        {
+          "text": "With holy oil of myrrh in the sanctuary",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With the oil of gladness above his fellows",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "With fragrant incense before the presence",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With costly spikenard poured by the priests",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_006",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "Why ought we to give the more earnest heed to the things which we have heard (Hebrews 2:1)?",
+      "bibleReference": "Hebrews 2:1",
+      "correctAnswers": [
+        2
+      ],
+      "options": [
+        {
+          "text": "Lest we be brought to judgment before worldly rulers",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Lest our outward works be found lacking by the elders",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Lest at any time we should let them slip from our soul",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Lest we fail of receiving earthly praise among men",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_007",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "By what did Jesus taste death for every man according to Hebrews 2:9?",
+      "bibleReference": "Hebrews 2:9",
+      "correctAnswers": [
+        3
+      ],
+      "options": [
+        {
+          "text": "By the will of mortal men",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By the strict law of Moses",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By his own natural strength",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By the grace of God for all",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_008",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "In doing what did it become God to make the captain of their salvation perfect (Hebrews 2:10)?",
+      "bibleReference": "Hebrews 2:10",
+      "correctAnswers": [
+        0
+      ],
+      "options": [
+        {
+          "text": "In bringing many sons unto glory",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "In overthrowing all temporal kingdoms",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In rebuilding the temple at Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In giving great earthly wealth to men",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_009",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Through what did Christ destroy him that had the power of death (Hebrews 2:14)?",
+      "bibleReference": "Hebrews 2:14",
+      "correctAnswers": [
+        1
+      ],
+      "options": [
+        {
+          "text": "Through an host of mighty angels",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Through his own death upon the cross",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Through an earthly fiery judgment",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Through the strict letter of the law",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_010",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Whose nature did the Son take on Him according to Hebrews 2:16?",
+      "bibleReference": "Hebrews 2:16",
+      "correctAnswers": [
+        2
+      ],
+      "options": [
+        {
+          "text": "The nature of angels",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The kings of the earth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The seed of Abraham",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The priests of Levi",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_011",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "How does Moses differ from Christ in the house of God (Hebrews 3:5-6)?",
+      "bibleReference": "Hebrews 3:5-6",
+      "correctAnswers": [
+        3
+      ],
+      "options": [
+        {
+          "text": "Moses was a prophet in the temple, but Christ was a priest at the altar",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Moses was a prince over the people, but Christ was a shepherd of sheep",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Moses was a judge of the law, but Christ was an instructor of Gentiles",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Moses was faithful as a servant, but Christ as a son over his own house",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_012",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What does the Holy Ghost say concerning the hardening of hearts (Hebrews 3:7-8)?",
+      "bibleReference": "Hebrews 3:7-8",
+      "correctAnswers": [
+        0
+      ],
+      "options": [
+        {
+          "text": "To day if ye will hear his voice, harden not your hearts, as in provocation",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "To morrow when the morning dawneth, confess all your transgressions in fear",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Whenever ye fall into adversity, call upon the holy name of God with crying",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "As soon as judgment cometh, seek refuge straightway in the rocky mountains",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_013",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Why could they not enter into His rest according to Hebrews 3:19?",
+      "bibleReference": "Hebrews 3:18-19",
+      "correctAnswers": [
+        1
+      ],
+      "options": [
+        {
+          "text": "Because of the rough way",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because of their unbelief",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Because of drought and heat",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because of lack of victual",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_014",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "How often should believers exhort one another according to Hebrews 3:13?",
+      "bibleReference": "Hebrews 3:13",
+      "correctAnswers": [
+        2
+      ],
+      "options": [
+        {
+          "text": "Once upon the Sabbath day",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Once in a month at feasts",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Daily, while it is called To day",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Only when a brother falleth",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_015",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Lest any should be hardened through what according to Hebrews 3:13?",
+      "bibleReference": "Hebrews 3:13",
+      "correctAnswers": [
+        3
+      ],
+      "options": [
+        {
+          "text": "Through the mocking of heathens",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Through fear of bodily affliction",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Through poverty in this pilgrimage",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Through the deceitfulness of sin",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_016",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "To whom does there remain a rest according to Hebrews 4:9?",
+      "bibleReference": "Hebrews 4:9",
+      "correctAnswers": [
+        0
+      ],
+      "options": [
+        {
+          "text": "To the people of God",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "To the sages of Rome",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To the Levites alone",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To all kings of earth",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_017",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "How is the word of God described in Hebrews 4:12?",
+      "bibleReference": "Hebrews 4:12",
+      "correctAnswers": [
+        1
+      ],
+      "options": [
+        {
+          "text": "Weak in spirit and understood only by ancient philosophers",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Quick, and powerful, and sharper than any twoedged sword",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Rigid like stone and unable to touch the inward thoughts",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Variable and altering according to the traditions of men",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_018",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "Unto what does the word of God pierce according to Hebrews 4:12?",
+      "bibleReference": "Hebrews 4:12",
+      "correctAnswers": [
+        2
+      ],
+      "options": [
+        {
+          "text": "Unto the uttermost ends of the habitable earth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto the deep caves and channels of the great sea",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To the dividing asunder of soul and spirit, joints and marrow",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Unto the palaces and fortresses of worldly princes",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_019",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What manner of high priest have we according to Hebrews 4:15?",
+      "bibleReference": "Hebrews 4:15",
+      "correctAnswers": [
+        3
+      ],
+      "options": [
+        {
+          "text": "One that dwelleth afar off from all human infirmity",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "One that never bore the earthly burden of our flesh",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "One that judgeth sinners without any pity or mercy",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "One touched with the feeling of our infirmities",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_020",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "How may we come unto the throne of grace according to Hebrews 4:16?",
+      "bibleReference": "Hebrews 4:16",
+      "correctAnswers": [
+        0
+      ],
+      "options": [
+        {
+          "text": "Boldly, that we may obtain mercy, and find grace to help in need",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "With servile dread, seeking to escape from the wrath of judgment",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With sacrifices of bullocks, that our sins might be washed away",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With letters of testimony from men, that we might be accepted",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_021",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "After what order is Christ a priest for ever according to Hebrews 5:6?",
+      "bibleReference": "Hebrews 5:6",
+      "correctAnswers": [
+        1
+      ],
+      "options": [
+        {
+          "text": "After the order of Aaron",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "After the order of Melchisedec",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "After the covenant of Levi",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "After the glory of the prophets",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_022",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What did Christ offer up in the days of His flesh (Hebrews 5:7)?",
+      "bibleReference": "Hebrews 5:7",
+      "correctAnswers": [
+        2
+      ],
+      "options": [
+        {
+          "text": "Silver and gold for the service of the temple at Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Sacrifices of heifers according to the ordinances of Moses",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Prayers and supplications with strong crying and tears",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Complaints concerning the wickedness of scribes and Pharisees",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_023",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "By what did the Son learn obedience according to Hebrews 5:8?",
+      "bibleReference": "Hebrews 5:8",
+      "correctAnswers": [
+        3
+      ],
+      "options": [
+        {
+          "text": "By the doctrine of the ancients",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By the sayings of the Pharisees",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By the statutes of earthly judges",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By the things which he suffered",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_024",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What have the unskilful need of according to Hebrews 5:12?",
+      "bibleReference": "Hebrews 5:12",
+      "correctAnswers": [
+        0
+      ],
+      "options": [
+        {
+          "text": "Of milk, and not of strong meat",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Of wine, and not of clear water",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Of bread, and not of costly meat",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Of bitter herbs, and not of wheat",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_025",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "To whom does strong meat belong according to Hebrews 5:14?",
+      "bibleReference": "Hebrews 5:14",
+      "correctAnswers": [
+        1
+      ],
+      "options": [
+        {
+          "text": "To babes who have not yet understanding in the law",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To them that are of full age, having senses exercised",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "To the priests that minister at the altar in the temple",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To the scribes who rehearse the precepts unto the flock",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_026",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What foundation should not be laid again according to Hebrews 6:1?",
+      "bibleReference": "Hebrews 6:1-2",
+      "correctAnswers": [
+        2
+      ],
+      "options": [
+        {
+          "text": "Fasting upon solemn days and giving alms before men",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Building synagogues and offering sacrifices of bullocks",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Repentance from dead works, and of faith toward God",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Observing outward traditions and fearing worldly rulers",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_027",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What is impossible concerning those that fall away (Hebrews 6:6)?",
+      "bibleReference": "Hebrews 6:4-6",
+      "correctAnswers": [
+        3
+      ],
+      "options": [
+        {
+          "text": "That they should ever regain earthly possessions and wealth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That they should obtain justice before the secular magistrates",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That they should ever assemble again with the congregation",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To renew them again unto repentance, seeing they crucify Him",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_028",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "By whom did God swear unto Abraham (Hebrews 6:13)?",
+      "bibleReference": "Hebrews 6:13",
+      "correctAnswers": [
+        0
+      ],
+      "options": [
+        {
+          "text": "By himself, because he could swear by no greater",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "By the holy angels ministering before his presence",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By the heaven and earth which his word created of old",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By the holy temple erected for the glory of his name",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_029",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What have we as an anchor of the soul, both sure and stedfast (Hebrews 6:19)?",
+      "bibleReference": "Hebrews 6:19",
+      "correctAnswers": [
+        1
+      ],
+      "options": [
+        {
+          "text": "The written commandments upon the tables of stone",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The hope which entereth into that within the veil",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The temporal riches and quiet peace of this world",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The priesthood of Aaron and the service of the altar",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_030",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Who as the forerunner is for us entered within the veil (Hebrews 6:20)?",
+      "bibleReference": "Hebrews 6:20",
+      "correctAnswers": [
+        2
+      ],
+      "options": [
+        {
+          "text": "The high priest Aaron upon the day of atonement",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The prophet Moses having received the covenant",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Jesus, made an high priest after Melchisedec",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The patriarch Abraham after the victory over kings",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_031",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What is the interpretation of Melchisedec's name and title (Hebrews 7:2)?",
+      "bibleReference": "Hebrews 7:1-2",
+      "correctAnswers": [
+        3
+      ],
+      "options": [
+        {
+          "text": "King of nations and priest of the earthly temple",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Ruler over Canaan and protector of all strangers",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "King of Egypt and judge over the gentile kingdoms",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "King of righteousness, and King of peace",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_032",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What portion did Abraham give unto Melchisedec (Hebrews 7:4)?",
+      "bibleReference": "Hebrews 7:4",
+      "correctAnswers": [
+        0
+      ],
+      "options": [
+        {
+          "text": "The tenth of the spoils",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The fifth part of cattle",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The half of all the silver",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Nothing of the spoils",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_033",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Out of which tribe did our Lord spring according to Hebrews 7:14?",
+      "bibleReference": "Hebrews 7:14",
+      "correctAnswers": [
+        1
+      ],
+      "options": [
+        {
+          "text": "Out of the tribe of Levi, unto whom Moses gave the priesthood",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Out of Juda, of which tribe Moses spake nothing of priesthood",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Out of the tribe of Benjamin, which gave the first earthly king",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Out of the tribe of Ephraim, which obtained the birthright of old",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_034",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Why hath this man an unchangeable priesthood according to Hebrews 7:24?",
+      "bibleReference": "Hebrews 7:24-25",
+      "correctAnswers": [
+        2
+      ],
+      "options": [
+        {
+          "text": "Because he was consecrated by the chief priests at Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because he fulfilled the whole law of Moses without any blemish",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because he continueth ever, seeing he ever liveth to intercede",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Because he was born of Aaron and inherited the office from fathers",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_035",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "How often did Christ offer up sacrifice according to Hebrews 7:27?",
+      "bibleReference": "Hebrews 7:26-27",
+      "correctAnswers": [
+        3
+      ],
+      "options": [
+        {
+          "text": "He offered bullocks annually at feasts",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He offered daily at the earthly altar",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He offered only for his own infirmity",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "This he did once, when he offered up himself",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_036",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "Where is our high priest set according to Hebrews 8:1?",
+      "bibleReference": "Hebrews 8:1",
+      "correctAnswers": [
+        0
+      ],
+      "options": [
+        {
+          "text": "On the right hand of the throne of the Majesty in the heavens",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "In the earthly sanctuary among the ministering priests",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Upon the judgment seat of the rulers of the province",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Upon the earthly throne of David in the palace of Judea",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_037",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Why is the covenant of which Christ is mediator better (Hebrews 8:6)?",
+      "bibleReference": "Hebrews 8:6",
+      "correctAnswers": [
+        1
+      ],
+      "options": [
+        {
+          "text": "Because it was established upon more severe commandments",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because it was established upon better promises of God",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Because it retaineth the continual sacrifices of heifers",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because it was confirmed by the chief rulers of the nation",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_038",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Where will the Lord put His laws according to Hebrews 8:10?",
+      "bibleReference": "Hebrews 8:10",
+      "correctAnswers": [
+        2
+      ],
+      "options": [
+        {
+          "text": "Upon tables of stone as in the mount Sinai",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Into scrolls of parchment kept by scribes",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Into their mind, and write them in hearts",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Upon the pillars of the earthly sanctuary",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_039",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What becometh of the first covenant, in that he saith, A new covenant (Hebrews 8:13)?",
+      "bibleReference": "Hebrews 8:13",
+      "correctAnswers": [
+        3
+      ],
+      "options": [
+        {
+          "text": "It is renewed continually with the blood of calves",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It remaineth binding for ever upon all the Gentiles",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It is received into the secular statute books of men",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It is made old, and is ready to vanish away",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_040",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What promise does the Lord make concerning iniquities in Hebrews 8:12?",
+      "bibleReference": "Hebrews 8:12",
+      "correctAnswers": [
+        0
+      ],
+      "options": [
+        {
+          "text": "Their sins and their iniquities will I remember no more",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Their transgressions will I visit upon their children of old",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Their sins must be purged by yearly burnt offerings of rams",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Their trespasses will I judge openly before all the heathen",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_041",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "How often went the high priest alone into the second tabernacle (Hebrews 9:7)?",
+      "bibleReference": "Hebrews 9:7",
+      "correctAnswers": [
+        1
+      ],
+      "options": [
+        {
+          "text": "Daily at the morning oblation",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Once every year, not without blood",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "At every new moon throughout year",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Thrice upon each solemn festival",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_042",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "By what did Christ enter in once into the holy place (Hebrews 9:12)?",
+      "bibleReference": "Hebrews 9:12",
+      "correctAnswers": [
+        2
+      ],
+      "options": [
+        {
+          "text": "By the blood of goats and of calves",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By the water of purifying at altar",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By his own blood he entered in once",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "By the golden censer of the priest",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_043",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What is not accomplished without shedding of blood according to Hebrews 9:22?",
+      "bibleReference": "Hebrews 9:22",
+      "correctAnswers": [
+        3
+      ],
+      "options": [
+        {
+          "text": "No holy consecration of the priests",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "No rearing of the earthly tabernacle",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "No solemn anointing of the monarch",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Without shedding of blood is no remission",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_044",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What is appointed unto men according to Hebrews 9:27?",
+      "bibleReference": "Hebrews 9:27",
+      "correctAnswers": [
+        0
+      ],
+      "options": [
+        {
+          "text": "Once to die, but after this the judgment",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "To live continually without seeing death",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To return again unto another earthly body",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To be forgotten for ever within the dust",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_045",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "How was Christ offered to bear the sins of many (Hebrews 9:28)?",
+      "bibleReference": "Hebrews 9:28",
+      "correctAnswers": [
+        1
+      ],
+      "options": [
+        {
+          "text": "Annually upon the day of atonement",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Christ was once offered to bear sins",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Daily in the heavenly tabernacle",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Thrice before the witnesses of God",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_046",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What had the law concerning good things to come (Hebrews 10:1)?",
+      "bibleReference": "Hebrews 10:1",
+      "correctAnswers": [
+        2
+      ],
+      "options": [
+        {
+          "text": "The very substance and eternal perfection of all divine promises",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The power to make the comers thereunto perfect for evermore",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A shadow of good things to come, and not the very image of things",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The everlasting covenant which could never be replaced by another",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_047",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What hast Thou prepared Me according to Hebrews 10:5?",
+      "bibleReference": "Hebrews 10:5",
+      "correctAnswers": [
+        3
+      ],
+      "options": [
+        {
+          "text": "A golden sceptre of dominion",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "An earthly temporal kingdom",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A garment of glory for Aaron",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A body hast thou prepared me",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_048",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Unto what should we provoke one another according to Hebrews 10:24?",
+      "bibleReference": "Hebrews 10:24",
+      "correctAnswers": [
+        0
+      ],
+      "options": [
+        {
+          "text": "Unto love and to good works",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Unto laying up earthly gold",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto strivings about the law",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto secular courts of kings",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_049",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What should we not forsake according to Hebrews 10:25?",
+      "bibleReference": "Hebrews 10:25",
+      "correctAnswers": [
+        1
+      ],
+      "options": [
+        {
+          "text": "The commandments of the old law",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The assembling of ourselves together",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The temple service at Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The traditions of ancient scribes",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_050",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What remaineth for them that sin wilfully after receiving truth (Hebrews 10:27)?",
+      "bibleReference": "Hebrews 10:26-27",
+      "correctAnswers": [
+        2
+      ],
+      "options": [
+        {
+          "text": "Another sacrifice at the altar for their eternal cleansing",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "An unconditional pardon of transgressions without penalty",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A certain fearful looking for of judgment and fiery indignation",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Another season of long forbearance before the great throne",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_051",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What is faith according to Hebrews 11:1?",
+      "bibleReference": "Hebrews 11:1",
+      "correctAnswers": [
+        3
+      ],
+      "options": [
+        {
+          "text": "A temporal hoping for earthly felicity and the seeking after riches",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "An outward assent unto scriptures without any sincere devotion of mind",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "A transient affection of spirit that straightway vanisheth in sorrow",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The substance of things hoped for, the evidence of things not seen",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_052",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "By what did Abel offer unto God a more excellent sacrifice (Hebrews 11:4)?",
+      "bibleReference": "Hebrews 11:4",
+      "correctAnswers": [
+        0
+      ],
+      "options": [
+        {
+          "text": "By faith he offered it to God",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "By great abundance of his flock",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By fasting before the altar-fire",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By counsel received from Adam",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_053",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What testimony had Enoch before his translation (Hebrews 11:5)?",
+      "bibleReference": "Hebrews 11:5",
+      "correctAnswers": [
+        1
+      ],
+      "options": [
+        {
+          "text": "That he was rich in earthly cattle",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That he pleased God in his walk",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "That he subdued kingdoms of men",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That he reigned as a great king",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_054",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "How did Abraham go out when he was called (Hebrews 11:8)?",
+      "bibleReference": "Hebrews 11:8",
+      "correctAnswers": [
+        2
+      ],
+      "options": [
+        {
+          "text": "With a mighty army to conquer the strange country by sword",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Having first sent spies to search out the inheritance before",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "By faith he went out, not knowing whither he went",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Only unto Haran, where he dwelt permanently with his kindred",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_055",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What did Moses choose rather than the pleasures of sin (Hebrews 11:25)?",
+      "bibleReference": "Hebrews 11:24-26",
+      "correctAnswers": [
+        3
+      ],
+      "options": [
+        {
+          "text": "To reign as a wealthy prince within the palaces of Egypt",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To instruct the philosophers in the ancient learning of kings",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "To flee from Pharaoh and dwell in tranquil peace in Midian",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Choosing rather to suffer affliction with the people of God",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_056",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "With what are we compassed about according to Hebrews 12:1?",
+      "bibleReference": "Hebrews 12:1",
+      "correctAnswers": [
+        0
+      ],
+      "options": [
+        {
+          "text": "With so great a cloud of witnesses",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "With a dark cloud of worldly sorrow",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With a cloud of fiery chariot hosts",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "With a cloud of raging adversaries",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_057",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Looking unto whom in the race set before us (Hebrews 12:2)?",
+      "bibleReference": "Hebrews 12:2",
+      "correctAnswers": [
+        1
+      ],
+      "options": [
+        {
+          "text": "Looking unto the virtues of the ancient patriarchs",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Looking unto Jesus the author and finisher of our faith",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Looking unto the righteousness of temple scribes",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Looking unto the natural strength of human wisdom",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_058",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "Whom does the Lord chasten according to Hebrews 12:6?",
+      "bibleReference": "Hebrews 12:6",
+      "correctAnswers": [
+        2
+      ],
+      "options": [
+        {
+          "text": "Only the disobedient and utterly hardened in heart",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Only those who depart from His holy commandment",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Whom the Lord loveth he chasteneth",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "No man upon earth, leaving every sinner in peace",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_059",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Unto what are believers come according to Hebrews 12:22?",
+      "bibleReference": "Hebrews 12:22",
+      "correctAnswers": [
+        3
+      ],
+      "options": [
+        {
+          "text": "Unto the mount Sinai that burned with fire and tempest",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto the judgment halls of the proud Roman emperors",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto the earthly temple with its multitude of sacrifices",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto mount Sion, and unto the city of the living God",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_060",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "How is our God described in Hebrews 12:29?",
+      "bibleReference": "Hebrews 12:29",
+      "correctAnswers": [
+        0
+      ],
+      "options": [
+        {
+          "text": "Our God is a consuming fire",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Our God is an indulgent judge",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Our God is far from this earth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Our God overlooketh iniquity",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_061",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Why should we not be forgetful to entertain strangers (Hebrews 13:2)?",
+      "bibleReference": "Hebrews 13:2",
+      "correctAnswers": [
+        1
+      ],
+      "options": [
+        {
+          "text": "Because thereby men may obtain abundant worldly riches",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because thereby some have entertained angels unawares",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Because the Roman governors command hospitalities of all",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because thereby men gain temporal reputation in the city",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_062",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "How should marriage be held according to Hebrews 13:4?",
+      "bibleReference": "Hebrews 13:4",
+      "correctAnswers": [
+        2
+      ],
+      "options": [
+        {
+          "text": "As a secular ordinance destitute of sacred holiness",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Only for increasing temporal inheritance and riches",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Marriage is honourable in all, and the bed undefiled",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Only for such as bear no spiritual office in church",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_063",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What confession is made of Jesus Christ in Hebrews 13:8?",
+      "bibleReference": "Hebrews 13:8",
+      "correctAnswers": [
+        3
+      ],
+      "options": [
+        {
+          "text": "He altereth according to the thoughts and eras of mankind",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He was mighty only during the days of his earthly flesh",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He revealeth himself under different forms in each age",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Jesus Christ the same yesterday, and to day, and for ever",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_064",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Where did Jesus suffer, that He might sanctify the people (Hebrews 13:12)?",
+      "bibleReference": "Hebrews 13:12",
+      "correctAnswers": [
+        0
+      ],
+      "options": [
+        {
+          "text": "Without the city gate",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Within the holy temple",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "In Caesar's court halls",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Upon the mount Sinai",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_065",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What sacrifice of praise should we offer to God continually (Hebrews 13:15)?",
+      "bibleReference": "Hebrews 13:15",
+      "correctAnswers": [
+        1
+      ],
+      "options": [
+        {
+          "text": "Burnt offerings of rams and heifers at the altar",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The fruit of our lips giving thanks to his name",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Treasures of silver and gold for the sanctuary",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The fat of calves presented before the priests",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "hebr_066",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "text": "Which two witnesses of faith are named after Abel in Hebrews 11:5-7?",
+      "bibleReference": "Hebrews 11:5-7",
+      "correctAnswers": [
+        2,
+        3
+      ],
+      "options": [
+        {
+          "text": "Abraham",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Isaac",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Enoch",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Noah",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    }
+  ]
+}

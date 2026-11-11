@@ -1,0 +1,4328 @@
+{
+  "metadata": {
+    "quizId": "nt_27_offenbarung_alle_kapitel_en",
+    "title": "Revelation",
+    "subtitle": "Revelation 1:1 – 22:21 (113 questions)",
+    "author": "King James Version (1769)",
+    "version": "2.3.0",
+    "language": "en",
+    "category": "nt",
+    "testament": "NT",
+    "difficulty": "medium",
+    "tags": [
+      "Revelation",
+      "New Testament",
+      "Prophecy",
+      "Apocalypse",
+      "Lamb",
+      "End Times",
+      "New Jerusalem",
+      "King James Version"
+    ],
+    "questionCount": 113,
+    "canonicalBookNumber": 66
+  },
+  "questions": [
+    {
+      "questionId": "off_001",
+      "type": "single_choice",
+      "text": "Where was John when he received the revelation?",
+      "options": [
+        {
+          "text": "At Jerusalem near the temple, preaching the word of God and the testimony of Jesus",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "In the isle that is called Patmos, for the word of God, and for the testimony of Jesus",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "In the Roman province of Galatia, dwelling there as a prisoner of the emperor",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "Upon Mount Sinai, receiving the holy commandments and the covenant of the law",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Revelation 1:9",
+      "difficulty": "hard",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_002",
+      "type": "single_choice",
+      "text": "What did the glorified Lord hold in His right hand in the first vision?",
+      "options": [
+        {
+          "text": "Seven golden keys of hell and of death",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "Seven seals of the holy book of life",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "Seven stars, the angels of the seven churches",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "Seven burning lamps of fire before the throne",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Revelation 1:16",
+      "difficulty": "easy",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_003",
+      "type": "single_choice",
+      "text": "What did John behold burning before the throne of God in heaven?",
+      "options": [
+        {
+          "text": "Seven golden censers, which are the angels of the churches",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "Seven offering fires, which are the prayers of the saints",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "Seven silver lamps, which are the signs of heavenly glory",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "Seven lamps of fire, which are the seven Spirits of God",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Revelation 4:5",
+      "difficulty": "medium",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_004",
+      "type": "single_choice",
+      "text": "What divine title is given to the Lord at the beginning of the book?",
+      "options": [
+        {
+          "text": "Alpha and Omega, the beginning and the ending",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "The Prince of all kings and rulers of the earth",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "The high priest after the order of Melchisedec",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "The sovereign ruler over all the angels of heaven",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Revelation 1:8",
+      "difficulty": "medium",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_005",
+      "type": "single_choice",
+      "text": "How is the voice of the glorified Lord described in the first vision?",
+      "options": [
+        {
+          "text": "As the gentle whispering of a small breeze",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "As the sound of many waters",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "As the mighty roaring of a great lion",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "As the distant rushing of heavenly wings",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Revelation 1:15",
+      "difficulty": "easy",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_006",
+      "type": "single_choice",
+      "text": "What does the Lord have against the church in Ephesus in the epistle?",
+      "options": [
+        {
+          "text": "That they kept not the ancient commandments of God",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "That they offered incense unto the Roman emperor",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "Because thou hast left thy first love",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "That they took away the money of the poor widows",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Revelation 2:4",
+      "difficulty": "medium",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_007",
+      "type": "single_choice",
+      "text": "What reward does the Lord promise unto the faithful in Smyrna?",
+      "options": [
+        {
+          "text": "All the riches of this earth",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "Dominion over heathen cities",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "Deliverance from all labour",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "A crown of life",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Revelation 2:10",
+      "difficulty": "easy",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_008",
+      "type": "single_choice",
+      "text": "Where was Satan's seat according to the epistle to Pergamos?",
+      "options": [
+        {
+          "text": "In Pergamos, where Antipas was slain",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "In Ephesus, where Timothy ministered",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "In Corinth, where Paul the apostle dwelt",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "In Rome, the chief city of the empire",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Revelation 2:13",
+      "difficulty": "medium",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_009",
+      "type": "single_choice",
+      "text": "What is promised to him that overcometh in the church in Pergamos?",
+      "options": [
+        {
+          "text": "Bread of the temple and a black stone with the name of the king",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "The hidden manna and a white stone with a new name",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "The drink of life in a golden cup and a seal with the name of the Lamb",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "The shewbread of the tabernacle and a stone with the name of the fathers",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Revelation 2:17",
+      "difficulty": "easy",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_010",
+      "type": "single_choice",
+      "text": "Which false teacher did the church in Thyatira suffer to seduce them?",
+      "options": [
+        {
+          "text": "The sorceress Herodias",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "The prophetess Huldah",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "That woman Jezebel",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "The wicked queen Athaliah",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Revelation 2:20",
+      "difficulty": "medium",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_011",
+      "type": "single_choice",
+      "text": "What judgment is pronounced against the church in Sardis?",
+      "options": [
+        {
+          "text": "Thou hast a name of perfect holiness",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "Thou hast gathered all the riches of the world",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "Thou teachest diligently the law of Moses",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "Thou hast a name that thou livest, and art dead",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Revelation 3:1",
+      "difficulty": "medium",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_012",
+      "type": "single_choice",
+      "text": "What has the Lord set before the faithful church in Philadelphia?",
+      "options": [
+        {
+          "text": "An open door, and no man can shut it",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "A golden door into the sanctuary of God",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "A gate to dominion over all kingdoms",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "A door to the treasures of kings",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Revelation 3:8",
+      "difficulty": "hard",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_013",
+      "type": "single_choice",
+      "text": "What will the Lord make him that overcometh in Philadelphia?",
+      "options": [
+        {
+          "text": "A servant of the high priest",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "A pillar in the temple of my God",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "A judge over the heathen",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "An angel of gold",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Revelation 3:12",
+      "difficulty": "medium",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_014",
+      "type": "single_choice",
+      "text": "What spiritual condition is rebuked in the church of the Laodiceans?",
+      "options": [
+        {
+          "text": "Zealous and impatient for the coming end",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "Cold and indifferent toward the true word",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "Lukewarm, and neither cold nor hot",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "Diligent, yet lacking uprightness of heart",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Revelation 3:15-16",
+      "difficulty": "easy",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_015",
+      "type": "single_choice",
+      "text": "What counsel does the Lord give unto the church in Laodicea to buy?",
+      "options": [
+        {
+          "text": "Gold from the royal mines of Asia",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "Precious stones for the high priest's crown",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "Choice wine and costly ointment from the market",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "Gold tried in the fire, and white raiment",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Revelation 3:18",
+      "difficulty": "medium",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_016",
+      "type": "single_choice",
+      "text": "How many elders sit upon seats round about the throne of God?",
+      "options": [
+        {
+          "text": "Four and twenty elders clothed in white with golden crowns",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "Twelve elders clothed in white raiment with golden crowns",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "Seventy elders clothed in scarlet robes with silver crowns",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "An hundred forty and four elders clothed in white with palms",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Revelation 4:4",
+      "difficulty": "hard",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_017",
+      "type": "single_choice",
+      "text": "What was before the throne of God in the fourth chapter?",
+      "options": [
+        {
+          "text": "A river of pure gold flowing down from the throne",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "A sea of glass like unto crystal",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "A lake of offering blood compassing the holy altar",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "A stormy sea with great waves tossing before God",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Revelation 4:6",
+      "difficulty": "hard",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_018",
+      "type": "single_choice",
+      "text": "What likenesses do the four beasts around the throne possess?",
+      "options": [
+        {
+          "text": "A bear, a leopard, a dragon, and a ram seen by Daniel",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "A dove, a lamb, a ram, and a red horse seen of old",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "A lion, a calf, a face as a man, and a flying eagle",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "A wolf, a serpent, a hind, and an eagle in vision",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Revelation 4:7",
+      "difficulty": "medium",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_019",
+      "type": "single_choice",
+      "text": "How many wings had each of the four beasts round about the throne?",
+      "options": [
+        {
+          "text": "Four wings, and full of eyes round about and within",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "Two wings to cover their face and two to cover feet",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "Eight wings of light, full of bright eyes round about",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "Six wings about him, and they were full of eyes within",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Revelation 4:8",
+      "difficulty": "hard",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_020",
+      "type": "single_choice",
+      "text": "What do the four beasts say restlessly day and night before God?",
+      "options": [
+        {
+          "text": "Holy, holy, holy, Lord God Almighty, which was, and is, and is to come",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "Judgment, judgment, judgment is the Lord, the Judge of all nations of the earth",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "Righteous, righteous, righteous are his ways, which he hath gone and yet shall go",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "Grace, grace, grace unto all men that call upon him and come unto him",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Revelation 4:8",
+      "difficulty": "medium",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_021",
+      "type": "single_choice",
+      "text": "How is the book in the right hand of Him that sat on the throne sealed?",
+      "options": [
+        {
+          "text": "With four seals of scarlet wax",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "Sealed with seven seals",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "With twelve golden seals of state",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "With a single seal of an emperor",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Revelation 5:1",
+      "difficulty": "medium",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_022",
+      "type": "single_choice",
+      "text": "Why did John weep much in the fifth chapter?",
+      "options": [
+        {
+          "text": "Because the holy temple was destroyed and lay in ruins",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "Because he was imprisoned on Patmos and could not escape",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "Because no man was found worthy to open and read the book",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "Because the saints upon the earth suffered and were slain",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Revelation 5:4",
+      "difficulty": "medium",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_023",
+      "type": "single_choice",
+      "text": "Who hath prevailed to open the book and to loose the seven seals?",
+      "options": [
+        {
+          "text": "Michael the archangel, prince of hosts",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "Moses the prophet, mediator of the law",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "Paul the apostle, teacher of Gentiles",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "The Lion of the tribe of Juda, David's Root",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Revelation 5:5",
+      "difficulty": "easy",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_024",
+      "type": "single_choice",
+      "text": "How stood the Lamb in the midst of the throne before the elders?",
+      "options": [
+        {
+          "text": "As a Lamb as it had been slain, having seven horns and seven eyes",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "As a conqueror on a fiery chariot, with seven crowns and swords",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "As a white dove over the throne, having seven wings and eyes",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "As a king with a golden diadem, having seven burning lamps",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Revelation 5:6",
+      "difficulty": "hard",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_025",
+      "type": "single_choice",
+      "text": "What do the golden vials of the four and twenty elders contain?",
+      "options": [
+        {
+          "text": "The blood of sacrifices to atone for sins",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "Odours, which are the prayers of saints",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "Anointing oil to consecrate the sanctuary",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "Pure wine of the covenant for the supper",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Revelation 5:8",
+      "difficulty": "medium",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_026",
+      "type": "single_choice",
+      "text": "Which horse went forth at the opening of the first seal?",
+      "options": [
+        {
+          "text": "A red horse, whose rider carried a great sword",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "A black horse, whose rider held balances in hand",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "A white horse, and he that sat on him had a bow",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "A pale horse, and his name that sat on him was Death",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Revelation 6:2",
+      "difficulty": "medium",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_027",
+      "type": "single_choice",
+      "text": "What power was given unto him that sat on the red horse?",
+      "options": [
+        {
+          "text": "To destroy the harvests and cause all the fields to wither",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "To send grievous pestilence and smite the cattle of earth",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "To turn the rivers into blood and slay every living thing",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "To take peace from earth, and that they should kill one another",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Revelation 6:4",
+      "difficulty": "medium",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_028",
+      "type": "single_choice",
+      "text": "What did a voice say in the midst of the beasts at the black horse?",
+      "options": [
+        {
+          "text": "A measure of wheat for a penny, and three measures of barley for a penny",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "A measure of wheat for ten pence, and three measures of barley for ten pence",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "Hurt thou the oil and the wine, and take away the bread of the poor",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "Bread for all the poor without money and without price",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Revelation 6:6",
+      "difficulty": "medium",
+      "explanation": "A measure (Greek choenix, about one quart) was a worker's daily wheat ration; a penny (denarius) was the standard daily wage for a labourer [ref:Revelation 6:6].",
+      "explanationReviewed": true
+    },
+    {
+      "questionId": "off_029",
+      "type": "single_choice",
+      "text": "Who followed him that sat on the pale horse at the fourth seal?",
+      "options": [
+        {
+          "text": "A host of holy angels followed after him",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "Hell followed with him",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "The company of the martyrs followed after him",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "The false prophet followed after him",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Revelation 6:8",
+      "difficulty": "easy",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_030",
+      "type": "single_choice",
+      "text": "Where were the souls of the slain seen at the opening of the fifth seal?",
+      "options": [
+        {
+          "text": "Upon the clouds of heaven",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "In the courts of the temple",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "Under the altar of God",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "Upon the sea of glass",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Revelation 6:9",
+      "difficulty": "easy",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_031",
+      "type": "single_choice",
+      "text": "How many were sealed of all the tribes of the children of Israel?",
+      "options": [
+        {
+          "text": "An hundred thousand sealed of all the tribes of the children of Israel",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "Seven thousand sealed of Jerusalem and the country round about",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "Four and twenty thousand sealed of all the tribes of the children of Israel",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "An hundred and forty and four thousand sealed of all the tribes of the children of Israel",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Revelation 7:4",
+      "difficulty": "hard",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_032",
+      "type": "single_choice",
+      "text": "How many were sealed out of each of the twelve tribes of Israel?",
+      "options": [
+        {
+          "text": "Twelve thousand of each tribe",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "One thousand out of each tribe",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "Ten thousand out of each tribe",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "Seven thousand out of each tribe",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Revelation 7:5-8",
+      "difficulty": "hard",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_033",
+      "type": "single_choice",
+      "text": "What did the great multitude hold in their hands before the throne?",
+      "options": [
+        {
+          "text": "Golden crowns upon their heads",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "Palms in their hands",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "Burning lamps in their right hands",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "Golden vials filled with incense",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Revelation 7:9",
+      "difficulty": "easy",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_034",
+      "type": "single_choice",
+      "text": "Whence came the great multitude clothed with white robes?",
+      "options": [
+        {
+          "text": "Out of the prisons and dungeons of kings",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "Out of the wilderness and caves of earth",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "Out of great tribulation in the end",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "Out of the temples and dwellings of idols",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Revelation 7:14",
+      "difficulty": "medium",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_035",
+      "type": "single_choice",
+      "text": "Wherein have the redeemed washed their robes and made them white?",
+      "options": [
+        {
+          "text": "In the water of the Jordan",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "By works of the holy law",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "By their own righteousness",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "In the blood of the Lamb",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Revelation 7:14",
+      "difficulty": "hard",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_036",
+      "type": "single_choice",
+      "text": "How long was there silence in heaven when the seventh seal was opened?",
+      "options": [
+        {
+          "text": "About the space of half an hour",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "About the space of one whole hour",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "About the space of a full day",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "About the space of seven days",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Revelation 8:1",
+      "difficulty": "hard",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_037",
+      "type": "single_choice",
+      "text": "What was given unto the angel having the golden censer at the altar?",
+      "options": [
+        {
+          "text": "The blood of bullocks, that he should pour it out upon the altar",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "Much incense, that he should offer it with prayers of all saints",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "Anointing oil, that he should sanctify the altar before the Lord",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "The crowns of elders, that he should lay them down before the Lamb",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Revelation 8:3",
+      "difficulty": "medium",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_038",
+      "type": "single_choice",
+      "text": "What followed when the first angel sounded his trumpet?",
+      "options": [
+        {
+          "text": "The third part of the sea became blood, and ships were destroyed",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "The sun was darkened greatly, and the moon gave not her light",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "Hail and fire mingled with blood, and they were cast upon earth",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "The bottomless pit was opened, and great smoke arose out of it",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Revelation 8:7",
+      "difficulty": "medium",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_039",
+      "type": "single_choice",
+      "text": "What is the name of the great star that fell at the third trumpet?",
+      "options": [
+        {
+          "text": "Morning star, which maketh the third part of waters sweet",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "Orion, which drieth up the third part of fountains of waters",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "Lucifer, which poisoneth the third part of all great rivers",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "Wormwood, which maketh the third part of the waters bitter",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Revelation 8:10-11",
+      "difficulty": "medium",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_040",
+      "type": "single_choice",
+      "text": "Who flies through the midst of heaven saying, Woe, woe, woe?",
+      "options": [
+        {
+          "text": "An angel flying through heaven",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "An eagle flying through heaven",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "A cherub flying through heaven",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "A seraph flying through heaven",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Revelation 8:13",
+      "difficulty": "easy",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_041",
+      "type": "single_choice",
+      "text": "What arose out of the bottomless pit when the fifth angel sounded?",
+      "options": [
+        {
+          "text": "A stream of brimstone, and out of the stream arose scorpions",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "Smoke as of a great furnace, and out of smoke came locusts",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "A host of dark riders, and out of the host rode foul devils",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "A swarm of fiery serpents, and out of the swarm deadly smoke",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Revelation 9:2-3",
+      "difficulty": "easy",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_042",
+      "type": "single_choice",
+      "text": "Whom were the locusts commanded NOT to hurt in Revelation 9:4?",
+      "options": [
+        {
+          "text": "The rich with much gold and the mighty rulers in palaces",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "The priests in the temple and all that sacrifice to God",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "Those men which have the seal of God in their foreheads",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "The citizens of Rome and all that serve Caesar the king",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Revelation 9:4",
+      "difficulty": "medium",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_043",
+      "type": "single_choice",
+      "text": "How long were the locusts given power to torment men without the seal?",
+      "options": [
+        {
+          "text": "Three months, as the torment and poison of a biting serpent",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "Seven full years, as the torment caused by a devouring wolf",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "One whole year, as the torment and burning of unquenched fire",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "Five months, as the torment of a scorpion when he striketh",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Revelation 9:5",
+      "difficulty": "hard",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_044",
+      "type": "single_choice",
+      "text": "Who was king over the locusts that came out of the bottomless pit?",
+      "options": [
+        {
+          "text": "The angel of the bottomless pit, named Abaddon and Apollyon",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "The ruler of Rome, whose name is Caesar and lord in Greek",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "King Solomon of Jerusalem, called Jedidiah and Sophia",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "The false prophet of iniquity, named Belial and Satanas",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Revelation 9:11",
+      "difficulty": "easy",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_045",
+      "type": "single_choice",
+      "text": "Where were the four angels bound that were loosed at the sixth trumpet?",
+      "options": [
+        {
+          "text": "At the holy mount Sinai",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "In the great river Euphrates",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "Under the temple altar",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "In the isle of Patmos",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Revelation 9:14-15",
+      "difficulty": "easy",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_046",
+      "type": "single_choice",
+      "text": "What did the mighty angel coming down from heaven have in his hand?",
+      "options": [
+        {
+          "text": "A golden crown set with seven precious gems",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "A flaming sword of heavenly retribution",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "A little book open in his hand",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "A golden vial filled with wrath of God",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Revelation 10:2",
+      "difficulty": "easy",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_047",
+      "type": "single_choice",
+      "text": "Where did the mighty angel set his feet in the tenth chapter?",
+      "options": [
+        {
+          "text": "His right foot on Mount Olivet and his left upon the temple",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "His right foot upon the heavens and his left upon the deep",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "His right foot on the altar and his left upon the sanctuary",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "His right foot upon the sea, and his left foot on the earth",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Revelation 10:2",
+      "difficulty": "easy",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_048",
+      "type": "single_choice",
+      "text": "What uttered their voices when the mighty angel cried as a lion roareth?",
+      "options": [
+        {
+          "text": "Seven thunders uttered their voices",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "The voices of the seven trumpets",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "The voices of the seven Spirits",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "The voices of the seven vials",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Revelation 10:3",
+      "difficulty": "easy",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_049",
+      "type": "single_choice",
+      "text": "What was John commanded to do with the sayings of the seven thunders?",
+      "options": [
+        {
+          "text": "To write them immediately for all nations",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "To seal them up, and to write them not down",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "To proclaim them aloud in the temple",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "To deliver them unto the elders",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Revelation 10:4",
+      "difficulty": "easy",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_050",
+      "type": "single_choice",
+      "text": "What was the effect of eating the little book given by the angel?",
+      "options": [
+        {
+          "text": "In the mouth sweet, and in the belly sweet",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "In the mouth bitter, and in the belly bitter",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "In the mouth sweet as honey, but in the belly bitter",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "Without any taste in the mouth or in the belly",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Revelation 10:9-10",
+      "difficulty": "medium",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_051",
+      "type": "single_choice",
+      "text": "What was given unto John to measure the temple of God and the altar?",
+      "options": [
+        {
+          "text": "A golden line with a plummet",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "An iron chain with great hooks",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "A silver rule marked with signs",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "A reed like unto a measuring rod",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Revelation 11:1",
+      "difficulty": "easy",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_052",
+      "type": "single_choice",
+      "text": "How long were the two witnesses given power to prophesy in sackcloth?",
+      "options": [
+        {
+          "text": "A thousand two hundred and threescore days",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "Threescore days of judgment",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "Three hundred threescore and five days",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "Forty full days and nights in sackcloth",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Revelation 11:3",
+      "difficulty": "hard",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_053",
+      "type": "single_choice",
+      "text": "What made war against the two witnesses and killed them?",
+      "options": [
+        {
+          "text": "The Roman governor that ruled in Jerusalem",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "The beast out of the bottomless pit",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "The high priest that served in the temple",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "The king of the locusts that cometh out of the pit",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Revelation 11:7",
+      "difficulty": "medium",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_054",
+      "type": "single_choice",
+      "text": "How long did the people see the dead bodies of the two witnesses?",
+      "options": [
+        {
+          "text": "Seven full days and nights",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "Ten full days of mourning",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "Three days and an half",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "One single day and night",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Revelation 11:9",
+      "difficulty": "hard",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_055",
+      "type": "single_choice",
+      "text": "What happened unto the two witnesses after three days and an half?",
+      "options": [
+        {
+          "text": "They fell to dust in the grave, and no man beheld them any more",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "They wandered upon earth as departed spirits among nations",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "They were cast into the great sea and drowned in deep waters",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "The Spirit of life entered them, and they ascended up to heaven",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Revelation 11:11-12",
+      "difficulty": "medium",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_056",
+      "type": "single_choice",
+      "text": "How was the woman clothed that appeared as a great wonder in heaven?",
+      "options": [
+        {
+          "text": "Clothed with the sun, and the moon under her feet",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "Clothed with the moon, and the sun under her feet",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "Clothed with white clouds and seven radiant stars",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "Clothed with imperial purple and a golden diadem",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Revelation 12:1",
+      "difficulty": "hard",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_057",
+      "type": "single_choice",
+      "text": "What did the woman wear upon her head as a crown?",
+      "options": [
+        {
+          "text": "A golden crown set with jewels",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "A crown of twelve bright stars",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "A radiant veil of pure light",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "A diadem made of fine diamonds",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Revelation 12:1",
+      "difficulty": "easy",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_058",
+      "type": "single_choice",
+      "text": "What other wonder appeared in heaven before the woman?",
+      "options": [
+        {
+          "text": "A great lion, having seven heads and ten golden crowns",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "A black bear, having seven fiery eyes and ten claws",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "A great red dragon, having seven heads and ten horns",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "A white eagle, having seven heads and ten great wings",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Revelation 12:3",
+      "difficulty": "medium",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_059",
+      "type": "single_choice",
+      "text": "Whither was the man child caught up after his birth?",
+      "options": [
+        {
+          "text": "Into the wilderness to a prepared place of refuge",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "Into the temple, where the priests built him an house",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "Unto the sea of glass, where the angels received him",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "Caught up unto God, and to his throne",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Revelation 12:5",
+      "difficulty": "medium",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_060",
+      "type": "single_choice",
+      "text": "Who fought in heaven against the dragon and his angels?",
+      "options": [
+        {
+          "text": "Michael and his angels",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "Paul and all the apostles",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "Melchisedec the high priest",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "The four and twenty elders",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Revelation 12:7-8",
+      "difficulty": "easy",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_061",
+      "type": "single_choice",
+      "text": "What is the likeness of the beast that rises out of the sea (Rev 13:1)?",
+      "options": [
+        {
+          "text": "Having ten heads and seven horns, and upon horns crowns",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "Having seven heads and ten horns, and upon horns ten crowns",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "Having four heads and four horns, and upon heads four crowns",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "Having twelve heads and twelve horns, and upon horns crowns",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Revelation 13:1",
+      "difficulty": "medium",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_062",
+      "type": "single_choice",
+      "text": "What wild beasts was the beast like in his appearance?",
+      "options": [
+        {
+          "text": "Like a lion, a bear, and a wolf, having seven heads",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "Like a dragon, a serpent, and an eagle, having horns",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "Like a leopard, feet as a bear, mouth as of a lion",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "Like a bull, a ram, and a goat, having ten crowns",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Revelation 13:2",
+      "difficulty": "medium",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_063",
+      "type": "single_choice",
+      "text": "What did the second beast coming up out of the earth look like?",
+      "options": [
+        {
+          "text": "It had one horn like a goat, and it spake like an angel",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "It had three horns like a bull, and it spake like a lion",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "It had four horns like a ram, and it spake like a bear",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "He had two horns like a lamb, and he spake as a dragon",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Revelation 13:11",
+      "difficulty": "medium",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_064",
+      "type": "single_choice",
+      "text": "What did the second beast cause all men upon earth to receive?",
+      "options": [
+        {
+          "text": "To receive a mark in their right hand, or in their foreheads",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "To wear a golden signet on their finger and serve the beast",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "To put an iron collar about their neck and worship Caesar",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "To wear a purple girdle in honour of the image and praise it",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Revelation 13:16",
+      "difficulty": "hard",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_065",
+      "type": "single_choice",
+      "text": "What is the number of the beast in Revelation 13:18?",
+      "options": [
+        {
+          "text": "Seven hundred seventy and seven",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "Six hundred threescore and six",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "Three hundred thirty and three",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "Five hundred fifty and five",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Revelation 13:18",
+      "difficulty": "medium",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_066",
+      "type": "single_choice",
+      "text": "Where stood the Lamb with the 144,000 in the fourteenth chapter?",
+      "options": [
+        {
+          "text": "Upon the mount Sinai",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "Upon the sea of glass",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "Upon the mount Sion",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "In the isle of Patmos",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Revelation 14:1",
+      "difficulty": "medium",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_067",
+      "type": "single_choice",
+      "text": "What characterises the 144,000 redeemed from among men?",
+      "options": [
+        {
+          "text": "They gathered great riches and dedicated all unto temple",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "They were priests of the law and served daily at altar",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "They kept all commandments of kings and Roman magistrate",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "They follow the Lamb whithersoever he goeth, as firstfruits",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Revelation 14:4",
+      "difficulty": "hard",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_068",
+      "type": "single_choice",
+      "text": "What did the angel flying in the midst of heaven have to preach?",
+      "options": [
+        {
+          "text": "The everlasting gospel to preach to them on the earth",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "The destruction of Jerusalem and the end of the temple",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "The pouring out of the seven vials of wrath upon the earth",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "The building of a new temple of gold and precious stones",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Revelation 14:6",
+      "difficulty": "easy",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_069",
+      "type": "single_choice",
+      "text": "What did the second angel proclaim concerning great Babylon?",
+      "options": [
+        {
+          "text": "Woe, Jerusalem is fallen, the holy city of the Lord",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "Babylon is fallen, is fallen, that great wicked city",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "Behold, Rome is destroyed, the great imperial palace",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "Alexandria is ruined, the glory of Greek philosophers",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Revelation 14:8",
+      "difficulty": "easy",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_070",
+      "type": "single_choice",
+      "text": "What did he that sat upon the white cloud have in his hand?",
+      "options": [
+        {
+          "text": "A flaming sword of judgment",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "A long golden sceptre",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "A sharp sickle for the harvest",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "A brightly burning torch",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Revelation 14:14",
+      "difficulty": "hard",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_071",
+      "type": "single_choice",
+      "text": "What did they that had gotten victory over the beast have in hands?",
+      "options": [
+        {
+          "text": "Golden trumpets of judgment",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "Sharp twoedged iron swords",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "Burning lamps of pure fire",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "The harps of God in hands",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Revelation 15:2",
+      "difficulty": "easy",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_072",
+      "type": "single_choice",
+      "text": "What song did they sing that stood on the sea of glass?",
+      "options": [
+        {
+          "text": "The song of Moses the servant of God, and the song of the Lamb",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "The song of David the king, and the song of Paul the apostle",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "The song of the angels, and the song of the elders before the throne",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "The song of Abraham the father of the faithful, and the song of the prophets",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Revelation 15:3",
+      "difficulty": "easy",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_073",
+      "type": "single_choice",
+      "text": "What did one of the four beasts give unto the seven angels?",
+      "options": [
+        {
+          "text": "Seven silver trumpets of final doom",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "Seven golden vials full of wrath",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "Seven burning lamps of holy wisdom",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "Seven golden crowns of great glory",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Revelation 15:7",
+      "difficulty": "easy",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_074",
+      "type": "single_choice",
+      "text": "Wherewith was the temple in heaven filled before the vials were poured out?",
+      "options": [
+        {
+          "text": "With the odour of prayers and the incense of the saints",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "With the blood of beasts and the smoke of burnt offerings",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "With smoke from the glory of God, and from his power",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "With the light of angels and the brightness of the stars",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Revelation 15:8",
+      "difficulty": "medium",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_075",
+      "type": "single_choice",
+      "text": "Who was able to enter into the temple till the plagues were fulfilled?",
+      "options": [
+        {
+          "text": "Only the high priest",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "Only the seven angels",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "The four and twenty elders",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "No man was able to enter",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Revelation 15:8",
+      "difficulty": "easy",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_076",
+      "type": "single_choice",
+      "text": "What fell upon men when the first angel poured his vial on earth?",
+      "options": [
+        {
+          "text": "A noisome and grievous sore fell upon men having the mark",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "A great earthquake shook down the walls of the great city",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "The sun was darkened over all lands for the space of days",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "All water of fountains became bitter and unfit to drink",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Revelation 16:2",
+      "difficulty": "easy",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_077",
+      "type": "single_choice",
+      "text": "What did the sea become when the second angel poured out his vial?",
+      "options": [
+        {
+          "text": "Into brimstone, and every creature therein was burned",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "As blood of a dead man, and every living soul died",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "Into dry ground, and all ships sank down in the sand",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "Into wormwood, and every living creature fell sick",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Revelation 16:3",
+      "difficulty": "medium",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_078",
+      "type": "single_choice",
+      "text": "What judgment was uttered by the angel of the waters?",
+      "options": [
+        {
+          "text": "The Lord is too severe with sinners, for they acted in foolishness",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "The Lord have mercy upon the lost, for his mercy endureth forever",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "Thou art righteous, Lord, for they shed the blood of the saints",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "The Lord forgive all heathen nations offering sacrifices in temple",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Revelation 16:5-6",
+      "difficulty": "medium",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_079",
+      "type": "single_choice",
+      "text": "What power was given unto the sun at the fourth vial?",
+      "options": [
+        {
+          "text": "To torment all men upon earth with darkness",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "To lose its light for seven months",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "To be divided into three parts",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "To scorch men with fire",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Revelation 16:8-9",
+      "difficulty": "medium",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_080",
+      "type": "single_choice",
+      "text": "What came out of the mouth of the dragon, beast, and false prophet?",
+      "options": [
+        {
+          "text": "Three unclean spirits like frogs",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "Three black ravens of dark doom",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "Three deadly serpents of poison",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "Three fierce wolves from desert",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Revelation 16:13-14",
+      "difficulty": "hard",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_081",
+      "type": "single_choice",
+      "text": "Where did the woman sit according to the seventeenth chapter?",
+      "options": [
+        {
+          "text": "Upon mount Sion, upon a white horse with golden bridle",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "Upon many waters, sitting upon a scarlet coloured beast",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "In the wilderness, upon a black beast without any bridle",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "In the palace of the emperor, upon a throne of pure gold",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Revelation 17:1-3",
+      "difficulty": "medium",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_082",
+      "type": "single_choice",
+      "text": "What name was written upon the forehead of the woman?",
+      "options": [
+        {
+          "text": "The Beast out of the Pit, the Mother of Harlots and Abominations of the Earth",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "The Queen of Heaven of the Heathen, the Mother of Gods and Abominations of the Earth",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "Mystery, Babylon the Great, the Mother of Harlots and Abominations of the Earth",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "The Enemy of the Saints, the Mother of Lies and Abominations of the Earth",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Revelation 17:5",
+      "difficulty": "hard",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_083",
+      "type": "single_choice",
+      "text": "Wherewith was the woman drunken when John saw her?",
+      "options": [
+        {
+          "text": "With wine of kings and blood of sacrificial beasts",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "With gold of all lands and labour of weary servants",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "With pride of her great power and glory of kingdoms",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "With blood of saints, and blood of martyrs of Jesus",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Revelation 17:6",
+      "difficulty": "medium",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_084",
+      "type": "single_choice",
+      "text": "What are the seven heads of the scarlet coloured beast?",
+      "options": [
+        {
+          "text": "Seven mountains, on which woman sitteth, and seven kings",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "Seven years of war in which she reigneth, and seven lords",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "Seven temples of idols wherein she dwelleth, and priests",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "Seven angels of vengeance beside whom she sitteth, and lands",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Revelation 17:9-10",
+      "difficulty": "medium",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_085",
+      "type": "single_choice",
+      "text": "What do the waters signify where the woman sitteth?",
+      "options": [
+        {
+          "text": "The seas and rivers of all the earth",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "Peoples, multitudes, nations, tongues",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "The transgressions of wicked sinners",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "The tears and sorrows of the martyrs",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Revelation 17:15",
+      "difficulty": "medium",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_086",
+      "type": "single_choice",
+      "text": "What voice was heard from heaven concerning Babylon?",
+      "options": [
+        {
+          "text": "Rebuild the towers of Babylon, my people, that it may stand fast",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "Fight with weapons against the whore, my people, that she fall",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "Come out of her, my people, that ye be not partakers of her sins",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "Bring your offerings to temples, my people, that ye be blessed",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Revelation 18:4",
+      "difficulty": "medium",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_087",
+      "type": "single_choice",
+      "text": "How swiftly shall the plagues of Babylon come upon her?",
+      "options": [
+        {
+          "text": "In seven full years of warfare",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "In three months of destruction",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "In twelve long years of famine",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "In one single day of judgment",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Revelation 18:8",
+      "difficulty": "easy",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_088",
+      "type": "single_choice",
+      "text": "Who shall weep and mourn over great Babylon when she falleth?",
+      "options": [
+        {
+          "text": "The kings of earth and merchants",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "The high priests in the old temple",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "The host of angels in high heaven",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "All apostles and holy witnesses",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Revelation 18:9-11",
+      "difficulty": "hard",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_089",
+      "type": "single_choice",
+      "text": "What was the merchandise of Babylon that no man buyeth?",
+      "options": [
+        {
+          "text": "Only wheat, barley, oil and wine, the goods of husbandmen and countrymen",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "Gold, silver, precious stones, pearls, purple, silk, wine, oil, beasts and souls of men",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "Only weapons, swords and chariots, the goods of soldiers and men of war",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "Only sheep, oxen and horses, the goods of shepherds and herdsmen",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Revelation 18:12-13",
+      "difficulty": "hard",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_090",
+      "type": "single_choice",
+      "text": "What sign did a mighty angel perform showing Babylon's fall?",
+      "options": [
+        {
+          "text": "He set the city on fire with an arrow, and fled",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "He smote upon the earth with a chain of iron",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "He took up a stone like a great millstone, and cast it into the sea",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "He blew a black trumpet over the city",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Revelation 18:21",
+      "difficulty": "easy",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_091",
+      "type": "single_choice",
+      "text": "What song of praise was heard from much people in heaven?",
+      "options": [
+        {
+          "text": "Glory be unto kings of earth and their hosts",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "Praise be unto apostles that preached gospel",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "Peace be upon great Babylon, queen of kingdoms",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "Salvation, and glory, honour, and power, unto our God",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Revelation 19:1-3",
+      "difficulty": "medium",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_092",
+      "type": "single_choice",
+      "text": "What great event was proclaimed with rejoicing in chapter 19?",
+      "options": [
+        {
+          "text": "The marriage of the Lamb, and his wife hath made ready",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "The downfall of the temple, and the city lieth waste",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "The judgment of the angels, and the throne is empty",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "The coronation of Caesar, and his kingdom is fulfilled",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Revelation 19:7",
+      "difficulty": "medium",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_093",
+      "type": "single_choice",
+      "text": "What is signified by the fine linen granted to the bride?",
+      "options": [
+        {
+          "text": "The sacrifices offered up continually in the temple",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "The righteousness and godly deeds of the saints",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "The riches and treasures which they gained on earth",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "The triumphs over the heathen kingdoms of the world",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Revelation 19:8",
+      "difficulty": "hard",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_094",
+      "type": "single_choice",
+      "text": "What horse and vesture did the Faithful and True have?",
+      "options": [
+        {
+          "text": "A black horse; vesture adorned in purple and fine gold",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "A red horse; vesture adorned with a lion's skin",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "A white horse; vesture dipped in blood",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "A green horse; vesture of glistening silver cloth",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Revelation 19:11-13",
+      "difficulty": "medium",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_095",
+      "type": "single_choice",
+      "text": "What became of the beast and the false prophet in the battle?",
+      "options": [
+        {
+          "text": "They were bound in everlasting chains in darkness",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "They were slain by angels and cast into the sea",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "They were sealed in the bottomless pit for years",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "Both were cast alive into a lake of burning fire",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Revelation 19:20",
+      "difficulty": "hard",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_096",
+      "type": "single_choice",
+      "text": "How long was the dragon, that old serpent, bound in the pit?",
+      "options": [
+        {
+          "text": "A thousand full years",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "Seven hundred years",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "Five hundred years",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "Twelve thousand years",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Revelation 20:2",
+      "difficulty": "hard",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_097",
+      "type": "single_choice",
+      "text": "Who reigned with Christ a thousand years in the first resurrection?",
+      "options": [
+        {
+          "text": "All kings and rulers of earth that bowed before the Lamb",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "The souls of them beheaded for witness and word of God",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "The hundred forty and four thousand on the mount Sion",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "The four and twenty elders sitting round about throne",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Revelation 20:4",
+      "difficulty": "medium",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_098",
+      "type": "single_choice",
+      "text": "What must happen unto Satan when the thousand years are expired?",
+      "options": [
+        {
+          "text": "He remaineth forever in the bottomless pit",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "He is received immediately into high heaven",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "He must be loosed again for a little season",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "He is made a ruler over all heathen nations",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Revelation 20:3",
+      "difficulty": "easy",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_099",
+      "type": "single_choice",
+      "text": "What nations shall Satan gather together to battle against saints?",
+      "options": [
+        {
+          "text": "The hosts of Rome and Phoenicia, in four quarters of earth",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "Assyrians and Babylonians, gathered from quarters of earth",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "Egyptians and Ethiopians, gathered from quarters of earth",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "Gog and Magog, the nations in the four quarters of earth",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Revelation 20:8",
+      "difficulty": "medium",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_100",
+      "type": "single_choice",
+      "text": "Who stood before God to be judged out of the books?",
+      "options": [
+        {
+          "text": "The dead, small and great, according to their works",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "Only the fallen angels that rebelled against God",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "Only the heathen without law that knew not the Lord",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "Only the kings and merchants that worshipped Babylon",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Revelation 20:12",
+      "difficulty": "hard",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_101",
+      "type": "single_choice",
+      "text": "What did John behold at the beginning of the 21st chapter?",
+      "options": [
+        {
+          "text": "A new temple upon mount Sion",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "A new heaven and a new earth",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "Paradise with the tree of life",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "The ruin of all heathen kingdoms",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Revelation 21:1",
+      "difficulty": "medium",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_102",
+      "type": "single_choice",
+      "text": "What was no more upon the new earth in the first verse?",
+      "options": [
+        {
+          "text": "There are no mountains",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "There are no wild forests",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "There was no more sea",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "There are no rivers more",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Revelation 21:1",
+      "difficulty": "easy",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_103",
+      "type": "single_choice",
+      "text": "How was the holy city, new Jerusalem, prepared coming down?",
+      "options": [
+        {
+          "text": "As a strong city with gates of solid iron",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "As a glorious sanctuary built of pure gold",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "As a radiant tabernacle of holy archangels",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "As a bride adorned for her loving husband",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Revelation 21:2",
+      "difficulty": "medium",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_104",
+      "type": "single_choice",
+      "text": "How many gates had new Jerusalem, and who stood at the gates?",
+      "options": [
+        {
+          "text": "Twelve gates, at the gates twelve angels, and names of twelve tribes",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "Eight gates, at the gates eight prophets watching the city always",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "Seven gates, at the gates seven priests preserving the sanctuary",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "Four gates, at the gates four cherubims defending heavenly streets",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Revelation 21:12",
+      "difficulty": "hard",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_105",
+      "type": "single_choice",
+      "text": "Why did John see NO temple in the holy city Jerusalem?",
+      "options": [
+        {
+          "text": "Because the temple was destroyed and lay in ruinous waste",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "For the Lord God Almighty and the Lamb are the temple of it",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "Because the redeemed live without temple service forever",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "Because the earthly sanctuary remained upon the old earth",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Revelation 21:22",
+      "difficulty": "hard",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_106",
+      "type": "single_choice",
+      "text": "What proceeded out of the throne of God and of the Lamb?",
+      "options": [
+        {
+          "text": "A river of pure molten gold, clear as crystal",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "A fiery stream of judgment consuming all sinners",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "A pure river of water of life, clear as crystal",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "A stream of holy angels ministering before God",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Revelation 22:1",
+      "difficulty": "medium",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_107",
+      "type": "single_choice",
+      "text": "Where stood the tree of life, and how often yielded it fruit?",
+      "options": [
+        {
+          "text": "In four corners of city, bearing four fruits in every season",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "Only in the inner sanctuary, bearing seven fruits every day",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "Before the great city gates, bearing twenty fruits in a year",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "On either side of the river, yielding her fruit every month",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Revelation 22:2",
+      "difficulty": "hard",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_108",
+      "type": "single_choice",
+      "text": "What were the leaves of the tree of life for in the city?",
+      "options": [
+        {
+          "text": "For healing of nations",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "For adorning of houses",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "For sweet smelling incense",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "For meat unto all beasts",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Revelation 22:2",
+      "difficulty": "easy",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_109",
+      "type": "single_choice",
+      "text": "What solemn warning is given at the conclusion of prophecy?",
+      "options": [
+        {
+          "text": "He that readeth not dieth; he that understandeth not is condemned",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "If any add, God addeth plagues; if any take away, he loseth part",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "He that honoureth it not loseth his part; he that keepeth it not is destroyed",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "He that despiseth it is cursed; he that keepeth it secret is punished",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Revelation 22:18-19",
+      "difficulty": "medium",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_110",
+      "type": "single_choice",
+      "text": "What final promise doth the Lord Jesus testify at the end?",
+      "options": [
+        {
+          "text": "I forgive all men on earth; my kingdom endureth without any end",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "I build you a mansion in heaven; I am with you until the end",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "Surely I come quickly. Amen. Even so, come, Lord Jesus.",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "I destroy every enemy for ever; my wrath against nations abideth",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Revelation 22:20",
+      "difficulty": "easy",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_111",
+      "type": "multiple_choice",
+      "text": "Which two things shall be NO more according to Revelation 21:4?",
+      "options": [
+        {
+          "text": "Famine",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "Warfare",
+          "isCorrect": false,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "Death",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "Pain",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        2,
+        3
+      ],
+      "bibleReference": "Revelation 21:4",
+      "difficulty": "easy",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_112",
+      "type": "ordering",
+      "text": "Put the first four epistles of Revelation into the correct order.",
+      "options": [
+        {
+          "text": "Thyatira",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "Ephesus",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "Smyrna",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "Pergamos",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3,
+        0
+      ],
+      "bibleReference": "Revelation 2:1-18",
+      "difficulty": "hard",
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "off_113",
+      "type": "ordering",
+      "text": "Put the four horses of the first four seals in order by color.",
+      "options": [
+        {
+          "text": "The black horse",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_1"
+        },
+        {
+          "text": "The pale horse",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_2"
+        },
+        {
+          "text": "The red horse",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_3"
+        },
+        {
+          "text": "The white horse",
+          "isCorrect": true,
+          "explanation": "",
+          "id": "opt_4"
+        }
+      ],
+      "correctAnswers": [
+        3,
+        2,
+        0,
+        1
+      ],
+      "bibleReference": "Revelation 6:1-8",
+      "difficulty": "medium",
+      "explanation": "",
+      "explanationReviewed": false
+    }
+  ]
+}

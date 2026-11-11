@@ -1,0 +1,197 @@
+{
+  "metadata": {
+    "quizId": "nt_18_philemon_alle_kapitel_en",
+    "title": "Philemon",
+    "subtitle": "Philemon 1:1-25 (5 questions)",
+    "author": "King James Version (1769)",
+    "version": "2.3.0",
+    "language": "en",
+    "category": "nt",
+    "difficulty": "medium",
+    "tags": [
+      "Philemon",
+      "New Testament",
+      "Pauline Epistles",
+      "Paul",
+      "Forgiveness",
+      "Onesimus",
+      "Reconciliation",
+      "King James Version"
+    ],
+    "questionCount": 5,
+    "canonicalBookNumber": 57,
+    "testament": "NT"
+  },
+  "questions": [
+    {
+      "questionId": "phlm_001",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "Unto whom is this epistle written by Paul in Philemon 1:1?",
+      "bibleReference": "Philemon 1:1",
+      "correctAnswers": [
+        1
+      ],
+      "options": [
+        {
+          "text": "Unto Archippus our fellowsoldier in the ministry",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto Philemon dearly beloved, and fellowlabourer",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Unto Epaphras, our fellowprisoner in the bonds",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Unto Tychicus, our beloved brother and minister",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "phlm_002",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "In what relation was Onesimus to Philemon before he departed (Philemon 1:11-16)?",
+      "bibleReference": "Philemon 1:11-16",
+      "correctAnswers": [
+        2
+      ],
+      "options": [
+        {
+          "text": "He was a faithful steward over all his earthly estate",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He was a natural kinsman dwelling at the city Colosse",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He was a servant unto Philemon, in time past unprofitable",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He was a foreign merchant that traded with him in goods",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The name Onesimus signifies 'profitable' or 'useful'. Paul plays upon this in Philemon 1:11: which in time past was to thee unprofitable, but now profitable to thee and to me.",
+      "explanationReviewed": true
+    },
+    {
+      "questionId": "phlm_003",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "How does Paul describe Onesimus in Philemon 1:10?",
+      "bibleReference": "Philemon 1:10",
+      "correctAnswers": [
+        3
+      ],
+      "options": [
+        {
+          "text": "His fellowtraveller whom he took upon all journeys",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "His scholar whom he instructed in holy scriptures",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "His messenger whom he sent unto all churches abroad",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "His son Onesimus, whom he had begotten in his bonds",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "phlm_004",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "How should Philemon receive Onesimus according to Philemon 1:16?",
+      "bibleReference": "Philemon 1:16-17",
+      "correctAnswers": [
+        0
+      ],
+      "options": [
+        {
+          "text": "Not now as a servant, but above a servant, a brother beloved",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Not now as a servant, but as a stranger and hired labourer",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Not now as a servant, but as an overseer in the assembly",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Not now as a servant, but as a debtor bound unto Caesar",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "phlm_005",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What does Paul offer if Onesimus hath wronged Philemon (Philemon 1:18-19)?",
+      "bibleReference": "Philemon 1:18-19",
+      "correctAnswers": [
+        1
+      ],
+      "options": [
+        {
+          "text": "Onesimus must labour many years until all debt be discharged",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Put that on Paul's account, and Paul will repay it himself",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "The whole assembly must gather silver to repay the balance",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Philemon must forgive the entire loss without satisfaction",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    }
+  ]
+}

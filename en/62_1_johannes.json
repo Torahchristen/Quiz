@@ -1,0 +1,877 @@
+{
+  "metadata": {
+    "quizId": "nt_23_1johannes_alle_kapitel_en",
+    "title": "1 John",
+    "subtitle": "1 John 1:1 – 5:21 (25 questions)",
+    "author": "King James Version (1769)",
+    "version": "2.3.0",
+    "language": "en",
+    "category": "nt",
+    "difficulty": "medium",
+    "tags": [
+      "1 John",
+      "New Testament",
+      "General Epistles",
+      "Light",
+      "Love",
+      "Fellowship",
+      "Commandments",
+      "King James Version"
+    ],
+    "questionCount": 25,
+    "canonicalBookNumber": 62,
+    "testament": "NT"
+  },
+  "questions": [
+    {
+      "questionId": "1joh_001",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What do the apostles declare concerning the Word of life (1 John 1:1)?",
+      "bibleReference": "1 John 1:1-3",
+      "correctAnswers": [
+        1
+      ],
+      "options": [
+        {
+          "text": "That which was recorded in secret rolls of temple",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That which was from the beginning, heard and seen",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "That which holy angels revealed in visions of night",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That which ancient scribes taught out of the law",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1joh_002",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What message declare we concerning God in 1 John 1:5?",
+      "bibleReference": "1 John 1:5",
+      "correctAnswers": [
+        2
+      ],
+      "options": [
+        {
+          "text": "God is distant spirit dwelling far from earth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "God is severe power judging without any mercy",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "God is light, and in him is no darkness at all",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "God is outward statute requiring bloody gifts",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1joh_003",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What doth the blood of Jesus Christ his Son work (1 John 1:7)?",
+      "bibleReference": "1 John 1:7",
+      "correctAnswers": [
+        3
+      ],
+      "options": [
+        {
+          "text": "It bringeth great temporal riches on earth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It protecteth our bodies from all diseases",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It bestoweth worldly wisdom for disputings",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "It cleanseth us from all sin before the Lord",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1joh_004",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What is said if we say that we have no sin (1 John 1:8)?",
+      "bibleReference": "1 John 1:8",
+      "correctAnswers": [
+        0
+      ],
+      "options": [
+        {
+          "text": "We deceive ourselves, and the truth is not in us",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "We attain perfection and are accepted of the Lord",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "We are accounted blameless ensamples by the elders",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "We receive all promises without any confession made",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1joh_005",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What will God do if we confess our sins according to 1 John 1:9?",
+      "bibleReference": "1 John 1:9",
+      "correctAnswers": [
+        1
+      ],
+      "options": [
+        {
+          "text": "He punisheth us with severe chastisement until debt be fully paid",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He is faithful and just to forgive us our sins, and cleanse us",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He demandeth a costly sacrifice in temple ere pardon be granted",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He remaineth silent in wrath, leaving men unto earthly magistrates",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1joh_006",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Whom have we as an advocate with the Father (1 John 2:1)?",
+      "bibleReference": "1 John 2:1-2",
+      "correctAnswers": [
+        2
+      ],
+      "options": [
+        {
+          "text": "Peter the apostle as overseer of flock",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Gabriel the angel standing before throne",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Jesus Christ the righteous, with Father",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Moses the prophet as covenant mediator",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1joh_007",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Whereby do we know that we know him according to 1 John 2:3?",
+      "bibleReference": "1 John 2:3-4",
+      "correctAnswers": [
+        3
+      ],
+      "options": [
+        {
+          "text": "If we commit all ancient books unto memory",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "If we obtain worldly possession and renown",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "If we remain wholly free from temptation",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "If we keep his holy commandments in truth",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1joh_008",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "Where is he that hateth his brother according to 1 John 2:11?",
+      "bibleReference": "1 John 2:9-11",
+      "correctAnswers": [
+        0
+      ],
+      "options": [
+        {
+          "text": "He is in darkness, and walketh in darkness",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He remaineth in light, rejoicing in grace",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He loseth joy for a time yet hath no sin",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He committeth a pardonable error of mind",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1joh_009",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What in the world is not of the Father in 1 John 2:16?",
+      "bibleReference": "1 John 2:15-16",
+      "correctAnswers": [
+        1
+      ],
+      "options": [
+        {
+          "text": "Brotherly kindness, upright truth, and meekness of heart",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The lust of the flesh, lust of the eyes, and pride of life",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Continual prayer, humble fasting, and praises of the saints",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Lowly humility, patience in trial, and sincere godliness",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1joh_010",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Who is antichrist according to 1 John 2:22?",
+      "bibleReference": "1 John 2:22-23",
+      "correctAnswers": [
+        2
+      ],
+      "options": [
+        {
+          "text": "He that refuseth to give alms and bread unto the poor",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He that disobeyeth the decrees of earthly magistrates",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He that denieth that Jesus is the Christ, and the Son",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He that faileth to attend religious feasts in Jerusalem",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1joh_011",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What should we be called by love of Father in 1 John 3:1?",
+      "bibleReference": "1 John 3:1",
+      "correctAnswers": [
+        3
+      ],
+      "options": [
+        {
+          "text": "Citizens of Rome",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Judges of nations",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Priests in temple",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "The sons of God",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1joh_012",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What is sin according to 1 John 3:4?",
+      "bibleReference": "1 John 3:4",
+      "correctAnswers": [
+        0
+      ],
+      "options": [
+        {
+          "text": "Sin is the transgression of the law",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Sin is a simple human misconception",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Sin is ignorance of worldly manners",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Sin is harmless mortal infirmity",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1joh_013",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "For what purpose was the Son of God manifested (1 John 3:8)?",
+      "bibleReference": "1 John 3:8",
+      "correctAnswers": [
+        1
+      ],
+      "options": [
+        {
+          "text": "That he might erect a temporal palace on earth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That he might destroy the works of the devil",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "That he might teach the philosophy of the Greeks",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That he might gather taxes for temple treasury",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1joh_014",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What is whosoever hateth his brother in 1 John 3:15?",
+      "bibleReference": "1 John 3:15",
+      "correctAnswers": [
+        2
+      ],
+      "options": [
+        {
+          "text": "He is merely ignorant, needing correction from the elder",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He remaineth in light while reciting formulas of faith",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He is a murderer, and no murderer hath eternal life in him",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He payeth a small fine to church and is restored to peace",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1joh_015",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "How should we love one another according to 1 John 3:18?",
+      "bibleReference": "1 John 3:18",
+      "correctAnswers": [
+        3
+      ],
+      "options": [
+        {
+          "text": "With flattering speeches pleasing unto others",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Only when others render abundant recompense",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Only upon holy feast days appointed in year",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Not in word, neither tongue; but deed and truth",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1joh_016",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Whereby know ye the Spirit of God according to 1 John 4:2?",
+      "bibleReference": "1 John 4:1-3",
+      "correctAnswers": [
+        0
+      ],
+      "options": [
+        {
+          "text": "He confesseth that Jesus Christ is come in the flesh",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He demandeth observance of all ancient ritual statutes",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He promiseth great abundance of worldly possessions here",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He preacheth philosophical doctrines taught by Greeks",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1joh_017",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Why have believers overcome them in 1 John 4:4?",
+      "bibleReference": "1 John 4:4",
+      "correctAnswers": [
+        1
+      ],
+      "options": [
+        {
+          "text": "Because they are stronger than the rulers of earth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because greater is he in you than he in the world",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Because they diligently studied all ancient books",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Because they withdrew into the solitary desert places",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1joh_018",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What declaration is made concerning God in 1 John 4:8?",
+      "bibleReference": "1 John 4:8",
+      "correctAnswers": [
+        2
+      ],
+      "options": [
+        {
+          "text": "God is a distant ruler of cosmos",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "God is a severe unyielding judge",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "For God is love unto all mankind",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "God is an unknown fate of worlds",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1joh_019",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "Wherein is love according to 1 John 4:10?",
+      "bibleReference": "1 John 4:10",
+      "correctAnswers": [
+        3
+      ],
+      "options": [
+        {
+          "text": "That we first loved God with all our heart, and he therefore heard us",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That we kept all statutes blamelessly and earned divine approval",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That we brought many oblations to temple and won heavenly peace",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "That he loved us, and sent his Son to be the propitiation",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1joh_020",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What doth perfect love do according to 1 John 4:18?",
+      "bibleReference": "1 John 4:18",
+      "correctAnswers": [
+        0
+      ],
+      "options": [
+        {
+          "text": "Perfect love casteth out fear from soul",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Perfect love increaseth terror of heart",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Perfect love tolerateth fear in silence",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Perfect love yieldeth unto mortal dread",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1joh_021",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Who is born of God according to 1 John 5:1?",
+      "bibleReference": "1 John 5:1",
+      "correctAnswers": [
+        1
+      ],
+      "options": [
+        {
+          "text": "Whosoever readeth all ancient books of law",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Whosoever believeth that Jesus is the Christ",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Whosoever descendeth from family of Aaron",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Whosoever giveth rich offerings to priests",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1joh_022",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "text": "What is said of his commandments in 1 John 5:3?",
+      "bibleReference": "1 John 5:3",
+      "correctAnswers": [
+        2
+      ],
+      "options": [
+        {
+          "text": "His commandments are an intolerable yoke",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "His commandments apply only to ancients",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "His commandments are not grievous to us",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "His commandments exceed all human laws",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1joh_023",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "What is the victory that overcometh the world (1 John 5:4)?",
+      "bibleReference": "1 John 5:4",
+      "correctAnswers": [
+        3
+      ],
+      "options": [
+        {
+          "text": "Mighty armies in battle",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Abundant gold and silver",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Flight into wilderness",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Even our faith in God",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1joh_024",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "text": "What is the confidence that we have in him (1 John 5:14)?",
+      "bibleReference": "1 John 5:14-15",
+      "correctAnswers": [
+        0
+      ],
+      "options": [
+        {
+          "text": "If we ask any thing according to his will, he heareth us",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "He granteth every carnal request without regard to truth",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He heareth only the formal petitions made by the priests",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "He hearkeneth only upon the annual solemn feast of days",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    },
+    {
+      "questionId": "1joh_025",
+      "type": "single_choice",
+      "difficulty": "easy",
+      "text": "Against what doth John warn the little children in 1 John 5:21?",
+      "bibleReference": "1 John 5:21",
+      "correctAnswers": [
+        1
+      ],
+      "options": [
+        {
+          "text": "Keep yourselves from persecutions",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Keep yourselves from idols",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "text": "Keep yourselves from poverty of life",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "text": "Keep yourselves from strange teachers",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationReviewed": false
+    }
+  ]
+}

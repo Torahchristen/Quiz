@@ -1,0 +1,565 @@
+{
+  "metadata": {
+    "quizId": "bibel_35_habakuk_en",
+    "title": "Habakkuk",
+    "subtitle": "Habakkuk 1:1 – 3:19 (18 questions)",
+    "author": "King James Version (1769)",
+    "version": "2.3.0",
+    "category": "prophets",
+    "difficulty": "medium",
+    "tags": [
+      "Habakkuk",
+      "OT",
+      "prophets",
+      "King James Version"
+    ],
+    "questionCount": 18,
+    "canonicalBookNumber": 35,
+    "testament": "OT",
+    "language": "en"
+  },
+  "questions": [
+    {
+      "questionId": "hab_001",
+      "type": "single_choice",
+      "text": "How does Habakkuk begin his complaint (Habakkuk 1:2)?",
+      "options": [
+        {
+          "text": "O LORD, why hast thou forsaken me, and wherefore hidest thou thyself?",
+          "explanation": ""
+        },
+        {
+          "text": "O LORD, how long shall I cry, and thou wilt not hear unto my prayer?",
+          "explanation": ""
+        },
+        {
+          "text": "O LORD, wherefore doth thine anger burn, and why dost thou not save us?",
+          "explanation": ""
+        },
+        {
+          "text": "O LORD, send now a deliverer to break the heavy yoke of the heathen!",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Habakkuk 1:2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hab_002",
+      "type": "single_choice",
+      "text": "Whom does the LORD raise up according to Habakkuk 1:6?",
+      "options": [
+        {
+          "text": "The Assyrians, a cruel and warlike nation",
+          "explanation": ""
+        },
+        {
+          "text": "The Egyptians, a strong and mighty nation",
+          "explanation": ""
+        },
+        {
+          "text": "The Chaldeans, that bitter and hasty nation",
+          "explanation": ""
+        },
+        {
+          "text": "The Persians, a fierce and renowned nation",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Habakkuk 1:6",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hab_003",
+      "type": "single_choice",
+      "text": "What question does Habakkuk ask in Habakkuk 1:13?",
+      "options": [
+        {
+          "text": "Wherefore hast thou called me, and wherefore dost thou hide thy face from us?",
+          "explanation": ""
+        },
+        {
+          "text": "Wherefore dost thou smite thy chosen people, and why dost thou not deliver us?",
+          "explanation": ""
+        },
+        {
+          "text": "Wherefore dost thou suffer the heathen to come, and wilt not defend thy land?",
+          "explanation": ""
+        },
+        {
+          "text": "Wherefore lookest thou upon them that deal treacherously, and holdest thy tongue?",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Habakkuk 1:13",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hab_004",
+      "type": "single_choice",
+      "text": "How does Habakkuk await the answer of the LORD according to Habakkuk 2:1?",
+      "options": [
+        {
+          "text": "He stands upon his watch and sets him upon the tower to see what will be said unto him",
+          "explanation": ""
+        },
+        {
+          "text": "He departs into the solitary wilderness and there prays for an answer of the LORD",
+          "explanation": ""
+        },
+        {
+          "text": "He goes into the holy temple and there waits patiently until God shall answer him",
+          "explanation": ""
+        },
+        {
+          "text": "He asks the priests and elders and waits quietly to hear what they shall tell him",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Habakkuk 2:1",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hab_005",
+      "type": "single_choice",
+      "text": "What principle is stated in Habakkuk 2:4?",
+      "options": [
+        {
+          "text": "The just shall prevail by his strength",
+          "explanation": ""
+        },
+        {
+          "text": "The just shall live by his faith",
+          "explanation": ""
+        },
+        {
+          "text": "The just shall rest in quiet peace",
+          "explanation": ""
+        },
+        {
+          "text": "The just shall reap what he sowed",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Habakkuk 2:4",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hab_006",
+      "type": "single_choice",
+      "text": "With what words does Habakkuk 2 conclude the woes (Habakkuk 2:20)?",
+      "options": [
+        {
+          "text": "The LORD judgeth all idols; let all the earth keep silence before him",
+          "explanation": ""
+        },
+        {
+          "text": "The LORD is King on mount Zion; let all the earth keep silence before him",
+          "explanation": ""
+        },
+        {
+          "text": "The LORD is in his holy temple; let all the earth keep silence before him",
+          "explanation": ""
+        },
+        {
+          "text": "The LORD hath created all things; let all the earth keep silence before him",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Habakkuk 2:20",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hab_007",
+      "type": "single_choice",
+      "text": "What does Habakkuk plead in Habakkuk 3:2?",
+      "options": [
+        {
+          "text": "O LORD, send us rain in the land; when famine cometh, remember us in mercy",
+          "explanation": ""
+        },
+        {
+          "text": "O LORD, destroy the enemy in the midst of the years; when trouble is near, judge",
+          "explanation": ""
+        },
+        {
+          "text": "O LORD, grant us a righteous king; when contention ariseth, establish peace",
+          "explanation": ""
+        },
+        {
+          "text": "O LORD, revive thy work in the midst of the years; in wrath remember mercy",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Habakkuk 3:2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hab_008",
+      "type": "single_choice",
+      "text": "How does Habakkuk 3:3 describe the coming of God?",
+      "options": [
+        {
+          "text": "God came from Teman and the Holy One from mount Paran; his glory covered the heavens",
+          "explanation": ""
+        },
+        {
+          "text": "God came in a thick cloud from Sinai; the whole earth trembled before his great glory",
+          "explanation": ""
+        },
+        {
+          "text": "God came from mount Zion and the hills of Seir; the whole earth was moved at his word",
+          "explanation": ""
+        },
+        {
+          "text": "God came from the sea in brightness of fire; the heavens were filled with his splendour",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Habakkuk 3:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "hab_009",
+      "type": "single_choice",
+      "text": "With what confession does Habakkuk conclude (Habakkuk 3:17-18)?",
+      "options": [
+        {
+          "text": "Although I suffer affliction, yet will I wait in silence for salvation",
+          "explanation": ""
+        },
+        {
+          "text": "Although the fig tree shall not blossom, yet I will rejoice in the LORD",
+          "explanation": ""
+        },
+        {
+          "text": "Although the enemy cometh upon us, yet will I trust in the arm of flesh",
+          "explanation": ""
+        },
+        {
+          "text": "Although destruction be at hand, yet will I look unto the earthly gates",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Habakkuk 3:17-18",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hab_010",
+      "type": "single_choice",
+      "text": "To what are the horses of the Chaldeans compared in Habakkuk 1:8?",
+      "options": [
+        {
+          "text": "Swifter than the leopards and more fierce than the evening wolves",
+          "explanation": ""
+        },
+        {
+          "text": "Swifter than the harts and more fierce than the foxes of the morning",
+          "explanation": ""
+        },
+        {
+          "text": "Swifter than the eagles and more fierce than the lions of the desert",
+          "explanation": ""
+        },
+        {
+          "text": "Swifter than the arrows and more fierce than the hunters of the forest",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Habakkuk 1:8",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hab_011",
+      "type": "single_choice",
+      "text": "Unto what do the Chaldeans sacrifice according to Habakkuk 1:16?",
+      "options": [
+        {
+          "text": "Unto their swift horses and unto their chariots",
+          "explanation": ""
+        },
+        {
+          "text": "Unto their mighty kings and unto their princes",
+          "explanation": ""
+        },
+        {
+          "text": "Unto their net and burn incense unto their drag",
+          "explanation": ""
+        },
+        {
+          "text": "Unto their sharp sword and unto their bent bow",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Habakkuk 1:16",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hab_012",
+      "type": "single_choice",
+      "text": "What was Habakkuk commanded to do with the vision in Habakkuk 2:2?",
+      "options": [
+        {
+          "text": "Proclaim it unto the king that he may warn the people in time",
+          "explanation": ""
+        },
+        {
+          "text": "Seal it up and hide it in the sanctuary until the end of time",
+          "explanation": ""
+        },
+        {
+          "text": "Recite it aloud in the temple until the people turn to the LORD",
+          "explanation": ""
+        },
+        {
+          "text": "Write the vision and make it plain upon tables, that he may run",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Habakkuk 2:2",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hab_013",
+      "type": "single_choice",
+      "text": "What is said of the vision in Habakkuk 2:3, though it tarry?",
+      "options": [
+        {
+          "text": "Wait for it, because it will surely come, it will not tarry",
+          "explanation": ""
+        },
+        {
+          "text": "Doubt of it, because it is reserved only for the wise elders",
+          "explanation": ""
+        },
+        {
+          "text": "Cry it aloud, because it shall be fulfilled only by fasting",
+          "explanation": ""
+        },
+        {
+          "text": "Forget it, because it shall not come to pass for many years",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Habakkuk 2:3",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hab_014",
+      "type": "single_choice",
+      "text": "With what shall the earth be filled according to Habakkuk 2:14?",
+      "options": [
+        {
+          "text": "With the righteousness of the faithful, as the dew covereth the field",
+          "explanation": ""
+        },
+        {
+          "text": "With the knowledge of the glory of the LORD, as the waters cover the sea",
+          "explanation": ""
+        },
+        {
+          "text": "With the fear of the Almighty, as the thick clouds cover all the heavens",
+          "explanation": ""
+        },
+        {
+          "text": "With the sacrifices of the nations, as the smoke covereth the mountains",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Habakkuk 2:14",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hab_015",
+      "type": "single_choice",
+      "text": "What is said in Habakkuk 2:19 of him that saith to the wood, Awake?",
+      "options": [
+        {
+          "text": "Blessed is he, for that which is laid over with gold heareth his cry",
+          "explanation": ""
+        },
+        {
+          "text": "Woe unto him, for the wood shall awake and punish him for his wickedness",
+          "explanation": ""
+        },
+        {
+          "text": "Woe unto him, for it is laid over with gold and there is no breath in it",
+          "explanation": ""
+        },
+        {
+          "text": "Blessed is he, for that which is laid over with gold showeth God's presence",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Habakkuk 2:19",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hab_016",
+      "type": "single_choice",
+      "text": "Like what will the LORD make the prophet's feet according to Habakkuk 3:19?",
+      "options": [
+        {
+          "text": "Like lions' paws to protect him along his dangerous way",
+          "explanation": ""
+        },
+        {
+          "text": "Like horses' hoofs to carry him through the dark valley",
+          "explanation": ""
+        },
+        {
+          "text": "Like eagles' wings to bear him swiftly over all his foes",
+          "explanation": ""
+        },
+        {
+          "text": "Like hinds' feet to make him walk upon his high places",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Habakkuk 3:19",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hab_017",
+      "type": "multiple_choice",
+      "text": "Which two shortages does Habakkuk 3:17 name, despite which he will joy in the LORD?",
+      "options": [
+        {
+          "text": "There shall be no herd in the stalls",
+          "explanation": ""
+        },
+        {
+          "text": "There shall be no water in the wells",
+          "explanation": ""
+        },
+        {
+          "text": "There shall be no shepherd with the flock",
+          "explanation": ""
+        },
+        {
+          "text": "Neither shall fruit be in the vines",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0,
+        3
+      ],
+      "bibleReference": "Habakkuk 3:17",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hab_018",
+      "type": "single_choice",
+      "text": "Whose dwellings did Habakkuk see in affliction according to Habakkuk 3:7?",
+      "options": [
+        {
+          "text": "The tents of Cushan and the curtains of the land of Midian",
+          "explanation": ""
+        },
+        {
+          "text": "The tents of Ammon and the curtains of the land of the Hittites",
+          "explanation": ""
+        },
+        {
+          "text": "The tents of the Philistines and the curtains of the Amalekites",
+          "explanation": ""
+        },
+        {
+          "text": "The tents of Moab and the curtains of the land of the Edomites",
+          "explanation": ""
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Habakkuk 3:7",
+      "explanation": "",
+      "explanationReviewed": false,
+      "difficulty": "hard"
+    }
+  ],
+  "title": "The Book of Habakkuk"
+}
